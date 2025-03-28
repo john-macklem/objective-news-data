@@ -1,5 +1,49 @@
 [
   {
+    "title": "YouTube tests turning off notifications for channels you don&#8217;t watch",
+    "domain": "Tech",
+    "location": "Global",
+    "published": "2025-03-28T14:47:05-04:00",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "YouTube is conducting a test where it will disable push notifications for channels that upload frequently and for which users have set notifications to \"all\" but often ignore these alerts. This change aims to reduce notification clutter but may result in users missing updates from these channels."
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.9874874573958333,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.4568718643489583,
+    "summary": "YouTube is testing a new feature that turns off push notifications for channels that post often and are frequently ignored by users who have opted for \"all\" notifications. This is intended to decrease the amount of unnecessary alerts, though it could lead to users missing updates from these channels."
+  },
+  {
+    "title": "Google to pay $100 million to settle 14-year-old advertising lawsuit",
+    "domain": "Tech",
+    "location": "Global",
+    "published": "2025-03-28T14:18:49-04:00",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Google agreed to pay $100 million to settle a lawsuit alleging it charged advertisers for clicks on ads outside their selected geographic areas. The settlement, awaiting judicial approval, was filed in a California court."
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.9678417665740741,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.45196044164351856,
+    "summary": "Google has agreed to a $100 million settlement in a lawsuit claiming it billed advertisers for clicks on ads that appeared outside their chosen geographic areas. This agreement is pending approval from a California court."
+  },
+  {
     "title": "Helldivers 2 is locking out players who use older CPUs",
     "domain": "Tech",
     "location": "Global",
@@ -9,17 +53,17 @@
       "unknown"
     ],
     "snippets": [
-      "Players of Helldivers 2 with older CPUs have encountered issues running the game due to a requirement for AVX2 (Advanced Vector Extensions) support, a feature present in CPUs since 2013. This requirement comes from the game's developer, Arrowhead Game Studios, and publisher, Sony."
+      "Some players of Helldivers 2 are unable to play the game on older computers due to a requirement for AVX2 support, a CPU feature common since 2013. This issue is linked to specifications set by developer Arrowhead Game Studios and publisher Sony."
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.9934003359490741,
+      "recency": 0.9518518703125,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.4583500839872685,
-    "summary": "Players of the video game Helldivers 2, developed by Arrowhead Game Studios and published by Sony, are experiencing issues if they have older CPUs lacking AVX2 support. AVX2, a feature in CPUs since 2013, is necessary to run the game."
+    "score": 0.44796296757812504,
+    "summary": "Helldivers 2 players with older computers are facing issues running the game because it requires AVX2 support, a CPU feature standard since 2013. This requirement comes from the game's developer, Arrowhead Game Studios, and its publisher, Sony."
   },
   {
     "title": "Musk threatens to sic the government on people ‘pushing’ Tesla ‘propaganda’",
@@ -31,17 +75,17 @@
       "unknown"
     ],
     "snippets": [
-      "Elon Musk, during a 38-minute interview on Fox News, threatened to take action against individuals spreading negative information about Tesla, labeling it as \"propaganda.\" This statement comes amid growing protests against the company."
+      "Elon Musk, in a 38-minute interview on Fox News, threatened to \"go after\" individuals spreading negative information about Tesla, labeling it as \"propaganda.\" This statement comes amid growing protests against the company."
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.9911389977314815,
+      "recency": 0.9495923707060185,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.4577847494328704,
-    "summary": "Elon Musk, in a 38-minute Fox News interview, threatened to take action against those spreading what he considers negative \"propaganda\" about Tesla. This follows increasing protests against the company."
+    "score": 0.44739809267650466,
+    "summary": "Elon Musk, during a 38-minute interview on Fox News, warned he would \"go after\" people disseminating what he considers negative \"propaganda\" about Tesla. His comments arise amidst increasing protests against the company."
   },
   {
     "title": "First Alert’s new smart smoke alarm is meant to be a Google Nest Protect replacement",
@@ -53,17 +97,17 @@
       "unknown"
     ],
     "snippets": [
-      "First Alert has released a new series of smart smoke and carbon monoxide alarms compatible with Google Home, following Google's discontinuation of its Nest Protect smart smoke alarm. Google is now partnering with First Alert on this new product line."
+      "First Alert introduced a new series of smart smoke and carbon monoxide alarms compatible with Google Home, following Google's discontinuation of the Nest Protect smart smoke alarm. Google has partnered with First Alert for the Smart Smoke & Carbon Monoxide (CO) Alarm launch."
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.978334900462963,
+      "recency": 0.9367875227314815,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.45458372511574074,
-    "summary": "First Alert has launched a new line of smart smoke and carbon monoxide alarms that work with Google Home. This comes after Google ended its Nest Protect smart smoke alarm and has now partnered with First Alert for these products."
+    "score": 0.44419688068287033,
+    "summary": "First Alert has launched a new line of smart smoke and carbon monoxide alarms that work with Google Home. This comes after Google stopped making its Nest Protect smart smoke alarm and partnered with First Alert for this new product release."
   },
   {
     "title": "Here are the best streaming service deals available right now",
@@ -75,17 +119,17 @@
       "unknown"
     ],
     "snippets": [
-      "In 2025, there has been a notable increase in must-see TV shows and movies available on subscription services. However, managing multiple subscriptions has become costly for many viewers."
+      "In 2025, there has been a notable increase in new TV shows and movies on subscription services, highlighting an issue for many viewers: the high cost of maintaining multiple concurrent subscriptions to keep up with the latest releases."
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.9772646838078703,
+      "recency": 0.9357175931828704,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.45431617095196764,
-    "summary": "In 2025, there's a rise in popular TV shows and movies on subscription platforms, leading to higher costs for viewers due to multiple subscriptions."
+    "score": 0.44392939829571765,
+    "summary": "In 2025, there's a surge in new TV shows and movies on subscription platforms, leading to concerns over the rising costs of holding multiple subscriptions to access new content."
   },
   {
     "title": "Madison Square Garden&#8217;s surveillance system banned this fan over his T-shirt design",
@@ -97,17 +141,17 @@
       "unknown"
     ],
     "snippets": [
-      "Frank Miller was banned for life from New York's Radio City Music Hall and all associated venues, preventing him from attending a concert there on his parents' wedding anniversary. He was informed of the ban before passing security."
+      "Frank Miller was banned for life from New York's Radio City Music Hall and was unable to attend a concert there on Monday night, which he planned to see in celebration of his parents' wedding anniversary. The ban was enforced before he could pass through security."
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.961980982662037,
+      "recency": 0.9204335969444445,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.45049524566550925,
-    "summary": "Frank Miller was permanently banned from New York's Radio City Music Hall and its associated venues, preventing him from attending a concert on his parents' wedding anniversary. He learned of the ban before he could pass through security."
+    "score": 0.4401083992361111,
+    "summary": "Frank Miller was permanently banned from New York's Radio City Music Hall, preventing him from attending a concert there on Monday night. The concert was meant to celebrate his parents' wedding anniversary. The ban was applied before he could go through security."
   },
   {
     "title": "A beginner’s guide to using Signal",
@@ -119,17 +163,17 @@
       "unknown"
     ],
     "snippets": [
-      "Signal, a messaging app, gained significant attention after The Atlantic's editor-in-chief, Jeffrey Goldberg, was accidentally added to a group chat with top military officials discussing an airstrike. This incident occurred on Monday and has since brought the app into widespread public discourse."
+      "Signal, a messaging app, gained significant attention after The Atlantic's editor-in-chief, Jeffrey Goldberg, was accidentally added to a group chat with top military officials discussing an airstrike. This incident, occurring on Monday, brought the app into the spotlight."
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.954545721875,
+      "recency": 0.913002776886574,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.44863643046875,
-    "summary": "Signal, a messaging app, became widely discussed after The Atlantic's editor-in-chief, Jeffrey Goldberg, was mistakenly added to a group chat where top military officials were talking about an airstrike. This event took place on Monday and has since elevated the app's profile in public conversations."
+    "score": 0.43825069422164353,
+    "summary": "Signal, a messaging app, became notably prominent when The Atlantic's editor-in-chief, Jeffrey Goldberg, was mistakenly added to a group chat involving top military officials who were discussing an airstrike. This event took place on Monday, highlighting the app's use among high-level officials."
   },
   {
     "title": "Here’s what military planning usually looks like — and why it doesn’t include Signal",
@@ -141,17 +185,17 @@
       "unknown"
     ],
     "snippets": [
-      "The Trump administration officials, including Secretary of Defense Pete Hegseth and Vice President JD Vance, used a Signal group chat to plan a military strike on Houthi targets in Yemen, as reported by The Atlantic."
+      "Senior officials from the Trump administration, including Secretary of Defense Pete Hegseth and Vice President JD Vance, used a Signal group chat to plan a military strike on Houthi targets in Yemen, as reported by The Atlantic."
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.9498778928587963,
+      "recency": 0.9083345634837963,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.4474694732146991,
-    "summary": "Officials from the Trump administration, such as Secretary of Defense Pete Hegseth and Vice President JD Vance, utilized a Signal group chat to coordinate a military strike on Houthi targets in Yemen, according to The Atlantic."
+    "score": 0.4370836408709491,
+    "summary": "Senior Trump administration officials, such as Secretary of Defense Pete Hegseth and Vice President JD Vance, utilized a Signal group chat to coordinate a military strike against Houthi targets in Yemen, according to The Atlantic."
   },
   {
     "title": "King Arthur wants to automate your sourdough starter",
@@ -163,61 +207,17 @@
       "unknown"
     ],
     "snippets": [
-      "The Sourdough Sidekick is a new countertop appliance designed to automatically feed sourdough starters, ensuring they are ready for baking when needed. It is a product of a collaboration by FirstBuild."
+      "The Sourdough Sidekick is a new countertop appliance designed to automatically feed sourdough starters, ensuring they are ready for baking whenever needed. This device is a creation of FirstBuild, aiming to modernize the traditional process of baking sourdough bread by incorporating a novelty gadget."
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.9066678238657407,
+      "recency": 0.8651234083449074,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.43666695596643523,
-    "summary": "The Sourdough Sidekick, a collaborative creation by FirstBuild, is a new kitchen appliance designed to automatically maintain sourdough starters, keeping them fed and ready for use in baking."
-  },
-  {
-    "title": "Trump pardons ex-Nikola CEO Trevor Milton",
-    "domain": "Tech",
-    "location": "Global",
-    "published": "2025-03-28T11:39:55-04:00",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Trevor Milton, the founder of Nikola Motors, was pardoned by President Donald Trump after being convicted of defrauding investors by lying about the capabilities of his zero-emission truck company, including claims about building its own electric truck, the Nikola One."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.8988856279861112,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.43472140699652784,
-    "summary": "Trevor Milton, the founder of Nikola Motors, was pardoned by President Donald Trump. He had been convicted of defrauding investors by making false claims about his company's zero-emission trucks, specifically the Nikola One, which he said they were building."
-  },
-  {
-    "title": "Google’s Pixel 9A will launch on April 10th",
-    "domain": "Tech",
-    "location": "Global",
-    "published": "2025-03-28T11:35:29-04:00",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Google has announced the launch of the Pixel 9A in the US, Canada, and the UK on April 10th, following a delay due to a “component quality issue.” Initially expected shortly after its March 19th reveal, the budget-friendly device will also be released in the rest of Europe at a later date."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.895793735775463,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.43394843394386573,
-    "summary": "Google has announced the release of the Pixel 9A in the US, Canada, and the UK on April 10th, following a delay caused by a \"component quality issue.\" Originally planned for release shortly after its March 19th reveal, the budget-friendly smartphone will also launch in the rest of Europe at a later date."
+    "score": 0.4262808520862269,
+    "summary": "The Sourdough Sidekick, developed by FirstBuild, is a novel countertop appliance designed to automate the feeding of sourdough starters. This gadget aims to simplify the traditional sourdough bread baking process, ensuring starters are always ready for use."
   },
   {
     "title": "Trump and Carney hold first call amid ongoing trade war",
@@ -229,7 +229,7 @@
       "unknown"
     ],
     "snippets": [
-      "The US president labeled discussions with Canada as \"extremely productive\" and announced plans for a meeting between the two leaders after Canada's upcoming elections."
+      "The US president labeled discussions with Canada as \"extremely productive\" and announced plans for a meeting with the Canadian leader after Canada's upcoming elections."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -239,7 +239,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "The US president described recent talks with Canada as \"extremely productive\" and revealed intentions for a leadership meeting following Canada's forthcoming elections."
+    "summary": "The US president described recent talks with Canada as \"extremely productive\" and revealed intentions to meet with the Canadian leader following Canada's forthcoming elections."
   },
   {
     "title": "Over 140 dead in Myanmar and Thailand after huge earthquake",
@@ -261,7 +261,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "A strong earthquake hit central Myanmar, with its tremors reaching into south-west China and Thailand."
+    "summary": "A strong earthquake hit central Myanmar, with its tremors also felt in south-west China and Thailand."
   },
   {
     "title": "Moment Bangkok high-rise under construction collapses",
@@ -273,7 +273,7 @@
       "unknown"
     ],
     "snippets": [
-      "A high-rise building collapsed in Bangkok, Thailand, leading to concerns that workers may be trapped inside."
+      "A high-rise building has collapsed in Thailand's capital, leading to concerns that workers may be trapped inside."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -283,7 +283,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "A high-rise building in Bangkok, Thailand, has collapsed, raising concerns about the possibility of workers being trapped within the debris."
+    "summary": "A high-rise building has collapsed in Bangkok, Thailand, raising fears of trapped workers."
   },
   {
     "title": "Israel conducts first strike on Beirut since Hezbollah ceasefire",
@@ -295,7 +295,7 @@
       "unknown"
     ],
     "snippets": [
-      "Israel conducted a strike on a Hezbollah site, following the launch of two rockets from southern Lebanon towards northern Israel. The events unfolded within hours of each other."
+      "Israel conducted a strike on a Hezbollah site, following the launch of two rockets from southern Lebanon towards northern Israel. This military action took place hours after the rocket attack."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -305,7 +305,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "Israel carried out a strike on a Hezbollah location after two rockets were fired from southern Lebanon into northern Israel. The incidents occurred in close succession."
+    "summary": "Israel launched a strike on a Hezbollah site in response to two rockets fired from southern Lebanon towards northern Israel. The military action occurred hours after the initial rocket attack."
   },
   {
     "title": "'Then, the phone rang': BBC's Mark Lowen on being deported from Turkey",
@@ -317,7 +317,7 @@
       "unknown"
     ],
     "snippets": [
-      "A BBC correspondent was deported from Turkey following their coverage of mass protests happening in the country."
+      "A BBC correspondent was deported from Turkey after reporting on mass protests happening in the country."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -327,7 +327,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "A BBC correspondent was expelled from Turkey after reporting on widespread protests occurring across the nation."
+    "summary": "A BBC correspondent was deported from Turkey following their coverage of widespread protests in the nation."
   },
   {
     "title": "Dua Lipa wins copyright case over Levitating",
@@ -339,7 +339,7 @@
       "unknown"
     ],
     "snippets": [
-      "A pop star faced accusations of copying the 1979 disco song \"Wiggle and Giggle All Night,\" sparking controversy over potential plagiarism."
+      "A pop star faced accusations of copying the 1979 disco track \"Wiggle and Giggle All Night\" in their music."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -349,7 +349,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "A pop star has been accused of plagiarizing the 1979 disco hit \"Wiggle and Giggle All Night,\" leading to a controversy surrounding the originality of their work."
+    "summary": "A pop star has been accused of plagiarizing the 1979 disco song \"Wiggle and Giggle All Night\" in their own music."
   },
   {
     "title": "Prominent Jewish figures boycott Israel antisemitism event over far-right guests",
@@ -361,7 +361,7 @@
       "unknown"
     ],
     "snippets": [
-      "Several key leaders did not attend a recent event due to the participation of far-right European politicians."
+      "Several key leaders did not attend an event due to the participation of far-right European politicians."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -383,7 +383,7 @@
       "unknown"
     ],
     "snippets": [
-      "A recent action is being interpreted as an effort to question the validity of the existing government in Kyiv."
+      "The action is interpreted as an effort to dispute the legitimacy of the existing government in Kyiv."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -393,7 +393,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "A recent move is seen as an attempt to challenge the legitimacy of the current government in Kyiv."
+    "summary": "The action is seen as an attempt to challenge the legitimacy of the current government in Kyiv."
   },
   {
     "title": "Under-fire Zimbabwe president names new army chief",
@@ -405,7 +405,7 @@
       "unknown"
     ],
     "snippets": [
-      "A group of war veterans has planned protests calling for the resignation of Emmerson Mnangagwa."
+      "War veterans in Zimbabwe are planning protests demanding the resignation of President Emmerson Mnangagwa."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -415,7 +415,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "A group of war veterans has organized protests demanding the resignation of Zimbabwe's President, Emmerson Mnangagwa."
+    "summary": "War veterans in Zimbabwe are organizing protests to call for the resignation of President Emmerson Mnangagwa."
   },
   {
     "title": "Vance to purge museums of 'anti-American ideology'",
@@ -437,7 +437,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "Donald Trump has issued an order instructing his vice-president to prioritize the Smithsonian Institution's museums."
+    "summary": "Donald Trump has issued an order instructing his vice-president to concentrate efforts on the Smithsonian Institution's museums."
   },
   {
     "title": "Crew questioned after Red Sea submarine sinks killing six",
@@ -449,7 +449,7 @@
       "unknown"
     ],
     "snippets": [
-      "Two children are among the deceased in a recent incident, although further details about the victims have not been disclosed."
+      "Two children are among the deceased in a recent incident, though further details about the victims have not been disclosed."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -459,7 +459,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "Two children were among those who died in a recent incident, but additional information about the victims has not been made available."
+    "summary": "Two children have died in a recent incident. Additional details about the victims have not been released."
   },
   {
     "title": "Venezuelans deported to mega-prison 'trapped in black hole'",
@@ -471,7 +471,7 @@
       "unknown"
     ],
     "snippets": [
-      "Gertrudis Pineda reported to the BBC that she has not received any information regarding her son, who was transferred from the US to a prison in El Salvador."
+      "Gertrudis Pineda reported to the BBC that she lacks any information regarding her son, who was transferred from the US to a detention facility in El Salvador."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -481,7 +481,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "Gertrudis Pineda told the BBC that she lacks any information about her son since his transfer from the US to a Salvadoran prison."
+    "summary": "Gertrudis Pineda told the BBC she has no information about her son since he was moved from the US to a detention center in El Salvador."
   },
   {
     "title": "Australia to hold federal election on 3 May",
@@ -515,7 +515,7 @@
       "unknown"
     ],
     "snippets": [
-      "The music icon was murdered by the founder of her fan club. The perpetrator's initial request for parole in Texas has been rejected."
+      "A music icon was fatally shot by the founder of her fan club. The perpetrator's initial request for parole was denied in Texas."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -525,7 +525,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "A music icon was killed by the founder of her fan club. The killer's first parole request in Texas was denied."
+    "summary": "A music icon was killed by the founder of her fan club, who has had her first request for parole denied in Texas."
   },
   {
     "title": "Officer spared jail over fatal Tasering of 95-year-old",
@@ -537,7 +537,7 @@
       "unknown"
     ],
     "snippets": [
-      "A former police officer was convicted of manslaughter for causing the death of Clare Nowland."
+      "A former police officer has been convicted of manslaughter in connection with the death of Clare Nowland."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -547,29 +547,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "A former police officer has been found guilty of manslaughter in the death of Clare Nowland."
-  },
-  {
-    "title": "N Korea's Kim inspects test of 'AI suicide attack drones'",
-    "domain": "General",
-    "location": "Global",
-    "published": "Thu, 27 Mar 2025 18:12:29 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The technology's development was reportedly aided by Russia, according to analysts."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "summary": "The technology was developed with assistance from Russia, as reported by analysts."
+    "summary": "A former police officer was found guilty of manslaughter for causing the death of Clare Nowland."
   },
   {
     "title": "Five people injured in stabbing in Amsterdam, police say",
@@ -581,7 +559,7 @@
       "unknown"
     ],
     "snippets": [
-      "A suspect was arrested following police intervention, aided by a local resident who helped overpower the individual."
+      "A suspect has been arrested with assistance from a local resident, according to police reports."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -591,7 +569,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "A suspect was apprehended after a local resident assisted police in subduing the individual during a police operation."
+    "summary": "A suspect was arrested with help from a local resident, as reported by police."
   },
   {
     "title": "Rosenberg: Putin nods to Trump plans to seize Greenland",
@@ -603,7 +581,7 @@
       "unknown"
     ],
     "snippets": [
-      "During a speech in the Arctic, the President of Russia commented on Donald Trump's plans, describing them as \"serious.\" However, he clarified that these plans have no connection to Moscow."
+      "In the Arctic, Russia's President commented on Donald Trump's plans, describing them as \"serious\" but clarified that they have no connection to Moscow."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -613,7 +591,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "In an Arctic speech, the President of Russia referred to Donald Trump's plans as \"serious\" but emphasized they have no links to Moscow."
+    "summary": "Russia's President described Donald Trump's Arctic plans as \"serious\" and clarified they are not linked to Moscow."
   },
   {
     "title": "Major earthquake adds to war-torn Myanmar's troubles",
@@ -625,7 +603,7 @@
       "unknown"
     ],
     "snippets": [
-      "A recent earthquake has struck amid challenges of civil war, food shortages, and a deteriorating economy, adding to the existing hardships."
+      "A quake struck a region already facing challenges including a civil war, food shortages, and a weakening economy."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -635,7 +613,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "A recent earthquake has hit a region already facing civil war, food shortages, and economic decline, worsening the ongoing difficulties."
+    "summary": "A region already dealing with a civil war, food shortages, and a weakening economy was hit by an earthquake."
   },
   {
     "title": "'Like a ruined city': Myanmar earthquake survivors describe horror",
@@ -647,7 +625,7 @@
       "unknown"
     ],
     "snippets": [
-      "A 7.7-magnitude earthquake hit Mandalay, described by a local resident as a \"scene of a tragedy,\" according to the BBC."
+      "A 7.7-magnitude earthquake hit Mandalay, with a local describing the situation to the BBC as a \"scene of a tragedy.\""
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -657,7 +635,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "A 7.7-magnitude earthquake struck near Mandalay, causing significant damage. Local residents describe the situation as tragic, with the BBC reporting on the event."
+    "summary": "A 7.7-magnitude earthquake struck Mandalay, causing significant distress. A local described the aftermath to the BBC as a \"scene of a tragedy,\" indicating widespread damage and impact."
   },
   {
     "title": "Chappell Roan: 'There's a new path for girls breaking the rules'",
@@ -669,7 +647,7 @@
       "unknown"
     ],
     "snippets": [
-      "The Giver singer discussed her boldness in the music industry, crediting inspiration from artists Charli XCX and Sabrina Carpenter."
+      "The Giver singer expressed her admiration for Charli XCX and Sabrina Carpenter, citing them as inspirations for her fearlessness in her music career."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -679,7 +657,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "The Giver singer credited her bold approach in the music industry to the inspiration she received from artists Charli XCX and Sabrina Carpenter."
+    "summary": "The singer from The Giver praised Charli XCX and Sabrina Carpenter, highlighting them as major influences for her own courage in pursuing a music career."
   },
   {
     "title": "Albanese faces headwinds ahead of Australian election",
@@ -691,7 +669,7 @@
       "unknown"
     ],
     "snippets": [
-      "A combination of international and national factors is challenging the government's efforts to secure a second term in office."
+      "A mix of international and national issues has made it challenging for the government to secure a second term in office."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -701,7 +679,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "The government's bid for re-election is facing obstacles due to a mix of global and domestic issues."
+    "summary": "The government is facing difficulties in securing a second term due to a combination of international and domestic challenges."
   },
   {
     "title": "Affluent India's love for 'fur babies' fuels pet care industry boom",
@@ -713,7 +691,7 @@
       "unknown"
     ],
     "snippets": [
-      "The pet care sector in India is experiencing growth due to affluent, urban Indians increasingly spending on their dogs and cats."
+      "The pet care sector in India is expanding due to affluent, urban Indians increasingly investing in the care of their dogs and cats."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -723,7 +701,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "The pet care sector in India is growing as more urban and affluent Indians are spending more on their pets, particularly dogs and cats."
+    "summary": "The pet care sector in India is experiencing growth as more affluent, urban residents are spending on their pets' care, particularly for dogs and cats."
   },
   {
     "title": "Superfans and spiderman: Africa's top shots",
@@ -735,7 +713,7 @@
       "unknown"
     ],
     "snippets": [
-      "This week's collection of standout photographs showcases a diverse range of moments from across Africa and beyond. The selection highlights the continent's rich cultural, social, and natural landscapes through powerful imagery."
+      "This week's collection of the best photos from Africa and beyond showcases a diverse range of subjects, capturing moments of beauty, daily life, and significant events across the continent."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -745,19 +723,19 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "This week's collection of photographs highlights diverse moments across Africa, showcasing the continent's rich cultural, social, and natural landscapes through powerful imagery."
+    "summary": "This week's top photos from Africa and global regions highlight a variety of subjects, including stunning scenes, everyday life, and notable events, showcasing the continent's diversity."
   },
   {
-    "title": "A genetic tree as a movie: Moving beyond the still portrait of ancestry",
-    "domain": "Science",
+    "title": "Can Vietnam golf its way out of new Trump tariffs?",
+    "domain": "General",
     "location": "Global",
-    "published": "Thu, 27 Mar 2025 16:46:06 EDT",
+    "published": "Thu, 27 Mar 2025 23:13:58 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Researchers have developed a statistical method that allows individuals to view their family tree in a dynamic movie format, showcasing the global movements of their ancestors over time. This innovative approach can also be applied to track the spread of diseases and analyze animal migration patterns across different geographic areas."
+      "Vietnam's Prime Minister expressed willingness to spend the entire day playing golf with the US president if it would serve his country's interests."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -767,151 +745,63 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "summary": "Researchers have created a new statistical method that transforms family trees into dynamic movies, illustrating the global movements of ancestors over time. This method can also track disease spread and analyze animal migration patterns across various regions."
+    "summary": "Vietnam's Prime Minister stated he is open to spending a whole day playing golf with the US president if it benefits his nation, highlighting his commitment to fostering stronger ties with the United States."
   },
   {
-    "title": "Melting ice, more rain drive Southern Ocean cooling",
-    "domain": "Science",
-    "location": "Global",
-    "published": "Thu, 27 Mar 2025 16:45:34 EDT",
+    "title": "Prime Deal: Sanders lands $54M ext. at Colorado",
+    "domain": "Sports",
+    "location": "National",
+    "published": "Fri, 28 Mar 2025 14:43:48 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Researchers have discovered that 60% of the discrepancy between predicted and actual ocean temperatures around Antarctica over several decades is due to increased meltwater and rain."
+      "Deion Sanders and Colorado have finalized a five-year contract extension worth $54 million, as confirmed by a contract copy ESPN obtained on Friday."
     ],
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
-      "proximity": 0.6,
+      "proximity": 0.3,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.33499999999999996,
-    "summary": "Researchers found that increased meltwater and rain account for 60% of the unexpected difference in predicted versus actual ocean temperatures around Antarctica over many years."
+    "score": 0.275,
+    "summary": "Deion Sanders and Colorado have agreed on a five-year contract extension, valued at $54 million, according to a contract copy obtained by ESPN."
   },
   {
-    "title": "Long COVID patients feel pressure to prove their illness is real, study finds",
-    "domain": "Science",
-    "location": "Global",
-    "published": "Thu, 27 Mar 2025 14:19:59 EDT",
+    "title": "Bueckers confirms to Lobo she'll enter WNBA draft",
+    "domain": "Sports",
+    "location": "National",
+    "published": "Fri, 28 Mar 2025 14:43:48 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "A new study reveals that individuals suffering from Long COVID frequently experience feelings of dismissal, disbelief, and a lack of support from their healthcare providers."
+      "Paige Bueckers, a standout basketball player from the University of Connecticut (UConn), has announced her decision to enter the WNBA draft."
     ],
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
-      "proximity": 0.6,
+      "proximity": 0.3,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.33499999999999996,
-    "summary": "A recent study has found that people with Long COVID often feel ignored, doubted, and unsupported by their healthcare providers."
-  },
-  {
-    "title": "Cartilage and bone development: Three paths to skeleton formation",
-    "domain": "Science",
-    "location": "Global",
-    "published": "Thu, 27 Mar 2025 14:17:22 EDT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Researchers have found that in vertebrates, skeletal cells from various body regions originate from different precursor cells and have distinct gene regulation. This discovery could explain vertebrates' evolutionary success by showing how skeletal diversity is genetically programmed."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "summary": "Researchers discovered that vertebrates' skeletal cells come from various precursor cells and have unique gene regulation, depending on their body region. This finding suggests that genetic programming for skeletal diversity may contribute to vertebrates' evolutionary success."
-  },
-  {
-    "title": "Terahertz imaging: Breakthrough in non-invasive cochlear visualization",
-    "domain": "Science",
-    "location": "Global",
-    "published": "Thu, 27 Mar 2025 14:15:48 EDT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Researchers have developed a non-invasive method using terahertz (THz) imaging to visualize the cochlear structures in mice, enabling high-resolution diagnostics. This technology allows for 3D reconstructions of the inner ear, potentially improving the diagnosis of hearing loss and other conditions. The advancement could lead to the creation of miniaturized THz imaging devices, enhancing diagnostic speed, accuracy, and patient outcomes in various medical fields, including hearing loss and cancer."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "summary": "Researchers have created a non-invasive technique using terahertz imaging to visualize mouse cochlear structures, offering high-resolution diagnostics. This method enables 3D inner ear reconstructions, potentially improving hearing loss diagnosis. The technology may lead to smaller THz imaging devices, increasing diagnostic speed and accuracy in medical fields like hearing loss and cancer."
-  },
-  {
-    "title": "We must not ignore eugenics in our genetics curriculum, says professor",
-    "domain": "Science",
-    "location": "Global",
-    "published": "Thu, 27 Mar 2025 14:14:21 EDT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Biology professor Mark Peifer from the University of North Carolina at Chapel Hill advocates for the inclusion of eugenics in college genetics curriculums. He believes this will help scientists counteract the misuse of science for political purposes by encouraging them to speak up."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "summary": "Mark Peifer, a biology professor at the University of North Carolina at Chapel Hill, recommends adding eugenics to college genetics courses. He argues this will prepare scientists to address and oppose the political misuse of scientific concepts."
-  },
-  {
-    "title": "Park entrances may be hotspots for infective dog roundworm eggs",
-    "domain": "Science",
-    "location": "Global",
-    "published": "Thu, 27 Mar 2025 14:13:59 EDT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Soil samples from twelve parks in Dublin, Ireland, revealed that park entrances had higher levels of infective roundworm eggs compared to other areas within the parks."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "summary": "Soil samples from twelve parks in Dublin, Ireland, showed that the entrances of these parks contain higher levels of infective roundworm eggs than other areas inside the parks."
+    "score": 0.275,
+    "summary": "Paige Bueckers, a prominent basketball player from the University of Connecticut (UConn), has declared her intention to join the WNBA draft."
   },
   {
     "title": "Jenkins fired as Grizzlies coach after six seasons",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 13:53:03 EST",
+    "published": "Fri, 28 Mar 2025 14:43:48 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Taylor Jenkins has been dismissed from his position as the coach of the Memphis Grizzlies, who are presently ranked fifth in the Western Conference."
+      "Taylor Jenkins has been dismissed from his position as coach of the Memphis Grizzlies, who are presently ranked fifth in the Western Conference."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -921,19 +811,41 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "Taylor Jenkins has been fired as the coach of the Memphis Grizzlies, who currently hold the fifth spot in the Western Conference standings."
+    "summary": "Taylor Jenkins has been fired as the coach of the Memphis Grizzlies. The team is currently fifth in the Western Conference standings."
+  },
+  {
+    "title": "Geno: Idea for two-host system 'ruined the game'",
+    "domain": "Sports",
+    "location": "National",
+    "published": "Fri, 28 Mar 2025 14:43:48 EST",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "UConn coach Geno Auriemma criticized the NCAA's two-host regional system for the women's NCAA tournament, stating on Friday that the creators of the \"super regional\" format have \"ruined the game.\""
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.3,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.275,
+    "summary": "UConn coach Geno Auriemma criticized the NCAA's decision to use a two-host regional system for the women's NCAA tournament, calling the \"super regional\" format detrimental to the game."
   },
   {
     "title": "Source: Patriots planning to release LB Bentley",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 13:34:28 EST",
+    "published": "Fri, 28 Mar 2025 14:43:48 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The New England Patriots intend to release Ja'Whaun Bentley, a veteran linebacker and three-time team captain, on Friday, according to a source reported by ESPN."
+      "The New England Patriots intend to release Ja'Whaun Bentley, a veteran linebacker and three-time team captain, on Friday, according to a report from ESPN."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -943,19 +855,41 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "The New England Patriots plan to release Ja'Whaun Bentley, a veteran linebacker who has served as a team captain three times, this Friday. This information comes from a source cited by ESPN."
+    "summary": "The New England Patriots are planning to release Ja'Whaun Bentley, a veteran linebacker who has served as a team captain three times, this Friday, as reported by ESPN."
+  },
+  {
+    "title": "PSU's Carter: 'Overall impact' makes me No. 1",
+    "domain": "Sports",
+    "location": "National",
+    "published": "Fri, 28 Mar 2025 14:43:49 EST",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "At Penn State's pro day, outside linebacker Abdul Carter made a case for being the top pick in the NFL draft, emphasizing his ability to significantly enhance his team's performance through his \"overall impact.\""
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.3,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.275,
+    "summary": "At Penn State's pro day, outside linebacker Abdul Carter showcased his skills, arguing he could be the top NFL draft pick due to his potential to greatly improve a team's performance with his \"overall impact.\""
   },
   {
     "title": "Dani Alves sexual assault conviction overturned",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 13:38:41 EST",
+    "published": "Fri, 28 Mar 2025 14:47:30 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The Catalonia region's top court in Spain has overturned the conviction of Brazilian soccer player Dani Alves for sexual assault."
+      "The Catalonia region's top court in Spain has overturned the sexual assault conviction of Brazilian soccer player Dani Alves on Friday."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -965,19 +899,19 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "The top court in Catalonia, Spain, has overturned the sexual assault conviction of Brazilian soccer player Dani Alves."
+    "summary": "The top court in Catalonia, Spain, has overturned the sexual assault conviction of Brazilian soccer player Dani Alves. This decision was made on Friday."
   },
   {
     "title": "Ex-Vols coach Pruitt sues NCAA, seeking $100M",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 13:34:28 EST",
+    "published": "Fri, 28 Mar 2025 14:43:49 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Former Tennessee football coach Jeremy Pruitt is suing the NCAA for $100 million, alleging that it colluded with the university to unfairly blame him for violations, effectively making him a \"sacrificial lamb.\""
+      "Former Tennessee football coach Jeremy Pruitt is suing the NCAA for $100 million. He alleges the NCAA and the university conspired to blame him unfairly, labeling him a \"sacrificial lamb.\""
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -987,19 +921,19 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "Former Tennessee football coach Jeremy Pruitt has filed a lawsuit against the NCAA, seeking $100 million in damages. He accuses the NCAA and the university of collusion, claiming they unfairly made him the scapegoat for violations."
+    "summary": "Former Tennessee football coach Jeremy Pruitt has filed a lawsuit against the NCAA, seeking $100 million in damages. He claims that the NCAA and the university unfairly made him a scapegoat in their issues."
   },
   {
-    "title": "'Special moment': Giddey's 47-footer stuns Lakers",
+    "title": "3-pointer problem? Why the NBA has no qualms with it -- yet",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 13:34:28 EST",
+    "published": "Fri, 28 Mar 2025 14:27:30 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Josh Giddey of the Chicago Bulls scored a 47-foot 3-pointer from half court at the buzzer, securing a 119-117 win over the Los Angeles Lakers. This dramatic shot is being hailed as one of the season's most exciting finishes in the NBA."
+      "This season, there has been a record number of 3-point shot attempts in the league. There is a discussion about whether measures should be taken to limit the frequency of 3-pointers."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1009,19 +943,19 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "Josh Giddey, playing for the Chicago Bulls, made a 47-foot 3-pointer from half court at the buzzer, leading his team to a 119-117 victory over the Los Angeles Lakers. This event is celebrated as one of the most thrilling endings of the NBA season."
+    "summary": "This season, the league has seen a record number of 3-point shot attempts, sparking discussions on potentially implementing measures to reduce the frequency of 3-pointers."
   },
   {
-    "title": "Ovi, Caps honor Wild's Fleury with handshakes",
+    "title": "Picks, predictions, key players for every women's Sweet 16 game",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 13:34:28 EST",
+    "published": "Fri, 28 Mar 2025 14:55:26 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Alex Ovechkin led the Washington Capitals in a postgame handshake with retiring Minnesota Wild goalie Marc-Andre Fleury, following their game on Thursday. This gesture was to honor Fleury's retirement."
+      "Predictions have been made for the winners of the Sweet 16 regional semifinal matchups in Birmingham and Spokane, analyzing reasons why each team might emerge victorious."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1031,19 +965,19 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "Following their game on Thursday, Alex Ovechkin of the Washington Capitals led a postgame handshake to honor the retirement of Minnesota Wild goalie Marc-Andre Fleury."
+    "summary": "Analysts have made predictions for the Sweet 16 regional semifinal basketball games in Birmingham and Spokane, detailing reasons for potential victories of the competing teams."
   },
   {
-    "title": "Lady Vols' Caldwell: Goal was to make Sweet 16",
+    "title": "Ranking the 25 best players in the women's Sweet 16",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 13:34:28 EST",
+    "published": "Fri, 28 Mar 2025 14:55:27 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Kim Caldwell, who was hired as a coach at Tennessee nearly a year ago, set an immediate goal for the team to reach the Sweet 16."
+      "Paige Bueckers, Lauren Betts, and Hannah Hidalgo are featured in the latest Sweet 16 player rankings, with discussions on who occupies the top spot among them."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1053,19 +987,19 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "Kim Caldwell, appointed as a coach at Tennessee almost a year ago, aimed for the team to make it to the Sweet 16 shortly after starting."
+    "summary": "Paige Bueckers, Lauren Betts, and Hannah Hidalgo are highlighted in the latest Sweet 16 player rankings. The rankings have sparked discussions about who deserves the top spot among these athletes."
   },
   {
-    "title": "Ex-Tulane wing Williams commits to Kentucky",
+    "title": "Braden Smith's long road to Big Ten basketball, the Purdue record books and another Sweet 16",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 13:34:28 EST",
+    "published": "Fri, 28 Mar 2025 14:48:47 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Kam Williams, a highly regarded shooter and former Tulane wing, has committed to transferring to Kentucky, as confirmed to ESPN. Mark Pope, Kentucky's coach, will welcome Williams to the team."
+      "Braden Smith's journey to Purdue was marked by an unusual series of events. Since his arrival, he has fully embraced his experience at the university, without any regrets."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1075,19 +1009,19 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "Kam Williams, a former Tulane wing known for his shooting skills, has committed to transferring to the University of Kentucky. This move was confirmed to ESPN. He will be joining the team coached by Mark Pope."
+    "summary": "Braden Smith's path to Purdue University involved a unique sequence of events. Since joining, he has fully embraced his time at the university and has no regrets about his decision."
   },
   {
-    "title": "Arenado soaks in emotional post-HR curtain call",
+    "title": "Day 1 of the men's Sweet 16: High-scoring games, OT, more",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 13:34:28 EST",
+    "published": "Fri, 28 Mar 2025 14:48:47 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Nolan Arenado hit a significant home run in the eighth inning on Thursday, which was especially meaningful as he had been a topic of trade discussions during the offseason. His performance earned him a curtain call from Cardinals fans, acknowledging his contribution to the game."
+      "The Elite Eight lineup in the basketball tournament was determined following Thursday's four games. These matches finalized the first half of the teams advancing to the next round."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1097,73 +1031,7 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "Nolan Arenado hit a crucial home run in the eighth inning on Thursday, amidst offseason trade discussions about him. His performance was celebrated with a curtain call from Cardinals fans, recognizing his significant contribution to the game."
-  },
-  {
-    "title": "Ranking the 25 best players in the women's Sweet 16: From Betts and Bueckers to Strong and Van Lith﻿",
-    "domain": "Sports",
-    "location": "National",
-    "published": "Fri, 28 Mar 2025 12:41:02 EST",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The latest Sweet 16 player rankings have sparked interest in whether Paige Bueckers, Lauren Betts, or Hannah Hidalgo will claim the top spot."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.275,
-    "summary": "The latest Sweet 16 player rankings have generated excitement around who will be ranked number one among Paige Bueckers, Lauren Betts, and Hannah Hidalgo."
-  },
-  {
-    "title": "The mercurial backcourt motoring Notre Dame's March Madness",
-    "domain": "Sports",
-    "location": "National",
-    "published": "Fri, 28 Mar 2025 12:41:02 EST",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Hannah Hidalgo, Olivia Miles, and Sonia Citron are key players leading Notre Dame's basketball team in their pursuit of a championship title."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.275,
-    "summary": "Hannah Hidalgo, Olivia Miles, and Sonia Citron are leading Notre Dame's basketball team in their quest for a championship title."
-  },
-  {
-    "title": "Your guide to Day 1 of the men's Sweet 16: High-scoring games, OT, more",
-    "domain": "Sports",
-    "location": "National",
-    "published": "Fri, 28 Mar 2025 11:42:43 EST",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The Elite Eight lineup in the basketball tournament was partially decided after Thursday's games. Four teams secured their spots, advancing closer to the championship."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.275,
-    "summary": "Four teams advanced to the Elite Eight in the basketball tournament after Thursday's games, moving closer to competing for the championship."
+    "summary": "The Elite Eight in the basketball tournament was set after Thursday's games, determining the first half of teams moving to the next round."
   },
   {
     "title": "Inside the unprecedented transformation of Steinbrenner Field",
@@ -1175,7 +1043,7 @@
       "unknown"
     ],
     "snippets": [
-      "The Yankees' spring training facility was transformed into the Tampa Bay Rays' Opening Day ballpark in just four days. This rapid conversion involved significant logistical and operational efforts to accommodate a major league game."
+      "The Yankees' spring training facility was transformed into the Tampa Bay Rays' Opening Day ballpark within a span of four days. This rapid conversion highlights the flexibility and adaptability of the facility to accommodate major league games."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1185,19 +1053,19 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "The Tampa Bay Rays' Opening Day ballpark was quickly set up at the Yankees' spring training facility in Tampa, completed in just four days. This swift transformation required extensive logistical and operational planning to host a major league baseball game."
+    "summary": "The Yankees' spring training facility was quickly converted into the Tampa Bay Rays' Opening Day ballpark in just four days, showcasing the venue's ability to host major league games efficiently."
   },
   {
-    "title": "3-pointer problem? Why the NBA has no qualms with it -- yet",
+    "title": "Six theories on why penalties (and power plays) are dramatically down this NHL season",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 13:23:15 EST",
+    "published": "Fri, 28 Mar 2025 14:49:39 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "This season, the league has experienced a record number of 3-point shot attempts, raising questions about whether there should be measures to limit the use of 3-pointers in games."
+      "Discussions among players, executives, and analysts suggest a trend in cleaner gameplay or a change in referees' officiating styles. The debate centers on whether athletes are adhering more closely to rules or if referees are becoming less inclined to call fouls."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1207,7 +1075,29 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "This season, the league has seen a record-breaking number of 3-point shot attempts, leading to discussions on whether there should be rules to restrict 3-pointers in basketball games."
+    "summary": "There is a growing debate in the sports community about whether the observed trend towards cleaner gameplay is due to players following rules more closely or referees being less likely to call fouls. This discussion involves players, executives, and analysts."
+  },
+  {
+    "title": "NHL Power Rankings: Latest updated poll, plus each team's strength of schedule",
+    "domain": "Sports",
+    "location": "National",
+    "published": "Fri, 28 Mar 2025 14:49:39 EST",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The playoff field is becoming clearer as a panel has cast their votes, and the schedules for each team have been outlined through April 17."
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.3,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.275,
+    "summary": "The playoff field's details are now clearer after a panel's voting, with team schedules set until April 17."
   },
   {
     "title": "Inside Elic Ayomanor's viral night and journey from Canada to the NFL draft",
@@ -1219,7 +1109,7 @@
       "unknown"
     ],
     "snippets": [
-      "A Stanford receiver from Medicine Hat, Alberta, achieved a record-setting performance during a game against Travis Hunter, showcasing his potential for an NFL future."
+      "A Stanford receiver from Medicine Hat, Alberta, achieved a record-setting performance during a game against Travis Hunter, showcasing his potential for an NFL career."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1241,7 +1131,7 @@
       "unknown"
     ],
     "snippets": [
-      "A snowboarder who previously battled depression is now aiming to qualify for the 2026 Olympics. Her journey towards qualification will continue at the World Championships on Saturday, where she seeks to secure her spot, having rediscovered her passion for the sport."
+      "A snowboarder, who previously faced challenges with depression, has regained her enthusiasm for the sport. She is now aiming to secure a spot in the 2026 Olympics, with her next opportunity for qualification being at the World Championships this Saturday."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1251,51 +1141,7 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "A snowboarder, who overcame depression, is working towards qualifying for the 2026 Olympics. She will compete in the World Championships on Saturday, aiming to secure her spot. Her journey reflects a renewed passion for snowboarding."
-  },
-  {
-    "title": "Six theories on why penalties (and power plays) are dramatically down this NHL season",
-    "domain": "Sports",
-    "location": "National",
-    "published": "Fri, 28 Mar 2025 08:49:15 EST",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Discussions among players, executives, and analysts are focusing on whether there is a trend towards cleaner gameplay in sports or if referees are becoming more lenient in their officiating. Various perspectives are being shared to understand these observations."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.275,
-    "summary": "Discussions among players, executives, and analysts are exploring whether sports are experiencing cleaner gameplay or if referees are showing more leniency in their officiating. Different viewpoints are being considered to comprehend these trends."
-  },
-  {
-    "title": "NHL Power Rankings: Latest updated poll, plus each team's strength of schedule",
-    "domain": "Sports",
-    "location": "National",
-    "published": "Fri, 28 Mar 2025 08:49:15 EST",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The playoff field is becoming clearer as teams' performances through April 17 have been evaluated by a panel. Votes from this panel have contributed to solidifying the standings, providing a clearer picture of the teams' positions as the playoffs approach."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.275,
-    "summary": "As of April 17, a panel has reviewed teams' performances, influencing the playoff standings through their votes. This evaluation has clarified which teams are in a stronger position for the upcoming playoffs."
+    "summary": "A snowboarder, previously struggling with depression, has renewed her passion for snowboarding and is now targeting a spot in the 2026 Olympics. Her next chance to qualify is at the World Championships this Saturday."
   },
   {
     "title": "Robinson's rise has Fulham dreaming of Europe and the U.S. a World Cup",
@@ -1307,7 +1153,7 @@
       "unknown"
     ],
     "snippets": [
-      "Antonee Robinson, playing for Fulham, has had an exceptional season, establishing himself as one of the top left backs globally. He aspires to achieve significant accomplishments with the U.S. national team."
+      "Antonee Robinson of Fulham has had an exceptional season, establishing himself as one of the top left backs globally. His performance has sparked aspirations for significant achievements with the U.S. national team."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1317,29 +1163,7 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "Antonee Robinson, a player for Fulham, has had an outstanding season, earning recognition as one of the top left backs in the world. He aims to achieve notable successes with the U.S. national team."
-  },
-  {
-    "title": "Braden Smith's long road to Big Ten basketball, the Purdue record books and another Sweet 16",
-    "domain": "Sports",
-    "location": "National",
-    "published": "Fri, 28 Mar 2025 09:21:26 EST",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Braden Smith's journey to Purdue involved an unexpected series of events. Since his arrival, he has fully embraced his experience at the university, with no regrets about the path that led him there."
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.275,
-    "summary": "Braden Smith's path to Purdue was marked by unforeseen events. Despite this, he has fully embraced his time at the university and has no regrets about how he arrived there."
+    "summary": "Antonee Robinson, a player for Fulham, has had an outstanding season, earning recognition as one of the world's leading left backs. His performance has raised hopes for notable successes with the U.S. national team."
   },
   {
     "title": "Inside Maine's long climb back to the top of college hockey",
@@ -1351,7 +1175,7 @@
       "unknown"
     ],
     "snippets": [
-      "The Black Bears, a team that used to dominate their sport, have overcome significant challenges and a period of hardship, including a tragic event, to once again be considered contenders for a championship title."
+      "The Black Bears, a team once known for their consistent success, have overcome significant challenges, including tragedy, to become contenders for a title once again."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1361,7 +1185,7 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "The Black Bears, a team with a history of success, faced a series of challenges and a tragic event, leading to a difficult period. They have now overcome these obstacles and are once again seen as potential champions in their sport."
+    "summary": "The Black Bears, historically a successful team, faced and overcame major obstacles, including a tragic event, positioning themselves as contenders for a championship title again."
   },
   {
     "title": "U.S.'s Cardoso feels 'valued' by Tottenham links",
@@ -1373,7 +1197,7 @@
       "unknown"
     ],
     "snippets": [
-      "United States international and Real Betis midfielder Johnny Cardoso has expressed that the speculation surrounding his potential transfer to the Premier League has boosted his confidence."
+      "Real Betis midfielder and United States international, Johnny Cardoso, has expressed confidence boosted by speculation linking him with a move to the Premier League."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1383,19 +1207,19 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "United States and Real Betis midfielder Johnny Cardoso stated that rumors about a possible move to the Premier League have increased his confidence."
+    "summary": "Real Betis midfielder and United States international, Johnny Cardoso, has reported a boost in confidence amid rumors of a potential transfer to the Premier League."
   },
   {
     "title": "Sources: Griezmann staying put amid LAFC links",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 12:12:21 EST",
+    "published": "Fri, 28 Mar 2025 14:52:38 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Antoine Griezmann is expected to remain at Atlético Madrid for the next season, according to sources reported by ESPN. This decision comes despite his previously expressed desire to play in Major League Soccer (MLS)."
+      "Antoine Griezmann is expected to remain at Atlético Madrid for the next season, according to sources cited by ESPN. This decision comes despite his previously expressed desire to play in Major League Soccer (MLS)."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1405,19 +1229,19 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "Antoine Griezmann is set to stay at Atlético Madrid for the upcoming season, despite his interest in moving to Major League Soccer (MLS), as reported by ESPN."
+    "summary": "Antoine Griezmann is set to stay with Atlético Madrid for the upcoming season, despite his interest in moving to Major League Soccer (MLS), as reported by ESPN sources."
   },
   {
     "title": "Bayern threaten to sue Canada over Davies injury",
     "domain": "Sports",
     "location": "National",
-    "published": "Fri, 28 Mar 2025 12:12:21 EST",
+    "published": "Fri, 28 Mar 2025 14:52:38 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Bayern Munich is contemplating legal action against the Canadian Soccer Federation due to a significant knee injury sustained by player Alphonso Davies."
+      "Bayern Munich is contemplating taking legal action against the Canadian Soccer Federation after Alphonso Davies sustained a significant knee injury."
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -1427,6 +1251,72 @@
       "constructiveness": 0.0
     },
     "score": 0.275,
-    "summary": "Bayern Munich is considering taking legal action against the Canadian Soccer Federation following a severe knee injury suffered by their player, Alphonso Davies."
+    "summary": "Bayern Munich is considering legal action against the Canadian Soccer Federation due to a serious knee injury suffered by Alphonso Davies."
+  },
+  {
+    "title": "Chelsea captain Bright warns Barça: 'Bring it on'",
+    "domain": "Sports",
+    "location": "National",
+    "published": "Fri, 28 Mar 2025 11:41:12 EST",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Chelsea captain Millie Bright praised her team's exceptional mentality and expressed enthusiasm about competing against Barcelona in the upcoming UEFA Women's Champions League semifinals."
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.3,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.275,
+    "summary": "Chelsea captain Millie Bright lauded her team's strong mentality and is eager to face Barcelona in the UEFA Women's Champions League semifinals."
+  },
+  {
+    "title": "A genetic tree as a movie: Moving beyond the still portrait of ancestry",
+    "domain": "Science",
+    "location": "Global",
+    "published": "Thu, 27 Mar 2025 16:46:06 EDT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Researchers have developed a statistical method that transforms the visualization of family trees into dynamic movies, illustrating the global movements of ancestors over time. This innovative approach is not limited to genealogy; it also has applications in tracking disease spread and analyzing animal migration patterns across different regions."
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "summary": "Researchers have created a new statistical method that turns family tree visualizations into dynamic movies, showing how ancestors moved globally over time. This method is not just for genealogy but can also be used to track the spread of diseases and study animal migration patterns across various regions."
+  },
+  {
+    "title": "Melting ice, more rain drive Southern Ocean cooling",
+    "domain": "Science",
+    "location": "Global",
+    "published": "Thu, 27 Mar 2025 16:45:34 EDT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Researchers have discovered that 60% of the discrepancy between predicted and observed ocean temperatures around Antarctica over recent decades is due to increased meltwater and rain."
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "summary": "Researchers have found that increased meltwater and rain account for 60% of the gap between predicted and observed ocean temperatures near Antarctica in recent decades."
   }
 ]
