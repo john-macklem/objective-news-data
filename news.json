@@ -1,53 +1,5 @@
 [
   {
-    "title": "Myanmar junta continues air strikes after devastating earthquake",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 29 Mar 2025 17:04:50 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "A UN Special Rapporteur criticized the military's actions in an interview with the BBC, describing it as \"incredible\" that bombs were dropped during rescue operations."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/630f/live/b6270f80-0cc1-11f0-bffd-fb98b4c4f9e8.jpg",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "normalized_score": 10.0,
-    "summary": "A UN Special Rapporteur condemned the military in a BBC interview for dropping bombs during rescue operations, describing the actions as \"incredible.\""
-  },
-  {
-    "title": "Israel-Hamas ceasefire back on table in new negotiations",
-    "domain": "general",
-    "location": "global",
-    "published": "Sun, 30 Mar 2025 01:02:02 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Hamas has reportedly accepted proposals from mediators aimed at addressing ongoing issues. In response, Israel has presented its own counter-proposal."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/235f/live/0f955130-0d3f-11f0-b234-07dc7691c360.jpg",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "normalized_score": 10.0,
-    "summary": "Hamas has agreed to proposals from mediators to address current conflicts. Following this, Israel has offered a counter-proposal."
-  },
-  {
     "title": "Trump says he 'couldn't care less' about higher car prices",
     "domain": "general",
     "location": "global",
@@ -69,7 +21,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Former President Donald Trump stated he hopes foreign car manufacturers raise their prices, believing it would encourage consumers to buy more American-made cars."
+    "summary": "Former President Donald Trump stated his desire for foreign car manufacturers to raise their prices, implying that this would result in more consumers buying American-made cars."
   },
   {
     "title": "Richard Chamberlain, Shogun star, dies aged 90",
@@ -81,9 +33,9 @@
       "unknown"
     ],
     "snippets": [
-      "Chamberlain, known as the \"king of the mini-series,\" gained fame for his leading roles in the mini-series \"Shogun\" and \"The Thorn Birds.\""
+      "Chamberlain, known as the \"king of the mini-series,\" gained fame for his leading roles in \"Shogun\" and \"The Thorn Birds.\""
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eae/live/e171ef40-0d5f-11f0-ac9f-c37d6fd89579.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d3a/live/6678d5b0-0d82-11f0-a1c5-cd0d1898b025.jpg",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -93,7 +45,55 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Chamberlain, an actor celebrated for his prominent roles in the mini-series \"Shogun\" and \"The Thorn Birds,\" earned the title \"king of the mini-series.\""
+    "summary": "Chamberlain, acclaimed as the \"king of the mini-series,\" earned his fame through starring roles in the popular series \"Shogun\" and \"The Thorn Birds.\""
+  },
+  {
+    "title": "Rocket crashes back to Earth just moments after launch in Norway",
+    "domain": "general",
+    "location": "global",
+    "published": "Sun, 30 Mar 2025 16:32:45 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The Spectrum rocket's initial test flight ended after 30 seconds. Despite the brief duration, researchers believe the flight will offer valuable data."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f0/live/89973e40-0d84-11f0-b234-07dc7691c360.jpg",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 10.0,
+    "summary": "The Spectrum rocket's first test flight concluded 30 seconds after launch. Researchers anticipate that despite its short duration, the flight will provide important data."
+  },
+  {
+    "title": "Israel-Hamas ceasefire back on table in new negotiations",
+    "domain": "general",
+    "location": "global",
+    "published": "Sun, 30 Mar 2025 01:02:02 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Hamas has accepted proposals from mediators aimed at de-escalation, while Israel has responded with its own counter-proposal. This exchange marks a significant step in diplomatic efforts to address the ongoing conflict."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/235f/live/0f955130-0d3f-11f0-b234-07dc7691c360.jpg",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 10.0,
+    "summary": "Hamas has agreed to proposals for de-escalation from mediators, and Israel has made a counter-proposal in response. This development indicates progress in diplomatic efforts to resolve the ongoing conflict between the two parties."
   },
   {
     "title": "Man tending grave probed for starting South Korea fires",
@@ -105,7 +105,7 @@
       "unknown"
     ],
     "snippets": [
-      "A fast-moving fire resulted in the deaths of 30 individuals and inflicted extensive damage."
+      "A fire caused extensive damage and resulted in the deaths of 30 people."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdef/live/c2dec910-0d3a-11f0-b1c8-05eb2b6add27.jpg",
     "score_components": {
@@ -117,7 +117,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "A fast-moving fire caused the deaths of 30 people and resulted in significant damage."
+    "summary": "A fire resulted in extensive damage and led to the deaths of 30 individuals."
   },
   {
     "title": "In pictures: Eid celebrations around the world",
@@ -141,7 +141,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Muslims around the globe are marking Eid al-Fitr, a festival that marks the end of Ramadan, the Islamic holy month dedicated to fasting."
+    "summary": "Muslims around the world are observing Eid al-Fitr, marking the end of Ramadan, the Islamic holy month dedicated to fasting."
   },
   {
     "title": "Protesters return to Istanbul's streets for huge rally",
@@ -153,7 +153,7 @@
       "unknown"
     ],
     "snippets": [
-      "Demonstrators have rallied in support of democracy following the arrest of opposition leader Ekrem Imamoglu."
+      "Demonstrators gathered to support democracy following the arrest of Ekrem Imamoglu, an opposition leader."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f09/live/03bb2130-0cd8-11f0-ba12-8d27eb561761.jpg",
     "score_components": {
@@ -165,7 +165,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Demonstrators have gathered to support democracy after the arrest of opposition leader Ekrem Imamoglu."
+    "summary": "Demonstrators rallied in support of democracy after the arrest of opposition leader Ekrem Imamoglu."
   },
   {
     "title": "Kink and LGBT dating apps exposed 1.5m private user images online",
@@ -177,7 +177,7 @@
       "unknown"
     ],
     "snippets": [
-      "Explicit images are stored in an unprotected manner, making them susceptible to unauthorized access due to the lack of password security."
+      "Explicit images are being stored without password protection, making them susceptible to potential hacking."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab5a/live/379bded0-0d42-11f0-ba12-8d27eb561761.jpg",
     "score_components": {
@@ -189,7 +189,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Explicit images have been found stored without protection, leaving them vulnerable to being accessed without authorization because there is no password security in place."
+    "summary": "Explicit images are stored without password protection, raising risks of unauthorized access through hacking."
   },
   {
     "title": "Comedian dropped from hosting White House correspondents' dinner",
@@ -201,7 +201,7 @@
       "unknown"
     ],
     "snippets": [
-      "The White House Correspondents' Association has decided not to feature Amber Ruffin or any comedian at its annual dinner, following criticism of the Trump administration by Ruffin. This announcement was made on Saturday."
+      "The White House Correspondents' Association has decided that its annual dinner will not feature Amber Ruffin or any comedian. This announcement follows criticism of the Trump administration by Ruffin, which led to attacks from the White House."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d14/live/13207230-0cdb-11f0-a6b8-f91f29ac3e55.jpg",
     "score_components": {
@@ -213,7 +213,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "The White House Correspondents' Association announced it will not have Amber Ruffin or any comedian perform at its annual dinner, following Ruffin's criticism of the Trump administration. The decision was made public on Saturday."
+    "summary": "The White House Correspondents' Association announced it will not have Amber Ruffin or any comedian at its annual dinner. This decision comes after Ruffin faced criticism from the White House for her remarks on the Trump administration."
   },
   {
     "title": "Japan chain shuts eateries after pests found in food",
@@ -225,7 +225,7 @@
       "unknown"
     ],
     "snippets": [
-      "Sukiya has temporarily closed its doors following incidents where a customer discovered an insect and another found a rat in their meals."
+      "Sukiya has temporarily shut down after reports emerged of customers discovering an insect and a rat in their meals."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e28a/live/87734480-0cce-11f0-bd5c-75dd3ff67252.jpg",
     "score_components": {
@@ -237,7 +237,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Sukiya, a restaurant chain, has temporarily shut down after two incidents where customers found an insect and a rat in their meals."
+    "summary": "Sukiya, a restaurant chain, has temporarily closed its doors following reports from customers who found an insect and a rat in their food."
   },
   {
     "title": "No survivors after plane crashes into house in Minnesota",
@@ -249,7 +249,7 @@
       "unknown"
     ],
     "snippets": [
-      "A plane crashed, resulting in no survivors. The exact number of passengers onboard remains unknown, according to officials and the local fire chief."
+      "A plane crashed, and according to officials, the exact number of passengers is unknown. The local fire chief confirmed there were no survivors."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d4/live/be2438c0-0cee-11f0-ae5b-ef55a399491d.jpg",
     "score_components": {
@@ -261,7 +261,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "A plane crash occurred with no survivors reported. The total number of passengers on board has not been confirmed by officials or the local fire chief."
+    "summary": "A plane crash occurred, with officials yet to confirm the number of passengers. The local fire chief stated there were no survivors."
   },
   {
     "title": "Richard Chamberlain: Heartthrob king of the TV mini-series",
@@ -273,7 +273,7 @@
       "unknown"
     ],
     "snippets": [
-      "A renowned American actor, celebrated for his unmatched talent in captivating TV audiences, has been highlighted in the news."
+      "A renowned American actor, celebrated for his exceptional talent in captivating television audiences, has passed away."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3793/live/38825d50-d030-11ef-8db9-53d455b1ee6f.jpg",
     "score_components": {
@@ -285,31 +285,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "A renowned American actor, known for his exceptional talent in captivating television audiences, has been featured in recent news."
-  },
-  {
-    "title": "JD Vance's ominous pitch to Greenland",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 29 Mar 2025 16:19:31 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Andrew Harding reports from Nuuk, revealing that numerous residents in the Danish territory feel pressured or bullied by the United States."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c97/live/bb5936e0-0cb7-11f0-b234-07dc7691c360.jpg",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "normalized_score": 10.0,
-    "summary": "Andrew Harding, reporting from Nuuk, has highlighted that many people living in the Danish territory feel either pressured or bullied by the United States."
+    "summary": "A renowned American actor, known for his outstanding talent in television, has died."
   },
   {
     "title": "The US firms backing Trump's fight over trade",
@@ -321,7 +297,7 @@
       "unknown"
     ],
     "snippets": [
-      "Businesses agree with President Trump on the issue of unfair trade practices. However, there is debate on whether his strategy of implementing reciprocal tariffs is the correct solution."
+      "Businesses agree with President Trump that there are issues with unfair trade practices. However, there is debate over whether his strategy of implementing reciprocal tariffs is the effective solution."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a205/live/f7494bc0-0b15-11f0-9b12-2d0d67b23402.jpg",
     "score_components": {
@@ -333,7 +309,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Businesses align with President Trump on the issue of unfair trade practices but are divided on his approach of using reciprocal tariffs as a solution."
+    "summary": "Businesses acknowledge problems with unfair trade practices, aligning with President Trump's concerns. However, there is disagreement on the effectiveness of his approach to address these issues through reciprocal tariffs."
   },
   {
     "title": "Why British boarding schools are so eager to open in Nigeria",
@@ -345,7 +321,7 @@
       "unknown"
     ],
     "snippets": [
-      "Due to increasing UK school fees, Nigeria's elite have the option to provide their children with a British education without leaving the country."
+      "As UK school fees increase, Nigeria's elite have the option to provide their children with a British education without leaving the country."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f2/live/74846370-0b5e-11f0-ac9f-c37d6fd89579.jpg",
     "score_components": {
@@ -357,7 +333,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Amid rising UK school fees, Nigeria's elite now have the opportunity to offer their children a British education domestically, allowing them to avoid the high costs associated with studying abroad."
+    "summary": "As UK school fees rise, Nigerian elites can now offer their children British education domestically, avoiding the need for them to study abroad."
   },
   {
     "title": "Snow White, Rachel Zegler and a toxic debate that's not going away",
@@ -369,7 +345,7 @@
       "unknown"
     ],
     "snippets": [
-      "The 23-year-old lead actor of Disney's remake has sparked widespread debate and discussion on social media platforms."
+      "The 23-year-old lead actor of Disney's remake has sparked significant debate and discussion on various social media platforms."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/4c786b00-0c81-11f0-ba12-8d27eb561761.jpg",
     "score_components": {
@@ -381,31 +357,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "The 23-year-old lead actor of Disney's remake has become the center of extensive debate and discussion across various social media platforms."
-  },
-  {
-    "title": "Watch: Rescuers dig through pile of concrete after Bangkok tower collapse",
-    "domain": "general",
-    "location": "global",
-    "published": "Sun, 30 Mar 2025 09:19:07 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "A large earthquake in Myanmar led to the collapse of a building, resulting in dozens of workers being trapped inside."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e00b/live/ae8578e0-0d46-11f0-ba12-8d27eb561761.jpg",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "normalized_score": 10.0,
-    "summary": "A significant earthquake in Myanmar caused a building to collapse, trapping dozens of workers inside."
+    "summary": "The 23-year-old lead actor of Disney's remake has become a topic of widespread debate and discussion across social media platforms."
   },
   {
     "title": "Stolen truck collides with vehicles during California police chase",
@@ -417,7 +369,7 @@
       "unknown"
     ],
     "snippets": [
-      "A stolen work truck was involved in a series of crashes with multiple vehicles as it attempted to escape police in Southern California, as shown in aerial footage."
+      "A stolen work truck was involved in a police chase in Southern California, where aerial footage captured it crashing into several vehicles while trying to escape law enforcement."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f146/live/2d70add0-0d1c-11f0-ac9f-c37d6fd89579.jpg",
     "score_components": {
@@ -429,7 +381,31 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "A stolen work truck in Southern California was involved in a series of crashes with multiple vehicles while trying to evade police, according to aerial footage."
+    "summary": "A stolen work truck led police on a chase in Southern California, during which it hit multiple vehicles in an attempt to evade capture. Aerial footage documented the incident."
+  },
+  {
+    "title": "Watch: Rescuers dig through pile of concrete after Bangkok tower collapse",
+    "domain": "general",
+    "location": "global",
+    "published": "Sun, 30 Mar 2025 09:19:07 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "A building collapse caused by a large earthquake in neighboring Myanmar resulted in dozens of workers being trapped."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e00b/live/ae8578e0-0d46-11f0-ba12-8d27eb561761.jpg",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 10.0,
+    "summary": "A large earthquake in Myanmar led to a building collapse, trapping dozens of workers inside."
   },
   {
     "title": "Israel’s PM Netanyahu to visit Hungary despite ICC arrest warrant",
@@ -441,7 +417,7 @@
       "unknown"
     ],
     "snippets": [
-      "Hungary's Prime Minister Viktor Orban has stated that he will not enforce the arrest warrant issued for war crimes in Gaza."
+      "Hungary's Prime Minister, Viktor Orban, has stated that he will not enforce the arrest warrant issued for war crimes in Gaza."
     ],
     "image_url": "",
     "score_components": {
@@ -453,7 +429,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Hungary's Prime Minister, Viktor Orban, has announced that Hungary will not enforce the arrest warrant issued for war crimes in Gaza."
+    "summary": "Hungary's Prime Minister Viktor Orban announced that he will not enforce the arrest warrant issued for war crimes in Gaza, indicating a refusal to act on the international legal order."
   },
   {
     "title": "Russian drone attacks on Kharkiv, east Ukraine kill two and injure dozens",
@@ -477,7 +453,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Ukrainian officials claim Russia committed war crimes after a drone attack on Kharkiv injured multiple people, including children."
+    "summary": "Ukrainian officials have accused Russia of war crimes after a drone attack on Kharkiv injured several people, including children."
   },
   {
     "title": "Iran rejects direct nuclear talks with Trump, open to indirect negotiations",
@@ -489,7 +465,7 @@
       "unknown"
     ],
     "snippets": [
-      "The US President has issued a warning to Iran, stating that the United States will resort to bombings if Iran fails to reach a nuclear agreement with Washington."
+      "The US President warned that the US could resort to bombings against Iran if the two nations do not reach a nuclear agreement. This statement underscores the tension between Washington and Tehran over nuclear negotiations."
     ],
     "image_url": "",
     "score_components": {
@@ -501,7 +477,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "The US President has warned Iran that the United States may use bombings as a response if Iran does not agree to a nuclear deal with Washington."
+    "summary": "The US President has stated that the US might consider bombing Iran if a nuclear agreement is not reached, highlighting the ongoing tensions between Washington and Tehran regarding nuclear negotiations."
   },
   {
     "title": "Aftershocks complicate Myanmar rescue efforts after quake toll tops 1,700",
@@ -513,7 +489,7 @@
       "unknown"
     ],
     "snippets": [
-      "Two days following a severe earthquake in Myanmar, ongoing aftershocks are complicating rescue efforts to help those affected."
+      "Two days following a severe earthquake in Myanmar, ongoing aftershocks are complicating rescue efforts to save trapped individuals."
     ],
     "image_url": "",
     "score_components": {
@@ -525,7 +501,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Two days after a severe earthquake hit Myanmar, rescue efforts for affected individuals are being hindered by continuous aftershocks."
+    "summary": "Two days after a severe earthquake hit Myanmar, rescue operations to save those trapped are being hindered by ongoing aftershocks."
   },
   {
     "title": "I have finally understood the true meaning of Land Day",
@@ -537,7 +513,7 @@
       "unknown"
     ],
     "snippets": [
-      "A family in Shujayea, with centuries-old roots in the area, is confronting the imminent risk of losing their ancestral land."
+      "A family in Shujayea, with centuries of history in the area, is currently facing the risk of losing their ancestral land."
     ],
     "image_url": "",
     "score_components": {
@@ -549,7 +525,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "A family in Shujayea, with a long history in the region, faces the threat of being displaced from their ancestral land."
+    "summary": "A family in Shujayea, with a long history spanning centuries in the region, is at risk of losing their ancestral land."
   },
   {
     "title": "Smell of death ‘fills the air’ near epicentre of Myanmar earthquake",
@@ -561,7 +537,7 @@
       "unknown"
     ],
     "snippets": [
-      "In Myanmar, in the cities of Sagaing and Mandalay, bodies are decomposing under the rubble of destroyed buildings, affected by the country's high temperatures."
+      "In Myanmar, bodies are decomposing under the rubble of destroyed buildings in the cities of Sagaing and Mandalay, due to the country's heat."
     ],
     "image_url": "",
     "score_components": {
@@ -573,7 +549,31 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "In Myanmar, specifically in the cities of Sagaing and Mandalay, buildings have been destroyed, leaving bodies to decompose under the rubble. The situation is exacerbated by the country's high temperatures."
+    "summary": "In Myanmar, the cities of Sagaing and Mandalay are experiencing a crisis where bodies are left decomposing under the rubble of destroyed buildings, exacerbated by the country's high temperatures."
+  },
+  {
+    "title": "Tesla Takedown’ protesters hope Elon Musk boycott will force DOGE rethink",
+    "domain": "general",
+    "location": "global",
+    "published": "Sun, 30 Mar 2025 12:30:31 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Protesters against Elon Musk gathered outside numerous Tesla dealerships throughout the United States. Demonstrations took place at hundreds of locations."
+    ],
+    "image_url": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 10.0,
+    "summary": "Protesters opposing Elon Musk organized demonstrations outside numerous Tesla dealerships across the United States, with events reported at hundreds of locations."
   },
   {
     "title": "Reranking the women's Elite Eight: UConn is top dog",
@@ -585,7 +585,7 @@
       "unknown"
     ],
     "snippets": [
-      "The women's Elite Eight teams have been determined. Among these, one team has notably stood out due to their impressive performance. Conversely, a No. 1 seed has experienced a significant drop, failing to meet expectations."
+      "The women's Elite Eight teams have been determined. Among these, one team has notably stood out due to their exceptional performance. Conversely, a No. 1 seed has experienced a significant drop, failing to meet expectations."
     ],
     "image_url": "",
     "score_components": {
@@ -597,19 +597,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "The Elite Eight teams in the women's basketball tournament have been finalized, with one team particularly excelling in their performance. Meanwhile, a top-seeded team has underperformed, not living up to anticipated standards."
+    "summary": "The Elite Eight teams in the women's basketball tournament have been finalized, with one team particularly excelling and surpassing expectations. On the other hand, a top-seeded team has underperformed, not living up to its anticipated success."
   },
   {
     "title": "Willard bolts Maryland to become Villanova coach",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:42:43 EST",
+    "published": "Sun, 30 Mar 2025 12:49:21 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Kevin Willard, previously the head coach for Maryland, where he led the team to the Sweet 16 in this season's NCAA tournament, has been appointed as the new head basketball coach for Villanova."
+      "Kevin Willard, previously the head basketball coach at Maryland, has accepted an offer to become the new head coach for Villanova's basketball program. This comes after he led Maryland to the Sweet 16 in this season's NCAA tournament."
     ],
     "image_url": "",
     "score_components": {
@@ -621,19 +621,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Kevin Willard, who guided Maryland to the Sweet 16 in the NCAA tournament this season, has been named the new head basketball coach for Villanova."
+    "summary": "Kevin Willard, who led Maryland's basketball team to the Sweet 16 in this season's NCAA tournament, has been appointed as the new head coach for Villanova's basketball program."
   },
   {
     "title": "Sources: Aiyuk trade unlikely barring late change",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:42:43 EST",
+    "published": "Sun, 30 Mar 2025 12:49:24 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The San Francisco 49ers are unlikely to trade wide receiver Brandon Aiyuk before the Tuesday deadline, at which point he is set to receive a $22.85 million bonus. This information comes from sources reported by ESPN's Adam Schefter, indicating a trade would be surprising unless a last-minute agreement is reached."
+      "The San Francisco 49ers are unlikely to trade wide receiver Brandon Aiyuk before the deadline on Tuesday, which would trigger a $22.85 million bonus for him. This comes according to sources cited by ESPN's Adam Schefter, indicating that a trade would only happen if a last-minute agreement is reached."
     ],
     "image_url": "",
     "score_components": {
@@ -645,19 +645,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "The San Francisco 49ers are not expected to trade wide receiver Brandon Aiyuk before the upcoming Tuesday deadline. If not traded, Aiyuk is slated to receive a $22.85 million bonus. ESPN's Adam Schefter, citing sources, suggests a trade would be unexpected unless a last-minute deal is made."
+    "summary": "The San Francisco 49ers are not expected to trade wide receiver Brandon Aiyuk before Tuesday's deadline. If he remains with the team past this date, he will receive a $22.85 million bonus. This information is based on sources reported by ESPN's Adam Schefter, who also noted that a trade could still occur if a last-minute deal is made."
   },
   {
     "title": "L.A.'s Sasaki gets quick hook: Didn't have 'stuff'",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:46:31 EST",
+    "published": "Sun, 30 Mar 2025 12:49:23 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Roki Sasaki, a highly regarded right-handed pitcher, made his debut at Dodger Stadium but was pulled from the game in the second inning on Saturday night due to issues with his control."
+      "Roki Sasaki, a highly regarded right-handed pitcher, had his debut at Dodger Stadium cut short. He was removed from the game in the second inning on Saturday night due to ongoing issues with his control."
     ],
     "image_url": "",
     "score_components": {
@@ -669,19 +669,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Roki Sasaki, a right-handed pitcher, made his debut at Dodger Stadium but was taken out in the second inning on Saturday due to control problems."
+    "summary": "Roki Sasaki, a prominent right-handed pitcher, was taken out of his debut game at Dodger Stadium in the second inning on Saturday due to control problems."
   },
   {
-    "title": "Scherzer goes on IL after early exit in Jays debut",
+    "title": "Jays' Scherzer goes on IL, to see hand specialist",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:42:43 EST",
+    "published": "Sun, 30 Mar 2025 12:49:23 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The Toronto Blue Jays have placed pitcher Max Scherzer on the 15-day injured list due to right thumb inflammation. This decision followed Scherzer leaving his debut start for the team after three innings, citing right lat soreness."
+      "The Blue Jays have placed pitcher Max Scherzer on the 15-day injured list due to right thumb inflammation. He is scheduled to see a hand specialist in the U.S. on Monday, as confirmed by Manager John Schneider."
     ],
     "image_url": "",
     "score_components": {
@@ -693,19 +693,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "The Toronto Blue Jays have placed pitcher Max Scherzer on the 15-day injured list because of inflammation in his right thumb. Scherzer had to leave his first game for the team after three innings because of soreness in his right lat."
+    "summary": "The Toronto Blue Jays have put pitcher Max Scherzer on the 15-day injured list because of inflammation in his right thumb. He will consult a hand specialist in the U.S. on Monday, Manager John Schneider confirmed."
   },
   {
-    "title": "Duke tames Tide for school's 18th Final Four bid",
+    "title": "Sources: New Mexico to hire Olen as new coach",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:42:43 EST",
+    "published": "Sun, 30 Mar 2025 12:49:21 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Duke, the top-seeded team, advanced to the Final Four in San Antonio after defeating No. 2 seed Alabama with a score of 85-65."
+      "New Mexico has finalized a five-year agreement with UC San Diego's Eric Olen to become the school's new head basketball coach, according to information from ESPN's Pete Thamel."
     ],
     "image_url": "",
     "score_components": {
@@ -717,19 +717,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Duke, the number one seed, progressed to the Final Four in San Antonio by beating the second-seeded team, Alabama, with a final score of 85-65."
+    "summary": "New Mexico has signed Eric Olen from UC San Diego as their new head basketball coach under a five-year agreement, as reported by ESPN's Pete Thamel."
   },
   {
     "title": "Devers first to open year with 10 K's in 3 games",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:42:43 EST",
+    "published": "Sun, 30 Mar 2025 12:49:21 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Rafael Devers, the designated hitter for the Boston Red Sox, set a major league record by striking out 10 times in the first three games of the season, marking the first time this has happened in MLB history."
+      "Rafael Devers, the designated hitter for the Boston Red Sox, set a major league record by striking out 10 times in the first three games of the season, marking the first time this has occurred in MLB history."
     ],
     "image_url": "",
     "score_components": {
@@ -741,19 +741,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Rafael Devers, the designated hitter for the Boston Red Sox, has made MLB history by becoming the first player to strike out 10 times in the first three games of a season."
+    "summary": "Rafael Devers, playing as the designated hitter for the Boston Red Sox, made MLB history by striking out 10 times in the first three games of the season, a record for the league."
   },
   {
     "title": "50/50 card first of Ohtani to break $1M at auction",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:42:43 EST",
+    "published": "Sun, 30 Mar 2025 12:49:24 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "An autographed card of Dodgers star Shohei Ohtani, featuring the MLB logo from his pants worn during his 50 home run and 50 stolen base season, sold for over $1 million at auction, marking the first time an Ohtani card reached this price."
+      "An autographed card of Dodgers star Shohei Ohtani, featuring the MLB logo from his pants worn during a season where he achieved 50 home runs and 50 stolen bases, sold for over $1 million at auction. This sale marks the first time an Ohtani card has reached such a high price."
     ],
     "image_url": "",
     "score_components": {
@@ -765,19 +765,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "An autographed card of Dodgers player Shohei Ohtani, which includes the MLB logo from his pants worn during his season with 50 home runs and 50 stolen bases, was sold at auction for over $1 million. This sale marks the first instance of an Ohtani card reaching this price."
+    "summary": "An autographed card of Dodgers player Shohei Ohtani, showcasing the MLB logo from his game-worn pants in a season where he hit 50 home runs and stole 50 bases, was sold at auction for over $1 million. This is the first instance of an Ohtani card fetching this amount."
   },
   {
     "title": "Lakers answer Redick's challenge, top Grizzlies",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:42:43 EST",
+    "published": "Sun, 30 Mar 2025 12:49:23 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Following a meeting where LA coach JJ Redick urged his players to be more creative, LeBron James and the Lakers beat the Memphis Grizzlies 134-127. The team achieved a shooting accuracy of 50.6% in the game."
+      "Following a meeting where LA coach JJ Redick urged his stars to be more creative, the Lakers, led by LeBron James, won against the Memphis Grizzlies 134-127. The team achieved a 50.6% shooting accuracy in their victory."
     ],
     "image_url": "",
     "score_components": {
@@ -789,7 +789,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "After a meeting where coach JJ Redick encouraged creativity, the Lakers, led by LeBron James, defeated the Memphis Grizzlies 134-127. The team's shooting accuracy was 50.6% during the game."
+    "summary": "After LA Lakers coach JJ Redick encouraged his team to increase their creativity, the Lakers, with LeBron James, defeated the Memphis Grizzlies 134-127. They achieved a 50.6% shooting accuracy during their win."
   },
   {
     "title": "What this historic day of home runs says about Aaron Judge, Yankees",
@@ -801,7 +801,7 @@
       "unknown"
     ],
     "snippets": [
-      "Aaron Judge hit three home runs in a game, leading New York to set a new record in baseball history. This performance highlighted Judge's exceptional talent as a powerful hitter."
+      "Aaron Judge hit three home runs in a game, leading the New York team to set a new record in long ball history. This performance highlighted Judge's exceptional talent as a baseball player."
     ],
     "image_url": "",
     "score_components": {
@@ -813,19 +813,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Aaron Judge hit three home runs in a single game, setting a new record for New York and showcasing his skill as a powerful hitter in baseball history."
+    "summary": "Aaron Judge hit three home runs in a single game, contributing to the New York team's new record in baseball's long ball history. This achievement underscores Judge's remarkable skill as a player."
   },
   {
     "title": "NHL playoff watch: Who will win the Atlantic Division crown?",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 10:57:11 EST",
+    "published": "Sun, 30 Mar 2025 12:19:38 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The Panthers, Leafs, and Lightning are currently competing closely in their league. Additionally, new projections for the playoff bracket have been released, detailing potential matchups and outcomes as the season progresses."
+      "The Panthers, Leafs, and Lightning are currently competing closely in their league. Additionally, there are new projections for the playoff bracket that have been updated to reflect the latest standings and performance metrics of the teams involved."
     ],
     "image_url": "",
     "score_components": {
@@ -837,19 +837,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "The Panthers, Leafs, and Lightning are in a tight race in their league. Recent playoff projections outline possible matchups and outcomes for the season."
+    "summary": "The Panthers, Leafs, and Lightning are in a tight competition in their league standings. Updated playoff bracket projections have been released, taking into account the latest standings and performance metrics of the teams."
   },
   {
     "title": "Power Rankings: Latest updated poll, plus each team's strength of schedule",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 10:57:09 EST",
+    "published": "Sun, 30 Mar 2025 12:19:37 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The playoff field is becoming clearer as a panel has cast their votes on team standings, with details provided on each team's performance and schedule up to April 17."
+      "The playoff field is becoming clearer as a panel has cast their votes on team standings, with the results reflecting each team's performance up to April 17."
     ],
     "image_url": "",
     "score_components": {
@@ -861,7 +861,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "The playoff field is becoming more defined as a panel has voted on team standings, evaluating each team's performance and schedule up to April 17."
+    "summary": "The playoff lineup is taking shape following a panel's vote on team standings, based on performances up to April 17."
   },
   {
     "title": "Every way to bet on Alex Ovechkin's goals record chase",
@@ -873,7 +873,7 @@
       "unknown"
     ],
     "snippets": [
-      "Alex Ovechkin is attracting significant attention in NHL betting as he approaches the goals scored record. Bettors have access to special markets focusing on his performance."
+      "Alex Ovechkin, nearing the NHL goals scored record, has become a popular figure in betting circles. Special betting markets have opened for bettors to wager on various aspects of his pursuit of the record."
     ],
     "image_url": "",
     "score_components": {
@@ -885,7 +885,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Alex Ovechkin is drawing significant interest in NHL betting as he nears the goals scored record, with bettors being offered special markets centered on his performance."
+    "summary": "Alex Ovechkin, close to breaking the NHL goals record, has sparked interest in betting communities. Special markets now allow bets on different elements of his record chase."
   },
   {
     "title": "Forecasting next season for women's eliminated top seeds",
@@ -897,7 +897,7 @@
       "unknown"
     ],
     "snippets": [
-      "NC State's season has ended, shifting focus to future team development. The team is now concentrating on transfer portal priorities and welcoming new recruits as they prepare for the next season."
+      "NC State's season has concluded, shifting focus to future team development. The team will concentrate on portal priorities and integrating incoming recruits as they prepare for the next season."
     ],
     "image_url": "",
     "score_components": {
@@ -909,7 +909,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "NC State's football season has concluded, leading the team to focus on future development. They are now prioritizing the transfer portal and integrating new recruits in preparation for the upcoming season."
+    "summary": "NC State's football season has ended, and the team is now focusing on future development. Their priorities include utilizing the transfer portal and integrating new recruits to strengthen the team for the upcoming season."
   },
   {
     "title": "Inside the unprecedented transformation of Steinbrenner Field",
@@ -921,7 +921,7 @@
       "unknown"
     ],
     "snippets": [
-      "The Yankees' spring training facility was transformed into the Tampa Bay Rays' Opening Day ballpark in just four days. This rapid conversion involved extensive preparations and adjustments to accommodate a major league game, showcasing the flexibility and capability of the facility to host such an event."
+      "The Yankees' spring training facility was transformed into the Tampa Bay Rays' ballpark for Opening Day in just four days. This rapid conversion involved significant logistical and operational efforts to accommodate a major league game, showcasing the flexibility and capability of the facility to host such events."
     ],
     "image_url": "",
     "score_components": {
@@ -933,19 +933,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "The Tampa Bay Rays' Opening Day ballpark was quickly set up at the Yankees' spring training facility in just four days, demonstrating the facility's adaptability and readiness to host a major league game through significant preparations and modifications."
+    "summary": "The Tampa Bay Rays' ballpark was successfully set up at the Yankees' spring training facility in just four days for Opening Day. This quick transformation highlighted the facility's ability to host major league games, demonstrating significant logistical and operational efficiency."
   },
   {
     "title": "Messi scores 2 minutes into return in Miami win",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:11:14 EST",
+    "published": "Sun, 30 Mar 2025 12:30:34 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Lionel Messi scored two minutes after entering as a substitute, leading Inter Miami to a 2-1 victory over the Philadelphia Union at Chase Stadium on Saturday."
+      "Lionel Messi scored a goal two minutes after entering the game as a substitute, leading Inter Miami to a 2-1 victory over the Philadelphia Union at Chase Stadium on Saturday."
     ],
     "image_url": "",
     "score_components": {
@@ -957,19 +957,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Lionel Messi scored two minutes after coming on as a substitute, helping Inter Miami secure a 2-1 win against the Philadelphia Union at Chase Stadium on Saturday."
+    "summary": "Lionel Messi scored a goal shortly after coming on as a substitute, securing a 2-1 win for Inter Miami against the Philadelphia Union at Chase Stadium on Saturday."
   },
   {
     "title": "Trinity Rodman: Back likely never will be 100%",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:11:17 EST",
+    "published": "Sun, 30 Mar 2025 12:30:33 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "USWNT player Trinity Rodman has stated that she believes her back problems will not fully heal, indicating ongoing health concerns."
+      "USWNT player Trinity Rodman has stated that she believes her back issues will not fully heal, offering a candid outlook on her ongoing health struggles."
     ],
     "image_url": "",
     "score_components": {
@@ -981,19 +981,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Trinity Rodman, a player for the US Women's National Soccer Team, has expressed that her back issues are expected to persist, signaling long-term health challenges."
+    "summary": "Trinity Rodman, a player for the US Women's National Soccer Team (USWNT), has openly shared that she does not expect her back issues to completely resolve. She provided an honest assessment of her persistent health challenges."
   },
   {
     "title": "Mbappé: 'Very special' to match Ronaldo tally",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:11:17 EST",
+    "published": "Sun, 30 Mar 2025 12:30:33 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Kylian Mbappé expressed that equaling Cristiano Ronaldo's goal record in his first season with Real Madrid is \"very special.\" This came after he scored two goals in a 3-2 victory against Leganés, marking a significant achievement in his debut season."
+      "Kylian Mbappé expressed that equaling Cristiano Ronaldo's goal record in his first season with Real Madrid is \"very special\" following his two goals in a 3-2 victory against Leganés on Saturday."
     ],
     "image_url": "",
     "score_components": {
@@ -1005,7 +1005,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Kylian Mbappé matched Cristiano Ronaldo's goal record at Real Madrid by scoring twice in a 3-2 win over Leganés. He described reaching this milestone in his first season as \"very special.\""
+    "summary": "Kylian Mbappé stated it was \"very special\" to match Cristiano Ronaldo's goal record at Real Madrid after scoring twice in a 3-2 win over Leganés."
   },
   {
     "title": "Guardiola: My performance has been 'really poor'",
@@ -1017,7 +1017,7 @@
       "unknown"
     ],
     "snippets": [
-      "Manchester City manager Pep Guardiola has described his performance this season as \"really poor,\" acknowledging challenges in reaching the team's previous championship-winning levels."
+      "Manchester City manager Pep Guardiola has criticized his performance this season, describing it as \"really poor\" amidst the team's challenges in regaining their championship form."
     ],
     "image_url": "",
     "score_components": {
@@ -1029,19 +1029,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Manchester City manager Pep Guardiola admitted his performance this season has been \"really poor,\" recognizing difficulties in achieving the team's past championship-winning standards."
+    "summary": "Manchester City's manager, Pep Guardiola, has openly criticized his own performance this season, labeling it as \"really poor.\" This self-assessment comes as the team struggles to recapture their championship-winning form."
   },
   {
     "title": "Canada insists injured Davies got 'proper care'",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 11:11:17 EST",
+    "published": "Sun, 30 Mar 2025 12:18:20 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The Canadian soccer federation defended its approach to managing Alphonso Davies following a serious injury he sustained at the Concacaf Nations League finals. This defense comes in response to Bayern Munich's threat of legal action against the federation over the handling of Davies' injury."
+      "The Canadian soccer federation responded to Bayern Munich's threat of legal action by defending its management of Alphonso Davies, who sustained a significant injury during the Concacaf Nations League finals."
     ],
     "image_url": "",
     "score_components": {
@@ -1053,7 +1053,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "The Canadian soccer federation responded to Bayern Munich's legal threat by defending its management of Alphonso Davies' injury, which occurred during the Concacaf Nations League finals."
+    "summary": "The Canadian soccer federation defended its handling of Alphonso Davies after Bayern Munich threatened legal action over an injury he sustained at the Concacaf Nations League finals."
   },
   {
     "title": "Tudor gets unlikely assist in debut as Juve coach",
@@ -1065,7 +1065,7 @@
       "unknown"
     ],
     "snippets": [
-      "Igor Tudor, the new Juventus coach, played a crucial role in the team's first goal since taking over from the dismissed Thiago Motta."
+      "Igor Tudor, the new Juventus coach, played a significant role in the team's first goal since taking over from the dismissed Thiago Motta."
     ],
     "image_url": "",
     "score_components": {
@@ -1077,7 +1077,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Igor Tudor, who recently became Juventus's coach after Thiago Motta was dismissed, played a significant role in the team scoring their first goal under his leadership."
+    "summary": "Igor Tudor, recently appointed as Juventus coach, has made an immediate impact by contributing to the team's first goal since replacing Thiago Motta."
   },
   {
     "title": "Forest reach 1st FA Cup semifinal since 1991",
@@ -1089,7 +1089,7 @@
       "unknown"
     ],
     "snippets": [
-      "Nottingham Forest advanced to the FA Cup semi-finals after defeating Brighton & Hove Albion 4-3 in a penalty shootout. The match ended goalless after extra time, with Ryan Yates scoring the winning penalty for Forest."
+      "Nottingham Forest advanced to the FA Cup semi-finals by defeating Brighton & Hove Albion 4-3 in a penalty shootout, with Ryan Yates scoring the decisive goal. The match had ended 0-0 after extra time."
     ],
     "image_url": "",
     "score_components": {
@@ -1101,7 +1101,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Nottingham Forest progressed to the FA Cup semi-finals by beating Brighton & Hove Albion 4-3 in a penalty shootout, following a goalless draw after extra time. Ryan Yates scored the decisive penalty for Forest."
+    "summary": "Nottingham Forest progressed to the FA Cup semi-finals after beating Brighton & Hove Albion 4-3 in a penalty shootout, following a 0-0 draw in extra time. Ryan Yates scored the winning penalty."
   },
   {
     "title": "Reports: Blitzer close to selling RSL, Utah Royals",
@@ -1113,7 +1113,7 @@
       "unknown"
     ],
     "snippets": [
-      "Billionaire David Blitzer is reportedly in advanced discussions to sell a significant share of the MLS team Real Salt Lake and the NWSL team Utah Royals. Blitzer has owned both teams since 2022."
+      "Billionaire David Blitzer is reportedly in advanced discussions to sell a significant portion of his ownership in the MLS team Real Salt Lake and the NWSL team Utah Royals. Blitzer has owned both franchises since 2022."
     ],
     "image_url": "",
     "score_components": {
@@ -1125,7 +1125,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Billionaire David Blitzer is in advanced talks to sell a significant portion of his ownership in the MLS team Real Salt Lake and the NWSL team Utah Royals, teams he has owned since 2022."
+    "summary": "Billionaire David Blitzer is in advanced talks to sell a major part of his stake in the MLS team Real Salt Lake and the NWSL team Utah Royals, teams he has owned since 2022."
   },
   {
     "title": "Mayer and Price are the best welterweights; now they need to fight",
@@ -1137,7 +1137,7 @@
       "unknown"
     ],
     "snippets": [
-      "Mikaela Mayer secured another win, positioning her one step closer to becoming the undisputed champion. The only competitor standing in her way now is Lauren Price."
+      "Mikaela Mayer secured another win, positioning her one step away from the undisputed championship. The only obstacle remaining is Lauren Price."
     ],
     "image_url": "",
     "score_components": {
@@ -1149,21 +1149,21 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Mikaela Mayer won her latest boxing match, moving her closer to becoming the undisputed champion. Her final obstacle to achieving this title is a bout against Lauren Price."
+    "summary": "Mikaela Mayer won her latest match, moving her closer to becoming the undisputed champion. Her next and final opponent in this quest is Lauren Price."
   },
   {
-    "title": "Norway urged to drop ‘crazy’ ban on investment in defence companies",
+    "title": "Trump threatens secondary tariffs on Russian oil if no deal on Ukraine",
     "domain": "business",
     "location": "global",
-    "published": "Sun, 30 Mar 2025 04:00:12 GMT",
+    "published": "Sun, 30 Mar 2025 16:42:32 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The opposition leader has promised to reverse a policy that prevents a $1.8 trillion fund from investing in the defense sector, should her party be victorious in the upcoming election."
+      "The US President expressed frustration with Vladimir Putin for delaying progress in ceasefire negotiations."
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fade477c3-39af-4150-b195-0d9a63e5cb42.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fed5fc2f6-6d58-402d-b864-a38074788925.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -1173,21 +1173,21 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "The opposition leader has pledged to change a current policy that stops a $1.8 trillion fund from investing in the defense sector if her party wins the next election."
+    "summary": "The US President criticized Vladimir Putin for hindering the advancement of ceasefire talks, expressing frustration over the delays in negotiations."
   },
   {
-    "title": "Dutch pensions to invest €100bn in risky assets boosting Europe’s defence efforts",
+    "title": "Sanctions hurt EU more than Putin, says senior German politician",
     "domain": "business",
     "location": "global",
-    "published": "Sun, 30 Mar 2025 05:18:41 GMT",
+    "published": "Sun, 30 Mar 2025 09:53:09 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The head of APG, a major investment firm, announced that the majority of their investments will be made within their own bloc, citing 'attractive valuations' as the primary reason."
+      "The premier of Saxony, a centre-right politician, has raised questions about the effectiveness of the sanctions imposed on Russia following its invasion of Ukraine."
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc2f3e646-47d6-4ea9-a807-f3581725001b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3f357478-ec35-4c0f-a863-3d71e7ca4022.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -1197,7 +1197,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "The head of the investment firm APG stated that most of their future investments will be focused within their own bloc, attributing this strategy to the appealing valuations found there."
+    "summary": "The premier of Saxony, a politician from the centre-right, has expressed doubts about the effectiveness of the sanctions that were implemented against Russia in response to its invasion of Ukraine."
   },
   {
     "title": "‘I still have nightmares’: the tourists shackled and jailed for weeks at US borders",
@@ -1209,7 +1209,7 @@
       "unknown"
     ],
     "snippets": [
-      "Visitors have experienced unfriendly behavior at the White House since Donald Trump resumed his presidency."
+      "Since Donald Trump's return to the White House, there have been reports of visitors experiencing hostile treatment."
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3504384d-fc50-4797-8764-8cdc6899969d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "score_components": {
@@ -1221,7 +1221,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Since Donald Trump returned to the presidency, there have been reports of visitors encountering unfriendly behavior at the White House."
+    "summary": "Since Donald Trump's return to the White House, there have been reports from various sources indicating that visitors have experienced hostile treatment."
   },
   {
     "title": "Globalisation will triumph over Trump",
@@ -1233,7 +1233,7 @@
       "unknown"
     ],
     "snippets": [
-      "Economic incentives play a more significant role than political factors over time, influencing decisions and outcomes more strongly in the long term."
+      "Economic incentives are more influential than political factors over time, suggesting that financial motivations ultimately have a greater impact on outcomes and decisions."
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8fbacf5b-185b-463c-b8c7-e925e0dd1411.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "score_components": {
@@ -1245,7 +1245,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Economic incentives have a greater impact than political factors in shaping decisions and outcomes over the long term, indicating that financial motivations often outweigh political considerations in influencing long-term decisions."
+    "summary": "Research indicates that economic incentives play a more significant role than political factors in shaping decisions and outcomes over time, highlighting the dominant influence of financial motivations."
   },
   {
     "title": "Russia’s war economy fuels rustbelt revival",
@@ -1257,7 +1257,7 @@
       "unknown"
     ],
     "snippets": [
-      "New businesses, including shops, restaurants, and gyms, are opening in historically impoverished regions that have been known to be recruitment areas for Moscow's army."
+      "New businesses such as shops, restaurants, and gyms are opening in historically impoverished areas that have been known to be recruitment grounds for Moscow's army."
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4663fbea-3705-498e-a7e5-4eb9b74d152b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "score_components": {
@@ -1269,7 +1269,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "New businesses such as shops, restaurants, and gyms are opening in historically impoverished areas that have previously been targeted for army recruitment by Moscow."
+    "summary": "New shops, restaurants, and gyms are opening in areas historically known for poverty and as recruitment grounds for Moscow's army, indicating economic development in these regions."
   },
   {
     "title": "Beijing launches $72bn capital injections at biggest banks",
@@ -1293,7 +1293,7 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Authorities are selling shares to boost lending amid an economic slowdown."
+    "summary": "Authorities are taking action to counter an economic slowdown by selling shares to boost lending capabilities."
   },
   {
     "title": "Only 0.6% of offshore debt recovered from China’s property developers",
@@ -1305,7 +1305,7 @@
       "unknown"
     ],
     "snippets": [
-      "An analysis of 62 companies that underwent restructuring deals since 2021 reveals that only three have made any coupon repayments."
+      "An analysis has revealed that only three out of 62 companies have made coupon repayments on their debts since 2021 as part of their restructuring agreements."
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe24d1d44-9aef-4fd7-9ef2-3156c27f3d80.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "score_components": {
@@ -1317,21 +1317,21 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "An analysis of 62 companies that restructured since 2021 shows only three have made coupon repayments."
+    "summary": "An analysis found that out of 62 companies that agreed to restructure their debts since 2021, only three have made the agreed-upon coupon repayments."
   },
   {
-    "title": "Hegseth says US is setting up a ‘war-fighting’ base in Japan",
+    "title": "Trump revokes permits for oil companies in Venezuela to pressure Maduro",
     "domain": "business",
     "location": "global",
-    "published": "Sun, 30 Mar 2025 07:54:58 GMT",
+    "published": "Sun, 30 Mar 2025 15:57:12 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "During a visit to Tokyo, the former U.S. Defense Secretary emphasized the importance of bolstering defenses to deter China, highlighting the need for stronger security measures."
+      "The Latin American country has taken action against Eni and Global Oil Terminals, following the earlier cancellation of Chevron's license to operate there."
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8213f8cf-7fb9-4be4-a055-9fe6ef90f594.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd4f97267-ec56-438f-b214-d12f259c65e9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -1341,21 +1341,21 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "During a visit to Tokyo, the former U.S. Defense Secretary highlighted the necessity of enhancing defenses to deter China, stressing the importance of stronger security measures."
+    "summary": "The Latin American government has taken measures against energy companies Eni and Global Oil Terminals, following its previous decision to revoke Chevron's operating license in the country."
   },
   {
-    "title": "Sanctions hurt EU more than Putin, says senior German politician",
+    "title": "Autocrats behaving badly: Trump emboldens global strongmen",
     "domain": "business",
     "location": "global",
-    "published": "Sun, 30 Mar 2025 09:53:09 GMT",
+    "published": "Sun, 30 Mar 2025 04:00:12 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The premier of Saxony, a centre-right politician, has recently raised questions about the effectiveness of sanctions imposed on Russia following its invasion of Ukraine."
+      "Leaders in Turkey and Israel are taking advantage of a global political climate where there is less criticism from the United States. This shift allows them to pursue their respective agendas with more freedom, as they face reduced pressure and scrutiny from what has traditionally been one of the most influential voices in international affairs."
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3f357478-ec35-4c0f-a863-3d71e7ca4022.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F26ed1c83-6e47-48d9-bd3b-5b99e73fd55d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -1365,7 +1365,55 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "The premier of Saxony, a centre-right politician, has questioned the effectiveness of sanctions against Russia due to its invasion of Ukraine."
+    "summary": "Turkey and Israel's leaders are leveraging a global political environment with diminished criticism from the U.S. to pursue their agendas with greater freedom, facing less pressure from a traditionally influential international actor."
+  },
+  {
+    "title": "Norway urged to drop ‘crazy’ ban on investment in defence companies",
+    "domain": "business",
+    "location": "global",
+    "published": "Sun, 30 Mar 2025 04:00:12 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The opposition leader has promised to change the current regulation that prevents a $1.8 trillion fund from investing in the defense sector, contingent on her party's victory in the upcoming election."
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fade477c3-39af-4150-b195-0d9a63e5cb42.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 10.0,
+    "summary": "The opposition leader pledged to modify existing rules to allow a $1.8 trillion fund to invest in the defense sector if her party wins the upcoming election."
+  },
+  {
+    "title": "Dutch pensions to invest €100bn in risky assets boosting Europe’s defence efforts",
+    "domain": "business",
+    "location": "global",
+    "published": "Sun, 30 Mar 2025 05:18:41 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The head of APG announced that the majority of their investments will be made within their own bloc, citing 'attractive valuations' as the primary reason for this decision."
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc2f3e646-47d6-4ea9-a807-f3581725001b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 10.0,
+    "summary": "The head of APG stated that most of their investment will occur within their bloc, attributing this strategy to the appealing valuations within the group."
   },
   {
     "title": "Brands spend nominal sums on X ads to keep Musk happy",
@@ -1377,7 +1425,7 @@
       "unknown"
     ],
     "snippets": [
-      "Marketers are cautious about being perceived as boycotting a social media platform owned by a billionaire."
+      "Marketers are cautious about being perceived as boycotting a social media platform owned by a billionaire. They aim to maintain a neutral stance and avoid any negative associations with a boycott."
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F110ce736-bbe2-4657-a404-c0076382062f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "score_components": {
@@ -1389,7 +1437,31 @@
     },
     "score": 0.33499999999999996,
     "normalized_score": 10.0,
-    "summary": "Marketers are carefully considering their approach to avoid the appearance of boycotting a social media platform owned by a billionaire."
+    "summary": "Marketers are carefully avoiding the perception of boycotting a social media platform owned by a billionaire. They strive to stay neutral and steer clear of any negative implications linked to a boycott."
+  },
+  {
+    "title": "What To Expect in the Markets This Week",
+    "domain": "business",
+    "location": "global",
+    "published": "Sun, 30 Mar 2025 16:10:37 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The upcoming news will feature the March Jobs Report, US Trade Data, Corporate Earnings, and data on the Manufacturing and Services Sectors."
+    ],
+    "image_url": "https://www.investopedia.com/thmb/G1kug8UWQJ32GGTC-4vQ-4Kr4F4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-1708196094-9451b1f172f044d981daee23c027bf08.jpg",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 10.0,
+    "summary": "The upcoming news will cover several key economic indicators, including the March Jobs Report, US Trade Data, and Corporate Earnings. Additionally, it will provide insights into the performance of the Manufacturing and Services Sectors."
   },
   {
     "title": "Nvidia turned CoreWeave into a major player in AI years before helping to save its IPO",
@@ -1401,7 +1473,7 @@
       "unknown"
     ],
     "snippets": [
-      "CoreWeave, a company that specializes in selling Nvidia's AI processors, has successfully tapped into a significant market. However, it faces difficulties in appealing to public investors."
+      "CoreWeave, a company specializing in selling Nvidia's in-demand AI processors, is navigating the complexities of appealing to public investors despite its significant market presence."
     ],
     "image_url": "",
     "score_components": {
@@ -1413,7 +1485,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "CoreWeave, a firm specializing in Nvidia's AI processors, has made notable strides in its market sector. Despite this success, the company is encountering challenges in attracting interest from public investors."
+    "summary": "CoreWeave, a firm specializing in Nvidia's AI processors, is working to attract public investors while managing its substantial market presence."
   },
   {
     "title": "In Trump era, companies are rebranding DEI efforts, not giving up",
@@ -1425,7 +1497,7 @@
       "unknown"
     ],
     "snippets": [
-      "Companies are maintaining their related projects but are changing the terminology used in their communications and documentation."
+      "Many companies are persisting with their related projects but are changing the terminology they use."
     ],
     "image_url": "",
     "score_components": {
@@ -1437,31 +1509,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Companies are continuing with their projects but are updating the language used in their communications and documents."
-  },
-  {
-    "title": "Los Angeles turned a profit on its last Olympics. The 2028 Games could come up short",
-    "domain": "business",
-    "location": "national",
-    "published": "Sun, 30 Mar 2025 15:25:22 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Los Angeles previously made a profit from hosting the Olympics. However, concerns are rising that the 2028 Summer Games might not be profitable, potentially resulting in financial burdens for taxpayers."
-    ],
-    "image_url": "",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.275,
-    "normalized_score": 0.0,
-    "summary": "Los Angeles, which had profited from hosting the Olympics in the past, is facing concerns that the 2028 Summer Games may not be profitable, raising fears of financial implications for taxpayers."
+    "summary": "Numerous companies are continuing their projects but are updating the language they use to describe them."
   },
   {
     "title": "23andMe bankruptcy: With America's DNA put on sale, market panic gets a new twist",
@@ -1473,7 +1521,7 @@
       "unknown"
     ],
     "snippets": [
-      "The bankruptcy of genetic testing company 23andMe has raised concerns over the privacy of its customers' DNA data. Questions are emerging about the fate of the genetic information of millions of Americans as the company's assets go on sale."
+      "The bankruptcy of genetic testing firm 23andMe has raised concerns over the privacy of its customers' DNA data. Questions are now being asked about the fate of this sensitive information, as the company's assets, including the genetic data of millions of Americans, could potentially be sold."
     ],
     "image_url": "",
     "score_components": {
@@ -1485,19 +1533,19 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "The genetic testing company 23andMe has filed for bankruptcy, leading to worries about the privacy and future handling of its customers' DNA data. As the company's assets are being sold, there are unanswered questions about what will happen to the genetic information of millions of Americans."
+    "summary": "The bankruptcy of 23andMe has sparked worries over the privacy of its customers' DNA data. There's uncertainty about what will happen to this sensitive information, as the company's assets, which contain the genetic data of millions of Americans, might be sold."
   },
   {
-    "title": "Why Wall Street wants to 'privatize' more of your stock and bond money in market correction",
+    "title": "Los Angeles turned a profit on its last Olympics. The 2028 Games could come up short",
     "domain": "business",
     "location": "national",
-    "published": "Sun, 30 Mar 2025 15:31:40 GMT",
+    "published": "Sun, 30 Mar 2025 15:25:22 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Major financial firms are expanding access to investment strategies typically reserved for high-net-worth individuals, including private credit and lower-volatility equity income strategies, making them available to a broader audience."
+      "Los Angeles previously made a profit from hosting the Olympics, but there are concerns that the 2028 Summer Games might not be financially successful, potentially resulting in financial responsibilities for taxpayers."
     ],
     "image_url": "",
     "score_components": {
@@ -1509,7 +1557,31 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Major financial firms are broadening their offerings by making investment strategies, such as private credit and lower-volatility equity income strategies, previously exclusive to high-net-worth individuals, accessible to a wider audience."
+    "summary": "Los Angeles, which profited from a previous Olympics, faces concerns over the financial success of the 2028 Summer Games. There's a risk that taxpayers could bear financial burdens if the event does not generate expected profits."
+  },
+  {
+    "title": "Why JPMorgan and BlackRock want to 'privatize' more of your stock and bond money in market correction",
+    "domain": "business",
+    "location": "national",
+    "published": "Sun, 30 Mar 2025 16:13:47 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Major financial firms are expanding access to investment strategies typically reserved for high-net-worth individuals, including private credit and lower-volatility equity income strategies, to a broader audience."
+    ],
+    "image_url": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.3,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.275,
+    "normalized_score": 0.0,
+    "summary": "Major financial firms are now offering investment strategies, such as private credit and lower-volatility equity income strategies, previously available only to high-net-worth individuals, to a wider range of investors."
   },
   {
     "title": "Credit card expert: I used 100,000 points to take my mom and grandma on a 'once in a lifetime' trip to Iceland—here's exactly how I did it",
@@ -1521,7 +1593,7 @@
       "unknown"
     ],
     "snippets": [
-      "Daisy Hernandez, from The Points Guy, utilized points accumulated on a credit card she opened in January 2024 to finance a trip involving multiple generations of her family."
+      "Daisy Hernandez from The Points Guy utilized points accumulated on a credit card, opened in January 2024, to fund a trip involving multiple generations."
     ],
     "image_url": "",
     "score_components": {
@@ -1533,7 +1605,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Daisy Hernandez, associated with The Points Guy, used points from a credit card opened in January 2024 to fund a multi-generational family trip."
+    "summary": "Daisy Hernandez from The Points Guy used credit card points, collected since January 2024, to finance a multi-generational trip."
   },
   {
     "title": "'The White Lotus' girls' trip is a disaster—these 3 red flags mean yours might be, too",
@@ -1545,7 +1617,7 @@
       "unknown"
     ],
     "snippets": [
-      "Travel compatibility may be compromised if one person enjoys solo activities like visiting museums or dining alone, while the other does not."
+      "Differences in comfort levels with activities like visiting museums or dining alone can indicate potential compatibility issues for travel companions."
     ],
     "image_url": "",
     "score_components": {
@@ -1557,7 +1629,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Travel compatibility can be affected when one person prefers solo activities, such as going to museums or eating alone, and the other does not."
+    "summary": "Variations in preferences for activities such as going to museums or eating out alone may signal compatibility challenges among travel partners."
   },
   {
     "title": "Novo Nordisk's diabetes pill slashes risk of cardiovascular complications by 14% after four years",
@@ -1569,7 +1641,7 @@
       "unknown"
     ],
     "snippets": [
-      "Clinical trial results indicate that Rybelsus could be a new treatment option for individuals with diabetes and established heart disease, offering a potential advancement in care for these patients."
+      "Recent study results indicate that Rybelsus could be a new treatment option for individuals with diabetes and established heart disease, offering potential benefits for this patient group."
     ],
     "image_url": "",
     "score_components": {
@@ -1581,7 +1653,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Clinical trial results show that Rybelsus may offer a new treatment for people with diabetes and heart disease, potentially improving patient care."
+    "summary": "Recent study results suggest Rybelsus may be a beneficial treatment for people with diabetes and established heart disease, presenting a new option for this patient group."
   },
   {
     "title": "Top Wall Street analysts are confident about the prospects for these 3 stocks",
@@ -1593,7 +1665,7 @@
       "unknown"
     ],
     "snippets": [
-      "Amid market fluctuations, TipRanks highlights three stocks, with Microsoft among them, as noteworthy picks for investors to consider."
+      "TipRanks identified three preferred stocks for consideration amidst market volatility, with Microsoft being one of the highlighted choices."
     ],
     "image_url": "",
     "score_components": {
@@ -1605,7 +1677,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "TipRanks has identified three stocks, including Microsoft, as significant investment options amid current market volatility."
+    "summary": "TipRanks has highlighted three stocks, including Microsoft, as preferred choices for investors to consider during market volatility."
   },
   {
     "title": "Homeownership is ‘an investment,’ Maryland governor says. High prices mean fewer young adults can benefit",
@@ -1617,7 +1689,7 @@
       "unknown"
     ],
     "snippets": [
-      "Research indicates that since 1980, median home prices have risen significantly more rapidly than median household incomes, making home ownership increasingly unattainable for many people."
+      "Since 1980, research has shown that median home prices have risen significantly faster than median household incomes, making home ownership increasingly difficult for many people."
     ],
     "image_url": "",
     "score_components": {
@@ -1629,7 +1701,7 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Since 1980, research shows that median home prices have increased at a much faster rate than median household incomes, making it harder for many individuals to afford home ownership."
+    "summary": "Since 1980, studies indicate that the median price of homes has increased at a much faster rate than the median household income. This trend has made it harder for a growing number of people to afford home ownership."
   },
   {
     "title": "Google searches for ‘how to reduce stress’ are at an all-time high: A doctor explains why and what can actually help",
@@ -1641,7 +1713,7 @@
       "unknown"
     ],
     "snippets": [
-      "A significant increase in Google searches for \"how to manage stress\" indicates widespread concern for stress management, according to Dr. Neha Chaudhary, who describes it as a collective call for assistance. Experts have offered recommendations in response to this trend."
+      "Searches for \"how to manage stress\" have surged on Google, indicating widespread concern for stress management, according to Dr. Neha Chaudhary. Experts have offered recommendations in response to this trend."
     ],
     "image_url": "",
     "score_components": {
@@ -1653,78 +1725,6 @@
     },
     "score": 0.275,
     "normalized_score": 0.0,
-    "summary": "Recent data shows a sharp rise in Google searches for \"how to manage stress,\" highlighting a growing concern for stress management among the public. Dr. Neha Chaudhary views this as a widespread request for help. In response, experts are providing advice to address this issue."
-  },
-  {
-    "title": "Costco's not-so secret weapon: How Kirkland Signature is driving growth and profits",
-    "domain": "business",
-    "location": "national",
-    "published": "Sat, 29 Mar 2025 16:56:20 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "A decline in consumer spending is benefiting Costco, as the situation aligns with one of the company's major strengths."
-    ],
-    "image_url": "",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.275,
-    "normalized_score": 0.0,
-    "summary": "Costco is experiencing benefits from a decrease in consumer spending, which plays to one of the company's key strengths."
-  },
-  {
-    "title": "Not 'a normal market': Recruiter who's hired hundreds says 4 steps can help job seekers stand out",
-    "domain": "business",
-    "location": "national",
-    "published": "Sun, 30 Mar 2025 14:00:01 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Kathleen Nolan observed that job-seekers are applying to positions with a high level of enthusiasm. She noted specific traits in her latest hires, indicating a trend in the behavior of applicants."
-    ],
-    "image_url": "",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.275,
-    "normalized_score": 0.0,
-    "summary": "Kathleen Nolan has noticed an increase in enthusiasm among job-seekers applying for positions, as evidenced by specific traits observed in her recent hires. This trend points to a change in applicant behavior."
-  },
-  {
-    "title": "I've studied over 200 kids—parents who have the closest relationships with their adult kids do 7 things early on",
-    "domain": "business",
-    "location": "national",
-    "published": "Sun, 30 Mar 2025 13:01:36 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Child psychologist Reem Raouda emphasizes that strong parent-child relationships are intentionally built through daily interactions, rather than happening by chance."
-    ],
-    "image_url": "",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.275,
-    "normalized_score": 0.0,
-    "summary": "Child psychologist Reem Raouda highlights the importance of building strong parent-child relationships through intentional daily interactions, stating that such bonds don't form by chance."
+    "summary": "Google searches for \"how to manage stress\" have significantly increased, highlighting a growing concern for stress management, as noted by Dr. Neha Chaudhary. In response, experts are providing advice and recommendations to address this issue."
   }
 ]
