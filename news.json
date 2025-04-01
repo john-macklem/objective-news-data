@@ -1,32 +1,5 @@
 [
   {
-    "title": "Ashwani Kumar makes record-breaking IPL debut for Mumbai Indians",
-    "domain": "general",
-    "location": "global",
-    "published": "Tue, 01 Apr 2025 04:55:17 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Kumar put on an outstanding bowling display, becoming the first Indian player to take four wickets on IPL debut."
-    ],
-    "image_url": "",
-    "summary": "Kumar made history in the Indian Premier League (IPL) by being the first Indian player to take four wickets in his debut match, showcasing an exceptional bowling performance.",
-    "titles": [
-      "Ashwani Kumar makes record-breaking IPL debut for Mumbai Indians"
-    ],
-    "score_components": {
-      "magnitude": 0.30000000000000004,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.365,
-    "normalized_score": 10.0
-  },
-  {
     "title": "Mandalay was the 'city of gold' - now it reeks of death",
     "domain": "general",
     "location": "global",
@@ -39,7 +12,7 @@
       "Residents in Mandalay, Myanmar's second-largest city, speak of despair and sleepless nights since last week's earthquake."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d2/live/34abe480-0ee7-11f0-ac9f-c37d6fd89579.png",
-    "summary": "Residents of Mandalay, Myanmar's second-largest city, have reported experiencing despair and sleepless nights following an earthquake that occurred last week.",
+    "summary": "Residents of Mandalay, Myanmar's second-largest city, have reported experiencing despair and sleepless nights following an earthquake last week.",
     "titles": [
       "Mandalay was the 'city of gold' - now it reeks of death"
     ],
@@ -51,7 +24,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "BBC Verify: What satellite images reveal about Myanmar's quake",
@@ -67,7 +40,7 @@
       "Myanmar's military government says at least 2,000 people were killed in last week's 7.7 magnitude quake."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc39/live/b71fd530-0e73-11f0-b234-07dc7691c360.jpg",
-    "summary": "A 7.7 magnitude earthquake struck Myanmar last week, resulting in at least 2,000 fatalities according to the country's military government.",
+    "summary": "A 7.7 magnitude earthquake struck Myanmar last week, resulting in at least 2,000 fatalities, according to the country's military government.",
     "titles": [
       "BBC Verify: What satellite images reveal about Myanmar's quake",
       "BBC Verify: What satellite images reveal about Myanmar's quake"
@@ -80,7 +53,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "Le Pen's right-wing European allies condemn court verdict as threat to democracy",
@@ -107,13 +80,13 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "Iceland volcano erupts after Blue Lagoon evacuated",
     "domain": "general",
     "location": "global",
-    "published": "Tue, 01 Apr 2025 11:43:39 GMT",
+    "published": "Tue, 01 Apr 2025 13:04:20 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -122,7 +95,7 @@
       "The Blue Lagoon and the town of Grindavik were ordered to evacuate after earthquakes hit the area."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59cb/live/a9efb670-0eee-11f0-ac9f-c37d6fd89579.jpg",
-    "summary": "The Blue Lagoon and Grindavik, a nearby town, were evacuated due to earthquakes in the area.",
+    "summary": "After experiencing earthquakes, the Blue Lagoon and the nearby town of Grindavik were mandated to evacuate as a safety precaution.",
     "titles": [
       "Iceland volcano erupts after Blue Lagoon evacuated"
     ],
@@ -134,7 +107,34 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
+  },
+  {
+    "title": "Putin begins biggest Russian military call-up in years",
+    "domain": "general",
+    "location": "global",
+    "published": "Tue, 01 Apr 2025 12:42:50 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Russia calls up 160,000 men aged 18-30 as it moves to expand the size of its military."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/2c9d70d0-0ef4-11f0-ac9f-c37d6fd89579.jpg",
+    "summary": "Russia has initiated a call-up of 160,000 men aged between 18 and 30 years old, aiming to increase the size of its military forces.",
+    "titles": [
+      "Putin begins biggest Russian military call-up in years"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 10.0
   },
   {
     "title": "Breaking down the 2025 McDonald's All American girls' game",
@@ -161,40 +161,13 @@
       "constructiveness": 0.0
     },
     "score": 0.30500000000000005,
-    "normalized_score": 3.33
-  },
-  {
-    "title": "Tuesdays with Gorney: Breaking down the biggest commits of the weekend",
-    "domain": "sports",
-    "location": "national",
-    "published": "Tue, 01 Apr 2025 11:40:59 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Five-star safety Blaine Bradford committed to Ohio State on Monday, one of the biggest moves so far in the 2026 class."
-    ],
-    "image_url": "",
-    "summary": "Five-star safety Blaine Bradford has committed to Ohio State, marking a significant recruitment success for the university's 2026 class.",
-    "titles": [
-      "Tuesdays with Gorney: Breaking down the biggest commits of the weekend"
-    ],
-    "score_components": {
-      "magnitude": 0.30000000000000004,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.30500000000000005,
-    "normalized_score": 3.33
+    "normalized_score": 5.0
   },
   {
     "title": "UConn returns to Final Four behind Bueckers' 31",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 1 Apr 2025 02:05:53 EST",
+    "published": "Tue, 1 Apr 2025 09:02:19 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -203,7 +176,7 @@
       "Behind 31 points and six assists, Paige Bueckers lifted No. 2 seed UConn to a 78-64 win over No. 1 seed USC in the Spokane 4 regional final, clinching the team's 16th Final Four appearance in 17 years and 24th overall."
     ],
     "image_url": "",
-    "summary": "Paige Bueckers scored 31 points and provided six assists to lead the No. 2 seed UConn to a 78-64 victory over No. 1 seed USC in the Spokane 4 regional final. This win secures UConn's 16th Final Four appearance in the last 17 years and marks their 24th appearance overall.",
+    "summary": "Paige Bueckers scored 31 points and provided six assists, leading the No. 2 seed UConn to a 78-64 victory over No. 1 seed USC in the Spokane 4 regional final. This win secured UConn's 16th Final Four appearance in the last 17 years and their 24th appearance overall.",
     "titles": [
       "UConn returns to Final Four behind Bueckers' 31"
     ],
@@ -221,7 +194,7 @@
     "title": "With torpedo bat, De La Cruz has 7 RBIs for Reds",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 1 Apr 2025 02:05:53 EST",
+    "published": "Tue, 1 Apr 2025 09:02:19 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -230,7 +203,7 @@
       "Using a torpedo bat, Elly De La Cruz had a single, double and two home runs with seven RBIs, as the Cincinnati Reds routed the Texas Rangers 14-3 on Monday night, and after the win, manager Terry Francona said, \"I think it's more the player than the bat.\""
     ],
     "image_url": "",
-    "summary": "Elly De La Cruz led the Cincinnati Reds to a 14-3 victory over the Texas Rangers with a standout performance, including a single, double, and two home runs, totaling seven RBIs. Post-game, manager Terry Francona attributed the success more to De La Cruz's skill than the equipment used.",
+    "summary": "Elly De La Cruz led the Cincinnati Reds to a 14-3 victory over the Texas Rangers, contributing a single, double, and two home runs with seven RBIs. Following the game, Reds manager Terry Francona attributed the success more to De La Cruz's skill than to his use of a torpedo bat.",
     "titles": [
       "With torpedo bat, De La Cruz has 7 RBIs for Reds"
     ],
@@ -248,7 +221,7 @@
     "title": "Sources: Miles to forgo WNBA draft, enter portal",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 1 Apr 2025 02:05:53 EST",
+    "published": "Tue, 1 Apr 2025 09:02:19 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -257,9 +230,36 @@
       "After her team's exit in the Sweet 16 on Saturday, Notre Dame guard Olivia Miles has decided to forgo the WNBA draft, despite being projected as the No. 2 overall selection, and enter the transfer portal, sources told ESPN's Shams Charania on Monday."
     ],
     "image_url": "",
-    "summary": "Notre Dame guard Olivia Miles, projected as the No. 2 overall selection in the WNBA draft, will enter the transfer portal instead of joining the WNBA. This decision follows her team's Sweet 16 exit on Saturday, as reported by ESPN's Shams Charania.",
+    "summary": "Following her team's departure from the Sweet 16 on Saturday, Notre Dame guard Olivia Miles will not enter the WNBA draft, where she was expected to be the No. 2 pick. Instead, she has chosen to enter the transfer portal, according to ESPN's Shams Charania.",
     "titles": [
       "Sources: Miles to forgo WNBA draft, enter portal"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.3,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.275,
+    "normalized_score": 0.0
+  },
+  {
+    "title": "Man City star Haaland could miss up to 7 weeks",
+    "domain": "sports",
+    "location": "national",
+    "published": "Tue, 1 Apr 2025 09:02:19 EST",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Manchester City manager Pep Guardiola has confirmed that Erling Haaland's doctors estimate he will be out between five and seven weeks."
+    ],
+    "image_url": "",
+    "summary": "Manchester City's manager, Pep Guardiola, announced that Erling Haaland is expected to be sidelined for 5 to 7 weeks, according to his doctors' assessment.",
+    "titles": [
+      "Man City star Haaland could miss up to 7 weeks"
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -284,7 +284,7 @@
       "Business secretary Jonathan Reynolds warns of ‘very serious and significant moment’ for economy"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F07988810-5314-4ad5-9d30-457368a76d93.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "UK Business Secretary Jonathan Reynolds has issued a warning about a 'very serious and significant moment' for the economy, highlighting the challenges facing the country's financial stability.",
+    "summary": "UK Business Secretary Jonathan Reynolds has issued a warning about a 'very serious and significant moment' for the economy, indicating a critical juncture for financial stability and growth.",
     "titles": [
       "Starmer prepares for Trump tariffs as trade deal hopes fade"
     ],
@@ -296,7 +296,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "EU brandishes ‘strong plan’ to retaliate against US tariffs",
@@ -311,7 +311,7 @@
       "Commission chief Ursula von der Leyen says Brussels could hit Big Tech services exports"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F77aef6f9-c3b8-44b8-bbb3-d0cb6c858d8f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "European Commission President Ursula von der Leyen has indicated that Brussels may impose restrictions on exports of services by major technology companies, commonly referred to as Big Tech.",
+    "summary": "European Commission President Ursula von der Leyen announced that Brussels is considering measures against Big Tech companies, which could include restrictions on their services exports.",
     "titles": [
       "EU brandishes ‘strong plan’ to retaliate against US tariffs"
     ],
@@ -323,7 +323,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "What to expect on ‘liberation day’",
@@ -338,7 +338,7 @@
       "And will wealthy consumers pull back?"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7bd58ad0-fc2b-49d5-a2f0-ebdee2bfcdab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "Concerns are rising over whether wealthy consumers will reduce their spending amid current economic conditions.",
+    "summary": "The summary focuses on the question of whether affluent consumers will reduce their spending.",
     "titles": [
       "What to expect on ‘liberation day’"
     ],
@@ -350,7 +350,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "Klarna hit by buy now, pay later backlash as it targets $15bn IPO",
@@ -365,7 +365,7 @@
       "Swedish fintech brought ‘pay in four’ to everything from food to fashion but sceptics point to model’s vulnerabilities"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2ea5206-2e5b-45b2-820e-45922a8da4f7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "A Swedish fintech company has expanded the 'pay in four' payment option to a wide range of products, including food and fashion. However, critics raise concerns about the potential vulnerabilities of this payment model.",
+    "summary": "A Swedish fintech company has expanded the 'pay in four' installment payment model to a wide range of products, including food and fashion. However, there are concerns about the potential vulnerabilities of this payment model.",
     "titles": [
       "Klarna hit by buy now, pay later backlash as it targets $15bn IPO"
     ],
@@ -377,7 +377,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "Ten weeks that shook the world",
@@ -392,7 +392,7 @@
       "On many fronts, and with deliberate haste, America is vaporising its soft power"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb34fb3a3-250f-4be6-8957-693d7e55dc70.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The United States is rapidly diminishing its influence and attractiveness to other countries, a concept known as \"soft power.\" This decline is occurring across various areas and is being pursued with urgency.",
+    "summary": "The United States is rapidly diminishing its influence and appeal globally, affecting its ability to shape international outcomes favorably without using force.",
     "titles": [
       "Ten weeks that shook the world"
     ],
@@ -404,7 +404,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "New warnings of a 'Butterfly Effect' -- in reverse",
@@ -419,7 +419,7 @@
       "A new study warns that global climate change may have a devastating effect on butterflies, turning their species-rich, mountain habitats from refuges into traps. Think of it as the 'butterfly effect' -- the idea that something as small as the flapping of a butterfly's wings can eventually lead to a major event such as a hurricane -- in reverse. The new study also suggests that a lack of comprehensive global data about insects may leave conservationists and policymakers ill-prepared to mitigate biodiversity loss from climate change for a wide range of insect species."
     ],
     "image_url": "",
-    "summary": "A study highlights that climate change could severely impact butterflies, transforming their diverse mountain habitats into deadly traps. This situation illustrates a reverse 'butterfly effect', where significant climate changes start with small shifts. Furthermore, the study points out the insufficient global data on insects, suggesting that this gap could hinder efforts to prevent biodiversity loss among various insect species due to climate change.",
+    "summary": "A study indicates that climate change could severely impact butterflies, transforming their diverse mountain habitats from safe havens into traps. It highlights a 'reverse butterfly effect' where minor changes lead to significant consequences. Additionally, the study points out a global data shortage on insects, suggesting that conservationists and policymakers might be under-equipped to address biodiversity loss among insect species due to climate change.",
     "titles": [
       "New warnings of a 'Butterfly Effect' -- in reverse"
     ],
@@ -431,7 +431,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "New study validates lower limits of human heat tolerance",
@@ -446,7 +446,7 @@
       "Human thermoregulation limits are lower than previously thought, indicating that some regions may soon experience heat and humidity levels exceeding safe limits for survival. The study underscores the urgent need to address climate change impacts on human health, providing vital data to inform public health strategies and climate models."
     ],
     "image_url": "",
-    "summary": "Recent research reveals that the human body's ability to regulate temperature is more limited than once believed, suggesting that rising heat and humidity could surpass survival thresholds in certain areas sooner than anticipated. This study highlights the urgent need for action on climate change and its effects on health, offering crucial insights for public health planning and climate modeling.",
+    "summary": "Recent research reveals human thermoregulation limits are lower than once believed, suggesting certain areas might soon face heat and humidity beyond safe survival thresholds. This study highlights the critical need for addressing climate change's effects on health, offering essential information for public health plans and climate modeling.",
     "titles": [
       "New study validates lower limits of human heat tolerance"
     ],
@@ -458,7 +458,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "Clinical trial unearths hidden hypertension with automated searches of health records",
@@ -473,7 +473,7 @@
       "A trial of 648 patients found that the new automated method and intervention strategy resulted in nearly four times as many diagnoses and treatment plans for high blood pressure compared with traditional office-based health care visits."
     ],
     "image_url": "",
-    "summary": "A study involving 648 patients demonstrated that a new automated method and intervention strategy significantly improved the diagnosis and treatment of high blood pressure, yielding nearly four times more diagnoses and treatment plans than traditional office visits.",
+    "summary": "A study involving 648 patients showed that a new automated method and intervention strategy led to almost quadruple the number of high blood pressure diagnoses and treatment plans compared to those identified through standard office visits.",
     "titles": [
       "Clinical trial unearths hidden hypertension with automated searches of health records"
     ],
@@ -485,7 +485,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "Discovery of Quina technology challenges view of ancient human development in East Asia",
@@ -500,7 +500,7 @@
       "Researchers have uncovered a complete Quina technological system in the Longtan site in southwest China. The discovery challenges the widely held perception that the Middle Paleolithic period was mostly static in East Asia."
     ],
     "image_url": "",
-    "summary": "Researchers have discovered a complete Quina technological system at the Longtan site in southwest China, challenging the belief that the Middle Paleolithic period in East Asia was largely unchanging.",
+    "summary": "Researchers have discovered a complete Quina technological system at the Longtan site in southwest China, indicating that the Middle Paleolithic period in East Asia was more dynamic than previously thought. This finding challenges the notion of a mostly static era in the region's prehistory.",
     "titles": [
       "Discovery of Quina technology challenges view of ancient human development in East Asia"
     ],
@@ -512,7 +512,7 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   },
   {
     "title": "Study shows groundwater gains in Arizona yet climate risks still threaten water supply",
@@ -527,7 +527,7 @@
       "A combination of water management practices has contributed to notable groundwater gains in Central Arizona despite the region dealing with long-term water stress, according to a new study."
     ],
     "image_url": "",
-    "summary": "A new study has found that through various water management practices, Central Arizona has achieved significant groundwater gains, even as the region faces ongoing water stress issues.",
+    "summary": "A new study finds that through various water management strategies, Central Arizona has achieved significant groundwater increases, addressing its long-standing water scarcity issues.",
     "titles": [
       "Study shows groundwater gains in Arizona yet climate risks still threaten water supply"
     ],
@@ -539,6 +539,6 @@
       "constructiveness": 0.0
     },
     "score": 0.33499999999999996,
-    "normalized_score": 6.67
+    "normalized_score": 10.0
   }
 ]
