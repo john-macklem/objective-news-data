@@ -12,7 +12,7 @@
       "Kumar put on an outstanding bowling display, becoming the first Indian player to take four wickets on IPL debut."
     ],
     "image_url": "",
-    "summary": "Kumar made history in the Indian Premier League (IPL) by becoming the first Indian player to take four wickets in his debut match, showcasing an exceptional bowling performance.",
+    "summary": "Kumar made history in the Indian Premier League (IPL) by being the first Indian player to take four wickets in his debut match, showcasing an exceptional bowling performance.",
     "titles": [
       "Ashwani Kumar makes record-breaking IPL debut for Mumbai Indians"
     ],
@@ -25,6 +25,33 @@
     },
     "score": 0.365,
     "normalized_score": 10.0
+  },
+  {
+    "title": "Mandalay was the 'city of gold' - now it reeks of death",
+    "domain": "general",
+    "location": "global",
+    "published": "Tue, 01 Apr 2025 10:17:10 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Residents in Mandalay, Myanmar's second-largest city, speak of despair and sleepless nights since last week's earthquake."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d2/live/34abe480-0ee7-11f0-ac9f-c37d6fd89579.png",
+    "summary": "Residents of Mandalay, Myanmar's second-largest city, have reported experiencing despair and sleepless nights following an earthquake that occurred last week.",
+    "titles": [
+      "Mandalay was the 'city of gold' - now it reeks of death"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 6.67
   },
   {
     "title": "BBC Verify: What satellite images reveal about Myanmar's quake",
@@ -40,7 +67,7 @@
       "Myanmar's military government says at least 2,000 people were killed in last week's 7.7 magnitude quake."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc39/live/b71fd530-0e73-11f0-b234-07dc7691c360.jpg",
-    "summary": "A 7.7 magnitude earthquake struck Myanmar last week, resulting in at least 2,000 deaths, according to the country's military government.",
+    "summary": "A 7.7 magnitude earthquake struck Myanmar last week, resulting in at least 2,000 fatalities according to the country's military government.",
     "titles": [
       "BBC Verify: What satellite images reveal about Myanmar's quake",
       "BBC Verify: What satellite images reveal about Myanmar's quake"
@@ -56,7 +83,7 @@
     "normalized_score": 6.67
   },
   {
-    "title": "'Je suis Marine': European rightwingers react to Le Pen ban",
+    "title": "Le Pen's right-wing European allies condemn court verdict as threat to democracy",
     "domain": "general",
     "location": "global",
     "published": "Tue, 01 Apr 2025 04:56:32 GMT",
@@ -65,12 +92,12 @@
       "unknown"
     ],
     "snippets": [
-      "European rightwingers react to the French far-right politician being banned from running for public office."
+      "European rightwingers have voiced support for the French far-right politician after she was banned from running for public office."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f583/live/f989ee70-0eae-11f0-ba12-8d27eb561761.png",
-    "summary": "European right-wing politicians have responded to the decision to ban a French far-right politician from seeking public office.",
+    "summary": "European right-wing figures have expressed support for a French far-right politician who has been prohibited from seeking public office.",
     "titles": [
-      "'Je suis Marine': European rightwingers react to Le Pen ban"
+      "Le Pen's right-wing European allies condemn court verdict as threat to democracy"
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -83,48 +110,21 @@
     "normalized_score": 6.67
   },
   {
-    "title": "US says law applies to 'all parties' in Gaza after Israel kills medics",
+    "title": "Iceland volcano erupts after Blue Lagoon evacuated",
     "domain": "general",
     "location": "global",
-    "published": "Tue, 01 Apr 2025 00:42:21 GMT",
+    "published": "Tue, 01 Apr 2025 11:43:39 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The deaths of 15 people including paramedics in a convoy have been blamed on Israel's military."
+      "The Blue Lagoon and the town of Grindavik were ordered to evacuate after earthquakes hit the area."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb5a/live/44e85e40-0e7f-11f0-b234-07dc7691c360.jpg",
-    "summary": "A convoy, which included paramedics, was hit, resulting in the deaths of 15 people. This incident has been attributed to the Israeli military.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59cb/live/a9efb670-0eee-11f0-ac9f-c37d6fd89579.jpg",
+    "summary": "The Blue Lagoon and Grindavik, a nearby town, were evacuated due to earthquakes in the area.",
     "titles": [
-      "US says law applies to 'all parties' in Gaza after Israel kills medics"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "normalized_score": 6.67
-  },
-  {
-    "title": "University student targeted by Trump leaves the US",
-    "domain": "general",
-    "location": "global",
-    "published": "Tue, 01 Apr 2025 03:12:16 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "British citizen Momodou Taal had his visa revoked due to protest activities opposing Israel."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d02d/live/de1c7040-0e9f-11f0-96d4-0176469b616f.jpg",
-    "summary": "The UK revoked the visa of British citizen Momodou Taal because of his involvement in protests against Israel.",
-    "titles": [
-      "University student targeted by Trump leaves the US"
+      "Iceland volcano erupts after Blue Lagoon evacuated"
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -164,21 +164,21 @@
     "normalized_score": 3.33
   },
   {
-    "title": "Massive with 'intriguing quickness,' this 331-pounder may be good fit for Bills in draft",
+    "title": "Tuesdays with Gorney: Breaking down the biggest commits of the weekend",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 01 Apr 2025 07:10:27 +0000",
+    "published": "Tue, 01 Apr 2025 11:40:59 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "If the Bills have the chance to draft Michigan defensive tackle Kenneth Grant, they should jump all over it."
+      "Five-star safety Blaine Bradford committed to Ohio State on Monday, one of the biggest moves so far in the 2026 class."
     ],
     "image_url": "",
-    "summary": "Several news sources suggest that the Buffalo Bills should strongly consider drafting Kenneth Grant, a defensive tackle from Michigan, if given the opportunity.",
+    "summary": "Five-star safety Blaine Bradford has committed to Ohio State, marking a significant recruitment success for the university's 2026 class.",
     "titles": [
-      "Massive with 'intriguing quickness,' this 331-pounder may be good fit for Bills in draft"
+      "Tuesdays with Gorney: Breaking down the biggest commits of the weekend"
     ],
     "score_components": {
       "magnitude": 0.30000000000000004,
@@ -203,7 +203,7 @@
       "Behind 31 points and six assists, Paige Bueckers lifted No. 2 seed UConn to a 78-64 win over No. 1 seed USC in the Spokane 4 regional final, clinching the team's 16th Final Four appearance in 17 years and 24th overall."
     ],
     "image_url": "",
-    "summary": "Paige Bueckers scored 31 points and provided six assists to lead No. 2 seed UConn to a 78-64 victory over No. 1 seed USC in the Spokane 4 regional final. This win secures UConn's 16th Final Four appearance in the last 17 years and marks their 24th appearance overall.",
+    "summary": "Paige Bueckers scored 31 points and provided six assists to lead the No. 2 seed UConn to a 78-64 victory over No. 1 seed USC in the Spokane 4 regional final. This win secures UConn's 16th Final Four appearance in the last 17 years and marks their 24th appearance overall.",
     "titles": [
       "UConn returns to Final Four behind Bueckers' 31"
     ],
@@ -230,7 +230,7 @@
       "Using a torpedo bat, Elly De La Cruz had a single, double and two home runs with seven RBIs, as the Cincinnati Reds routed the Texas Rangers 14-3 on Monday night, and after the win, manager Terry Francona said, \"I think it's more the player than the bat.\""
     ],
     "image_url": "",
-    "summary": "Elly De La Cruz led the Cincinnati Reds to a 14-3 victory over the Texas Rangers on Monday night by hitting a single, double, and two home runs, resulting in seven RBIs. Following the game, Reds manager Terry Francona attributed the success to De La Cruz's skill, emphasizing, \"I think it's more the player than the bat.\"",
+    "summary": "Elly De La Cruz led the Cincinnati Reds to a 14-3 victory over the Texas Rangers with a standout performance, including a single, double, and two home runs, totaling seven RBIs. Post-game, manager Terry Francona attributed the success more to De La Cruz's skill than the equipment used.",
     "titles": [
       "With torpedo bat, De La Cruz has 7 RBIs for Reds"
     ],
@@ -257,7 +257,7 @@
       "After her team's exit in the Sweet 16 on Saturday, Notre Dame guard Olivia Miles has decided to forgo the WNBA draft, despite being projected as the No. 2 overall selection, and enter the transfer portal, sources told ESPN's Shams Charania on Monday."
     ],
     "image_url": "",
-    "summary": "Notre Dame guard Olivia Miles, projected as the No. 2 overall selection for the WNBA draft, will enter the transfer portal instead of joining the draft, following her team's Sweet 16 exit, according to sources reported by ESPN's Shams Charania.",
+    "summary": "Notre Dame guard Olivia Miles, projected as the No. 2 overall selection in the WNBA draft, will enter the transfer portal instead of joining the WNBA. This decision follows her team's Sweet 16 exit on Saturday, as reported by ESPN's Shams Charania.",
     "titles": [
       "Sources: Miles to forgo WNBA draft, enter portal"
     ],
@@ -272,6 +272,60 @@
     "normalized_score": 0.0
   },
   {
+    "title": "Starmer prepares for Trump tariffs as trade deal hopes fade",
+    "domain": "business",
+    "location": "global",
+    "published": "Tue, 01 Apr 2025 11:48:59 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Business secretary Jonathan Reynolds warns of ‘very serious and significant moment’ for economy"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F07988810-5314-4ad5-9d30-457368a76d93.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "summary": "UK Business Secretary Jonathan Reynolds has issued a warning about a 'very serious and significant moment' for the economy, highlighting the challenges facing the country's financial stability.",
+    "titles": [
+      "Starmer prepares for Trump tariffs as trade deal hopes fade"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 6.67
+  },
+  {
+    "title": "EU brandishes ‘strong plan’ to retaliate against US tariffs",
+    "domain": "business",
+    "location": "global",
+    "published": "Tue, 01 Apr 2025 10:08:57 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Commission chief Ursula von der Leyen says Brussels could hit Big Tech services exports"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F77aef6f9-c3b8-44b8-bbb3-d0cb6c858d8f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "summary": "European Commission President Ursula von der Leyen has indicated that Brussels may impose restrictions on exports of services by major technology companies, commonly referred to as Big Tech.",
+    "titles": [
+      "EU brandishes ‘strong plan’ to retaliate against US tariffs"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 6.67
+  },
+  {
     "title": "What to expect on ‘liberation day’",
     "domain": "business",
     "location": "global",
@@ -284,7 +338,7 @@
       "And will wealthy consumers pull back?"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7bd58ad0-fc2b-49d5-a2f0-ebdee2bfcdab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The focus is on whether affluent consumers will reduce their spending.",
+    "summary": "Concerns are rising over whether wealthy consumers will reduce their spending amid current economic conditions.",
     "titles": [
       "What to expect on ‘liberation day’"
     ],
@@ -299,7 +353,7 @@
     "normalized_score": 6.67
   },
   {
-    "title": "French court leaves Marine Le Pen’s political career on the brink",
+    "title": "Klarna hit by buy now, pay later backlash as it targets $15bn IPO",
     "domain": "business",
     "location": "global",
     "published": "Tue, 01 Apr 2025 04:00:48 GMT",
@@ -308,12 +362,12 @@
       "unknown"
     ],
     "snippets": [
-      "Far-right leader has limited legal options as ruling fires starting gun on race to succeed Emmanuel Macron"
+      "Swedish fintech brought ‘pay in four’ to everything from food to fashion but sceptics point to model’s vulnerabilities"
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd4b99c68-d26b-42f0-b2d8-aa940fc3b276.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "A far-right leader faces restricted legal avenues following a decision that initiates the competition to replace Emmanuel Macron as the leader.",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2ea5206-2e5b-45b2-820e-45922a8da4f7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "summary": "A Swedish fintech company has expanded the 'pay in four' payment option to a wide range of products, including food and fashion. However, critics raise concerns about the potential vulnerabilities of this payment model.",
     "titles": [
-      "French court leaves Marine Le Pen’s political career on the brink"
+      "Klarna hit by buy now, pay later backlash as it targets $15bn IPO"
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -326,21 +380,21 @@
     "normalized_score": 6.67
   },
   {
-    "title": "How a $1.4tn Trump trade war could unfold",
+    "title": "Ten weeks that shook the world",
     "domain": "business",
     "location": "global",
-    "published": "Tue, 01 Apr 2025 04:00:48 GMT",
+    "published": "Tue, 01 Apr 2025 11:39:57 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Econometric study models global fallout from tariff retaliation, including dramatic rise in US prices"
+      "On many fronts, and with deliberate haste, America is vaporising its soft power"
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F90087253-dcf6-4436-b3dc-c82cdd909534.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "An econometric study has analyzed the global impact of tariff retaliation, finding that such measures could lead to a significant increase in prices within the United States.",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb34fb3a3-250f-4be6-8957-693d7e55dc70.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "summary": "The United States is rapidly diminishing its influence and attractiveness to other countries, a concept known as \"soft power.\" This decline is occurring across various areas and is being pursued with urgency.",
     "titles": [
-      "How a $1.4tn Trump trade war could unfold"
+      "Ten weeks that shook the world"
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -353,21 +407,21 @@
     "normalized_score": 6.67
   },
   {
-    "title": "Anime lessons in the limits of AI",
-    "domain": "business",
+    "title": "New warnings of a 'Butterfly Effect' -- in reverse",
+    "domain": "science",
     "location": "global",
-    "published": "Tue, 01 Apr 2025 04:00:48 GMT",
+    "published": "Mon, 31 Mar 2025 19:21:52 EDT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Generative images show us the risks of endowing the technology with magical powers"
+      "A new study warns that global climate change may have a devastating effect on butterflies, turning their species-rich, mountain habitats from refuges into traps. Think of it as the 'butterfly effect' -- the idea that something as small as the flapping of a butterfly's wings can eventually lead to a major event such as a hurricane -- in reverse. The new study also suggests that a lack of comprehensive global data about insects may leave conservationists and policymakers ill-prepared to mitigate biodiversity loss from climate change for a wide range of insect species."
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F07a51f91-24f5-4c68-8b93-c21c705e5a7d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "Generative images, created by advanced technology, highlight the dangers of attributing these tools with extraordinary abilities. This serves as a reminder to approach such technology with a realistic understanding of its capabilities and limitations.",
+    "image_url": "",
+    "summary": "A study highlights that climate change could severely impact butterflies, transforming their diverse mountain habitats into deadly traps. This situation illustrates a reverse 'butterfly effect', where significant climate changes start with small shifts. Furthermore, the study points out the insufficient global data on insects, suggesting that this gap could hinder efforts to prevent biodiversity loss among various insect species due to climate change.",
     "titles": [
-      "Anime lessons in the limits of AI"
+      "New warnings of a 'Butterfly Effect' -- in reverse"
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -380,21 +434,21 @@
     "normalized_score": 6.67
   },
   {
-    "title": "Barclays’ private credit partner struggles to raise new funds",
-    "domain": "business",
+    "title": "New study validates lower limits of human heat tolerance",
+    "domain": "science",
     "location": "global",
-    "published": "Tue, 01 Apr 2025 04:00:48 GMT",
+    "published": "Mon, 31 Mar 2025 19:21:48 EDT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Tie-up with AGL Credit Management launched last year with $1bn from Adia but has attracted little money since"
+      "Human thermoregulation limits are lower than previously thought, indicating that some regions may soon experience heat and humidity levels exceeding safe limits for survival. The study underscores the urgent need to address climate change impacts on human health, providing vital data to inform public health strategies and climate models."
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F61c4bf23-95fa-4e70-9e55-61b7b66c43d8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "A partnership formed last year between AGL Credit Management and Abu Dhabi Investment Authority (Adia), which started with a $1 billion investment from Adia, has since struggled to attract additional funds.",
+    "image_url": "",
+    "summary": "Recent research reveals that the human body's ability to regulate temperature is more limited than once believed, suggesting that rising heat and humidity could surpass survival thresholds in certain areas sooner than anticipated. This study highlights the urgent need for action on climate change and its effects on health, offering crucial insights for public health planning and climate modeling.",
     "titles": [
-      "Barclays’ private credit partner struggles to raise new funds"
+      "New study validates lower limits of human heat tolerance"
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -419,7 +473,7 @@
       "A trial of 648 patients found that the new automated method and intervention strategy resulted in nearly four times as many diagnoses and treatment plans for high blood pressure compared with traditional office-based health care visits."
     ],
     "image_url": "",
-    "summary": "A study involving 648 patients demonstrated that a new automated method and intervention strategy significantly improved high blood pressure diagnosis and treatment, yielding nearly four times more diagnoses and treatment plans than traditional office-based visits.",
+    "summary": "A study involving 648 patients demonstrated that a new automated method and intervention strategy significantly improved the diagnosis and treatment of high blood pressure, yielding nearly four times more diagnoses and treatment plans than traditional office visits.",
     "titles": [
       "Clinical trial unearths hidden hypertension with automated searches of health records"
     ],
@@ -446,7 +500,7 @@
       "Researchers have uncovered a complete Quina technological system in the Longtan site in southwest China. The discovery challenges the widely held perception that the Middle Paleolithic period was mostly static in East Asia."
     ],
     "image_url": "",
-    "summary": "Researchers have discovered a complete Quina technological system at the Longtan site in southwest China, indicating significant technological advancement during the Middle Paleolithic period. This finding challenges the previous belief that this era was largely unchanging in East Asia.",
+    "summary": "Researchers have discovered a complete Quina technological system at the Longtan site in southwest China, challenging the belief that the Middle Paleolithic period in East Asia was largely unchanging.",
     "titles": [
       "Discovery of Quina technology challenges view of ancient human development in East Asia"
     ],
@@ -473,63 +527,9 @@
       "A combination of water management practices has contributed to notable groundwater gains in Central Arizona despite the region dealing with long-term water stress, according to a new study."
     ],
     "image_url": "",
-    "summary": "A new study has found that improved water management practices have led to significant groundwater gains in Central Arizona, a region previously facing long-term water stress.",
+    "summary": "A new study has found that through various water management practices, Central Arizona has achieved significant groundwater gains, even as the region faces ongoing water stress issues.",
     "titles": [
       "Study shows groundwater gains in Arizona yet climate risks still threaten water supply"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "normalized_score": 6.67
-  },
-  {
-    "title": "My robot therapist: The ethics of AI mental health chatbots for kids",
-    "domain": "science",
-    "location": "global",
-    "published": "Mon, 31 Mar 2025 15:12:56 EDT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "AI mental health apps may offer a cheap and accessible way to fill the gaps in the overstretched U.S. mental health care system, but ethics experts warn that we need to be thoughtful about how we use them, especially with children."
-    ],
-    "image_url": "",
-    "summary": "AI mental health apps could provide an affordable option to support the strained U.S. mental health care system. However, ethics experts caution the importance of careful consideration in their application, particularly when it comes to children.",
-    "titles": [
-      "My robot therapist: The ethics of AI mental health chatbots for kids"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "normalized_score": 6.67
-  },
-  {
-    "title": "Scientists pioneer method to tackle 'forever chemicals'",
-    "domain": "science",
-    "location": "global",
-    "published": "Mon, 31 Mar 2025 15:12:53 EDT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Researchers have developed an innovative solution to a pressing environmental challenge: removing and destroying per- and polyfluoroalkyl substances (PFAS), commonly called 'forever chemicals.' A new study unveils a method that not only eliminates PFAS from water systems but also transforms waste into high-value graphene, offering a cost-effective and sustainable approach to environmental remediation."
-    ],
-    "image_url": "",
-    "summary": "Researchers have created a method to remove 'forever chemicals' (PFAS) from water, converting the waste into valuable graphene. This sustainable solution addresses environmental concerns cost-effectively.",
-    "titles": [
-      "Scientists pioneer method to tackle 'forever chemicals'"
     ],
     "score_components": {
       "magnitude": 0.2,
