@@ -12,7 +12,7 @@
       "The far-right figurehead has been barred from running for public office for five years, throwing her plans into disarray."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5006/live/384498e0-0e69-11f0-a16f-bf3e3a129fee.jpg",
-    "summary": "A far-right political figure has been banned from seeking any public office for the next five years, disrupting her political ambitions.",
+    "summary": "A far-right political figure has been officially banned from seeking any public office for a duration of five years, significantly disrupting her political ambitions.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -48,6 +48,30 @@
     "normalized_score": 10.0
   },
   {
+    "title": "US says law applies to 'all parties' in Gaza",
+    "domain": "general",
+    "location": "global",
+    "published": "Tue, 01 Apr 2025 00:42:21 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The deaths of 15 people including paramedics in a convoy have been blamed on Israel's military."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb5a/live/44e85e40-0e7f-11f0-b234-07dc7691c360.jpg",
+    "summary": "A convoy, which included paramedics, suffered the loss of 15 lives. These deaths have been attributed to the actions of Israel's military.",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 10.0
+  },
+  {
     "title": "US deports more alleged gang members to El Salvador",
     "domain": "general",
     "location": "global",
@@ -60,7 +84,7 @@
       "Officials said 17 alleged criminals were deported despite a court order."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c23c/live/49018240-0e7a-11f0-8630-a73925b1716c.jpg",
-    "summary": "Seventeen individuals, identified as alleged criminals, were deported despite the existence of a court order that should have prevented their removal.",
+    "summary": "Officials deported 17 individuals claimed to be criminals, despite a court order prohibiting their removal.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -84,31 +108,7 @@
       "Several states have been hit with heavy rain, hail and damaging winds, with storms expected to continue in some areas through Thursday."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcc2/live/38109c50-0e84-11f0-ba12-8d27eb561761.jpg",
-    "summary": "Several states are experiencing severe weather conditions, including heavy rain, hail, and damaging winds. The storms are forecasted to persist in some regions until Thursday.",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "normalized_score": 10.0
-  },
-  {
-    "title": "Russia still 'working with US' after Trump says he is 'angry' with Putin",
-    "domain": "general",
-    "location": "global",
-    "published": "Mon, 31 Mar 2025 14:50:18 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "In its first response to Trump's criticism of Putin, the Kremlin tried to play down the tensions between the two leaders."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90a/live/53bcbfe0-0e40-11f0-bfea-d170975f1d6a.jpg",
-    "summary": "The Kremlin has responded to former President Trump's criticism of President Putin by attempting to minimize the perceived discord between the two leaders.",
+    "summary": "Several states are experiencing severe weather, including heavy rain, hail, and damaging winds. The storms are forecasted to persist in some regions until Thursday.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -144,34 +144,10 @@
     "normalized_score": 5.0
   },
   {
-    "title": "What will Titans, Browns do with top 2 draft picks? From QBs to generational players, breaking down 5 biggest questions",
-    "domain": "sports",
-    "location": "national",
-    "published": "Mon, 31 Mar 2025 23:29:10 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Would Tennessee consider trading down? Does Cleveland actually want to trade *up*? Is anyone besides a QB in play at the top of the draft? Here's what Monday's interview sessions at the spring owners meetings tell us."
-    ],
-    "image_url": "",
-    "summary": "During Monday's interview sessions at the spring owners meetings, discussions emerged about potential draft strategies. Questions were raised about whether Tennessee might trade down and if Cleveland is looking to trade up. Additionally, there was speculation on whether players other than quarterbacks are being considered for top draft picks.",
-    "score_components": {
-      "magnitude": 0.30000000000000004,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.30500000000000005,
-    "normalized_score": 5.0
-  },
-  {
     "title": "Braves' Profar gets 80-game ban for PED violation",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 31 Mar 2025 20:19:17 EST",
+    "published": "Mon, 31 Mar 2025 20:59:49 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -195,17 +171,16 @@
     "title": "Pels shut down Zion, McCollum for rest of season",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 31 Mar 2025 20:19:17 EST",
+    "published": "Mon, 31 Mar 2025 20:59:49 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The New Orleans Pelicans are shutting down Zion Williamson (back) and CJ McCollum (foot) for the rest of the season.",
-      "The New Orleans Pelicans announced on Monday that Zion Williamson and CJ McCollum will not play again this season."
+      "The New Orleans Pelicans are shutting down Zion Williamson (back) and CJ McCollum (foot) for the rest of the season."
     ],
     "image_url": "",
-    "summary": "The New Orleans Pelicans have announced that Zion Williamson, due to a back injury, and CJ McCollum, due to a foot injury, will not play for the remainder of the season.",
+    "summary": "The New Orleans Pelicans have announced that Zion Williamson, due to a back injury, and CJ McCollum, because of a foot injury, will not play for the remainder of the season.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -220,7 +195,7 @@
     "title": "Browns' Haslam: 'Big swing-and-miss' on Watson",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 31 Mar 2025 20:19:18 EST",
+    "published": "Mon, 31 Mar 2025 20:59:49 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -229,7 +204,31 @@
       "Browns co-owner Jimmy Haslam said the team \"took a big swing-and-miss\" in acquiring QB Deshaun Watson and signing him to a $230 million deal that was fully guaranteed."
     ],
     "image_url": "",
-    "summary": "Browns co-owner Jimmy Haslam admitted the team made a significant error in acquiring QB Deshaun Watson and signing him to a fully guaranteed $230 million deal, describing the move as a \"big swing-and-miss.\"",
+    "summary": "Browns co-owner Jimmy Haslam acknowledged that the team made a significant error in acquiring quarterback Deshaun Watson and signing him to a fully guaranteed $230 million contract, describing the move as a \"big swing-and-miss.\"",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.3,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.275,
+    "normalized_score": 0.0
+  },
+  {
+    "title": "Harper, projected No. 2 pick, declares for draft",
+    "domain": "sports",
+    "location": "national",
+    "published": "Mon, 31 Mar 2025 20:59:49 EST",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Rutgers freshman Dylan Harper, the projected No. 2 pick in the 2025 NBA draft, announced on ESPN's \"NBA Today\" on Monday that he will declare for the draft."
+    ],
+    "image_url": "",
+    "summary": "Rutgers freshman Dylan Harper, anticipated to be the second overall pick in the 2025 NBA draft, declared his intention to enter the draft on ESPN's \"NBA Today\" on Monday.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -253,7 +252,7 @@
       "S&amp;P 500 sinks almost 5% in first three months of 2025 on rising concerns over economy"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F610bd986-b045-47f4-9841-3d2d29ed13e9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The S&P 500 dropped nearly 5% in the first quarter of 2025, driven by increasing worries about the economy.",
+    "summary": "The S&P 500 dropped nearly 5% in the first quarter of 2025, reflecting growing concerns about the economy.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -277,7 +276,7 @@
       "Even the president’s supporters are sceptical of new levies to be imposed on trading partners on April 2"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcc0abedf-7a7d-45ba-bc1c-a9700ee2576e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The president plans to impose new levies on trading partners starting April 2, a move that has drawn skepticism from even his supporters.",
+    "summary": "The president plans to impose new levies on trading partners starting April 2, a move that has drawn skepticism even among the president's supporters.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -301,7 +300,7 @@
       "The bank’s integration of Credit Suisse is going well. It’s everything else that’s the problem"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2af1d681-c339-458a-a29d-a47bb836a1e6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The bank reports that the process of integrating Credit Suisse is progressing smoothly. However, it is facing challenges in other areas of its operations.",
+    "summary": "The bank reports that its merger with Credit Suisse is progressing successfully. However, it is facing challenges in other areas of its operations.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -325,7 +324,7 @@
       "Fighting for democracy can be a lonely and dangerous business"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3e89371a-4ed1-46f0-af87-fa999fc19598.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "Advocating for democracy often involves risks and can lead to isolation for those involved in the struggle.",
+    "summary": "Advocacy for democracy often involves risks and can isolate individuals from broader support networks, highlighting the challenges and potential dangers faced by those who engage in this endeavor.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -349,7 +348,7 @@
       "Even the most powerful nation in the world needs foreign investment"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F066c0a7f-0ccd-4ec9-b0c0-35b79309fa75.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The United States, recognized as a powerful nation globally, still requires investments from foreign countries to support its economy.",
+    "summary": "The United States, recognized as the world's most powerful nation, requires foreign investment to support its economy and development.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -373,7 +372,7 @@
       "As warehouses go, nuclei are more like libraries than bank vaults. Too many cellular components need access to the genome to lock it down like Fort Knox. Instead, large groupings of more than 1,000 individual protein molecules called nuclear pore complexes (NPCs) pepper the dividing membrane, serving as gateways for materials and messages entering and exiting the nucleus. While the basic need for this shuttle service is constant, scientists have shown that cells dynamically adjust their amounts of NPCs like a retail store opening more or fewer checkout lines throughout the day. Scientists now reveal the results of screening the entire human genome to find factors influencing how many NPCs are assembled."
     ],
     "image_url": "",
-    "summary": "Scientists have discovered that cells regulate the number of nuclear pore complexes (NPCs), which act as gateways for materials and messages to enter and exit the nucleus, much like checkout lines in a retail store. This adjustment is based on the cell's needs, challenging the previous notion of the nucleus as a static structure. The research involved screening the entire human genome to identify factors that influence the assembly of NPCs, highlighting the dynamic nature of cellular components.",
+    "summary": "Scientists have discovered that cells adjust the number of nuclear pore complexes (NPCs), which act as gateways for materials entering and exiting the nucleus, similar to how a retail store changes the number of open checkout lines. This adjustment is crucial for cellular function, as NPCs facilitate the exchange of substances and information. Through screening the entire human genome, researchers identified factors that influence the assembly of NPCs, shedding light on the dynamic nature of cellular regulation.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -397,7 +396,7 @@
       "A recent study finds most critically injured patients can recover with less supplemental oxygen than has previously been suggested."
     ],
     "image_url": "",
-    "summary": "A recent study has shown that critically injured patients may recover effectively with lower levels of supplemental oxygen than previously recommended.",
+    "summary": "A recent study has discovered that critically injured patients may require less supplemental oxygen than previously believed to recover effectively.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -421,7 +420,7 @@
       "New research reveals that lower proportions of specific sleep stages are associated with reduced brain volume in regions vulnerable to the development of Alzheimer's disease over time."
     ],
     "image_url": "",
-    "summary": "Recent research has found a link between decreased amounts of certain sleep stages and a reduction in brain volume in areas susceptible to Alzheimer's disease progression.",
+    "summary": "Recent research has found a link between decreased amounts of certain sleep stages and a reduction in brain volume in areas susceptible to Alzheimer's disease, suggesting sleep patterns could influence the progression of the condition.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -445,7 +444,7 @@
       "A new artificial intelligence tool could aid in limiting or even prevent pandemics by identifying animal species that may harbor and spread viruses capable of infecting humans. The machine learning model analyzes host characteristics and virus genetics to identify potential animal reservoirs and geographic areas where new outbreaks are more likely to occur."
     ],
     "image_url": "",
-    "summary": "A new artificial intelligence tool has been developed to help prevent pandemics. It works by identifying animal species that could harbor and spread viruses to humans. The tool uses machine learning to analyze characteristics of hosts and virus genetics, aiming to pinpoint potential animal reservoirs and the geographic areas where new outbreaks could emerge.",
+    "summary": "A new machine learning tool has been developed to help prevent pandemics by identifying animals that could carry and spread viruses to humans. This AI model uses information on animal traits and virus genetics to pinpoint potential animal reservoirs and the geographic areas at higher risk for outbreaks.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -469,7 +468,7 @@
       "A new study on the genetic causes of the PTEN Hamartoma Tumour Syndrome (PHTS) has found that inhibitors of the PI3ka pathway, commonly used as anticancer drugs, are also effective against this disease, reducing the extent of vascular malformations and lesion-associated pain in animal models. The research suggests the repurposing of these drugs may offer a new hope for PHTS patients, especially at younger ages."
     ],
     "image_url": "",
-    "summary": "A study has discovered that drugs inhibiting the PI3ka pathway, typically used in cancer treatment, can also treat PTEN Hamartoma Tumour Syndrome (PHTS) by lessening vascular malformations and pain in animal models. This finding suggests these drugs could be repurposed to help PHTS patients, potentially benefiting younger individuals.",
+    "summary": "A recent study has discovered that anticancer drugs targeting the PI3ka pathway can reduce vascular malformations and pain in animal models of PTEN Hamartoma Tumour Syndrome (PHTS). This suggests repurposing these drugs could provide a new treatment option for PHTS patients, particularly beneficial for younger individuals.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
