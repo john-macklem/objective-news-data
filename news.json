@@ -12,7 +12,7 @@
       "The far-right figurehead has been barred from running for public office for five years, throwing her plans into disarray."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5006/live/384498e0-0e69-11f0-a16f-bf3e3a129fee.jpg",
-    "summary": "A far-right political figure has been prohibited from seeking any public office for a period of five years, significantly disrupting her future political ambitions.",
+    "summary": "A far-right political figure has been banned from seeking any public office for the next five years, disrupting her political aspirations.",
     "titles": [
       "Shock Le Pen verdict rocks French far right"
     ],
@@ -39,7 +39,7 @@
       "Myanmar's military government says at least 2,000 people were killed in last week's 7.7 magnitude quake."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc39/live/b71fd530-0e73-11f0-b234-07dc7691c360.jpg",
-    "summary": "Myanmar's military government reported that a 7.7 magnitude earthquake last week resulted in at least 2,000 deaths.",
+    "summary": "Myanmar's military government reported that a 7.7 magnitude earthquake last week resulted in at least 2,000 fatalities.",
     "titles": [
       "BBC Verify: What satellite images reveal about Myanmar's quake"
     ],
@@ -66,7 +66,7 @@
       "The deaths of 15 people including paramedics in a convoy have been blamed on Israel's military."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb5a/live/44e85e40-0e7f-11f0-b234-07dc7691c360.jpg",
-    "summary": "A convoy, including paramedics, was attacked, resulting in the deaths of 15 people. The incident has been attributed to the Israeli military.",
+    "summary": "Fifteen individuals, among them paramedics, were killed in a convoy. Israel's military has been held responsible for these deaths.",
     "titles": [
       "US says law applies to 'all parties' in Gaza"
     ],
@@ -93,7 +93,7 @@
       "Officials said 17 alleged criminals were deported despite a court order."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c23c/live/49018240-0e7a-11f0-8630-a73925b1716c.jpg",
-    "summary": "Seventeen individuals, described as alleged criminals, were deported in violation of a court order, according to officials.",
+    "summary": "Seventeen individuals, identified as alleged criminals, were deported from a country despite there being a court order in place that should have prevented their removal.",
     "titles": [
       "US deports more alleged gang members to El Salvador"
     ],
@@ -147,9 +147,36 @@
       "Everything you need to know about the 2025 McDonald's All American girls' game on Tuesday (6:30 p.m. ET, ESPN2)."
     ],
     "image_url": "",
-    "summary": "The 2025 McDonald's All American girls' game is scheduled for Tuesday at 6:30 p.m. ET and will be broadcast on ESPN2.",
+    "summary": "The 2025 McDonald's All American girls' game is scheduled for Tuesday at 6:30 p.m. ET and will be broadcasted on ESPN2.",
     "titles": [
       "Breaking down the 2025 McDonald's All American girls' game"
+    ],
+    "score_components": {
+      "magnitude": 0.30000000000000004,
+      "recency": 0.5,
+      "proximity": 0.3,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.30500000000000005,
+    "normalized_score": 5.0
+  },
+  {
+    "title": "BREAKING: Purdue lands South Dakota State transfer center Oscar Cluff",
+    "domain": "sports",
+    "location": "national",
+    "published": "Tue, 01 Apr 2025 01:13:15 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The first transfer portal addition of the off-season for Purdue basketball is a big one... literally."
+    ],
+    "image_url": "",
+    "summary": "Purdue basketball has made its first off-season addition through the transfer portal, securing a significant player to join their team.",
+    "titles": [
+      "BREAKING: Purdue lands South Dakota State transfer center Oscar Cluff"
     ],
     "score_components": {
       "magnitude": 0.30000000000000004,
@@ -174,7 +201,7 @@
       "With the NFL draft under a month away, it’s time to check in on the Raiders’ offensive tackle position to give it a condition of either Strong, Stable, Unstable, Serious, or Critical."
     ],
     "image_url": "",
-    "summary": "As the NFL draft approaches, an evaluation of the Raiders' offensive tackle position is underway, aiming to classify its condition as either Strong, Stable, Unstable, Serious, or Critical, to assess team needs.",
+    "summary": "The NFL draft is approaching, and an assessment of the Raiders' offensive tackle position categorizes its condition as ranging from Strong, Stable, Unstable, Serious, to Critical, indicating a review of the team's needs in this area.",
     "titles": [
       "Raiders Position Assessment: Breaking down the Las Vegas offensive tackle group"
     ],
@@ -192,7 +219,7 @@
     "title": "Braves' Profar gets 80-game ban for PED violation",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 31 Mar 2025 20:59:49 EST",
+    "published": "Mon, 31 Mar 2025 21:27:21 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -216,48 +243,21 @@
     "normalized_score": 0.0
   },
   {
-    "title": "Pels shut down Zion, McCollum for rest of season",
+    "title": "Texas into 1st Final Four since '03, gets S.C. again",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 31 Mar 2025 20:59:49 EST",
+    "published": "Mon, 31 Mar 2025 21:27:21 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The New Orleans Pelicans are shutting down Zion Williamson (back) and CJ McCollum (foot) for the rest of the season."
+      "No. 1 seed Texas wore down No. 2 TCU 58-47 in the Elite Eight on Monday night and now heads to the women's Final Four for the first time since 2003."
     ],
     "image_url": "",
-    "summary": "The New Orleans Pelicans have announced that Zion Williamson, due to a back injury, and CJ McCollum, due to a foot injury, will not play for the remainder of the season.",
+    "summary": "The No. 1 seed Texas defeated No. 2 seed TCU with a score of 58-47 in the Elite Eight on Monday night, advancing to the women's Final Four for the first time since 2003.",
     "titles": [
-      "Pels shut down Zion, McCollum for rest of season"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.3,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.275,
-    "normalized_score": 0.0
-  },
-  {
-    "title": "Browns' Haslam: 'Big swing-and-miss' on Watson",
-    "domain": "sports",
-    "location": "national",
-    "published": "Mon, 31 Mar 2025 20:59:49 EST",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Browns co-owner Jimmy Haslam said the team \"took a big swing-and-miss\" in acquiring QB Deshaun Watson and signing him to a $230 million deal that was fully guaranteed."
-    ],
-    "image_url": "",
-    "summary": "Browns co-owner Jimmy Haslam acknowledged the team made a significant error in acquiring quarterback Deshaun Watson and signing him to a fully guaranteed $230 million deal, describing the move as a \"big swing-and-miss.\"",
-    "titles": [
-      "Browns' Haslam: 'Big swing-and-miss' on Watson"
+      "Texas into 1st Final Four since '03, gets S.C. again"
     ],
     "score_components": {
       "magnitude": 0.2,
@@ -282,7 +282,7 @@
       "S&amp;P 500 sinks almost 5% in first three months of 2025 on rising concerns over economy"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F610bd986-b045-47f4-9841-3d2d29ed13e9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The S&P 500 fell nearly 5% in the first quarter of 2025, driven by increasing worries about the economy.",
+    "summary": "The S&P 500 dropped nearly 5% in the first quarter of 2025, driven by increasing worries about the economy.",
     "titles": [
       "US stocks post worst quarter since 2022 as tariff worries swirl"
     ],
@@ -309,7 +309,7 @@
       "Even the president’s supporters are sceptical of new levies to be imposed on trading partners on April 2"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcc0abedf-7a7d-45ba-bc1c-a9700ee2576e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "Supporters of the president express skepticism about the new taxes on trading partners set to begin on April 2.",
+    "summary": "The president plans to impose new levies on trading partners starting April 2, a move that has drawn skepticism from even his supporters.",
     "titles": [
       "Trump has promised tariff ‘liberation day’. Americans aren’t so sure"
     ],
@@ -363,7 +363,7 @@
       "Fighting for democracy can be a lonely and dangerous business"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3e89371a-4ed1-46f0-af87-fa999fc19598.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "Advocating for democracy often involves risks and can lead to isolation, highlighting the challenges faced by individuals and groups pushing for democratic principles and reforms.",
+    "summary": "Advocating for democracy often involves risks and can be an isolating endeavor, highlighting the challenges faced by individuals and groups pushing for democratic reforms and principles.",
     "titles": [
       "Lessons from Russia, Turkey and India for Trump’s America"
     ],
@@ -390,7 +390,7 @@
       "Even the most powerful nation in the world needs foreign investment"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F066c0a7f-0ccd-4ec9-b0c0-35b79309fa75.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The statement highlights the necessity of foreign investment for economic health and growth, emphasizing that even the most powerful countries rely on capital from abroad to sustain and enhance their economies.",
+    "summary": "The statement emphasizes that even the most powerful country globally relies on foreign investment, highlighting the importance of international financial support and collaboration for economic stability and growth.",
     "titles": [
       "America cannot afford to break global investor trust"
     ],
@@ -417,7 +417,7 @@
       "As warehouses go, nuclei are more like libraries than bank vaults. Too many cellular components need access to the genome to lock it down like Fort Knox. Instead, large groupings of more than 1,000 individual protein molecules called nuclear pore complexes (NPCs) pepper the dividing membrane, serving as gateways for materials and messages entering and exiting the nucleus. While the basic need for this shuttle service is constant, scientists have shown that cells dynamically adjust their amounts of NPCs like a retail store opening more or fewer checkout lines throughout the day. Scientists now reveal the results of screening the entire human genome to find factors influencing how many NPCs are assembled."
     ],
     "image_url": "",
-    "summary": "Scientists have discovered that cells regulate the number of nuclear pore complexes (NPCs), which act as gateways for materials entering and exiting the nucleus, similarly to how a retail store adjusts its checkout lines. This regulation is crucial as the nucleus, likened to a library rather than a bank vault, requires constant access by cellular components. Through screening the entire human genome, researchers identified factors that influence the assembly of NPCs, highlighting the dynamic nature of cellular function.",
+    "summary": "Scientists have discovered that cells regulate the number of nuclear pore complexes (NPCs), which act as gateways for materials and messages entering and exiting the nucleus, similar to checkout lines in a retail store. This regulation is akin to adjusting the number of open checkout lines based on demand. Through screening the entire human genome, researchers identified factors that influence the assembly of NPCs, highlighting the dynamic nature of cellular components in response to various needs.",
     "titles": [
       "Delicate balancing act determines how many genome gateways form in cells"
     ],
@@ -444,7 +444,7 @@
       "A recent study finds most critically injured patients can recover with less supplemental oxygen than has previously been suggested."
     ],
     "image_url": "",
-    "summary": "A recent study has shown that critically injured patients may be able to recover effectively with lower levels of supplemental oxygen than previously recommended.",
+    "summary": "A recent study indicates that critically injured patients may require less supplemental oxygen for recovery than previously believed.",
     "titles": [
       "Change in oxygen standards for trauma patients?"
     ],
@@ -471,7 +471,7 @@
       "New research reveals that lower proportions of specific sleep stages are associated with reduced brain volume in regions vulnerable to the development of Alzheimer's disease over time."
     ],
     "image_url": "",
-    "summary": "Recent research has found a link between decreased amounts of certain sleep phases and a reduction in brain volume in areas susceptible to Alzheimer's disease, suggesting a potential connection between sleep patterns and the risk of developing this condition over time.",
+    "summary": "New research has found that reduced amounts of certain sleep stages are linked to smaller brain sizes in areas that are at risk for Alzheimer's disease as time progresses.",
     "titles": [
       "New study links lower proportions of certain sleep stages to brain changes associated with Alzheimer's disease"
     ],
@@ -498,7 +498,7 @@
       "A new artificial intelligence tool could aid in limiting or even prevent pandemics by identifying animal species that may harbor and spread viruses capable of infecting humans. The machine learning model analyzes host characteristics and virus genetics to identify potential animal reservoirs and geographic areas where new outbreaks are more likely to occur."
     ],
     "image_url": "",
-    "summary": "A newly developed artificial intelligence tool aims to help prevent pandemics. It identifies animal species that could carry and spread viruses to humans by analyzing their characteristics and virus genetics. This machine learning model also pinpoints geographic areas at higher risk for new outbreaks.",
+    "summary": "A new artificial intelligence tool has been developed to help prevent pandemics by detecting animal species that could carry and spread viruses to humans. This tool uses machine learning to examine the traits of hosts and the genetics of viruses to pinpoint possible animal reservoirs and the geographic locations where outbreaks might start.",
     "titles": [
       "Machine learning model to predict virus reservoirs"
     ],
@@ -525,7 +525,7 @@
       "A new study on the genetic causes of the PTEN Hamartoma Tumour Syndrome (PHTS) has found that inhibitors of the PI3ka pathway, commonly used as anticancer drugs, are also effective against this disease, reducing the extent of vascular malformations and lesion-associated pain in animal models. The research suggests the repurposing of these drugs may offer a new hope for PHTS patients, especially at younger ages."
     ],
     "image_url": "",
-    "summary": "A study has discovered that anticancer drugs targeting the PI3ka pathway can reduce vascular malformations and pain in animal models of PTEN Hamartoma Tumour Syndrome (PHTS). This suggests repurposing these drugs could benefit PHTS patients, particularly younger ones.",
+    "summary": "A study has discovered that drugs inhibiting the PI3ka pathway, already used in cancer treatment, can also reduce vascular malformations and pain associated with PTEN Hamartoma Tumour Syndrome (PHTS). This finding opens up the possibility of repurposing these medications to treat PHTS, offering new hope to patients, particularly younger individuals.",
     "titles": [
       "Common anticancer drugs may offer new hope to PTEN Hamartoma Tumour Syndrome patients"
     ],
