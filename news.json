@@ -12,7 +12,7 @@
       "The far-right figurehead has been barred from running for public office for five years, throwing her plans into disarray."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5006/live/384498e0-0e69-11f0-a16f-bf3e3a129fee.jpg",
-    "summary": "A far-right political figure has been banned from seeking any public office for a period of five years, disrupting her future political ambitions.",
+    "summary": "A far-right political figure has been banned from seeking any public office for the next five years, disrupting her political ambitions.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -60,7 +60,31 @@
       "Officials said 17 alleged criminals were deported despite a court order."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c23c/live/49018240-0e7a-11f0-8630-a73925b1716c.jpg",
-    "summary": "Seventeen individuals, described as alleged criminals, were deported in violation of a court order, according to officials.",
+    "summary": "Seventeen individuals, identified as alleged criminals, were deported despite the existence of a court order that should have prevented their removal.",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.5,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.33499999999999996,
+    "normalized_score": 10.0
+  },
+  {
+    "title": "Roof ripped off home as severe storms and tornadoes hit central US",
+    "domain": "general",
+    "location": "global",
+    "published": "Mon, 31 Mar 2025 23:05:11 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Several states have been hit with heavy rain, hail and damaging winds, with storms expected to continue in some areas through Thursday."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcc2/live/38109c50-0e84-11f0-ba12-8d27eb561761.jpg",
+    "summary": "Several states are experiencing severe weather conditions, including heavy rain, hail, and damaging winds. The storms are forecasted to persist in some regions until Thursday.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -84,31 +108,7 @@
       "In its first response to Trump's criticism of Putin, the Kremlin tried to play down the tensions between the two leaders."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90a/live/53bcbfe0-0e40-11f0-bfea-d170975f1d6a.jpg",
-    "summary": "The Kremlin has attempted to minimize the significance of tensions between Trump and Putin following Trump's criticism of Putin. This marks the first time the Kremlin has responded to such criticisms.",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.5,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.33499999999999996,
-    "normalized_score": 10.0
-  },
-  {
-    "title": "Zimbabwe shuts down amid calls for protests",
-    "domain": "general",
-    "location": "global",
-    "published": "Mon, 31 Mar 2025 17:40:00 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Many streets across Zimbabwe remained deserted and empty on the day of a planned protest."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab1d/live/cb58f200-0e4d-11f0-ba12-8d27eb561761.jpg",
-    "summary": "Streets in various parts of Zimbabwe were largely deserted on the day a protest was scheduled to occur.",
+    "summary": "The Kremlin has responded to former President Trump's criticism of President Putin by attempting to minimize the perceived discord between the two leaders.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -156,7 +156,7 @@
       "Would Tennessee consider trading down? Does Cleveland actually want to trade *up*? Is anyone besides a QB in play at the top of the draft? Here's what Monday's interview sessions at the spring owners meetings tell us."
     ],
     "image_url": "",
-    "summary": "At the spring owners meetings, discussions during Monday's interview sessions revealed considerations around draft strategies, including whether Tennessee might trade down and if Cleveland is looking to trade up. The possibility of selecting players other than quarterbacks at the top of the draft was also discussed.",
+    "summary": "During Monday's interview sessions at the spring owners meetings, discussions emerged about potential draft strategies. Questions were raised about whether Tennessee might trade down and if Cleveland is looking to trade up. Additionally, there was speculation on whether players other than quarterbacks are being considered for top draft picks.",
     "score_components": {
       "magnitude": 0.30000000000000004,
       "recency": 0.5,
@@ -171,7 +171,7 @@
     "title": "Braves' Profar gets 80-game ban for PED violation",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 31 Mar 2025 19:00:22 EST",
+    "published": "Mon, 31 Mar 2025 20:19:17 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -192,19 +192,20 @@
     "normalized_score": 0.0
   },
   {
-    "title": "Browns' Haslam: 'Big swing-and-miss' on Watson",
+    "title": "Pels shut down Zion, McCollum for rest of season",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 31 Mar 2025 19:00:22 EST",
+    "published": "Mon, 31 Mar 2025 20:19:17 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Browns co-owner Jimmy Haslam said the team \"took a big swing-and-miss\" in acquiring QB Deshaun Watson and signing him to a $230 million deal that was fully guaranteed."
+      "The New Orleans Pelicans are shutting down Zion Williamson (back) and CJ McCollum (foot) for the rest of the season.",
+      "The New Orleans Pelicans announced on Monday that Zion Williamson and CJ McCollum will not play again this season."
     ],
     "image_url": "",
-    "summary": "Browns co-owner Jimmy Haslam admitted the team made a significant error in acquiring quarterback Deshaun Watson and signing him to a fully guaranteed $230 million deal, describing it as a \"big swing-and-miss.\"",
+    "summary": "The New Orleans Pelicans have announced that Zion Williamson, due to a back injury, and CJ McCollum, due to a foot injury, will not play for the remainder of the season.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -216,19 +217,19 @@
     "normalized_score": 0.0
   },
   {
-    "title": "Harper, projected No. 2 pick, declares for draft",
+    "title": "Browns' Haslam: 'Big swing-and-miss' on Watson",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 31 Mar 2025 19:00:22 EST",
+    "published": "Mon, 31 Mar 2025 20:19:18 EST",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Rutgers freshman Dylan Harper, the projected No. 2 pick in the 2025 NBA draft, announced on ESPN's \"NBA Today\" on Monday that he will declare for the draft."
+      "Browns co-owner Jimmy Haslam said the team \"took a big swing-and-miss\" in acquiring QB Deshaun Watson and signing him to a $230 million deal that was fully guaranteed."
     ],
     "image_url": "",
-    "summary": "Dylan Harper, a freshman at Rutgers and expected to be the second pick in the 2025 NBA draft, announced on ESPN's \"NBA Today\" that he will enter the draft.",
+    "summary": "Browns co-owner Jimmy Haslam admitted the team made a significant error in acquiring QB Deshaun Watson and signing him to a fully guaranteed $230 million deal, describing the move as a \"big swing-and-miss.\"",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -252,7 +253,7 @@
       "S&amp;P 500 sinks almost 5% in first three months of 2025 on rising concerns over economy"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F610bd986-b045-47f4-9841-3d2d29ed13e9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The S&P 500 fell nearly 5% in the first quarter of 2025 due to growing worries about the economy.",
+    "summary": "The S&P 500 dropped nearly 5% in the first quarter of 2025, driven by increasing worries about the economy.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -276,7 +277,7 @@
       "Even the president’s supporters are sceptical of new levies to be imposed on trading partners on April 2"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcc0abedf-7a7d-45ba-bc1c-a9700ee2576e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "Supporters of the president express skepticism regarding new trade levies set to be imposed on trading partners starting April 2.",
+    "summary": "The president plans to impose new levies on trading partners starting April 2, a move that has drawn skepticism from even his supporters.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -300,7 +301,7 @@
       "The bank’s integration of Credit Suisse is going well. It’s everything else that’s the problem"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2af1d681-c339-458a-a29d-a47bb836a1e6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The bank reports that its integration of Credit Suisse is progressing successfully. However, it is facing challenges in other areas of its operations.",
+    "summary": "The bank reports that the process of integrating Credit Suisse is progressing smoothly. However, it is facing challenges in other areas of its operations.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -324,7 +325,7 @@
       "Fighting for democracy can be a lonely and dangerous business"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3e89371a-4ed1-46f0-af87-fa999fc19598.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "Advocating for democracy often involves significant risks and can lead to isolation for those involved in the struggle.",
+    "summary": "Advocating for democracy often involves risks and can lead to isolation for those involved in the struggle.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -348,7 +349,7 @@
       "Even the most powerful nation in the world needs foreign investment"
     ],
     "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F066c0a7f-0ccd-4ec9-b0c0-35b79309fa75.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The United States, recognized as the world's most powerful nation, requires foreign investment to support its economy.",
+    "summary": "The United States, recognized as a powerful nation globally, still requires investments from foreign countries to support its economy.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -360,19 +361,19 @@
     "normalized_score": 10.0
   },
   {
-    "title": "Martian dust could pose health risks to future astronauts",
+    "title": "Delicate balancing act determines how many genome gateways form in cells",
     "domain": "science",
     "location": "global",
-    "published": "Mon, 31 Mar 2025 12:21:18 EDT",
+    "published": "Mon, 31 Mar 2025 12:21:42 EDT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Inhaling dust particles from the Red Planet over long periods of time could put humans at risk of developing respiratory issues, thyroid disease and other health problems."
+      "As warehouses go, nuclei are more like libraries than bank vaults. Too many cellular components need access to the genome to lock it down like Fort Knox. Instead, large groupings of more than 1,000 individual protein molecules called nuclear pore complexes (NPCs) pepper the dividing membrane, serving as gateways for materials and messages entering and exiting the nucleus. While the basic need for this shuttle service is constant, scientists have shown that cells dynamically adjust their amounts of NPCs like a retail store opening more or fewer checkout lines throughout the day. Scientists now reveal the results of screening the entire human genome to find factors influencing how many NPCs are assembled."
     ],
     "image_url": "",
-    "summary": "Prolonged inhalation of dust particles from Mars may pose health risks to humans, including respiratory problems and thyroid disease.",
+    "summary": "Scientists have discovered that cells regulate the number of nuclear pore complexes (NPCs), which act as gateways for materials and messages to enter and exit the nucleus, much like checkout lines in a retail store. This adjustment is based on the cell's needs, challenging the previous notion of the nucleus as a static structure. The research involved screening the entire human genome to identify factors that influence the assembly of NPCs, highlighting the dynamic nature of cellular components.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -384,19 +385,19 @@
     "normalized_score": 10.0
   },
   {
-    "title": "Efficient light control: Meta-optics replace conventional lenses",
+    "title": "Change in oxygen standards for trauma patients?",
     "domain": "science",
     "location": "global",
-    "published": "Sun, 30 Mar 2025 22:34:57 EDT",
+    "published": "Mon, 31 Mar 2025 12:21:39 EDT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Be it sensors, cameras, or displays: Metasurfaces have the potential to fundamentally improve optical systems in our everyday lives. By controlling light more precisely, they drive compact, multi-functional solutions. Researchers have now developed an optical component that enables highly efficient light control at steep angles of incidence, overcoming previous limitations."
+      "A recent study finds most critically injured patients can recover with less supplemental oxygen than has previously been suggested."
     ],
     "image_url": "",
-    "summary": "Researchers have developed an optical component using metasurfaces, enhancing the ability to control light efficiently at steep angles. This advancement could significantly improve optical systems in everyday devices like sensors, cameras, and displays by making them more compact and multi-functional.",
+    "summary": "A recent study has shown that critically injured patients may recover effectively with lower levels of supplemental oxygen than previously recommended.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -408,19 +409,19 @@
     "normalized_score": 10.0
   },
   {
-    "title": "Preventable cardiac deaths during marathons are down",
+    "title": "New study links lower proportions of certain sleep stages to brain changes associated with Alzheimer's disease",
     "domain": "science",
     "location": "global",
-    "published": "Sun, 30 Mar 2025 22:34:49 EDT",
+    "published": "Mon, 31 Mar 2025 12:21:33 EDT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "New findings indicate that while the rate of marathon runners who suffer cardiac arrests remained unchanged, their chance for survival is twice what it was in the past. Now, far fewer marathon runners who suffer cardiac arrest are dying of it."
+      "New research reveals that lower proportions of specific sleep stages are associated with reduced brain volume in regions vulnerable to the development of Alzheimer's disease over time."
     ],
     "image_url": "",
-    "summary": "Recent research shows that although the occurrence of cardiac arrests among marathon runners has not decreased, their survival rate has doubled. Consequently, fewer marathon runners experiencing cardiac arrests are now dying from them.",
+    "summary": "Recent research has found a link between decreased amounts of certain sleep stages and a reduction in brain volume in areas susceptible to Alzheimer's disease progression.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -432,19 +433,19 @@
     "normalized_score": 10.0
   },
   {
-    "title": "Cave spiders use their webs in a way that hasn't been seen before",
+    "title": "Machine learning model to predict virus reservoirs",
     "domain": "science",
     "location": "global",
-    "published": "Mon, 31 Mar 2025 18:00:13 +0100",
+    "published": "Mon, 31 Mar 2025 12:21:23 EDT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Cave-dwelling orb spiders have adapted their webs so they act as tripwires for prey that crawl on the walls of the caves"
+      "A new artificial intelligence tool could aid in limiting or even prevent pandemics by identifying animal species that may harbor and spread viruses capable of infecting humans. The machine learning model analyzes host characteristics and virus genetics to identify potential animal reservoirs and geographic areas where new outbreaks are more likely to occur."
     ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/03/31141244/SEI_245443571.jpg",
-    "summary": "Cave-dwelling orb spiders have evolved their web designs to function as tripwires, effectively capturing prey that moves along cave walls.",
+    "image_url": "",
+    "summary": "A new artificial intelligence tool has been developed to help prevent pandemics. It works by identifying animal species that could harbor and spread viruses to humans. The tool uses machine learning to analyze characteristics of hosts and virus genetics, aiming to pinpoint potential animal reservoirs and the geographic areas where new outbreaks could emerge.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
@@ -456,19 +457,19 @@
     "normalized_score": 10.0
   },
   {
-    "title": "A revolutionary new understanding of autism in girls",
+    "title": "Common anticancer drugs may offer new hope to PTEN Hamartoma Tumour Syndrome patients",
     "domain": "science",
     "location": "global",
-    "published": "Mon, 31 Mar 2025 17:00:00 +0100",
+    "published": "Mon, 31 Mar 2025 12:21:20 EDT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "By studying the brains of autistic girls, we now know the condition presents differently in them than in boys, suggesting that huge numbers of women have gone undiagnosed"
+      "A new study on the genetic causes of the PTEN Hamartoma Tumour Syndrome (PHTS) has found that inhibitors of the PI3ka pathway, commonly used as anticancer drugs, are also effective against this disease, reducing the extent of vascular malformations and lesion-associated pain in animal models. The research suggests the repurposing of these drugs may offer a new hope for PHTS patients, especially at younger ages."
     ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/03/31111755/SEI_245815341.jpg",
-    "summary": "Recent research on the brains of autistic girls reveals that autism manifests differently in females compared to males. This discovery indicates that a significant number of women may have been undiagnosed with the condition.",
+    "image_url": "",
+    "summary": "A study has discovered that drugs inhibiting the PI3ka pathway, typically used in cancer treatment, can also treat PTEN Hamartoma Tumour Syndrome (PHTS) by lessening vascular malformations and pain in animal models. This finding suggests these drugs could be repurposed to help PHTS patients, potentially benefiting younger individuals.",
     "score_components": {
       "magnitude": 0.2,
       "recency": 0.5,
