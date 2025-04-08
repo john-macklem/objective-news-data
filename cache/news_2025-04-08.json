@@ -18,12 +18,12 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.974,
+      "recency": 0.959,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.48350000000000004,
+    "score": 0.47975,
     "normalized_score": 10.0
   },
   {
@@ -45,13 +45,13 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.959,
+      "recency": 0.943,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.47975,
-    "normalized_score": 9.79
+    "score": 0.47575,
+    "normalized_score": 9.78
   },
   {
     "title": "The crisis in North Macedonia runs deep",
@@ -72,16 +72,43 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.947,
+      "recency": 0.932,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.47675,
+    "score": 0.473,
     "normalized_score": 9.62
   },
   {
-    "title": "Ukraine captures two Chinese nationals fighting for Russia, says Zelensky",
+    "title": "Zelensky confirms Ukraine troops in Russia's Belgorod region",
+    "domain": "general",
+    "location": "global",
+    "published": "Tue, 08 Apr 2025 16:36:29 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Ukraine's operations in a second region in Russia are explicitly acknowledged for the first time."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e680/live/75362e50-1411-11f0-b82b-4bb77684b1e0.jpg",
+    "summary": "For the first time, Ukraine has officially acknowledged conducting operations in a second region within Russia. This marks a significant development in the ongoing conflict between the two countries, indicating an expansion of Ukraine's military activities beyond its borders.",
+    "titles": [
+      "Zelensky confirms Ukraine troops in Russia's Belgorod region"
+    ],
+    "score_components": {
+      "magnitude": 0.24,
+      "recency": 0.993,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.47024999999999995,
+    "normalized_score": 9.47
+  },
+  {
+    "title": "Ukraine captures two Chinese nationals fighting for Russia",
     "domain": "general",
     "location": "global",
     "published": "Tue, 08 Apr 2025 15:20:31 GMT",
@@ -90,173 +117,95 @@
       "unknown"
     ],
     "snippets": [
-      "The Ukrainian president says the two soldiers were captured while fighting in the Donetsk region."
+      "President Zelensky says two soldiers were captured while fighting in Ukraine's Donetsk region.",
+      "President Zelenskyy said Kyiv is demanding a response from Beijing after Chinese fighters found in the Donetsk region."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b974/live/1eacf530-1486-11f0-9c12-3306e577b130.jpg",
-    "summary": "The Ukrainian president announced that two soldiers were captured during combat operations in the Donetsk region. This statement confirms the current status of the soldiers involved in the conflict.",
+    "summary": "President Zelensky reported that two soldiers were captured in Ukraine's Donetsk region amid ongoing conflicts. Additionally, Zelensky has called on Beijing for a response after Chinese fighters were discovered in the same area, indicating international involvement. Kyiv is actively seeking clarification and action from China regarding this situation.",
     "titles": [
-      "Ukraine captures two Chinese nationals fighting for Russia, says Zelensky"
+      "Ukraine captures two Chinese nationals fighting for Russia",
+      "Ukraine captures two Chinese nationals fighting for Russia, Zelenskyy says"
     ],
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.991,
+      "recency": 0.975,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.46975,
-    "normalized_score": 9.23
+    "score": 0.46575,
+    "normalized_score": 9.22
   },
   {
-    "title": "Record global temperatures in March illustrate threat to climate goals",
-    "domain": "general",
-    "location": "global",
-    "published": "Tue, 08 Apr 2025 09:35:14 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The data threatens that global climate goals are moving out of reach."
-    ],
-    "image_url": "",
-    "summary": "Recent data indicates that achieving global climate goals is becoming increasingly difficult. This suggests that efforts to limit global warming and meet international targets may not be on track, posing significant challenges for future climate action.",
-    "titles": [
-      "Record global temperatures in March illustrate threat to climate goals"
-    ],
-    "score_components": {
-      "magnitude": 0.3,
-      "recency": 0.911,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.46775,
-    "normalized_score": 9.12
-  },
-  {
-    "title": "LIV Golf sets records for Miami TV ratings, still dwarfed by PGA Tour's Valero on Sunday",
+    "title": "Inside the Padres' hot start: How stellar offense, lights-out pitching have combined for MLB's best record",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 08 Apr 2025 15:46:14 +0000",
+    "published": "Tue, 08 Apr 2025 16:09:36 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "We interrupt your 2025 Masters viewing to bring you LIV Golf news: TV ratings from the Miami event."
+      "The Padres' 9-2 start matches those of San Diego's two pennant-winning seasons"
     ],
-    "image_url": "",
-    "summary": "The latest TV ratings for the LIV Golf event in Miami have been released, interrupting the 2025 Masters broadcast to share this news.",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/04/08/6276d840-f1d3-4e7b-a4bb-33bb3d417892/padres-imagn-images.png",
+    "summary": "The San Diego Padres have begun their season with a 9-2 record, equaling the start of the team's two previous seasons that resulted in pennant wins. This marks a strong opening for the Padres, aligning their performance with their most successful seasons historically.",
     "titles": [
-      "LIV Golf sets records for Miami TV ratings, still dwarfed by PGA Tour's Valero on Sunday"
+      "Inside the Padres' hot start: How stellar offense, lights-out pitching have combined for MLB's best record"
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.997,
+      "recency": 0.987,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.3792500000000001,
-    "normalized_score": 4.18
+    "score": 0.37675000000000003,
+    "normalized_score": 4.26
   },
   {
-    "title": "Jakub Dobes Got An Interesting Gift Following Ovechkin’s Record",
+    "title": "Houston on the wrong side of gritty and ugly finish against Florida in national title game",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 08 Apr 2025 15:33:54 +0000",
+    "published": "Tue, 08 Apr 2025 16:58:05 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Unless you’ve been living under a rock, you know that the Washington Capitals’ captain and super sniper, Alexander Ovechkin, broke Wayne Gretzky’s goal-scoring record this weekend when he beat countryman Ilya Sorokin on a power play. A celebration followed on the ice, but American beer giant Budweiser had another celebration in mind."
+      "This ending was gritty and ugly, just the way Houston usually likes games. Except it was Florida forcing bad shots and turnovers against the Cougars to finish off the national championship game."
     ],
     "image_url": "",
-    "summary": "Alexander Ovechkin, captain of the Washington Capitals, set a new NHL goal-scoring record by surpassing Wayne Gretzky's previous record. Ovechkin achieved this milestone during a game against Ilya Sorokin, scoring on a power play. Following his record-breaking goal, an on-ice celebration took place, and Budweiser, an American beer company, planned an additional celebration in honor of Ovechkin's achievement.",
+    "summary": "In the national championship game, Florida triumphed over Houston by forcing turnovers and bad shots, securing a victory in a gritty and intense match. This outcome was contrary to Houston's preferred style of play, showcasing Florida's defensive strength to win the title.",
     "titles": [
-      "Jakub Dobes Got An Interesting Gift Following Ovechkin’s Record"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.994,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.37850000000000006,
-    "normalized_score": 4.14
-  },
-  {
-    "title": "Boston Celtics' Joe Mazzulla reveals secret to record-setting success from 3-point range",
-    "domain": "sports",
-    "location": "national",
-    "published": "Tue, 08 Apr 2025 15:26:58 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The Boston Celtics head coach revealed his secret to his team's success on the perimeter."
-    ],
-    "image_url": "",
-    "summary": "The Boston Celtics' head coach attributed the team's success on the perimeter to a combination of rigorous defensive drills, a focus on shooting accuracy in practice, and a strategy that emphasizes teamwork and player movement. This approach has significantly enhanced the team's performance in perimeter play.",
-    "titles": [
-      "Boston Celtics' Joe Mazzulla reveals secret to record-setting success from 3-point range"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.992,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.378,
-    "normalized_score": 4.11
-  },
-  {
-    "title": "How a Masters champion returned from South American prison to play at Augusta National again",
-    "domain": "sports",
-    "location": "national",
-    "published": "Tue, 08 Apr 2025 15:50:06 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "After spending two years in prison for assault, Ángel Cabrera is back at Augusta National, where he won 16 years ago."
-    ],
-    "image_url": "",
-    "summary": "Former Masters champion Ángel Cabrera, who won the tournament 16 years ago, has returned to Augusta National after serving two years in prison for assault charges.",
-    "titles": [
-      "How a Masters champion returned from South American prison to play at Augusta National again"
+      "Houston on the wrong side of gritty and ugly finish against Florida in national title game"
     ],
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.997,
+      "recency": 0.998,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.35525000000000007,
-    "normalized_score": 2.85
+    "score": 0.35550000000000004,
+    "normalized_score": 3.08
   },
   {
-    "title": "Pennsylvania Sportswatch Daily Listings",
+    "title": "2025 WHL Playoffs Daily Recap: April 7",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 08 Apr 2025 15:45:09 +0000",
+    "published": "Tue, 08 Apr 2025 16:50:40 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
-    "snippets": [],
+    "snippets": [
+      "Welcome to this edition of THN's 2025 WHL Playoffs Daily Recap. This recurring article will provide summaries of action from the WHL post-season throughout the playoffs. Here is a look at the two games from April 7."
+    ],
     "image_url": "",
-    "summary": "I'm sorry, but you haven't provided any specific news content for me to summarize. Could you please provide the details of the news story or stories you'd like summarized?",
+    "summary": "The THN's 2025 WHL Playoffs Daily Recap on April 7 covered two games from the WHL post-season. This series aims to summarize the action throughout the playoffs, offering insights and updates on the progress of the teams involved. The specific outcomes or key events of the games on April 7 were not detailed in the provided content.",
     "titles": [
-      "Pennsylvania Sportswatch Daily Listings",
-      "Pennsylvania Sportswatch Daily Listings"
+      "2025 WHL Playoffs Daily Recap: April 7"
     ],
     "score_components": {
       "magnitude": 0.12,
@@ -266,34 +215,88 @@
       "constructiveness": 0.0
     },
     "score": 0.355,
-    "normalized_score": 2.83
+    "normalized_score": 3.05
   },
   {
-    "title": "Zelenskyy says Chinese men fighting for Russia captured in Ukraine",
-    "domain": "business",
-    "location": "global",
-    "published": "Tue, 08 Apr 2025 15:33:31 GMT",
+    "title": "West Virginia Mountaineers: Transfer 101: Brenen Lorient",
+    "domain": "sports",
+    "location": "national",
+    "published": "Tue, 08 Apr 2025 16:47:51 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Ukrainian president demands explanation and accuses Beijing of actively participating in Moscow’s war"
+      "The West Virginia basketball program has landed their second transfer addition of the off-season, and it comes from a player that Ross Hodge is plenty familiar with in North Texas forward Brenen Lorient.  Lorient, 6-foot-9, 215-pounds, is coming off a standout season with the Mean Green where he averaged 11.8 points, 4.9 rebounds and over 1.1 blocks per game across 24.8 minutes per game.  Lorient came to North Texas from Florida Atlantic where he spent two seasons where he appeared in 21 games as a reserve as a freshman and followed that up appearing in all 31 games while averaging 2.2 points and 1.3 rebounds per game before leaving for Denton."
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd8c3c4bd-f33a-47fc-8337-a4432ff98a8a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "The Ukrainian President has accused Beijing of actively participating in Moscow's war and demanded an explanation. This accusation marks a significant development in the ongoing conflict, implicating direct involvement by Beijing alongside Moscow.",
+    "image_url": "",
+    "summary": "The West Virginia basketball program has secured their second off-season transfer with North Texas forward Brenen Lorient joining the team. Standing at 6-foot-9 and weighing 215 pounds, Lorient had an impressive season at North Texas, averaging 11.8 points, 4.9 rebounds, and over 1.1 blocks in 24.8 minutes per game. Prior to North Texas, he played two seasons at Florida Atlantic, appearing in 52 games and improving his performance before transferring to Denton. His move reunites him with coach Ross Hodge.",
     "titles": [
-      "Zelenskyy says Chinese men fighting for Russia captured in Ukraine"
+      "West Virginia Mountaineers: Transfer 101: Brenen Lorient"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.996,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.355,
+    "normalized_score": 3.05
+  },
+  {
+    "title": "Michigan CB Will Johnson will follow his Pro Day workout with a visit to the Raiders",
+    "domain": "sports",
+    "location": "national",
+    "published": "Tue, 08 Apr 2025 16:44:28 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Michigan cornerback Will Johnson is healthy enough to work out for NFL teams."
+    ],
+    "image_url": "",
+    "summary": "Michigan cornerback Will Johnson, previously dealing with health concerns, has recovered sufficiently to participate in workouts for NFL teams. This marks a significant step in his journey towards pursuing a career in the National Football League, indicating his readiness and physical capability for professional play.",
+    "titles": [
+      "Michigan CB Will Johnson will follow his Pro Day workout with a visit to the Raiders"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.995,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.35475,
+    "normalized_score": 3.04
+  },
+  {
+    "title": "Musk slams Trump’s trade tsar in sign of rift over US tariffs",
+    "domain": "business",
+    "location": "global",
+    "published": "Tue, 08 Apr 2025 16:18:49 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Billionaire dubs Peter Navarro a ‘moron’ as feud over policy intensifies"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd00d7417-5427-4d73-be0c-94b56d605bcb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "summary": "A billionaire publicly called Peter Navarro, a former Trump administration official, a \"moron\" amid escalating disagreements over policy. This insult highlights the intensifying feud between the two, emphasizing the deep divisions within political and economic discussions.",
+    "titles": [
+      "Musk slams Trump’s trade tsar in sign of rift over US tariffs"
     ],
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.994,
+      "recency": 0.989,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.47050000000000003,
-    "normalized_score": 9.27
+    "score": 0.46924999999999994,
+    "normalized_score": 9.42
   },
   {
     "title": "China vows ‘fight to the end’ after Trump threatens extra 50% tariff",
@@ -314,12 +317,39 @@
     ],
     "score_components": {
       "magnitude": 0.26,
-      "recency": 0.969,
+      "recency": 0.954,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.47024999999999995,
+    "score": 0.4665,
+    "normalized_score": 9.26
+  },
+  {
+    "title": "Zelenskyy says Chinese men fighting for Russia captured in Ukraine",
+    "domain": "business",
+    "location": "global",
+    "published": "Tue, 08 Apr 2025 15:33:31 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Ukrainian president demands explanation and accuses Beijing of actively participating in Moscow’s war"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd8c3c4bd-f33a-47fc-8337-a4432ff98a8a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "summary": "The Ukrainian President has accused Beijing of actively participating in Moscow's war and demanded an explanation. This accusation marks a significant development in the ongoing conflict, implicating direct involvement by Beijing alongside Moscow.",
+    "titles": [
+      "Zelenskyy says Chinese men fighting for Russia captured in Ukraine"
+    ],
+    "score_components": {
+      "magnitude": 0.24,
+      "recency": 0.978,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.4665,
     "normalized_score": 9.26
   },
   {
@@ -341,12 +371,12 @@
     ],
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.989,
+      "recency": 0.974,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.46924999999999994,
+    "score": 0.4655,
     "normalized_score": 9.21
   },
   {
@@ -368,40 +398,13 @@
     ],
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.99,
+      "recency": 0.975,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.4635,
-    "normalized_score": 8.88
-  },
-  {
-    "title": "Watch These Supermicro Price Levels as Stock Soars After Tariff-Induced Selling",
-    "domain": "business",
-    "location": "global",
-    "published": "Tue, 08 Apr 2025 14:23:30 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "<figure><img alt=\"Source: TradingView.com\" src=\"https://www.investopedia.com/thmb/odssq-nAaDVy7rMyJTHVkJyflBA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/SMCIChart-3af0e20bf9a94db89ad161166a9a15bc.jpg\" title=\"This image depicts the SMCI chart.\" /><figcaption><i>Source: TradingView.com</i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>Super Micro Computer shares jumped in early trading Tuesday, adding to an 11% gain yesterday, as investors bid up the server marker’s stock after a few days of big losses during the broader market sell-off.</li><li>The stock completed a bullish engulfing pattern in Monday’s trading session, potentially forming a bear trap.</li><li>Investors should watch major overhead areas on Supermicro's chart around $48 and $63, while also monitoring vital support levels near $26 and $17.</li></ul><br /><br /><p>Super Micro Computer (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;smci\">SMCI</a>) shares jumped in early trading Tuesday, adding to an 11% surge yesterday, as investors bid up the server marker’s stock after a few days of big losses during the broader market's <a href=\"https://www.investopedia.com/dow-jones-today-04072025-11710097\">tariff-fueled sell-off</a>.</p><p>Sentiment surrounding the stock likely received a boost from J.P. Morgan analysts who recently pointed out that the company would only need to increase its global prices by 4%, based on the portion of its hardware that would be affected by tariffs.<span class=\"ql-inline-citation\"></span></p><p>Supermicro shares saw significant price swings in both directions during the first quarter as the company dealt with accounting issues that raised concerns of a potential Nasdaq delisting until the company <a href=\"https://www.investopedia.com/supermicro-stock-soars-in-extended-trading-as-server-maker-meets-filing-deadline-11686437\">met the exchange’s deadline to file several delayed financial reports in February</a>. The stock was up 6% at around $35 in recent trading.</p><p>Below, we break down the <a href=\"https://www.investopedia.com/technical-analysis-4689657\">technicals</a> on Supermicro’s chart and identify major price levels that investors may be monitoring.</p><h2>Potential Bear Trap</h2><p>After <a href=\"https://www.investopedia.com/terms/g/gapping.asp\">gapping</a> lower in late October, Supermicro shares oscillated within an orderly <a href=\"https://www.investopedia.com/terms/a/ascendingchannel.asp\">ascending channel</a> until breaking down below the pattern’s lower trendline toward the end of last month.</p><p>However, despite falling to its lowest level since early February last week, the stock completed a <a href=\"https://www.investopedia.com/terms/b/bullishengulfingpattern.asp\">bullish engulfing pattern</a> in Monday’s trading session, potentially forming a <a href=\"https://www.investopedia.com/terms/b/beartrap.asp\">bear trap</a>—a trading event that lures investors to sell upon a breach of major <a href=\"https://www.investopedia.com/terms/s/support.asp\">support</a> before the price makes a sudden move higher.</p><p>What’s more, Monday’s buying coincided with the <a href=\"https://www.investopedia.com/terms/r/rsi.asp\">relative strength index (RSI)</a> rallying from a reading of around 35, the same level the indicator bottomed at in early February before the stock roughly doubled over a two-week period.</p><p>Let’s identify two major overhead areas to watch on Supermicro’s chart amid the potential for follow-through buying, and also point out vital support levels worth monitoring.</p><h2>Major Overhead Areas to Watch</h2><p>A decisive close back above the ascending channel’s lower trendline could trigger a rally to around $48. This level, currently just above the closely watched <a href=\"https://www.investopedia.com/ask/answers/013015/why-200-simple-moving-average-sma-so-common-traders-and-analysts.asp\">200-day moving average</a>, connects a range of comparable trading activity on the chart extending back to last year’s prominent August <a href=\"https://www.investopedia.com/terms/s/swinglow.asp\">swing low</a>.</p><p>Buying above this price could see the stock revisit the $63 area. Investors who have <a href=\"https://www.investopedia.com/terms/a/accumulating-shares.asp\">accumulated shares</a> during the stock’s recent decline may decide to <a href=\"https://www.investopedia.com/terms/l/lock_in_profits.asp\">lock in profits</a> in this region near a trendline that links last year's late-August peak with the February <a href=\"https://www.investopedia.com/terms/s/swinghigh.asp\">swing high</a>.</p><p>Interestingly, this location also sits in the same vicinity as a projected bars pattern target that takes the stock’s sharp <a href=\"https://www.investopedia.com/terms/t/trendanalysis.asp\">trend</a> higher during February and overlays it from the low of yesterday’s bullish engulfing candle.</p><h2>Vital Support Levels Worth Monitoring</h2><p>A breach of the bullish engulfing candle's low could see Supermicro shares initially retrace to around $26, a location on the chart where they may attract support near the January <a href=\"https://www.investopedia.com/trading/peak-and-trough-analysis/\">trough</a> and early-November <a href=\"https://www.investopedia.com/articles/trading/10/trend-following-countertrend.asp\">countertrend</a> high.</p><p>Finally, a <a href=\"https://www.investopedia.com/terms/b/breakdown.asp\">breakdown</a> below this level paves the way for a potential drop to $17. Investors may seek <a href=\"https://www.investopedia.com/ask/answers/03/071803.asp\">buy-and-hold</a> opportunities in this region near the mid-November trough, which also marks the stock’s <a href=\"https://www.investopedia.com/terms/1/52weekhighlow.asp\">52-week low</a>.</p><p><em>The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our <a href=\"https://www.investopedia.com/legal-4768893#toc-warranty-and-liability-disclaimer\">warranty and liability disclaimer</a> for more info.</em></p><p><em>As of the date this article was written, the author does not own any of the above securities.</em><br /></p>"
-    ],
-    "image_url": "https://www.investopedia.com/thmb/odssq-nAaDVy7rMyJTHVkJyflBA=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/SMCIChart-3af0e20bf9a94db89ad161166a9a15bc.jpg",
-    "summary": "Super Micro Computer (SMCI) shares experienced a significant increase, rising 11% in early trading on Tuesday after a previous 11% gain. This surge comes after the stock faced substantial losses during a broader market sell-off influenced by tariffs. Analysts from J.P. Morgan suggested that the company could offset tariff impacts by raising global prices by 4%. The stock's recent volatility is also tied to concerns about a potential Nasdaq delisting, which were alleviated when Supermicro met the filing deadline for delayed financial reports in February. The shares were trading up 6% at around ",
-    "titles": [
-      "Watch These Supermicro Price Levels as Stock Soars After Tariff-Induced Selling"
-    ],
-    "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.977,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.46025000000000005,
-    "normalized_score": 8.7
+    "score": 0.45975,
+    "normalized_score": 8.89
   },
   {
     "title": "Smell-seeking drone uses moth antenna to follow a scent",
@@ -422,13 +425,13 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.958,
+      "recency": 0.943,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.4495,
-    "normalized_score": 8.1
+    "score": 0.44575,
+    "normalized_score": 8.11
   },
   {
     "title": "Blood test predicts preeclampsia risk using RNA",
@@ -449,13 +452,13 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.93,
+      "recency": 0.915,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.4425,
-    "normalized_score": 7.71
+    "score": 0.43875,
+    "normalized_score": 7.72
   },
   {
     "title": "How long is a day on Uranus? Slightly longer than we thought, it seems",
@@ -476,12 +479,12 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.927,
+      "recency": 0.912,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.44175,
+    "score": 0.43800000000000006,
     "normalized_score": 7.67
   },
   {
@@ -503,12 +506,12 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.847,
+      "recency": 0.832,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.42174999999999996,
+    "score": 0.41800000000000004,
     "normalized_score": 6.56
   },
   {
@@ -530,12 +533,12 @@
     ],
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.715,
+      "recency": 0.7,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.39475000000000005,
-    "normalized_score": 5.05
+    "score": 0.391,
+    "normalized_score": 5.06
   }
 ]
