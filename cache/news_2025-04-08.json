@@ -18,12 +18,12 @@
     ],
     "score_components": {
       "magnitude": 0.32,
-      "recency": 0.955,
+      "recency": 0.951,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.48475,
+    "score": 0.48375,
     "normalized_score": 10.0
   },
   {
@@ -45,12 +45,12 @@
     ],
     "score_components": {
       "magnitude": 0.26,
-      "recency": 0.969,
+      "recency": 0.965,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.47024999999999995,
+    "score": 0.46924999999999994,
     "normalized_score": 9.36
   },
   {
@@ -72,13 +72,40 @@
     ],
     "score_components": {
       "magnitude": 0.32,
-      "recency": 0.884,
+      "recency": 0.879,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.46699999999999997,
-    "normalized_score": 9.21
+    "score": 0.46575,
+    "normalized_score": 9.2
+  },
+  {
+    "title": "US in direct nuclear talks with Iran, says Trump",
+    "domain": "general",
+    "location": "global",
+    "published": "Tue, 08 Apr 2025 00:00:35 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The US president says negotiations have taken place at a \"very high level\" between the two countries."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e4a/live/e0252730-13f2-11f0-9654-bb8b96182dd5.jpg",
+    "summary": "The US President has confirmed that high-level negotiations have occurred between the United States and another country. The discussions were described as taking place at a \"very high level,\" indicating the involvement of top officials from both nations.",
+    "titles": [
+      "US in direct nuclear talks with Iran, says Trump"
+    ],
+    "score_components": {
+      "magnitude": 0.22,
+      "recency": 0.996,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.46499999999999997,
+    "normalized_score": 9.17
   },
   {
     "title": "Billionaire on trial in Azerbaijan who risks being left behind by peace deal",
@@ -99,67 +126,13 @@
     ],
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.997,
+      "recency": 0.993,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.46525000000000005,
+    "score": 0.46425000000000005,
     "normalized_score": 9.13
-  },
-  {
-    "title": "Ukrainians doubt potential of Trump’s peace plan amid deadly Russia attacks",
-    "domain": "general",
-    "location": "global",
-    "published": "Mon, 07 Apr 2025 12:45:21 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Ukrainian servicemen and civilian survivors of deadly attacks say a ceasefire seems a distant prospect."
-    ],
-    "image_url": "",
-    "summary": "Ukrainian servicemen and civilian survivors of recent deadly attacks express skepticism about the possibility of a ceasefire in the near future. Their experiences and observations suggest that any cessation of hostilities remains unlikely at this time.",
-    "titles": [
-      "Ukrainians doubt potential of Trump’s peace plan amid deadly Russia attacks"
-    ],
-    "score_components": {
-      "magnitude": 0.34,
-      "recency": 0.844,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.46299999999999997,
-    "normalized_score": 9.03
-  },
-  {
-    "title": "Canucks' Lankinen To Receive Special Budweiser Can To Celebrate Alex Ovechkin's Record-Setting Goal",
-    "domain": "sports",
-    "location": "national",
-    "published": "Mon, 07 Apr 2025 22:53:30 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Over the weekend, Alex Ovechkin became the NHL's all-time leader in goals. The Washington Capitals captain scored his 895th on Sunday against the New York Islanders, breaking Wayne Gretzky's record. Over his 20-year career, Ovechkin has scored on almost every goaltender he faced, except a select few, who are now being recognized."
-    ],
-    "image_url": "",
-    "summary": "Alex Ovechkin, captain of the Washington Capitals, set a new NHL record by scoring his 895th goal on Sunday against the New York Islanders, surpassing Wayne Gretzky's previous record. Achieving this milestone over his 20-year career, Ovechkin has scored against nearly every goalie he has faced, highlighting his consistent performance across two decades. This achievement establishes Ovechkin as the NHL's all-time leading goal scorer.",
-    "titles": [
-      "Canucks' Lankinen To Receive Special Budweiser Can To Celebrate Alex Ovechkin's Record-Setting Goal"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.984,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.376,
-    "normalized_score": 5.17
   },
   {
     "title": "Jurić exits Southampton after PL relegation record",
@@ -180,12 +153,12 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.935,
+      "recency": 0.931,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.36375,
+    "score": 0.36275,
     "normalized_score": 4.62
   },
   {
@@ -207,13 +180,67 @@
     ],
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.896,
+      "recency": 0.892,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.3600000000000001,
+    "score": 0.3590000000000001,
     "normalized_score": 4.46
+  },
+  {
+    "title": "Despite controversies, Dodgers say visiting Trump White House 'a really good experience'",
+    "domain": "sports",
+    "location": "national",
+    "published": "Mon, 07 Apr 2025 23:54:22 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The Dodgers celebrated their 2024 World Series championship with a visit to the White House and President Trump."
+    ],
+    "image_url": "",
+    "summary": "The Los Angeles Dodgers, winners of the 2024 World Series, were honored at the White House by President Trump. This visit commemorates their championship victory, marking a significant achievement in the team's history.",
+    "titles": [
+      "Despite controversies, Dodgers say visiting Trump White House 'a really good experience'"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.994,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.35450000000000004,
+    "normalized_score": 4.26
+  },
+  {
+    "title": "Gates won't reopen for Masters practice round; badge refunds available for patrons, chance to buy for 2026",
+    "domain": "sports",
+    "location": "national",
+    "published": "Mon, 07 Apr 2025 23:51:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Apr. 7—Play has been suspended for the day at the Masters Tournament. Due to inclement weather conditions, Augusta National Golf Club suspended Monday's practice round and evacuated the grounds April 7 at 11:25 a.m. Shortly after 3 p.m. Augusta National announced that it would not reopen because of the forecast which is calling for more rain. Purchasers of Monday practice round tickets will be ..."
+    ],
+    "image_url": "",
+    "summary": "On April 7th, the Masters Tournament at Augusta National Golf Club suspended and evacuated its grounds during the Monday practice round due to inclement weather. The suspension occurred at 11:25 a.m., and by 3 p.m., officials announced the grounds would not reopen for the day because the forecast predicted more rain. Attendees with Monday practice round tickets will be affected by this decision.",
+    "titles": [
+      "Gates won't reopen for Masters practice round; badge refunds available for patrons, chance to buy for 2026"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.994,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.35450000000000004,
+    "normalized_score": 4.26
   },
   {
     "title": "Cavaliers star Donovan Mitchell will miss Tuesday's game due to sprained left ankle",
@@ -234,40 +261,13 @@
     ],
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.99,
+      "recency": 0.986,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.35350000000000004,
+    "score": 0.35250000000000004,
     "normalized_score": 4.17
-  },
-  {
-    "title": "Alabama basketball's Mo Dioubate is off to Kentucky: How did he do against the Wildcats?",
-    "domain": "sports",
-    "location": "national",
-    "published": "Mon, 07 Apr 2025 23:09:27 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Alabama basketball's second player to hit the transfer portal has exchanged the new blood for a blueblood. How has Mo Dioubate fared against Kentucky?"
-    ],
-    "image_url": "",
-    "summary": "Mo Dioubate, a player from Alabama basketball, has entered the transfer portal and subsequently joined Kentucky, a team often referred to as a \"blueblood\" in college basketball due to its prestigious history. The move marks him as the second player from Alabama to transfer recently. Details on Dioubate's performance against Kentucky prior to the transfer were not provided.",
-    "titles": [
-      "Alabama basketball's Mo Dioubate is off to Kentucky: How did he do against the Wildcats?"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.988,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 4.14
   },
   {
     "title": "Trump threatens extra 50% tariff on China in day of wild market swings",
@@ -288,12 +288,12 @@
     ],
     "score_components": {
       "magnitude": 0.26,
-      "recency": 0.986,
+      "recency": 0.982,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.47450000000000003,
+    "score": 0.47350000000000003,
     "normalized_score": 9.54
   },
   {
@@ -315,12 +315,12 @@
     ],
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.993,
+      "recency": 0.989,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.47024999999999995,
+    "score": 0.46924999999999994,
     "normalized_score": 9.36
   },
   {
@@ -342,12 +342,12 @@
     ],
     "score_components": {
       "magnitude": 0.26,
-      "recency": 0.947,
+      "recency": 0.943,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.46475,
+    "score": 0.46375,
     "normalized_score": 9.11
   },
   {
@@ -369,12 +369,12 @@
     ],
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.99,
+      "recency": 0.986,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.4635,
+    "score": 0.4625,
     "normalized_score": 9.06
   },
   {
@@ -396,12 +396,12 @@
     ],
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.963,
+      "recency": 0.959,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.46275,
+    "score": 0.46175,
     "normalized_score": 9.02
   },
   {
@@ -423,12 +423,12 @@
     ],
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.937,
+      "recency": 0.933,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.45025000000000004,
+    "score": 0.44925000000000004,
     "normalized_score": 8.47
   },
   {
@@ -450,93 +450,93 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.941,
+      "recency": 0.937,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.44525000000000003,
+    "score": 0.44425000000000003,
     "normalized_score": 8.24
   },
   {
-    "title": "DOGE ditching tape storage could put data at risk, say experts",
+    "title": "Mindfulness and cognitive behavioral therapy improve chronic low back pain",
     "domain": "science",
     "location": "global",
-    "published": "Mon, 07 Apr 2025 18:49:22 +0100",
+    "published": "Mon, 07 Apr 2025 17:31:05 EDT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "President Trump's DOGE team, headed by Elon Musk, claims to have saved $1 million by ditching 70-year-old tape data storage. But experts say the move will likely end up costing more in the long term and could put data at risk"
-    ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/04/07173657/SEI_246690152.jpg",
-    "summary": "President Trump's DOGE team, led by Elon Musk, announced they saved $1 million by replacing 70-year-old tape data storage. However, experts caution that this decision may lead to higher costs over time and potentially jeopardize data security.",
-    "titles": [
-      "DOGE ditching tape storage could put data at risk, say experts"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.914,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.4385,
-    "normalized_score": 7.94
-  },
-  {
-    "title": "Saturn's moon Titan could harbor life, but only a tiny amount, study finds",
-    "domain": "science",
-    "location": "global",
-    "published": "Mon, 07 Apr 2025 17:29:10 EDT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Despite its uniquely rich inventory of organic molecules, Saturn's largest moon, Titan, may be able to support only a minuscule amount of biomass, if life exists on the moon, according to a study using bioenergetic modeling."
+      "Eight weeks of mindfulness or cognitive behavioral therapy were associated with improved pain, physical function and quality of life and reduced daily opioid dose in adults with chronic low back pain that required treated with daily opioids, according to a new study. This is one of the largest studies to date to evaluate mindfulness and cognitive behavioral therapy as treatment for opioid-treated chronic pain."
     ],
     "image_url": "",
-    "summary": "A study utilizing bioenergetic modeling suggests that Titan, Saturn's largest moon, known for its diverse organic molecules, could potentially support a very small amount of biomass if life were to exist there. This finding highlights the challenges of sustaining life on Titan despite its rich organic inventory.",
+    "summary": "A new study found that eight weeks of mindfulness or cognitive behavioral therapy significantly improved pain, physical function, and quality of life while reducing daily opioid doses in adults with chronic low back pain on daily opioids. This marks one of the largest studies to assess these therapies as treatments for opioid-treated chronic pain.",
     "titles": [
-      "Saturn's moon Titan could harbor life, but only a tiny amount, study finds"
+      "Mindfulness and cognitive behavioral therapy improve chronic low back pain"
     ],
     "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.909,
+      "magnitude": 0.22,
+      "recency": 0.906,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.43725,
-    "normalized_score": 7.89
+    "score": 0.4425,
+    "normalized_score": 8.17
   },
   {
-    "title": "Bacteria-inspired robot uses 12 spinning flagella to roam underwater",
+    "title": "Rain barrel basics: Conserving water but not mosquito habitats",
     "domain": "science",
     "location": "global",
-    "published": "Mon, 07 Apr 2025 17:35:58 +0100",
+    "published": "Mon, 07 Apr 2025 17:30:39 EDT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "An underwater drone with long, spinning arms like the flagella of bacteria could survey the seas without endangering marine life, its creators claim"
+      "Researchers surveyed residential rain barrels to determine how often mosquitoes took up residence in rain barrels and what preventative measures would most effectively keep mosquitoes out. Taking these preventative measures will reduce potential health risks and ensure that rain barrels remain a safe, effective, and environmentally sustainable tool for managing stormwater runoff."
     ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/04/03155756/SEI_246037261.jpg",
-    "summary": "Scientists have developed an underwater drone designed to resemble bacteria with long, spinning arms, aimed at conducting ocean surveys while minimizing harm to marine life. The creators assert that this innovative design allows for safer interactions with ocean ecosystems during research activities.",
+    "image_url": "",
+    "summary": "Researchers conducted a survey on residential rain barrels to assess mosquito infestation rates and identify effective prevention methods. The study found that implementing certain measures can significantly reduce the presence of mosquitoes, mitigating health risks and maintaining the environmental benefits of using rain barrels for stormwater management.",
     "titles": [
-      "Bacteria-inspired robot uses 12 spinning flagella to roam underwater"
+      "Rain barrel basics: Conserving water but not mosquito habitats"
     ],
     "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.897,
+      "magnitude": 0.22,
+      "recency": 0.906,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.43425,
-    "normalized_score": 7.76
+    "score": 0.4425,
+    "normalized_score": 8.17
+  },
+  {
+    "title": "Researchers use AI to improve diagnosis of drug-resistant infections",
+    "domain": "science",
+    "location": "global",
+    "published": "Mon, 07 Apr 2025 17:30:27 EDT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Scientists have developed an artificial intelligence-based method to more accurately detect antibiotic resistance in deadly bacteria such as tuberculosis and staph. The breakthrough could lead to faster and more effective treatments and help mitigate the rise of drug-resistant infections, a growing global health crisis."
+    ],
+    "image_url": "",
+    "summary": "Scientists have created an AI method to better detect antibiotic resistance in harmful bacteria, including tuberculosis and staph. This advancement promises quicker, more efficient treatments against drug-resistant infections, addressing a critical global health issue.",
+    "titles": [
+      "Researchers use AI to improve diagnosis of drug-resistant infections"
+    ],
+    "score_components": {
+      "magnitude": 0.22,
+      "recency": 0.906,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.4425,
+    "normalized_score": 8.17
   }
 ]
