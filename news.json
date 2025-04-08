@@ -18,12 +18,12 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.988,
+      "recency": 0.974,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.487,
+    "score": 0.48350000000000004,
     "normalized_score": 10.0
   },
   {
@@ -45,13 +45,13 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.972,
+      "recency": 0.959,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.483,
-    "normalized_score": 9.82
+    "score": 0.47975,
+    "normalized_score": 9.79
   },
   {
     "title": "The crisis in North Macedonia runs deep",
@@ -72,13 +72,40 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.961,
+      "recency": 0.947,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.48024999999999995,
-    "normalized_score": 9.69
+    "score": 0.47675,
+    "normalized_score": 9.62
+  },
+  {
+    "title": "Ukraine captures two Chinese nationals fighting for Russia, says Zelensky",
+    "domain": "general",
+    "location": "global",
+    "published": "Tue, 08 Apr 2025 15:20:31 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The Ukrainian president says the two soldiers were captured while fighting in the Donetsk region."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b974/live/1eacf530-1486-11f0-9c12-3306e577b130.jpg",
+    "summary": "The Ukrainian president announced that two soldiers were captured during combat operations in the Donetsk region. This statement confirms the current status of the soldiers involved in the conflict.",
+    "titles": [
+      "Ukraine captures two Chinese nationals fighting for Russia, says Zelensky"
+    ],
+    "score_components": {
+      "magnitude": 0.24,
+      "recency": 0.991,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.46975,
+    "normalized_score": 9.23
   },
   {
     "title": "Record global temperatures in March illustrate threat to climate goals",
@@ -99,167 +126,137 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.924,
+      "recency": 0.911,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.471,
-    "normalized_score": 9.26
+    "score": 0.46775,
+    "normalized_score": 9.12
   },
   {
-    "title": "Ukraine detains suspected Russian assassin",
-    "domain": "general",
-    "location": "global",
-    "published": "Tue, 08 Apr 2025 13:10:30 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Indictment comes amid an uptick in targeted attacks on Ukrainian officials and public figures."
-    ],
-    "image_url": "",
-    "summary": "An indictment has been issued in the context of a recent increase in targeted attacks against Ukrainian officials and public figures. This development marks a significant legal action amidst escalating incidents targeting prominent individuals in Ukraine.",
-    "titles": [
-      "Ukraine detains suspected Russian assassin"
-    ],
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.974,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.4655,
-    "normalized_score": 9.01
-  },
-  {
-    "title": "Breaking down the Ravens picks in Mel Kiper's latest 2-round 2025 NFL mock draft",
+    "title": "LIV Golf sets records for Miami TV ratings, still dwarfed by PGA Tour's Valero on Sunday",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 08 Apr 2025 14:46:19 +0000",
+    "published": "Tue, 08 Apr 2025 15:46:14 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Mel Kiper has the Baltimore Ravens selecting an All SEC safety and an under the radar pass rusher in his latest 2025 NFL mock draft for ESPN",
-      "Mel Kiper has the Philadelphia Eagles selecting an All SEC pass rusher and an a versatile safety in his latest 2025 NFL mock draft for ESPN"
+      "We interrupt your 2025 Masters viewing to bring you LIV Golf news: TV ratings from the Miami event."
     ],
     "image_url": "",
-    "summary": "In his latest 2025 NFL mock draft for ESPN, Mel Kiper predicts the Baltimore Ravens will select an All-SEC safety and an under-the-radar pass rusher. Similarly, he forecasts the Philadelphia Eagles will choose an All-SEC pass rusher and a versatile safety. These selections highlight both teams' focus on strengthening their defensive line and secondary.",
+    "summary": "The latest TV ratings for the LIV Golf event in Miami have been released, interrupting the 2025 Masters broadcast to share this news.",
     "titles": [
-      "Breaking down the Ravens picks in Mel Kiper's latest 2-round 2025 NFL mock draft",
-      "Breaking down the Eagles picks in Mel Kiper's latest 2-round 2025 NFL mock draft"
+      "LIV Golf sets records for Miami TV ratings, still dwarfed by PGA Tour's Valero on Sunday"
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.996,
+      "recency": 0.997,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.379,
-    "normalized_score": 5.02
+    "score": 0.3792500000000001,
+    "normalized_score": 4.18
   },
   {
-    "title": "Local notebook: Former Central thrower Ethan Thomas shatters UND shot put record",
+    "title": "Jakub Dobes Got An Interesting Gift Following Ovechkin’s Record",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 08 Apr 2025 14:33:00 +0000",
+    "published": "Tue, 08 Apr 2025 15:33:54 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Apr. 8—GRAND FORKS — Former Grand Forks Central standout Ethan Thomas continues to turn heads in his true freshman season at UND. After destroying the UND indoor shot put record this winter, Thomas easily crushed the outdoor record recently, as well. At the Triton Invitational in La Jolla, Calif., Thomas threw a personal-best throw of 63 feet, 7.75 inches. The previous record was 58-10, set by ..."
+      "Unless you’ve been living under a rock, you know that the Washington Capitals’ captain and super sniper, Alexander Ovechkin, broke Wayne Gretzky’s goal-scoring record this weekend when he beat countryman Ilya Sorokin on a power play. A celebration followed on the ice, but American beer giant Budweiser had another celebration in mind."
     ],
     "image_url": "",
-    "summary": "Ethan Thomas, a freshman at UND and former Grand Forks Central standout, broke the UND outdoor shot put record at the Triton Invitational in La Jolla, California, with a throw of 63 feet, 7.75 inches. This surpassed the previous record of 58 feet, 10 inches. Thomas had previously set a new indoor shot put record at UND this winter, showcasing his exceptional talent in his first collegiate season.",
+    "summary": "Alexander Ovechkin, captain of the Washington Capitals, set a new NHL goal-scoring record by surpassing Wayne Gretzky's previous record. Ovechkin achieved this milestone during a game against Ilya Sorokin, scoring on a power play. Following his record-breaking goal, an on-ice celebration took place, and Budweiser, an American beer company, planned an additional celebration in honor of Ovechkin's achievement.",
     "titles": [
-      "Local notebook: Former Central thrower Ethan Thomas shatters UND shot put record"
+      "Jakub Dobes Got An Interesting Gift Following Ovechkin’s Record"
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.993,
+      "recency": 0.994,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.3782500000000001,
-    "normalized_score": 4.99
+    "score": 0.37850000000000006,
+    "normalized_score": 4.14
   },
   {
-    "title": "Overall ski champion Brignone discharged from the hospital after breaking her leg",
+    "title": "Boston Celtics' Joe Mazzulla reveals secret to record-setting success from 3-point range",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 08 Apr 2025 14:29:44 +0000",
+    "published": "Tue, 08 Apr 2025 15:26:58 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Overall World Cup skiing champion Federica Brignone was discharged from the hospital on Tuesday, five days after breaking multiple bones in her left leg in a giant slalom crash and undergoing surgery.  “I still don’t know how long it will take (to return),” Brignone told reporters as she sat in a wheelchair before leaving the La Madonnina clinic in Milan.  Brignone also tore her ACL, raising questions about her chances of competing at the home Olympics in 10 months."
+      "The Boston Celtics head coach revealed his secret to his team's success on the perimeter."
     ],
     "image_url": "",
-    "summary": "Federica Brignone, the overall World Cup skiing champion, was released from the hospital after a five-day stay due to a giant slalom crash that resulted in multiple broken bones in her left leg and a torn ACL. Following surgery at the La Madonnina clinic in Milan, Brignone's recovery timeline remains uncertain, casting doubt on her ability to compete in the Olympics in 10 months.",
+    "summary": "The Boston Celtics' head coach attributed the team's success on the perimeter to a combination of rigorous defensive drills, a focus on shooting accuracy in practice, and a strategy that emphasizes teamwork and player movement. This approach has significantly enhanced the team's performance in perimeter play.",
     "titles": [
-      "Overall ski champion Brignone discharged from the hospital after breaking her leg"
+      "Boston Celtics' Joe Mazzulla reveals secret to record-setting success from 3-point range"
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.993,
+      "recency": 0.992,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.3782500000000001,
-    "normalized_score": 4.99
+    "score": 0.378,
+    "normalized_score": 4.11
   },
   {
-    "title": "Another big industry mock draft has the Saints picking Shedeur Sanders",
+    "title": "How a Masters champion returned from South American prison to play at Augusta National again",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 08 Apr 2025 14:52:06 +0000",
+    "published": "Tue, 08 Apr 2025 15:50:06 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Mel Kiper Jr. is the latest analyst linked the Saints to Shedeur Sanders. He made the case for why the Colorado QB should keep wearing black and gold."
+      "After spending two years in prison for assault, Ángel Cabrera is back at Augusta National, where he won 16 years ago."
     ],
     "image_url": "",
-    "summary": "Mel Kiper Jr., a noted analyst, has recommended that Shedeur Sanders, the quarterback for Colorado, should be drafted by the New Orleans Saints. Kiper Jr. believes Sanders would be a good fit for the Saints and should continue playing in black and gold, the team's colors.",
+    "summary": "Former Masters champion Ángel Cabrera, who won the tournament 16 years ago, has returned to Augusta National after serving two years in prison for assault charges.",
     "titles": [
-      "Another big industry mock draft has the Saints picking Shedeur Sanders"
+      "How a Masters champion returned from South American prison to play at Augusta National again"
     ],
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.998,
+      "recency": 0.997,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.35550000000000004,
-    "normalized_score": 3.94
+    "score": 0.35525000000000007,
+    "normalized_score": 2.85
   },
   {
-    "title": "Fantasy Baseball Waiver Wire: Chase Dollander makes for an excellent pitching replacement for managers in need",
+    "title": "Pennsylvania Sportswatch Daily Listings",
     "domain": "sports",
     "location": "national",
-    "published": "Tue, 08 Apr 2025 14:46:13 +0000",
+    "published": "Tue, 08 Apr 2025 15:45:09 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
-    "snippets": [
-      "Plus, why Casey Mize isn't a must-roster player just yet"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/04/08/bd91f00a-4410-4f72-a3e5-fa720a9ad361/chase-dollander-colorado-rockies-usatsi.jpg",
-    "summary": "Casey Mize, a professional baseball player, is currently not considered a must-roster player. This assessment is based on his current performance and potential in the game. The conclusion draws from various evaluations of his abilities and contributions to the team, suggesting that while Mize may have talent, he has yet to reach a level of performance that makes him indispensable to fantasy baseball teams or his professional team's roster.",
+    "snippets": [],
+    "image_url": "",
+    "summary": "I'm sorry, but you haven't provided any specific news content for me to summarize. Could you please provide the details of the news story or stories you'd like summarized?",
     "titles": [
-      "Fantasy Baseball Waiver Wire: Chase Dollander makes for an excellent pitching replacement for managers in need"
+      "Pennsylvania Sportswatch Daily Listings",
+      "Pennsylvania Sportswatch Daily Listings"
     ],
     "score_components": {
       "magnitude": 0.12,
@@ -269,40 +266,13 @@
       "constructiveness": 0.0
     },
     "score": 0.355,
-    "normalized_score": 3.92
-  },
-  {
-    "title": "China vows ‘fight to the end’ after Trump threatens extra 50% tariff",
-    "domain": "business",
-    "location": "global",
-    "published": "Tue, 08 Apr 2025 13:47:56 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Beijing and Washington exchange warnings of retaliation as markets stabilise"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2f035622-4fd7-48ee-83d5-03795508e83e.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "summary": "Beijing and Washington have issued mutual warnings of retaliation, amid a period of stabilized markets. This development marks a significant moment in the ongoing tensions between the two capitals. The specifics of the warnings or potential areas of retaliation were not disclosed, but the exchange signals a continued strain in diplomatic relations.",
-    "titles": [
-      "China vows ‘fight to the end’ after Trump threatens extra 50% tariff"
-    ],
-    "score_components": {
-      "magnitude": 0.26,
-      "recency": 0.983,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.47375,
-    "normalized_score": 9.39
+    "normalized_score": 2.83
   },
   {
     "title": "Zelenskyy says Chinese men fighting for Russia captured in Ukraine",
     "domain": "business",
     "location": "global",
-    "published": "Tue, 08 Apr 2025 13:45:12 GMT",
+    "published": "Tue, 08 Apr 2025 15:33:31 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -317,13 +287,94 @@
     ],
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.982,
+      "recency": 0.994,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.4675,
-    "normalized_score": 9.1
+    "score": 0.47050000000000003,
+    "normalized_score": 9.27
+  },
+  {
+    "title": "China vows ‘fight to the end’ after Trump threatens extra 50% tariff",
+    "domain": "business",
+    "location": "global",
+    "published": "Tue, 08 Apr 2025 13:47:56 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Beijing and Washington exchange warnings of retaliation as markets stabilise"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F75ede41b-e582-4b0a-a5cf-983a2b3cdc94.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "summary": "Beijing and Washington have issued mutual warnings of retaliation, amid a period of stabilized markets. This development marks a significant moment in the ongoing tensions between the two capitals. The specifics of the warnings or potential areas of retaliation were not disclosed, but the exchange signals a continued strain in diplomatic relations.",
+    "titles": [
+      "China vows ‘fight to the end’ after Trump threatens extra 50% tariff"
+    ],
+    "score_components": {
+      "magnitude": 0.26,
+      "recency": 0.969,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.47024999999999995,
+    "normalized_score": 9.26
+  },
+  {
+    "title": "Trump’s tariffs will damage the world",
+    "domain": "business",
+    "location": "global",
+    "published": "Tue, 08 Apr 2025 15:15:04 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The trade deficits will remain roughly unchanged — the globe will just end up poorer"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7c2bd98-b0ad-4422-bf1b-158c8198d05c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "summary": "Global trade deficits are projected to stay relatively stable, but this stability comes at a cost, as it will lead to a decrease in global wealth. This means that while the balance between imports and exports across countries may not see significant shifts, the overall economic prosperity worldwide is expected to decline.",
+    "titles": [
+      "Trump’s tariffs will damage the world"
+    ],
+    "score_components": {
+      "magnitude": 0.24,
+      "recency": 0.989,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.46924999999999994,
+    "normalized_score": 9.21
+  },
+  {
+    "title": "Dave & Buster's Interim CEO Says Chain 'Unwinding' Past Mistakes",
+    "domain": "business",
+    "location": "global",
+    "published": "Tue, 08 Apr 2025 15:19:40 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Bing Guan / Bloomberg via Getty Images\" src=\"https://www.investopedia.com/thmb/G6dW0u8ZQm0Vdv65NWb6956pquE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2126120279-8a58ef555eb0461ab3a9efcc55bd5782.jpg\" title=\"People are seen outside the entrance of a Dave and Buster's location.\" /><figcaption><i><p>Bing Guan / Bloomberg via Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>Dave &amp; Buster's interim CEO Kevin Sheehan said the company is working to fix past mistakes.</li><li>Sheehan said past leadership made \"very dramatic and chaotic changes.\" CEO Chris Morris resigned from the gaming restaurant franchise in December to take over as CEO of the retail waxing franchise European Wax Center.</li><li>Fourth-quarter sales fell short of analysts' estimates.</li></ul><br /><br /><p>Dave &amp; Buster's (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;PLAY\">PLAY</a>) new leadership is looking to correct mistakes made by past executives, interim CEO Kevin Sheehan said on the company's fourth-quarter earnings call.<span class=\"ql-inline-citation\"></span></p><p>In attempting \"to improve the business that was already doing well, prior leadership made very dramatic and chaotic changes that, among other things, distracted, confused, and overwhelmed our customers and our operators,\" Sheehan said Monday, according to a transcript from AlphaSense.</p><p>The gaming restaurant franchise's previous CEO, Chris Morris, resigned from <a href=\"https://www.investopedia.com/dave-and-busters-stock-larger-loss-than-expected-ceo-departure-8759472\">the top job in December</a> to take over as CEO of the retail waxing franchise European Wax Center (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;EWCZ\">EWCZ</a>).<span class=\"ql-inline-citation\"></span><span class=\"ql-inline-citation\"></span> Dave &amp; Buster's shares have fallen 75% over the past year.</p><p>Sheehan said he and other new executives have been \"systematically unwinding these mistakes and pursuing a back-to-basics strategy while making high-confidence improvements to the key areas of the business.\"</p><h2>Q4 Revenue Comes in Shy of Expectation</h2><p>The company reported fiscal 2024 fourth-quarter revenue of $534.5 million, down 11% year-over-year and below the $545.4 million expected by analysts polled by Visible Alpha. The company posted adjusted <a href=\"https://www.investopedia.com/terms/e/eps.asp\">earnings per share (EPS)</a> of $0.69, a penny above consensus.</p><p>Shares of Dave &amp; Buster's were little changed in recent trading after initially surging Tuesday.</p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/G6dW0u8ZQm0Vdv65NWb6956pquE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2126120279-8a58ef555eb0461ab3a9efcc55bd5782.jpg",
+    "summary": "Dave & Buster's interim CEO, Kevin Sheehan, announced efforts to correct previous leadership errors that led to dramatic and chaotic changes, negatively impacting the company and its customers. This comes after former CEO Chris Morris resigned in December to become CEO of European Wax Center. The company's fourth-quarter sales of $534.5 million fell short of the expected $545.4 million, although earnings per share were slightly above expectations at $0.69. Despite these efforts and financial results, Dave & Buster's shares have dropped 75% over the past year.",
+    "titles": [
+      "Dave & Buster's Interim CEO Says Chain 'Unwinding' Past Mistakes"
+    ],
+    "score_components": {
+      "magnitude": 0.22,
+      "recency": 0.99,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.4635,
+    "normalized_score": 8.88
   },
   {
     "title": "Watch These Supermicro Price Levels as Stock Soars After Tariff-Induced Selling",
@@ -344,67 +395,13 @@
     ],
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.991,
+      "recency": 0.977,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.46375,
-    "normalized_score": 8.93
-  },
-  {
-    "title": "CVS Stock Pops as Pharmacy Chain Improves Full-Year Outlook, Taps New Execs",
-    "domain": "business",
-    "location": "global",
-    "published": "Tue, 08 Apr 2025 14:12:30 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "<figure><img alt=\"UCG / Contributor / Getty Images\" src=\"https://www.investopedia.com/thmb/mg2lujUgUC6hrsfNFwX97AVypbE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2207232111-d7fe612f48dc4a8dbb1f3144fe6b6d70.jpg\" title=\"CVS Pharmacy\" /><figcaption><i><p>UCG / Contributor / Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>CVS stock surged Tuesday after the company said it expects to meet or exceed its previous outlook for 2025.</li><li>This comes after the government said it will pay Medicare insurers, such as CVS' Aetna, more than previously expected.</li><li>CVS also announced new executives, including a CFO expected to start later this month.</li></ul><br /><br /><p>CVS Health (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;CVS\">CVS</a>) shares jumped Tuesday after the company improved its full-year outlook and named a new chief financial officer.<span class=\"ql-inline-citation\"></span></p><p>The pharmacy and health insurance giant said it now expects to meet or exceed its adjusted earnings projection of $5.75 to $6 per share <a href=\"https://www.investopedia.com/cvs-health-stock-pops-as-q4-sales-earnings-top-estimates-8787981\">issued in February</a>. Analysts expect $5.89 on average, according to Visible Alpha. </p><p>CVS shares jumped over 8% in recent trading. The federal government also announced late Monday that it will <a href=\"https://www.investopedia.com/medicare-payment-boost-lifts-health-insurance-stocks-11710823\">pay Medicare insurers</a>, such as CVS' Aetna, more than previously expected.</p><p>The company's shares are up about 55% year-to-date, making it the best-performing stock in the <a href=\"https://www.investopedia.com/terms/s/sp500.asp\">S&amp;P 500</a> since the start of the year, after a difficult 2024. </p><p>Along with its improved forecast, CVS announced the appointment of a new CFO, with former UPS (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;UPS\">UPS</a>) CFO Brian Newman set to take over the role effective April 21. The company also named Amy Compton-Phillips, who most recently served as chief physician executive of Press Ganey, its chief medical officer, effective May 19. These shakeups follow a <a href=\"https://www.investopedia.com/cvs-stock-plummets-as-it-replaces-ceo-price-update-8730261\">CEO change</a> in October that saw CVS veteran David Joyner take the helm.<br /></p>"
-    ],
-    "image_url": "https://www.investopedia.com/thmb/mg2lujUgUC6hrsfNFwX97AVypbE=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2207232111-d7fe612f48dc4a8dbb1f3144fe6b6d70.jpg",
-    "summary": "CVS Health's stock experienced an over 8% surge on Tuesday after the company announced it anticipates meeting or surpassing its 2025 earnings forecast of $5.75 to $6 per share. This positive outlook was bolstered by the federal government's decision to increase payments to Medicare insurers, including CVS' Aetna. Additionally, CVS introduced new executive appointments, naming former UPS CFO Brian Newman as its new CFO effective April 21, and Amy Compton-Phillips as chief medical officer starting May 19. The company's shares have risen approximately 55% year-to-date, positioning CVS as the top ",
-    "titles": [
-      "CVS Stock Pops as Pharmacy Chain Improves Full-Year Outlook, Taps New Execs"
-    ],
-    "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.989,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.46325000000000005,
-    "normalized_score": 8.91
-  },
-  {
-    "title": "Treasury Secretary Bessent Says China Playing With 'Losing Hand'",
-    "domain": "business",
-    "location": "global",
-    "published": "Tue, 08 Apr 2025 14:02:01 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "<figure><img alt=\"SAUL LOEB / AFP via Getty Images U.S. Treasury Secretary Scott Bessent\" src=\"https://www.investopedia.com/thmb/4JMGQDAHyJJhghnsA6bPxEvyyh0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2207587952-394e3980d32c4a2a96c60acd22c9bcad.jpg\" title=\"US Treasury Secretary Scott Bessent \" /><figcaption><i><p>SAUL LOEB / AFP via Getty Images</p> U.S. Treasury Secretary Scott Bessent</i></figcaption></figure><br /><h3>KEY TAKEAWAYS</h3><ul><li>Treasury Secretary Scott Bessent said in an interview Tuesday that the U.S. has the upper hand over China as the trade war intensifies.</li><li>\"What do we lose by the Chinese raising tariffs on us?\" Bessent said, \"We export one-fifth to them of what they export to us, so that is a losing hand for them.\"</li><li>On Tuesday, China threatened to hit back further if President Donald Trump hikes U.S. import tariffs by an additional 50%.<br /></li></ul><br /><br /><p>Treasury Secretary Scott Bessent said in an interview Tuesday that the U.S. has the upper hand over China as the trade war intensifies.<span class=\"ql-inline-citation\"></span></p><p>\"I think it was a big mistake, this Chinese escalation, because they're playing with a pair of twos,\" Bessent said on <em>CNBC</em>. \"...What do we lose by the Chinese raising tariffs on us? We export one-fifth to them of what they export to us, so that is a losing hand for them.\"</p><p>On Tuesday, China <a href=\"https://www.investopedia.com/global-stocks-rebound-even-as-china-pledges-to-fight-to-the-end-on-tariffs-11711018\">threatened</a> to hit back further if President Donald Trump hikes U.S. import tariffs by an <a href=\"https://www.investopedia.com/trump-threatens-further-tariffs-on-china-discusses-japan-trade-talks-11710276\">additional 50%</a>, saying it would \"fight to the end.\"<span class=\"ql-inline-citation\"></span>  </p><p>\"I think you are going to see some very large countries with large trade deficits come forward very quickly,\" Bessent said. \"If they come to the table with solid proposals, I think we can end up with some good deals.\"</p><p>Bessent told <em>Fox Business</em> on Monday that he expected Japan to get priority in trade talks \"just because they came forward very quickly,\" which helped the Nikkei close 6% higher Tuesday. </p>"
-    ],
-    "image_url": "https://www.investopedia.com/thmb/4JMGQDAHyJJhghnsA6bPxEvyyh0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2207587952-394e3980d32c4a2a96c60acd22c9bcad.jpg",
-    "summary": "U.S. Treasury Secretary Scott Bessent claimed the U.S. holds an advantage in the escalating trade war with China, citing the imbalance in exports between the two nations. Bessent argued that China's decision to raise tariffs is a strategic error, given the U.S. exports significantly less to China than vice versa. This statement came amid threats from China to retaliate if the U.S. increases import tariffs by an additional 50%. Bessent also mentioned potential for positive trade deals with other large countries and highlighted Japan's proactive stance in trade talks, which positively impacted i",
-    "titles": [
-      "Treasury Secretary Bessent Says China Playing With 'Losing Hand'"
-    ],
-    "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.986,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.4625,
-    "normalized_score": 8.87
+    "score": 0.46025000000000005,
+    "normalized_score": 8.7
   },
   {
     "title": "Smell-seeking drone uses moth antenna to follow a scent",
@@ -425,13 +422,13 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.972,
+      "recency": 0.958,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.45299999999999996,
-    "normalized_score": 8.43
+    "score": 0.4495,
+    "normalized_score": 8.1
   },
   {
     "title": "Blood test predicts preeclampsia risk using RNA",
@@ -452,13 +449,13 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.944,
+      "recency": 0.93,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.44599999999999995,
-    "normalized_score": 8.11
+    "score": 0.4425,
+    "normalized_score": 7.71
   },
   {
     "title": "How long is a day on Uranus? Slightly longer than we thought, it seems",
@@ -479,13 +476,13 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.941,
+      "recency": 0.927,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.44525000000000003,
-    "normalized_score": 8.08
+    "score": 0.44175,
+    "normalized_score": 7.67
   },
   {
     "title": "Trees capture toxic fingerprint of gold mining in the Amazon",
@@ -506,13 +503,13 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.861,
+      "recency": 0.847,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.42525,
-    "normalized_score": 7.15
+    "score": 0.42174999999999996,
+    "normalized_score": 6.56
   },
   {
     "title": "Experimental medication helps treat cocaine addiction",
@@ -533,12 +530,12 @@
     ],
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.729,
+      "recency": 0.715,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.39825,
-    "normalized_score": 5.91
+    "score": 0.39475000000000005,
+    "normalized_score": 5.05
   }
 ]
