@@ -19,12 +19,12 @@
     "constructiveness_reason": "The story provides useful information about US plans to impose port fees on Chinese ships, but it does not highlight any progress or solutions, nor does it provide actionable insights for the reader.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.9,
+      "recency": 0.896,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.7
     },
-    "score": 0.505,
+    "score": 0.504,
     "normalized_score": 10.0,
     "summary": "Newly announced charges will be implemented in 180 days, with plans for these charges to increase progressively in the subsequent years. This phased approach aims to gradually introduce the financial changes."
   },
@@ -48,12 +48,12 @@
     "constructiveness_reason": "The story provides useful insights about the issue of US weapons being sold to militant groups, contributing to a deeper understanding of the issue. However, it does not report on solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.827,
+      "recency": 0.823,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.497,
+    "score": 0.496,
     "normalized_score": 9.67,
     "summary": "Approximately 500,000 US weapons that were obtained by the Taliban have reportedly been misplaced, sold, or smuggled to various militant groups. This development raises concerns about the proliferation of arms among factions potentially hostile to US interests."
   },
@@ -77,12 +77,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.34,
-      "recency": 0.978,
+      "recency": 0.975,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.497,
+    "score": 0.496,
     "normalized_score": 9.67,
     "summary": "Russia has escalated its military offensive against Ukraine, simultaneously, Ukraine has publicly accused China for the first time of supplying weapons to Russia. This marks a significant development in the conflict, highlighting increased tensions and the involvement of additional international actors."
   },
@@ -106,12 +106,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.946,
+      "recency": 0.943,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.477,
+    "score": 0.476,
     "normalized_score": 8.85,
     "summary": "A cable car accident occurred on a 1,100m-high mountain after a cord snapped, according to local media reports."
   },
@@ -135,43 +135,14 @@
     "constructiveness_reason": "This story provides actionable insights for the reader about the correct use of over-the-counter painkillers, contributing to their decision-making and sense of agency. It also increases awareness about a common health issue.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.987,
+      "recency": 0.984,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.9
     },
-    "score": 0.473,
+    "score": 0.472,
     "normalized_score": 8.69,
     "summary": "Pharmacists warn that incorrect use or overconsumption of painkillers such as Advil and Tylenol can lead to increased side effects. They recommend safer and more effective methods for taking these medications to mitigate risks."
-  },
-  {
-    "title": "Cash Cow – Massive Champions League Revenues Allow Inter Milan To Spend Big In Transfer Market",
-    "domain": "sports",
-    "location": "national",
-    "published": "Fri, 18 Apr 2025 09:01:00 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Revenues from the Champions League will enable Inter Milan to invest more than ever in the transfer market this summer.Today’s print edition of Milan-based newspaper Gazzetta dello Sport, via FCInte..."
-    ],
-    "image_url": "",
-    "titles": [
-      "Cash Cow – Massive Champions League Revenues Allow Inter Milan To Spend Big In Transfer Market"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.988,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.377,
-    "normalized_score": 4.75,
-    "summary": "Inter Milan plans to significantly invest in the transfer market this summer, fueled by increased revenues from the Champions League. This financial strategy was highlighted in a report by the Milan-based newspaper Gazzetta dello Sport, as shared by FCInterNews. The investment aims to strengthen the team's competitive edge."
   },
   {
     "title": "Why Russia’s invasion of Ukraine hangs over tennis like no other sport",
@@ -193,14 +164,72 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.14,
-      "recency": 0.991,
+      "recency": 0.988,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.36,
+    "score": 0.359,
     "normalized_score": 4.06,
     "summary": "Russian tennis players have publicly responded to their country's invasion of Ukraine, highlighting the sport's engagement with the conflict. Andrey Rublev called for peace by writing “no war please” on a camera lens in February 2022. Daria Kasatkina, who described the war as a “full-blown nightmare” and came out as gay, defected to Australia to live authentically. These actions underscore the personal and political challenges faced by athletes amidst global events."
+  },
+  {
+    "title": "NFL draft RB rankings: Top 10 best available include Ashton Jeanty, Omarion Hampton, Cam Skattebo",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 18 Apr 2025 10:01:36 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The 2025 NFL Draft begins on April 24. Here are The Tennessean's rankings for the 10 best running backs available, starting with Ashton Jeanty."
+    ],
+    "image_url": "",
+    "titles": [
+      "NFL draft RB rankings: Top 10 best available include Ashton Jeanty, Omarion Hampton, Cam Skattebo"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.998,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.356,
+    "normalized_score": 3.93,
+    "summary": "The 2025 NFL Draft is set to start on April 24, with Ashton Jeanty leading The Tennessean's list of the top 10 running backs available for selection."
+  },
+  {
+    "title": "NFL draft QB rankings: Top 10 best available include Cam Ward, Shedeur Sanders, Tyler Shough",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 18 Apr 2025 10:01:31 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The 2025 NFL Draft begins on April 24. Here are The Tennessean's rankings for the 10 best quarterbacks available, starting with Cam Ward and Shedeur Sanders."
+    ],
+    "image_url": "",
+    "titles": [
+      "NFL draft QB rankings: Top 10 best available include Cam Ward, Shedeur Sanders, Tyler Shough"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.998,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.356,
+    "normalized_score": 3.93,
+    "summary": "The 2025 NFL Draft is set to start on April 24, with Cam Ward and Shedeur Sanders leading The Tennessean's rankings of the top 10 available quarterbacks. This list is a key indicator of the talent pool for teams looking to strengthen their quarterback positions."
   },
   {
     "title": "Chelsea could sell two first team defenders to fund move for Premier League captain valued at &#8220;under £50m&#8221;",
@@ -222,30 +251,30 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.994,
+      "recency": 0.991,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.355,
+    "score": 0.354,
     "normalized_score": 3.85,
     "summary": "Wesley Fofana's persistent injury issues have led to concerns about his long-term reliability in the Premier League. As a result, Chelsea is actively seeking a replacement. The specifics of the potential signing, including the target player or the timeline, were not disclosed."
   },
   {
-    "title": "Bruins star praises Joe Sacco - 8 takeaways from Bruins breakup day",
+    "title": "Trent Alexander-Arnold set for Liverpool return but his future remains unclear",
     "domain": "sports",
     "location": "national",
-    "published": "Fri, 18 Apr 2025 09:10:20 +0000",
+    "published": "Fri, 18 Apr 2025 09:27:00 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "A Bruins star praised interim coach Joe Sacco, who is in limbo after the season."
+      "Trent Alexander-Arnold could return to the Liverpool squad this weekend following injury but Reds boss Arne Slot again did not give any clarification on the defender’s future.Alexander-Arnold is out..."
     ],
     "image_url": "",
     "titles": [
-      "Bruins star praises Joe Sacco - 8 takeaways from Bruins breakup day"
+      "Trent Alexander-Arnold set for Liverpool return but his future remains unclear"
     ],
     "constructiveness_score": 0.0,
     "constructiveness_reason": "",
@@ -257,37 +286,8 @@
       "constructiveness": 0.0
     },
     "score": 0.354,
-    "normalized_score": 3.81,
-    "summary": "A Bruins star publicly commended interim coach Joe Sacco for his contributions to the team. Despite the praise, Sacco's future with the team remains uncertain following the conclusion of the season."
-  },
-  {
-    "title": "Alabama football fans sound off on spring practice, A-Day in latest mailbag | Goodbread",
-    "domain": "sports",
-    "location": "national",
-    "published": "Fri, 18 Apr 2025 09:04:17 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Alabama football fans check in with post-spring concerns and thoughts on A-Day in the latest edition of the Tuscaloosa News mailbag."
-    ],
-    "image_url": "",
-    "titles": [
-      "Alabama football fans sound off on spring practice, A-Day in latest mailbag | Goodbread"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.988,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.77,
-    "summary": "Alabama football fans shared their post-spring concerns and thoughts on the A-Day game in the latest Tuscaloosa News mailbag edition. This feedback reflects the community's perspective and reactions following the spring football session, offering insights into the fans' expectations and areas of interest regarding the team's performance and future prospects."
+    "normalized_score": 3.85,
+    "summary": "Trent Alexander-Arnold may rejoin the Liverpool squad for the upcoming weekend after recovering from an injury. However, Liverpool's manager, Arne Slot, has not provided any details regarding the defender's long-term future with the team. The current status of Alexander-Arnold's situation remains uncertain as he potentially prepares for a return to play."
   },
   {
     "title": "Trump will abandon Ukraine peace talks ‘in days’ without progress, warns Rubio",
@@ -309,14 +309,43 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.26,
-      "recency": 0.996,
+      "recency": 0.993,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.477,
+    "score": 0.476,
     "normalized_score": 8.85,
     "summary": "The US Secretary of State has stated that if the ongoing war cannot be concluded in the near future, Washington will shift its focus to other priorities. This indicates a potential change in the level of involvement or strategy from the United States if a timely resolution to the conflict is not achievable."
+  },
+  {
+    "title": "Watch These AMD Price Levels as Stock Slides Amid New U.S. Rules on Chip Exports to China",
+    "domain": "business",
+    "location": "global",
+    "published": "Fri, 18 Apr 2025 10:00:00 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Source: TradingView.com\" src=\"https://www.investopedia.com/thmb/UbTXQFHZ8ZxXf7x-IwL-dMpfmm0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/AMDChart-460a6d05144c48d3b20fa2238b857423.gif\" title=\"This image depicts the AMD chart.\" /><figcaption><i>Source: TradingView.com</i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>AMD shares fell again Thursday, a day after the chipmaker joined a sector-wide sell-off following news that the U.S. had imposed new licensing requirements on some AI chip exports to China.</li><li>The stock has recently formed a piercing pattern, a two-day candlestick price pattern that marks a potential reversal from a downward trend to an upward trend.</li><li>Investors should watch major support levels on AMD's chart around $76 and $65, while also monitoring key resistance levels near $116 and $150.</li></ul><br /><br /><p>Advanced Micro Devices (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;amd\">AMD</a>) shares lost ground again Thursday, a day after the chipmaker joined a <a href=\"https://www.investopedia.com/nvidia-amd-and-other-chip-stocks-fall-as-trump-curbs-exports-to-china-11716186\">sector-wide sell-off</a> following news that the U.S. had imposed new licensing requirements on some AI chip exports to China.</p><p>AMD said via a regulatory filing that the new chip curbs would see it face charges of up to $800 million related to the export of its MI308 <a href=\"https://www.investopedia.com/terms/g/graphics-processing-unit-gpu.asp\">graphics processing unit (GPU)</a>, a chip designed for compute-intensive applications, such as AI and <a href=\"https://www.investopedia.com/amd-stock-climbs-as-chipmaker-gaming-gpus-gain-market-share-in-japan-11698534\">gaming</a>.<span class=\"ql-inline-citation\"></span></p><p>AMD shares have tumbled 28% since the start of the year and lost 43% of their value over the past 12 months amid concerns about slowing AI infrastructure spending and the company’s inability to capture a greater share of the AI chip market from sector bellwether Nvidia (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;nvda\">NVDA</a>). The Trump administration's trade policies have added to the uncertainty surrounding the stock.</p><p>Below we analyze AMD’s <a href=\"https://www.investopedia.com/terms/w/weeklychart.asp\">weekly chart</a> and identify major price levels that investors will likely be watching.</p><h2>Piercing Pattern Marks Potential Reversal</h2><p>After breaking down below the <a href=\"https://www.investopedia.com/terms/n/neckline.asp\">neckline</a> of a <a href=\"https://www.investopedia.com/terms/h/head-shoulders.asp\">head and shoulders formation</a> in December, AMD shares trended sharply lower until last week’s <a href=\"https://www.investopedia.com/articles/technical/02/010702.asp\">volume</a>-backed rebound, potentially laying the groundwork for a longer-term <a href=\"https://www.investopedia.com/terms/r/reversal.asp\">reversal</a>.</p><p>Importantly, the move created a <a href=\"https://www.investopedia.com/terms/piercing-pattern.asp\">piercing pattern</a>, a two-day candlestick price pattern that marks a potential reversal from a downward trend to an upward trend.</p><p>However, selling resumed this week, with the <a href=\"https://www.investopedia.com/terms/r/rsi.asp\">relative strength index (RSI)</a> edging back toward <a href=\"https://www.investopedia.com/terms/o/oversold.asp\">oversold</a> levels to confirm bearish short-term price momentum. Looking ahead, investors should watch for the indicator to potentially break out above a <a href=\"https://www.investopedia.com/terms/w/wedge.asp\">falling wedge pattern</a> it has formed over the past seven months.</p><p>Let’s locate major<a href=\"https://www.investopedia.com/trading/support-and-resistance-basics/\"> support and resistance</a> levels by applying <a href=\"https://www.investopedia.com/terms/t/technicalanalysis.asp\">technical analysis</a> to AMD’s chart.</p><h2>Major Support Levels to Watch</h2><p>AMD shares fell 0.9% to $87.50 on Thursday.</p><p>The first lower level to watch sits around $76. This area would likely attract significant scrutiny near last week’s low, which also closely aligns with a range of corresponding trading activity on the chart stretching back to September 2020.</p><p>Selling below this level opens the door for a retest of lower support at $65. Investors could seek buying opportunities in this location near the December 2022 <a href=\"https://www.investopedia.com/terms/r/retracement.asp\">retracement</a> low, a region the marked the start of a 14-month <a href=\"https://www.investopedia.com/terms/u/uptrend.asp\">uptrend</a> in the stock.</p><h2>Important Resistance Levels to Watch</h2><p>A move higher from current levels could see the shares initially climb to around $116. This region provides a <a href=\"https://www.investopedia.com/terms/c/confluence.asp\">confluence</a> of selling pressure near the 200-week moving average, last month’s <a href=\"https://www.investopedia.com/articles/trading/10/trend-following-countertrend.asp\">countertrend</a> high, and a range of comparable price points on the chart extending back to August 2021.</p><p>Finally, a longer-term trend reversal in the stock could fuel a rally to $150. Investors who have <a href=\"https://www.investopedia.com/terms/a/accumulating-shares.asp#:~:text&#61;Accumulating%20shares%20is%20a%20compensation,to%20the%20time%20of%20sale.\">accumulated shares</a> during the stock’s downtrend may look for <a href=\"https://www.investopedia.com/terms/p/profittaking.asp\">profit-taking</a> opportunities in this location near a <a href=\"https://www.investopedia.com/terms/h/horizontal-line.asp\">horizontal line</a> that connects several minor peaks on the chart between December 2021 and August last year. Depending on the timing of such a move, AMD shares may also encounter resistance in this area from the head and shoulders’ neckline.</p><p><em>The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our <a href=\"https://www.investopedia.com/legal-4768893#toc-warranty-and-liability-disclaimer\">warranty and liability disclaimer</a> for more info.</em></p><p><em>As of the date this article was written, the author does not own any of the above securities.</em><br /></p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/UbTXQFHZ8ZxXf7x-IwL-dMpfmm0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/AMDChart-460a6d05144c48d3b20fa2238b857423.gif",
+    "titles": [
+      "Watch These AMD Price Levels as Stock Slides Amid New U.S. Rules on Chip Exports to China"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.22,
+      "recency": 0.998,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.466,
+    "normalized_score": 8.44,
+    "summary": "AMD shares fell by 0.9% to $87.50 on Thursday, continuing a decline after the U.S. imposed new licensing requirements on AI chip exports to China, affecting the chipmaker. This regulatory action could result in up to $800 million in charges for AMD due to restrictions on its MI308 GPU exports. The stock has seen a significant drop, losing 28% since the start of the year and 43% over the past 12 months, amid concerns over AI infrastructure spending and competition from Nvidia. Technical analysis suggests watching for major support levels at $76 and $65, with key resistance levels near $116 and "
   },
   {
     "title": "What Analysts Think of Tesla Stock Ahead of Earnings",
@@ -338,12 +367,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.987,
+      "recency": 0.984,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.457,
+    "score": 0.456,
     "normalized_score": 8.03,
     "summary": "Tesla is set to release its first-quarter earnings report after the market closes on Tuesday, with expectations of a slight decline in revenue to $21.18 billion and an 8% drop in adjusted earnings per share to $0.42. This downturn follows a period of underwhelming delivery and production numbers, alongside controversies surrounding CEO Elon Musk's political activities. The company's stock has been negatively impacted, being one of the worst performers in the S&P 500 for the first quarter. Analysts' opinions on Tesla are mixed, with adjustments to profit and delivery estimates, as well as price"
   },
@@ -367,12 +396,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.918,
+      "recency": 0.915,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.452,
+    "score": 0.451,
     "normalized_score": 7.83,
     "summary": "Nvidia, a major tech company, has been significantly impacted by policies introduced during Donald Trump's presidency, facing challenges that symbolize broader business difficulties. These policies have affected Nvidia's operations and market performance, illustrating the potential negative consequences of political decisions on the tech industry."
   },
@@ -396,43 +425,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.918,
+      "recency": 0.915,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.452,
+    "score": 0.451,
     "normalized_score": 7.83,
     "summary": "The imposition of tariffs and the potential for new duties on chips and computing infrastructure are posing challenges to the United States' goal of leading in the artificial intelligence (AI) sector. These financial barriers could hinder the development and deployment of AI technologies in the US."
-  },
-  {
-    "title": "China stops buying liquefied gas from US",
-    "domain": "business",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 04:15:32 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Standstill shows how Sino-American trade war has spilled into energy sector"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff13def33-c63e-4c90-b462-48c435b027cd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "China stops buying liquefied gas from US"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.922,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.447,
-    "normalized_score": 7.62,
-    "summary": "The ongoing Sino-American trade war has significantly impacted the energy sector, leading to a standstill in trade activities between the two countries. This development highlights the broader economic tensions and their effects on global energy markets."
   },
   {
     "title": "Excavation in Sudan shows Roman Empire wasn’t as mighty as it claimed",
@@ -454,12 +454,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.751,
+      "recency": 0.748,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.404,
+    "score": 0.403,
     "normalized_score": 5.86,
     "summary": "Recent archaeological findings challenge the long-held belief that Roman forces destroyed a Kushite city in present-day Sudan during an attack by the Kushites on Roman Egypt. This revision of historical events suggests a different outcome than previously thought."
   },
@@ -483,12 +483,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.753,
+      "recency": 0.75,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.398,
+    "score": 0.397,
     "normalized_score": 5.61,
     "summary": "Scientists have reported potential biosignatures on the exoplanet K2-18b, indicating possible signs of life. However, they caution that confirming life on this distant world is still far from certain."
   },
@@ -512,12 +512,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.71,
+      "recency": 0.706,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.393,
+    "score": 0.392,
     "normalized_score": 5.41,
     "summary": "Colossal Biosciences announced plans for \"de-extinction,\" raising questions about the credibility of claims from privately funded researchers. Jonathan R. Goodman highlights concerns over whether financial backing lowers the scrutiny such claims receive. This development adds to a series of controversial statements in the scientific community, prompting debate on the influence of money on scientific credibility."
   },
@@ -541,12 +541,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.724,
+      "recency": 0.72,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.391,
+    "score": 0.39,
     "normalized_score": 5.33,
     "summary": "For the first time, global regulations will impose a carbon levy on emissions from shipping. However, experts criticize the measures as insufficient for addressing the environmental challenges posed by the shipping industry's carbon footprint."
   },
@@ -570,13 +570,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.71,
+      "recency": 0.707,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
     "score": 0.387,
-    "normalized_score": 5.16,
+    "normalized_score": 5.2,
     "summary": "Two independent research teams have created techniques to hack noisy quantum computers using a row-hammer attack, which is traditionally employed to compromise conventional computers. This development highlights potential security vulnerabilities in quantum computing systems."
   },
   {
@@ -599,14 +599,43 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.26,
-      "recency": 0.996,
+      "recency": 0.993,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.477,
+    "score": 0.476,
     "normalized_score": 8.85,
     "summary": "The US Secretary of State has stated that if the ongoing war cannot be concluded in the near future, Washington will shift its focus to other priorities. This indicates a potential change in the level of involvement or strategy from the United States if a timely resolution to the conflict is not achievable."
+  },
+  {
+    "title": "Watch These AMD Price Levels as Stock Slides Amid New U.S. Rules on Chip Exports to China",
+    "domain": "business",
+    "location": "global",
+    "published": "Fri, 18 Apr 2025 10:00:00 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Source: TradingView.com\" src=\"https://www.investopedia.com/thmb/UbTXQFHZ8ZxXf7x-IwL-dMpfmm0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/AMDChart-460a6d05144c48d3b20fa2238b857423.gif\" title=\"This image depicts the AMD chart.\" /><figcaption><i>Source: TradingView.com</i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>AMD shares fell again Thursday, a day after the chipmaker joined a sector-wide sell-off following news that the U.S. had imposed new licensing requirements on some AI chip exports to China.</li><li>The stock has recently formed a piercing pattern, a two-day candlestick price pattern that marks a potential reversal from a downward trend to an upward trend.</li><li>Investors should watch major support levels on AMD's chart around $76 and $65, while also monitoring key resistance levels near $116 and $150.</li></ul><br /><br /><p>Advanced Micro Devices (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;amd\">AMD</a>) shares lost ground again Thursday, a day after the chipmaker joined a <a href=\"https://www.investopedia.com/nvidia-amd-and-other-chip-stocks-fall-as-trump-curbs-exports-to-china-11716186\">sector-wide sell-off</a> following news that the U.S. had imposed new licensing requirements on some AI chip exports to China.</p><p>AMD said via a regulatory filing that the new chip curbs would see it face charges of up to $800 million related to the export of its MI308 <a href=\"https://www.investopedia.com/terms/g/graphics-processing-unit-gpu.asp\">graphics processing unit (GPU)</a>, a chip designed for compute-intensive applications, such as AI and <a href=\"https://www.investopedia.com/amd-stock-climbs-as-chipmaker-gaming-gpus-gain-market-share-in-japan-11698534\">gaming</a>.<span class=\"ql-inline-citation\"></span></p><p>AMD shares have tumbled 28% since the start of the year and lost 43% of their value over the past 12 months amid concerns about slowing AI infrastructure spending and the company’s inability to capture a greater share of the AI chip market from sector bellwether Nvidia (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;nvda\">NVDA</a>). The Trump administration's trade policies have added to the uncertainty surrounding the stock.</p><p>Below we analyze AMD’s <a href=\"https://www.investopedia.com/terms/w/weeklychart.asp\">weekly chart</a> and identify major price levels that investors will likely be watching.</p><h2>Piercing Pattern Marks Potential Reversal</h2><p>After breaking down below the <a href=\"https://www.investopedia.com/terms/n/neckline.asp\">neckline</a> of a <a href=\"https://www.investopedia.com/terms/h/head-shoulders.asp\">head and shoulders formation</a> in December, AMD shares trended sharply lower until last week’s <a href=\"https://www.investopedia.com/articles/technical/02/010702.asp\">volume</a>-backed rebound, potentially laying the groundwork for a longer-term <a href=\"https://www.investopedia.com/terms/r/reversal.asp\">reversal</a>.</p><p>Importantly, the move created a <a href=\"https://www.investopedia.com/terms/piercing-pattern.asp\">piercing pattern</a>, a two-day candlestick price pattern that marks a potential reversal from a downward trend to an upward trend.</p><p>However, selling resumed this week, with the <a href=\"https://www.investopedia.com/terms/r/rsi.asp\">relative strength index (RSI)</a> edging back toward <a href=\"https://www.investopedia.com/terms/o/oversold.asp\">oversold</a> levels to confirm bearish short-term price momentum. Looking ahead, investors should watch for the indicator to potentially break out above a <a href=\"https://www.investopedia.com/terms/w/wedge.asp\">falling wedge pattern</a> it has formed over the past seven months.</p><p>Let’s locate major<a href=\"https://www.investopedia.com/trading/support-and-resistance-basics/\"> support and resistance</a> levels by applying <a href=\"https://www.investopedia.com/terms/t/technicalanalysis.asp\">technical analysis</a> to AMD’s chart.</p><h2>Major Support Levels to Watch</h2><p>AMD shares fell 0.9% to $87.50 on Thursday.</p><p>The first lower level to watch sits around $76. This area would likely attract significant scrutiny near last week’s low, which also closely aligns with a range of corresponding trading activity on the chart stretching back to September 2020.</p><p>Selling below this level opens the door for a retest of lower support at $65. Investors could seek buying opportunities in this location near the December 2022 <a href=\"https://www.investopedia.com/terms/r/retracement.asp\">retracement</a> low, a region the marked the start of a 14-month <a href=\"https://www.investopedia.com/terms/u/uptrend.asp\">uptrend</a> in the stock.</p><h2>Important Resistance Levels to Watch</h2><p>A move higher from current levels could see the shares initially climb to around $116. This region provides a <a href=\"https://www.investopedia.com/terms/c/confluence.asp\">confluence</a> of selling pressure near the 200-week moving average, last month’s <a href=\"https://www.investopedia.com/articles/trading/10/trend-following-countertrend.asp\">countertrend</a> high, and a range of comparable price points on the chart extending back to August 2021.</p><p>Finally, a longer-term trend reversal in the stock could fuel a rally to $150. Investors who have <a href=\"https://www.investopedia.com/terms/a/accumulating-shares.asp#:~:text&#61;Accumulating%20shares%20is%20a%20compensation,to%20the%20time%20of%20sale.\">accumulated shares</a> during the stock’s downtrend may look for <a href=\"https://www.investopedia.com/terms/p/profittaking.asp\">profit-taking</a> opportunities in this location near a <a href=\"https://www.investopedia.com/terms/h/horizontal-line.asp\">horizontal line</a> that connects several minor peaks on the chart between December 2021 and August last year. Depending on the timing of such a move, AMD shares may also encounter resistance in this area from the head and shoulders’ neckline.</p><p><em>The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our <a href=\"https://www.investopedia.com/legal-4768893#toc-warranty-and-liability-disclaimer\">warranty and liability disclaimer</a> for more info.</em></p><p><em>As of the date this article was written, the author does not own any of the above securities.</em><br /></p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/UbTXQFHZ8ZxXf7x-IwL-dMpfmm0=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/AMDChart-460a6d05144c48d3b20fa2238b857423.gif",
+    "titles": [
+      "Watch These AMD Price Levels as Stock Slides Amid New U.S. Rules on Chip Exports to China"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.22,
+      "recency": 0.998,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.466,
+    "normalized_score": 8.44,
+    "summary": "AMD shares fell by 0.9% to $87.50 on Thursday, continuing a decline after the U.S. imposed new licensing requirements on AI chip exports to China, affecting the chipmaker. This regulatory action could result in up to $800 million in charges for AMD due to restrictions on its MI308 GPU exports. The stock has seen a significant drop, losing 28% since the start of the year and 43% over the past 12 months, amid concerns over AI infrastructure spending and competition from Nvidia. Technical analysis suggests watching for major support levels at $76 and $65, with key resistance levels near $116 and "
   },
   {
     "title": "What Analysts Think of Tesla Stock Ahead of Earnings",
@@ -628,12 +657,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.987,
+      "recency": 0.984,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.457,
+    "score": 0.456,
     "normalized_score": 8.03,
     "summary": "Tesla is set to release its first-quarter earnings report after the market closes on Tuesday, with expectations of a slight decline in revenue to $21.18 billion and an 8% drop in adjusted earnings per share to $0.42. This downturn follows a period of underwhelming delivery and production numbers, alongside controversies surrounding CEO Elon Musk's political activities. The company's stock has been negatively impacted, being one of the worst performers in the S&P 500 for the first quarter. Analysts' opinions on Tesla are mixed, with adjustments to profit and delivery estimates, as well as price"
   },
@@ -657,12 +686,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.918,
+      "recency": 0.915,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.452,
+    "score": 0.451,
     "normalized_score": 7.83,
     "summary": "Nvidia, a major tech company, has been significantly impacted by policies introduced during Donald Trump's presidency, facing challenges that symbolize broader business difficulties. These policies have affected Nvidia's operations and market performance, illustrating the potential negative consequences of political decisions on the tech industry."
   },
@@ -686,43 +715,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.918,
+      "recency": 0.915,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.452,
+    "score": 0.451,
     "normalized_score": 7.83,
     "summary": "The imposition of tariffs and the potential for new duties on chips and computing infrastructure are posing challenges to the United States' goal of leading in the artificial intelligence (AI) sector. These financial barriers could hinder the development and deployment of AI technologies in the US."
-  },
-  {
-    "title": "China stops buying liquefied gas from US",
-    "domain": "business",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 04:15:32 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Standstill shows how Sino-American trade war has spilled into energy sector"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff13def33-c63e-4c90-b462-48c435b027cd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "China stops buying liquefied gas from US"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.922,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.447,
-    "normalized_score": 7.62,
-    "summary": "The ongoing Sino-American trade war has significantly impacted the energy sector, leading to a standstill in trade activities between the two countries. This development highlights the broader economic tensions and their effects on global energy markets."
   },
   {
     "title": "US lays out plans to hit Chinese ships with port fees",
@@ -744,12 +744,12 @@
     "constructiveness_reason": "The story provides useful information about US plans to impose port fees on Chinese ships, but it does not highlight any progress or solutions, nor does it provide actionable insights for the reader.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.9,
+      "recency": 0.896,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.7
     },
-    "score": 0.505,
+    "score": 0.504,
     "normalized_score": 10.0,
     "summary": "Newly announced charges will be implemented in 180 days, with plans for these charges to increase progressively in the subsequent years. This phased approach aims to gradually introduce the financial changes."
   },
@@ -773,12 +773,12 @@
     "constructiveness_reason": "The story provides useful insights about the issue of US weapons being sold to militant groups, contributing to a deeper understanding of the issue. However, it does not report on solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.827,
+      "recency": 0.823,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.497,
+    "score": 0.496,
     "normalized_score": 9.67,
     "summary": "Approximately 500,000 US weapons that were obtained by the Taliban have reportedly been misplaced, sold, or smuggled to various militant groups. This development raises concerns about the proliferation of arms among factions potentially hostile to US interests."
   },
@@ -802,12 +802,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.34,
-      "recency": 0.978,
+      "recency": 0.975,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.497,
+    "score": 0.496,
     "normalized_score": 9.67,
     "summary": "Russia has escalated its military offensive against Ukraine, simultaneously, Ukraine has publicly accused China for the first time of supplying weapons to Russia. This marks a significant development in the conflict, highlighting increased tensions and the involvement of additional international actors."
   },
@@ -831,12 +831,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.946,
+      "recency": 0.943,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.477,
+    "score": 0.476,
     "normalized_score": 8.85,
     "summary": "A cable car accident occurred on a 1,100m-high mountain after a cord snapped, according to local media reports."
   },
@@ -860,12 +860,12 @@
     "constructiveness_reason": "This story provides actionable insights for the reader about the correct use of over-the-counter painkillers, contributing to their decision-making and sense of agency. It also increases awareness about a common health issue.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.987,
+      "recency": 0.984,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.9
     },
-    "score": 0.473,
+    "score": 0.472,
     "normalized_score": 8.69,
     "summary": "Pharmacists warn that incorrect use or overconsumption of painkillers such as Advil and Tylenol can lead to increased side effects. They recommend safer and more effective methods for taking these medications to mitigate risks."
   },
@@ -889,12 +889,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.751,
+      "recency": 0.748,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.404,
+    "score": 0.403,
     "normalized_score": 5.86,
     "summary": "Recent archaeological findings challenge the long-held belief that Roman forces destroyed a Kushite city in present-day Sudan during an attack by the Kushites on Roman Egypt. This revision of historical events suggests a different outcome than previously thought."
   },
@@ -918,12 +918,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.753,
+      "recency": 0.75,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.398,
+    "score": 0.397,
     "normalized_score": 5.61,
     "summary": "Scientists have reported potential biosignatures on the exoplanet K2-18b, indicating possible signs of life. However, they caution that confirming life on this distant world is still far from certain."
   },
@@ -947,12 +947,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.71,
+      "recency": 0.706,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.393,
+    "score": 0.392,
     "normalized_score": 5.41,
     "summary": "Colossal Biosciences announced plans for \"de-extinction,\" raising questions about the credibility of claims from privately funded researchers. Jonathan R. Goodman highlights concerns over whether financial backing lowers the scrutiny such claims receive. This development adds to a series of controversial statements in the scientific community, prompting debate on the influence of money on scientific credibility."
   },
@@ -976,12 +976,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.724,
+      "recency": 0.72,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.391,
+    "score": 0.39,
     "normalized_score": 5.33,
     "summary": "For the first time, global regulations will impose a carbon levy on emissions from shipping. However, experts criticize the measures as insufficient for addressing the environmental challenges posed by the shipping industry's carbon footprint."
   },
@@ -1005,43 +1005,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.71,
+      "recency": 0.707,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
     "score": 0.387,
-    "normalized_score": 5.16,
+    "normalized_score": 5.2,
     "summary": "Two independent research teams have created techniques to hack noisy quantum computers using a row-hammer attack, which is traditionally employed to compromise conventional computers. This development highlights potential security vulnerabilities in quantum computing systems."
-  },
-  {
-    "title": "Cash Cow – Massive Champions League Revenues Allow Inter Milan To Spend Big In Transfer Market",
-    "domain": "sports",
-    "location": "national",
-    "published": "Fri, 18 Apr 2025 09:01:00 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Revenues from the Champions League will enable Inter Milan to invest more than ever in the transfer market this summer.Today’s print edition of Milan-based newspaper Gazzetta dello Sport, via FCInte..."
-    ],
-    "image_url": "",
-    "titles": [
-      "Cash Cow – Massive Champions League Revenues Allow Inter Milan To Spend Big In Transfer Market"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.988,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.377,
-    "normalized_score": 4.75,
-    "summary": "Inter Milan plans to significantly invest in the transfer market this summer, fueled by increased revenues from the Champions League. This financial strategy was highlighted in a report by the Milan-based newspaper Gazzetta dello Sport, as shared by FCInterNews. The investment aims to strengthen the team's competitive edge."
   },
   {
     "title": "Why Russia’s invasion of Ukraine hangs over tennis like no other sport",
@@ -1063,14 +1034,72 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.14,
-      "recency": 0.991,
+      "recency": 0.988,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.36,
+    "score": 0.359,
     "normalized_score": 4.06,
     "summary": "Russian tennis players have publicly responded to their country's invasion of Ukraine, highlighting the sport's engagement with the conflict. Andrey Rublev called for peace by writing “no war please” on a camera lens in February 2022. Daria Kasatkina, who described the war as a “full-blown nightmare” and came out as gay, defected to Australia to live authentically. These actions underscore the personal and political challenges faced by athletes amidst global events."
+  },
+  {
+    "title": "NFL draft RB rankings: Top 10 best available include Ashton Jeanty, Omarion Hampton, Cam Skattebo",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 18 Apr 2025 10:01:36 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The 2025 NFL Draft begins on April 24. Here are The Tennessean's rankings for the 10 best running backs available, starting with Ashton Jeanty."
+    ],
+    "image_url": "",
+    "titles": [
+      "NFL draft RB rankings: Top 10 best available include Ashton Jeanty, Omarion Hampton, Cam Skattebo"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.998,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.356,
+    "normalized_score": 3.93,
+    "summary": "The 2025 NFL Draft is set to start on April 24, with Ashton Jeanty leading The Tennessean's list of the top 10 running backs available for selection."
+  },
+  {
+    "title": "NFL draft QB rankings: Top 10 best available include Cam Ward, Shedeur Sanders, Tyler Shough",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 18 Apr 2025 10:01:31 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The 2025 NFL Draft begins on April 24. Here are The Tennessean's rankings for the 10 best quarterbacks available, starting with Cam Ward and Shedeur Sanders."
+    ],
+    "image_url": "",
+    "titles": [
+      "NFL draft QB rankings: Top 10 best available include Cam Ward, Shedeur Sanders, Tyler Shough"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.998,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.356,
+    "normalized_score": 3.93,
+    "summary": "The 2025 NFL Draft is set to start on April 24, with Cam Ward and Shedeur Sanders leading The Tennessean's rankings of the top 10 available quarterbacks. This list is a key indicator of the talent pool for teams looking to strengthen their quarterback positions."
   },
   {
     "title": "Chelsea could sell two first team defenders to fund move for Premier League captain valued at &#8220;under £50m&#8221;",
@@ -1092,30 +1121,30 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.994,
+      "recency": 0.991,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.355,
+    "score": 0.354,
     "normalized_score": 3.85,
     "summary": "Wesley Fofana's persistent injury issues have led to concerns about his long-term reliability in the Premier League. As a result, Chelsea is actively seeking a replacement. The specifics of the potential signing, including the target player or the timeline, were not disclosed."
   },
   {
-    "title": "Bruins star praises Joe Sacco - 8 takeaways from Bruins breakup day",
+    "title": "Trent Alexander-Arnold set for Liverpool return but his future remains unclear",
     "domain": "sports",
     "location": "national",
-    "published": "Fri, 18 Apr 2025 09:10:20 +0000",
+    "published": "Fri, 18 Apr 2025 09:27:00 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "A Bruins star praised interim coach Joe Sacco, who is in limbo after the season."
+      "Trent Alexander-Arnold could return to the Liverpool squad this weekend following injury but Reds boss Arne Slot again did not give any clarification on the defender’s future.Alexander-Arnold is out..."
     ],
     "image_url": "",
     "titles": [
-      "Bruins star praises Joe Sacco - 8 takeaways from Bruins breakup day"
+      "Trent Alexander-Arnold set for Liverpool return but his future remains unclear"
     ],
     "constructiveness_score": 0.0,
     "constructiveness_reason": "",
@@ -1127,36 +1156,7 @@
       "constructiveness": 0.0
     },
     "score": 0.354,
-    "normalized_score": 3.81,
-    "summary": "A Bruins star publicly commended interim coach Joe Sacco for his contributions to the team. Despite the praise, Sacco's future with the team remains uncertain following the conclusion of the season."
-  },
-  {
-    "title": "Alabama football fans sound off on spring practice, A-Day in latest mailbag | Goodbread",
-    "domain": "sports",
-    "location": "national",
-    "published": "Fri, 18 Apr 2025 09:04:17 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Alabama football fans check in with post-spring concerns and thoughts on A-Day in the latest edition of the Tuscaloosa News mailbag."
-    ],
-    "image_url": "",
-    "titles": [
-      "Alabama football fans sound off on spring practice, A-Day in latest mailbag | Goodbread"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.988,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.77,
-    "summary": "Alabama football fans shared their post-spring concerns and thoughts on the A-Day game in the latest Tuscaloosa News mailbag edition. This feedback reflects the community's perspective and reactions following the spring football session, offering insights into the fans' expectations and areas of interest regarding the team's performance and future prospects."
+    "normalized_score": 3.85,
+    "summary": "Trent Alexander-Arnold may rejoin the Liverpool squad for the upcoming weekend after recovering from an injury. However, Liverpool's manager, Arne Slot, has not provided any details regarding the defender's long-term future with the team. The current status of Alexander-Arnold's situation remains uncertain as he potentially prepares for a return to play."
   }
 ]
