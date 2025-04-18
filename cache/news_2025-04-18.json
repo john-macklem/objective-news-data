@@ -1,34 +1,5 @@
 [
   {
-    "title": "US will 'move on' from Ukraine peace talks in days if no progress soon",
-    "domain": "general",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 08:51:16 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The US Secretary of State's comments come as Ukraine says it took a first step towards signing a minerals deal with the US."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d807/live/b67a7f40-1c2e-11f0-b1b3-7358f8d35a35.jpg",
-    "titles": [
-      "US will 'move on' from Ukraine peace talks in days if no progress soon"
-    ],
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "The story provides useful information about the ongoing Ukraine peace talks, but it does not highlight any progress or solutions, nor does it provide actionable insights for the reader.",
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.999,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.7
-    },
-    "score": 0.542,
-    "normalized_score": 10.0,
-    "summary": "The US Secretary of State commented on Ukraine's announcement that it has initiated the process towards signing a minerals agreement with the United States. This development marks a significant step in bilateral relations between the two countries, focusing on mineral resource collaboration."
-  },
-  {
     "title": "US lays out plans to hit Chinese ships with port fees",
     "domain": "general",
     "location": "global",
@@ -48,13 +19,13 @@
     "constructiveness_reason": "The story provides useful information about US plans to impose port fees on Chinese ships, but it does not highlight any progress or solutions, nor does it provide actionable insights for the reader.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.913,
+      "recency": 0.9,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.7
     },
-    "score": 0.508,
-    "normalized_score": 8.78,
+    "score": 0.505,
+    "normalized_score": 10.0,
     "summary": "Newly announced charges will be implemented in 180 days, with plans for these charges to increase progressively in the subsequent years. This phased approach aims to gradually introduce the financial changes."
   },
   {
@@ -77,13 +48,13 @@
     "constructiveness_reason": "The story provides useful insights about the issue of US weapons being sold to militant groups, contributing to a deeper understanding of the issue. However, it does not report on solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.84,
+      "recency": 0.827,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.5,
-    "normalized_score": 8.49,
+    "score": 0.497,
+    "normalized_score": 9.67,
     "summary": "Approximately 500,000 US weapons that were obtained by the Taliban have reportedly been misplaced, sold, or smuggled to various militant groups. This development raises concerns about the proliferation of arms among factions potentially hostile to US interests."
   },
   {
@@ -106,13 +77,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.34,
-      "recency": 0.992,
+      "recency": 0.978,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.5,
-    "normalized_score": 8.49,
+    "score": 0.497,
+    "normalized_score": 9.67,
     "summary": "Russia has escalated its military offensive against Ukraine, simultaneously, Ukraine has publicly accused China for the first time of supplying weapons to Russia. This marks a significant development in the conflict, highlighting increased tensions and the involvement of additional international actors."
   },
   {
@@ -135,59 +106,146 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.96,
+      "recency": 0.946,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.48,
-    "normalized_score": 7.77,
+    "score": 0.477,
+    "normalized_score": 8.85,
     "summary": "A cable car accident occurred on a 1,100m-high mountain after a cord snapped, according to local media reports."
   },
   {
-    "title": "How Saudi Arabia has sights set on F1 summit with $480m ‘Rainbow Road’ Qiddiya track",
-    "domain": "sports",
+    "title": "You're probably taking over-the-counter painkillers incorrectly",
+    "domain": "general",
     "location": "national",
-    "published": "Fri, 18 Apr 2025 08:24:27 +0000",
+    "published": "Fri, 18 Apr 2025 05:00:00 -0400",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "F1 returns to Jeddah for the fifth Saudi Arabian Grand Prix this weekend, but the fastest street circuit in the world will soon be overshadowed by a futuristic track outside the capital city, Riyadh"
+      "People often use the wrong painkiller or take too much too quickly, increasing the risk of side effects, say pharmacists. Here are safer and more effective ways to take drugs like Advil and Tylenol."
     ],
     "image_url": "",
     "titles": [
-      "How Saudi Arabia has sights set on F1 summit with $480m ‘Rainbow Road’ Qiddiya track"
+      "You're probably taking over-the-counter painkillers incorrectly"
+    ],
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story provides actionable insights for the reader about the correct use of over-the-counter painkillers, contributing to their decision-making and sense of agency. It also increases awareness about a common health issue.",
+    "score_components": {
+      "magnitude": 0.22,
+      "recency": 0.987,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.9
+    },
+    "score": 0.473,
+    "normalized_score": 8.69,
+    "summary": "Pharmacists warn that incorrect use or overconsumption of painkillers such as Advil and Tylenol can lead to increased side effects. They recommend safer and more effective methods for taking these medications to mitigate risks."
+  },
+  {
+    "title": "Cash Cow – Massive Champions League Revenues Allow Inter Milan To Spend Big In Transfer Market",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 18 Apr 2025 09:01:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Revenues from the Champions League will enable Inter Milan to invest more than ever in the transfer market this summer.Today’s print edition of Milan-based newspaper Gazzetta dello Sport, via FCInte..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Cash Cow – Massive Champions League Revenues Allow Inter Milan To Spend Big In Transfer Market"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.988,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.377,
+    "normalized_score": 4.75,
+    "summary": "Inter Milan plans to significantly invest in the transfer market this summer, fueled by increased revenues from the Champions League. This financial strategy was highlighted in a report by the Milan-based newspaper Gazzetta dello Sport, as shared by FCInterNews. The investment aims to strengthen the team's competitive edge."
+  },
+  {
+    "title": "Why Russia’s invasion of Ukraine hangs over tennis like no other sport",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 18 Apr 2025 09:16:06 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "It’s easy to think of tennis’ relationship with Russia’s war in Ukraine through the prism of a few key moments. Russian player Andrey Rublev wrote “no war please” on a camera lens in February 2022, shortly after Russia’s invasion. In September 2022, Daria Kasatkina, also Russian, described the war as a “full-blown nightmare” in a series of interviews in which she also came out as gay. Kasatkina earlier this year defected to Australia, saying in a news conference, “if I want to be myself, I have"
+    ],
+    "image_url": "",
+    "titles": [
+      "Why Russia’s invasion of Ukraine hangs over tennis like no other sport"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.14,
+      "recency": 0.991,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.36,
+    "normalized_score": 4.06,
+    "summary": "Russian tennis players have publicly responded to their country's invasion of Ukraine, highlighting the sport's engagement with the conflict. Andrey Rublev called for peace by writing “no war please” on a camera lens in February 2022. Daria Kasatkina, who described the war as a “full-blown nightmare” and came out as gay, defected to Australia to live authentically. These actions underscore the personal and political challenges faced by athletes amidst global events."
+  },
+  {
+    "title": "Chelsea could sell two first team defenders to fund move for Premier League captain valued at &#8220;under £50m&#8221;",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 18 Apr 2025 09:30:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Now that Wesley Fofana’s injury problems have ruled him out from ever being a reliable Premier League player in the long run, it’s pretty clear that Chelsea are getting into gear to try and sign a..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Chelsea could sell two first team defenders to fund move for Premier League captain valued at &#8220;under £50m&#8221;"
     ],
     "constructiveness_score": 0.0,
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.993,
+      "recency": 0.994,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.354,
-    "normalized_score": 3.24,
-    "summary": "The fifth Saudi Arabian Grand Prix is taking place in Jeddah this weekend, featuring the world's fastest street circuit. However, this circuit will soon be replaced by a new, futuristic track located outside Riyadh, the capital city of Saudi Arabia."
+    "score": 0.355,
+    "normalized_score": 3.85,
+    "summary": "Wesley Fofana's persistent injury issues have led to concerns about his long-term reliability in the Premier League. As a result, Chelsea is actively seeking a replacement. The specifics of the potential signing, including the target player or the timeline, were not disclosed."
   },
   {
-    "title": "🤖 AI vs Humans: Predicting the results of Premier League Matchday 33",
+    "title": "Bruins star praises Joe Sacco - 8 takeaways from Bruins breakup day",
     "domain": "sports",
     "location": "national",
-    "published": "Fri, 18 Apr 2025 08:12:00 +0000",
+    "published": "Fri, 18 Apr 2025 09:10:20 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Let us know your predictions in the comments!Last week, we pitted our special guest - singer-songwriter Tom Speight - against an AI to see who could most accurately predict the results of Premier Lea..."
+      "A Bruins star praised interim coach Joe Sacco, who is in limbo after the season."
     ],
     "image_url": "",
     "titles": [
-      "🤖 AI vs Humans: Predicting the results of Premier League Matchday 33"
+      "Bruins star praises Joe Sacco - 8 takeaways from Bruins breakup day"
     ],
     "constructiveness_score": 0.0,
     "constructiveness_reason": "",
@@ -199,53 +257,24 @@
       "constructiveness": 0.0
     },
     "score": 0.354,
-    "normalized_score": 3.24,
-    "summary": "Last week, a competition was held to see who could more accurately predict Premier League soccer results: singer-songwriter Tom Speight or an AI. The outcome or current status of this competition, including who won, was not provided in the content shared."
+    "normalized_score": 3.81,
+    "summary": "A Bruins star publicly commended interim coach Joe Sacco for his contributions to the team. Despite the praise, Sacco's future with the team remains uncertain following the conclusion of the season."
   },
   {
-    "title": "NHL Awards 2025: Draisaitl, Kucherov And Hellebuyck Win Trophies",
+    "title": "Alabama football fans sound off on spring practice, A-Day in latest mailbag | Goodbread",
     "domain": "sports",
     "location": "national",
-    "published": "Fri, 18 Apr 2025 08:09:03 +0000",
+    "published": "Fri, 18 Apr 2025 09:04:17 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The NHL's scoring and goal-stopping races wrapped up as awards season begins."
+      "Alabama football fans check in with post-spring concerns and thoughts on A-Day in the latest edition of the Tuscaloosa News mailbag."
     ],
     "image_url": "",
     "titles": [
-      "NHL Awards 2025: Draisaitl, Kucherov And Hellebuyck Win Trophies"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.989,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.2,
-    "summary": "The NHL concluded its scoring and goal-stopping competitions, marking the start of the awards season. This phase highlights the league's top performers in scoring and goaltending, setting the stage for the upcoming awards that recognize outstanding achievements in these areas."
-  },
-  {
-    "title": "Baseball Player of the Week: North Plainfield's Bennie Sokolowski wins award",
-    "domain": "sports",
-    "location": "national",
-    "published": "Fri, 18 Apr 2025 08:03:21 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "North Plainfield's Bennie Sokolowski has pitched like an ace for the resurgent North Plainfield baseball team"
-    ],
-    "image_url": "",
-    "titles": [
-      "Baseball Player of the Week: North Plainfield's Bennie Sokolowski wins award"
+      "Alabama football fans sound off on spring practice, A-Day in latest mailbag | Goodbread"
     ],
     "constructiveness_score": 0.0,
     "constructiveness_reason": "",
@@ -257,66 +286,66 @@
       "constructiveness": 0.0
     },
     "score": 0.353,
-    "normalized_score": 3.2,
-    "summary": "Bennie Sokolowski, a pitcher for North Plainfield, has significantly contributed to the baseball team's resurgence with his standout performance. His role as an ace pitcher has been instrumental in the team's improved performance."
+    "normalized_score": 3.77,
+    "summary": "Alabama football fans shared their post-spring concerns and thoughts on the A-Day game in the latest Tuscaloosa News mailbag edition. This feedback reflects the community's perspective and reactions following the spring football session, offering insights into the fans' expectations and areas of interest regarding the team's performance and future prospects."
   },
   {
-    "title": "Best in state: Vote for the 2025 Daily news Girls Indoor Track & Field Athlete of the Year",
-    "domain": "sports",
-    "location": "national",
-    "published": "Fri, 18 Apr 2025 08:03:05 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "A state record holder. Division 1 commits. State champions. The race for the 2025 Girls Indoor Track & Field Athlete of the year will be a tight one."
-    ],
-    "image_url": "",
-    "titles": [
-      "Best in state: Vote for the 2025 Daily news Girls Indoor Track & Field Athlete of the Year"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.988,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.2,
-    "summary": "The 2025 Girls Indoor Track & Field Athlete of the Year competition is expected to be highly competitive, featuring a state record holder, athletes committed to Division 1 colleges, and state champions."
-  },
-  {
-    "title": "Trump’s tariffs unravel US supply chains at China’s export showcase",
+    "title": "Trump will abandon Ukraine peace talks ‘in days’ without progress, warns Rubio",
     "domain": "business",
     "location": "global",
-    "published": "Fri, 18 Apr 2025 02:12:53 GMT",
+    "published": "Fri, 18 Apr 2025 09:36:41 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Buyers and sellers at Canton trade fair scramble to find ways to evade levies as goods pile up in warehouses"
+      "US secretary of state says Washington will focus on ‘other priorities’ if war cannot be ended soon"
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F17533ed4-db36-4a58-8bb6-33f15c0e8886.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F193ee069-0faf-4373-adaa-264e88b6239b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "titles": [
-      "Trump’s tariffs unravel US supply chains at China’s export showcase"
+      "Trump will abandon Ukraine peace talks ‘in days’ without progress, warns Rubio"
     ],
     "constructiveness_score": 0.0,
     "constructiveness_reason": "",
     "score_components": {
-      "magnitude": 0.28,
-      "recency": 0.907,
+      "magnitude": 0.26,
+      "recency": 0.996,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.461,
-    "normalized_score": 7.09,
-    "summary": "At the Canton trade fair, both buyers and sellers are actively seeking methods to bypass tariffs, leading to an accumulation of goods in warehouses. This situation reflects the challenges faced by participants in navigating the current trade environment, characterized by increased levies."
+    "score": 0.477,
+    "normalized_score": 8.85,
+    "summary": "The US Secretary of State has stated that if the ongoing war cannot be concluded in the near future, Washington will shift its focus to other priorities. This indicates a potential change in the level of involvement or strategy from the United States if a timely resolution to the conflict is not achievable."
+  },
+  {
+    "title": "What Analysts Think of Tesla Stock Ahead of Earnings",
+    "domain": "business",
+    "location": "global",
+    "published": "Fri, 18 Apr 2025 09:00:00 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "<figure><img alt=\"John Keeble / Getty Images\" src=\"https://www.investopedia.com/thmb/ILCSZdiK20fH9cGtRYrSBo3e8UI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2210586138-41456e380d984f96b332a16a7c4ecd75.jpg\" title=\"Tesla vehicles are seen at a display booth in a white building.\" /><figcaption><i><p>John Keeble / Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>Tesla will report first-quarter earnings after the market closes on Tuesday as analysts remain divided on the electric vehicle maker.</li><li>Revenue and adjusted profits are expected to fall year-over-year as deliveries and production have disappointed.</li><li>The EV maker's stock has suffered as the company has been the center of protests and controversy over CEO Elon Musk's political efforts.</li></ul><br /><br /><p>Tesla (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;TSLA\">TSLA</a>) is scheduled to post its first-quarter earnings report after Tuesday's bell. Analysts are divided on the electric vehicle maker leading up to the results.<span class=\"ql-inline-citation\"></span></p><p>Analysts tracked by Visible Alpha are split have 10 \"buy\" ratings, four \"hold,\" and four \"sell\" ratings. Ahead of last quarter's report, the distribution was nine \"buy,\" six \"hold,\" and three \"sell\" ratings.</p><p>The mean price target, $314.41 per Visible Alpha data, represents about a 30% premium to its close on Thursday, the last trading day of a holiday-shortened week—but its recent levels but down nearly $50 from the average prior to last quarter's earnings.</p><p>Tesla is expected to report a less than 1% decline in revenue to $21.18 billion, with adjusted <a href=\"https://www.investopedia.com/terms/e/eps.asp\">earnings per share (EPS)</a> forecast to fall by nearly 8% year-over-year to $0.42. That estimate has been cut by over 16%, while the adjusted EPS consensus estimate has fallen by over 40% since last quarter's report was released.<br /></p><h2>Deliveries, Production Fell Short Amid Political Concerns</h2><p>Earlier this week, <em>Reuters </em>reported that the company has paused shipments of parts from China for its semi trucks and Cybercab robotaxi called the because of the Trump administration's tariffs, potentially delaying production and release of the vehicles.<span class=\"ql-inline-citation\"></span></p><p>The company's deliveries and production numbers <a href=\"https://www.investopedia.com/tesla-stock-slips-as-q1-deliveries-fall-short-of-estimates-update-11706683\">fell short of estimates</a> for the second <a href=\"https://www.investopedia.com/tesla-stock-q4-deliveries-vehicle-production-fall-short-8768079\">straight quarter</a> when they were released earlier this month. The EV maker has also been the <a href=\"https://www.investopedia.com/is-a-backlash-to-elon-musk-s-politics-hurting-tesla-11691205\">center of protests</a> and controversy regarding CEO Elon Musk's involvement in the Trump administration. Sales <a href=\"https://www.investopedia.com/tesla-eu-sales-tumble-again-even-as-overall-ev-registrations-rise-11702769\">have declined</a> in several key markets this year.</p><p>Tesla stock was <a href=\"https://www.investopedia.com/why-tesla-was-one-of-the-worst-performing-stocks-in-the-s-and-p-500-in-the-first-quarter-11706404\">one of the worst performers</a> in the S&amp;P 500 in the first quarter. Analysts, including even those most bullish <a href=\"https://www.investopedia.com/jpmorgan-cuts-tesla-profit-estimates-on-unprecedented-brand-damage-11709060\">have cut estimates</a> for deliveries and profits this year, along with price targets. Some have called for Musk to step back from his political efforts to <a href=\"https://www.investopedia.com/elon-musk-told-tesla-workers-to-hang-on-the-stock-rose-today-11701154\">focus on Tesla</a> as the stock has slid.</p><p>Tesla shares have roughly returned to their <a href=\"https://www.investopedia.com/tesla-stock-erases-post-election-gains-among-leading-s-and-p-decliners-monday-11693811\">pre-election levels</a> around $240, falling from a Dec. 17 record close of $479.86.<br /></p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/ILCSZdiK20fH9cGtRYrSBo3e8UI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2210586138-41456e380d984f96b332a16a7c4ecd75.jpg",
+    "titles": [
+      "What Analysts Think of Tesla Stock Ahead of Earnings"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.987,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.457,
+    "normalized_score": 8.03,
+    "summary": "Tesla is set to release its first-quarter earnings report after the market closes on Tuesday, with expectations of a slight decline in revenue to $21.18 billion and an 8% drop in adjusted earnings per share to $0.42. This downturn follows a period of underwhelming delivery and production numbers, alongside controversies surrounding CEO Elon Musk's political activities. The company's stock has been negatively impacted, being one of the worst performers in the S&P 500 for the first quarter. Analysts' opinions on Tesla are mixed, with adjustments to profit and delivery estimates, as well as price"
   },
   {
     "title": "Tariffs ignore the reality of global tech supply chains",
@@ -338,14 +367,43 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.932,
+      "recency": 0.918,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.455,
-    "normalized_score": 6.87,
+    "score": 0.452,
+    "normalized_score": 7.83,
     "summary": "Nvidia, a major tech company, has been significantly impacted by policies introduced during Donald Trump's presidency, facing challenges that symbolize broader business difficulties. These policies have affected Nvidia's operations and market performance, illustrating the potential negative consequences of political decisions on the tech industry."
+  },
+  {
+    "title": "Tech industry fears Trump’s trade war will hamper US AI ‘dominance’",
+    "domain": "business",
+    "location": "global",
+    "published": "Fri, 18 Apr 2025 04:00:33 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Tariffs and threat of new duties on chips and computing infrastructure could frustrate American ambitions to lead artificial intelligence race"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7345b9f7-d7a3-4ec0-b6b4-a74bd1e8f683.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Tech industry fears Trump’s trade war will hamper US AI ‘dominance’"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.24,
+      "recency": 0.918,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.452,
+    "normalized_score": 7.83,
+    "summary": "The imposition of tariffs and the potential for new duties on chips and computing infrastructure are posing challenges to the United States' goal of leading in the artificial intelligence (AI) sector. These financial barriers could hinder the development and deployment of AI technologies in the US."
   },
   {
     "title": "China stops buying liquefied gas from US",
@@ -367,72 +425,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.935,
+      "recency": 0.922,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.45,
-    "normalized_score": 6.69,
+    "score": 0.447,
+    "normalized_score": 7.62,
     "summary": "The ongoing Sino-American trade war has significantly impacted the energy sector, leading to a standstill in trade activities between the two countries. This development highlights the broader economic tensions and their effects on global energy markets."
-  },
-  {
-    "title": "Yuval Noah Harari: Trump’s world of rival fortresses",
-    "domain": "business",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 04:00:32 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "In the US president’s vision of post-liberal global disorder the weak should always surrender to the strong, writes the historian, philosopher and author"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbcebaf52-cb45-41ea-a538-1b4f16d8fdc8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Yuval Noah Harari: Trump’s world of rival fortresses"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.932,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.449,
-    "normalized_score": 6.65,
-    "summary": "A historian, philosopher, and author critiques the US president's perspective on global order, suggesting it promotes a worldview where the strong dominate the weak. This analysis reflects concerns about the implications of such a stance on international relations and stability."
-  },
-  {
-    "title": "US rare earth champion faces trade war test after tariffs halt China sales",
-    "domain": "business",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 02:05:36 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "MP Materials has been sending concentrates to Chinese partner as it races to expand in US"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fef1a1ec3-a17a-4f60-a09a-52d7e4934c0f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "US rare earth champion faces trade war test after tariffs halt China sales"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.905,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.448,
-    "normalized_score": 6.62,
-    "summary": "MP Materials, a company specializing in rare earth materials, has been exporting concentrates to a Chinese partner while actively working to expand its operations in the United States. This move is part of MP Materials' strategy to increase its presence and capabilities within the U.S. market."
   },
   {
     "title": "Excavation in Sudan shows Roman Empire wasn’t as mighty as it claimed",
@@ -454,13 +454,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.765,
+      "recency": 0.751,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.407,
-    "normalized_score": 5.14,
+    "score": 0.404,
+    "normalized_score": 5.86,
     "summary": "Recent archaeological findings challenge the long-held belief that Roman forces destroyed a Kushite city in present-day Sudan during an attack by the Kushites on Roman Egypt. This revision of historical events suggests a different outcome than previously thought."
   },
   {
@@ -483,13 +483,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.767,
+      "recency": 0.753,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.402,
-    "normalized_score": 4.96,
+    "score": 0.398,
+    "normalized_score": 5.61,
     "summary": "Scientists have reported potential biosignatures on the exoplanet K2-18b, indicating possible signs of life. However, they caution that confirming life on this distant world is still far from certain."
   },
   {
@@ -512,13 +512,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.724,
+      "recency": 0.71,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.397,
-    "normalized_score": 4.78,
+    "score": 0.393,
+    "normalized_score": 5.41,
     "summary": "Colossal Biosciences announced plans for \"de-extinction,\" raising questions about the credibility of claims from privately funded researchers. Jonathan R. Goodman highlights concerns over whether financial backing lowers the scrutiny such claims receive. This development adds to a series of controversial statements in the scientific community, prompting debate on the influence of money on scientific credibility."
   },
   {
@@ -541,13 +541,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.738,
+      "recency": 0.724,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.394,
-    "normalized_score": 4.68,
+    "score": 0.391,
+    "normalized_score": 5.33,
     "summary": "For the first time, global regulations will impose a carbon levy on emissions from shipping. However, experts criticize the measures as insufficient for addressing the environmental challenges posed by the shipping industry's carbon footprint."
   },
   {
@@ -570,43 +570,72 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.724,
+      "recency": 0.71,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.391,
-    "normalized_score": 4.57,
+    "score": 0.387,
+    "normalized_score": 5.16,
     "summary": "Two independent research teams have created techniques to hack noisy quantum computers using a row-hammer attack, which is traditionally employed to compromise conventional computers. This development highlights potential security vulnerabilities in quantum computing systems."
   },
   {
-    "title": "Trump’s tariffs unravel US supply chains at China’s export showcase",
+    "title": "Trump will abandon Ukraine peace talks ‘in days’ without progress, warns Rubio",
     "domain": "business",
     "location": "global",
-    "published": "Fri, 18 Apr 2025 02:12:53 GMT",
+    "published": "Fri, 18 Apr 2025 09:36:41 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Buyers and sellers at Canton trade fair scramble to find ways to evade levies as goods pile up in warehouses"
+      "US secretary of state says Washington will focus on ‘other priorities’ if war cannot be ended soon"
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F17533ed4-db36-4a58-8bb6-33f15c0e8886.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F193ee069-0faf-4373-adaa-264e88b6239b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "titles": [
-      "Trump’s tariffs unravel US supply chains at China’s export showcase"
+      "Trump will abandon Ukraine peace talks ‘in days’ without progress, warns Rubio"
     ],
     "constructiveness_score": 0.0,
     "constructiveness_reason": "",
     "score_components": {
-      "magnitude": 0.28,
-      "recency": 0.907,
+      "magnitude": 0.26,
+      "recency": 0.996,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.461,
-    "normalized_score": 7.09,
-    "summary": "At the Canton trade fair, both buyers and sellers are actively seeking methods to bypass tariffs, leading to an accumulation of goods in warehouses. This situation reflects the challenges faced by participants in navigating the current trade environment, characterized by increased levies."
+    "score": 0.477,
+    "normalized_score": 8.85,
+    "summary": "The US Secretary of State has stated that if the ongoing war cannot be concluded in the near future, Washington will shift its focus to other priorities. This indicates a potential change in the level of involvement or strategy from the United States if a timely resolution to the conflict is not achievable."
+  },
+  {
+    "title": "What Analysts Think of Tesla Stock Ahead of Earnings",
+    "domain": "business",
+    "location": "global",
+    "published": "Fri, 18 Apr 2025 09:00:00 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "<figure><img alt=\"John Keeble / Getty Images\" src=\"https://www.investopedia.com/thmb/ILCSZdiK20fH9cGtRYrSBo3e8UI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2210586138-41456e380d984f96b332a16a7c4ecd75.jpg\" title=\"Tesla vehicles are seen at a display booth in a white building.\" /><figcaption><i><p>John Keeble / Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>Tesla will report first-quarter earnings after the market closes on Tuesday as analysts remain divided on the electric vehicle maker.</li><li>Revenue and adjusted profits are expected to fall year-over-year as deliveries and production have disappointed.</li><li>The EV maker's stock has suffered as the company has been the center of protests and controversy over CEO Elon Musk's political efforts.</li></ul><br /><br /><p>Tesla (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;TSLA\">TSLA</a>) is scheduled to post its first-quarter earnings report after Tuesday's bell. Analysts are divided on the electric vehicle maker leading up to the results.<span class=\"ql-inline-citation\"></span></p><p>Analysts tracked by Visible Alpha are split have 10 \"buy\" ratings, four \"hold,\" and four \"sell\" ratings. Ahead of last quarter's report, the distribution was nine \"buy,\" six \"hold,\" and three \"sell\" ratings.</p><p>The mean price target, $314.41 per Visible Alpha data, represents about a 30% premium to its close on Thursday, the last trading day of a holiday-shortened week—but its recent levels but down nearly $50 from the average prior to last quarter's earnings.</p><p>Tesla is expected to report a less than 1% decline in revenue to $21.18 billion, with adjusted <a href=\"https://www.investopedia.com/terms/e/eps.asp\">earnings per share (EPS)</a> forecast to fall by nearly 8% year-over-year to $0.42. That estimate has been cut by over 16%, while the adjusted EPS consensus estimate has fallen by over 40% since last quarter's report was released.<br /></p><h2>Deliveries, Production Fell Short Amid Political Concerns</h2><p>Earlier this week, <em>Reuters </em>reported that the company has paused shipments of parts from China for its semi trucks and Cybercab robotaxi called the because of the Trump administration's tariffs, potentially delaying production and release of the vehicles.<span class=\"ql-inline-citation\"></span></p><p>The company's deliveries and production numbers <a href=\"https://www.investopedia.com/tesla-stock-slips-as-q1-deliveries-fall-short-of-estimates-update-11706683\">fell short of estimates</a> for the second <a href=\"https://www.investopedia.com/tesla-stock-q4-deliveries-vehicle-production-fall-short-8768079\">straight quarter</a> when they were released earlier this month. The EV maker has also been the <a href=\"https://www.investopedia.com/is-a-backlash-to-elon-musk-s-politics-hurting-tesla-11691205\">center of protests</a> and controversy regarding CEO Elon Musk's involvement in the Trump administration. Sales <a href=\"https://www.investopedia.com/tesla-eu-sales-tumble-again-even-as-overall-ev-registrations-rise-11702769\">have declined</a> in several key markets this year.</p><p>Tesla stock was <a href=\"https://www.investopedia.com/why-tesla-was-one-of-the-worst-performing-stocks-in-the-s-and-p-500-in-the-first-quarter-11706404\">one of the worst performers</a> in the S&amp;P 500 in the first quarter. Analysts, including even those most bullish <a href=\"https://www.investopedia.com/jpmorgan-cuts-tesla-profit-estimates-on-unprecedented-brand-damage-11709060\">have cut estimates</a> for deliveries and profits this year, along with price targets. Some have called for Musk to step back from his political efforts to <a href=\"https://www.investopedia.com/elon-musk-told-tesla-workers-to-hang-on-the-stock-rose-today-11701154\">focus on Tesla</a> as the stock has slid.</p><p>Tesla shares have roughly returned to their <a href=\"https://www.investopedia.com/tesla-stock-erases-post-election-gains-among-leading-s-and-p-decliners-monday-11693811\">pre-election levels</a> around $240, falling from a Dec. 17 record close of $479.86.<br /></p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/ILCSZdiK20fH9cGtRYrSBo3e8UI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2210586138-41456e380d984f96b332a16a7c4ecd75.jpg",
+    "titles": [
+      "What Analysts Think of Tesla Stock Ahead of Earnings"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.987,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.457,
+    "normalized_score": 8.03,
+    "summary": "Tesla is set to release its first-quarter earnings report after the market closes on Tuesday, with expectations of a slight decline in revenue to $21.18 billion and an 8% drop in adjusted earnings per share to $0.42. This downturn follows a period of underwhelming delivery and production numbers, alongside controversies surrounding CEO Elon Musk's political activities. The company's stock has been negatively impacted, being one of the worst performers in the S&P 500 for the first quarter. Analysts' opinions on Tesla are mixed, with adjustments to profit and delivery estimates, as well as price"
   },
   {
     "title": "Tariffs ignore the reality of global tech supply chains",
@@ -628,14 +657,43 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.932,
+      "recency": 0.918,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.455,
-    "normalized_score": 6.87,
+    "score": 0.452,
+    "normalized_score": 7.83,
     "summary": "Nvidia, a major tech company, has been significantly impacted by policies introduced during Donald Trump's presidency, facing challenges that symbolize broader business difficulties. These policies have affected Nvidia's operations and market performance, illustrating the potential negative consequences of political decisions on the tech industry."
+  },
+  {
+    "title": "Tech industry fears Trump’s trade war will hamper US AI ‘dominance’",
+    "domain": "business",
+    "location": "global",
+    "published": "Fri, 18 Apr 2025 04:00:33 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Tariffs and threat of new duties on chips and computing infrastructure could frustrate American ambitions to lead artificial intelligence race"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7345b9f7-d7a3-4ec0-b6b4-a74bd1e8f683.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Tech industry fears Trump’s trade war will hamper US AI ‘dominance’"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.24,
+      "recency": 0.918,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.452,
+    "normalized_score": 7.83,
+    "summary": "The imposition of tariffs and the potential for new duties on chips and computing infrastructure are posing challenges to the United States' goal of leading in the artificial intelligence (AI) sector. These financial barriers could hinder the development and deployment of AI technologies in the US."
   },
   {
     "title": "China stops buying liquefied gas from US",
@@ -657,101 +715,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.935,
+      "recency": 0.922,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.45,
-    "normalized_score": 6.69,
+    "score": 0.447,
+    "normalized_score": 7.62,
     "summary": "The ongoing Sino-American trade war has significantly impacted the energy sector, leading to a standstill in trade activities between the two countries. This development highlights the broader economic tensions and their effects on global energy markets."
-  },
-  {
-    "title": "Yuval Noah Harari: Trump’s world of rival fortresses",
-    "domain": "business",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 04:00:32 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "In the US president’s vision of post-liberal global disorder the weak should always surrender to the strong, writes the historian, philosopher and author"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbcebaf52-cb45-41ea-a538-1b4f16d8fdc8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Yuval Noah Harari: Trump’s world of rival fortresses"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.932,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.449,
-    "normalized_score": 6.65,
-    "summary": "A historian, philosopher, and author critiques the US president's perspective on global order, suggesting it promotes a worldview where the strong dominate the weak. This analysis reflects concerns about the implications of such a stance on international relations and stability."
-  },
-  {
-    "title": "US rare earth champion faces trade war test after tariffs halt China sales",
-    "domain": "business",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 02:05:36 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "MP Materials has been sending concentrates to Chinese partner as it races to expand in US"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fef1a1ec3-a17a-4f60-a09a-52d7e4934c0f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "US rare earth champion faces trade war test after tariffs halt China sales"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.905,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.448,
-    "normalized_score": 6.62,
-    "summary": "MP Materials, a company specializing in rare earth materials, has been exporting concentrates to a Chinese partner while actively working to expand its operations in the United States. This move is part of MP Materials' strategy to increase its presence and capabilities within the U.S. market."
-  },
-  {
-    "title": "US will 'move on' from Ukraine peace talks in days if no progress soon",
-    "domain": "general",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 08:51:16 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The US Secretary of State's comments come as Ukraine says it took a first step towards signing a minerals deal with the US."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d807/live/b67a7f40-1c2e-11f0-b1b3-7358f8d35a35.jpg",
-    "titles": [
-      "US will 'move on' from Ukraine peace talks in days if no progress soon"
-    ],
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "The story provides useful information about the ongoing Ukraine peace talks, but it does not highlight any progress or solutions, nor does it provide actionable insights for the reader.",
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.999,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.7
-    },
-    "score": 0.542,
-    "normalized_score": 10.0,
-    "summary": "The US Secretary of State commented on Ukraine's announcement that it has initiated the process towards signing a minerals agreement with the United States. This development marks a significant step in bilateral relations between the two countries, focusing on mineral resource collaboration."
   },
   {
     "title": "US lays out plans to hit Chinese ships with port fees",
@@ -773,13 +744,13 @@
     "constructiveness_reason": "The story provides useful information about US plans to impose port fees on Chinese ships, but it does not highlight any progress or solutions, nor does it provide actionable insights for the reader.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.913,
+      "recency": 0.9,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.7
     },
-    "score": 0.508,
-    "normalized_score": 8.78,
+    "score": 0.505,
+    "normalized_score": 10.0,
     "summary": "Newly announced charges will be implemented in 180 days, with plans for these charges to increase progressively in the subsequent years. This phased approach aims to gradually introduce the financial changes."
   },
   {
@@ -802,13 +773,13 @@
     "constructiveness_reason": "The story provides useful insights about the issue of US weapons being sold to militant groups, contributing to a deeper understanding of the issue. However, it does not report on solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.84,
+      "recency": 0.827,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.5,
-    "normalized_score": 8.49,
+    "score": 0.497,
+    "normalized_score": 9.67,
     "summary": "Approximately 500,000 US weapons that were obtained by the Taliban have reportedly been misplaced, sold, or smuggled to various militant groups. This development raises concerns about the proliferation of arms among factions potentially hostile to US interests."
   },
   {
@@ -831,13 +802,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.34,
-      "recency": 0.992,
+      "recency": 0.978,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.5,
-    "normalized_score": 8.49,
+    "score": 0.497,
+    "normalized_score": 9.67,
     "summary": "Russia has escalated its military offensive against Ukraine, simultaneously, Ukraine has publicly accused China for the first time of supplying weapons to Russia. This marks a significant development in the conflict, highlighting increased tensions and the involvement of additional international actors."
   },
   {
@@ -860,14 +831,43 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.96,
+      "recency": 0.946,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.48,
-    "normalized_score": 7.77,
+    "score": 0.477,
+    "normalized_score": 8.85,
     "summary": "A cable car accident occurred on a 1,100m-high mountain after a cord snapped, according to local media reports."
+  },
+  {
+    "title": "You're probably taking over-the-counter painkillers incorrectly",
+    "domain": "general",
+    "location": "national",
+    "published": "Fri, 18 Apr 2025 05:00:00 -0400",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "People often use the wrong painkiller or take too much too quickly, increasing the risk of side effects, say pharmacists. Here are safer and more effective ways to take drugs like Advil and Tylenol."
+    ],
+    "image_url": "",
+    "titles": [
+      "You're probably taking over-the-counter painkillers incorrectly"
+    ],
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story provides actionable insights for the reader about the correct use of over-the-counter painkillers, contributing to their decision-making and sense of agency. It also increases awareness about a common health issue.",
+    "score_components": {
+      "magnitude": 0.22,
+      "recency": 0.987,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.9
+    },
+    "score": 0.473,
+    "normalized_score": 8.69,
+    "summary": "Pharmacists warn that incorrect use or overconsumption of painkillers such as Advil and Tylenol can lead to increased side effects. They recommend safer and more effective methods for taking these medications to mitigate risks."
   },
   {
     "title": "Excavation in Sudan shows Roman Empire wasn’t as mighty as it claimed",
@@ -889,13 +889,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.765,
+      "recency": 0.751,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.407,
-    "normalized_score": 5.14,
+    "score": 0.404,
+    "normalized_score": 5.86,
     "summary": "Recent archaeological findings challenge the long-held belief that Roman forces destroyed a Kushite city in present-day Sudan during an attack by the Kushites on Roman Egypt. This revision of historical events suggests a different outcome than previously thought."
   },
   {
@@ -918,13 +918,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.767,
+      "recency": 0.753,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.402,
-    "normalized_score": 4.96,
+    "score": 0.398,
+    "normalized_score": 5.61,
     "summary": "Scientists have reported potential biosignatures on the exoplanet K2-18b, indicating possible signs of life. However, they caution that confirming life on this distant world is still far from certain."
   },
   {
@@ -947,13 +947,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.724,
+      "recency": 0.71,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.397,
-    "normalized_score": 4.78,
+    "score": 0.393,
+    "normalized_score": 5.41,
     "summary": "Colossal Biosciences announced plans for \"de-extinction,\" raising questions about the credibility of claims from privately funded researchers. Jonathan R. Goodman highlights concerns over whether financial backing lowers the scrutiny such claims receive. This development adds to a series of controversial statements in the scientific community, prompting debate on the influence of money on scientific credibility."
   },
   {
@@ -976,13 +976,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.738,
+      "recency": 0.724,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.394,
-    "normalized_score": 4.68,
+    "score": 0.391,
+    "normalized_score": 5.33,
     "summary": "For the first time, global regulations will impose a carbon levy on emissions from shipping. However, experts criticize the measures as insufficient for addressing the environmental challenges posed by the shipping industry's carbon footprint."
   },
   {
@@ -1005,59 +1005,117 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.724,
+      "recency": 0.71,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.391,
-    "normalized_score": 4.57,
+    "score": 0.387,
+    "normalized_score": 5.16,
     "summary": "Two independent research teams have created techniques to hack noisy quantum computers using a row-hammer attack, which is traditionally employed to compromise conventional computers. This development highlights potential security vulnerabilities in quantum computing systems."
   },
   {
-    "title": "How Saudi Arabia has sights set on F1 summit with $480m ‘Rainbow Road’ Qiddiya track",
+    "title": "Cash Cow – Massive Champions League Revenues Allow Inter Milan To Spend Big In Transfer Market",
     "domain": "sports",
     "location": "national",
-    "published": "Fri, 18 Apr 2025 08:24:27 +0000",
+    "published": "Fri, 18 Apr 2025 09:01:00 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "F1 returns to Jeddah for the fifth Saudi Arabian Grand Prix this weekend, but the fastest street circuit in the world will soon be overshadowed by a futuristic track outside the capital city, Riyadh"
+      "Revenues from the Champions League will enable Inter Milan to invest more than ever in the transfer market this summer.Today’s print edition of Milan-based newspaper Gazzetta dello Sport, via FCInte..."
     ],
     "image_url": "",
     "titles": [
-      "How Saudi Arabia has sights set on F1 summit with $480m ‘Rainbow Road’ Qiddiya track"
+      "Cash Cow – Massive Champions League Revenues Allow Inter Milan To Spend Big In Transfer Market"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.988,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.377,
+    "normalized_score": 4.75,
+    "summary": "Inter Milan plans to significantly invest in the transfer market this summer, fueled by increased revenues from the Champions League. This financial strategy was highlighted in a report by the Milan-based newspaper Gazzetta dello Sport, as shared by FCInterNews. The investment aims to strengthen the team's competitive edge."
+  },
+  {
+    "title": "Why Russia’s invasion of Ukraine hangs over tennis like no other sport",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 18 Apr 2025 09:16:06 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "It’s easy to think of tennis’ relationship with Russia’s war in Ukraine through the prism of a few key moments. Russian player Andrey Rublev wrote “no war please” on a camera lens in February 2022, shortly after Russia’s invasion. In September 2022, Daria Kasatkina, also Russian, described the war as a “full-blown nightmare” in a series of interviews in which she also came out as gay. Kasatkina earlier this year defected to Australia, saying in a news conference, “if I want to be myself, I have"
+    ],
+    "image_url": "",
+    "titles": [
+      "Why Russia’s invasion of Ukraine hangs over tennis like no other sport"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.14,
+      "recency": 0.991,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.36,
+    "normalized_score": 4.06,
+    "summary": "Russian tennis players have publicly responded to their country's invasion of Ukraine, highlighting the sport's engagement with the conflict. Andrey Rublev called for peace by writing “no war please” on a camera lens in February 2022. Daria Kasatkina, who described the war as a “full-blown nightmare” and came out as gay, defected to Australia to live authentically. These actions underscore the personal and political challenges faced by athletes amidst global events."
+  },
+  {
+    "title": "Chelsea could sell two first team defenders to fund move for Premier League captain valued at &#8220;under £50m&#8221;",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 18 Apr 2025 09:30:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Now that Wesley Fofana’s injury problems have ruled him out from ever being a reliable Premier League player in the long run, it’s pretty clear that Chelsea are getting into gear to try and sign a..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Chelsea could sell two first team defenders to fund move for Premier League captain valued at &#8220;under £50m&#8221;"
     ],
     "constructiveness_score": 0.0,
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.993,
+      "recency": 0.994,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.354,
-    "normalized_score": 3.24,
-    "summary": "The fifth Saudi Arabian Grand Prix is taking place in Jeddah this weekend, featuring the world's fastest street circuit. However, this circuit will soon be replaced by a new, futuristic track located outside Riyadh, the capital city of Saudi Arabia."
+    "score": 0.355,
+    "normalized_score": 3.85,
+    "summary": "Wesley Fofana's persistent injury issues have led to concerns about his long-term reliability in the Premier League. As a result, Chelsea is actively seeking a replacement. The specifics of the potential signing, including the target player or the timeline, were not disclosed."
   },
   {
-    "title": "🤖 AI vs Humans: Predicting the results of Premier League Matchday 33",
+    "title": "Bruins star praises Joe Sacco - 8 takeaways from Bruins breakup day",
     "domain": "sports",
     "location": "national",
-    "published": "Fri, 18 Apr 2025 08:12:00 +0000",
+    "published": "Fri, 18 Apr 2025 09:10:20 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Let us know your predictions in the comments!Last week, we pitted our special guest - singer-songwriter Tom Speight - against an AI to see who could most accurately predict the results of Premier Lea..."
+      "A Bruins star praised interim coach Joe Sacco, who is in limbo after the season."
     ],
     "image_url": "",
     "titles": [
-      "🤖 AI vs Humans: Predicting the results of Premier League Matchday 33"
+      "Bruins star praises Joe Sacco - 8 takeaways from Bruins breakup day"
     ],
     "constructiveness_score": 0.0,
     "constructiveness_reason": "",
@@ -1069,53 +1127,24 @@
       "constructiveness": 0.0
     },
     "score": 0.354,
-    "normalized_score": 3.24,
-    "summary": "Last week, a competition was held to see who could more accurately predict Premier League soccer results: singer-songwriter Tom Speight or an AI. The outcome or current status of this competition, including who won, was not provided in the content shared."
+    "normalized_score": 3.81,
+    "summary": "A Bruins star publicly commended interim coach Joe Sacco for his contributions to the team. Despite the praise, Sacco's future with the team remains uncertain following the conclusion of the season."
   },
   {
-    "title": "NHL Awards 2025: Draisaitl, Kucherov And Hellebuyck Win Trophies",
+    "title": "Alabama football fans sound off on spring practice, A-Day in latest mailbag | Goodbread",
     "domain": "sports",
     "location": "national",
-    "published": "Fri, 18 Apr 2025 08:09:03 +0000",
+    "published": "Fri, 18 Apr 2025 09:04:17 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The NHL's scoring and goal-stopping races wrapped up as awards season begins."
+      "Alabama football fans check in with post-spring concerns and thoughts on A-Day in the latest edition of the Tuscaloosa News mailbag."
     ],
     "image_url": "",
     "titles": [
-      "NHL Awards 2025: Draisaitl, Kucherov And Hellebuyck Win Trophies"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.989,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.2,
-    "summary": "The NHL concluded its scoring and goal-stopping competitions, marking the start of the awards season. This phase highlights the league's top performers in scoring and goaltending, setting the stage for the upcoming awards that recognize outstanding achievements in these areas."
-  },
-  {
-    "title": "Baseball Player of the Week: North Plainfield's Bennie Sokolowski wins award",
-    "domain": "sports",
-    "location": "national",
-    "published": "Fri, 18 Apr 2025 08:03:21 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "North Plainfield's Bennie Sokolowski has pitched like an ace for the resurgent North Plainfield baseball team"
-    ],
-    "image_url": "",
-    "titles": [
-      "Baseball Player of the Week: North Plainfield's Bennie Sokolowski wins award"
+      "Alabama football fans sound off on spring practice, A-Day in latest mailbag | Goodbread"
     ],
     "constructiveness_score": 0.0,
     "constructiveness_reason": "",
@@ -1127,36 +1156,7 @@
       "constructiveness": 0.0
     },
     "score": 0.353,
-    "normalized_score": 3.2,
-    "summary": "Bennie Sokolowski, a pitcher for North Plainfield, has significantly contributed to the baseball team's resurgence with his standout performance. His role as an ace pitcher has been instrumental in the team's improved performance."
-  },
-  {
-    "title": "Best in state: Vote for the 2025 Daily news Girls Indoor Track & Field Athlete of the Year",
-    "domain": "sports",
-    "location": "national",
-    "published": "Fri, 18 Apr 2025 08:03:05 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "A state record holder. Division 1 commits. State champions. The race for the 2025 Girls Indoor Track & Field Athlete of the year will be a tight one."
-    ],
-    "image_url": "",
-    "titles": [
-      "Best in state: Vote for the 2025 Daily news Girls Indoor Track & Field Athlete of the Year"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.988,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.2,
-    "summary": "The 2025 Girls Indoor Track & Field Athlete of the Year competition is expected to be highly competitive, featuring a state record holder, athletes committed to Division 1 colleges, and state champions."
+    "normalized_score": 3.77,
+    "summary": "Alabama football fans shared their post-spring concerns and thoughts on the A-Day game in the latest Tuscaloosa News mailbag edition. This feedback reflects the community's perspective and reactions following the spring football session, offering insights into the fans' expectations and areas of interest regarding the team's performance and future prospects."
   }
 ]
