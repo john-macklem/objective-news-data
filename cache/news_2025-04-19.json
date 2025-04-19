@@ -19,14 +19,14 @@
     "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.808,
+      "recency": 0.8,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.492,
+    "score": 0.49,
     "normalized_score": 10.0,
-    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering the ancient city of Mohenjo-daro in 1922, a major site of the Indus Valley Civilization. However, his legacy is marked by controversy, including debates over his methods and the credit for the discovery. Despite these controversies, Banerjee's contribution to archaeology remains significant in uncovering part of South Asia's ancient history."
+    "summary": "Rakhaldas Banerjee, an archaeologist, is recognized for discovering the ancient city of Mohenjo-daro, a significant site of the Indus Valley Civilization. However, his legacy is marred by controversy, details of which remain unspecified in the provided content."
   },
   {
     "title": "Designed in US, made in China: Why Apple is stuck",
@@ -48,14 +48,14 @@
     "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.771,
+      "recency": 0.763,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.489,
+    "score": 0.487,
     "normalized_score": 9.87,
-    "summary": "China plays a central role in Apple's supply chain, significantly benefiting from this partnership. The question of whether Apple and China can sever their supply chain ties remains open, highlighting the complexity of their interdependence."
+    "summary": "Apple's supply chain is deeply integrated with China, which has significantly profited from this relationship. The current status or potential for a breakup between Apple and China's supply chain has not been explicitly stated, indicating that the situation remains as is for now."
   },
   {
     "title": "Five dead as huge waves hit Australia coast",
@@ -75,14 +75,14 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.954,
+      "recency": 0.946,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.479,
+    "score": 0.477,
     "normalized_score": 9.43,
-    "summary": "Two individuals are currently missing, prompting authorities to issue warnings for people to exercise caution due to ongoing surf advisories."
+    "summary": "Two individuals are currently missing, prompting authorities to issue warnings for people to exercise caution due to ongoing surf warnings."
   },
   {
     "title": "Is the US dollar at risk of a ‘confidence crisis’?",
@@ -102,14 +102,14 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.927,
+      "recency": 0.919,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.472,
+    "score": 0.47,
     "normalized_score": 9.12,
-    "summary": "Concerns over unpredictable policy decisions are leading investors to reconsider their confidence in the US dollar. This shift in investor sentiment is impacting the currency's stability and value."
+    "summary": "Concerns over inconsistent policy decisions have led investors to reconsider their confidence in the US dollar, indicating a potential shift in the currency's perceived stability and reliability."
   },
   {
     "title": "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict",
@@ -129,14 +129,41 @@
     ],
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.981,
+      "recency": 0.973,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.467,
+    "score": 0.465,
     "normalized_score": 8.9,
-    "summary": "Russia has announced its expectation for Ukraine to observe a ceasefire during the Easter period. This statement implies a mutual desire for a temporary halt in hostilities coinciding with the religious holiday, although the announcement primarily highlights Russia's anticipation of Ukraine's compliance with the ceasefire."
+    "summary": "Russia has announced its expectation for Ukraine to observe a ceasefire during the Easter period. This statement implies a desire for a temporary halt in hostilities to coincide with the religious holiday, although the current status of compliance from either side is not detailed in the available information."
+  },
+  {
+    "title": "Breaking down NFL.com's new 7-round mock draft for the Texans",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 15:36:07 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "In Chad Reuter's newest mock draft from NFL.com, the Texans shore up both sides of the line and bring in a pair of weapons to upgrade the pass game."
+    ],
+    "image_url": "",
+    "titles": [
+      "Breaking down NFL.com's new 7-round mock draft for the Texans"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.994,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.379,
+    "normalized_score": 5.11,
+    "summary": "In Chad Reuter's latest NFL mock draft on NFL.com, the Houston Texans focus on strengthening their team by selecting players to enhance both their offensive and defensive lines. Additionally, they aim to improve their passing game by acquiring two new weapons, indicating a strategic move to bolster their overall performance."
   },
   {
     "title": "WWE WrestleMania 41 start time, date: Where to watch and live stream the massive event this weekend",
@@ -156,20 +183,20 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.981,
+      "recency": 0.972,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.375,
+    "score": 0.373,
     "normalized_score": 4.85,
-    "summary": "The annual event in Las Vegas is scheduled to take place on Saturday and Sunday, promising attendees an impressive spectacle."
+    "summary": "The annual event in Las Vegas, scheduled for Saturday and Sunday, is expected to provide an impressive spectacle once again."
   },
   {
     "title": "Crew expect record crowd for Messi in Cleveland",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 10:17:20 EST",
+    "published": "Sat, 19 Apr 2025 11:34:19 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -183,59 +210,30 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.929,
+      "recency": 0.938,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.362,
-    "normalized_score": 4.27,
-    "summary": "The Columbus Crew is anticipating a record audience for their game against Inter Miami, featuring Lionel Messi. To accommodate the expected large turnout, the match has been relocated to Cleveland."
+    "score": 0.365,
+    "normalized_score": 4.49,
+    "summary": "The Columbus Crew is set to host Lionel Messi and Inter Miami in Cleveland, anticipating a record attendance for the match. This decision to move the game indicates high expectations for crowd turnout due to Messi's involvement."
   },
   {
-    "title": "Nets' Ziaire Williams believes trade from Grizzlies was positive move",
+    "title": "Jaire Alexander trade rumors: Jordan Love says Packers star corner is 'a guy we need to have around'",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 15:15:37 +0000",
+    "published": "Sat, 19 Apr 2025 15:47:09 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Brooklyn Nets forward Ziaire Williams believes that being traded from the Memphis Grizzlies to Brooklyn was a positive move in his career."
+      "Alexander was limited to seven games last season"
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2024/09/22/69bb8aba-b7a1-4220-97a7-61e86322ca1e/getty-jaire-alexander-packers-week-2.jpg",
     "titles": [
-      "Nets' Ziaire Williams believes trade from Grizzlies was positive move"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.998,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.356,
-    "normalized_score": 4.01,
-    "summary": "Brooklyn Nets forward Ziaire Williams expressed that his trade from the Memphis Grizzlies to the Brooklyn Nets has positively impacted his career. He believes the move to Brooklyn offers him a beneficial change in his professional basketball journey."
-  },
-  {
-    "title": "Lane Kiffin trolls Miami over Carson Beck's $4 million NIL deal: 'Did they watch his game against us?'",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 15:11:31 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Kiffin couldn't resist prodding at the Canes' big spending in the portal to get the former Georgia QB",
-      "Lane Kiffin trolled former Georgia quarterback Carson Beck on Friday after Beck's reported NIL deal with Miami was mentioned in a podcast appearance:"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/04/19/af3eafb6-a135-4872-bc46-a769bb781ba8/lane-kiffin.jpg",
-    "titles": [
-      "Lane Kiffin trolls Miami over Carson Beck's $4 million NIL deal: 'Did they watch his game against us?'",
-      "Lane Kiffin trolls Carson Beck, Miami: 'Did they watch his game against us?'"
+      "Jaire Alexander trade rumors: Jordan Love says Packers star corner is 'a guy we need to have around'"
     ],
     "score_components": {
       "magnitude": 0.12,
@@ -245,62 +243,35 @@
       "constructiveness": 0.0
     },
     "score": 0.355,
-    "normalized_score": 3.96,
-    "summary": "Lane Kiffin, in a podcast appearance, made a jesting remark about the reported Name, Image, and Likeness (NIL) deal that former Georgia quarterback Carson Beck received upon transferring to Miami. Kiffin's comment highlighted the substantial financial investment Miami is making in players through the transfer portal."
+    "normalized_score": 4.05,
+    "summary": "Alexander, a professional athlete, was restricted to participating in only seven games during the last season. This limitation in appearances could be due to injury, performance, or other factors not specified in the provided content."
   },
   {
-    "title": "McLaren dominate final practice for Saudi GP as Hamilton struggles again",
+    "title": "Cowboys proved $115 million undersold value of departed star still awaiting replacement",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 14:59:29 +0000",
+    "published": "Sat, 19 Apr 2025 15:49:46 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "McLaren put down another statement of intent as they dominated final practice for the Saudi Arabian Grand Prix in Jeddah. Lando Norris topped the timesheets with a lap of 1min27.489sec which was 0.024sec faster than his team-mate Oscar Piastri."
+      "Tyron Smith left the Dallas Cowboys a year ago but his absence is painfully felt at LT as the demands and expectations of the position change."
     ],
     "image_url": "",
     "titles": [
-      "McLaren dominate final practice for Saudi GP as Hamilton struggles again"
+      "Cowboys proved $115 million undersold value of departed star still awaiting replacement"
     ],
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.994,
+      "recency": 0.997,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
     "score": 0.355,
-    "normalized_score": 3.96,
-    "summary": "In the final practice for the Saudi Arabian Grand Prix in Jeddah, McLaren showcased their strength with Lando Norris leading the timesheets with a lap time of 1min27.489sec, closely followed by his teammate Oscar Piastri, who was just 0.024sec slower. This performance indicates McLaren's competitive edge ahead of the race."
-  },
-  {
-    "title": "US Supreme Court temporarily halts deportations of migrants",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 14:57:27 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Justices block Trump administration’s attempt to invoke long-standing but rarely-used law"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8429fd66-ad50-4bbc-acdd-457a7a218ea8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "US Supreme Court temporarily halts deportations of migrants"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.994,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.459,
-    "normalized_score": 8.55,
-    "summary": "The U.S. Supreme Court has blocked the Trump administration's effort to use a long-standing but infrequently applied law to achieve its goals, preventing the administration from implementing its intended policy under this legal framework."
+    "normalized_score": 4.05,
+    "summary": "Tyron Smith's departure from the Dallas Cowboys a year ago has significantly impacted the team, particularly at the left tackle (LT) position. The evolving demands and expectations of the LT role have made his absence more pronounced, highlighting the challenges the Cowboys face in filling the gap he left."
   },
   {
     "title": "US and Iran agree to another round of talks to end nuclear stand-off",
@@ -320,14 +291,41 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.996,
+      "recency": 0.988,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.459,
+    "score": 0.457,
     "normalized_score": 8.55,
-    "summary": "Next week, adversaries involved in 'forward-looking' negotiations held in Rome will convene in Oman for further discussions. This meeting in Oman follows a series of talks aimed at addressing and resolving ongoing disputes. The exact details of the negotiations or the parties involved were not specified, but the continuation of dialogue in Oman signifies progress in their efforts."
+    "summary": "Adversaries have agreed to meet in Oman next week following productive, 'forward-looking' negotiations held in Rome. This development indicates a positive step towards resolving their differences."
+  },
+  {
+    "title": "US Supreme Court temporarily halts deportations of migrants",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 14:57:27 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Justices block Trump administration’s attempt to invoke long-standing but rarely-used law"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8429fd66-ad50-4bbc-acdd-457a7a218ea8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "US Supreme Court temporarily halts deportations of migrants"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.985,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.456,
+    "normalized_score": 8.5,
+    "summary": "The Supreme Court has blocked the Trump administration's effort to apply a seldom-used law to achieve its policy goals. This decision prevents the administration from leveraging this specific legal avenue, marking a significant limitation on its strategy. The current status is that the administration cannot proceed with its intended action under this law."
   },
   {
     "title": "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings",
@@ -347,14 +345,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.939,
+      "recency": 0.93,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.445,
+    "score": 0.443,
     "normalized_score": 7.93,
-    "summary": "Alphabet Inc., the parent company of Google, is set to report its first-quarter financial results after the market closes on Thursday. Analysts, including those from Citi and Morgan Stanley, are optimistic about the company's performance, highlighting the potential growth from artificial intelligence tools and platform-level innovation on Google Search and YouTube. A majority of the 19 analysts covering Alphabet recommend buying the stock, with a consensus price target suggesting a 29% upside. Alphabet is expected to post revenue of $89.22 billion and net income of $24.71 billion for the quart"
+    "summary": "Alphabet, the parent company of Google, is set to report its first-quarter financial results after the market closes on Thursday, with analysts holding a predominantly bullish outlook despite economic uncertainties. A majority of analysts, according to Visible Alpha, have assigned a \"buy\" or equivalent rating to Alphabet's stock, with expectations for strong growth fueled by the adoption of artificial intelligence tools and innovation on its Search and YouTube platforms. Citi and Morgan Stanley have set price targets of $195 and $185, respectively, suggesting significant upside potential. Alph"
   },
   {
     "title": "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course",
@@ -374,14 +372,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.925,
+      "recency": 0.916,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.441,
+    "score": 0.439,
     "normalized_score": 7.75,
-    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. Following this victory, McIlroy has won all four major championships at least once. He has a net worth estimated at $250 million, with over $100 million earned from the PGA Tour alone, making him the second golfer after Tiger Woods to reach this milestone. Off the course, McIlroy has significantly boosted his earnings through endorsements and business ventures, including co-founding TMRW Sports and Symphony Ventures, contributing to his status as one of the wealthiest profe"
+    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. He has a net worth of approximately $250 million, with over $100 million in career earnings on the PGA Tour, making him the second golfer after Tiger Woods to reach this milestone. McIlroy earned $38 million on the course between 2023 and 2024, ranking him as the second highest-paid golfer globally. Off the course, he made an estimated $45 million in 2024 through business ventures and partnerships, including co-founding TMRW Sports and investment firm Symphony Ventures, and"
   },
   {
     "title": "Will You REALLY Need a REAL ID to Fly on May 7?",
@@ -401,14 +399,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.911,
+      "recency": 0.903,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.438,
+    "score": 0.436,
     "normalized_score": 7.62,
-    "summary": "The REAL ID Act, signed into law in 2005, is set to be enforced starting May 7, as announced by the Department of Homeland Security. This enforcement means U.S. travelers aged 18 and over will need a REAL ID-compliant identification, marked with a star, to board domestic flights and access certain federal facilities. Alternatives like valid passports and Enhanced Driver's Licenses are also acceptable. The TSA advises passengers without REAL ID-compliant ID to arrive at airports three hours early due to potential delays. Over 80% of travelers currently present acceptable ID, and efforts continu"
+    "summary": "The REAL ID Act, signed in 2005, mandates federal standards for identification documents. Despite repeated delays, the Department of Homeland Security (DHS) asserts enforcement will start May 7, 2025. Travelers 18 and older will need a REAL ID-compliant ID for domestic flights and to access certain federal facilities. These IDs are marked with a star, but other forms of ID, like passports, are acceptable. The TSA advises arriving three hours early for flights due to potential delays at identity verification. Over 80% of travelers currently use acceptable IDs, and the TSA expects compliance to "
   },
   {
     "title": "New colour seen for the first time by tricking the eyes",
@@ -430,14 +428,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.717,
+      "recency": 0.708,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.389,
+    "score": 0.387,
     "normalized_score": 5.46,
-    "summary": "A newly developed device has allowed individuals to perceive a unique shade of blue-green, described as being more intense than any previously known color. This innovation marks a significant advancement in color perception technology."
+    "summary": "A newly developed device allows users to perceive a unique shade of blue-green, described as more intense than any previously seen. This innovation marks a significant advancement in color perception technology."
   },
   {
     "title": "Claims of alien life are overhyped – and miss the real accomplishment",
@@ -459,43 +457,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.692,
+      "recency": 0.684,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.389,
+    "score": 0.387,
     "normalized_score": 5.46,
-    "summary": "Astronomer Chris Lintott cautions against quickly concluding that signs of biological activity on exoplanets indicate alien life. Despite public excitement over such findings, Lintott emphasizes that past instances have never confirmed extraterrestrial life and advises against making assumptions about future discoveries."
-  },
-  {
-    "title": "Quantum GPS can help planes navigate when regular GPS is jammed",
-    "domain": "science",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 17:00:43 +0100",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "A quantum sensor using Earth's magnetic fields outperformed standard GPS backups in test flights. This technology could help commercial aircraft stay on course amid a rise in GPS jamming and spoofing attacks"
-    ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/04/17192123/SEI_247838477.jpg",
-    "titles": [
-      "Quantum GPS can help planes navigate when regular GPS is jammed"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.675,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.379,
-    "normalized_score": 5.02,
-    "summary": "A quantum sensor, utilizing Earth's magnetic fields, surpassed traditional GPS backups in accuracy during test flights. This advancement offers a potential solution for commercial aircraft navigation, especially given the increasing incidents of GPS jamming and spoofing attacks, ensuring planes can maintain their course."
+    "summary": "Chris Lintott cautions against jumping to conclusions about alien life on exoplanets, even when they show signs of biological activity. He emphasizes that, historically, such signs have never been attributed to aliens, urging for a more measured approach in future discoveries."
   },
   {
     "title": "Scientists probe the mystery of Titan's missing deltas",
@@ -515,70 +484,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.642,
+      "recency": 0.633,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.371,
-    "normalized_score": 4.67,
-    "summary": "Recent research indicates that Titan, Saturn's moon, despite having extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the moon's unique surface processes, as it challenges previous understandings of Titan's geological dynamics."
-  },
-  {
-    "title": "A wearable smart insole can track how you walk, run and stand",
-    "domain": "science",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 11:29:07 EDT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "A new smart insole system that monitors how people walk in real time could help users improve posture and provide early warnings for conditions from plantar fasciitis to Parkinson's disease."
-    ],
-    "image_url": "",
-    "titles": [
-      "A wearable smart insole can track how you walk, run and stand"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.612,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.363,
-    "normalized_score": 4.32,
-    "summary": "A newly developed smart insole system offers real-time monitoring of walking patterns, aiming to enhance posture and provide early detection of various conditions, including plantar fasciitis and Parkinson's disease. This innovative technology seeks to assist users in identifying and addressing potential health issues related to their gait."
-  },
-  {
-    "title": "US Supreme Court temporarily halts deportations of migrants",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 14:57:27 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Justices block Trump administration’s attempt to invoke long-standing but rarely-used law"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8429fd66-ad50-4bbc-acdd-457a7a218ea8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "US Supreme Court temporarily halts deportations of migrants"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.994,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.459,
-    "normalized_score": 8.55,
-    "summary": "The U.S. Supreme Court has blocked the Trump administration's effort to use a long-standing but infrequently applied law to achieve its goals, preventing the administration from implementing its intended policy under this legal framework."
+    "score": 0.368,
+    "normalized_score": 4.63,
+    "summary": "New research indicates that Titan, Saturn's moon, despite having extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the moon's surface processes and how they differ from Earth's, challenging previous understandings of Titan's geography."
   },
   {
     "title": "US and Iran agree to another round of talks to end nuclear stand-off",
@@ -598,14 +511,41 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.996,
+      "recency": 0.988,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.459,
+    "score": 0.457,
     "normalized_score": 8.55,
-    "summary": "Next week, adversaries involved in 'forward-looking' negotiations held in Rome will convene in Oman for further discussions. This meeting in Oman follows a series of talks aimed at addressing and resolving ongoing disputes. The exact details of the negotiations or the parties involved were not specified, but the continuation of dialogue in Oman signifies progress in their efforts."
+    "summary": "Adversaries have agreed to meet in Oman next week following productive, 'forward-looking' negotiations held in Rome. This development indicates a positive step towards resolving their differences."
+  },
+  {
+    "title": "US Supreme Court temporarily halts deportations of migrants",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 14:57:27 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Justices block Trump administration’s attempt to invoke long-standing but rarely-used law"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8429fd66-ad50-4bbc-acdd-457a7a218ea8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "US Supreme Court temporarily halts deportations of migrants"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.985,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.456,
+    "normalized_score": 8.5,
+    "summary": "The Supreme Court has blocked the Trump administration's effort to apply a seldom-used law to achieve its policy goals. This decision prevents the administration from leveraging this specific legal avenue, marking a significant limitation on its strategy. The current status is that the administration cannot proceed with its intended action under this law."
   },
   {
     "title": "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings",
@@ -625,14 +565,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.939,
+      "recency": 0.93,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.445,
+    "score": 0.443,
     "normalized_score": 7.93,
-    "summary": "Alphabet Inc., the parent company of Google, is set to report its first-quarter financial results after the market closes on Thursday. Analysts, including those from Citi and Morgan Stanley, are optimistic about the company's performance, highlighting the potential growth from artificial intelligence tools and platform-level innovation on Google Search and YouTube. A majority of the 19 analysts covering Alphabet recommend buying the stock, with a consensus price target suggesting a 29% upside. Alphabet is expected to post revenue of $89.22 billion and net income of $24.71 billion for the quart"
+    "summary": "Alphabet, the parent company of Google, is set to report its first-quarter financial results after the market closes on Thursday, with analysts holding a predominantly bullish outlook despite economic uncertainties. A majority of analysts, according to Visible Alpha, have assigned a \"buy\" or equivalent rating to Alphabet's stock, with expectations for strong growth fueled by the adoption of artificial intelligence tools and innovation on its Search and YouTube platforms. Citi and Morgan Stanley have set price targets of $195 and $185, respectively, suggesting significant upside potential. Alph"
   },
   {
     "title": "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course",
@@ -652,14 +592,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.925,
+      "recency": 0.916,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.441,
+    "score": 0.439,
     "normalized_score": 7.75,
-    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. Following this victory, McIlroy has won all four major championships at least once. He has a net worth estimated at $250 million, with over $100 million earned from the PGA Tour alone, making him the second golfer after Tiger Woods to reach this milestone. Off the course, McIlroy has significantly boosted his earnings through endorsements and business ventures, including co-founding TMRW Sports and Symphony Ventures, contributing to his status as one of the wealthiest profe"
+    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. He has a net worth of approximately $250 million, with over $100 million in career earnings on the PGA Tour, making him the second golfer after Tiger Woods to reach this milestone. McIlroy earned $38 million on the course between 2023 and 2024, ranking him as the second highest-paid golfer globally. Off the course, he made an estimated $45 million in 2024 through business ventures and partnerships, including co-founding TMRW Sports and investment firm Symphony Ventures, and"
   },
   {
     "title": "Will You REALLY Need a REAL ID to Fly on May 7?",
@@ -679,14 +619,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.911,
+      "recency": 0.903,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.438,
+    "score": 0.436,
     "normalized_score": 7.62,
-    "summary": "The REAL ID Act, signed into law in 2005, is set to be enforced starting May 7, as announced by the Department of Homeland Security. This enforcement means U.S. travelers aged 18 and over will need a REAL ID-compliant identification, marked with a star, to board domestic flights and access certain federal facilities. Alternatives like valid passports and Enhanced Driver's Licenses are also acceptable. The TSA advises passengers without REAL ID-compliant ID to arrive at airports three hours early due to potential delays. Over 80% of travelers currently present acceptable ID, and efforts continu"
+    "summary": "The REAL ID Act, signed in 2005, mandates federal standards for identification documents. Despite repeated delays, the Department of Homeland Security (DHS) asserts enforcement will start May 7, 2025. Travelers 18 and older will need a REAL ID-compliant ID for domestic flights and to access certain federal facilities. These IDs are marked with a star, but other forms of ID, like passports, are acceptable. The TSA advises arriving three hours early for flights due to potential delays at identity verification. Over 80% of travelers currently use acceptable IDs, and the TSA expects compliance to "
   },
   {
     "title": "The forgotten Indian explorer who uncovered an ancient civilisation",
@@ -708,14 +648,14 @@
     "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.808,
+      "recency": 0.8,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.492,
+    "score": 0.49,
     "normalized_score": 10.0,
-    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering the ancient city of Mohenjo-daro in 1922, a major site of the Indus Valley Civilization. However, his legacy is marked by controversy, including debates over his methods and the credit for the discovery. Despite these controversies, Banerjee's contribution to archaeology remains significant in uncovering part of South Asia's ancient history."
+    "summary": "Rakhaldas Banerjee, an archaeologist, is recognized for discovering the ancient city of Mohenjo-daro, a significant site of the Indus Valley Civilization. However, his legacy is marred by controversy, details of which remain unspecified in the provided content."
   },
   {
     "title": "Designed in US, made in China: Why Apple is stuck",
@@ -737,14 +677,14 @@
     "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.771,
+      "recency": 0.763,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.489,
+    "score": 0.487,
     "normalized_score": 9.87,
-    "summary": "China plays a central role in Apple's supply chain, significantly benefiting from this partnership. The question of whether Apple and China can sever their supply chain ties remains open, highlighting the complexity of their interdependence."
+    "summary": "Apple's supply chain is deeply integrated with China, which has significantly profited from this relationship. The current status or potential for a breakup between Apple and China's supply chain has not been explicitly stated, indicating that the situation remains as is for now."
   },
   {
     "title": "Five dead as huge waves hit Australia coast",
@@ -764,14 +704,14 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.954,
+      "recency": 0.946,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.479,
+    "score": 0.477,
     "normalized_score": 9.43,
-    "summary": "Two individuals are currently missing, prompting authorities to issue warnings for people to exercise caution due to ongoing surf advisories."
+    "summary": "Two individuals are currently missing, prompting authorities to issue warnings for people to exercise caution due to ongoing surf warnings."
   },
   {
     "title": "Is the US dollar at risk of a ‘confidence crisis’?",
@@ -791,14 +731,14 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.927,
+      "recency": 0.919,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.472,
+    "score": 0.47,
     "normalized_score": 9.12,
-    "summary": "Concerns over unpredictable policy decisions are leading investors to reconsider their confidence in the US dollar. This shift in investor sentiment is impacting the currency's stability and value."
+    "summary": "Concerns over inconsistent policy decisions have led investors to reconsider their confidence in the US dollar, indicating a potential shift in the currency's perceived stability and reliability."
   },
   {
     "title": "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict",
@@ -818,14 +758,14 @@
     ],
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.981,
+      "recency": 0.973,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.467,
+    "score": 0.465,
     "normalized_score": 8.9,
-    "summary": "Russia has announced its expectation for Ukraine to observe a ceasefire during the Easter period. This statement implies a mutual desire for a temporary halt in hostilities coinciding with the religious holiday, although the announcement primarily highlights Russia's anticipation of Ukraine's compliance with the ceasefire."
+    "summary": "Russia has announced its expectation for Ukraine to observe a ceasefire during the Easter period. This statement implies a desire for a temporary halt in hostilities to coincide with the religious holiday, although the current status of compliance from either side is not detailed in the available information."
   },
   {
     "title": "New colour seen for the first time by tricking the eyes",
@@ -847,14 +787,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.717,
+      "recency": 0.708,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.389,
+    "score": 0.387,
     "normalized_score": 5.46,
-    "summary": "A newly developed device has allowed individuals to perceive a unique shade of blue-green, described as being more intense than any previously known color. This innovation marks a significant advancement in color perception technology."
+    "summary": "A newly developed device allows users to perceive a unique shade of blue-green, described as more intense than any previously seen. This innovation marks a significant advancement in color perception technology."
   },
   {
     "title": "Claims of alien life are overhyped – and miss the real accomplishment",
@@ -876,43 +816,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.692,
+      "recency": 0.684,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.389,
+    "score": 0.387,
     "normalized_score": 5.46,
-    "summary": "Astronomer Chris Lintott cautions against quickly concluding that signs of biological activity on exoplanets indicate alien life. Despite public excitement over such findings, Lintott emphasizes that past instances have never confirmed extraterrestrial life and advises against making assumptions about future discoveries."
-  },
-  {
-    "title": "Quantum GPS can help planes navigate when regular GPS is jammed",
-    "domain": "science",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 17:00:43 +0100",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "A quantum sensor using Earth's magnetic fields outperformed standard GPS backups in test flights. This technology could help commercial aircraft stay on course amid a rise in GPS jamming and spoofing attacks"
-    ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/04/17192123/SEI_247838477.jpg",
-    "titles": [
-      "Quantum GPS can help planes navigate when regular GPS is jammed"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.675,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.379,
-    "normalized_score": 5.02,
-    "summary": "A quantum sensor, utilizing Earth's magnetic fields, surpassed traditional GPS backups in accuracy during test flights. This advancement offers a potential solution for commercial aircraft navigation, especially given the increasing incidents of GPS jamming and spoofing attacks, ensuring planes can maintain their course."
+    "summary": "Chris Lintott cautions against jumping to conclusions about alien life on exoplanets, even when they show signs of biological activity. He emphasizes that, historically, such signs have never been attributed to aliens, urging for a more measured approach in future discoveries."
   },
   {
     "title": "Scientists probe the mystery of Titan's missing deltas",
@@ -932,43 +843,41 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.642,
+      "recency": 0.633,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.371,
-    "normalized_score": 4.67,
-    "summary": "Recent research indicates that Titan, Saturn's moon, despite having extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the moon's unique surface processes, as it challenges previous understandings of Titan's geological dynamics."
+    "score": 0.368,
+    "normalized_score": 4.63,
+    "summary": "New research indicates that Titan, Saturn's moon, despite having extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the moon's surface processes and how they differ from Earth's, challenging previous understandings of Titan's geography."
   },
   {
-    "title": "A wearable smart insole can track how you walk, run and stand",
-    "domain": "science",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 11:29:07 EDT",
+    "title": "Breaking down NFL.com's new 7-round mock draft for the Texans",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 15:36:07 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "A new smart insole system that monitors how people walk in real time could help users improve posture and provide early warnings for conditions from plantar fasciitis to Parkinson's disease."
+      "In Chad Reuter's newest mock draft from NFL.com, the Texans shore up both sides of the line and bring in a pair of weapons to upgrade the pass game."
     ],
     "image_url": "",
     "titles": [
-      "A wearable smart insole can track how you walk, run and stand"
+      "Breaking down NFL.com's new 7-round mock draft for the Texans"
     ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.612,
-      "proximity": 0.6,
+      "recency": 0.994,
+      "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.363,
-    "normalized_score": 4.32,
-    "summary": "A newly developed smart insole system offers real-time monitoring of walking patterns, aiming to enhance posture and provide early detection of various conditions, including plantar fasciitis and Parkinson's disease. This innovative technology seeks to assist users in identifying and addressing potential health issues related to their gait."
+    "score": 0.379,
+    "normalized_score": 5.11,
+    "summary": "In Chad Reuter's latest NFL mock draft on NFL.com, the Houston Texans focus on strengthening their team by selecting players to enhance both their offensive and defensive lines. Additionally, they aim to improve their passing game by acquiring two new weapons, indicating a strategic move to bolster their overall performance."
   },
   {
     "title": "WWE WrestleMania 41 start time, date: Where to watch and live stream the massive event this weekend",
@@ -988,20 +897,20 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.981,
+      "recency": 0.972,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.375,
+    "score": 0.373,
     "normalized_score": 4.85,
-    "summary": "The annual event in Las Vegas is scheduled to take place on Saturday and Sunday, promising attendees an impressive spectacle."
+    "summary": "The annual event in Las Vegas, scheduled for Saturday and Sunday, is expected to provide an impressive spectacle once again."
   },
   {
     "title": "Crew expect record crowd for Messi in Cleveland",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 10:17:20 EST",
+    "published": "Sat, 19 Apr 2025 11:34:19 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -1015,59 +924,30 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.929,
+      "recency": 0.938,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.362,
-    "normalized_score": 4.27,
-    "summary": "The Columbus Crew is anticipating a record audience for their game against Inter Miami, featuring Lionel Messi. To accommodate the expected large turnout, the match has been relocated to Cleveland."
+    "score": 0.365,
+    "normalized_score": 4.49,
+    "summary": "The Columbus Crew is set to host Lionel Messi and Inter Miami in Cleveland, anticipating a record attendance for the match. This decision to move the game indicates high expectations for crowd turnout due to Messi's involvement."
   },
   {
-    "title": "Nets' Ziaire Williams believes trade from Grizzlies was positive move",
+    "title": "Jaire Alexander trade rumors: Jordan Love says Packers star corner is 'a guy we need to have around'",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 15:15:37 +0000",
+    "published": "Sat, 19 Apr 2025 15:47:09 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Brooklyn Nets forward Ziaire Williams believes that being traded from the Memphis Grizzlies to Brooklyn was a positive move in his career."
+      "Alexander was limited to seven games last season"
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2024/09/22/69bb8aba-b7a1-4220-97a7-61e86322ca1e/getty-jaire-alexander-packers-week-2.jpg",
     "titles": [
-      "Nets' Ziaire Williams believes trade from Grizzlies was positive move"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.998,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.356,
-    "normalized_score": 4.01,
-    "summary": "Brooklyn Nets forward Ziaire Williams expressed that his trade from the Memphis Grizzlies to the Brooklyn Nets has positively impacted his career. He believes the move to Brooklyn offers him a beneficial change in his professional basketball journey."
-  },
-  {
-    "title": "Lane Kiffin trolls Miami over Carson Beck's $4 million NIL deal: 'Did they watch his game against us?'",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 15:11:31 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Kiffin couldn't resist prodding at the Canes' big spending in the portal to get the former Georgia QB",
-      "Lane Kiffin trolled former Georgia quarterback Carson Beck on Friday after Beck's reported NIL deal with Miami was mentioned in a podcast appearance:"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/04/19/af3eafb6-a135-4872-bc46-a769bb781ba8/lane-kiffin.jpg",
-    "titles": [
-      "Lane Kiffin trolls Miami over Carson Beck's $4 million NIL deal: 'Did they watch his game against us?'",
-      "Lane Kiffin trolls Carson Beck, Miami: 'Did they watch his game against us?'"
+      "Jaire Alexander trade rumors: Jordan Love says Packers star corner is 'a guy we need to have around'"
     ],
     "score_components": {
       "magnitude": 0.12,
@@ -1077,34 +957,34 @@
       "constructiveness": 0.0
     },
     "score": 0.355,
-    "normalized_score": 3.96,
-    "summary": "Lane Kiffin, in a podcast appearance, made a jesting remark about the reported Name, Image, and Likeness (NIL) deal that former Georgia quarterback Carson Beck received upon transferring to Miami. Kiffin's comment highlighted the substantial financial investment Miami is making in players through the transfer portal."
+    "normalized_score": 4.05,
+    "summary": "Alexander, a professional athlete, was restricted to participating in only seven games during the last season. This limitation in appearances could be due to injury, performance, or other factors not specified in the provided content."
   },
   {
-    "title": "McLaren dominate final practice for Saudi GP as Hamilton struggles again",
+    "title": "Cowboys proved $115 million undersold value of departed star still awaiting replacement",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 14:59:29 +0000",
+    "published": "Sat, 19 Apr 2025 15:49:46 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "McLaren put down another statement of intent as they dominated final practice for the Saudi Arabian Grand Prix in Jeddah. Lando Norris topped the timesheets with a lap of 1min27.489sec which was 0.024sec faster than his team-mate Oscar Piastri."
+      "Tyron Smith left the Dallas Cowboys a year ago but his absence is painfully felt at LT as the demands and expectations of the position change."
     ],
     "image_url": "",
     "titles": [
-      "McLaren dominate final practice for Saudi GP as Hamilton struggles again"
+      "Cowboys proved $115 million undersold value of departed star still awaiting replacement"
     ],
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.994,
+      "recency": 0.997,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
     "score": 0.355,
-    "normalized_score": 3.96,
-    "summary": "In the final practice for the Saudi Arabian Grand Prix in Jeddah, McLaren showcased their strength with Lando Norris leading the timesheets with a lap time of 1min27.489sec, closely followed by his teammate Oscar Piastri, who was just 0.024sec slower. This performance indicates McLaren's competitive edge ahead of the race."
+    "normalized_score": 4.05,
+    "summary": "Tyron Smith's departure from the Dallas Cowboys a year ago has significantly impacted the team, particularly at the left tackle (LT) position. The evolving demands and expectations of the LT role have made his absence more pronounced, highlighting the challenges the Cowboys face in filling the gap he left."
   }
 ]
