@@ -21,12 +21,12 @@
     "constructiveness_reason": "This story provides useful information about an innovative event, which can help readers understand the current state of robotics. However, it does not provide any solutions or improvements, nor does it delve deeply into the causes or impacts.",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.952,
+      "recency": 0.934,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.6
     },
-    "score": 0.52,
+    "score": 0.516,
     "normalized_score": 10.0,
     "summary": "The Yizhuang half marathon marked the first occasion where robots competed against humans in a race covering such a distance."
   },
@@ -50,13 +50,13 @@
     "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.911,
+      "recency": 0.893,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.518,
-    "normalized_score": 9.92,
+    "score": 0.513,
+    "normalized_score": 9.88,
     "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering Mohenjo-daro, a major site of the ancient Indus Valley Civilization. However, his legacy is marred by controversy, reflecting debates and disputes within the academic and historical communities about his work and contributions. Despite the controversies, Banerjee's discovery remains a significant contribution to archaeology."
   },
   {
@@ -79,12 +79,12 @@
     "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.874,
+      "recency": 0.856,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.514,
+    "score": 0.51,
     "normalized_score": 9.76,
     "summary": "Apple's supply chain is deeply integrated with China, resulting in significant mutual benefits. However, the possibility of Apple distancing itself from China is not explicitly confirmed or detailed in the provided content."
   },
@@ -108,178 +108,112 @@
     "constructiveness_reason": "This story provides a deep understanding of the personal experiences and impacts of a major crisis. It raises awareness about the conditions in Sudan and the experiences of refugees. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.779,
+      "recency": 0.761,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.7
     },
-    "score": 0.475,
-    "normalized_score": 8.21,
+    "score": 0.47,
+    "normalized_score": 8.18,
     "summary": "Residents of Sudan's largest displacement camp have experienced significant upheaval, impacting their daily lives and stability. The current status or specific causes of this disruption were not detailed in the provided information."
   },
   {
-    "title": "Deadly, sombre Good Friday as 58 people killed in Israeli attacks on Gaza",
+    "title": "US Supreme Court halts deportation of detained Venezuelans",
     "domain": "general",
     "location": "global",
-    "published": "Fri, 18 Apr 2025 21:40:11 +0000",
+    "published": "Sat, 19 Apr 2025 08:48:35 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Palestinian Christians in Gaza and the occupied West Bank are holding temperate gatherings leading up to Easter."
+      "The accused gang members are being sent to a notorious jail in El Salvador under a 19th-Century law."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d86/live/a2b3c120-1cf5-11f0-bead-17ff6258b15e.jpg",
     "titles": [
-      "Deadly, sombre Good Friday as 58 people killed in Israeli attacks on Gaza"
+      "US Supreme Court halts deportation of detained Venezuelans"
     ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
     "score_components": {
-      "magnitude": 0.32,
-      "recency": 0.856,
+      "magnitude": 0.22,
+      "recency": 0.993,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.46,
-    "normalized_score": 7.62,
-    "summary": "Palestinian Christians in Gaza and the occupied West Bank are engaging in subdued celebrations in the lead-up to Easter. These gatherings are characterized by a tempered atmosphere, reflecting the current context in these regions."
+    "score": 0.464,
+    "normalized_score": 7.94,
+    "summary": "Accused gang members in El Salvador are being transferred to a notorious jail as part of a crackdown under a law from the 19th century. This move is part of the government's efforts to combat gang violence in the country."
   },
   {
-    "title": "Crew expect record crowd for Messi in Cleveland",
+    "title": "Breaking: Arsenal cleared to try AGAIN for stunning Premier League transfer raid",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 00:14:37 EST",
+    "published": "Sat, 19 Apr 2025 08:10:00 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Columbus Crew is expecting a record crowd when it hosts Lionel Messi and Inter Miami, after moving the game to Cleveland."
+      "Arsenal look to have been handed a huge boost as it now looks like Aston Villa striker Ollie Watkins will be available this summer.The Gunners saw a bid turned down for the England international back ..."
     ],
     "image_url": "",
     "titles": [
-      "Crew expect record crowd for Messi in Cleveland"
+      "Breaking: Arsenal cleared to try AGAIN for stunning Premier League transfer raid"
     ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
     "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.892,
+      "magnitude": 0.22,
+      "recency": 0.984,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.353,
-    "normalized_score": 3.37,
-    "summary": "Columbus Crew is set to host Lionel Messi and Inter Miami in Cleveland, anticipating a record attendance for the event. This decision to move the game aims to accommodate a larger crowd, highlighting the significant draw of Messi's presence in the match."
+    "score": 0.382,
+    "normalized_score": 4.7,
+    "summary": "Arsenal received a significant boost in their pursuit of Aston Villa striker Ollie Watkins, as he is reported to be available for transfer this summer. Despite having an initial bid rejected for the England international, Arsenal's chances of securing Watkins have improved, indicating a potential move during the transfer window."
   },
   {
-    "title": "&quot;I Love Where Our D Core Is At&quot;: Canucks Tyler Myers Reflects On The 2024-25 Season & Explains Why He Is Optimistic About The Future",
+    "title": "USC shuts down Lake McRee for remainder of spring camp",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 07:14:56 +0000",
+    "published": "Sat, 19 Apr 2025 08:33:30 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Few players have been with the Vancouver Canucks longer than Tyler Myers. The 35-year-old defenceman just completed his sixth season with the organization, recording 24 points and 125 blocks in 71 games. Myers also had the opportunity to play in his 1,000th career game, and is one of nine players from the 2008 NHL draft class to achieve the feat."
+      "According to head coach Lincoln Riley, McRee has been dealing with several nagging injuries."
     ],
     "image_url": "",
     "titles": [
-      "&quot;I Love Where Our D Core Is At&quot;: Canucks Tyler Myers Reflects On The 2024-25 Season & Explains Why He Is Optimistic About The Future"
+      "USC shuts down Lake McRee for remainder of spring camp"
     ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.989,
+      "recency": 0.99,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.353,
-    "normalized_score": 3.37,
-    "summary": "Tyler Myers, a 35-year-old defenceman, recently finished his sixth season with the Vancouver Canucks, marking his achievements with 24 points, 125 blocks in 71 games, and playing in his 1,000th career game. He is one of nine players from the 2008 NHL draft class to reach this milestone."
+    "score": 0.354,
+    "normalized_score": 3.6,
+    "summary": "Head coach Lincoln Riley reported that McRee is currently facing multiple nagging injuries. These health issues are affecting his ability to play."
   },
   {
-    "title": "Ulster 'raise game' against Leinster - McCarthy",
+    "title": "Conte’s latest claims spark Napoli exit rumours",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 07:13:53 +0000",
+    "published": "Sat, 19 Apr 2025 08:17:00 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Ireland second row Joe McCarthy says Ulster &quot;always raise their game&quot; when they face Leinster as the sides prepare to lock horns at the Aviva Stadium on Saturday night."
+      "Antonio Conte admits ‘many things can’t be done at Napoli’, sparking exit rumours after just eight months at the club.Napoli will visit Monza at the U-Power Stadium today, but the matchday has b..."
     ],
     "image_url": "",
     "titles": [
-      "Ulster 'raise game' against Leinster - McCarthy"
+      "Conte’s latest claims spark Napoli exit rumours"
     ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.989,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.37,
-    "summary": "Ireland's second row Joe McCarthy noted that Ulster intensifies their performance against Leinster ahead of their matchup at Aviva Stadium on Saturday night. This observation comes as both teams prepare for the anticipated game, highlighting the rivalry and competitive spirit between the two."
-  },
-  {
-    "title": "What Ja Morant, Grizzlies said about upcoming playoff series vs top-seeded OKC Thunder",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 07:08:13 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Memphis Grizzlies must quickly turn the page for matchup vs No. 1-seeded Oklahoma City Thunder."
-    ],
-    "image_url": "",
-    "titles": [
-      "What Ja Morant, Grizzlies said about upcoming playoff series vs top-seeded OKC Thunder"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.988,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.37,
-    "summary": "The Memphis Grizzlies are preparing for a crucial game against the Oklahoma City Thunder, who hold the No. 1 seed. The team is focused on moving past their previous performances to face this significant challenge."
-  },
-  {
-    "title": "Ipswich hope doomed Premier League return won’t derail upward trajectory",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 07:00:34 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "There is little sullenness about the prospect of immediate relegation because of club’s improved long-term prospects"
-    ],
-    "image_url": "",
-    "titles": [
-      "Ipswich hope doomed Premier League return won’t derail upward trajectory"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.12,
       "recency": 0.986,
@@ -288,8 +222,89 @@
       "constructiveness": 0.0
     },
     "score": 0.353,
-    "normalized_score": 3.37,
-    "summary": "Despite concerns over potential immediate relegation, there's a general lack of dismay among the club's supporters due to optimism about the club's long-term future. This sentiment suggests that fans are looking beyond current challenges, focusing on the positive outlook for the club's prospects."
+    "normalized_score": 3.56,
+    "summary": "Antonio Conte hinted at possible limitations within Napoli, leading to speculation about his departure just eight months into his tenure. Despite this, Napoli is set to play against Monza at the U-Power Stadium. The context of Conte's remarks and the outcome of the match might influence his future at the club."
+  },
+  {
+    "title": "Werder Bremen sign captain Marco Friedl to contract extension",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 08:07:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Werder Bremen squad captain Marco Friedl – considered one of the primary reasons why SV Werder Bremen have recently pulled themselves out of a horrible midseason slump – has been rewarded with a n..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Werder Bremen sign captain Marco Friedl to contract extension"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.984,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.352,
+    "normalized_score": 3.52,
+    "summary": "Werder Bremen has extended the contract of their squad captain Marco Friedl, acknowledging his significant role in helping the team recover from a midseason slump. This move demonstrates the club's appreciation for Friedl's contributions to their recent improvement in performance."
+  },
+  {
+    "title": "Headed to the Boston Marathon? Here's how to go from Brockton to Boston on the commuter rail",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 08:01:39 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Cheer on the runners! Here's how to easily get from Brockton to the Boston Marathon and be part of the excitement without the hassle."
+    ],
+    "image_url": "",
+    "titles": [
+      "Headed to the Boston Marathon? Here's how to go from Brockton to Boston on the commuter rail"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.982,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.352,
+    "normalized_score": 3.52,
+    "summary": "Residents of Brockton can join the Boston Marathon festivities by utilizing convenient transportation options to reach the event. This ensures participation in the excitement without dealing with transportation hassles."
+  },
+  {
+    "title": "Will You REALLY Need a REAL ID to Fly on May 7?",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 09:00:00 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Jeffrey Greenberg / Universal Images Group via Getty Images\" src=\"https://www.investopedia.com/thmb/bfbql4qKt0ILNLpeCVgVzSVERec=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166906417-e659136e02ca421dad862f432d6103a5.jpg\" title=\"REAL ID sign at Miami International Airport\" /><figcaption><i><p>Jeffrey Greenberg / Universal Images Group via Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>The REAL ID Act was signed into law by President George W. Bush in 2005 and expected to be implemented in 2008. That still hasn't happened.</li><li>However, the Department of Homeland Security now says it will begin enforcement on May 7.</li><li>The government says passengers hoping to fly then without REAL ID-compliant identification \"should plan to arrive at airports about three hours in advance of their flight, as delays are possible at the identity verification station within checkpoints.\"</li></ul><br /><br /><p>The REAL ID Act, signed into law 20 years ago, still hasn't gone into effect.<span class=\"ql-inline-citation\"></span> This time, though, the Department of Homeland Security swears it will—starting early next month.<span class=\"ql-inline-citation\"></span></p><p>Republican and Democratic administrations alike have kicked the can down the road since President George W. Bush signed the REAL ID Act to establish federal standards for identification documents into law in May 2005.</p><p>That looks set to end May 7, when its Transportation Security Administration unit says at long last it will step up enforcement. \"If you plan to fly, make sure you get a Real ID so you won't be denied from your flight or face travel delays!\" DHS Secretary Kristi Noem said on a recent X post.<span class=\"ql-inline-citation\"></span></p><p>Here's what this means for American travelers.</p><h2>Countdown Clock</h2><p>Despite having extended the deadline on multiple occasions over the decades, the DHS insists REAL ID enforcement will take place soon. It even has a \"Countdown to REAL ID Enforcement\" clock ticking down on its website.</p><p>The bottom line: If you want to travel using your state driver's license or ID—or do other activities that require federal identification—you'll need it to be a REAL ID, though other forms of identification, such as valid passports, can also work. A <a href=\"https://www.tsa.gov/travel/security-screening/identification\">full list is here</a>.</p><p>\"On May 7, 2025, U.S. travelers must be REAL ID compliant to board domestic flights and access certain federal facilities,\" reads the DHS website, which has an interactive tool to help people determine if they're \"REAL ID ready\" that you can <a href=\"https://www.dhs.gov/real-id/are-you-real-id-ready\">check out here</a>.</p><p>In a statement provided to <em>Investopedia</em>, the TSA said that beginning May 7, \"every air traveler 18 years of age and older is expected to have a REAL ID-compliant ID. That is a state-issued driver's license, state-issued identification card or another acceptable form of ID.\"</p><p>REAL ID-compliant IDs are marked with a star. The TSA also will continue accepting Enhanced Driver's Licenses, which \"provide proof of identity and U.S. citizenship when crossing the U.S. border and are available in Michigan, Minnesota, New York, Vermont, and Washington.\"</p><h2>What Will ID Checks Be Like at Airports Starting May 7?</h2><p>Things may be bumpy at the start. Asked what will happen to passengers who arrive at U.S. airports without acceptable ID on May 7, the TSA say they \"should plan to arrive at airports about three hours in advance of their flight, as delays are possible at the identity verification station within checkpoints.\"</p><p>As of April 11, more than 80% of travelers at TSA checkpoints were presenting acceptable identification, the TSA said, adding it \"expects the number of passengers obtaining REAL IDs to steadily increase and will continue with additional screening measures for those without a REAL ID until it is no longer considered a security vulnerability.\"<span class=\"ql-inline-citation\"></span> </p><p>If you're in the estimated 20% of Americans not already compliant, DHS instructs you to \"visit your state's driver’s licensing agency website to find out exactly what documentation is required to obtain a REAL ID.\"</p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/bfbql4qKt0ILNLpeCVgVzSVERec=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166906417-e659136e02ca421dad862f432d6103a5.jpg",
+    "titles": [
+      "Will You REALLY Need a REAL ID to Fly on May 7?"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.996,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.459,
+    "normalized_score": 7.75,
+    "summary": "The Department of Homeland Security (DHS) has announced that enforcement of the REAL ID Act will begin on May 7, 2025. This act, signed into law by President George W. Bush in 2005, mandates federal standards for identification documents. Travelers aged 18 and over will be required to present a REAL ID-compliant ID, marked with a star, for domestic flights and access to certain federal facilities. Other forms of identification, like passports, will still be acceptable. The TSA advises passengers without a REAL ID to arrive at airports three hours early due to potential delays. Over 80% of trav"
   },
   {
     "title": "Trump tariffs bring furrowed brows to Ireland’s Botox town",
@@ -311,13 +326,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.944,
+      "recency": 0.927,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.458,
-    "normalized_score": 7.54,
+    "score": 0.454,
+    "normalized_score": 7.55,
     "summary": "Westport, the sole global producer of a specific anti-wrinkle drug, is concerned that its production might be relocated to the United States. This shift in manufacturing location has yet to occur, but the potential move has raised fears among those involved in its current production."
   },
   {
@@ -340,13 +355,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.944,
+      "recency": 0.927,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.452,
-    "normalized_score": 7.3,
+    "score": 0.448,
+    "normalized_score": 7.31,
     "summary": "Tim Harford analyzes the impact of the US president's fluctuating tariff policy, suggesting it has caused global financial turmoil. He raises the question of whether this strategy is sustainable or if it's a battle the president might ultimately lose."
   },
   {
@@ -369,13 +384,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.944,
+      "recency": 0.927,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.446,
-    "normalized_score": 7.06,
+    "score": 0.442,
+    "normalized_score": 7.08,
     "summary": "Economic growth, while valuable, does not automatically solve the issue of populism. This conclusion stems from the understanding that despite the benefits of economic expansion, such as increased wealth and job opportunities, it does not directly address the political or social factors that fuel populist movements."
   },
   {
@@ -398,43 +413,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.833,
+      "recency": 0.816,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.43,
-    "normalized_score": 6.43,
+    "score": 0.426,
+    "normalized_score": 6.44,
     "summary": "Several banks, including JPMorgan and Bank of America, have revised their forecasts for the S&P 500, now expecting a modest gain of just 2% for the year. This adjustment reflects a more cautious outlook on the stock market's performance."
-  },
-  {
-    "title": "Trump will abandon Ukraine peace talks ‘in days’ without progress, warns Rubio",
-    "domain": "business",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 18:00:30 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Warning comes after Emmanuel Macron hosted US, Ukraine and other allies for round of negotiations"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa88fc2ac-3f9a-4e07-864f-189808f6b8e3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Trump will abandon Ukraine peace talks ‘in days’ without progress, warns Rubio"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.26,
-      "recency": 0.805,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.429,
-    "normalized_score": 6.39,
-    "summary": "French President Emmanuel Macron hosted a series of negotiations with the United States, Ukraine, and other allied countries. Following these discussions, a warning was issued, although the specific details of the warning were not provided in the provided content. The outcome or current status of the negotiations and the nature of the warning remain unspecified."
   },
   {
     "title": "New colour seen for the first time by tricking the eyes",
@@ -456,13 +442,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.819,
+      "recency": 0.802,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.415,
-    "normalized_score": 5.83,
+    "score": 0.41,
+    "normalized_score": 5.81,
     "summary": "A newly developed device allows users to perceive a unique shade of blue-green, described as more intense than any previously known. This innovation marks a significant advancement in visual technology, offering a novel visual experience."
   },
   {
@@ -485,13 +471,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.795,
+      "recency": 0.777,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.415,
-    "normalized_score": 5.83,
+    "score": 0.41,
+    "normalized_score": 5.81,
     "summary": "Chris Lintott cautions against jumping to conclusions about alien life on exoplanets, even when they exhibit potential signs of biological activity. He emphasizes that past excitement has never confirmed alien life, advising a more measured approach in future instances."
   },
   {
@@ -514,13 +500,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.778,
+      "recency": 0.76,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.404,
-    "normalized_score": 5.4,
+    "score": 0.4,
+    "normalized_score": 5.42,
     "summary": "A quantum sensor, leveraging Earth's magnetic fields, demonstrated superior performance to traditional GPS backups during test flights, offering a promising solution for commercial aircraft navigation. This advancement comes as a response to the increasing challenges posed by GPS jamming and spoofing attacks, ensuring more reliable and accurate course maintenance for aircraft."
   },
   {
@@ -543,13 +529,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.722,
+      "recency": 0.704,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.39,
-    "normalized_score": 4.84,
+    "score": 0.386,
+    "normalized_score": 4.86,
     "summary": "Research indicates that \"skyglow,\" a phenomenon where city lights are reflected off clouds, can stimulate the growth of cyanobacteria and other aquatic microbes during nighttime. This finding highlights the broader ecological impact of urban lighting beyond its immediate surroundings."
   },
   {
@@ -572,14 +558,41 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.715,
+      "recency": 0.697,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.389,
-    "normalized_score": 4.8,
+    "score": 0.384,
+    "normalized_score": 4.78,
     "summary": "A newly developed smart insole system can monitor walking patterns in real-time, offering potential benefits such as posture improvement and early detection of conditions ranging from plantar fasciitis to Parkinson's disease. This technology aims to aid users in identifying and addressing gait-related health issues promptly."
+  },
+  {
+    "title": "Will You REALLY Need a REAL ID to Fly on May 7?",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 09:00:00 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Jeffrey Greenberg / Universal Images Group via Getty Images\" src=\"https://www.investopedia.com/thmb/bfbql4qKt0ILNLpeCVgVzSVERec=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166906417-e659136e02ca421dad862f432d6103a5.jpg\" title=\"REAL ID sign at Miami International Airport\" /><figcaption><i><p>Jeffrey Greenberg / Universal Images Group via Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>The REAL ID Act was signed into law by President George W. Bush in 2005 and expected to be implemented in 2008. That still hasn't happened.</li><li>However, the Department of Homeland Security now says it will begin enforcement on May 7.</li><li>The government says passengers hoping to fly then without REAL ID-compliant identification \"should plan to arrive at airports about three hours in advance of their flight, as delays are possible at the identity verification station within checkpoints.\"</li></ul><br /><br /><p>The REAL ID Act, signed into law 20 years ago, still hasn't gone into effect.<span class=\"ql-inline-citation\"></span> This time, though, the Department of Homeland Security swears it will—starting early next month.<span class=\"ql-inline-citation\"></span></p><p>Republican and Democratic administrations alike have kicked the can down the road since President George W. Bush signed the REAL ID Act to establish federal standards for identification documents into law in May 2005.</p><p>That looks set to end May 7, when its Transportation Security Administration unit says at long last it will step up enforcement. \"If you plan to fly, make sure you get a Real ID so you won't be denied from your flight or face travel delays!\" DHS Secretary Kristi Noem said on a recent X post.<span class=\"ql-inline-citation\"></span></p><p>Here's what this means for American travelers.</p><h2>Countdown Clock</h2><p>Despite having extended the deadline on multiple occasions over the decades, the DHS insists REAL ID enforcement will take place soon. It even has a \"Countdown to REAL ID Enforcement\" clock ticking down on its website.</p><p>The bottom line: If you want to travel using your state driver's license or ID—or do other activities that require federal identification—you'll need it to be a REAL ID, though other forms of identification, such as valid passports, can also work. A <a href=\"https://www.tsa.gov/travel/security-screening/identification\">full list is here</a>.</p><p>\"On May 7, 2025, U.S. travelers must be REAL ID compliant to board domestic flights and access certain federal facilities,\" reads the DHS website, which has an interactive tool to help people determine if they're \"REAL ID ready\" that you can <a href=\"https://www.dhs.gov/real-id/are-you-real-id-ready\">check out here</a>.</p><p>In a statement provided to <em>Investopedia</em>, the TSA said that beginning May 7, \"every air traveler 18 years of age and older is expected to have a REAL ID-compliant ID. That is a state-issued driver's license, state-issued identification card or another acceptable form of ID.\"</p><p>REAL ID-compliant IDs are marked with a star. The TSA also will continue accepting Enhanced Driver's Licenses, which \"provide proof of identity and U.S. citizenship when crossing the U.S. border and are available in Michigan, Minnesota, New York, Vermont, and Washington.\"</p><h2>What Will ID Checks Be Like at Airports Starting May 7?</h2><p>Things may be bumpy at the start. Asked what will happen to passengers who arrive at U.S. airports without acceptable ID on May 7, the TSA say they \"should plan to arrive at airports about three hours in advance of their flight, as delays are possible at the identity verification station within checkpoints.\"</p><p>As of April 11, more than 80% of travelers at TSA checkpoints were presenting acceptable identification, the TSA said, adding it \"expects the number of passengers obtaining REAL IDs to steadily increase and will continue with additional screening measures for those without a REAL ID until it is no longer considered a security vulnerability.\"<span class=\"ql-inline-citation\"></span> </p><p>If you're in the estimated 20% of Americans not already compliant, DHS instructs you to \"visit your state's driver’s licensing agency website to find out exactly what documentation is required to obtain a REAL ID.\"</p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/bfbql4qKt0ILNLpeCVgVzSVERec=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166906417-e659136e02ca421dad862f432d6103a5.jpg",
+    "titles": [
+      "Will You REALLY Need a REAL ID to Fly on May 7?"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.996,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.459,
+    "normalized_score": 7.75,
+    "summary": "The Department of Homeland Security (DHS) has announced that enforcement of the REAL ID Act will begin on May 7, 2025. This act, signed into law by President George W. Bush in 2005, mandates federal standards for identification documents. Travelers aged 18 and over will be required to present a REAL ID-compliant ID, marked with a star, for domestic flights and access to certain federal facilities. Other forms of identification, like passports, will still be acceptable. The TSA advises passengers without a REAL ID to arrive at airports three hours early due to potential delays. Over 80% of trav"
   },
   {
     "title": "Trump tariffs bring furrowed brows to Ireland’s Botox town",
@@ -601,13 +614,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.944,
+      "recency": 0.927,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.458,
-    "normalized_score": 7.54,
+    "score": 0.454,
+    "normalized_score": 7.55,
     "summary": "Westport, the sole global producer of a specific anti-wrinkle drug, is concerned that its production might be relocated to the United States. This shift in manufacturing location has yet to occur, but the potential move has raised fears among those involved in its current production."
   },
   {
@@ -630,13 +643,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.944,
+      "recency": 0.927,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.452,
-    "normalized_score": 7.3,
+    "score": 0.448,
+    "normalized_score": 7.31,
     "summary": "Tim Harford analyzes the impact of the US president's fluctuating tariff policy, suggesting it has caused global financial turmoil. He raises the question of whether this strategy is sustainable or if it's a battle the president might ultimately lose."
   },
   {
@@ -659,13 +672,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.944,
+      "recency": 0.927,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.446,
-    "normalized_score": 7.06,
+    "score": 0.442,
+    "normalized_score": 7.08,
     "summary": "Economic growth, while valuable, does not automatically solve the issue of populism. This conclusion stems from the understanding that despite the benefits of economic expansion, such as increased wealth and job opportunities, it does not directly address the political or social factors that fuel populist movements."
   },
   {
@@ -688,43 +701,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.833,
+      "recency": 0.816,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.43,
-    "normalized_score": 6.43,
+    "score": 0.426,
+    "normalized_score": 6.44,
     "summary": "Several banks, including JPMorgan and Bank of America, have revised their forecasts for the S&P 500, now expecting a modest gain of just 2% for the year. This adjustment reflects a more cautious outlook on the stock market's performance."
-  },
-  {
-    "title": "Trump will abandon Ukraine peace talks ‘in days’ without progress, warns Rubio",
-    "domain": "business",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 18:00:30 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Warning comes after Emmanuel Macron hosted US, Ukraine and other allies for round of negotiations"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa88fc2ac-3f9a-4e07-864f-189808f6b8e3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Trump will abandon Ukraine peace talks ‘in days’ without progress, warns Rubio"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.26,
-      "recency": 0.805,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.429,
-    "normalized_score": 6.39,
-    "summary": "French President Emmanuel Macron hosted a series of negotiations with the United States, Ukraine, and other allied countries. Following these discussions, a warning was issued, although the specific details of the warning were not provided in the provided content. The outcome or current status of the negotiations and the nature of the warning remain unspecified."
   },
   {
     "title": "China races robots against humans in Beijing half marathon",
@@ -748,12 +732,12 @@
     "constructiveness_reason": "This story provides useful information about an innovative event, which can help readers understand the current state of robotics. However, it does not provide any solutions or improvements, nor does it delve deeply into the causes or impacts.",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.952,
+      "recency": 0.934,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.6
     },
-    "score": 0.52,
+    "score": 0.516,
     "normalized_score": 10.0,
     "summary": "The Yizhuang half marathon marked the first occasion where robots competed against humans in a race covering such a distance."
   },
@@ -777,13 +761,13 @@
     "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.911,
+      "recency": 0.893,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.518,
-    "normalized_score": 9.92,
+    "score": 0.513,
+    "normalized_score": 9.88,
     "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering Mohenjo-daro, a major site of the ancient Indus Valley Civilization. However, his legacy is marred by controversy, reflecting debates and disputes within the academic and historical communities about his work and contributions. Despite the controversies, Banerjee's discovery remains a significant contribution to archaeology."
   },
   {
@@ -806,12 +790,12 @@
     "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.874,
+      "recency": 0.856,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.514,
+    "score": 0.51,
     "normalized_score": 9.76,
     "summary": "Apple's supply chain is deeply integrated with China, resulting in significant mutual benefits. However, the possibility of Apple distancing itself from China is not explicitly confirmed or detailed in the provided content."
   },
@@ -835,43 +819,41 @@
     "constructiveness_reason": "This story provides a deep understanding of the personal experiences and impacts of a major crisis. It raises awareness about the conditions in Sudan and the experiences of refugees. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.779,
+      "recency": 0.761,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.7
     },
-    "score": 0.475,
-    "normalized_score": 8.21,
+    "score": 0.47,
+    "normalized_score": 8.18,
     "summary": "Residents of Sudan's largest displacement camp have experienced significant upheaval, impacting their daily lives and stability. The current status or specific causes of this disruption were not detailed in the provided information."
   },
   {
-    "title": "Deadly, sombre Good Friday as 58 people killed in Israeli attacks on Gaza",
+    "title": "US Supreme Court halts deportation of detained Venezuelans",
     "domain": "general",
     "location": "global",
-    "published": "Fri, 18 Apr 2025 21:40:11 +0000",
+    "published": "Sat, 19 Apr 2025 08:48:35 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Palestinian Christians in Gaza and the occupied West Bank are holding temperate gatherings leading up to Easter."
+      "The accused gang members are being sent to a notorious jail in El Salvador under a 19th-Century law."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d86/live/a2b3c120-1cf5-11f0-bead-17ff6258b15e.jpg",
     "titles": [
-      "Deadly, sombre Good Friday as 58 people killed in Israeli attacks on Gaza"
+      "US Supreme Court halts deportation of detained Venezuelans"
     ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
     "score_components": {
-      "magnitude": 0.32,
-      "recency": 0.856,
+      "magnitude": 0.22,
+      "recency": 0.993,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.46,
-    "normalized_score": 7.62,
-    "summary": "Palestinian Christians in Gaza and the occupied West Bank are engaging in subdued celebrations in the lead-up to Easter. These gatherings are characterized by a tempered atmosphere, reflecting the current context in these regions."
+    "score": 0.464,
+    "normalized_score": 7.94,
+    "summary": "Accused gang members in El Salvador are being transferred to a notorious jail as part of a crackdown under a law from the 19th century. This move is part of the government's efforts to combat gang violence in the country."
   },
   {
     "title": "New colour seen for the first time by tricking the eyes",
@@ -893,13 +875,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.819,
+      "recency": 0.802,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.415,
-    "normalized_score": 5.83,
+    "score": 0.41,
+    "normalized_score": 5.81,
     "summary": "A newly developed device allows users to perceive a unique shade of blue-green, described as more intense than any previously known. This innovation marks a significant advancement in visual technology, offering a novel visual experience."
   },
   {
@@ -922,13 +904,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.795,
+      "recency": 0.777,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.415,
-    "normalized_score": 5.83,
+    "score": 0.41,
+    "normalized_score": 5.81,
     "summary": "Chris Lintott cautions against jumping to conclusions about alien life on exoplanets, even when they exhibit potential signs of biological activity. He emphasizes that past excitement has never confirmed alien life, advising a more measured approach in future instances."
   },
   {
@@ -951,13 +933,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.778,
+      "recency": 0.76,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.404,
-    "normalized_score": 5.4,
+    "score": 0.4,
+    "normalized_score": 5.42,
     "summary": "A quantum sensor, leveraging Earth's magnetic fields, demonstrated superior performance to traditional GPS backups during test flights, offering a promising solution for commercial aircraft navigation. This advancement comes as a response to the increasing challenges posed by GPS jamming and spoofing attacks, ensuring more reliable and accurate course maintenance for aircraft."
   },
   {
@@ -980,13 +962,13 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.722,
+      "recency": 0.704,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.39,
-    "normalized_score": 4.84,
+    "score": 0.386,
+    "normalized_score": 4.86,
     "summary": "Research indicates that \"skyglow,\" a phenomenon where city lights are reflected off clouds, can stimulate the growth of cyanobacteria and other aquatic microbes during nighttime. This finding highlights the broader ecological impact of urban lighting beyond its immediate surroundings."
   },
   {
@@ -1009,149 +991,85 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.715,
+      "recency": 0.697,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.389,
-    "normalized_score": 4.8,
+    "score": 0.384,
+    "normalized_score": 4.78,
     "summary": "A newly developed smart insole system can monitor walking patterns in real-time, offering potential benefits such as posture improvement and early detection of conditions ranging from plantar fasciitis to Parkinson's disease. This technology aims to aid users in identifying and addressing gait-related health issues promptly."
   },
   {
-    "title": "Crew expect record crowd for Messi in Cleveland",
+    "title": "Breaking: Arsenal cleared to try AGAIN for stunning Premier League transfer raid",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 00:14:37 EST",
+    "published": "Sat, 19 Apr 2025 08:10:00 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Columbus Crew is expecting a record crowd when it hosts Lionel Messi and Inter Miami, after moving the game to Cleveland."
+      "Arsenal look to have been handed a huge boost as it now looks like Aston Villa striker Ollie Watkins will be available this summer.The Gunners saw a bid turned down for the England international back ..."
     ],
     "image_url": "",
     "titles": [
-      "Crew expect record crowd for Messi in Cleveland"
+      "Breaking: Arsenal cleared to try AGAIN for stunning Premier League transfer raid"
     ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
     "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.892,
+      "magnitude": 0.22,
+      "recency": 0.984,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.353,
-    "normalized_score": 3.37,
-    "summary": "Columbus Crew is set to host Lionel Messi and Inter Miami in Cleveland, anticipating a record attendance for the event. This decision to move the game aims to accommodate a larger crowd, highlighting the significant draw of Messi's presence in the match."
+    "score": 0.382,
+    "normalized_score": 4.7,
+    "summary": "Arsenal received a significant boost in their pursuit of Aston Villa striker Ollie Watkins, as he is reported to be available for transfer this summer. Despite having an initial bid rejected for the England international, Arsenal's chances of securing Watkins have improved, indicating a potential move during the transfer window."
   },
   {
-    "title": "&quot;I Love Where Our D Core Is At&quot;: Canucks Tyler Myers Reflects On The 2024-25 Season & Explains Why He Is Optimistic About The Future",
+    "title": "USC shuts down Lake McRee for remainder of spring camp",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 07:14:56 +0000",
+    "published": "Sat, 19 Apr 2025 08:33:30 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Few players have been with the Vancouver Canucks longer than Tyler Myers. The 35-year-old defenceman just completed his sixth season with the organization, recording 24 points and 125 blocks in 71 games. Myers also had the opportunity to play in his 1,000th career game, and is one of nine players from the 2008 NHL draft class to achieve the feat."
+      "According to head coach Lincoln Riley, McRee has been dealing with several nagging injuries."
     ],
     "image_url": "",
     "titles": [
-      "&quot;I Love Where Our D Core Is At&quot;: Canucks Tyler Myers Reflects On The 2024-25 Season & Explains Why He Is Optimistic About The Future"
+      "USC shuts down Lake McRee for remainder of spring camp"
     ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.989,
+      "recency": 0.99,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.353,
-    "normalized_score": 3.37,
-    "summary": "Tyler Myers, a 35-year-old defenceman, recently finished his sixth season with the Vancouver Canucks, marking his achievements with 24 points, 125 blocks in 71 games, and playing in his 1,000th career game. He is one of nine players from the 2008 NHL draft class to reach this milestone."
+    "score": 0.354,
+    "normalized_score": 3.6,
+    "summary": "Head coach Lincoln Riley reported that McRee is currently facing multiple nagging injuries. These health issues are affecting his ability to play."
   },
   {
-    "title": "Ulster 'raise game' against Leinster - McCarthy",
+    "title": "Conte’s latest claims spark Napoli exit rumours",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 07:13:53 +0000",
+    "published": "Sat, 19 Apr 2025 08:17:00 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Ireland second row Joe McCarthy says Ulster &quot;always raise their game&quot; when they face Leinster as the sides prepare to lock horns at the Aviva Stadium on Saturday night."
+      "Antonio Conte admits ‘many things can’t be done at Napoli’, sparking exit rumours after just eight months at the club.Napoli will visit Monza at the U-Power Stadium today, but the matchday has b..."
     ],
     "image_url": "",
     "titles": [
-      "Ulster 'raise game' against Leinster - McCarthy"
+      "Conte’s latest claims spark Napoli exit rumours"
     ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.989,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.37,
-    "summary": "Ireland's second row Joe McCarthy noted that Ulster intensifies their performance against Leinster ahead of their matchup at Aviva Stadium on Saturday night. This observation comes as both teams prepare for the anticipated game, highlighting the rivalry and competitive spirit between the two."
-  },
-  {
-    "title": "What Ja Morant, Grizzlies said about upcoming playoff series vs top-seeded OKC Thunder",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 07:08:13 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Memphis Grizzlies must quickly turn the page for matchup vs No. 1-seeded Oklahoma City Thunder."
-    ],
-    "image_url": "",
-    "titles": [
-      "What Ja Morant, Grizzlies said about upcoming playoff series vs top-seeded OKC Thunder"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.988,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.37,
-    "summary": "The Memphis Grizzlies are preparing for a crucial game against the Oklahoma City Thunder, who hold the No. 1 seed. The team is focused on moving past their previous performances to face this significant challenge."
-  },
-  {
-    "title": "Ipswich hope doomed Premier League return won’t derail upward trajectory",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 07:00:34 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "There is little sullenness about the prospect of immediate relegation because of club’s improved long-term prospects"
-    ],
-    "image_url": "",
-    "titles": [
-      "Ipswich hope doomed Premier League return won’t derail upward trajectory"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.12,
       "recency": 0.986,
@@ -1160,7 +1078,61 @@
       "constructiveness": 0.0
     },
     "score": 0.353,
-    "normalized_score": 3.37,
-    "summary": "Despite concerns over potential immediate relegation, there's a general lack of dismay among the club's supporters due to optimism about the club's long-term future. This sentiment suggests that fans are looking beyond current challenges, focusing on the positive outlook for the club's prospects."
+    "normalized_score": 3.56,
+    "summary": "Antonio Conte hinted at possible limitations within Napoli, leading to speculation about his departure just eight months into his tenure. Despite this, Napoli is set to play against Monza at the U-Power Stadium. The context of Conte's remarks and the outcome of the match might influence his future at the club."
+  },
+  {
+    "title": "Werder Bremen sign captain Marco Friedl to contract extension",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 08:07:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Werder Bremen squad captain Marco Friedl – considered one of the primary reasons why SV Werder Bremen have recently pulled themselves out of a horrible midseason slump – has been rewarded with a n..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Werder Bremen sign captain Marco Friedl to contract extension"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.984,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.352,
+    "normalized_score": 3.52,
+    "summary": "Werder Bremen has extended the contract of their squad captain Marco Friedl, acknowledging his significant role in helping the team recover from a midseason slump. This move demonstrates the club's appreciation for Friedl's contributions to their recent improvement in performance."
+  },
+  {
+    "title": "Headed to the Boston Marathon? Here's how to go from Brockton to Boston on the commuter rail",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 08:01:39 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Cheer on the runners! Here's how to easily get from Brockton to the Boston Marathon and be part of the excitement without the hassle."
+    ],
+    "image_url": "",
+    "titles": [
+      "Headed to the Boston Marathon? Here's how to go from Brockton to Boston on the commuter rail"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.982,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.352,
+    "normalized_score": 3.52,
+    "summary": "Residents of Brockton can join the Boston Marathon festivities by utilizing convenient transportation options to reach the event. This ensures participation in the excitement without dealing with transportation hassles."
   }
 ]
