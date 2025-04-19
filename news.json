@@ -19,14 +19,14 @@
     "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.8,
+      "recency": 0.795,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.49,
+    "score": 0.489,
     "normalized_score": 10.0,
-    "summary": "Rakhaldas Banerjee, an archaeologist, is recognized for discovering the ancient city of Mohenjo-daro, a significant site of the Indus Valley Civilization. However, his legacy is marred by controversy, details of which remain unspecified in the provided content."
+    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering the ancient city of Mohenjo-daro, a significant archaeological site of the Indus Valley Civilization. However, his legacy is marred by controversy, though the summary does not specify the nature of these controversies."
   },
   {
     "title": "Designed in US, made in China: Why Apple is stuck",
@@ -48,14 +48,14 @@
     "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.763,
+      "recency": 0.758,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.487,
-    "normalized_score": 9.87,
-    "summary": "Apple's supply chain is deeply integrated with China, which has significantly profited from this relationship. The current status or potential for a breakup between Apple and China's supply chain has not been explicitly stated, indicating that the situation remains as is for now."
+    "score": 0.485,
+    "normalized_score": 9.82,
+    "summary": "China is central to Apple's supply chain, significantly benefiting from this relationship. The question of whether they can sever this connection remains open, highlighting the complexity and depth of their business ties."
   },
   {
     "title": "Five dead as huge waves hit Australia coast",
@@ -75,14 +75,14 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.946,
+      "recency": 0.941,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.477,
-    "normalized_score": 9.43,
-    "summary": "Two individuals are currently missing, prompting authorities to issue warnings for people to exercise caution due to ongoing surf warnings."
+    "score": 0.475,
+    "normalized_score": 9.38,
+    "summary": "Two individuals are currently missing, and authorities are advising the public to exercise caution due to ongoing surf warnings."
   },
   {
     "title": "Is the US dollar at risk of a ‘confidence crisis’?",
@@ -102,14 +102,14 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.919,
+      "recency": 0.914,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.47,
+    "score": 0.469,
     "normalized_score": 9.12,
-    "summary": "Concerns over inconsistent policy decisions have led investors to reconsider their confidence in the US dollar, indicating a potential shift in the currency's perceived stability and reliability."
+    "summary": "Concerns over inconsistent policy decisions are leading investors to reconsider their confidence in the US dollar. This sentiment reflects growing apprehension about the stability and predictability of future economic policies, impacting the dollar's perceived reliability as a global currency."
   },
   {
     "title": "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict",
@@ -129,14 +129,14 @@
     ],
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.973,
+      "recency": 0.969,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.465,
+    "score": 0.464,
     "normalized_score": 8.9,
-    "summary": "Russia has announced its expectation for Ukraine to observe a ceasefire during the Easter period. This statement implies a desire for a temporary halt in hostilities to coincide with the religious holiday, although the current status of compliance from either side is not detailed in the available information."
+    "summary": "Russia has announced it expects Ukraine to observe a ceasefire during the Easter period. This statement implies a mutual anticipation of reduced hostilities to honor the religious holiday. However, the current status or agreement on this expectation from the Ukrainian side has not been detailed in the provided content."
   },
   {
     "title": "Breaking down NFL.com's new 7-round mock draft for the Texans",
@@ -156,14 +156,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.994,
+      "recency": 0.99,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.379,
+    "score": 0.378,
     "normalized_score": 5.11,
-    "summary": "In Chad Reuter's latest NFL mock draft on NFL.com, the Houston Texans focus on strengthening their team by selecting players to enhance both their offensive and defensive lines. Additionally, they aim to improve their passing game by acquiring two new weapons, indicating a strategic move to bolster their overall performance."
+    "summary": "Chad Reuter's latest mock draft on NFL.com suggests the Houston Texans will focus on strengthening their team by selecting players to enhance both their offensive and defensive lines. Additionally, the Texans are expected to acquire two new players aimed at improving their passing game."
   },
   {
     "title": "WWE WrestleMania 41 start time, date: Where to watch and live stream the massive event this weekend",
@@ -183,20 +183,20 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.972,
+      "recency": 0.968,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.373,
+    "score": 0.372,
     "normalized_score": 4.85,
-    "summary": "The annual event in Las Vegas, scheduled for Saturday and Sunday, is expected to provide an impressive spectacle once again."
+    "summary": "The annual event in Las Vegas, known for its spectacular shows, is scheduled to take place this weekend on Saturday and Sunday. It promises to deliver another impressive performance."
   },
   {
     "title": "Crew expect record crowd for Messi in Cleveland",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 11:34:19 EST",
+    "published": "Sat, 19 Apr 2025 12:16:52 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -210,68 +210,95 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.938,
+      "recency": 0.944,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.365,
-    "normalized_score": 4.49,
-    "summary": "The Columbus Crew is set to host Lionel Messi and Inter Miami in Cleveland, anticipating a record attendance for the match. This decision to move the game indicates high expectations for crowd turnout due to Messi's involvement."
+    "score": 0.366,
+    "normalized_score": 4.58,
+    "summary": "Columbus Crew is set to host Lionel Messi and Inter Miami in a match anticipated to draw a record crowd. To accommodate the expected large number of attendees, the game has been moved to Cleveland."
   },
   {
-    "title": "Jaire Alexander trade rumors: Jordan Love says Packers star corner is 'a guy we need to have around'",
+    "title": "UC Irvine’s Hansen shuts out Hawaii to take big series",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 15:47:09 +0000",
+    "published": "Sat, 19 Apr 2025 16:10:00 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Alexander was limited to seven games last season"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2024/09/22/69bb8aba-b7a1-4220-97a7-61e86322ca1e/getty-jaire-alexander-packers-week-2.jpg",
-    "titles": [
-      "Jaire Alexander trade rumors: Jordan Love says Packers star corner is 'a guy we need to have around'"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.997,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.355,
-    "normalized_score": 4.05,
-    "summary": "Alexander, a professional athlete, was restricted to participating in only seven games during the last season. This limitation in appearances could be due to injury, performance, or other factors not specified in the provided content."
-  },
-  {
-    "title": "Cowboys proved $115 million undersold value of departed star still awaiting replacement",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 15:49:46 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Tyron Smith left the Dallas Cowboys a year ago but his absence is painfully felt at LT as the demands and expectations of the position change."
+      "JAMM AQUINO / JAQUINO @STARADVERTISER.COM Hawaii head coach Rich Hill talks to outfielder Jared Quandt (21 ) and infielder Draven Nushida (5 ) on April 6. JAMM AQUINO / JAQUINO @STARADVERTISER.COM Hawaii head coach Rich Hill talks to outfielder Jared Quandt (21 ) and infielder Draven Nushida (5 ) on April 6. Caught in a perfect storm on Friday, the Hawaii baseball team struggled at the plate, ..."
     ],
     "image_url": "",
     "titles": [
-      "Cowboys proved $115 million undersold value of departed star still awaiting replacement"
+      "UC Irvine’s Hansen shuts out Hawaii to take big series"
     ],
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.997,
+      "recency": 0.998,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.355,
-    "normalized_score": 4.05,
-    "summary": "Tyron Smith's departure from the Dallas Cowboys a year ago has significantly impacted the team, particularly at the left tackle (LT) position. The evolving demands and expectations of the LT role have made his absence more pronounced, highlighting the challenges the Cowboys face in filling the gap he left."
+    "score": 0.356,
+    "normalized_score": 4.14,
+    "summary": "On April 6, Hawaii baseball team's head coach, Rich Hill, was seen discussing strategies with outfielder Jared Quandt and infielder Draven Nushida. However, the team faced significant challenges during their game on Friday, struggling with their performance at the plate. This indicates a difficult match for the team, highlighting a moment of coaching and an attempt to navigate through their struggles."
+  },
+  {
+    "title": "Short-handed Hawaii holds off UC Santa Barbara",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 16:10:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Freshman outside hitter Adrien Roure put down a team-high 16 kills with nine digs and fellow freshman Finn Kearney added 11 kills as the short-handed, third-ranked Hawaii men’s volleyball team defeated No. 18 UC Santa Barbara 25-22, 19-25, 25-22, 25-20 today at The Thunderdome in Santa Barbara, Calif. Middle blocker Kurt Nusterer added nine kills and six blocks and hit.692 for Hawaii (24-4, ..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Short-handed Hawaii holds off UC Santa Barbara"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.998,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.356,
+    "normalized_score": 4.14,
+    "summary": "The third-ranked Hawaii men's volleyball team, despite being short-handed, secured a victory against No. 18 UC Santa Barbara with scores of 25-22, 19-25, 25-22, 25-20 at The Thunderdome in Santa Barbara, California. Freshman outside hitter Adrien Roure led the team with 16 kills and nine digs, while fellow freshman Finn Kearney contributed 11 kills. Middle blocker Kurt Nusterer also made a significant impact with nine kills, six blocks, and a .692 hitting percentage. This win improves Hawaii's record to 24-4."
+  },
+  {
+    "title": "Putin declares 30-hour Easter ceasefire in Ukraine",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 16:12:56 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Sirens sound in Kyiv as air defences open fire on incoming missiles minutes after announcement"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb9b1b561-f010-4012-b69d-c7851f6ee179.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Putin declares 30-hour Easter ceasefire in Ukraine"
+    ],
+    "score_components": {
+      "magnitude": 0.24,
+      "recency": 0.998,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.472,
+    "normalized_score": 9.25,
+    "summary": "Sirens were heard in Kyiv, followed by the activation of air defenses targeting incoming missiles. This event occurred minutes after an official announcement, indicating a rapid response to the missile threat. The current status of the missile interception and any potential damages or casualties have not been specified."
   },
   {
     "title": "US and Iran agree to another round of talks to end nuclear stand-off",
@@ -291,14 +318,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.988,
+      "recency": 0.984,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.457,
+    "score": 0.456,
     "normalized_score": 8.55,
-    "summary": "Adversaries have agreed to meet in Oman next week following productive, 'forward-looking' negotiations held in Rome. This development indicates a positive step towards resolving their differences."
+    "summary": "Adversaries have agreed to meet in Oman next week following constructive negotiations in Rome. These talks were described as 'forward-looking', indicating progress towards resolving their differences. The outcome suggests a positive direction in their relationship, with the upcoming meeting in Oman aimed at furthering discussions."
   },
   {
     "title": "US Supreme Court temporarily halts deportations of migrants",
@@ -318,14 +345,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.985,
+      "recency": 0.981,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.456,
+    "score": 0.455,
     "normalized_score": 8.5,
-    "summary": "The Supreme Court has blocked the Trump administration's effort to apply a seldom-used law to achieve its policy goals. This decision prevents the administration from leveraging this specific legal avenue, marking a significant limitation on its strategy. The current status is that the administration cannot proceed with its intended action under this law."
+    "summary": "The Supreme Court has halted the Trump administration's effort to apply a seldom-used law to a new case. This decision prevents the administration from leveraging the old statute for their current legal strategy."
   },
   {
     "title": "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings",
@@ -345,14 +372,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.93,
+      "recency": 0.926,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.443,
+    "score": 0.442,
     "normalized_score": 7.93,
-    "summary": "Alphabet, the parent company of Google, is set to report its first-quarter financial results after the market closes on Thursday, with analysts holding a predominantly bullish outlook despite economic uncertainties. A majority of analysts, according to Visible Alpha, have assigned a \"buy\" or equivalent rating to Alphabet's stock, with expectations for strong growth fueled by the adoption of artificial intelligence tools and innovation on its Search and YouTube platforms. Citi and Morgan Stanley have set price targets of $195 and $185, respectively, suggesting significant upside potential. Alph"
+    "summary": "Alphabet Inc., Google's parent company, is set to report its first-quarter results after market close on Thursday, with analysts generally optimistic about its performance amidst economic uncertainty. A majority of analysts, 14 out of 19 tracked by Visible Alpha, recommend buying the stock, citing potential growth from Google's adoption of artificial intelligence tools and platform-level innovation on Search and YouTube. Analysts from Citi and Morgan Stanley have set price targets of $195 and $185, respectively, indicating a significant upside. Expected revenue is $89.22 billion, an 11% increa"
   },
   {
     "title": "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course",
@@ -372,41 +399,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.916,
+      "recency": 0.912,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.439,
+    "score": 0.438,
     "normalized_score": 7.75,
-    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. He has a net worth of approximately $250 million, with over $100 million in career earnings on the PGA Tour, making him the second golfer after Tiger Woods to reach this milestone. McIlroy earned $38 million on the course between 2023 and 2024, ranking him as the second highest-paid golfer globally. Off the course, he made an estimated $45 million in 2024 through business ventures and partnerships, including co-founding TMRW Sports and investment firm Symphony Ventures, and"
-  },
-  {
-    "title": "Will You REALLY Need a REAL ID to Fly on May 7?",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 09:00:00 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "<figure><img alt=\"Jeffrey Greenberg / Universal Images Group via Getty Images\" src=\"https://www.investopedia.com/thmb/bfbql4qKt0ILNLpeCVgVzSVERec=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166906417-e659136e02ca421dad862f432d6103a5.jpg\" title=\"REAL ID sign at Miami International Airport\" /><figcaption><i><p>Jeffrey Greenberg / Universal Images Group via Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>The REAL ID Act was signed into law by President George W. Bush in 2005 and expected to be implemented in 2008. That still hasn't happened.</li><li>However, the Department of Homeland Security now says it will begin enforcement on May 7.</li><li>The government says passengers hoping to fly then without REAL ID-compliant identification \"should plan to arrive at airports about three hours in advance of their flight, as delays are possible at the identity verification station within checkpoints.\"</li></ul><br /><br /><p>The REAL ID Act, signed into law 20 years ago, still hasn't gone into effect.<span class=\"ql-inline-citation\"></span> This time, though, the Department of Homeland Security swears it will—starting early next month.<span class=\"ql-inline-citation\"></span></p><p>Republican and Democratic administrations alike have kicked the can down the road since President George W. Bush signed the REAL ID Act to establish federal standards for identification documents into law in May 2005.</p><p>That looks set to end May 7, when its Transportation Security Administration unit says at long last it will step up enforcement. \"If you plan to fly, make sure you get a Real ID so you won't be denied from your flight or face travel delays!\" DHS Secretary Kristi Noem said on a recent X post.<span class=\"ql-inline-citation\"></span></p><p>Here's what this means for American travelers.</p><h2>Countdown Clock</h2><p>Despite having extended the deadline on multiple occasions over the decades, the DHS insists REAL ID enforcement will take place soon. It even has a \"Countdown to REAL ID Enforcement\" clock ticking down on its website.</p><p>The bottom line: If you want to travel using your state driver's license or ID—or do other activities that require federal identification—you'll need it to be a REAL ID, though other forms of identification, such as valid passports, can also work. A <a href=\"https://www.tsa.gov/travel/security-screening/identification\">full list is here</a>.</p><p>\"On May 7, 2025, U.S. travelers must be REAL ID compliant to board domestic flights and access certain federal facilities,\" reads the DHS website, which has an interactive tool to help people determine if they're \"REAL ID ready\" that you can <a href=\"https://www.dhs.gov/real-id/are-you-real-id-ready\">check out here</a>.</p><p>In a statement provided to <em>Investopedia</em>, the TSA said that beginning May 7, \"every air traveler 18 years of age and older is expected to have a REAL ID-compliant ID. That is a state-issued driver's license, state-issued identification card or another acceptable form of ID.\"</p><p>REAL ID-compliant IDs are marked with a star. The TSA also will continue accepting Enhanced Driver's Licenses, which \"provide proof of identity and U.S. citizenship when crossing the U.S. border and are available in Michigan, Minnesota, New York, Vermont, and Washington.\"</p><h2>What Will ID Checks Be Like at Airports Starting May 7?</h2><p>Things may be bumpy at the start. Asked what will happen to passengers who arrive at U.S. airports without acceptable ID on May 7, the TSA say they \"should plan to arrive at airports about three hours in advance of their flight, as delays are possible at the identity verification station within checkpoints.\"</p><p>As of April 11, more than 80% of travelers at TSA checkpoints were presenting acceptable identification, the TSA said, adding it \"expects the number of passengers obtaining REAL IDs to steadily increase and will continue with additional screening measures for those without a REAL ID until it is no longer considered a security vulnerability.\"<span class=\"ql-inline-citation\"></span> </p><p>If you're in the estimated 20% of Americans not already compliant, DHS instructs you to \"visit your state's driver’s licensing agency website to find out exactly what documentation is required to obtain a REAL ID.\"</p>"
-    ],
-    "image_url": "https://www.investopedia.com/thmb/bfbql4qKt0ILNLpeCVgVzSVERec=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166906417-e659136e02ca421dad862f432d6103a5.jpg",
-    "titles": [
-      "Will You REALLY Need a REAL ID to Fly on May 7?"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.903,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.436,
-    "normalized_score": 7.62,
-    "summary": "The REAL ID Act, signed in 2005, mandates federal standards for identification documents. Despite repeated delays, the Department of Homeland Security (DHS) asserts enforcement will start May 7, 2025. Travelers 18 and older will need a REAL ID-compliant ID for domestic flights and to access certain federal facilities. These IDs are marked with a star, but other forms of ID, like passports, are acceptable. The TSA advises arriving three hours early for flights due to potential delays at identity verification. Over 80% of travelers currently use acceptable IDs, and the TSA expects compliance to "
+    "summary": "Rory McIlroy has achieved a significant milestone in his golfing career by winning the 2025 Masters Tournament, completing the career Grand Slam—a feat only achieved by five other golfers. This victory marks a pinnacle in McIlroy's nearly two decades-long professional career, during which he has also surpassed $100 million in PGA Tour career earnings, becoming the second golfer after Tiger Woods to reach this mark. McIlroy's net worth is estimated at about $250 million, bolstered by his earnings on the course and various business ventures, including endorsements and partnerships with major bra"
   },
   {
     "title": "New colour seen for the first time by tricking the eyes",
@@ -428,14 +428,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.708,
+      "recency": 0.704,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.387,
+    "score": 0.386,
     "normalized_score": 5.46,
-    "summary": "A newly developed device allows users to perceive a unique shade of blue-green, described as more intense than any previously seen. This innovation marks a significant advancement in color perception technology."
+    "summary": "A new device has been developed that allows individuals to perceive a previously unseen shade of blue-green. According to users, this color is significantly more intense than any they have encountered before."
   },
   {
     "title": "Claims of alien life are overhyped – and miss the real accomplishment",
@@ -457,14 +457,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.684,
+      "recency": 0.679,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.387,
+    "score": 0.386,
     "normalized_score": 5.46,
-    "summary": "Chris Lintott cautions against jumping to conclusions about alien life on exoplanets, even when they show signs of biological activity. He emphasizes that, historically, such signs have never been attributed to aliens, urging for a more measured approach in future discoveries."
+    "summary": "Astronomer Chris Lintott cautions against prematurely concluding that signs of biological activity on exoplanets indicate alien life. He emphasizes that, despite public excitement, such findings have never confirmed extraterrestrial life and advises against making assumptions in future discoveries."
   },
   {
     "title": "Scientists probe the mystery of Titan's missing deltas",
@@ -484,507 +484,13 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.633,
+      "recency": 0.629,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.368,
+    "score": 0.367,
     "normalized_score": 4.63,
-    "summary": "New research indicates that Titan, Saturn's moon, despite having extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the moon's surface processes and how they differ from Earth's, challenging previous understandings of Titan's geography."
-  },
-  {
-    "title": "US and Iran agree to another round of talks to end nuclear stand-off",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 15:08:47 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Adversaries will meet in Oman next week after ‘forward-looking’ negotiations in Rome"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4300721e-87e2-4951-9eb2-e80ce45acd8d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "US and Iran agree to another round of talks to end nuclear stand-off"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.988,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.457,
-    "normalized_score": 8.55,
-    "summary": "Adversaries have agreed to meet in Oman next week following productive, 'forward-looking' negotiations held in Rome. This development indicates a positive step towards resolving their differences."
-  },
-  {
-    "title": "US Supreme Court temporarily halts deportations of migrants",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 14:57:27 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Justices block Trump administration’s attempt to invoke long-standing but rarely-used law"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8429fd66-ad50-4bbc-acdd-457a7a218ea8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "US Supreme Court temporarily halts deportations of migrants"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.985,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.456,
-    "normalized_score": 8.5,
-    "summary": "The Supreme Court has blocked the Trump administration's effort to apply a seldom-used law to achieve its policy goals. This decision prevents the administration from leveraging this specific legal avenue, marking a significant limitation on its strategy. The current status is that the administration cannot proceed with its intended action under this law."
-  },
-  {
-    "title": "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 11:00:00 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "<figure><img alt=\"Justin Sullivan / Getty Images\" src=\"https://www.investopedia.com/thmb/lof3DaCc0gz3K-Y8S-SrLN4XETQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166671480-b15158c79cbd42a6b2ef8c1b7f160b9a.jpg\" title=\"Google logo signage.\" /><figcaption><i><p>Justin Sullivan / Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>Google parent Alphabet plans to report first-quarter results after the market closes Thursday.</li><li>A majority of analysts tracked by Visible Alpha have a \"buy\" or equivalent rating for the stock.</li><li>Citi analysts said they expect Google Search would be “among the last platforms to experience macro impacts and among the first to recover.”</li></ul><br /><br /><p>Google parent Alphabet (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;GOOGL\">GOOGL</a>) is slated to report first-quarter results after the market closes Thursday, with analysts largely bullish on the tech giant's ability to weather <a href=\"https://www.investopedia.com/if-the-economy-avoids-a-recession-it-s-not-out-of-the-woods-could-face-stagflation-11716774\">economic uncertainty</a>.<span class=\"ql-inline-citation\"></span></p><p>Citi analysts said recently they expect Google Search would be “among the last platforms to experience macro impacts and among the first to recover.”<span class=\"ql-inline-citation\"></span> Citi also highlighted its potential for growth from the adoption of artificial intelligence tools like Google’s AI Mode in Search, as well as the latest iteration of the company’s Gemini large language model. </p><p>Morgan Stanley also cited “AI-driven platform-level innovation” on Search and YouTube as a reason for “confidence in the durability of long term growth.”<span class=\"ql-inline-citation\"></span> Citi and Morgan Stanley gave Alphabet price targets of $195 and $185, respectively. </p><p>Of the 19 analysts covering Alphabet tracked by Visible Alpha, 14 have “buy” or equivalent ratings for the stock, with the rest issuing “hold” ratings. Their consensus price target near $195 would suggest roughly 29% upside from Thursday's closing price at about $151.</p><p>During the company's earnings call, Alphabet could face questions from analysts about a <a href=\"https://www.investopedia.com/google-has-established-illegal-digital-ad-monopolies-us-judge-rules-11717225\">U.S. District Court ruling</a> that Google has illegally maintained monopolies in the online advertising industry. Citi analysts said they “wouldn’t be surprised to see Google ultimately spin off its ad network,” as a result of the ruling, but that Google’s core businesses would likely not be as impacted.<span class=\"ql-inline-citation\"></span></p><p>Alphabet is expected to report fiscal first-quarter revenue of $89.22 billion, up 11% year-over-year, and net income of $24.71 billion, or $2.01 per share, up from $23.66 billion, or $1.89 per share, a year ago.</p><p>Shares of Alphabet have lost a fifth of their value so far in 2025 through Thursday's close. The U.S. stock market was <a href=\"https://www.investopedia.com/is-the-stock-market-open-on-friday-good-friday-easter-holiday-11716325\">closed Friday</a> in observation of Good Friday.<br /></p>"
-    ],
-    "image_url": "https://www.investopedia.com/thmb/lof3DaCc0gz3K-Y8S-SrLN4XETQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166671480-b15158c79cbd42a6b2ef8c1b7f160b9a.jpg",
-    "titles": [
-      "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.93,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.443,
-    "normalized_score": 7.93,
-    "summary": "Alphabet, the parent company of Google, is set to report its first-quarter financial results after the market closes on Thursday, with analysts holding a predominantly bullish outlook despite economic uncertainties. A majority of analysts, according to Visible Alpha, have assigned a \"buy\" or equivalent rating to Alphabet's stock, with expectations for strong growth fueled by the adoption of artificial intelligence tools and innovation on its Search and YouTube platforms. Citi and Morgan Stanley have set price targets of $195 and $185, respectively, suggesting significant upside potential. Alph"
-  },
-  {
-    "title": "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 10:00:00 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "<figure><img alt=\" Erick W. Rasco/Sports Illustrated via Getty Images\" src=\"https://www.investopedia.com/thmb/g9Mspvj_qItK6X7R9am_7sltQK8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2209826808-06f398e68ee74009b3bf5220af046f1e.jpg\" title=\"Golf: The Masters: Rory McIlroy victorious during green jacket ceremony after winning sudden death playoff round to win the tournament on Sunday at Augusta National. \" /><figcaption><i><p> Erick W. Rasco/Sports Illustrated via Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>Champion pro golfer Rory McIlroy has made millions on and off the course.</li><li>McIlroy has a net worth of about $250 million, according to an estimate by <em>Celebrity Net Worth.</em></li><li>In April 2025, McIlroy surpassed $100 million in career earnings on the PGA Tour, becoming the second golfer after Tiger Woods to do so.</li></ul><br /><br /><p>Champion golfer Rory McIlroy has done what just five other professional golfers have been able to do—win a career Grand Slam.</p><p>McIlroy sank to his knees in tears following his victory over Justin Rose at the 2025 Masters Tournament in Augusta, Georgia, this month. The Masters title completed his career Grand Slam—in golf, this means McIlroy has won all four major championships at least once during his career: the U.S. Open, the Open Championship, the PGA Championship, and now The Masters.<span class=\"ql-inline-citation\"></span> Gene Sarazen, Ben Hogan, Gary Player, Jack Nicklaus, and Tiger Woods are the only other golfers to win the modern career Grand Slam.<span class=\"ql-inline-citation\"></span></p><p>In his nearly two decades as a pro golfer, McIlroy has made a fortune on and off the course, with millions in career earnings, endorsements, and entrepreneurial ventures. McIlroy has a net worth of about $250 million, according to an estimate by <em>Celebrity Net Worth.<span class=\"ql-inline-citation\"></span> </em></p><p>Here's how McIlroy made his millions.<br /></p><h2>McIlroy's Career Earnings</h2><p>Not only is McIlroy widely considered one of the best professional golfers, but he is also among the wealthiest. In April 2025, he surpassed $100 million in career earnings on the PGA Tour, becoming the second golfer after <a href=\"https://www.investopedia.com/tiger-woods-net-worth-8536106\">Tiger Woods to do so</a>.<span class=\"ql-inline-citation\"></span></p><p>McIlroy was the second highest-paid golfer in the world in 2024, earning $38 million on the course between 2023 and 2024, according to <em>Forbes.</em><span class=\"ql-inline-citation\"></span></p><p>With 29 PGA Tour wins in his nearly two decades as a pro golfer, McIlroy is in the top 20 for all-time wins in the PGA.<span class=\"ql-inline-citation\"></span></p><h2>McIlroy's Partnerships and Businesses</h2><p>When he's not golfing, McIlroy also makes millions from business ventures and partnerships. The champion golfer made an estimated $45 million off the course in 2024, according to <em>Forbes.</em><span class=\"ql-inline-citation\"></span></p><p>Many of McIlroy's ventures off the course involve golf, too. He co-founded TMRW Sports, a sports media and entertainment company, with Tiger Woods and NBC Sports executive Mike McCarley. Among the company's ventures is TGL, a partly virtual golf league featuring top players from the PGA Tour. The league has two-hour weekly matches that air on ESPN and ESPN&#43;.<span class=\"ql-inline-citation\"></span></p><p>McIlroy also founded an investment firm, Symphony Ventures, which has investments in companies including ticket marketplace TickPick, golf subscription GolfPass, virtual reality game Golf&#43;, sports recovery company Hyperice, fitness tracker Whoop, and upscale mini golf chain, Puttery.<span class=\"ql-inline-citation\"></span><span class=\"ql-inline-citation\"></span></p><p>McIlroy's partnerships include major brands such as Nike, Optum, Workday, TaylorMade, and Omega.<span class=\"ql-inline-citation\"></span></p>"
-    ],
-    "image_url": "https://www.investopedia.com/thmb/g9Mspvj_qItK6X7R9am_7sltQK8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2209826808-06f398e68ee74009b3bf5220af046f1e.jpg",
-    "titles": [
-      "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.916,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.439,
-    "normalized_score": 7.75,
-    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. He has a net worth of approximately $250 million, with over $100 million in career earnings on the PGA Tour, making him the second golfer after Tiger Woods to reach this milestone. McIlroy earned $38 million on the course between 2023 and 2024, ranking him as the second highest-paid golfer globally. Off the course, he made an estimated $45 million in 2024 through business ventures and partnerships, including co-founding TMRW Sports and investment firm Symphony Ventures, and"
-  },
-  {
-    "title": "Will You REALLY Need a REAL ID to Fly on May 7?",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 09:00:00 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "<figure><img alt=\"Jeffrey Greenberg / Universal Images Group via Getty Images\" src=\"https://www.investopedia.com/thmb/bfbql4qKt0ILNLpeCVgVzSVERec=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166906417-e659136e02ca421dad862f432d6103a5.jpg\" title=\"REAL ID sign at Miami International Airport\" /><figcaption><i><p>Jeffrey Greenberg / Universal Images Group via Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>The REAL ID Act was signed into law by President George W. Bush in 2005 and expected to be implemented in 2008. That still hasn't happened.</li><li>However, the Department of Homeland Security now says it will begin enforcement on May 7.</li><li>The government says passengers hoping to fly then without REAL ID-compliant identification \"should plan to arrive at airports about three hours in advance of their flight, as delays are possible at the identity verification station within checkpoints.\"</li></ul><br /><br /><p>The REAL ID Act, signed into law 20 years ago, still hasn't gone into effect.<span class=\"ql-inline-citation\"></span> This time, though, the Department of Homeland Security swears it will—starting early next month.<span class=\"ql-inline-citation\"></span></p><p>Republican and Democratic administrations alike have kicked the can down the road since President George W. Bush signed the REAL ID Act to establish federal standards for identification documents into law in May 2005.</p><p>That looks set to end May 7, when its Transportation Security Administration unit says at long last it will step up enforcement. \"If you plan to fly, make sure you get a Real ID so you won't be denied from your flight or face travel delays!\" DHS Secretary Kristi Noem said on a recent X post.<span class=\"ql-inline-citation\"></span></p><p>Here's what this means for American travelers.</p><h2>Countdown Clock</h2><p>Despite having extended the deadline on multiple occasions over the decades, the DHS insists REAL ID enforcement will take place soon. It even has a \"Countdown to REAL ID Enforcement\" clock ticking down on its website.</p><p>The bottom line: If you want to travel using your state driver's license or ID—or do other activities that require federal identification—you'll need it to be a REAL ID, though other forms of identification, such as valid passports, can also work. A <a href=\"https://www.tsa.gov/travel/security-screening/identification\">full list is here</a>.</p><p>\"On May 7, 2025, U.S. travelers must be REAL ID compliant to board domestic flights and access certain federal facilities,\" reads the DHS website, which has an interactive tool to help people determine if they're \"REAL ID ready\" that you can <a href=\"https://www.dhs.gov/real-id/are-you-real-id-ready\">check out here</a>.</p><p>In a statement provided to <em>Investopedia</em>, the TSA said that beginning May 7, \"every air traveler 18 years of age and older is expected to have a REAL ID-compliant ID. That is a state-issued driver's license, state-issued identification card or another acceptable form of ID.\"</p><p>REAL ID-compliant IDs are marked with a star. The TSA also will continue accepting Enhanced Driver's Licenses, which \"provide proof of identity and U.S. citizenship when crossing the U.S. border and are available in Michigan, Minnesota, New York, Vermont, and Washington.\"</p><h2>What Will ID Checks Be Like at Airports Starting May 7?</h2><p>Things may be bumpy at the start. Asked what will happen to passengers who arrive at U.S. airports without acceptable ID on May 7, the TSA say they \"should plan to arrive at airports about three hours in advance of their flight, as delays are possible at the identity verification station within checkpoints.\"</p><p>As of April 11, more than 80% of travelers at TSA checkpoints were presenting acceptable identification, the TSA said, adding it \"expects the number of passengers obtaining REAL IDs to steadily increase and will continue with additional screening measures for those without a REAL ID until it is no longer considered a security vulnerability.\"<span class=\"ql-inline-citation\"></span> </p><p>If you're in the estimated 20% of Americans not already compliant, DHS instructs you to \"visit your state's driver’s licensing agency website to find out exactly what documentation is required to obtain a REAL ID.\"</p>"
-    ],
-    "image_url": "https://www.investopedia.com/thmb/bfbql4qKt0ILNLpeCVgVzSVERec=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166906417-e659136e02ca421dad862f432d6103a5.jpg",
-    "titles": [
-      "Will You REALLY Need a REAL ID to Fly on May 7?"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.903,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.436,
-    "normalized_score": 7.62,
-    "summary": "The REAL ID Act, signed in 2005, mandates federal standards for identification documents. Despite repeated delays, the Department of Homeland Security (DHS) asserts enforcement will start May 7, 2025. Travelers 18 and older will need a REAL ID-compliant ID for domestic flights and to access certain federal facilities. These IDs are marked with a star, but other forms of ID, like passports, are acceptable. The TSA advises arriving three hours early for flights due to potential delays at identity verification. Over 80% of travelers currently use acceptable IDs, and the TSA expects compliance to "
-  },
-  {
-    "title": "The forgotten Indian explorer who uncovered an ancient civilisation",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 01:36:17 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Rakhaldas Banerjee is credited with discovering Mohenjo-daro, but his legacy is tainted by controversy."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f3/live/c341b6b0-1c3a-11f0-857e-c31f6e495ac8.jpg",
-    "titles": [
-      "The forgotten Indian explorer who uncovered an ancient civilisation"
-    ],
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.8,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.8
-    },
-    "score": 0.49,
-    "normalized_score": 10.0,
-    "summary": "Rakhaldas Banerjee, an archaeologist, is recognized for discovering the ancient city of Mohenjo-daro, a significant site of the Indus Valley Civilization. However, his legacy is marred by controversy, details of which remain unspecified in the provided content."
-  },
-  {
-    "title": "Designed in US, made in China: Why Apple is stuck",
-    "domain": "general",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 22:56:24 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "China sits at the heart of Apple's supply chain - and has benefited hugely from it. Can they break up?"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f86a/live/3d6b7190-16a2-11f0-b2d2-fdaed6fdfe2b.jpg",
-    "titles": [
-      "Designed in US, made in China: Why Apple is stuck"
-    ],
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
-    "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.763,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.8
-    },
-    "score": 0.487,
-    "normalized_score": 9.87,
-    "summary": "Apple's supply chain is deeply integrated with China, which has significantly profited from this relationship. The current status or potential for a breakup between Apple and China's supply chain has not been explicitly stated, indicating that the situation remains as is for now."
-  },
-  {
-    "title": "Five dead as huge waves hit Australia coast",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 12:06:31 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Two other people are missing, as officials urge people to take caution as a surf warnings remain."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/7107f130-1d15-11f0-b65d-6de323dddc50.jpg",
-    "titles": [
-      "Five dead as huge waves hit Australia coast"
-    ],
-    "score_components": {
-      "magnitude": 0.3,
-      "recency": 0.946,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.477,
-    "normalized_score": 9.43,
-    "summary": "Two individuals are currently missing, prompting authorities to issue warnings for people to exercise caution due to ongoing surf warnings."
-  },
-  {
-    "title": "Is the US dollar at risk of a ‘confidence crisis’?",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 10:10:11 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Fears about unpredictable policy are prompting investors to question their faith in the US dollar."
-    ],
-    "image_url": "",
-    "titles": [
-      "Is the US dollar at risk of a ‘confidence crisis’?"
-    ],
-    "score_components": {
-      "magnitude": 0.3,
-      "recency": 0.919,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.47,
-    "normalized_score": 9.12,
-    "summary": "Concerns over inconsistent policy decisions have led investors to reconsider their confidence in the US dollar, indicating a potential shift in the currency's perceived stability and reliability."
-  },
-  {
-    "title": "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 14:03:46 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Russia says it expects Ukraine to do the same over the Easter period."
-    ],
-    "image_url": "",
-    "titles": [
-      "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict"
-    ],
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.973,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.465,
-    "normalized_score": 8.9,
-    "summary": "Russia has announced its expectation for Ukraine to observe a ceasefire during the Easter period. This statement implies a desire for a temporary halt in hostilities to coincide with the religious holiday, although the current status of compliance from either side is not detailed in the available information."
-  },
-  {
-    "title": "New colour seen for the first time by tricking the eyes",
-    "domain": "science",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 20:00:33 +0100",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "A device has enabled people to see a new a shade of blue-green, which they say is more intense than any experienced before"
-    ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/04/17153716/SEI_247864690.jpg",
-    "titles": [
-      "New colour seen for the first time by tricking the eyes"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.708,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.387,
-    "normalized_score": 5.46,
-    "summary": "A newly developed device allows users to perceive a unique shade of blue-green, described as more intense than any previously seen. This innovation marks a significant advancement in color perception technology."
-  },
-  {
-    "title": "Claims of alien life are overhyped – and miss the real accomplishment",
-    "domain": "science",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 18:14:03 +0100",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Whenever there’s even a slight chance that an exoplanet shows signs of biological activity, people understandably get excited – but it’s never been aliens, and we shouldn’t jump to conclusions, not this time or the next, says Chris Lintott"
-    ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/04/18165312/SEI_247864467.jpg",
-    "titles": [
-      "Claims of alien life are overhyped – and miss the real accomplishment"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.684,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.387,
-    "normalized_score": 5.46,
-    "summary": "Chris Lintott cautions against jumping to conclusions about alien life on exoplanets, even when they show signs of biological activity. He emphasizes that, historically, such signs have never been attributed to aliens, urging for a more measured approach in future discoveries."
-  },
-  {
-    "title": "Scientists probe the mystery of Titan's missing deltas",
-    "domain": "science",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 13:37:25 EDT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "New research finds that despite large rivers and seas of liquid methane, Saturn's moon Titan seems mostly devoid of river deltas, raising new questions about the surface dynamics on this alien world."
-    ],
-    "image_url": "",
-    "titles": [
-      "Scientists probe the mystery of Titan's missing deltas"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.633,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.368,
-    "normalized_score": 4.63,
-    "summary": "New research indicates that Titan, Saturn's moon, despite having extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the moon's surface processes and how they differ from Earth's, challenging previous understandings of Titan's geography."
-  },
-  {
-    "title": "Breaking down NFL.com's new 7-round mock draft for the Texans",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 15:36:07 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "In Chad Reuter's newest mock draft from NFL.com, the Texans shore up both sides of the line and bring in a pair of weapons to upgrade the pass game."
-    ],
-    "image_url": "",
-    "titles": [
-      "Breaking down NFL.com's new 7-round mock draft for the Texans"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.994,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.379,
-    "normalized_score": 5.11,
-    "summary": "In Chad Reuter's latest NFL mock draft on NFL.com, the Houston Texans focus on strengthening their team by selecting players to enhance both their offensive and defensive lines. Additionally, they aim to improve their passing game by acquiring two new weapons, indicating a strategic move to bolster their overall performance."
-  },
-  {
-    "title": "WWE WrestleMania 41 start time, date: Where to watch and live stream the massive event this weekend",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 14:00:52 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The annual spectacle is sure to deliver another amazing show in Las Vegas on Saturday and Sunday"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/04/16/1f4f766a-e17b-4318-a767-62e881791b5e/john-cena-lights.jpg",
-    "titles": [
-      "WWE WrestleMania 41 start time, date: Where to watch and live stream the massive event this weekend"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.972,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.373,
-    "normalized_score": 4.85,
-    "summary": "The annual event in Las Vegas, scheduled for Saturday and Sunday, is expected to provide an impressive spectacle once again."
-  },
-  {
-    "title": "Crew expect record crowd for Messi in Cleveland",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 11:34:19 EST",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Columbus Crew is expecting a record crowd when it hosts Lionel Messi and Inter Miami, after moving the game to Cleveland."
-    ],
-    "image_url": "",
-    "titles": [
-      "Crew expect record crowd for Messi in Cleveland"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.938,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.365,
-    "normalized_score": 4.49,
-    "summary": "The Columbus Crew is set to host Lionel Messi and Inter Miami in Cleveland, anticipating a record attendance for the match. This decision to move the game indicates high expectations for crowd turnout due to Messi's involvement."
-  },
-  {
-    "title": "Jaire Alexander trade rumors: Jordan Love says Packers star corner is 'a guy we need to have around'",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 15:47:09 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Alexander was limited to seven games last season"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2024/09/22/69bb8aba-b7a1-4220-97a7-61e86322ca1e/getty-jaire-alexander-packers-week-2.jpg",
-    "titles": [
-      "Jaire Alexander trade rumors: Jordan Love says Packers star corner is 'a guy we need to have around'"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.997,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.355,
-    "normalized_score": 4.05,
-    "summary": "Alexander, a professional athlete, was restricted to participating in only seven games during the last season. This limitation in appearances could be due to injury, performance, or other factors not specified in the provided content."
-  },
-  {
-    "title": "Cowboys proved $115 million undersold value of departed star still awaiting replacement",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 15:49:46 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Tyron Smith left the Dallas Cowboys a year ago but his absence is painfully felt at LT as the demands and expectations of the position change."
-    ],
-    "image_url": "",
-    "titles": [
-      "Cowboys proved $115 million undersold value of departed star still awaiting replacement"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.997,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.355,
-    "normalized_score": 4.05,
-    "summary": "Tyron Smith's departure from the Dallas Cowboys a year ago has significantly impacted the team, particularly at the left tackle (LT) position. The evolving demands and expectations of the LT role have made his absence more pronounced, highlighting the challenges the Cowboys face in filling the gap he left."
+    "summary": "Recent research has revealed that Titan, Saturn's moon, despite possessing vast rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the surface processes at play on Titan, challenging previous understandings of its geological and hydrological dynamics."
   }
 ]
