@@ -1,63 +1,5 @@
 [
   {
-    "title": "The forgotten Indian explorer who uncovered an ancient civilisation",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 01:36:17 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Rakhaldas Banerjee is credited with discovering Mohenjo-daro, but his legacy is tainted by controversy."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f3/live/c341b6b0-1c3a-11f0-857e-c31f6e495ac8.jpg",
-    "titles": [
-      "The forgotten Indian explorer who uncovered an ancient civilisation"
-    ],
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.782,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.8
-    },
-    "score": 0.485,
-    "normalized_score": 10.0,
-    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering Mohenjo-daro, a major site of the ancient Indus Valley Civilization. However, his legacy is marred by controversy, though the summary does not specify the nature of these controversies."
-  },
-  {
-    "title": "Designed in US, made in China: Why Apple is stuck",
-    "domain": "general",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 22:56:24 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "China sits at the heart of Apple's supply chain - and has benefited hugely from it. Can they break up?"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f86a/live/3d6b7190-16a2-11f0-b2d2-fdaed6fdfe2b.jpg",
-    "titles": [
-      "Designed in US, made in China: Why Apple is stuck"
-    ],
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
-    "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.745,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.8
-    },
-    "score": 0.482,
-    "normalized_score": 9.87,
-    "summary": "Apple's supply chain is deeply integrated with China, which has seen significant benefits from this relationship. The question of whether Apple can sever these ties is complex, involving economic, logistical, and political factors. However, the current status or decisions regarding any potential separation between Apple and its Chinese supply chain partners were not provided in the information given."
-  },
-  {
     "title": "Will Trump abandon Ukraine peace efforts?",
     "domain": "general",
     "location": "global",
@@ -73,16 +15,47 @@
     "titles": [
       "Will Trump abandon Ukraine peace efforts?"
     ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.26,
-      "recency": 0.991,
+      "recency": 0.986,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.476,
-    "normalized_score": 9.6,
-    "summary": "The US president has issued a warning that he will consider taking alternative actions if there is no advancement in the situation between Russia and Ukraine. This statement indicates a potential shift in the US's approach if progress is not observed in resolving the conflict."
+    "score": 0.475,
+    "normalized_score": 10.0,
+    "summary": "The US president has issued a warning that he will consider taking alternative actions if there is no observable progress in the situation between Russia and Ukraine. This statement implies a potential shift in the US's approach or involvement if the current stalemate continues."
+  },
+  {
+    "title": "Putin calls an Easter ceasefire as Russia and Ukraine swap hundreds of POWs",
+    "domain": "general",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 10:24:36 -0400",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The Russian president announced a temporary ceasefire, citing humanitarian reasons, as Russia and Ukraine swapped hundreds of captured soldiers."
+    ],
+    "image_url": "",
+    "titles": [
+      "Putin calls an Easter ceasefire as Russia and Ukraine swap hundreds of POWs"
+    ],
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "The story reports on a significant development in the Russia-Ukraine conflict, highlighting a solution-oriented approach with the ceasefire and prisoner swap. It provides insights into the dynamics of peace negotiations.",
+    "score_components": {
+      "magnitude": 0.24,
+      "recency": 0.955,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.9
+    },
+    "score": 0.471,
+    "normalized_score": 9.82,
+    "summary": "The Russian president declared a temporary ceasefire for humanitarian reasons, coinciding with a prisoner exchange where Russia and Ukraine swapped hundreds of captured soldiers. This development marks a notable pause in hostilities between the two nations."
   },
   {
     "title": "Five dead as huge waves hit Australia coast",
@@ -100,16 +73,18 @@
     "titles": [
       "Five dead as huge waves hit Australia coast"
     ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.928,
+      "recency": 0.923,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.472,
-    "normalized_score": 9.42,
-    "summary": "Two individuals are currently missing, prompting officials to issue warnings for people to exercise caution due to ongoing surf warnings."
+    "score": 0.471,
+    "normalized_score": 9.82,
+    "summary": "Officials have issued surf warnings and are urging caution after two individuals were reported missing. The current status is that search efforts are ongoing to locate the missing persons amidst hazardous surf conditions."
   },
   {
     "title": "Putin declares 'Easter truce', as Ukraine says he 'cannot be trusted'",
@@ -127,43 +102,76 @@
     "titles": [
       "Putin declares 'Easter truce', as Ukraine says he 'cannot be trusted'"
     ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.997,
+      "recency": 0.993,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.471,
-    "normalized_score": 9.38,
-    "summary": "The Russian president has announced a directive for his military forces to cease all operations until the end of Sunday. This pause in military activity is effective immediately, according to his statement."
+    "score": 0.47,
+    "normalized_score": 9.77,
+    "summary": "The Russian president announced a directive for his forces to cease all military operations until the end of Sunday. This pause in action represents a temporary halt to ongoing activities, as stated by the president. The current status is a temporary cessation of military operations as ordered."
   },
   {
-    "title": "Breaking down each Raiders pick in Chad Reuter’s 7-round NFL Mock Draft",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 16:40:10 +0000",
+    "title": "Is the US dollar at risk of a ‘confidence crisis’?",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 10:10:11 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "A breakdown of every Raiders draft pick from Chad Reuter's 7-round mock draft"
+      "Fears about unpredictable policy are prompting investors to question their faith in the US dollar."
     ],
     "image_url": "",
     "titles": [
-      "Breaking down each Raiders pick in Chad Reuter’s 7-round NFL Mock Draft"
+      "Is the US dollar at risk of a ‘confidence crisis’?"
     ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.991,
+      "magnitude": 0.3,
+      "recency": 0.896,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.464,
+    "normalized_score": 9.49,
+    "summary": "Concerns over unpredictable policy decisions have led investors to reconsider their confidence in the US dollar. This shift in sentiment is impacting the currency's stability and attractiveness as an investment."
+  },
+  {
+    "title": "Breaking down the Steelers picks in new 7-round mock draft",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 17:22:20 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Steelers go QB in first round of new mock draft"
+    ],
+    "image_url": "",
+    "titles": [
+      "Breaking down the Steelers picks in new 7-round mock draft"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.996,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.384,
-    "normalized_score": 5.53,
-    "summary": "Chad Reuter's 7-round mock draft provides a detailed breakdown of every draft pick projected for the Raiders. This comprehensive analysis covers potential selections for the team across all rounds, offering insights into the strategic choices the Raiders might make to enhance their roster."
+    "score": 0.379,
+    "normalized_score": 5.58,
+    "summary": "The Pittsburgh Steelers have selected a quarterback in the first round of a new mock draft, indicating a potential focus on strengthening their quarterback position for the upcoming season. This decision reflects the team's strategy to enhance their offensive lineup."
   },
   {
     "title": "Crew expect record crowd for Messi in Cleveland",
@@ -181,33 +189,37 @@
     "titles": [
       "Crew expect record crowd for Messi in Cleveland"
     ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.93,
+      "recency": 0.926,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.363,
-    "normalized_score": 4.6,
-    "summary": "The Columbus Crew is set to host Lionel Messi and Inter Miami in a match that has been moved to Cleveland, anticipating a record-breaking attendance. This decision reflects the high interest generated by Messi's participation."
+    "score": 0.362,
+    "normalized_score": 4.79,
+    "summary": "Columbus Crew has relocated their upcoming match against Inter Miami, featuring Lionel Messi, to Cleveland, anticipating a record attendance. This decision underscores the high interest generated by Messi's participation."
   },
   {
-    "title": "Utah gymnastics believes it can win the national title, but if it doesn’t the Red Rocks will remain elite",
+    "title": "Manny Wilkins injury update: Battlehawks QB carted off in air cast after leg injury",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 16:58:34 +0000",
+    "published": "Sat, 19 Apr 2025 17:17:58 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The Red Rocks have a real chance to end their 30-plus year national title drought."
+      "The St. Louis Battlehawks lost their starting quarterback Manny Wilkins early in their key Week 4 game against the Arlington Renegades."
     ],
     "image_url": "",
     "titles": [
-      "Utah gymnastics believes it can win the national title, but if it doesn’t the Red Rocks will remain elite"
+      "Manny Wilkins injury update: Battlehawks QB carted off in air cast after leg injury"
     ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.12,
       "recency": 0.995,
@@ -216,52 +228,27 @@
       "constructiveness": 0.0
     },
     "score": 0.355,
-    "normalized_score": 4.25,
-    "summary": "The Red Rocks, after more than 30 years, have a significant opportunity to win a national title, indicating a pivotal moment in their sports history. This suggests their performance and capabilities have positioned them as strong contenders in their field."
+    "normalized_score": 4.47,
+    "summary": "The St. Louis Battlehawks' starting quarterback, Manny Wilkins, was sidelined early during their crucial Week 4 matchup with the Arlington Renegades. The impact of his absence on the game's outcome was not specified."
   },
   {
-    "title": "Zverev into Munich final against Shelton",
+    "title": "As UConn awaits decision, Alex Karaban gives update on his coming or going during kids camp",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 16:58:21 +0000",
+    "published": "Sat, 19 Apr 2025 17:06:00 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Alexander Zverev is one victory away from his first title of the year after he beat Fabian Marsozan 7-6 (7-3), 6-3 in the semi-finals of the BMW Open on Saturday. Top seed Zverev won in front of a German home crowd in 1 hour 32 minutes on the Munich centre court. In the final on his 28th birthday Sunday, Zverev faces second-seeded American Ben Shelton, who rallied to beat Fransico Cerundolo 2-6, 7-6 (9-7), 6-4. Zverev missed a maiden grand slam title again when he lost the Australian Open final"
+      "NEWTOWN – When it comes to basketball clinics, Alex Karaban has become a pro. The two-time national champion UConn men’s basketball player appeared right at home when he walked into the gym at Newtown’s NYA Sports and Fitness Complex on Saturday morning. His grand entrance was met with a smattering of applause from the 191 boys and girls divided up by age group, 6-16, all wearing their No. 11 ..."
     ],
     "image_url": "",
     "titles": [
-      "Zverev into Munich final against Shelton"
+      "As UConn awaits decision, Alex Karaban gives update on his coming or going during kids camp"
     ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.995,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.355,
-    "normalized_score": 4.25,
-    "summary": "Alexander Zverev advanced to the final of the BMW Open by defeating Fabian Marsozan 7-6 (7-3), 6-3 in the semi-finals. The match, which took place in Munich, lasted 1 hour and 32 minutes. Zverev, the top seed, will compete for his first title of the year against second-seeded American Ben Shelton on his 28th birthday. Shelton secured his spot in the final after overcoming Francisco Cerundolo in a three-set match. This development comes after Zverev's recent loss in the Australian Open final."
-  },
-  {
-    "title": "Analyst Claims New Arrival Could End One Defender’s Anfield Journey",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 16:50:00 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Is This the End for Quansah at Liverpool? What Huijsen’s Arrival Could MeanWhen Liverpool fans think about the future of their defence, Jarell Quansah often features as a symbol of promise. But acco..."
-    ],
-    "image_url": "",
-    "titles": [
-      "Analyst Claims New Arrival Could End One Defender’s Anfield Journey"
-    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.12,
       "recency": 0.993,
@@ -270,8 +257,37 @@
       "constructiveness": 0.0
     },
     "score": 0.354,
-    "normalized_score": 4.2,
-    "summary": "Liverpool FC's defensive future, often associated with prospect Jarell Quansah, faces speculation due to the arrival of defender Huijsen. While no official statements have been made regarding Quansah's position, Huijsen's inclusion could impact Quansah's role at Liverpool. The situation remains uncertain as the club has not commented on any potential changes to Quansah's status following Huijsen's signing."
+    "normalized_score": 4.42,
+    "summary": "Alex Karaban, a two-time national champion with the UConn men's basketball team, led a basketball clinic at Newtown's NYA Sports and Fitness Complex. His arrival was warmly received by 191 children, ages 6-16, each wearing his No. 11 jersey. The event highlighted Karaban's growing proficiency in conducting basketball clinics and his positive reception in the community."
+  },
+  {
+    "title": "Arsenal 18yo on trial with Real Sociedad as contract uncertainty looms",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 17:01:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Zac Shuaib, an 18-year-old midfielder in Arsenal’s academy, is currently on trial with Real Sociedad’s U-18 team at the MIC Football tournament in Girona.The trial comes at a significant moment in..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Arsenal 18yo on trial with Real Sociedad as contract uncertainty looms"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.991,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.354,
+    "normalized_score": 4.42,
+    "summary": "Zac Shuaib, an 18-year-old midfielder from Arsenal's academy, is on trial with Real Sociedad's U-18 team at the MIC Football tournament in Girona. This opportunity allows Shuaib to showcase his skills on an international platform, potentially influencing his future career trajectory."
   },
   {
     "title": "Putin declares 30-hour Easter ceasefire in Ukraine",
@@ -289,43 +305,18 @@
     "titles": [
       "Putin declares 30-hour Easter ceasefire in Ukraine"
     ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.985,
+      "recency": 0.98,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.468,
-    "normalized_score": 9.25,
-    "summary": "Sirens were activated in Kyiv, signaling an air raid as the city's air defenses engaged incoming missiles. This action occurred minutes after an official announcement warned of the threat. The current status following the defensive response has not been detailed in the provided information."
-  },
-  {
-    "title": "US and Iran agree to another round of talks to end nuclear stand-off",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 15:08:47 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Adversaries will meet in Oman next week after ‘forward-looking’ negotiations in Rome"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4300721e-87e2-4951-9eb2-e80ce45acd8d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "US and Iran agree to another round of talks to end nuclear stand-off"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.97,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.453,
-    "normalized_score": 8.58,
-    "summary": "Next week, adversaries involved in ongoing conflicts will convene in Oman following productive and 'forward-looking' negotiations that took place in Rome. The discussions in Rome have set the stage for the upcoming meetings in Oman, aiming to build on the positive momentum achieved."
+    "score": 0.467,
+    "normalized_score": 9.63,
+    "summary": "Sirens were activated in Kyiv, signaling an air raid as the city's air defenses engaged incoming missiles. This action occurred just minutes after an official announcement was made, indicating a prompt response to the aerial threat. The current status of the missile interception and the source of the attack were not specified in the provided information."
   },
   {
     "title": "US Supreme Court temporarily halts deportations of migrants",
@@ -343,16 +334,47 @@
     "titles": [
       "US Supreme Court temporarily halts deportations of migrants"
     ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.967,
+      "recency": 0.963,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.452,
-    "normalized_score": 8.54,
-    "summary": "The Supreme Court has blocked the Trump administration's effort to use a long-standing but infrequently invoked law. This decision prevents the administration from implementing a policy or action that relied on this specific legal basis, maintaining the status quo prior to the attempt."
+    "score": 0.451,
+    "normalized_score": 8.89,
+    "summary": "The Supreme Court has stopped the Trump administration from using a seldom-invoked law to carry out a specific policy. This decision effectively halts the administration's attempt to apply this old law in its current agenda, marking a significant judicial intervention in the executive branch's plans."
+  },
+  {
+    "title": "US and Iran agree to another round of talks to end nuclear stand-off",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 15:08:47 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Adversaries will meet in Oman next week after ‘forward-looking’ negotiations in Rome"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4300721e-87e2-4951-9eb2-e80ce45acd8d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "US and Iran agree to another round of talks to end nuclear stand-off"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.965,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.451,
+    "normalized_score": 8.89,
+    "summary": "Adversaries are scheduled to meet in Oman next week following constructive negotiations in Rome. The discussions in Rome were described as 'forward-looking', indicating progress towards resolving their differences. This upcoming meeting in Oman represents a continuation of these efforts."
   },
   {
     "title": "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings",
@@ -370,16 +392,18 @@
     "titles": [
       "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings"
     ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.912,
+      "recency": 0.908,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.438,
-    "normalized_score": 7.92,
-    "summary": "Alphabet, Google's parent company, is set to report its first-quarter results after market close on Thursday, with analysts generally optimistic about its prospects despite economic uncertainties. A majority of analysts, 14 out of 19 tracked by Visible Alpha, recommend buying the stock, anticipating a 29% upside to their consensus price target of around $195. Citi and Morgan Stanley highlight Google's resilience and potential for growth, particularly through its adoption of AI tools in Search and YouTube. Analysts expect Alphabet to report an 11% increase in revenue to $89.22 billion and a net"
+    "score": 0.437,
+    "normalized_score": 8.25,
+    "summary": "Alphabet, Google's parent company, is set to report its first-quarter financial results soon, with analysts expecting positive outcomes despite economic uncertainties. A majority of analysts maintain a \"buy\" or equivalent rating on Alphabet's stock, citing the resilience of Google Search and potential growth from artificial intelligence innovations. Citi and Morgan Stanley have set price targets of $195 and $185, respectively, suggesting significant upside potential. Additionally, Alphabet may address a recent U.S. District Court ruling on its online advertising practices during its earnings c"
   },
   {
     "title": "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course",
@@ -397,16 +421,18 @@
     "titles": [
       "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course"
     ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.898,
+      "recency": 0.894,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.434,
-    "normalized_score": 7.74,
-    "summary": "Rory McIlroy achieved a career Grand Slam by winning the 2025 Masters Tournament, making him one of only six golfers to win all four major championships. Following his victory, McIlroy's net worth is estimated at about $250 million, with over $100 million earned from the PGA Tour alone, marking him as the second golfer after Tiger Woods to reach this milestone. Besides his success on the course, McIlroy has earned millions through endorsements, business ventures, and partnerships, including co-founding TMRW Sports and investment firm Symphony Ventures. He was the second highest-paid golfer in "
+    "score": 0.433,
+    "normalized_score": 8.06,
+    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. He sank to his knees in tears after defeating Justin Rose in Augusta, Georgia. McIlroy has a net worth of approximately $250 million and surpassed $100 million in PGA Tour career earnings in April 2025, becoming the second golfer after Tiger Woods to reach this milestone. He earned $38 million on the course between 2023 and 2024, making him the second highest-paid golfer globally according to Forbes. Off the course, McIlroy made an estimated $45 million in 2024 from busines"
   },
   {
     "title": "New colour seen for the first time by tricking the eyes",
@@ -428,14 +454,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.69,
+      "recency": 0.686,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
     "score": 0.382,
-    "normalized_score": 5.44,
-    "summary": "A newly developed device has allowed individuals to perceive a unique shade of blue-green, described as significantly more intense than any previously observed. This innovation marks a notable advancement in the exploration of color perception."
+    "normalized_score": 5.71,
+    "summary": "A newly developed device has allowed individuals to perceive a previously unseen shade of blue-green. Described as more intense than any color seen before, this advancement marks a significant achievement in color perception technology."
   },
   {
     "title": "Scientists probe the mystery of Titan's missing deltas",
@@ -453,15 +479,510 @@
     "titles": [
       "Scientists probe the mystery of Titan's missing deltas"
     ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.615,
+      "recency": 0.611,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.364,
-    "normalized_score": 4.65,
-    "summary": "Recent research indicates that Titan, Saturn's moon, surprisingly lacks river deltas despite having extensive rivers and seas of liquid methane. This finding challenges current understanding of Titan's surface dynamics and prompts further investigation into its geological processes."
+    "score": 0.363,
+    "normalized_score": 4.84,
+    "summary": "Recent research indicates that Titan, Saturn's moon, despite possessing extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the moon's unique surface processes, challenging previous understandings of its geology."
+  },
+  {
+    "title": "Putin declares 30-hour Easter ceasefire in Ukraine",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 16:12:56 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Sirens sound in Kyiv as air defences open fire on incoming missiles minutes after announcement"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb9b1b561-f010-4012-b69d-c7851f6ee179.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Putin declares 30-hour Easter ceasefire in Ukraine"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.24,
+      "recency": 0.98,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.467,
+    "normalized_score": 9.63,
+    "summary": "Sirens were activated in Kyiv, signaling an air raid as the city's air defenses engaged incoming missiles. This action occurred just minutes after an official announcement was made, indicating a prompt response to the aerial threat. The current status of the missile interception and the source of the attack were not specified in the provided information."
+  },
+  {
+    "title": "US Supreme Court temporarily halts deportations of migrants",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 14:57:27 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Justices block Trump administration’s attempt to invoke long-standing but rarely-used law"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8429fd66-ad50-4bbc-acdd-457a7a218ea8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "US Supreme Court temporarily halts deportations of migrants"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.963,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.451,
+    "normalized_score": 8.89,
+    "summary": "The Supreme Court has stopped the Trump administration from using a seldom-invoked law to carry out a specific policy. This decision effectively halts the administration's attempt to apply this old law in its current agenda, marking a significant judicial intervention in the executive branch's plans."
+  },
+  {
+    "title": "US and Iran agree to another round of talks to end nuclear stand-off",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 15:08:47 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Adversaries will meet in Oman next week after ‘forward-looking’ negotiations in Rome"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4300721e-87e2-4951-9eb2-e80ce45acd8d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "US and Iran agree to another round of talks to end nuclear stand-off"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.965,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.451,
+    "normalized_score": 8.89,
+    "summary": "Adversaries are scheduled to meet in Oman next week following constructive negotiations in Rome. The discussions in Rome were described as 'forward-looking', indicating progress towards resolving their differences. This upcoming meeting in Oman represents a continuation of these efforts."
+  },
+  {
+    "title": "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 11:00:00 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Justin Sullivan / Getty Images\" src=\"https://www.investopedia.com/thmb/lof3DaCc0gz3K-Y8S-SrLN4XETQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166671480-b15158c79cbd42a6b2ef8c1b7f160b9a.jpg\" title=\"Google logo signage.\" /><figcaption><i><p>Justin Sullivan / Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>Google parent Alphabet plans to report first-quarter results after the market closes Thursday.</li><li>A majority of analysts tracked by Visible Alpha have a \"buy\" or equivalent rating for the stock.</li><li>Citi analysts said they expect Google Search would be “among the last platforms to experience macro impacts and among the first to recover.”</li></ul><br /><br /><p>Google parent Alphabet (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;GOOGL\">GOOGL</a>) is slated to report first-quarter results after the market closes Thursday, with analysts largely bullish on the tech giant's ability to weather <a href=\"https://www.investopedia.com/if-the-economy-avoids-a-recession-it-s-not-out-of-the-woods-could-face-stagflation-11716774\">economic uncertainty</a>.<span class=\"ql-inline-citation\"></span></p><p>Citi analysts said recently they expect Google Search would be “among the last platforms to experience macro impacts and among the first to recover.”<span class=\"ql-inline-citation\"></span> Citi also highlighted its potential for growth from the adoption of artificial intelligence tools like Google’s AI Mode in Search, as well as the latest iteration of the company’s Gemini large language model. </p><p>Morgan Stanley also cited “AI-driven platform-level innovation” on Search and YouTube as a reason for “confidence in the durability of long term growth.”<span class=\"ql-inline-citation\"></span> Citi and Morgan Stanley gave Alphabet price targets of $195 and $185, respectively. </p><p>Of the 19 analysts covering Alphabet tracked by Visible Alpha, 14 have “buy” or equivalent ratings for the stock, with the rest issuing “hold” ratings. Their consensus price target near $195 would suggest roughly 29% upside from Thursday's closing price at about $151.</p><p>During the company's earnings call, Alphabet could face questions from analysts about a <a href=\"https://www.investopedia.com/google-has-established-illegal-digital-ad-monopolies-us-judge-rules-11717225\">U.S. District Court ruling</a> that Google has illegally maintained monopolies in the online advertising industry. Citi analysts said they “wouldn’t be surprised to see Google ultimately spin off its ad network,” as a result of the ruling, but that Google’s core businesses would likely not be as impacted.<span class=\"ql-inline-citation\"></span></p><p>Alphabet is expected to report fiscal first-quarter revenue of $89.22 billion, up 11% year-over-year, and net income of $24.71 billion, or $2.01 per share, up from $23.66 billion, or $1.89 per share, a year ago.</p><p>Shares of Alphabet have lost a fifth of their value so far in 2025 through Thursday's close. The U.S. stock market was <a href=\"https://www.investopedia.com/is-the-stock-market-open-on-friday-good-friday-easter-holiday-11716325\">closed Friday</a> in observation of Good Friday.<br /></p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/lof3DaCc0gz3K-Y8S-SrLN4XETQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2166671480-b15158c79cbd42a6b2ef8c1b7f160b9a.jpg",
+    "titles": [
+      "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.908,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.437,
+    "normalized_score": 8.25,
+    "summary": "Alphabet, Google's parent company, is set to report its first-quarter financial results soon, with analysts expecting positive outcomes despite economic uncertainties. A majority of analysts maintain a \"buy\" or equivalent rating on Alphabet's stock, citing the resilience of Google Search and potential growth from artificial intelligence innovations. Citi and Morgan Stanley have set price targets of $195 and $185, respectively, suggesting significant upside potential. Additionally, Alphabet may address a recent U.S. District Court ruling on its online advertising practices during its earnings c"
+  },
+  {
+    "title": "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 10:00:00 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "<figure><img alt=\" Erick W. Rasco/Sports Illustrated via Getty Images\" src=\"https://www.investopedia.com/thmb/g9Mspvj_qItK6X7R9am_7sltQK8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2209826808-06f398e68ee74009b3bf5220af046f1e.jpg\" title=\"Golf: The Masters: Rory McIlroy victorious during green jacket ceremony after winning sudden death playoff round to win the tournament on Sunday at Augusta National. \" /><figcaption><i><p> Erick W. Rasco/Sports Illustrated via Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>Champion pro golfer Rory McIlroy has made millions on and off the course.</li><li>McIlroy has a net worth of about $250 million, according to an estimate by <em>Celebrity Net Worth.</em></li><li>In April 2025, McIlroy surpassed $100 million in career earnings on the PGA Tour, becoming the second golfer after Tiger Woods to do so.</li></ul><br /><br /><p>Champion golfer Rory McIlroy has done what just five other professional golfers have been able to do—win a career Grand Slam.</p><p>McIlroy sank to his knees in tears following his victory over Justin Rose at the 2025 Masters Tournament in Augusta, Georgia, this month. The Masters title completed his career Grand Slam—in golf, this means McIlroy has won all four major championships at least once during his career: the U.S. Open, the Open Championship, the PGA Championship, and now The Masters.<span class=\"ql-inline-citation\"></span> Gene Sarazen, Ben Hogan, Gary Player, Jack Nicklaus, and Tiger Woods are the only other golfers to win the modern career Grand Slam.<span class=\"ql-inline-citation\"></span></p><p>In his nearly two decades as a pro golfer, McIlroy has made a fortune on and off the course, with millions in career earnings, endorsements, and entrepreneurial ventures. McIlroy has a net worth of about $250 million, according to an estimate by <em>Celebrity Net Worth.<span class=\"ql-inline-citation\"></span> </em></p><p>Here's how McIlroy made his millions.<br /></p><h2>McIlroy's Career Earnings</h2><p>Not only is McIlroy widely considered one of the best professional golfers, but he is also among the wealthiest. In April 2025, he surpassed $100 million in career earnings on the PGA Tour, becoming the second golfer after <a href=\"https://www.investopedia.com/tiger-woods-net-worth-8536106\">Tiger Woods to do so</a>.<span class=\"ql-inline-citation\"></span></p><p>McIlroy was the second highest-paid golfer in the world in 2024, earning $38 million on the course between 2023 and 2024, according to <em>Forbes.</em><span class=\"ql-inline-citation\"></span></p><p>With 29 PGA Tour wins in his nearly two decades as a pro golfer, McIlroy is in the top 20 for all-time wins in the PGA.<span class=\"ql-inline-citation\"></span></p><h2>McIlroy's Partnerships and Businesses</h2><p>When he's not golfing, McIlroy also makes millions from business ventures and partnerships. The champion golfer made an estimated $45 million off the course in 2024, according to <em>Forbes.</em><span class=\"ql-inline-citation\"></span></p><p>Many of McIlroy's ventures off the course involve golf, too. He co-founded TMRW Sports, a sports media and entertainment company, with Tiger Woods and NBC Sports executive Mike McCarley. Among the company's ventures is TGL, a partly virtual golf league featuring top players from the PGA Tour. The league has two-hour weekly matches that air on ESPN and ESPN&#43;.<span class=\"ql-inline-citation\"></span></p><p>McIlroy also founded an investment firm, Symphony Ventures, which has investments in companies including ticket marketplace TickPick, golf subscription GolfPass, virtual reality game Golf&#43;, sports recovery company Hyperice, fitness tracker Whoop, and upscale mini golf chain, Puttery.<span class=\"ql-inline-citation\"></span><span class=\"ql-inline-citation\"></span></p><p>McIlroy's partnerships include major brands such as Nike, Optum, Workday, TaylorMade, and Omega.<span class=\"ql-inline-citation\"></span></p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/g9Mspvj_qItK6X7R9am_7sltQK8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2209826808-06f398e68ee74009b3bf5220af046f1e.jpg",
+    "titles": [
+      "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.894,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.433,
+    "normalized_score": 8.06,
+    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. He sank to his knees in tears after defeating Justin Rose in Augusta, Georgia. McIlroy has a net worth of approximately $250 million and surpassed $100 million in PGA Tour career earnings in April 2025, becoming the second golfer after Tiger Woods to reach this milestone. He earned $38 million on the course between 2023 and 2024, making him the second highest-paid golfer globally according to Forbes. Off the course, McIlroy made an estimated $45 million in 2024 from busines"
+  },
+  {
+    "title": "Will Trump abandon Ukraine peace efforts?",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 16:38:48 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The US president has threatened to &#039;move on&#039; if he sees no progress from Russia and Ukraine."
+    ],
+    "image_url": "",
+    "titles": [
+      "Will Trump abandon Ukraine peace efforts?"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.26,
+      "recency": 0.986,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.475,
+    "normalized_score": 10.0,
+    "summary": "The US president has issued a warning that he will consider taking alternative actions if there is no observable progress in the situation between Russia and Ukraine. This statement implies a potential shift in the US's approach or involvement if the current stalemate continues."
+  },
+  {
+    "title": "Putin calls an Easter ceasefire as Russia and Ukraine swap hundreds of POWs",
+    "domain": "general",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 10:24:36 -0400",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The Russian president announced a temporary ceasefire, citing humanitarian reasons, as Russia and Ukraine swapped hundreds of captured soldiers."
+    ],
+    "image_url": "",
+    "titles": [
+      "Putin calls an Easter ceasefire as Russia and Ukraine swap hundreds of POWs"
+    ],
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "The story reports on a significant development in the Russia-Ukraine conflict, highlighting a solution-oriented approach with the ceasefire and prisoner swap. It provides insights into the dynamics of peace negotiations.",
+    "score_components": {
+      "magnitude": 0.24,
+      "recency": 0.955,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.9
+    },
+    "score": 0.471,
+    "normalized_score": 9.82,
+    "summary": "The Russian president declared a temporary ceasefire for humanitarian reasons, coinciding with a prisoner exchange where Russia and Ukraine swapped hundreds of captured soldiers. This development marks a notable pause in hostilities between the two nations."
+  },
+  {
+    "title": "Five dead as huge waves hit Australia coast",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 12:06:31 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Two other people are missing, as officials urge people to take caution as a surf warnings remain."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/7107f130-1d15-11f0-b65d-6de323dddc50.jpg",
+    "titles": [
+      "Five dead as huge waves hit Australia coast"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.3,
+      "recency": 0.923,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.471,
+    "normalized_score": 9.82,
+    "summary": "Officials have issued surf warnings and are urging caution after two individuals were reported missing. The current status is that search efforts are ongoing to locate the missing persons amidst hazardous surf conditions."
+  },
+  {
+    "title": "Putin declares 'Easter truce', as Ukraine says he 'cannot be trusted'",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 17:07:39 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The Russian president says he ordered his forces to \"stop all military activity\" until the end of Sunday."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5767/live/db076e40-1d28-11f0-b700-f1f963c8c095.jpg",
+    "titles": [
+      "Putin declares 'Easter truce', as Ukraine says he 'cannot be trusted'"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.24,
+      "recency": 0.993,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.47,
+    "normalized_score": 9.77,
+    "summary": "The Russian president announced a directive for his forces to cease all military operations until the end of Sunday. This pause in action represents a temporary halt to ongoing activities, as stated by the president. The current status is a temporary cessation of military operations as ordered."
+  },
+  {
+    "title": "Is the US dollar at risk of a ‘confidence crisis’?",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 10:10:11 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Fears about unpredictable policy are prompting investors to question their faith in the US dollar."
+    ],
+    "image_url": "",
+    "titles": [
+      "Is the US dollar at risk of a ‘confidence crisis’?"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.3,
+      "recency": 0.896,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.464,
+    "normalized_score": 9.49,
+    "summary": "Concerns over unpredictable policy decisions have led investors to reconsider their confidence in the US dollar. This shift in sentiment is impacting the currency's stability and attractiveness as an investment."
+  },
+  {
+    "title": "New colour seen for the first time by tricking the eyes",
+    "domain": "science",
+    "location": "global",
+    "published": "Fri, 18 Apr 2025 20:00:33 +0100",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "A device has enabled people to see a new a shade of blue-green, which they say is more intense than any experienced before"
+    ],
+    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/04/17153716/SEI_247864690.jpg",
+    "titles": [
+      "New colour seen for the first time by tricking the eyes"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.686,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.382,
+    "normalized_score": 5.71,
+    "summary": "A newly developed device has allowed individuals to perceive a previously unseen shade of blue-green. Described as more intense than any color seen before, this advancement marks a significant achievement in color perception technology."
+  },
+  {
+    "title": "Scientists probe the mystery of Titan's missing deltas",
+    "domain": "science",
+    "location": "global",
+    "published": "Fri, 18 Apr 2025 13:37:25 EDT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "New research finds that despite large rivers and seas of liquid methane, Saturn's moon Titan seems mostly devoid of river deltas, raising new questions about the surface dynamics on this alien world."
+    ],
+    "image_url": "",
+    "titles": [
+      "Scientists probe the mystery of Titan's missing deltas"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.611,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.363,
+    "normalized_score": 4.84,
+    "summary": "Recent research indicates that Titan, Saturn's moon, despite possessing extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the moon's unique surface processes, challenging previous understandings of its geology."
+  },
+  {
+    "title": "Breaking down the Steelers picks in new 7-round mock draft",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 17:22:20 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Steelers go QB in first round of new mock draft"
+    ],
+    "image_url": "",
+    "titles": [
+      "Breaking down the Steelers picks in new 7-round mock draft"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.996,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.379,
+    "normalized_score": 5.58,
+    "summary": "The Pittsburgh Steelers have selected a quarterback in the first round of a new mock draft, indicating a potential focus on strengthening their quarterback position for the upcoming season. This decision reflects the team's strategy to enhance their offensive lineup."
+  },
+  {
+    "title": "Crew expect record crowd for Messi in Cleveland",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 12:16:52 EST",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Columbus Crew is expecting a record crowd when it hosts Lionel Messi and Inter Miami, after moving the game to Cleveland."
+    ],
+    "image_url": "",
+    "titles": [
+      "Crew expect record crowd for Messi in Cleveland"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.926,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.362,
+    "normalized_score": 4.79,
+    "summary": "Columbus Crew has relocated their upcoming match against Inter Miami, featuring Lionel Messi, to Cleveland, anticipating a record attendance. This decision underscores the high interest generated by Messi's participation."
+  },
+  {
+    "title": "Manny Wilkins injury update: Battlehawks QB carted off in air cast after leg injury",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 17:17:58 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The St. Louis Battlehawks lost their starting quarterback Manny Wilkins early in their key Week 4 game against the Arlington Renegades."
+    ],
+    "image_url": "",
+    "titles": [
+      "Manny Wilkins injury update: Battlehawks QB carted off in air cast after leg injury"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.995,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.355,
+    "normalized_score": 4.47,
+    "summary": "The St. Louis Battlehawks' starting quarterback, Manny Wilkins, was sidelined early during their crucial Week 4 matchup with the Arlington Renegades. The impact of his absence on the game's outcome was not specified."
+  },
+  {
+    "title": "As UConn awaits decision, Alex Karaban gives update on his coming or going during kids camp",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 17:06:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "NEWTOWN – When it comes to basketball clinics, Alex Karaban has become a pro. The two-time national champion UConn men’s basketball player appeared right at home when he walked into the gym at Newtown’s NYA Sports and Fitness Complex on Saturday morning. His grand entrance was met with a smattering of applause from the 191 boys and girls divided up by age group, 6-16, all wearing their No. 11 ..."
+    ],
+    "image_url": "",
+    "titles": [
+      "As UConn awaits decision, Alex Karaban gives update on his coming or going during kids camp"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.993,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.354,
+    "normalized_score": 4.42,
+    "summary": "Alex Karaban, a two-time national champion with the UConn men's basketball team, led a basketball clinic at Newtown's NYA Sports and Fitness Complex. His arrival was warmly received by 191 children, ages 6-16, each wearing his No. 11 jersey. The event highlighted Karaban's growing proficiency in conducting basketball clinics and his positive reception in the community."
+  },
+  {
+    "title": "Arsenal 18yo on trial with Real Sociedad as contract uncertainty looms",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 17:01:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Zac Shuaib, an 18-year-old midfielder in Arsenal’s academy, is currently on trial with Real Sociedad’s U-18 team at the MIC Football tournament in Girona.The trial comes at a significant moment in..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Arsenal 18yo on trial with Real Sociedad as contract uncertainty looms"
+    ],
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "",
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.991,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.354,
+    "normalized_score": 4.42,
+    "summary": "Zac Shuaib, an 18-year-old midfielder from Arsenal's academy, is on trial with Real Sociedad's U-18 team at the MIC Football tournament in Girona. This opportunity allows Shuaib to showcase his skills on an international platform, potentially influencing his future career trajectory."
   }
 ]
