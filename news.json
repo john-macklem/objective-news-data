@@ -19,14 +19,14 @@
     "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.826,
+      "recency": 0.808,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.496,
+    "score": 0.492,
     "normalized_score": 10.0,
-    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering the ancient city of Mohenjo-daro, a significant site of the Indus Valley Civilization. Despite his notable contribution to archaeology, Banerjee's legacy faces controversy, though the summary does not specify the nature or reasons for the controversy surrounding his achievements."
+    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering the ancient city of Mohenjo-daro in 1922, a major site of the Indus Valley Civilization. However, his legacy is marked by controversy, including debates over his methods and the credit for the discovery. Despite these controversies, Banerjee's contribution to archaeology remains significant in uncovering part of South Asia's ancient history."
   },
   {
     "title": "Designed in US, made in China: Why Apple is stuck",
@@ -48,14 +48,14 @@
     "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.789,
+      "recency": 0.771,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.493,
+    "score": 0.489,
     "normalized_score": 9.87,
-    "summary": "Apple's supply chain is deeply integrated with China, resulting in significant mutual benefits. The current status or outcome regarding whether Apple and China can sever this relationship has not been explicitly stated, indicating that any potential separation remains uncertain."
+    "summary": "China plays a central role in Apple's supply chain, significantly benefiting from this partnership. The question of whether Apple and China can sever their supply chain ties remains open, highlighting the complexity of their interdependence."
   },
   {
     "title": "Five dead as huge waves hit Australia coast",
@@ -75,14 +75,14 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.972,
+      "recency": 0.954,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.483,
-    "normalized_score": 9.42,
-    "summary": "Two individuals are currently missing following incidents related to severe surf conditions. Authorities have issued surf warnings and are urging the public to exercise caution in affected areas. The status of the search for the missing persons remains ongoing."
+    "score": 0.479,
+    "normalized_score": 9.43,
+    "summary": "Two individuals are currently missing, prompting authorities to issue warnings for people to exercise caution due to ongoing surf advisories."
   },
   {
     "title": "Is the US dollar at risk of a ‘confidence crisis’?",
@@ -102,41 +102,41 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.945,
+      "recency": 0.927,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.476,
+    "score": 0.472,
     "normalized_score": 9.12,
-    "summary": "Concerns over unpredictable policies have led investors to reconsider their confidence in the US dollar. This shift in sentiment is impacting the currency's stability and investor behavior, reflecting growing apprehension about future policy directions and their implications for the US economy."
+    "summary": "Concerns over unpredictable policy decisions are leading investors to reconsider their confidence in the US dollar. This shift in investor sentiment is impacting the currency's stability and value."
   },
   {
-    "title": "Israeli bombardment kills 92 in two days: Gaza government",
+    "title": "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict",
     "domain": "general",
     "location": "global",
-    "published": "Sat, 19 Apr 2025 13:19:18 +0000",
+    "published": "Sat, 19 Apr 2025 14:03:46 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "At least 219 people have been injured in attacks since Good Friday, according to Gaza&#039;s Health Ministry."
+      "Russia says it expects Ukraine to do the same over the Easter period."
     ],
     "image_url": "",
     "titles": [
-      "Israeli bombardment kills 92 in two days: Gaza government"
+      "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict"
     ],
     "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.989,
+      "magnitude": 0.24,
+      "recency": 0.981,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.463,
-    "normalized_score": 8.54,
-    "summary": "Since Good Friday, Gaza's Health Ministry reports that attacks have resulted in at least 219 people being injured."
+    "score": 0.467,
+    "normalized_score": 8.9,
+    "summary": "Russia has announced its expectation for Ukraine to observe a ceasefire during the Easter period. This statement implies a mutual desire for a temporary halt in hostilities coinciding with the religious holiday, although the announcement primarily highlights Russia's anticipation of Ukraine's compliance with the ceasefire."
   },
   {
     "title": "WWE WrestleMania 41 start time, date: Where to watch and live stream the massive event this weekend",
@@ -156,101 +156,20 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.998,
+      "recency": 0.981,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.38,
-    "normalized_score": 4.87,
-    "summary": "The annual event in Las Vegas, scheduled for Saturday and Sunday, is anticipated to offer another impressive spectacle."
-  },
-  {
-    "title": "Cavaliers vs. Heat: Can Miami pull off massive upset? Series keys, schedule and prediction",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 13:37:53 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Here's what to know for the first-round matchup between the Cavaliers and Heat."
-    ],
-    "image_url": "",
-    "titles": [
-      "Cavaliers vs. Heat: Can Miami pull off massive upset? Series keys, schedule and prediction"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.993,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.378,
-    "normalized_score": 4.78,
-    "summary": "The Cavaliers and Heat are set to face off in a first-round basketball matchup. This event marks a significant game in the tournament, bringing two competitive teams head-to-head. The outcome of this matchup will determine which team advances further in the tournament. Keep an eye on this game for a display of skill and strategy from both teams."
-  },
-  {
-    "title": "Inzaghi Plots Massive Squad Rotation In Bologna Vs Inter Milan Serie A Clash – Netherlands, Brazil, Germany & Poland Stars Could Start",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 13:32:00 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Simone Inzaghi is ready to completely overhaul his starting eleven in tomorrow’s Serie A clash between Bologna and Inter Milan.Today’s print edition of Turin-based newspaper Tuttosport, via FCInte..."
-    ],
-    "image_url": "",
-    "titles": [
-      "Inzaghi Plots Massive Squad Rotation In Bologna Vs Inter Milan Serie A Clash – Netherlands, Brazil, Germany & Poland Stars Could Start"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.992,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.378,
-    "normalized_score": 4.78,
-    "summary": "Simone Inzaghi plans a major change to Inter Milan's starting lineup for the upcoming Serie A game against Bologna, as reported by Tuttosport via FCInterNews. This decision indicates a strategic shift for the team ahead of the match."
-  },
-  {
-    "title": "Breaking down Vikings picks in Dane Brugler's 7-round mock draft",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 13:21:09 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The Minnesota Vikings can't find a trade parter and stick and pick in Dane Brugler's latest seven-round NFL Mock Draft."
-    ],
-    "image_url": "",
-    "titles": [
-      "Breaking down Vikings picks in Dane Brugler's 7-round mock draft"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.989,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.377,
-    "normalized_score": 4.73,
-    "summary": "In Dane Brugler's latest seven-round NFL Mock Draft, the Minnesota Vikings were unable to secure a trade partner. Consequently, they have decided to make their selection as originally planned."
+    "score": 0.375,
+    "normalized_score": 4.85,
+    "summary": "The annual event in Las Vegas is scheduled to take place on Saturday and Sunday, promising attendees an impressive spectacle."
   },
   {
     "title": "Crew expect record crowd for Messi in Cleveland",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 07:52:56 EST",
+    "published": "Sat, 19 Apr 2025 10:17:20 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -264,41 +183,151 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.913,
+      "recency": 0.929,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.358,
-    "normalized_score": 3.89,
-    "summary": "The Columbus Crew is set to host Lionel Messi and Inter Miami in a game that has been moved to Cleveland, anticipating a record attendance for the event."
+    "score": 0.362,
+    "normalized_score": 4.27,
+    "summary": "The Columbus Crew is anticipating a record audience for their game against Inter Miami, featuring Lionel Messi. To accommodate the expected large turnout, the match has been relocated to Cleveland."
   },
   {
-    "title": "US and Iran begin second round of talks to end nuclear stand-off",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 11:44:13 GMT",
+    "title": "Nets' Ziaire Williams believes trade from Grizzlies was positive move",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 15:15:37 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Tehran’s foreign minister says Washington has issued contradictory signals about reaching a deal"
+      "Brooklyn Nets forward Ziaire Williams believes that being traded from the Memphis Grizzlies to Brooklyn was a positive move in his career."
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4300721e-87e2-4951-9eb2-e80ce45acd8d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "",
     "titles": [
-      "US and Iran begin second round of talks to end nuclear stand-off"
+      "Nets' Ziaire Williams believes trade from Grizzlies was positive move"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.998,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.356,
+    "normalized_score": 4.01,
+    "summary": "Brooklyn Nets forward Ziaire Williams expressed that his trade from the Memphis Grizzlies to the Brooklyn Nets has positively impacted his career. He believes the move to Brooklyn offers him a beneficial change in his professional basketball journey."
+  },
+  {
+    "title": "Lane Kiffin trolls Miami over Carson Beck's $4 million NIL deal: 'Did they watch his game against us?'",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 15:11:31 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Kiffin couldn't resist prodding at the Canes' big spending in the portal to get the former Georgia QB",
+      "Lane Kiffin trolled former Georgia quarterback Carson Beck on Friday after Beck's reported NIL deal with Miami was mentioned in a podcast appearance:"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/04/19/af3eafb6-a135-4872-bc46-a769bb781ba8/lane-kiffin.jpg",
+    "titles": [
+      "Lane Kiffin trolls Miami over Carson Beck's $4 million NIL deal: 'Did they watch his game against us?'",
+      "Lane Kiffin trolls Carson Beck, Miami: 'Did they watch his game against us?'"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.997,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.355,
+    "normalized_score": 3.96,
+    "summary": "Lane Kiffin, in a podcast appearance, made a jesting remark about the reported Name, Image, and Likeness (NIL) deal that former Georgia quarterback Carson Beck received upon transferring to Miami. Kiffin's comment highlighted the substantial financial investment Miami is making in players through the transfer portal."
+  },
+  {
+    "title": "McLaren dominate final practice for Saudi GP as Hamilton struggles again",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 14:59:29 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "McLaren put down another statement of intent as they dominated final practice for the Saudi Arabian Grand Prix in Jeddah. Lando Norris topped the timesheets with a lap of 1min27.489sec which was 0.024sec faster than his team-mate Oscar Piastri."
+    ],
+    "image_url": "",
+    "titles": [
+      "McLaren dominate final practice for Saudi GP as Hamilton struggles again"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.994,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.355,
+    "normalized_score": 3.96,
+    "summary": "In the final practice for the Saudi Arabian Grand Prix in Jeddah, McLaren showcased their strength with Lando Norris leading the timesheets with a lap time of 1min27.489sec, closely followed by his teammate Oscar Piastri, who was just 0.024sec slower. This performance indicates McLaren's competitive edge ahead of the race."
+  },
+  {
+    "title": "US Supreme Court temporarily halts deportations of migrants",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 14:57:27 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Justices block Trump administration’s attempt to invoke long-standing but rarely-used law"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8429fd66-ad50-4bbc-acdd-457a7a218ea8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "US Supreme Court temporarily halts deportations of migrants"
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.967,
+      "recency": 0.994,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.452,
-    "normalized_score": 8.05,
-    "summary": "Tehran's foreign minister has stated that Washington has sent mixed messages regarding the possibility of reaching a deal. This indicates a lack of clear communication or agreement between the two sides on the terms or progress of negotiations. The current status or outcome of these discussions remains uncertain due to these contradictory signals."
+    "score": 0.459,
+    "normalized_score": 8.55,
+    "summary": "The U.S. Supreme Court has blocked the Trump administration's effort to use a long-standing but infrequently applied law to achieve its goals, preventing the administration from implementing its intended policy under this legal framework."
+  },
+  {
+    "title": "US and Iran agree to another round of talks to end nuclear stand-off",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 15:08:47 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Adversaries will meet in Oman next week after ‘forward-looking’ negotiations in Rome"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4300721e-87e2-4951-9eb2-e80ce45acd8d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "US and Iran agree to another round of talks to end nuclear stand-off"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.996,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.459,
+    "normalized_score": 8.55,
+    "summary": "Next week, adversaries involved in 'forward-looking' negotiations held in Rome will convene in Oman for further discussions. This meeting in Oman follows a series of talks aimed at addressing and resolving ongoing disputes. The exact details of the negotiations or the parties involved were not specified, but the continuation of dialogue in Oman signifies progress in their efforts."
   },
   {
     "title": "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings",
@@ -318,14 +347,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.957,
+      "recency": 0.939,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.449,
-    "normalized_score": 7.92,
-    "summary": "Alphabet, Google's parent company, is set to release its first-quarter financial results after market close on Thursday, with analysts predominantly optimistic about the company's prospects amid economic uncertainties. A significant portion of analysts, 14 out of 19 tracked by Visible Alpha, rate the stock as a \"buy,\" anticipating a potential 29% upside from its current price. Citi and Morgan Stanley analysts highlight Google Search's resilience to macroeconomic impacts and potential growth from AI innovations. Expected revenue is $89.22 billion, an 11% increase from the previous year, with ne"
+    "score": 0.445,
+    "normalized_score": 7.93,
+    "summary": "Alphabet Inc., the parent company of Google, is set to report its first-quarter financial results after the market closes on Thursday. Analysts, including those from Citi and Morgan Stanley, are optimistic about the company's performance, highlighting the potential growth from artificial intelligence tools and platform-level innovation on Google Search and YouTube. A majority of the 19 analysts covering Alphabet recommend buying the stock, with a consensus price target suggesting a 29% upside. Alphabet is expected to post revenue of $89.22 billion and net income of $24.71 billion for the quart"
   },
   {
     "title": "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course",
@@ -345,14 +374,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.943,
+      "recency": 0.925,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.446,
-    "normalized_score": 7.79,
-    "summary": "Rory McIlroy, a champion golfer, achieved a career Grand Slam by winning the 2025 Masters Tournament, a feat only five other golfers have accomplished. He has a net worth estimated at $250 million, with over $100 million in career earnings on the PGA Tour, making him the second golfer after Tiger Woods to surpass this milestone. McIlroy earned $38 million on the course between 2023 and 2024, ranking him as the second highest-paid golfer worldwide. Off the course, he made an estimated $45 million in 2024 through various business ventures and partnerships, including co-founding TMRW Sports and S"
+    "score": 0.441,
+    "normalized_score": 7.75,
+    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. Following this victory, McIlroy has won all four major championships at least once. He has a net worth estimated at $250 million, with over $100 million earned from the PGA Tour alone, making him the second golfer after Tiger Woods to reach this milestone. Off the course, McIlroy has significantly boosted his earnings through endorsements and business ventures, including co-founding TMRW Sports and Symphony Ventures, contributing to his status as one of the wealthiest profe"
   },
   {
     "title": "Will You REALLY Need a REAL ID to Fly on May 7?",
@@ -372,43 +401,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.929,
+      "recency": 0.911,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.442,
-    "normalized_score": 7.61,
-    "summary": "The REAL ID Act, signed into law by President George W. Bush in 2005, is set to be enforced starting May 7, as announced by the Department of Homeland Security (DHS). This enforcement, delayed multiple times over the past two decades, mandates that all U.S. travelers aged 18 and older must have a REAL ID-compliant identification for domestic flights and access to certain federal facilities. REAL ID-compliant IDs are marked with a star, but other forms of identification like valid passports are also acceptable. The DHS advises travelers without a REAL ID to arrive at airports three hours in adv"
-  },
-  {
-    "title": "Trump tariffs bring furrowed brows to Ireland’s Botox town",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 04:00:58 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Westport makes the world’s entire supply of the anti-wrinkle drug — now it fears production could move to the US"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F30add343-9057-48cc-a4ec-79182d89614f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Trump tariffs bring furrowed brows to Ireland’s Botox town"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.86,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.437,
-    "normalized_score": 7.39,
-    "summary": "Westport, the sole global producer of a specific anti-wrinkle drug, is concerned that its production may be relocated to the United States. This shift in manufacturing location could impact the local economy and job market in Westport, which currently benefits from hosting the entire supply chain of this product."
+    "score": 0.438,
+    "normalized_score": 7.62,
+    "summary": "The REAL ID Act, signed into law in 2005, is set to be enforced starting May 7, as announced by the Department of Homeland Security. This enforcement means U.S. travelers aged 18 and over will need a REAL ID-compliant identification, marked with a star, to board domestic flights and access certain federal facilities. Alternatives like valid passports and Enhanced Driver's Licenses are also acceptable. The TSA advises passengers without REAL ID-compliant ID to arrive at airports three hours early due to potential delays. Over 80% of travelers currently present acceptable ID, and efforts continu"
   },
   {
     "title": "New colour seen for the first time by tricking the eyes",
@@ -430,14 +430,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.734,
+      "recency": 0.717,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.393,
-    "normalized_score": 5.44,
-    "summary": "A newly developed device has allowed individuals to perceive a unique shade of blue-green, described as being more intense than any previously seen colors."
+    "score": 0.389,
+    "normalized_score": 5.46,
+    "summary": "A newly developed device has allowed individuals to perceive a unique shade of blue-green, described as being more intense than any previously known color. This innovation marks a significant advancement in color perception technology."
   },
   {
     "title": "Claims of alien life are overhyped – and miss the real accomplishment",
@@ -459,14 +459,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.71,
+      "recency": 0.692,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.393,
-    "normalized_score": 5.44,
-    "summary": "Astronomer Chris Lintott cautions against prematurely concluding that signs of biological activity on exoplanets indicate alien life. He emphasizes that, despite public excitement, past instances have not been linked to extraterrestrial life and urges a more measured approach to such discoveries."
+    "score": 0.389,
+    "normalized_score": 5.46,
+    "summary": "Astronomer Chris Lintott cautions against quickly concluding that signs of biological activity on exoplanets indicate alien life. Despite public excitement over such findings, Lintott emphasizes that past instances have never confirmed extraterrestrial life and advises against making assumptions about future discoveries."
   },
   {
     "title": "Quantum GPS can help planes navigate when regular GPS is jammed",
@@ -488,14 +488,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.693,
+      "recency": 0.675,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.383,
-    "normalized_score": 5.0,
-    "summary": "A quantum sensor, utilizing Earth's magnetic fields, demonstrated superior performance over traditional GPS backups during test flights. This advancement is significant for commercial aviation, offering a reliable alternative navigation method amidst increasing GPS jamming and spoofing attacks, ensuring aircraft can maintain accurate course-keeping."
+    "score": 0.379,
+    "normalized_score": 5.02,
+    "summary": "A quantum sensor, utilizing Earth's magnetic fields, surpassed traditional GPS backups in accuracy during test flights. This advancement offers a potential solution for commercial aircraft navigation, especially given the increasing incidents of GPS jamming and spoofing attacks, ensuring planes can maintain their course."
   },
   {
     "title": "Scientists probe the mystery of Titan's missing deltas",
@@ -515,14 +515,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.66,
+      "recency": 0.642,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.375,
-    "normalized_score": 4.65,
-    "summary": "Recent research has revealed that Titan, Saturn's moon, despite possessing extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the surface processes and geological dynamics of this extraterrestrial environment."
+    "score": 0.371,
+    "normalized_score": 4.67,
+    "summary": "Recent research indicates that Titan, Saturn's moon, despite having extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the moon's unique surface processes, as it challenges previous understandings of Titan's geological dynamics."
   },
   {
     "title": "A wearable smart insole can track how you walk, run and stand",
@@ -544,41 +544,68 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.63,
+      "recency": 0.612,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.368,
-    "normalized_score": 4.34,
-    "summary": "A newly developed smart insole system can monitor walking patterns in real-time, aiming to enhance posture and offer early detection of various conditions, including plantar fasciitis and Parkinson's disease. This technology is designed to assist users in identifying and potentially mitigating health issues related to their walking habits."
+    "score": 0.363,
+    "normalized_score": 4.32,
+    "summary": "A newly developed smart insole system offers real-time monitoring of walking patterns, aiming to enhance posture and provide early detection of various conditions, including plantar fasciitis and Parkinson's disease. This innovative technology seeks to assist users in identifying and addressing potential health issues related to their gait."
   },
   {
-    "title": "US and Iran begin second round of talks to end nuclear stand-off",
+    "title": "US Supreme Court temporarily halts deportations of migrants",
     "domain": "business",
     "location": "global",
-    "published": "Sat, 19 Apr 2025 11:44:13 GMT",
+    "published": "Sat, 19 Apr 2025 14:57:27 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Tehran’s foreign minister says Washington has issued contradictory signals about reaching a deal"
+      "Justices block Trump administration’s attempt to invoke long-standing but rarely-used law"
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4300721e-87e2-4951-9eb2-e80ce45acd8d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8429fd66-ad50-4bbc-acdd-457a7a218ea8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "titles": [
-      "US and Iran begin second round of talks to end nuclear stand-off"
+      "US Supreme Court temporarily halts deportations of migrants"
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.967,
+      "recency": 0.994,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.452,
-    "normalized_score": 8.05,
-    "summary": "Tehran's foreign minister has stated that Washington has sent mixed messages regarding the possibility of reaching a deal. This indicates a lack of clear communication or agreement between the two sides on the terms or progress of negotiations. The current status or outcome of these discussions remains uncertain due to these contradictory signals."
+    "score": 0.459,
+    "normalized_score": 8.55,
+    "summary": "The U.S. Supreme Court has blocked the Trump administration's effort to use a long-standing but infrequently applied law to achieve its goals, preventing the administration from implementing its intended policy under this legal framework."
+  },
+  {
+    "title": "US and Iran agree to another round of talks to end nuclear stand-off",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 15:08:47 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Adversaries will meet in Oman next week after ‘forward-looking’ negotiations in Rome"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4300721e-87e2-4951-9eb2-e80ce45acd8d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "US and Iran agree to another round of talks to end nuclear stand-off"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.996,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.459,
+    "normalized_score": 8.55,
+    "summary": "Next week, adversaries involved in 'forward-looking' negotiations held in Rome will convene in Oman for further discussions. This meeting in Oman follows a series of talks aimed at addressing and resolving ongoing disputes. The exact details of the negotiations or the parties involved were not specified, but the continuation of dialogue in Oman signifies progress in their efforts."
   },
   {
     "title": "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings",
@@ -598,14 +625,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.957,
+      "recency": 0.939,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.449,
-    "normalized_score": 7.92,
-    "summary": "Alphabet, Google's parent company, is set to release its first-quarter financial results after market close on Thursday, with analysts predominantly optimistic about the company's prospects amid economic uncertainties. A significant portion of analysts, 14 out of 19 tracked by Visible Alpha, rate the stock as a \"buy,\" anticipating a potential 29% upside from its current price. Citi and Morgan Stanley analysts highlight Google Search's resilience to macroeconomic impacts and potential growth from AI innovations. Expected revenue is $89.22 billion, an 11% increase from the previous year, with ne"
+    "score": 0.445,
+    "normalized_score": 7.93,
+    "summary": "Alphabet Inc., the parent company of Google, is set to report its first-quarter financial results after the market closes on Thursday. Analysts, including those from Citi and Morgan Stanley, are optimistic about the company's performance, highlighting the potential growth from artificial intelligence tools and platform-level innovation on Google Search and YouTube. A majority of the 19 analysts covering Alphabet recommend buying the stock, with a consensus price target suggesting a 29% upside. Alphabet is expected to post revenue of $89.22 billion and net income of $24.71 billion for the quart"
   },
   {
     "title": "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course",
@@ -625,14 +652,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.943,
+      "recency": 0.925,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.446,
-    "normalized_score": 7.79,
-    "summary": "Rory McIlroy, a champion golfer, achieved a career Grand Slam by winning the 2025 Masters Tournament, a feat only five other golfers have accomplished. He has a net worth estimated at $250 million, with over $100 million in career earnings on the PGA Tour, making him the second golfer after Tiger Woods to surpass this milestone. McIlroy earned $38 million on the course between 2023 and 2024, ranking him as the second highest-paid golfer worldwide. Off the course, he made an estimated $45 million in 2024 through various business ventures and partnerships, including co-founding TMRW Sports and S"
+    "score": 0.441,
+    "normalized_score": 7.75,
+    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. Following this victory, McIlroy has won all four major championships at least once. He has a net worth estimated at $250 million, with over $100 million earned from the PGA Tour alone, making him the second golfer after Tiger Woods to reach this milestone. Off the course, McIlroy has significantly boosted his earnings through endorsements and business ventures, including co-founding TMRW Sports and Symphony Ventures, contributing to his status as one of the wealthiest profe"
   },
   {
     "title": "Will You REALLY Need a REAL ID to Fly on May 7?",
@@ -652,43 +679,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.929,
+      "recency": 0.911,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.442,
-    "normalized_score": 7.61,
-    "summary": "The REAL ID Act, signed into law by President George W. Bush in 2005, is set to be enforced starting May 7, as announced by the Department of Homeland Security (DHS). This enforcement, delayed multiple times over the past two decades, mandates that all U.S. travelers aged 18 and older must have a REAL ID-compliant identification for domestic flights and access to certain federal facilities. REAL ID-compliant IDs are marked with a star, but other forms of identification like valid passports are also acceptable. The DHS advises travelers without a REAL ID to arrive at airports three hours in adv"
-  },
-  {
-    "title": "Trump tariffs bring furrowed brows to Ireland’s Botox town",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 04:00:58 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Westport makes the world’s entire supply of the anti-wrinkle drug — now it fears production could move to the US"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F30add343-9057-48cc-a4ec-79182d89614f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Trump tariffs bring furrowed brows to Ireland’s Botox town"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.86,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.437,
-    "normalized_score": 7.39,
-    "summary": "Westport, the sole global producer of a specific anti-wrinkle drug, is concerned that its production may be relocated to the United States. This shift in manufacturing location could impact the local economy and job market in Westport, which currently benefits from hosting the entire supply chain of this product."
+    "score": 0.438,
+    "normalized_score": 7.62,
+    "summary": "The REAL ID Act, signed into law in 2005, is set to be enforced starting May 7, as announced by the Department of Homeland Security. This enforcement means U.S. travelers aged 18 and over will need a REAL ID-compliant identification, marked with a star, to board domestic flights and access certain federal facilities. Alternatives like valid passports and Enhanced Driver's Licenses are also acceptable. The TSA advises passengers without REAL ID-compliant ID to arrive at airports three hours early due to potential delays. Over 80% of travelers currently present acceptable ID, and efforts continu"
   },
   {
     "title": "The forgotten Indian explorer who uncovered an ancient civilisation",
@@ -710,14 +708,14 @@
     "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.826,
+      "recency": 0.808,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.496,
+    "score": 0.492,
     "normalized_score": 10.0,
-    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering the ancient city of Mohenjo-daro, a significant site of the Indus Valley Civilization. Despite his notable contribution to archaeology, Banerjee's legacy faces controversy, though the summary does not specify the nature or reasons for the controversy surrounding his achievements."
+    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering the ancient city of Mohenjo-daro in 1922, a major site of the Indus Valley Civilization. However, his legacy is marked by controversy, including debates over his methods and the credit for the discovery. Despite these controversies, Banerjee's contribution to archaeology remains significant in uncovering part of South Asia's ancient history."
   },
   {
     "title": "Designed in US, made in China: Why Apple is stuck",
@@ -739,14 +737,14 @@
     "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.789,
+      "recency": 0.771,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.493,
+    "score": 0.489,
     "normalized_score": 9.87,
-    "summary": "Apple's supply chain is deeply integrated with China, resulting in significant mutual benefits. The current status or outcome regarding whether Apple and China can sever this relationship has not been explicitly stated, indicating that any potential separation remains uncertain."
+    "summary": "China plays a central role in Apple's supply chain, significantly benefiting from this partnership. The question of whether Apple and China can sever their supply chain ties remains open, highlighting the complexity of their interdependence."
   },
   {
     "title": "Five dead as huge waves hit Australia coast",
@@ -766,14 +764,14 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.972,
+      "recency": 0.954,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.483,
-    "normalized_score": 9.42,
-    "summary": "Two individuals are currently missing following incidents related to severe surf conditions. Authorities have issued surf warnings and are urging the public to exercise caution in affected areas. The status of the search for the missing persons remains ongoing."
+    "score": 0.479,
+    "normalized_score": 9.43,
+    "summary": "Two individuals are currently missing, prompting authorities to issue warnings for people to exercise caution due to ongoing surf advisories."
   },
   {
     "title": "Is the US dollar at risk of a ‘confidence crisis’?",
@@ -793,41 +791,41 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.945,
+      "recency": 0.927,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.476,
+    "score": 0.472,
     "normalized_score": 9.12,
-    "summary": "Concerns over unpredictable policies have led investors to reconsider their confidence in the US dollar. This shift in sentiment is impacting the currency's stability and investor behavior, reflecting growing apprehension about future policy directions and their implications for the US economy."
+    "summary": "Concerns over unpredictable policy decisions are leading investors to reconsider their confidence in the US dollar. This shift in investor sentiment is impacting the currency's stability and value."
   },
   {
-    "title": "Israeli bombardment kills 92 in two days: Gaza government",
+    "title": "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict",
     "domain": "general",
     "location": "global",
-    "published": "Sat, 19 Apr 2025 13:19:18 +0000",
+    "published": "Sat, 19 Apr 2025 14:03:46 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "At least 219 people have been injured in attacks since Good Friday, according to Gaza&#039;s Health Ministry."
+      "Russia says it expects Ukraine to do the same over the Easter period."
     ],
     "image_url": "",
     "titles": [
-      "Israeli bombardment kills 92 in two days: Gaza government"
+      "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict"
     ],
     "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.989,
+      "magnitude": 0.24,
+      "recency": 0.981,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.463,
-    "normalized_score": 8.54,
-    "summary": "Since Good Friday, Gaza's Health Ministry reports that attacks have resulted in at least 219 people being injured."
+    "score": 0.467,
+    "normalized_score": 8.9,
+    "summary": "Russia has announced its expectation for Ukraine to observe a ceasefire during the Easter period. This statement implies a mutual desire for a temporary halt in hostilities coinciding with the religious holiday, although the announcement primarily highlights Russia's anticipation of Ukraine's compliance with the ceasefire."
   },
   {
     "title": "New colour seen for the first time by tricking the eyes",
@@ -849,14 +847,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.734,
+      "recency": 0.717,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.393,
-    "normalized_score": 5.44,
-    "summary": "A newly developed device has allowed individuals to perceive a unique shade of blue-green, described as being more intense than any previously seen colors."
+    "score": 0.389,
+    "normalized_score": 5.46,
+    "summary": "A newly developed device has allowed individuals to perceive a unique shade of blue-green, described as being more intense than any previously known color. This innovation marks a significant advancement in color perception technology."
   },
   {
     "title": "Claims of alien life are overhyped – and miss the real accomplishment",
@@ -878,14 +876,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.71,
+      "recency": 0.692,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.393,
-    "normalized_score": 5.44,
-    "summary": "Astronomer Chris Lintott cautions against prematurely concluding that signs of biological activity on exoplanets indicate alien life. He emphasizes that, despite public excitement, past instances have not been linked to extraterrestrial life and urges a more measured approach to such discoveries."
+    "score": 0.389,
+    "normalized_score": 5.46,
+    "summary": "Astronomer Chris Lintott cautions against quickly concluding that signs of biological activity on exoplanets indicate alien life. Despite public excitement over such findings, Lintott emphasizes that past instances have never confirmed extraterrestrial life and advises against making assumptions about future discoveries."
   },
   {
     "title": "Quantum GPS can help planes navigate when regular GPS is jammed",
@@ -907,14 +905,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.693,
+      "recency": 0.675,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.383,
-    "normalized_score": 5.0,
-    "summary": "A quantum sensor, utilizing Earth's magnetic fields, demonstrated superior performance over traditional GPS backups during test flights. This advancement is significant for commercial aviation, offering a reliable alternative navigation method amidst increasing GPS jamming and spoofing attacks, ensuring aircraft can maintain accurate course-keeping."
+    "score": 0.379,
+    "normalized_score": 5.02,
+    "summary": "A quantum sensor, utilizing Earth's magnetic fields, surpassed traditional GPS backups in accuracy during test flights. This advancement offers a potential solution for commercial aircraft navigation, especially given the increasing incidents of GPS jamming and spoofing attacks, ensuring planes can maintain their course."
   },
   {
     "title": "Scientists probe the mystery of Titan's missing deltas",
@@ -934,14 +932,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.66,
+      "recency": 0.642,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.375,
-    "normalized_score": 4.65,
-    "summary": "Recent research has revealed that Titan, Saturn's moon, despite possessing extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the surface processes and geological dynamics of this extraterrestrial environment."
+    "score": 0.371,
+    "normalized_score": 4.67,
+    "summary": "Recent research indicates that Titan, Saturn's moon, despite having extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the moon's unique surface processes, as it challenges previous understandings of Titan's geological dynamics."
   },
   {
     "title": "A wearable smart insole can track how you walk, run and stand",
@@ -963,14 +961,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.63,
+      "recency": 0.612,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.368,
-    "normalized_score": 4.34,
-    "summary": "A newly developed smart insole system can monitor walking patterns in real-time, aiming to enhance posture and offer early detection of various conditions, including plantar fasciitis and Parkinson's disease. This technology is designed to assist users in identifying and potentially mitigating health issues related to their walking habits."
+    "score": 0.363,
+    "normalized_score": 4.32,
+    "summary": "A newly developed smart insole system offers real-time monitoring of walking patterns, aiming to enhance posture and provide early detection of various conditions, including plantar fasciitis and Parkinson's disease. This innovative technology seeks to assist users in identifying and addressing potential health issues related to their gait."
   },
   {
     "title": "WWE WrestleMania 41 start time, date: Where to watch and live stream the massive event this weekend",
@@ -990,101 +988,20 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.998,
+      "recency": 0.981,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.38,
-    "normalized_score": 4.87,
-    "summary": "The annual event in Las Vegas, scheduled for Saturday and Sunday, is anticipated to offer another impressive spectacle."
-  },
-  {
-    "title": "Cavaliers vs. Heat: Can Miami pull off massive upset? Series keys, schedule and prediction",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 13:37:53 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Here's what to know for the first-round matchup between the Cavaliers and Heat."
-    ],
-    "image_url": "",
-    "titles": [
-      "Cavaliers vs. Heat: Can Miami pull off massive upset? Series keys, schedule and prediction"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.993,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.378,
-    "normalized_score": 4.78,
-    "summary": "The Cavaliers and Heat are set to face off in a first-round basketball matchup. This event marks a significant game in the tournament, bringing two competitive teams head-to-head. The outcome of this matchup will determine which team advances further in the tournament. Keep an eye on this game for a display of skill and strategy from both teams."
-  },
-  {
-    "title": "Inzaghi Plots Massive Squad Rotation In Bologna Vs Inter Milan Serie A Clash – Netherlands, Brazil, Germany & Poland Stars Could Start",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 13:32:00 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Simone Inzaghi is ready to completely overhaul his starting eleven in tomorrow’s Serie A clash between Bologna and Inter Milan.Today’s print edition of Turin-based newspaper Tuttosport, via FCInte..."
-    ],
-    "image_url": "",
-    "titles": [
-      "Inzaghi Plots Massive Squad Rotation In Bologna Vs Inter Milan Serie A Clash – Netherlands, Brazil, Germany & Poland Stars Could Start"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.992,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.378,
-    "normalized_score": 4.78,
-    "summary": "Simone Inzaghi plans a major change to Inter Milan's starting lineup for the upcoming Serie A game against Bologna, as reported by Tuttosport via FCInterNews. This decision indicates a strategic shift for the team ahead of the match."
-  },
-  {
-    "title": "Breaking down Vikings picks in Dane Brugler's 7-round mock draft",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 13:21:09 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The Minnesota Vikings can't find a trade parter and stick and pick in Dane Brugler's latest seven-round NFL Mock Draft."
-    ],
-    "image_url": "",
-    "titles": [
-      "Breaking down Vikings picks in Dane Brugler's 7-round mock draft"
-    ],
-    "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.989,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.377,
-    "normalized_score": 4.73,
-    "summary": "In Dane Brugler's latest seven-round NFL Mock Draft, the Minnesota Vikings were unable to secure a trade partner. Consequently, they have decided to make their selection as originally planned."
+    "score": 0.375,
+    "normalized_score": 4.85,
+    "summary": "The annual event in Las Vegas is scheduled to take place on Saturday and Sunday, promising attendees an impressive spectacle."
   },
   {
     "title": "Crew expect record crowd for Messi in Cleveland",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 07:52:56 EST",
+    "published": "Sat, 19 Apr 2025 10:17:20 EST",
     "source": "unknown",
     "sources": [
       "unknown"
@@ -1098,13 +1015,96 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.913,
+      "recency": 0.929,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.358,
-    "normalized_score": 3.89,
-    "summary": "The Columbus Crew is set to host Lionel Messi and Inter Miami in a game that has been moved to Cleveland, anticipating a record attendance for the event."
+    "score": 0.362,
+    "normalized_score": 4.27,
+    "summary": "The Columbus Crew is anticipating a record audience for their game against Inter Miami, featuring Lionel Messi. To accommodate the expected large turnout, the match has been relocated to Cleveland."
+  },
+  {
+    "title": "Nets' Ziaire Williams believes trade from Grizzlies was positive move",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 15:15:37 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Brooklyn Nets forward Ziaire Williams believes that being traded from the Memphis Grizzlies to Brooklyn was a positive move in his career."
+    ],
+    "image_url": "",
+    "titles": [
+      "Nets' Ziaire Williams believes trade from Grizzlies was positive move"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.998,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.356,
+    "normalized_score": 4.01,
+    "summary": "Brooklyn Nets forward Ziaire Williams expressed that his trade from the Memphis Grizzlies to the Brooklyn Nets has positively impacted his career. He believes the move to Brooklyn offers him a beneficial change in his professional basketball journey."
+  },
+  {
+    "title": "Lane Kiffin trolls Miami over Carson Beck's $4 million NIL deal: 'Did they watch his game against us?'",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 15:11:31 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Kiffin couldn't resist prodding at the Canes' big spending in the portal to get the former Georgia QB",
+      "Lane Kiffin trolled former Georgia quarterback Carson Beck on Friday after Beck's reported NIL deal with Miami was mentioned in a podcast appearance:"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/04/19/af3eafb6-a135-4872-bc46-a769bb781ba8/lane-kiffin.jpg",
+    "titles": [
+      "Lane Kiffin trolls Miami over Carson Beck's $4 million NIL deal: 'Did they watch his game against us?'",
+      "Lane Kiffin trolls Carson Beck, Miami: 'Did they watch his game against us?'"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.997,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.355,
+    "normalized_score": 3.96,
+    "summary": "Lane Kiffin, in a podcast appearance, made a jesting remark about the reported Name, Image, and Likeness (NIL) deal that former Georgia quarterback Carson Beck received upon transferring to Miami. Kiffin's comment highlighted the substantial financial investment Miami is making in players through the transfer portal."
+  },
+  {
+    "title": "McLaren dominate final practice for Saudi GP as Hamilton struggles again",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 14:59:29 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "McLaren put down another statement of intent as they dominated final practice for the Saudi Arabian Grand Prix in Jeddah. Lando Norris topped the timesheets with a lap of 1min27.489sec which was 0.024sec faster than his team-mate Oscar Piastri."
+    ],
+    "image_url": "",
+    "titles": [
+      "McLaren dominate final practice for Saudi GP as Hamilton struggles again"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.994,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.355,
+    "normalized_score": 3.96,
+    "summary": "In the final practice for the Saudi Arabian Grand Prix in Jeddah, McLaren showcased their strength with Lando Norris leading the timesheets with a lap time of 1min27.489sec, closely followed by his teammate Oscar Piastri, who was just 0.024sec slower. This performance indicates McLaren's competitive edge ahead of the race."
   }
 ]
