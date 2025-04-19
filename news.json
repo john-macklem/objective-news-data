@@ -1,36 +1,5 @@
 [
   {
-    "title": "China races robots against humans in Beijing half marathon",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 09:36:22 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The Yizhuang half marathon is the first time robots have raced against humans over such a distance.",
-      "The Yizhuang half marathon is the first time robots have raced against humans over such a distance."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4f/live/c9b3f6c0-1d02-11f0-b265-abe347419ae3.jpg",
-    "titles": [
-      "China races robots against humans in Beijing half marathon",
-      "China races robots against humans in Beijing half marathon"
-    ],
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about an innovative event, which can help readers understand the current state of robotics. However, it does not provide any solutions or improvements, nor does it delve deeply into the causes or impacts.",
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.997,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.6
-    },
-    "score": 0.531,
-    "normalized_score": 10.0,
-    "summary": "The Yizhuang half marathon marked the first occasion where robots competed against humans in a race covering such a distance."
-  },
-  {
     "title": "The forgotten Indian explorer who uncovered an ancient civilisation",
     "domain": "general",
     "location": "global",
@@ -50,14 +19,14 @@
     "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.886,
+      "recency": 0.881,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.512,
-    "normalized_score": 9.3,
-    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering Mohenjo-daro, a major site of the ancient Indus Valley Civilization. However, his legacy is marred by controversy, reflecting debates and disputes within the academic and historical communities about his work and contributions. Despite the controversies, Banerjee's discovery remains a significant contribution to archaeology."
+    "score": 0.51,
+    "normalized_score": 10.0,
+    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering the ancient city of Mohenjo-daro, a significant Indus Valley Civilization site. However, his legacy is marred by controversy, with debates surrounding the circumstances and credit for the discovery. Despite these controversies, Banerjee's contribution to archaeology remains notable."
   },
   {
     "title": "Designed in US, made in China: Why Apple is stuck",
@@ -79,14 +48,14 @@
     "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.849,
+      "recency": 0.844,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.508,
-    "normalized_score": 9.15,
-    "summary": "Apple's supply chain is deeply integrated with China, resulting in significant mutual benefits. However, the possibility of Apple distancing itself from China is not explicitly confirmed or detailed in the provided content."
+    "score": 0.507,
+    "normalized_score": 9.88,
+    "summary": "Apple's supply chain is deeply integrated with China, significantly benefiting the latter. Whether Apple can disentangle from this relationship remains uncertain."
   },
   {
     "title": "'Child in arms, luggage on my head, I fled Sudan camp for safety'",
@@ -108,14 +77,43 @@
     "constructiveness_reason": "This story provides a deep understanding of the personal experiences and impacts of a major crisis. It raises awareness about the conditions in Sudan and the experiences of refugees. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.754,
+      "recency": 0.748,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.7
     },
-    "score": 0.468,
-    "normalized_score": 7.67,
-    "summary": "Residents of Sudan's largest displacement camp have experienced significant upheaval, impacting their daily lives and stability. The current status or specific causes of this disruption were not detailed in the provided information."
+    "score": 0.467,
+    "normalized_score": 8.28,
+    "summary": "Residents of Sudan's largest displacement camp have experienced further disruptions to their lives. The specific causes or nature of these disruptions were not detailed, but the impact on the community is significant, affecting the daily existence of those living in the camp."
+  },
+  {
+    "title": "China races robots in Beijing half marathon",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 09:36:22 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The Yizhuang half marathon is the first time robots have raced alongside humans over such a distance.",
+      "The Yizhuang half marathon is the first time robots have raced alongside humans over such a distance."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4f/live/c9b3f6c0-1d02-11f0-b265-abe347419ae3.jpg",
+    "titles": [
+      "China races robots in Beijing half marathon",
+      "China races robots in Beijing half marathon"
+    ],
+    "score_components": {
+      "magnitude": 0.22,
+      "recency": 0.992,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.464,
+    "normalized_score": 8.16,
+    "summary": "The Yizhuang half marathon marked the first occasion where robots competed alongside humans in a race covering such a distance."
   },
   {
     "title": "US Supreme Court halts deportation of detained Venezuelans",
@@ -135,14 +133,95 @@
     ],
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.986,
+      "recency": 0.981,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.463,
-    "normalized_score": 7.48,
-    "summary": "Accused gang members in El Salvador are being transferred to a notorious jail as part of a crackdown under a law from the 19th century. This move is part of the government's efforts to combat gang violence in the country."
+    "score": 0.461,
+    "normalized_score": 8.04,
+    "summary": "Accused gang members in El Salvador are being transferred to a notorious jail as per a 19th-Century law. This action is part of the government's efforts to combat gang activity within the country."
+  },
+  {
+    "title": "New Orleans Saints were one of many teams to meet with an up-and-coming UCLA edge rusher",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 09:55:28 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The New Orleans Saints have met with many defensive prospects this offseason, and continue to do so as they recently spoke with a UCLA edge rusher."
+    ],
+    "image_url": "",
+    "titles": [
+      "New Orleans Saints were one of many teams to meet with an up-and-coming UCLA edge rusher"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.996,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.355,
+    "normalized_score": 3.8,
+    "summary": "The New Orleans Saints are actively engaging with defensive talents during the offseason, including a recent meeting with a UCLA edge rusher. This is part of their broader strategy to explore potential additions to their defensive lineup."
+  },
+  {
+    "title": "Tuttosport: Juventus conjure new ideas to bring Tonali to Turin &#8211; the details",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 09:40:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Despite enjoying his football with Newcastle United, Juventus are refusing to give up their interest in the former AC Milan midfielder Sandro Tonali, it seems.In the future, there is a dream that Mila..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Tuttosport: Juventus conjure new ideas to bring Tonali to Turin &#8211; the details"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.992,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.354,
+    "normalized_score": 3.76,
+    "summary": "Juventus remains interested in acquiring Sandro Tonali, despite his current success at Newcastle United. The former AC Milan midfielder is still a target for the Italian club as they continue to pursue his signature."
+  },
+  {
+    "title": "Sacchi urges Milan and Roma to call Ancelotti, aims dig at Florentino Perez and Mbappé",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 09:32:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Arrigo Sacchi urges Milan and Roma to call Carlo Ancelotti but insists Real Madrid should think twice before sacking the Italian tactician: ‘I’m familiar with Florentino Perez…’Ancelotti is no..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Sacchi urges Milan and Roma to call Ancelotti, aims dig at Florentino Perez and Mbappé"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.991,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.354,
+    "normalized_score": 3.76,
+    "summary": "Arrigo Sacchi has recommended both Milan and Roma to consider hiring Carlo Ancelotti, highlighting Ancelotti's capabilities. However, Sacchi advised Real Madrid to reconsider any plans to dismiss Ancelotti, referencing his knowledge of Real Madrid's president, Florentino Perez. This suggests Sacchi believes Ancelotti remains valuable and should be retained or considered for future roles by top clubs."
   },
   {
     "title": "USWNT captain Lindsey Heaps says salary cap issue to blame for NWSL departures",
@@ -162,122 +241,68 @@
     ],
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.996,
+      "recency": 0.99,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.355,
-    "normalized_score": 3.48,
-    "summary": "USWNT captain Lindsey Heaps criticized the NWSL's salary cap as a reason for top American players, including Naomi Girma, moving to European clubs. Girma's transfer to Chelsea for a record $1.1 million from the San Diego Wave exemplifies this trend. Heaps addressed the issue before Lyon's Champions League semifinal against Arsenal, suggesting the salary cap limits the league's competitiveness and appeal."
+    "score": 0.354,
+    "normalized_score": 3.76,
+    "summary": "USWNT captain and Lyon midfielder Lindsey Heaps criticized the NWSL salary cap for driving top American players to Europe. Highlighting this trend, Naomi Girma's move to Chelsea for a record $1.1 million fee exemplifies the shift. Heaps spoke out ahead of Lyon's Champions League semifinal, suggesting the salary cap limits the league's competitiveness and appeal to top talent."
   },
   {
-    "title": "“He can ask to leave” – ex-Arsenal defender believes current star has uncertain future",
+    "title": "What channel is Milwaukee Bucks vs Indiana Pacers on today? Time, TV, streaming, odds",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 09:01:00 +0000",
+    "published": "Sat, 19 Apr 2025 10:04:51 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Arsenal have shown over the last 18 months that they have an excellent defence, but according to one former player, they could lose one of their key performers in that area as early as this summer’s..."
+      "The Milwaukee Bucks begin their first round NBA playoff series today against Indiana Pacers"
     ],
     "image_url": "",
     "titles": [
-      "“He can ask to leave” – ex-Arsenal defender believes current star has uncertain future"
+      "What channel is Milwaukee Bucks vs Indiana Pacers on today? Time, TV, streaming, odds"
     ],
     "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.989,
+      "magnitude": 0.1,
+      "recency": 0.998,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.353,
-    "normalized_score": 3.41,
-    "summary": "Arsenal, recognized for their strong defense over the past 18 months, may face the departure of a key defensive player this summer, as suggested by a former player. The identity of the player or the reasons for the potential departure were not disclosed."
+    "score": 0.35,
+    "normalized_score": 3.6,
+    "summary": "The Milwaukee Bucks are set to start their NBA playoff journey by facing the Indiana Pacers in the first round series today. This marks the beginning of their quest for championship glory in this season's playoffs."
   },
   {
-    "title": "“He’s made it clear…”: Alan Shearer makes claim on Marcus Rashford future",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 08:57:00 +0000",
+    "title": "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 10:00:00 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Newcastle United legend Alan Shearer believes there is no way back to Manchester United for Marcus Rashford.Rashford ended up joining Unai Emery’s Aston Villa on a short loan deal during the last wi..."
+      "<figure><img alt=\" Erick W. Rasco/Sports Illustrated via Getty Images\" src=\"https://www.investopedia.com/thmb/g9Mspvj_qItK6X7R9am_7sltQK8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2209826808-06f398e68ee74009b3bf5220af046f1e.jpg\" title=\"Golf: The Masters: Rory McIlroy victorious during green jacket ceremony after winning sudden death playoff round to win the tournament on Sunday at Augusta National. \" /><figcaption><i><p> Erick W. Rasco/Sports Illustrated via Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>Champion pro golfer Rory McIlroy has made millions on and off the course.</li><li>McIlroy has a net worth of about $250 million, according to an estimate by <em>Celebrity Net Worth.</em></li><li>In April 2025, McIlroy surpassed $100 million in career earnings on the PGA Tour, becoming the second golfer after Tiger Woods to do so.</li></ul><br /><br /><p>Champion golfer Rory McIlroy has done what just five other professional golfers have been able to do—win a career Grand Slam.</p><p>McIlroy sank to his knees in tears following his victory over Justin Rose at the 2025 Masters Tournament in Augusta, Georgia, this month. The Masters title completed his career Grand Slam—in golf, this means McIlroy has won all four major championships at least once during his career: the U.S. Open, the Open Championship, the PGA Championship, and now The Masters.<span class=\"ql-inline-citation\"></span> Gene Sarazen, Ben Hogan, Gary Player, Jack Nicklaus, and Tiger Woods are the only other golfers to win the modern career Grand Slam.<span class=\"ql-inline-citation\"></span></p><p>In his nearly two decades as a pro golfer, McIlroy has made a fortune on and off the course, with millions in career earnings, endorsements, and entrepreneurial ventures. McIlroy has a net worth of about $250 million, according to an estimate by <em>Celebrity Net Worth.<span class=\"ql-inline-citation\"></span> </em></p><p>Here's how McIlroy made his millions.<br /></p><h2>McIlroy's Career Earnings</h2><p>Not only is McIlroy widely considered one of the best professional golfers, but he is also among the wealthiest. In April 2025, he surpassed $100 million in career earnings on the PGA Tour, becoming the second golfer after <a href=\"https://www.investopedia.com/tiger-woods-net-worth-8536106\">Tiger Woods to do so</a>.<span class=\"ql-inline-citation\"></span></p><p>McIlroy was the second highest-paid golfer in the world in 2024, earning $38 million on the course between 2023 and 2024, according to <em>Forbes.</em><span class=\"ql-inline-citation\"></span></p><p>With 29 PGA Tour wins in his nearly two decades as a pro golfer, McIlroy is in the top 20 for all-time wins in the PGA.<span class=\"ql-inline-citation\"></span></p><h2>McIlroy's Partnerships and Businesses</h2><p>When he's not golfing, McIlroy also makes millions from business ventures and partnerships. The champion golfer made an estimated $45 million off the course in 2024, according to <em>Forbes.</em><span class=\"ql-inline-citation\"></span></p><p>Many of McIlroy's ventures off the course involve golf, too. He co-founded TMRW Sports, a sports media and entertainment company, with Tiger Woods and NBC Sports executive Mike McCarley. Among the company's ventures is TGL, a partly virtual golf league featuring top players from the PGA Tour. The league has two-hour weekly matches that air on ESPN and ESPN&#43;.<span class=\"ql-inline-citation\"></span></p><p>McIlroy also founded an investment firm, Symphony Ventures, which has investments in companies including ticket marketplace TickPick, golf subscription GolfPass, virtual reality game Golf&#43;, sports recovery company Hyperice, fitness tracker Whoop, and upscale mini golf chain, Puttery.<span class=\"ql-inline-citation\"></span><span class=\"ql-inline-citation\"></span></p><p>McIlroy's partnerships include major brands such as Nike, Optum, Workday, TaylorMade, and Omega.<span class=\"ql-inline-citation\"></span></p>"
     ],
-    "image_url": "",
+    "image_url": "https://www.investopedia.com/thmb/g9Mspvj_qItK6X7R9am_7sltQK8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2209826808-06f398e68ee74009b3bf5220af046f1e.jpg",
     "titles": [
-      "“He’s made it clear…”: Alan Shearer makes claim on Marcus Rashford future"
+      "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course"
     ],
     "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.988,
-      "proximity": 0.2,
+      "magnitude": 0.2,
+      "recency": 0.997,
+      "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.353,
-    "normalized_score": 3.41,
-    "summary": "Alan Shearer, a Newcastle United legend, has stated that Marcus Rashford has no future at Manchester United. Rashford has moved to Aston Villa on a short loan deal, as confirmed during the last transfer window. This move, according to Shearer, signifies the end of Rashford's career at Manchester United."
-  },
-  {
-    "title": "Report: Man Utd and Liverpool eye bargain Lyon star in summer transfer race",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 08:50:00 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Rayan Cherki: Raw Talent, Real Temptation for Premier League GiantsRising Numbers, Rising HopesAt 21, Rayan Cherki already feels like a footballing veteran. Nearly 200 senior appearances for Lyon, a r..."
-    ],
-    "image_url": "",
-    "titles": [
-      "Report: Man Utd and Liverpool eye bargain Lyon star in summer transfer race"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.986,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.41,
-    "summary": "At 21, Rayan Cherki has made nearly 200 senior appearances for Lyon, showcasing his talent and drawing attention from Premier League clubs. His performance has sparked interest among top teams, positioning him as a sought-after player in the football world."
-  },
-  {
-    "title": "This position is an Eagles' trainwreck in NFL Draft. The player who can change that",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 08:46:43 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "What would it take for the Eagles to finally hit at their least successful position in the NFL Draft?"
-    ],
-    "image_url": "",
-    "titles": [
-      "This position is an Eagles' trainwreck in NFL Draft. The player who can change that"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.986,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.41,
-    "summary": "The Philadelphia Eagles have struggled to successfully draft players for a specific position, which remains unspecified in the provided content. To improve their drafting success at this position, the team would likely need to adopt a new strategy or approach in evaluating and selecting potential draft picks. The current status of their efforts or any specific changes to their drafting strategy were not detailed in the provided content."
+    "score": 0.459,
+    "normalized_score": 7.96,
+    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. Following his victory, McIlroy's career earnings on the PGA Tour surpassed $100 million, making him the second golfer after Tiger Woods to reach this milestone. McIlroy, with a net worth estimated at $250 million, is considered one of the wealthiest professional golfers. His earnings include $38 million from 2023 to 2024 and an estimated $45 million from off-course ventures in 2024, involving partnerships with major brands and investments in various companies through his fo"
   },
   {
     "title": "Will You REALLY Need a REAL ID to Fly on May 7?",
@@ -297,14 +322,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.989,
+      "recency": 0.983,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.457,
-    "normalized_score": 7.26,
-    "summary": "The Department of Homeland Security (DHS) has announced that enforcement of the REAL ID Act will begin on May 7, 2025. This act, signed into law by President George W. Bush in 2005, mandates federal standards for identification documents. Travelers aged 18 and over will be required to present a REAL ID-compliant ID, marked with a star, for domestic flights and access to certain federal facilities. Other forms of identification, like passports, will still be acceptable. The TSA advises passengers without a REAL ID to arrive at airports three hours early due to potential delays. Over 80% of trav"
+    "score": 0.456,
+    "normalized_score": 7.84,
+    "summary": "The REAL ID Act, signed into law in 2005, mandates federal standards for identification documents but has yet to be fully implemented. The Department of Homeland Security (DHS) has announced that enforcement will start on May 7, 2025. Travelers 18 and older will need a REAL ID-compliant ID, marked with a star, to board domestic flights and enter certain federal facilities. Alternative forms of ID, like passports, are also acceptable. The TSA advises those without REAL ID to arrive at airports three hours early due to potential delays. Over 80% of travelers are already using acceptable IDs, and"
   },
   {
     "title": "Trump tariffs bring furrowed brows to Ireland’s Botox town",
@@ -326,14 +351,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.92,
+      "recency": 0.914,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.452,
-    "normalized_score": 7.07,
-    "summary": "Westport, the sole global producer of a specific anti-wrinkle drug, is concerned that its production might be relocated to the United States. This shift in manufacturing location has yet to occur, but the potential move has raised fears among those involved in its current production."
+    "score": 0.451,
+    "normalized_score": 7.64,
+    "summary": "Westport, known for producing the entire global supply of a specific anti-wrinkle drug, is currently facing concerns that its production could be relocated to the United States. This potential move has sparked fears among the local community and stakeholders about the future of this industry in Westport."
   },
   {
     "title": "Donald Trump vs Mr Market",
@@ -355,14 +380,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.92,
+      "recency": 0.914,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.446,
-    "normalized_score": 6.85,
-    "summary": "Tim Harford analyzes the impact of the US president's fluctuating tariff policy, suggesting it has caused global financial turmoil. He raises the question of whether this strategy is sustainable or if it's a battle the president might ultimately lose."
+    "score": 0.445,
+    "normalized_score": 7.4,
+    "summary": "Tim Harford examines the impact of the US president's fluctuating tariff policy, highlighting its role in causing worldwide financial turmoil. The analysis questions the potential for success in the president's strategy amidst the ongoing global economic disruptions."
   },
   {
     "title": "What abundance can’t achieve",
@@ -384,43 +409,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.92,
+      "recency": 0.914,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.44,
-    "normalized_score": 6.63,
-    "summary": "Economic growth, while valuable, does not automatically solve the issue of populism. This conclusion stems from the understanding that despite the benefits of economic expansion, such as increased wealth and job opportunities, it does not directly address the political or social factors that fuel populist movements."
-  },
-  {
-    "title": "Wall Street slashes stock market forecasts amid Trump tariff fears",
-    "domain": "business",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 20:00:56 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Banks expect gain of just 2% for S&amp;P 500 this year, with JPMorgan and BofA among those lowering estimates"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F39a16559-38b9-4129-8e7d-9d364a8a9d92.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Wall Street slashes stock market forecasts amid Trump tariff fears"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.808,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.424,
-    "normalized_score": 6.04,
-    "summary": "Several banks, including JPMorgan and Bank of America, have revised their forecasts for the S&P 500, now expecting a modest gain of just 2% for the year. This adjustment reflects a more cautious outlook on the stock market's performance."
+    "score": 0.439,
+    "normalized_score": 7.16,
+    "summary": "Economic growth, while valuable, does not automatically resolve the issue of populism. Despite the benefits of expanding economies, such as increased wealth and job opportunities, this growth alone is insufficient to counteract the rise of populist movements. These movements often emerge from complex socio-political issues that economic growth alone cannot address."
   },
   {
     "title": "New colour seen for the first time by tricking the eyes",
@@ -442,14 +438,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.794,
+      "recency": 0.789,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.408,
-    "normalized_score": 5.44,
-    "summary": "A newly developed device allows users to perceive a unique shade of blue-green, described as more intense than any previously known. This innovation marks a significant advancement in visual technology, offering a novel visual experience."
+    "score": 0.407,
+    "normalized_score": 5.88,
+    "summary": "A new device has been developed that allows users to perceive a shade of blue-green described as more intense than any previously seen. This innovation marks a significant advancement in the way colors can be experienced."
   },
   {
     "title": "Claims of alien life are overhyped – and miss the real accomplishment",
@@ -471,14 +467,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.77,
+      "recency": 0.764,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.408,
-    "normalized_score": 5.44,
-    "summary": "Chris Lintott cautions against jumping to conclusions about alien life on exoplanets, even when they exhibit potential signs of biological activity. He emphasizes that past excitement has never confirmed alien life, advising a more measured approach in future instances."
+    "score": 0.407,
+    "normalized_score": 5.88,
+    "summary": "Astronomer Chris Lintott cautions against prematurely concluding that signs of biological activity on exoplanets indicate alien life. Despite public excitement over potential discoveries, Lintott emphasizes that such findings have never confirmed extraterrestrial life and urges a more measured approach to interpreting these signs."
   },
   {
     "title": "Quantum GPS can help planes navigate when regular GPS is jammed",
@@ -500,14 +496,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.753,
+      "recency": 0.747,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.398,
-    "normalized_score": 5.07,
-    "summary": "A quantum sensor, leveraging Earth's magnetic fields, demonstrated superior performance to traditional GPS backups during test flights, offering a promising solution for commercial aircraft navigation. This advancement comes as a response to the increasing challenges posed by GPS jamming and spoofing attacks, ensuring more reliable and accurate course maintenance for aircraft."
+    "score": 0.397,
+    "normalized_score": 5.48,
+    "summary": "A quantum sensor, utilizing Earth's magnetic fields, demonstrated superior performance compared to traditional GPS backups during test flights. This advancement could significantly aid commercial aircraft in maintaining accurate navigation, especially in light of increasing GPS jamming and spoofing attacks."
   },
   {
     "title": "Artificial light pollution could fuel growth of toxic algal blooms",
@@ -529,14 +525,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.697,
+      "recency": 0.692,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.384,
-    "normalized_score": 4.56,
-    "summary": "Research indicates that \"skyglow,\" a phenomenon where city lights are reflected off clouds, can stimulate the growth of cyanobacteria and other aquatic microbes during nighttime. This finding highlights the broader ecological impact of urban lighting beyond its immediate surroundings."
+    "score": 0.383,
+    "normalized_score": 4.92,
+    "summary": "Skyglow, the phenomenon where city lights are reflected off clouds, has been found to aid the growth of cyanobacteria and other aquatic microbes during nighttime. This effect of artificial light on microbial growth highlights the impact of urban lighting on natural ecosystems."
   },
   {
     "title": "A wearable smart insole can track how you walk, run and stand",
@@ -558,14 +554,41 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.69,
+      "recency": 0.684,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.382,
-    "normalized_score": 4.48,
-    "summary": "A newly developed smart insole system can monitor walking patterns in real-time, offering potential benefits such as posture improvement and early detection of conditions ranging from plantar fasciitis to Parkinson's disease. This technology aims to aid users in identifying and addressing gait-related health issues promptly."
+    "score": 0.381,
+    "normalized_score": 4.84,
+    "summary": "A newly developed smart insole system can monitor users' walking patterns in real time, aiming to enhance posture and offer early detection of various conditions, including plantar fasciitis and Parkinson's disease. This technology provides feedback that could assist in preventing or managing health issues related to walking and posture."
+  },
+  {
+    "title": "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course",
+    "domain": "business",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 10:00:00 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "<figure><img alt=\" Erick W. Rasco/Sports Illustrated via Getty Images\" src=\"https://www.investopedia.com/thmb/g9Mspvj_qItK6X7R9am_7sltQK8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2209826808-06f398e68ee74009b3bf5220af046f1e.jpg\" title=\"Golf: The Masters: Rory McIlroy victorious during green jacket ceremony after winning sudden death playoff round to win the tournament on Sunday at Augusta National. \" /><figcaption><i><p> Erick W. Rasco/Sports Illustrated via Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>Champion pro golfer Rory McIlroy has made millions on and off the course.</li><li>McIlroy has a net worth of about $250 million, according to an estimate by <em>Celebrity Net Worth.</em></li><li>In April 2025, McIlroy surpassed $100 million in career earnings on the PGA Tour, becoming the second golfer after Tiger Woods to do so.</li></ul><br /><br /><p>Champion golfer Rory McIlroy has done what just five other professional golfers have been able to do—win a career Grand Slam.</p><p>McIlroy sank to his knees in tears following his victory over Justin Rose at the 2025 Masters Tournament in Augusta, Georgia, this month. The Masters title completed his career Grand Slam—in golf, this means McIlroy has won all four major championships at least once during his career: the U.S. Open, the Open Championship, the PGA Championship, and now The Masters.<span class=\"ql-inline-citation\"></span> Gene Sarazen, Ben Hogan, Gary Player, Jack Nicklaus, and Tiger Woods are the only other golfers to win the modern career Grand Slam.<span class=\"ql-inline-citation\"></span></p><p>In his nearly two decades as a pro golfer, McIlroy has made a fortune on and off the course, with millions in career earnings, endorsements, and entrepreneurial ventures. McIlroy has a net worth of about $250 million, according to an estimate by <em>Celebrity Net Worth.<span class=\"ql-inline-citation\"></span> </em></p><p>Here's how McIlroy made his millions.<br /></p><h2>McIlroy's Career Earnings</h2><p>Not only is McIlroy widely considered one of the best professional golfers, but he is also among the wealthiest. In April 2025, he surpassed $100 million in career earnings on the PGA Tour, becoming the second golfer after <a href=\"https://www.investopedia.com/tiger-woods-net-worth-8536106\">Tiger Woods to do so</a>.<span class=\"ql-inline-citation\"></span></p><p>McIlroy was the second highest-paid golfer in the world in 2024, earning $38 million on the course between 2023 and 2024, according to <em>Forbes.</em><span class=\"ql-inline-citation\"></span></p><p>With 29 PGA Tour wins in his nearly two decades as a pro golfer, McIlroy is in the top 20 for all-time wins in the PGA.<span class=\"ql-inline-citation\"></span></p><h2>McIlroy's Partnerships and Businesses</h2><p>When he's not golfing, McIlroy also makes millions from business ventures and partnerships. The champion golfer made an estimated $45 million off the course in 2024, according to <em>Forbes.</em><span class=\"ql-inline-citation\"></span></p><p>Many of McIlroy's ventures off the course involve golf, too. He co-founded TMRW Sports, a sports media and entertainment company, with Tiger Woods and NBC Sports executive Mike McCarley. Among the company's ventures is TGL, a partly virtual golf league featuring top players from the PGA Tour. The league has two-hour weekly matches that air on ESPN and ESPN&#43;.<span class=\"ql-inline-citation\"></span></p><p>McIlroy also founded an investment firm, Symphony Ventures, which has investments in companies including ticket marketplace TickPick, golf subscription GolfPass, virtual reality game Golf&#43;, sports recovery company Hyperice, fitness tracker Whoop, and upscale mini golf chain, Puttery.<span class=\"ql-inline-citation\"></span><span class=\"ql-inline-citation\"></span></p><p>McIlroy's partnerships include major brands such as Nike, Optum, Workday, TaylorMade, and Omega.<span class=\"ql-inline-citation\"></span></p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/g9Mspvj_qItK6X7R9am_7sltQK8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2209826808-06f398e68ee74009b3bf5220af046f1e.jpg",
+    "titles": [
+      "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course"
+    ],
+    "score_components": {
+      "magnitude": 0.2,
+      "recency": 0.997,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.459,
+    "normalized_score": 7.96,
+    "summary": "Rory McIlroy won the 2025 Masters Tournament, completing a career Grand Slam, a feat achieved by only five other golfers. Following his victory, McIlroy's career earnings on the PGA Tour surpassed $100 million, making him the second golfer after Tiger Woods to reach this milestone. McIlroy, with a net worth estimated at $250 million, is considered one of the wealthiest professional golfers. His earnings include $38 million from 2023 to 2024 and an estimated $45 million from off-course ventures in 2024, involving partnerships with major brands and investments in various companies through his fo"
   },
   {
     "title": "Will You REALLY Need a REAL ID to Fly on May 7?",
@@ -585,14 +608,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.989,
+      "recency": 0.983,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.457,
-    "normalized_score": 7.26,
-    "summary": "The Department of Homeland Security (DHS) has announced that enforcement of the REAL ID Act will begin on May 7, 2025. This act, signed into law by President George W. Bush in 2005, mandates federal standards for identification documents. Travelers aged 18 and over will be required to present a REAL ID-compliant ID, marked with a star, for domestic flights and access to certain federal facilities. Other forms of identification, like passports, will still be acceptable. The TSA advises passengers without a REAL ID to arrive at airports three hours early due to potential delays. Over 80% of trav"
+    "score": 0.456,
+    "normalized_score": 7.84,
+    "summary": "The REAL ID Act, signed into law in 2005, mandates federal standards for identification documents but has yet to be fully implemented. The Department of Homeland Security (DHS) has announced that enforcement will start on May 7, 2025. Travelers 18 and older will need a REAL ID-compliant ID, marked with a star, to board domestic flights and enter certain federal facilities. Alternative forms of ID, like passports, are also acceptable. The TSA advises those without REAL ID to arrive at airports three hours early due to potential delays. Over 80% of travelers are already using acceptable IDs, and"
   },
   {
     "title": "Trump tariffs bring furrowed brows to Ireland’s Botox town",
@@ -614,14 +637,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.92,
+      "recency": 0.914,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.452,
-    "normalized_score": 7.07,
-    "summary": "Westport, the sole global producer of a specific anti-wrinkle drug, is concerned that its production might be relocated to the United States. This shift in manufacturing location has yet to occur, but the potential move has raised fears among those involved in its current production."
+    "score": 0.451,
+    "normalized_score": 7.64,
+    "summary": "Westport, known for producing the entire global supply of a specific anti-wrinkle drug, is currently facing concerns that its production could be relocated to the United States. This potential move has sparked fears among the local community and stakeholders about the future of this industry in Westport."
   },
   {
     "title": "Donald Trump vs Mr Market",
@@ -643,14 +666,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.92,
+      "recency": 0.914,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.446,
-    "normalized_score": 6.85,
-    "summary": "Tim Harford analyzes the impact of the US president's fluctuating tariff policy, suggesting it has caused global financial turmoil. He raises the question of whether this strategy is sustainable or if it's a battle the president might ultimately lose."
+    "score": 0.445,
+    "normalized_score": 7.4,
+    "summary": "Tim Harford examines the impact of the US president's fluctuating tariff policy, highlighting its role in causing worldwide financial turmoil. The analysis questions the potential for success in the president's strategy amidst the ongoing global economic disruptions."
   },
   {
     "title": "What abundance can’t achieve",
@@ -672,74 +695,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.92,
+      "recency": 0.914,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.44,
-    "normalized_score": 6.63,
-    "summary": "Economic growth, while valuable, does not automatically solve the issue of populism. This conclusion stems from the understanding that despite the benefits of economic expansion, such as increased wealth and job opportunities, it does not directly address the political or social factors that fuel populist movements."
-  },
-  {
-    "title": "Wall Street slashes stock market forecasts amid Trump tariff fears",
-    "domain": "business",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 20:00:56 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Banks expect gain of just 2% for S&amp;P 500 this year, with JPMorgan and BofA among those lowering estimates"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F39a16559-38b9-4129-8e7d-9d364a8a9d92.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Wall Street slashes stock market forecasts amid Trump tariff fears"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.808,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.424,
-    "normalized_score": 6.04,
-    "summary": "Several banks, including JPMorgan and Bank of America, have revised their forecasts for the S&P 500, now expecting a modest gain of just 2% for the year. This adjustment reflects a more cautious outlook on the stock market's performance."
-  },
-  {
-    "title": "China races robots against humans in Beijing half marathon",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 09:36:22 GMT",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "The Yizhuang half marathon is the first time robots have raced against humans over such a distance.",
-      "The Yizhuang half marathon is the first time robots have raced against humans over such a distance."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4f/live/c9b3f6c0-1d02-11f0-b265-abe347419ae3.jpg",
-    "titles": [
-      "China races robots against humans in Beijing half marathon",
-      "China races robots against humans in Beijing half marathon"
-    ],
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about an innovative event, which can help readers understand the current state of robotics. However, it does not provide any solutions or improvements, nor does it delve deeply into the causes or impacts.",
-    "score_components": {
-      "magnitude": 0.24,
-      "recency": 0.997,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.6
-    },
-    "score": 0.531,
-    "normalized_score": 10.0,
-    "summary": "The Yizhuang half marathon marked the first occasion where robots competed against humans in a race covering such a distance."
+    "score": 0.439,
+    "normalized_score": 7.16,
+    "summary": "Economic growth, while valuable, does not automatically resolve the issue of populism. Despite the benefits of expanding economies, such as increased wealth and job opportunities, this growth alone is insufficient to counteract the rise of populist movements. These movements often emerge from complex socio-political issues that economic growth alone cannot address."
   },
   {
     "title": "The forgotten Indian explorer who uncovered an ancient civilisation",
@@ -761,14 +724,14 @@
     "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.886,
+      "recency": 0.881,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.512,
-    "normalized_score": 9.3,
-    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering Mohenjo-daro, a major site of the ancient Indus Valley Civilization. However, his legacy is marred by controversy, reflecting debates and disputes within the academic and historical communities about his work and contributions. Despite the controversies, Banerjee's discovery remains a significant contribution to archaeology."
+    "score": 0.51,
+    "normalized_score": 10.0,
+    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering the ancient city of Mohenjo-daro, a significant Indus Valley Civilization site. However, his legacy is marred by controversy, with debates surrounding the circumstances and credit for the discovery. Despite these controversies, Banerjee's contribution to archaeology remains notable."
   },
   {
     "title": "Designed in US, made in China: Why Apple is stuck",
@@ -790,14 +753,14 @@
     "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.849,
+      "recency": 0.844,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.508,
-    "normalized_score": 9.15,
-    "summary": "Apple's supply chain is deeply integrated with China, resulting in significant mutual benefits. However, the possibility of Apple distancing itself from China is not explicitly confirmed or detailed in the provided content."
+    "score": 0.507,
+    "normalized_score": 9.88,
+    "summary": "Apple's supply chain is deeply integrated with China, significantly benefiting the latter. Whether Apple can disentangle from this relationship remains uncertain."
   },
   {
     "title": "'Child in arms, luggage on my head, I fled Sudan camp for safety'",
@@ -819,14 +782,43 @@
     "constructiveness_reason": "This story provides a deep understanding of the personal experiences and impacts of a major crisis. It raises awareness about the conditions in Sudan and the experiences of refugees. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.754,
+      "recency": 0.748,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.7
     },
-    "score": 0.468,
-    "normalized_score": 7.67,
-    "summary": "Residents of Sudan's largest displacement camp have experienced significant upheaval, impacting their daily lives and stability. The current status or specific causes of this disruption were not detailed in the provided information."
+    "score": 0.467,
+    "normalized_score": 8.28,
+    "summary": "Residents of Sudan's largest displacement camp have experienced further disruptions to their lives. The specific causes or nature of these disruptions were not detailed, but the impact on the community is significant, affecting the daily existence of those living in the camp."
+  },
+  {
+    "title": "China races robots in Beijing half marathon",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 09:36:22 GMT",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The Yizhuang half marathon is the first time robots have raced alongside humans over such a distance.",
+      "The Yizhuang half marathon is the first time robots have raced alongside humans over such a distance."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4f/live/c9b3f6c0-1d02-11f0-b265-abe347419ae3.jpg",
+    "titles": [
+      "China races robots in Beijing half marathon",
+      "China races robots in Beijing half marathon"
+    ],
+    "score_components": {
+      "magnitude": 0.22,
+      "recency": 0.992,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.464,
+    "normalized_score": 8.16,
+    "summary": "The Yizhuang half marathon marked the first occasion where robots competed alongside humans in a race covering such a distance."
   },
   {
     "title": "US Supreme Court halts deportation of detained Venezuelans",
@@ -846,14 +838,14 @@
     ],
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.986,
+      "recency": 0.981,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.463,
-    "normalized_score": 7.48,
-    "summary": "Accused gang members in El Salvador are being transferred to a notorious jail as part of a crackdown under a law from the 19th century. This move is part of the government's efforts to combat gang violence in the country."
+    "score": 0.461,
+    "normalized_score": 8.04,
+    "summary": "Accused gang members in El Salvador are being transferred to a notorious jail as per a 19th-Century law. This action is part of the government's efforts to combat gang activity within the country."
   },
   {
     "title": "New colour seen for the first time by tricking the eyes",
@@ -875,14 +867,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.794,
+      "recency": 0.789,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.408,
-    "normalized_score": 5.44,
-    "summary": "A newly developed device allows users to perceive a unique shade of blue-green, described as more intense than any previously known. This innovation marks a significant advancement in visual technology, offering a novel visual experience."
+    "score": 0.407,
+    "normalized_score": 5.88,
+    "summary": "A new device has been developed that allows users to perceive a shade of blue-green described as more intense than any previously seen. This innovation marks a significant advancement in the way colors can be experienced."
   },
   {
     "title": "Claims of alien life are overhyped – and miss the real accomplishment",
@@ -904,14 +896,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.77,
+      "recency": 0.764,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.408,
-    "normalized_score": 5.44,
-    "summary": "Chris Lintott cautions against jumping to conclusions about alien life on exoplanets, even when they exhibit potential signs of biological activity. He emphasizes that past excitement has never confirmed alien life, advising a more measured approach in future instances."
+    "score": 0.407,
+    "normalized_score": 5.88,
+    "summary": "Astronomer Chris Lintott cautions against prematurely concluding that signs of biological activity on exoplanets indicate alien life. Despite public excitement over potential discoveries, Lintott emphasizes that such findings have never confirmed extraterrestrial life and urges a more measured approach to interpreting these signs."
   },
   {
     "title": "Quantum GPS can help planes navigate when regular GPS is jammed",
@@ -933,14 +925,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.753,
+      "recency": 0.747,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.398,
-    "normalized_score": 5.07,
-    "summary": "A quantum sensor, leveraging Earth's magnetic fields, demonstrated superior performance to traditional GPS backups during test flights, offering a promising solution for commercial aircraft navigation. This advancement comes as a response to the increasing challenges posed by GPS jamming and spoofing attacks, ensuring more reliable and accurate course maintenance for aircraft."
+    "score": 0.397,
+    "normalized_score": 5.48,
+    "summary": "A quantum sensor, utilizing Earth's magnetic fields, demonstrated superior performance compared to traditional GPS backups during test flights. This advancement could significantly aid commercial aircraft in maintaining accurate navigation, especially in light of increasing GPS jamming and spoofing attacks."
   },
   {
     "title": "Artificial light pollution could fuel growth of toxic algal blooms",
@@ -962,14 +954,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.697,
+      "recency": 0.692,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.384,
-    "normalized_score": 4.56,
-    "summary": "Research indicates that \"skyglow,\" a phenomenon where city lights are reflected off clouds, can stimulate the growth of cyanobacteria and other aquatic microbes during nighttime. This finding highlights the broader ecological impact of urban lighting beyond its immediate surroundings."
+    "score": 0.383,
+    "normalized_score": 4.92,
+    "summary": "Skyglow, the phenomenon where city lights are reflected off clouds, has been found to aid the growth of cyanobacteria and other aquatic microbes during nighttime. This effect of artificial light on microbial growth highlights the impact of urban lighting on natural ecosystems."
   },
   {
     "title": "A wearable smart insole can track how you walk, run and stand",
@@ -991,14 +983,95 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.69,
+      "recency": 0.684,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.382,
-    "normalized_score": 4.48,
-    "summary": "A newly developed smart insole system can monitor walking patterns in real-time, offering potential benefits such as posture improvement and early detection of conditions ranging from plantar fasciitis to Parkinson's disease. This technology aims to aid users in identifying and addressing gait-related health issues promptly."
+    "score": 0.381,
+    "normalized_score": 4.84,
+    "summary": "A newly developed smart insole system can monitor users' walking patterns in real time, aiming to enhance posture and offer early detection of various conditions, including plantar fasciitis and Parkinson's disease. This technology provides feedback that could assist in preventing or managing health issues related to walking and posture."
+  },
+  {
+    "title": "New Orleans Saints were one of many teams to meet with an up-and-coming UCLA edge rusher",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 09:55:28 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The New Orleans Saints have met with many defensive prospects this offseason, and continue to do so as they recently spoke with a UCLA edge rusher."
+    ],
+    "image_url": "",
+    "titles": [
+      "New Orleans Saints were one of many teams to meet with an up-and-coming UCLA edge rusher"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.996,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.355,
+    "normalized_score": 3.8,
+    "summary": "The New Orleans Saints are actively engaging with defensive talents during the offseason, including a recent meeting with a UCLA edge rusher. This is part of their broader strategy to explore potential additions to their defensive lineup."
+  },
+  {
+    "title": "Tuttosport: Juventus conjure new ideas to bring Tonali to Turin &#8211; the details",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 09:40:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Despite enjoying his football with Newcastle United, Juventus are refusing to give up their interest in the former AC Milan midfielder Sandro Tonali, it seems.In the future, there is a dream that Mila..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Tuttosport: Juventus conjure new ideas to bring Tonali to Turin &#8211; the details"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.992,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.354,
+    "normalized_score": 3.76,
+    "summary": "Juventus remains interested in acquiring Sandro Tonali, despite his current success at Newcastle United. The former AC Milan midfielder is still a target for the Italian club as they continue to pursue his signature."
+  },
+  {
+    "title": "Sacchi urges Milan and Roma to call Ancelotti, aims dig at Florentino Perez and Mbappé",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 09:32:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Arrigo Sacchi urges Milan and Roma to call Carlo Ancelotti but insists Real Madrid should think twice before sacking the Italian tactician: ‘I’m familiar with Florentino Perez…’Ancelotti is no..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Sacchi urges Milan and Roma to call Ancelotti, aims dig at Florentino Perez and Mbappé"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.991,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.354,
+    "normalized_score": 3.76,
+    "summary": "Arrigo Sacchi has recommended both Milan and Roma to consider hiring Carlo Ancelotti, highlighting Ancelotti's capabilities. However, Sacchi advised Real Madrid to reconsider any plans to dismiss Ancelotti, referencing his knowledge of Real Madrid's president, Florentino Perez. This suggests Sacchi believes Ancelotti remains valuable and should be retained or considered for future roles by top clubs."
   },
   {
     "title": "USWNT captain Lindsey Heaps says salary cap issue to blame for NWSL departures",
@@ -1018,121 +1091,40 @@
     ],
     "score_components": {
       "magnitude": 0.12,
-      "recency": 0.996,
+      "recency": 0.99,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.355,
-    "normalized_score": 3.48,
-    "summary": "USWNT captain Lindsey Heaps criticized the NWSL's salary cap as a reason for top American players, including Naomi Girma, moving to European clubs. Girma's transfer to Chelsea for a record $1.1 million from the San Diego Wave exemplifies this trend. Heaps addressed the issue before Lyon's Champions League semifinal against Arsenal, suggesting the salary cap limits the league's competitiveness and appeal."
+    "score": 0.354,
+    "normalized_score": 3.76,
+    "summary": "USWNT captain and Lyon midfielder Lindsey Heaps criticized the NWSL salary cap for driving top American players to Europe. Highlighting this trend, Naomi Girma's move to Chelsea for a record $1.1 million fee exemplifies the shift. Heaps spoke out ahead of Lyon's Champions League semifinal, suggesting the salary cap limits the league's competitiveness and appeal to top talent."
   },
   {
-    "title": "“He can ask to leave” – ex-Arsenal defender believes current star has uncertain future",
+    "title": "What channel is Milwaukee Bucks vs Indiana Pacers on today? Time, TV, streaming, odds",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 09:01:00 +0000",
+    "published": "Sat, 19 Apr 2025 10:04:51 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Arsenal have shown over the last 18 months that they have an excellent defence, but according to one former player, they could lose one of their key performers in that area as early as this summer’s..."
+      "The Milwaukee Bucks begin their first round NBA playoff series today against Indiana Pacers"
     ],
     "image_url": "",
     "titles": [
-      "“He can ask to leave” – ex-Arsenal defender believes current star has uncertain future"
+      "What channel is Milwaukee Bucks vs Indiana Pacers on today? Time, TV, streaming, odds"
     ],
     "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.989,
+      "magnitude": 0.1,
+      "recency": 0.998,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.353,
-    "normalized_score": 3.41,
-    "summary": "Arsenal, recognized for their strong defense over the past 18 months, may face the departure of a key defensive player this summer, as suggested by a former player. The identity of the player or the reasons for the potential departure were not disclosed."
-  },
-  {
-    "title": "“He’s made it clear…”: Alan Shearer makes claim on Marcus Rashford future",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 08:57:00 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Newcastle United legend Alan Shearer believes there is no way back to Manchester United for Marcus Rashford.Rashford ended up joining Unai Emery’s Aston Villa on a short loan deal during the last wi..."
-    ],
-    "image_url": "",
-    "titles": [
-      "“He’s made it clear…”: Alan Shearer makes claim on Marcus Rashford future"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.988,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.41,
-    "summary": "Alan Shearer, a Newcastle United legend, has stated that Marcus Rashford has no future at Manchester United. Rashford has moved to Aston Villa on a short loan deal, as confirmed during the last transfer window. This move, according to Shearer, signifies the end of Rashford's career at Manchester United."
-  },
-  {
-    "title": "Report: Man Utd and Liverpool eye bargain Lyon star in summer transfer race",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 08:50:00 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Rayan Cherki: Raw Talent, Real Temptation for Premier League GiantsRising Numbers, Rising HopesAt 21, Rayan Cherki already feels like a footballing veteran. Nearly 200 senior appearances for Lyon, a r..."
-    ],
-    "image_url": "",
-    "titles": [
-      "Report: Man Utd and Liverpool eye bargain Lyon star in summer transfer race"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.986,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.41,
-    "summary": "At 21, Rayan Cherki has made nearly 200 senior appearances for Lyon, showcasing his talent and drawing attention from Premier League clubs. His performance has sparked interest among top teams, positioning him as a sought-after player in the football world."
-  },
-  {
-    "title": "This position is an Eagles' trainwreck in NFL Draft. The player who can change that",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 08:46:43 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "What would it take for the Eagles to finally hit at their least successful position in the NFL Draft?"
-    ],
-    "image_url": "",
-    "titles": [
-      "This position is an Eagles' trainwreck in NFL Draft. The player who can change that"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.986,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.353,
-    "normalized_score": 3.41,
-    "summary": "The Philadelphia Eagles have struggled to successfully draft players for a specific position, which remains unspecified in the provided content. To improve their drafting success at this position, the team would likely need to adopt a new strategy or approach in evaluating and selecting potential draft picks. The current status of their efforts or any specific changes to their drafting strategy were not detailed in the provided content."
+    "score": 0.35,
+    "normalized_score": 3.6,
+    "summary": "The Milwaukee Bucks are set to start their NBA playoff journey by facing the Indiana Pacers in the first round series today. This marks the beginning of their quest for championship glory in this season's playoffs."
   }
 ]
