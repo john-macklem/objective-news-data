@@ -19,14 +19,14 @@
     "constructiveness_reason": "This story provides useful information about an overlooked figure in history, contributing to a deeper understanding of historical exploration and archaeology. However, it does not report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.79,
+      "recency": 0.782,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.487,
+    "score": 0.485,
     "normalized_score": 10.0,
-    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering the ancient city of Mohenjo-daro in 1922, a significant site of the Indus Valley Civilization. However, his legacy is marred by controversy, including disputes over the academic recognition of his work and the appropriation of his discoveries by others. Despite these controversies, Banerjee's contribution to archaeology remains notable for uncovering one of the oldest urban settlements in the world."
+    "summary": "Rakhaldas Banerjee, an Indian archaeologist, is recognized for discovering Mohenjo-daro, a major site of the ancient Indus Valley Civilization. However, his legacy is marred by controversy, though the summary does not specify the nature of these controversies."
   },
   {
     "title": "Designed in US, made in China: Why Apple is stuck",
@@ -48,14 +48,41 @@
     "constructiveness_reason": "This story is constructive as it provides useful insights into the manufacturing processes of a major company and the challenges it faces. It increases clarity around the systems and trends in global manufacturing.",
     "score_components": {
       "magnitude": 0.22,
-      "recency": 0.753,
+      "recency": 0.745,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.484,
+    "score": 0.482,
     "normalized_score": 9.87,
-    "summary": "China is a central part of Apple's supply chain, significantly benefiting from this relationship. The current status or outcome regarding whether this partnership can be dissolved or altered remains unspecified in the provided content."
+    "summary": "Apple's supply chain is deeply integrated with China, which has seen significant benefits from this relationship. The question of whether Apple can sever these ties is complex, involving economic, logistical, and political factors. However, the current status or decisions regarding any potential separation between Apple and its Chinese supply chain partners were not provided in the information given."
+  },
+  {
+    "title": "Will Trump abandon Ukraine peace efforts?",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 19 Apr 2025 16:38:48 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "The US president has threatened to &#039;move on&#039; if he sees no progress from Russia and Ukraine."
+    ],
+    "image_url": "",
+    "titles": [
+      "Will Trump abandon Ukraine peace efforts?"
+    ],
+    "score_components": {
+      "magnitude": 0.26,
+      "recency": 0.991,
+      "proximity": 0.6,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.476,
+    "normalized_score": 9.6,
+    "summary": "The US president has issued a warning that he will consider taking alternative actions if there is no advancement in the situation between Russia and Ukraine. This statement indicates a potential shift in the US's approach if progress is not observed in resolving the conflict."
   },
   {
     "title": "Five dead as huge waves hit Australia coast",
@@ -75,95 +102,68 @@
     ],
     "score_components": {
       "magnitude": 0.3,
-      "recency": 0.936,
+      "recency": 0.928,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.474,
+    "score": 0.472,
     "normalized_score": 9.42,
     "summary": "Two individuals are currently missing, prompting officials to issue warnings for people to exercise caution due to ongoing surf warnings."
   },
   {
-    "title": "Is the US dollar at risk of a ‘confidence crisis’?",
+    "title": "Putin declares 'Easter truce', as Ukraine says he 'cannot be trusted'",
     "domain": "general",
     "location": "global",
-    "published": "Sat, 19 Apr 2025 10:10:11 +0000",
+    "published": "Sat, 19 Apr 2025 17:07:39 GMT",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "Fears about unpredictable policy are prompting investors to question their faith in the US dollar."
+      "The Russian president says he ordered his forces to \"stop all military activity\" until the end of Sunday."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5767/live/db076e40-1d28-11f0-b700-f1f963c8c095.jpg",
     "titles": [
-      "Is the US dollar at risk of a ‘confidence crisis’?"
-    ],
-    "score_components": {
-      "magnitude": 0.3,
-      "recency": 0.909,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.467,
-    "normalized_score": 9.12,
-    "summary": "Concerns over erratic policy decisions are leading investors to reconsider their confidence in the US dollar, affecting its position as a reliable investment."
-  },
-  {
-    "title": "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 19 Apr 2025 14:03:46 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Russia says it expects Ukraine to do the same over the Easter period."
-    ],
-    "image_url": "",
-    "titles": [
-      "Russia’s Putin declares unilateral Easter ceasefire in Ukraine conflict"
+      "Putin declares 'Easter truce', as Ukraine says he 'cannot be trusted'"
     ],
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.963,
+      "recency": 0.997,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.463,
-    "normalized_score": 8.94,
-    "summary": "Russia announced its expectation for Ukraine to observe a ceasefire during the Easter period, mirroring its own commitment. This statement suggests a mutual desire for a temporary halt in hostilities to honor the religious holiday."
+    "score": 0.471,
+    "normalized_score": 9.38,
+    "summary": "The Russian president has announced a directive for his military forces to cease all operations until the end of Sunday. This pause in military activity is effective immediately, according to his statement."
   },
   {
-    "title": "WWE WrestleMania 41 start time, date: Where to watch and live stream the massive event this weekend",
+    "title": "Breaking down each Raiders pick in Chad Reuter’s 7-round NFL Mock Draft",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 14:00:52 +0000",
+    "published": "Sat, 19 Apr 2025 16:40:10 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The annual spectacle is sure to deliver another amazing show in Las Vegas on Saturday and Sunday"
+      "A breakdown of every Raiders draft pick from Chad Reuter's 7-round mock draft"
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/04/16/1f4f766a-e17b-4318-a767-62e881791b5e/john-cena-lights.jpg",
+    "image_url": "",
     "titles": [
-      "WWE WrestleMania 41 start time, date: Where to watch and live stream the massive event this weekend"
+      "Breaking down each Raiders pick in Chad Reuter’s 7-round NFL Mock Draft"
     ],
     "score_components": {
-      "magnitude": 0.2,
-      "recency": 0.963,
+      "magnitude": 0.22,
+      "recency": 0.991,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.371,
-    "normalized_score": 4.87,
-    "summary": "The annual event in Las Vegas, known for its spectacular shows, is scheduled to take place this weekend, on Saturday and Sunday. It promises to offer attendees another impressive display, continuing its tradition of delivering remarkable performances."
+    "score": 0.384,
+    "normalized_score": 5.53,
+    "summary": "Chad Reuter's 7-round mock draft provides a detailed breakdown of every draft pick projected for the Raiders. This comprehensive analysis covers potential selections for the team across all rounds, offering insights into the strategic choices the Raiders might make to enhance their roster."
   },
   {
     "title": "Crew expect record crowd for Messi in Cleveland",
@@ -183,84 +183,30 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.939,
+      "recency": 0.93,
       "proximity": 0.2,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.365,
+    "score": 0.363,
     "normalized_score": 4.6,
-    "summary": "Columbus Crew is set to host Lionel Messi and Inter Miami in a match that has been moved to Cleveland, anticipating a record attendance. This decision aims to accommodate a larger crowd, highlighting the significant draw Messi brings to the event."
+    "summary": "The Columbus Crew is set to host Lionel Messi and Inter Miami in a match that has been moved to Cleveland, anticipating a record-breaking attendance. This decision reflects the high interest generated by Messi's participation."
   },
   {
-    "title": "Indiana basketball under Darian DeVries: Experts explain transfer portal news, 2025 recruits, targets, roster",
+    "title": "Utah gymnastics believes it can win the national title, but if it doesn’t the Red Rocks will remain elite",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 19 Apr 2025 16:17:06 +0000",
+    "published": "Sat, 19 Apr 2025 16:58:34 +0000",
     "source": "unknown",
     "sources": [
       "unknown"
     ],
     "snippets": [
-      "The Peegs.com team has covered the Hoosiers for decades and reveals the latest Indiana basketball roster under new head coach Darian DeVries, who took over for Mike Woodson"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/01/25/e5d906b9-2927-45f0-8f03-89533ae8f5b2/oumar-ballo-cbs-2.jpg",
-    "titles": [
-      "Indiana basketball under Darian DeVries: Experts explain transfer portal news, 2025 recruits, targets, roster"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.994,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.355,
-    "normalized_score": 4.16,
-    "summary": "The Peegs.com team, known for their extensive coverage of the Hoosiers, has revealed the latest Indiana basketball roster following a coaching change. Darian DeVries has replaced Mike Woodson as the new head coach. This marks a significant transition for the team as they enter a new era under DeVries's leadership."
-  },
-  {
-    "title": "Barcelona win seven-goal thriller against Celta Vigo to increase La Liga lead",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 16:27:00 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Barcelona have come from behind to secure a remarkable 4-3 victory over Celta Vigo in their La Liga encounter at the Estadi Olimpic Lluis Companys.The hosts made a strong start to proceedings as they ..."
+      "The Red Rocks have a real chance to end their 30-plus year national title drought."
     ],
     "image_url": "",
     "titles": [
-      "Barcelona win seven-goal thriller against Celta Vigo to increase La Liga lead"
-    ],
-    "score_components": {
-      "magnitude": 0.12,
-      "recency": 0.996,
-      "proximity": 0.2,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.355,
-    "normalized_score": 4.16,
-    "summary": "Barcelona achieved a 4-3 comeback victory against Celta Vigo in their La Liga match at the Estadi Olimpic Lluis Companys. The win highlights Barcelona's resilience and ability to overturn a deficit in a competitive game."
-  },
-  {
-    "title": "Bournemouth held to goalless draw against 10-man Palace",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 19 Apr 2025 16:19:00 +0000",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Bournemouth were held to a goalless draw against Crystal Palace at Selhurst Park, despite playing the entire second half with an extra man.The first half was a scrappy affair, with the biggest moment ..."
-    ],
-    "image_url": "",
-    "titles": [
-      "Bournemouth held to goalless draw against 10-man Palace"
+      "Utah gymnastics believes it can win the national title, but if it doesn’t the Red Rocks will remain elite"
     ],
     "score_components": {
       "magnitude": 0.12,
@@ -270,8 +216,62 @@
       "constructiveness": 0.0
     },
     "score": 0.355,
-    "normalized_score": 4.16,
-    "summary": "Bournemouth and Crystal Palace played to a 0-0 draw at Selhurst Park. Despite Bournemouth having an extra player for the entire second half, neither team could break the deadlock. The first half was marked by scrappy play without any significant scoring opportunities for either side."
+    "normalized_score": 4.25,
+    "summary": "The Red Rocks, after more than 30 years, have a significant opportunity to win a national title, indicating a pivotal moment in their sports history. This suggests their performance and capabilities have positioned them as strong contenders in their field."
+  },
+  {
+    "title": "Zverev into Munich final against Shelton",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 16:58:21 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Alexander Zverev is one victory away from his first title of the year after he beat Fabian Marsozan 7-6 (7-3), 6-3 in the semi-finals of the BMW Open on Saturday. Top seed Zverev won in front of a German home crowd in 1 hour 32 minutes on the Munich centre court. In the final on his 28th birthday Sunday, Zverev faces second-seeded American Ben Shelton, who rallied to beat Fransico Cerundolo 2-6, 7-6 (9-7), 6-4. Zverev missed a maiden grand slam title again when he lost the Australian Open final"
+    ],
+    "image_url": "",
+    "titles": [
+      "Zverev into Munich final against Shelton"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.995,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.355,
+    "normalized_score": 4.25,
+    "summary": "Alexander Zverev advanced to the final of the BMW Open by defeating Fabian Marsozan 7-6 (7-3), 6-3 in the semi-finals. The match, which took place in Munich, lasted 1 hour and 32 minutes. Zverev, the top seed, will compete for his first title of the year against second-seeded American Ben Shelton on his 28th birthday. Shelton secured his spot in the final after overcoming Francisco Cerundolo in a three-set match. This development comes after Zverev's recent loss in the Australian Open final."
+  },
+  {
+    "title": "Analyst Claims New Arrival Could End One Defender’s Anfield Journey",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 19 Apr 2025 16:50:00 +0000",
+    "source": "unknown",
+    "sources": [
+      "unknown"
+    ],
+    "snippets": [
+      "Is This the End for Quansah at Liverpool? What Huijsen’s Arrival Could MeanWhen Liverpool fans think about the future of their defence, Jarell Quansah often features as a symbol of promise. But acco..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Analyst Claims New Arrival Could End One Defender’s Anfield Journey"
+    ],
+    "score_components": {
+      "magnitude": 0.12,
+      "recency": 0.993,
+      "proximity": 0.2,
+      "consensus": 0.2,
+      "constructiveness": 0.0
+    },
+    "score": 0.354,
+    "normalized_score": 4.2,
+    "summary": "Liverpool FC's defensive future, often associated with prospect Jarell Quansah, faces speculation due to the arrival of defender Huijsen. While no official statements have been made regarding Quansah's position, Huijsen's inclusion could impact Quansah's role at Liverpool. The situation remains uncertain as the club has not commented on any potential changes to Quansah's status following Huijsen's signing."
   },
   {
     "title": "Putin declares 30-hour Easter ceasefire in Ukraine",
@@ -291,14 +291,14 @@
     ],
     "score_components": {
       "magnitude": 0.24,
-      "recency": 0.993,
+      "recency": 0.985,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.47,
+    "score": 0.468,
     "normalized_score": 9.25,
-    "summary": "Sirens were activated in Kyiv, signaling an air raid, as the city's air defenses engaged incoming missiles. This action occurred shortly after an official announcement was made, indicating a prompt response to the aerial threat."
+    "summary": "Sirens were activated in Kyiv, signaling an air raid as the city's air defenses engaged incoming missiles. This action occurred minutes after an official announcement warned of the threat. The current status following the defensive response has not been detailed in the provided information."
   },
   {
     "title": "US and Iran agree to another round of talks to end nuclear stand-off",
@@ -318,14 +318,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.978,
+      "recency": 0.97,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.455,
+    "score": 0.453,
     "normalized_score": 8.58,
-    "summary": "Adversaries have agreed to meet in Oman next week following constructive and 'forward-looking' negotiations in Rome. The discussions in Rome, which aimed at addressing and resolving ongoing disputes, have set the stage for further dialogue in Oman. The outcome of the Rome negotiations has been positively received, leading to the scheduled meeting in Oman as a continuation of efforts to find common ground and solutions."
+    "summary": "Next week, adversaries involved in ongoing conflicts will convene in Oman following productive and 'forward-looking' negotiations that took place in Rome. The discussions in Rome have set the stage for the upcoming meetings in Oman, aiming to build on the positive momentum achieved."
   },
   {
     "title": "US Supreme Court temporarily halts deportations of migrants",
@@ -345,14 +345,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.976,
+      "recency": 0.967,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.454,
+    "score": 0.452,
     "normalized_score": 8.54,
-    "summary": "The Supreme Court has blocked the Trump administration's effort to use a long-standing but infrequently invoked law for unspecified purposes. This decision prevents the administration from implementing its intended actions under this law, maintaining the status quo prior to the administration's attempt."
+    "summary": "The Supreme Court has blocked the Trump administration's effort to use a long-standing but infrequently invoked law. This decision prevents the administration from implementing a policy or action that relied on this specific legal basis, maintaining the status quo prior to the attempt."
   },
   {
     "title": "What Analysts Think of Google Parent Alphabet's Stock Ahead of Earnings",
@@ -372,14 +372,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.921,
+      "recency": 0.912,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.44,
+    "score": 0.438,
     "normalized_score": 7.92,
-    "summary": "Alphabet, Google's parent company, is set to report its first-quarter results after market close on Thursday, with analysts optimistic about its resilience amidst economic uncertainty. A majority of analysts, 14 out of 19 tracked by Visible Alpha, recommend buying the stock, expecting a 29% upside to their consensus price target of around $195. Citi and Morgan Stanley highlight Google's potential for growth, particularly through AI innovations in Search and YouTube. Despite a recent U.S. District Court ruling against Google for maintaining online advertising monopolies, analysts believe this w"
+    "summary": "Alphabet, Google's parent company, is set to report its first-quarter results after market close on Thursday, with analysts generally optimistic about its prospects despite economic uncertainties. A majority of analysts, 14 out of 19 tracked by Visible Alpha, recommend buying the stock, anticipating a 29% upside to their consensus price target of around $195. Citi and Morgan Stanley highlight Google's resilience and potential for growth, particularly through its adoption of AI tools in Search and YouTube. Analysts expect Alphabet to report an 11% increase in revenue to $89.22 billion and a net"
   },
   {
     "title": "Rory McIlroy's 9-Figure Net Worth—How He Made Millions On and Off the Course",
@@ -399,14 +399,14 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.907,
+      "recency": 0.898,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.437,
-    "normalized_score": 7.79,
-    "summary": "Rory McIlroy, a champion golfer, has achieved a career Grand Slam by winning the 2025 Masters Tournament, making him one of only six golfers to win all four major championships. With nearly two decades as a professional golfer, McIlroy has amassed a net worth of approximately $250 million. In April 2025, he surpassed $100 million in career earnings on the PGA Tour, becoming the second golfer after Tiger Woods to achieve this milestone. McIlroy is also a successful entrepreneur, earning millions from business ventures and partnerships, including co-founding TMRW Sports and founding Symphony Ven"
+    "score": 0.434,
+    "normalized_score": 7.74,
+    "summary": "Rory McIlroy achieved a career Grand Slam by winning the 2025 Masters Tournament, making him one of only six golfers to win all four major championships. Following his victory, McIlroy's net worth is estimated at about $250 million, with over $100 million earned from the PGA Tour alone, marking him as the second golfer after Tiger Woods to reach this milestone. Besides his success on the course, McIlroy has earned millions through endorsements, business ventures, and partnerships, including co-founding TMRW Sports and investment firm Symphony Ventures. He was the second highest-paid golfer in "
   },
   {
     "title": "New colour seen for the first time by tricking the eyes",
@@ -428,43 +428,14 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.699,
+      "recency": 0.69,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.385,
-    "normalized_score": 5.49,
-    "summary": "A newly developed device has allowed individuals to perceive a unique shade of blue-green, described as being more intense than any previously seen. This advancement marks a significant achievement in the field of visual technology, offering an enhanced color experience."
-  },
-  {
-    "title": "Claims of alien life are overhyped – and miss the real accomplishment",
-    "domain": "science",
-    "location": "global",
-    "published": "Fri, 18 Apr 2025 18:14:03 +0100",
-    "source": "unknown",
-    "sources": [
-      "unknown"
-    ],
-    "snippets": [
-      "Whenever there’s even a slight chance that an exoplanet shows signs of biological activity, people understandably get excited – but it’s never been aliens, and we shouldn’t jump to conclusions, not this time or the next, says Chris Lintott"
-    ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/04/18165312/SEI_247864467.jpg",
-    "titles": [
-      "Claims of alien life are overhyped – and miss the real accomplishment"
-    ],
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "",
-    "score_components": {
-      "magnitude": 0.22,
-      "recency": 0.674,
-      "proximity": 0.6,
-      "consensus": 0.2,
-      "constructiveness": 0.0
-    },
-    "score": 0.385,
-    "normalized_score": 5.49,
-    "summary": "Astronomer Chris Lintott cautions against prematurely concluding that signs of biological activity on exoplanets indicate alien life. He emphasizes that, despite public excitement, there has never been evidence of aliens and urges restraint in jumping to conclusions about extraterrestrial life based on current or future discoveries."
+    "score": 0.382,
+    "normalized_score": 5.44,
+    "summary": "A newly developed device has allowed individuals to perceive a unique shade of blue-green, described as significantly more intense than any previously observed. This innovation marks a notable advancement in the exploration of color perception."
   },
   {
     "title": "Scientists probe the mystery of Titan's missing deltas",
@@ -484,13 +455,13 @@
     ],
     "score_components": {
       "magnitude": 0.2,
-      "recency": 0.624,
+      "recency": 0.615,
       "proximity": 0.6,
       "consensus": 0.2,
       "constructiveness": 0.0
     },
-    "score": 0.366,
+    "score": 0.364,
     "normalized_score": 4.65,
-    "summary": "Recent research indicates that Titan, Saturn's moon, despite having extensive rivers and seas of liquid methane, surprisingly lacks river deltas. This discovery prompts further investigation into the moon's surface processes, as it contradicts expectations based on Earth's geography."
+    "summary": "Recent research indicates that Titan, Saturn's moon, surprisingly lacks river deltas despite having extensive rivers and seas of liquid methane. This finding challenges current understanding of Titan's surface dynamics and prompts further investigation into its geological processes."
   }
 ]
