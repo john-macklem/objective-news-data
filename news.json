@@ -15,17 +15,17 @@
     "titles": [
       "Alec Baldwin's deadly western movie 'Rust' finally makes it to the screen"
     ],
-    "summary": "Cinematographer Halyna Hutchins died on a New Mexico movie set. To compensate her family, who filed a lawsuit, a portion of the film's distribution proceeds will be allocated to them.",
+    "summary": "Cinematographer Halyna Hutchins was fatally shot on a New Mexico movie set. To compensate her family, who filed a lawsuit, a portion of the film's distribution proceeds will be allocated to them.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about the incident on the movie set and the compensation to the victim's family. However, it lacks depth or insight into the broader implications or preventative measures for such incidents in the film industry.",
+    "constructiveness_reason": "This story provides basic awareness about a tragic incident and its aftermath, but it doesn't offer much depth or insight beyond that. It doesn't provide actionable insights or deeper understanding, nor does it report on solutions, improvements, or attempts to solve problems. The story doesn't increase clarity around systems, causes, trends, or impacts that matter.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.923,
+      "recency": 0.812,
       "consensus": 0.2,
       "constructiveness": 0.3
     },
-    "score": 0.503,
-    "normalized_score": 3.02
+    "score": 0.469,
+    "normalized_score": 2.69
   },
   {
     "title": "Fate of California's auto standards will come down to Senate battle",
@@ -43,45 +43,17 @@
     "titles": [
       "Fate of California's auto standards will come down to Senate battle"
     ],
-    "summary": "This week, the House voted on three measures aimed at challenging California's longstanding authority to set its own environmental regulations. These votes are preparing for a notable confrontation in the U.S. Senate over the state's unique environmental enforcement capabilities.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "The story informs about the ongoing legislative process related to environmental regulations in California. It provides useful context about the state's unique environmental enforcement capabilities and the upcoming Senate confrontation, which can help readers understand the political dynamics and potential impacts on environmental policy.",
+    "summary": "The House voted to challenge California's long-standing authority to set its own environmental standards, initiating a potential conflict in the U.S. Senate. This series of votes aims to address the state's unique position on environmental regulation, marking a significant moment in federal-state relations concerning environmental policy.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story informs and contextualizes the ongoing debate about environmental regulation in California, providing useful information about federal-state relations and the potential impacts of the House's decision. However, it doesn't clearly highlight solutions or empowering knowledge, limiting its score.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.904,
+      "recency": 0.793,
       "consensus": 0.2,
-      "constructiveness": 0.7
+      "constructiveness": 0.8
     },
-    "score": 0.537,
-    "normalized_score": 5.66
-  },
-  {
-    "title": "Calmes: The 'USA' brand was 250 years in the making. It took just 100 days to trash it",
-    "domain": "general",
-    "location": "national",
-    "published": "Thu, 1 May 2025 10:00:00 GMT",
-    "source": "LA Times",
-    "sources": [
-      "LA Times"
-    ],
-    "snippets": [
-      "<p>President Trump claims 'everybody is saying' his second term had the best start in presidential history. No, they're not. </p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Calmes: The 'USA' brand was 250 years in the making. It took just 100 days to trash it"
-    ],
-    "summary": "President Trump claimed that his second term had the best start in presidential history, a statement that is not supported by evidence or widespread agreement. This claim is contradicted by various sources, indicating that it is not a universally accepted viewpoint.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story offers basic awareness about the controversy surrounding President Trump's claim. However, it lacks depth or insight into the broader implications of this claim for the country's image, the political climate, or the public's perception of presidential performance.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.804,
-      "consensus": 0.2,
-      "constructiveness": 0.5
-    },
-    "score": 0.487,
-    "normalized_score": 1.78
+    "score": 0.514,
+    "normalized_score": 6.04
   },
   {
     "title": "Chabria: Military takeovers, questionable arrests, sanctuary city crackdowns. Hot Trump summer is here",
@@ -99,17 +71,45 @@
     "titles": [
       "Chabria: Military takeovers, questionable arrests, sanctuary city crackdowns. Hot Trump summer is here"
     ],
-    "summary": "Recent executive orders and actions by the federal government aim to limit states' rights, a shift from the traditionally conservative principle of prioritizing such rights.",
+    "summary": "Recent executive orders and actions by the federal government aim to limit states' rights, marking a shift from previously upheld conservative policies that emphasized the importance of states' autonomy.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides some useful context about recent changes in federal policy and their impact on states' rights. However, it lacks clear solutions or progress, and the sensationalist language may detract from its overall constructiveness.",
+    "constructiveness_reason": "The story provides information about recent changes in federal policy and their potential impacts on states' rights, contributing to the reader's understanding of the current political climate. However, it doesn't report on solutions or improvements, and its focus on controversial actions may not contribute to a sense of agency for the reader.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.804,
+      "recency": 0.693,
       "consensus": 0.2,
       "constructiveness": 0.6
     },
-    "score": 0.505,
-    "normalized_score": 3.18
+    "score": 0.471,
+    "normalized_score": 2.84
+  },
+  {
+    "title": "Calmes: The 'USA' brand was 250 years in the making. It took just 100 days to trash it",
+    "domain": "general",
+    "location": "national",
+    "published": "Thu, 1 May 2025 10:00:00 GMT",
+    "source": "LA Times",
+    "sources": [
+      "LA Times"
+    ],
+    "snippets": [
+      "<p>President Trump claims 'everybody is saying' his second term had the best start in presidential history. No, they're not. </p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Calmes: The 'USA' brand was 250 years in the making. It took just 100 days to trash it"
+    ],
+    "summary": "President Trump stated that his second term had the best start in presidential history, a claim that is not widely supported or echoed by others. This statement has been contradicted, indicating that there is no broad consensus or evidence to support his assertion of having the best start.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness of a political claim and its contradiction, but it doesn't offer deep insights or actionable information. It doesn't report on solutions or progress, nor does it increase clarity around systems or impacts.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.693,
+      "consensus": 0.2,
+      "constructiveness": 0.3
+    },
+    "score": 0.433,
+    "normalized_score": 0.0
   },
   {
     "title": "Life after California's death row: What happens when condemned inmates get a second chance",
@@ -127,107 +127,23 @@
     "titles": [
       "Life after California's death row: What happens when condemned inmates get a second chance"
     ],
-    "summary": "In 2019, California Governor Gavin Newsom issued a moratorium on executions, halting the death penalty, and ordered the dismantling of death row. This decision has provided inmates with a mixed sense of relief and uncertainty, as they navigate life under this new directive.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is highly constructive, providing readers with a deeper understanding of the effects of policy changes on death row inmates. It highlights the progress made with the moratorium on executions and provides insights into the impacts of this decision.",
+    "summary": "In 2019, California Governor Gavin Newsom issued a moratorium on executions and ordered the dismantling of death row, impacting inmates who now express mixed feelings about their prolonged lives. This decision has significantly altered the state's approach to capital punishment, giving many prisoners a complex sense of relief and uncertainty about their future.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "The story informs readers about a significant change in California's approach to capital punishment and its impact on inmates. It doesn't explicitly offer solutions or progress, but it does provide useful context and understanding of the issue.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.804,
+      "recency": 0.693,
       "consensus": 0.2,
-      "constructiveness": 0.9
+      "constructiveness": 0.8
     },
-    "score": 0.527,
-    "normalized_score": 4.88
-  },
-  {
-    "title": "In its spell as F1 host, Miami has become America's Monaco",
-    "domain": "sports",
-    "location": "national",
-    "published": "Thu, 1 May 2025 19:53:37 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "A good F1 venue goes beyond on-track action, and when it comes to spectacle and fun, Miami is second to none."
-    ],
-    "image_url": "",
-    "titles": [
-      "In its spell as F1 host, Miami has become America's Monaco"
-    ],
-    "summary": "The Miami Formula 1 venue is highly regarded not just for its racing but also for the overall spectacle and entertainment it offers, making it one of the top locations in the Formula 1 circuit for both action and fun.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story offers some basic awareness about the Miami Formula 1 venue and its status within the circuit. However, it lacks depth or actionable insights, and does not report on solutions, improvements, or attempts to solve problems.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.942,
-      "consensus": 0.2,
-      "constructiveness": 0.5
-    },
-    "score": 0.508,
-    "normalized_score": 3.41
-  },
-  {
-    "title": "FA to ban transgender players in women's soccer",
-    "domain": "sports",
-    "location": "national",
-    "published": "Thu, 1 May 2025 19:52:33 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "The English Football Association (FA) has said it will ban transgender players from women's football from next season, starting from June 1."
-    ],
-    "image_url": "",
-    "titles": [
-      "FA to ban transgender players in women's soccer"
-    ],
-    "summary": "The English Football Association (FA) announced a ban on transgender players participating in women's football competitions, effective from June 1, starting the next season. This decision directly impacts the eligibility of transgender athletes in the sport.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "While the story does increase awareness about a decision that impacts transgender athletes, it lacks depth or insight into the reasons behind the decision or its potential implications. It does not provide actionable insights or deeper understanding for the reader.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.942,
-      "consensus": 0.2,
-      "constructiveness": 0.5
-    },
-    "score": 0.508,
-    "normalized_score": 3.41
-  },
-  {
-    "title": "Stanley Cup playoffs daily: How many teams will force a Game 7?",
-    "domain": "sports",
-    "location": "national",
-    "published": "Thu, 1 May 2025 19:47:43 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "All four matchups are at 3-2. Will the leading teams advance -- or will the series extend? Get prepared here."
-    ],
-    "image_url": "",
-    "titles": [
-      "Stanley Cup playoffs daily: How many teams will force a Game 7?"
-    ],
-    "summary": "In the current sports series, all four matchups stand at 3-2. The outcome remains uncertain as it's unknown whether the leading teams will advance to the next stage or if the series will be extended. Further developments are anticipated.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "The story offers basic awareness of the current state of the playoffs but doesn't provide any depth, insight, or contextual information. There is no discussion of strategies, player performance, or other factors that could influence the outcomes.",
-    "score_components": {
-      "magnitude": 0.359,
-      "recency": 0.94,
-      "consensus": 0.2,
-      "constructiveness": 0.3
-    },
-    "score": 0.496,
-    "normalized_score": 2.48
+    "score": 0.483,
+    "normalized_score": 3.73
   },
   {
     "title": "What a championship for these 10 playoff teams would say about the NBA",
     "domain": "sports",
     "location": "national",
-    "published": "Thu, 1 May 2025 19:43:30 EST",
+    "published": "Thu, 1 May 2025 22:55:36 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
@@ -239,45 +155,185 @@
     "titles": [
       "What a championship for these 10 playoff teams would say about the NBA"
     ],
-    "summary": "The article discusses the implications of different NBA teams, such as the Celtics and the Thunder, winning titles and how those victories could shape various futures for the league. It explores the potential outcomes and changes in the NBA landscape depending on which team secures a championship.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about the potential implications of different teams winning the NBA championship. It helps the reader understand the potential impacts on the league and could assist in decision-making for stakeholders. However, it does not highlight progress, solutions, or empowering knowledge.",
+    "summary": "The article discusses the implications of different NBA teams, such as the Celtics and the Thunder, potentially winning titles and how these outcomes could shape various futures for the league. It suggests that each team's victory could lead to distinct directions for the NBA's development.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story offers useful insights into the potential implications of different NBA teams winning titles. While it doesn't report on specific solutions or improvements, it does provide a deeper understanding of the potential futures of the NBA.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.939,
+      "recency": 0.873,
       "consensus": 0.2,
-      "constructiveness": 0.8
+      "constructiveness": 0.6
     },
-    "score": 0.537,
-    "normalized_score": 5.66
+    "score": 0.497,
+    "normalized_score": 4.78
   },
   {
-    "title": "Game 7, anyone? The key factors behind a trio of NBA playoff Game 6s",
+    "title": "NBA offseason preview: Complete guides for Pistons, Lakers and every eliminated team",
     "domain": "sports",
     "location": "national",
-    "published": "Thu, 1 May 2025 19:43:29 EST",
+    "published": "Thu, 1 May 2025 22:55:36 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "Three matchups have extended to Game 6s in the first round. What does each team need to do to advance or stay alive?"
+      "NBA front office insider Bobby Marks breaks down the summer priorities and needs for every eliminated team."
     ],
     "image_url": "",
     "titles": [
-      "Game 7, anyone? The key factors behind a trio of NBA playoff Game 6s"
+      "NBA offseason preview: Complete guides for Pistons, Lakers and every eliminated team"
     ],
-    "summary": "Three first-round series in the playoffs have progressed to Game 6. To advance or remain in contention, the teams involved need to strategically address their weaknesses, capitalize on their strengths, and make necessary adjustments based on their performances in the previous games. The outcome of these matchups will determine which teams move forward in the playoffs.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful insights into the strategic considerations for NBA teams in the playoffs. It offers a deeper understanding of the game's tactics and the importance of adjustments based on previous performances. However, it doesn't highlight any significant progress, solutions, or empowering knowledge beyond the context of the games.",
+    "summary": "NBA insider Bobby Marks provided an analysis of the summer priorities and needs for every NBA team that has been eliminated from contention. Marks' breakdown focuses on identifying key areas of improvement and strategic moves these teams should consider during the offseason to enhance their performance for the next season.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is constructive as it provides actionable insights for the reader by identifying key areas of improvement and strategic moves for NBA teams. It also reports on potential solutions to enhance team performance, contributing to progress.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.939,
+      "recency": 0.873,
+      "consensus": 0.2,
+      "constructiveness": 0.9
+    },
+    "score": 0.527,
+    "normalized_score": 7.01
+  },
+  {
+    "title": "Sources: Barça's Kounde to miss Inter 2nd leg",
+    "domain": "sports",
+    "location": "national",
+    "published": "Thu, 1 May 2025 22:43:31 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Barcelona have confirmed defender Jules Kounde suffered a hamstring injury in Wednesday's 3-3 Champions League semifinal draw against Inter Milan, with sources telling ESPN he will miss the second leg in Italy next week."
+    ],
+    "image_url": "",
+    "titles": [
+      "Sources: Barça's Kounde to miss Inter 2nd leg"
+    ],
+    "summary": "Barcelona announced that defender Jules Kounde sustained a hamstring injury during the 3-3 draw against Inter Milan in the Champions League semifinal. Sources informed ESPN that Kounde will be unable to play in the upcoming second leg match in Italy.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story offers basic awareness about a player's injury and its immediate impact on the next match. However, it lacks depth or insight into broader implications or potential solutions.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.87,
+      "consensus": 0.2,
+      "constructiveness": 0.5
+    },
+    "score": 0.487,
+    "normalized_score": 4.03
+  },
+  {
+    "title": "Who are your club's future stars? Updated top 10 prospect rankings for all 30 MLB teams",
+    "domain": "sports",
+    "location": "national",
+    "published": "Thu, 1 May 2025 22:05:56 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Who is rising and falling in every major league farm system? Kiley McDaniel digs in."
+    ],
+    "image_url": "",
+    "titles": [
+      "Who are your club's future stars? Updated top 10 prospect rankings for all 30 MLB teams"
+    ],
+    "summary": "Kiley McDaniel analyzes the performance trends of players in every major league baseball farm system, identifying those whose prospects are improving (\"rising\") and those experiencing declines (\"falling\"). The analysis provides insights into the development and potential future impact of players within the professional baseball pipeline.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is highly constructive as it provides deep understanding about the performance trends of players in every major league baseball farm system. It also reports on the potential future impact of these players, thus empowering the reader with knowledge about the future prospects of their clubs.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.861,
+      "consensus": 0.2,
+      "constructiveness": 0.9
+    },
+    "score": 0.524,
+    "normalized_score": 6.79
+  },
+  {
+    "title": "Browns QB Shedeur Sanders makes surprise visit to Cleveland-area high school",
+    "domain": "sports",
+    "location": "national",
+    "published": "Thu, 1 May 2025 20:06:18 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "The Browns quarterback rookie wasted no time in making a positive impact on the Cleveland youth."
+    ],
+    "image_url": "",
+    "titles": [
+      "Browns QB Shedeur Sanders makes surprise visit to Cleveland-area high school"
+    ],
+    "summary": "The rookie quarterback for the Cleveland Browns has quickly made a positive impact on the local youth in Cleveland. This action demonstrates his commitment to the community shortly after joining the team.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness of the quarterback's actions and their impact on the local community. However, it lacks depth and actionable insights for the reader.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.834,
+      "consensus": 0.2,
+      "constructiveness": 0.5
+    },
+    "score": 0.476,
+    "normalized_score": 3.21
+  },
+  {
+    "title": "Irish Travel Retailer ARI In Expansionist Mode As It Tops $1.6 Billion",
+    "domain": "business",
+    "location": "global",
+    "published": "Thu, 01 May 2025 23:58:40 -0400",
+    "source": "Forbes",
+    "sources": [
+      "Forbes"
+    ],
+    "snippets": [
+      "‘Joy On Your Way’ is how ARI couches its retail philosophy and it seems to be paying off."
+    ],
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68144272a37d818f1f66fe2b/0x0.jpg?width=960",
+    "titles": [
+      "Irish Travel Retailer ARI In Expansionist Mode As It Tops $1.6 Billion"
+    ],
+    "summary": "ARI's retail philosophy, titled 'Joy On Your Way,' focuses on enhancing customer experience and satisfaction. This approach has proven successful for the company, indicating positive outcomes in its implementation and reception.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "The story informs about ARI's successful retail strategy which could be insightful for other businesses. However, it doesn't provide enough details about the strategy itself, limiting its usefulness.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.943,
+      "consensus": 0.2,
+      "constructiveness": 0.8
+    },
+    "score": 0.567,
+    "normalized_score": 10.0
+  },
+  {
+    "title": "Hasbro CEO details tariff impact: 'We're making rapid changes'",
+    "domain": "business",
+    "location": "national",
+    "published": "Thu, 01 May 2025 23:43:39 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "snippets": [
+      "In a Thursday interview with CNBC's Jim Cramer, Hasbro CEO Chris Cocks explained how the toy maker is trying to diversify its supply chain."
+    ],
+    "image_url": "",
+    "titles": [
+      "Hasbro CEO details tariff impact: 'We're making rapid changes'"
+    ],
+    "summary": "In a CNBC interview, Hasbro CEO Chris Cocks discussed the company's strategy to diversify its supply chain. This move aims to mitigate risks and ensure smoother operations. The specifics of the diversification strategy were not detailed in the provided content.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about Hasbro's response to tariffs, which could be insightful for businesses facing similar challenges. However, it lacks specifics about the diversification strategy, limiting its usefulness and potential for informing decision-making.",
+    "score_components": {
+      "magnitude": 0.429,
+      "recency": 0.884,
       "consensus": 0.2,
       "constructiveness": 0.6
     },
-    "score": 0.517,
-    "normalized_score": 4.11
+    "score": 0.537,
+    "normalized_score": 7.76
   },
   {
     "title": "Sam Altman's eye-scanning ID project launches in U.S. with six locations",
@@ -295,17 +351,17 @@
     "titles": [
       "Sam Altman's eye-scanning ID project launches in U.S. with six locations"
     ],
-    "summary": "In 2019, Altman co-founded \"World,\" initially named Worldcoin, with the aim of establishing a global identity verification system. The project, which underwent a name change last year, seeks to enhance identity verification processes worldwide.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "The story informs about an innovative identity verification system, contributing to the reader's understanding of advancements in this field. It also reports on a solution to a problem, i.e., enhancing identity verification processes. However, it lacks details about the system's impacts, how it works, or its potential challenges, limiting its score.",
+    "summary": "In 2019, Altman co-founded \"World,\" initially called Worldcoin, with the aim of establishing a global identity verification system. The organization underwent a rebranding last year, changing its name from Worldcoin to World.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "The story provides useful information about a new identity verification system, which could have significant implications for privacy and security. However, it doesn't provide much detail about how the system works, its potential benefits and drawbacks, or the broader context of identity verification technology.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.988,
+      "recency": 0.877,
       "consensus": 0.2,
-      "constructiveness": 0.8
+      "constructiveness": 0.7
     },
-    "score": 0.572,
-    "normalized_score": 8.37
+    "score": 0.529,
+    "normalized_score": 7.16
   },
   {
     "title": "Your heart has its own age—and knowing it can be the key to cardio health, study finds",
@@ -323,45 +379,17 @@
     "titles": [
       "Your heart has its own age—and knowing it can be the key to cardio health, study finds"
     ],
-    "summary": "Researchers have discovered that using MRI technology can significantly advance the method of determining the actual age of a person's heart. This breakthrough could lead to more accurate assessments of heart health and better targeted treatments.",
-    "constructiveness_score": 1.0,
-    "constructiveness_reason": "This story clearly highlights a scientific breakthrough that can improve heart health assessments, providing empowering knowledge to readers. It reports on an innovative use of MRI technology, indicating progress in medical research. It also increases awareness about heart health, potentially influencing readers' decisions regarding their health.",
+    "summary": "Researchers have discovered that using Magnetic Resonance Imaging (MRI) can significantly improve the accuracy of determining the age of a person's heart. This method could revolutionize how heart health is assessed, potentially leading to more personalized and effective treatment strategies.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is highly constructive. It provides actionable insights about heart health and a deeper understanding of how heart age can be determined. It also reports on an innovative solution for assessing heart health, potentially leading to more personalized and effective treatment strategies.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.985,
+      "recency": 0.874,
       "consensus": 0.2,
-      "constructiveness": 1.0
+      "constructiveness": 0.9
     },
-    "score": 0.591,
-    "normalized_score": 9.84
-  },
-  {
-    "title": "Amazon warns on trade war hit as profit outlook misses forecasts",
-    "domain": "business",
-    "location": "global",
-    "published": "Thu, 01 May 2025 22:59:06 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times"
-    ],
-    "snippets": [
-      "Ecommerce giant says ‘tariff and trade policies’ pose a risk to its earnings"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8c30138e-b5b1-47ef-8630-06c0cfcb05a2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Amazon warns on trade war hit as profit outlook misses forecasts"
-    ],
-    "summary": "An ecommerce giant has identified 'tariff and trade policies' as potential risks to its future earnings. This acknowledgment indicates the company's concern over the impact of international trade tensions and regulatory changes on its financial health.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story provides useful information about the potential impact of international trade tensions on a major company's earnings. However, it doesn't offer solutions or explore the broader system or trends behind the issue.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.985,
-      "consensus": 0.2,
-      "constructiveness": 0.6
-    },
-    "score": 0.551,
-    "normalized_score": 6.74
+    "score": 0.548,
+    "normalized_score": 8.58
   },
   {
     "title": "Tariffs To Take a Bite Out of Apple's Results",
@@ -379,73 +407,17 @@
     "titles": [
       "Tariffs To Take a Bite Out of Apple's Results"
     ],
-    "summary": "Apple CEO Tim Cook announced that the current U.S. tariffs could cost the company approximately $900 million in the ongoing quarter. He revealed that a majority of iPhones sold in the U.S. this quarter would be sourced from India, not China, with other products primarily coming from Vietnam. This shift aims to mitigate the impact of trade tensions with China and tariffs, including a 20% import tax related to fentanyl trafficking. Despite these challenges, Apple's fiscal second-quarter revenue and earnings exceeded expectations, driven by robust iPhone sales. However, Apple's stock fell about 4",
+    "summary": "Apple CEO Tim Cook announced that the company's current tariffs under the Trump administration could cost Apple approximately $900 million in the ongoing quarter. Cook revealed that the majority of iPhones sold in the U.S. this quarter would be sourced from India, not China, with other products primarily coming from Vietnam, as a response to trade tensions with China and tariffs impacting the company. Despite these challenges, Apple's fiscal second-quarter revenue and earnings exceeded analysts' expectations, driven by robust iPhone sales. However, Apple's stock fell about 4% in extended tradi",
     "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides a deeper understanding of how trade tensions can affect a company's financial performance. It also reports on Apple's solution to mitigate the impact of tariffs, which is a shift in their sourcing strategy. However, it doesn't fully explore the broader system or trends behind the issue.",
+    "constructiveness_reason": "This story provides useful context about the impact of tariffs on Apple's business and the broader tech industry. It also highlights Apple's attempts to solve the problem by sourcing products from other countries. However, it doesn't provide much in-depth analysis or insight into the broader implications of these tariffs.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.985,
+      "recency": 0.874,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.579,
-    "normalized_score": 8.91
-  },
-  {
-    "title": "Amazon CEO says the $2 trillion retailer is ‘pretty maniacally focused’ on keeping prices down amid tariff pressure",
-    "domain": "business",
-    "location": "global",
-    "published": "Thu, 01 May 2025 22:49:14 +0000",
-    "source": "Fortune",
-    "sources": [
-      "Fortune"
-    ],
-    "snippets": [
-      "Andy Jassy told analysts during an earnings call “there’s maybe never a more important time in recent memory” to maintain prices."
-    ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/05/GettyImages-2201505685-e1746139523538.jpg?w=2048",
-    "titles": [
-      "Amazon CEO says the $2 trillion retailer is ‘pretty maniacally focused’ on keeping prices down amid tariff pressure"
-    ],
-    "summary": "During an earnings call, Amazon CEO Andy Jassy emphasized the significance of keeping prices stable, describing the current period as \"maybe never a more important time in recent memory\" for such action. This statement underscores the company's focus on price management amidst the economic environment.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "The story provides useful information about Amazon's strategy to manage prices amidst economic challenges. However, it doesn't fully explore the broader system or trends behind the issue or report on any innovative solutions.",
-    "score_components": {
-      "magnitude": 0.429,
-      "recency": 0.982,
-      "consensus": 0.2,
-      "constructiveness": 0.7
-    },
-    "score": 0.576,
-    "normalized_score": 8.68
-  },
-  {
-    "title": "Essay challenge: ChatGPT vs students",
-    "domain": "science",
-    "location": "global",
-    "published": "Wed, 30 Apr 2025 21:16:50 EDT",
-    "source": "ScienceDaily",
-    "sources": [
-      "ScienceDaily"
-    ],
-    "snippets": [
-      "Researchers have been putting ChatGPT essays to the test against real students. A new study reveals that the AI generated essays don't yet live up to the efforts of real students. While the AI essays were found to be impressively coherent and grammatically sound, they fell short in one crucial area -- they lacked a personal touch. It is hoped that the findings could help educators spot cheating in schools, colleges and universities worldwide by recognizing machine-generated essays."
-    ],
-    "image_url": "",
-    "titles": [
-      "Essay challenge: ChatGPT vs students"
-    ],
-    "summary": "A study comparing ChatGPT-generated essays with those written by real students found that while AI essays are coherent and grammatically correct, they lack a personal touch. This distinction could aid educators in identifying machine-generated essays to prevent cheating in educational institutions globally.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful insights into the capabilities and limitations of AI in generating essays, which could help educators and students understand the role of AI in education. However, it does not report on solutions or improvements, and its awareness is limited to the specific context of AI-generated essays.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.628,
-      "consensus": 0.2,
-      "constructiveness": 0.8
-    },
-    "score": 0.464,
-    "normalized_score": 0.0
+    "score": 0.546,
+    "normalized_score": 8.43
   },
   {
     "title": "Exercise Can Prevent Cognitive Decline, Even When Energy Is Low",
@@ -463,17 +435,45 @@
     "titles": [
       "Exercise Can Prevent Cognitive Decline, Even When Energy Is Low"
     ],
-    "summary": "Researchers at the University of Missouri found that exercise improves brain health and can prevent cognitive decline, regardless of the liver's capacity to produce ketones, which are vital for brain energy. This study highlights the importance of physical activity in maintaining mental acuity.",
+    "summary": "Researchers at the University of Missouri have found that exercise can enhance brain health and prevent cognitive decline, even when the body's energy levels are low due to the liver's compromised ability to produce ketones. This study underscores the importance of physical activity for maintaining mental sharpness.",
     "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story clearly highlights the progress in understanding the relationship between exercise and cognitive health. It provides actionable insights for readers to maintain their mental acuity through physical activity, and increases awareness about the role of ketones in brain energy.",
+    "constructiveness_reason": "This story is constructive because it provides actionable insights on the importance of exercise for brain health. It also highlights progress in understanding how physical activity can prevent cognitive decline, even when the body's energy levels are low.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.998,
+      "recency": 0.887,
       "consensus": 0.2,
       "constructiveness": 0.9
     },
-    "score": 0.585,
-    "normalized_score": 9.38
+    "score": 0.552,
+    "normalized_score": 8.88
+  },
+  {
+    "title": "Supporting young boys in violent homes could prevent relationship violence",
+    "domain": "science",
+    "location": "global",
+    "published": "Thu, 01 May 2025 23:30:02 EDT",
+    "source": "Phys.org",
+    "sources": [
+      "Phys.org"
+    ],
+    "snippets": [
+      "Young men growing up around parents who are physically violent to each other are 45% more likely to carry out violence or abuse in their own relationships, new research by the University of Bristol has found. This finding could not be explained by other factors in the person's background, and suggests that if the families of young boys who grow up in violent households are better supported, this could prevent some future violent or abusive relationships."
+    ],
+    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/boy-toy-window.jpg",
+    "titles": [
+      "Supporting young boys in violent homes could prevent relationship violence"
+    ],
+    "summary": "Research from the University of Bristol indicates that young men exposed to parental physical violence are 45% more likely to engage in violent or abusive behavior in their own relationships. This correlation persists independently of other background factors. The study suggests that providing better support to families experiencing domestic violence could reduce the incidence of future abusive relationships among boys growing up in such environments.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "The story provides useful information about the impact of parental violence on young boys and their future relationships. It also suggests a possible solution - better support for families experiencing domestic violence. However, it doesn't go into detail about what this support might look like.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.881,
+      "consensus": 0.2,
+      "constructiveness": 0.8
+    },
+    "score": 0.54,
+    "normalized_score": 7.99
   },
   {
     "title": "Alzheimer’s Vaccine One Step Closer: Human Trials on the Horizon",
@@ -491,17 +491,17 @@
     "titles": [
       "Alzheimer’s Vaccine One Step Closer: Human Trials on the Horizon"
     ],
-    "summary": "Scientists at the University of New Mexico Health Sciences have developed a vaccine targeting the tau protein related to Alzheimer’s disease. It has shown strong immune responses in animal tests and is now advancing towards human clinical trials. This development marks a significant step closer to potentially preventing the accumulation of pathological tau in the brain, associated with Alzheimer’s.",
+    "summary": "Scientists at the University of New Mexico Health Sciences have developed a vaccine targeting the tau protein associated with Alzheimer's disease, which has shown strong immune responses in animal studies. This development brings the vaccine closer to human clinical trials, marking a significant step forward in Alzheimer's prevention research.",
     "constructiveness_score": 1.0,
-    "constructiveness_reason": "This story reports on a significant innovation in the field of Alzheimer's disease research. It provides readers with an understanding of the progress being made towards a potential vaccine, and increases awareness about the role of the tau protein in Alzheimer's disease. This empowers readers with knowledge about the disease and the ongoing efforts to combat it.",
+    "constructiveness_reason": "This story is highly constructive as it reports on a significant innovation in Alzheimer's prevention research. It provides a clear sense of progress and offers empowering knowledge about the potential for a vaccine.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.991,
+      "recency": 0.88,
       "consensus": 0.2,
       "constructiveness": 1.0
     },
-    "score": 0.593,
-    "normalized_score": 10.0
+    "score": 0.56,
+    "normalized_score": 9.48
   },
   {
     "title": "Scientists Discover Nature’s Secret to Healthy Longevity",
@@ -519,17 +519,17 @@
     "titles": [
       "Scientists Discover Nature’s Secret to Healthy Longevity"
     ],
-    "summary": "Researchers at Bar-Ilan University have identified protein changes associated with longevity in mammals. Their findings suggest a potential pathway for extending lifespan and healthspan—the period of life spent in good health—by addressing age-related diseases like cancer, neurodegenerative disorders, and diabetes. This research could offer insights into combating these conditions, potentially leading to healthier, longer lives.",
+    "summary": "Researchers at Bar-Ilan University have discovered protein changes that contribute to longevity in mammals. This finding could help increase both lifespan and healthspan, reducing the prevalence of age-related diseases like cancer, neurodegenerative disorders, and diabetes. The study suggests a better understanding of these protein changes could lead to advancements in treatments for these conditions.",
     "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive because it provides useful insights into the research on longevity and healthspan. It reports on a potential solution to age-related diseases, thus contributing to the reader's understanding and decision-making regarding health. It also increases awareness about the causes and impacts of these diseases.",
+    "constructiveness_reason": "This story is highly constructive as it reports on a scientific breakthrough that could lead to improvements in human lifespan and health. It provides readers with a deeper understanding of the biological mechanisms of aging and potential treatments for age-related diseases, thus contributing to their knowledge and decision-making regarding health and wellness.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.982,
+      "recency": 0.871,
       "consensus": 0.2,
       "constructiveness": 0.9
     },
-    "score": 0.58,
-    "normalized_score": 8.99
+    "score": 0.547,
+    "normalized_score": 8.51
   },
   {
     "title": "Brain signals can change the gut microbiome in as little as 2 hours",
@@ -547,16 +547,16 @@
     "titles": [
       "Brain signals can change the gut microbiome in as little as 2 hours"
     ],
-    "summary": "Recent research conducted on mice has revealed that not only can the gut microbiome influence brain function, as previously understood, but the brain can also modify gut bacteria. This finding underscores a bidirectional relationship between the brain and gut microbiome, highlighting a more complex interaction than previously recognized.",
+    "summary": "Recent research on mice has revealed that not only can the gut microbiome influence brain function, as previously understood, but the brain can also modify gut bacteria. This finding adds a new dimension to our understanding of the bidirectional relationship between the gut microbiome and the brain.",
     "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about the relationship between the brain and gut microbiome. Although it doesn't directly report on solutions or improvements, it does offer a deeper understanding of this interaction, which could be beneficial for those interested in neuroscience or gut health. It also increases awareness about the bidirectional relationship between the brain and gut microbiome.",
+    "constructiveness_reason": "This story is constructive as it provides new insights into the relationship between the brain and gut microbiome. It increases awareness about the bidirectional influence they have on each other, which is useful for readers interested in health, wellness, and the growing field of gut-brain research. However, it does not explicitly highlight solutions or progress towards addressing any specific problems.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.964,
+      "recency": 0.853,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.573,
-    "normalized_score": 8.45
+    "score": 0.54,
+    "normalized_score": 7.99
   }
 ]
