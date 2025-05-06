@@ -1,5 +1,33 @@
 [
   {
+    "title": "Trump's popularity in a slump in California amid abuse-of-power concerns",
+    "domain": "general",
+    "location": "national",
+    "published": "Tue, 6 May 2025 10:00:00 GMT",
+    "source": "LA Times",
+    "sources": [
+      "LA Times"
+    ],
+    "snippets": [
+      "<p>A poll finds that 68% of registered voters in California disapprove of the president's job performance and believe the country is on the wrong track.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Trump's popularity in a slump in California amid abuse-of-power concerns"
+    ],
+    "summary": "A poll indicates that 68% of registered voters in California disapprove of the president's job performance, with the same percentage feeling that the country is heading in the wrong direction.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about the political climate in California and the public's sentiment towards the President. However, it lacks depth and insight into why these feelings exist, or what they might mean for future political actions or decisions.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.915,
+      "consensus": 0.2,
+      "constructiveness": 0.5
+    },
+    "score": 0.528,
+    "normalized_score": 4.5
+  },
+  {
     "title": "American tourist climbs over fence at Colosseum, impales himself on spike",
     "domain": "general",
     "location": "national",
@@ -15,17 +43,17 @@
     "titles": [
       "American tourist climbs over fence at Colosseum, impales himself on spike"
     ],
-    "summary": "A 47-year-old American attempted to climb a fence at the Piazza del Colosseo for a closer view of the Colosseum and fell, resulting in impalement.",
+    "summary": "A 47-year-old American attempted to climb a fence at the Piazza del Colosseo for a closer view of the Colosseum but fell and impaled himself.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story offers basic awareness about the potential dangers of ignoring safety measures at tourist sites, but it lacks depth or insight. It does not provide actionable insights or contribute to the reader's understanding in a meaningful way.",
+    "constructiveness_reason": "This story is more sensational than constructive. While it might serve as a cautionary tale about safety when visiting historical sites, it doesn't provide any actionable insights or deeper understanding.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.969,
+      "recency": 0.858,
       "consensus": 0.2,
       "constructiveness": 0.3
     },
-    "score": 0.516,
-    "normalized_score": 2.65
+    "score": 0.483,
+    "normalized_score": 0.0
   },
   {
     "title": "Trump's call to reopen Alcatraz falls flat with tourists, who ask: Why and how?",
@@ -43,522 +71,492 @@
     "titles": [
       "Trump's call to reopen Alcatraz falls flat with tourists, who ask: Why and how?"
     ],
-    "summary": "President Trump announced his intention to reopen Alcatraz as a symbol of law and order. The following day, tourists visiting the deteriorated historic site expressed confusion over the rationale behind this decision.",
+    "summary": "President Trump announced plans to reopen Alcatraz as a symbol of law and order. The following day, tourists visiting the deteriorating historic site expressed confusion over the rationale behind this decision.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs readers about a political decision and its public reception, providing some context. However, it does not report on solutions or improvements, nor does it significantly increase clarity around systems or impacts.",
+    "constructiveness_reason": "This story provides useful context about the President's decision and the public's response. However, it doesn't offer any insights into the implications of this decision, the feasibility of reopening Alcatraz, or the potential impact on the local community or tourism industry.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.917,
+      "recency": 0.806,
       "consensus": 0.2,
       "constructiveness": 0.6
     },
-    "score": 0.539,
-    "normalized_score": 4.39
+    "score": 0.505,
+    "normalized_score": 2.2
   },
   {
-    "title": "‘We are suffering’: Displaced families bear burden of South Sudan conflict",
+    "title": "Communities across Saskatchewan walk to honour the missing and murdered",
     "domain": "general",
-    "location": "global",
-    "published": "Tue, 06 May 2025 07:52:11 +0000",
-    "source": "Al Jazeera",
+    "location": "national",
+    "published": "Tue, 06 May 2025 16:00:04 +0000",
+    "source": "Global News",
     "sources": [
-      "Al Jazeera"
+      "Global News"
     ],
     "snippets": [
-      "More than 130,000 people have been displaced since fighting between gov&#039;t and opposition forces escalated in February."
+      "Communities across Saskatchewan marked Red Dress Day with walks, ceremonies and gatherings to honour missing and murdered Indigenous women, girls and two-spirit people."
+    ],
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/05/RED-DRESS-DAY-WEB-IMG.bmp",
+    "titles": [
+      "Communities across Saskatchewan walk to honour the missing and murdered"
+    ],
+    "summary": "Communities throughout Saskatchewan observed Red Dress Day with various events including walks, ceremonies, and gatherings. These activities were held to honour and remember missing and murdered Indigenous women, girls, and two-spirit individuals.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story raises awareness about a significant issue and promotes community solidarity. However, it does not provide actionable insights or report on solutions to the problem of missing and murdered Indigenous women, girls, and two-spirit individuals.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.999,
+      "consensus": 0.2,
+      "constructiveness": 0.6
+    },
+    "score": 0.555,
+    "normalized_score": 7.2
+  },
+  {
+    "title": "Israel attacks main airport in Yemen's capital Sanaa",
+    "domain": "general",
+    "location": "global",
+    "published": "Tue, 06 May 2025 15:59:32 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC"
+    ],
+    "snippets": [
+      "Three civilian planes, the departures hall, the runway and a military air base were hit, reports say."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeea/live/0aabc860-2a91-11f0-8f57-b7237f6a66e6.jpg",
+    "titles": [
+      "Israel attacks main airport in Yemen's capital Sanaa"
+    ],
+    "summary": "A series of attacks targeted three civilian planes, the departures hall, the runway, and a military air base. These incidents have been reported by multiple sources, indicating a coordinated effort against both civilian and military aviation infrastructure. The current status of the affected areas, the extent of the damage, and any casualties have not been specified in the provided information.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "While this story provides basic awareness of a conflict situation, it lacks depth and insight. It does not offer any information about the causes, potential solutions, or impacts of the conflict, nor does it provide actionable insights for the reader.",
+    "score_components": {
+      "magnitude": 0.429,
+      "recency": 0.999,
+      "consensus": 0.2,
+      "constructiveness": 0.3
+    },
+    "score": 0.541,
+    "normalized_score": 5.8
+  },
+  {
+    "title": "Lessons of the Stanley Cup playoffs: Will the high scoring continue? Ewing Theory in Dallas, Winnipeg?",
+    "domain": "sports",
+    "location": "national",
+    "published": "Tue, 6 May 2025 11:50:54 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "With the opening round in the books, here are the top takeaways that will influence the rest of the playoffs."
     ],
     "image_url": "",
     "titles": [
-      "‘We are suffering’: Displaced families bear burden of South Sudan conflict"
+      "Lessons of the Stanley Cup playoffs: Will the high scoring continue? Ewing Theory in Dallas, Winnipeg?"
     ],
-    "summary": "Since February, over 130,000 individuals have been displaced due to escalating conflict between government and opposition forces.",
+    "summary": "The opening round of the playoffs has concluded, providing key insights that will impact the forthcoming matches. This phase has set the stage for the rest of the tournament, highlighting standout teams, key player performances, and strategic trends that may shape the trajectory of the playoffs. The outcomes of these initial games have established a foundation for predicting potential matchups and outcomes in the next rounds.",
     "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about the ongoing conflict in South Sudan and its impact on families, contributing to readers' understanding of the situation. However, it does not highlight progress, solutions, or empowering knowledge.",
+    "constructiveness_reason": "This story provides useful insights and deeper understanding for readers interested in the Stanley Cup playoffs. It contextualizes the outcomes of the initial games and discusses potential future trends. However, it doesn't highlight any progress or solutions, limiting its score.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.941,
+      "consensus": 0.2,
+      "constructiveness": 0.8
+    },
+    "score": 0.538,
+    "normalized_score": 5.5
+  },
+  {
+    "title": "Previewing Capitals-Canes, Knights-Oilers",
+    "domain": "sports",
+    "location": "national",
+    "published": "Tue, 6 May 2025 11:50:53 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Here's what to watch as two more series begin. Plus, everything you missed in Panthers-Leafs Game 1."
+    ],
+    "image_url": "",
+    "titles": [
+      "Previewing Capitals-Canes, Knights-Oilers"
+    ],
+    "summary": "Two new series are starting, offering fresh matchups for viewers. Additionally, the Panthers and Leafs have completed Game 1, with details and outcomes from that match available for those who missed it. This provides an update on the current status in the playoff series and highlights what fans should pay attention to next in the hockey season.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides useful information for hockey fans about upcoming matches and the current status of the playoff series, but it doesn't provide a deeper understanding of the sport or its impacts. It also doesn't report on solutions, improvements, or innovations.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.941,
+      "consensus": 0.2,
+      "constructiveness": 0.6
+    },
+    "score": 0.518,
+    "normalized_score": 3.5
+  },
+  {
+    "title": "'Job well done': Inside Gregg Popovich's unparalleled NBA legacy",
+    "domain": "sports",
+    "location": "national",
+    "published": "Tue, 6 May 2025 11:48:44 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Friends, colleagues, players and confidantes all agree: Popovich has impacted more people across the game than perhaps anyone in history."
+    ],
+    "image_url": "",
+    "titles": [
+      "'Job well done': Inside Gregg Popovich's unparalleled NBA legacy"
+    ],
+    "summary": "Gregg Popovich, renowned for his extensive career in basketball, has significantly influenced the sport, touching the lives of many within the industry, including friends, colleagues, and players. His contributions are widely recognized, making him one of the most impactful figures in basketball history.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story offers a deeper understanding of Gregg Popovich's influence on basketball, increasing awareness of his contributions. However, it doesn't provide actionable insights or report on solutions or innovations.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.94,
+      "consensus": 0.2,
+      "constructiveness": 0.8
+    },
+    "score": 0.538,
+    "normalized_score": 5.5
+  },
+  {
+    "title": "Source: Man Utd to resist any offers for Fernandes",
+    "domain": "sports",
+    "location": "national",
+    "published": "Tue, 6 May 2025 11:40:59 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "A source has told ESPN that Bruno Fernandes is one of the few players whose future is seen as secure at Man United despite a battle to balance the club's books."
+    ],
+    "image_url": "",
+    "titles": [
+      "Source: Man Utd to resist any offers for Fernandes"
+    ],
+    "summary": "A source informed ESPN that Bruno Fernandes is considered a key player for Manchester United, with his position at the club secure amid financial challenges. The team is focused on balancing its finances, but Fernandes is viewed as essential moving forward.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides useful information about the status of a key player at Manchester United, but it doesn't provide a deeper understanding of the sport, its systems, or impacts. It also doesn't report on solutions or innovations.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.939,
+      "consensus": 0.2,
+      "constructiveness": 0.6
+    },
+    "score": 0.517,
+    "normalized_score": 3.4
+  },
+  {
+    "title": "Grand Theft Auto VI releases information on main characters",
+    "domain": "sports",
+    "location": "national",
+    "published": "Tue, 6 May 2025 11:40:39 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Rockstar shines some light on the upcoming crime RPG's two protagonists."
+    ],
+    "image_url": "",
+    "titles": [
+      "Grand Theft Auto VI releases information on main characters"
+    ],
+    "summary": "Rockstar Games has revealed details about the two main characters in its highly anticipated crime RPG. The announcement provides insight into the protagonists' backgrounds and roles within the game's narrative, signaling a fresh direction for the franchise. This marks a significant update for fans awaiting further information on the game's development and storyline.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information for fans of the Grand Theft Auto franchise, giving them a deeper understanding of the upcoming game's characters and narrative. However, it doesn't offer solutions, improvements, or innovations, nor does it increase clarity around broader systems or trends.",
+    "score_components": {
+      "magnitude": 0.359,
+      "recency": 0.939,
+      "consensus": 0.2,
+      "constructiveness": 0.6
+    },
+    "score": 0.525,
+    "normalized_score": 4.2
+  },
+  {
+    "title": "Top Stock Movers Now: Vertex, DoorDash, Constellation Energy, and More",
+    "domain": "business",
+    "location": "global",
+    "published": "Tue, 06 May 2025 15:58:16 GMT",
+    "source": "Investopedia",
+    "sources": [
+      "Investopedia"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Cheng Xin / Getty Images\" src=\"https://www.investopedia.com/thmb/0XLUkIOcCwLGYJrCIkgb5LNwMBw=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2213364178-e911e410860f4250ad19c22414041762.jpg\" title=\"The logo of Vertex Pharmaceuticals Incorporated is displayed on a smartphone screen, with the company's branding visible in the background\" /><figcaption><i><p>Cheng Xin / Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>U.S. equities dropped at midday as the markets awaited any news on tariffs and tomorrow's Fed decision. </li><li>Higher costs and issues with Russia led Vertex Pharmaceuticals to miss profit and sales estimates.</li><li>Constellation Energy beat revenue forecasts and reiterated its full-year earnings guidance on strong artificial intelligence energy demand.</li></ul><br /><br /><p>U.S. equities were lower at midday as the market watched for any possible deals involving Trump administration tariffs and awaited tomorrow's statement from the Federal Reserve policymakers following their two-day meeting. The <a href=\"https://www.investopedia.com/terms/d/djia.asp\">Dow Jones Industrial Average</a>, <a href=\"https://www.investopedia.com/terms/s/sp500.asp\">S&amp;P 500</a>, and <a href=\"https://www.investopedia.com/terms/n/nasdaq.asp\">Nasdaq</a> all fell.</p><p>Vertex Pharmaceuticals (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;VRTX\">VRTX</a>) shares plunged after the biotech firm missed profit and sales estimates on higher costs and issues with sales in Russia.</p><p>Shares of DoorDash (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;DASH\">DASH</a>) slumped when the food-delivery service missed revenue estimates and made a pair of acquisitions, including a $3.9 billion purchase of British firm Deliveroo.</p><p>Coterra Energy (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;CTRA\">CTRA</a>) shares slid when the oil and gas producer said it was cutting back on <a href=\"https://www.investopedia.com/terms/c/capitalexpenditure.asp\">capital spending</a> because of macroeconomic uncertainty and the falling price of oil. </p><p>Constellation Energy (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;CEG\">CEG</a>) was the best-performing stock in the S&amp;P 500 when the nuclear power provider easily exceeded revenue forecasts and held its full-year profit outlook steady on rising demand for energy from <a href=\"https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp\">artificial intelligence (AI)</a> applications.</p><p>Shares of Ford Motor (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;F\">F</a>) advanced as the carmaker said auto tariffs won't cause a significant increase in the price of new vehicles.</p><p>Leidos Holdings (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;LDOS\">LDOS</a>) shares jumped after the defense and technology firm posted better-than-anticipated results as security and defense contracts grew.</p><p>Oil and gold futures gained. The yield on the 10-year Treasury note was basically unchanged. The U.S. dollar lost ground to the euro, pound, and yen. Prices for most major cryptocurrencies were mixed, with bitcoin ticking higher.<br /></p><figure><img alt=\"TradingView\" src=\"https://www.investopedia.com/thmb/ij4iYOlsil0UvEE1eFjOAFHGOHY=/fit-in/640x480/DASH_2025-05-06_11-38-34-acacc420d1d14d86877403345ff705bc.png\" title=\"DASH\" /><figcaption><i><p>TradingView</p></i></figcaption></figure>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/0XLUkIOcCwLGYJrCIkgb5LNwMBw=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2213364178-e911e410860f4250ad19c22414041762.jpg",
+    "titles": [
+      "Top Stock Movers Now: Vertex, DoorDash, Constellation Energy, and More"
+    ],
+    "summary": "U.S. equities declined midday as markets awaited tariff news and the Federal Reserve's decision. Vertex Pharmaceuticals missed profit and sales forecasts due to higher costs and issues in Russia, causing shares to drop. Constellation Energy outperformed in the S&P 500, beating revenue predictions and maintaining its earnings outlook, benefiting from increased AI energy demand. Other notable movements included DoorDash and Coterra Energy shares falling due to missed revenue estimates and reduced capital spending, respectively. Meanwhile, Ford and Leidos Holdings saw shares rise due to tariff im",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story provides actionable insights for investors and contributes to their decision-making process. It informs about the performance of different stocks, which can be useful for investment decisions. However, it doesn't provide a broader context or highlight solutions to the issues faced by the companies mentioned.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.997,
+      "recency": 0.998,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
     "score": 0.575,
-    "normalized_score": 7.12
+    "normalized_score": 9.2
   },
   {
-    "title": "Hamas no longer interested in truce talks after Israel’s new Gaza plan, senior official says – Israel-Gaza war live",
-    "domain": "general",
-    "location": "global",
-    "published": "Tue, 06 May 2025 07:52:10 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "The Guardian"
-    ],
-    "snippets": [
-      "<p>Benjamin Netanyahu announced new ‘intensified’ offensive aimed at ‘conquering’ Gaza Strip</p><p>We mentioned <a href=\"https://www.theguardian.com/world/live/2025/may/06/israel-gaza-war-latest-live-news-benjamin-netanyahu-hamas-palestine?page=with%3Ablock-6819a6fe8f088a65239d2973#block-6819a6fe8f088a65239d2973\">in an earlier post</a> that Israel has approved plans to seize the Gaza Strip and to stay in the territory for an unspecified amount of time.</p><p>Let’s look at what was agreed in Sunday’s vote by Israeli cabinet ministers in a bit more detail.</p> <a href=\"https://www.theguardian.com/world/live/2025/may/06/israel-gaza-war-latest-live-news-benjamin-netanyahu-hamas-palestine\">Continue reading...</a>",
-      "<p>Benjamin Netanyahu announced new ‘intensified’ offensive aimed at ‘conquering’ Gaza Strip</p><p>We mentioned <a href=\"https://www.theguardian.com/world/live/2025/may/06/israel-gaza-war-latest-live-news-benjamin-netanyahu-hamas-palestine?page=with%3Ablock-6819a6fe8f088a65239d2973#block-6819a6fe8f088a65239d2973\">in an earlier post</a> that Israel has approved plans to seize the Gaza Strip and to stay in the territory for an unspecified amount of time.</p><p>Let’s look at what was agreed in Sunday’s vote by Israeli cabinet ministers in a bit more detail.</p> <a href=\"https://www.theguardian.com/world/live/2025/may/06/israel-gaza-war-latest-live-news-benjamin-netanyahu-hamas-palestine\">Continue reading...</a>"
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/8819a087c7a00a8bb91f0c2791388b6ffb60b69c/0_55_3000_1800/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=f17b876d20a5ebc0587705eb8f608063",
-    "titles": [
-      "Hamas no longer interested in truce talks after Israel’s new Gaza plan, senior official says – Israel-Gaza war live",
-      "Hamas no longer interested in truce talks after Israel’s new Gaza plan, senior official says – Israel-Gaza war live"
-    ],
-    "summary": "Benjamin Netanyahu announced an intensified offensive to conquer the Gaza Strip. This follows Israel's cabinet approval of plans to seize and occupy Gaza for an unspecified duration. The decision was detailed in a vote by Israeli cabinet ministers.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about the ongoing conflict between Israel and Hamas, but it lacks depth or insight into the causes, impacts, or potential solutions to the problem. It doesn't provide actionable insights or deeper understanding for the reader.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.997,
-      "consensus": 0.2,
-      "constructiveness": 0.5
-    },
-    "score": 0.553,
-    "normalized_score": 5.45
-  },
-  {
-    "title": "Gordon, Jokic lead Nuggets past Thunder in Game 1 of NBA playoffs",
-    "domain": "general",
-    "location": "global",
-    "published": "Tue, 06 May 2025 07:51:47 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera"
-    ],
-    "snippets": [
-      "Aaron Gordon&#039;s late 3-pointer handed Denver Nuggets a huge Game 1 road win over the top-seeded Oklahoma City Thunder."
-    ],
-    "image_url": "",
-    "titles": [
-      "Gordon, Jokic lead Nuggets past Thunder in Game 1 of NBA playoffs"
-    ],
-    "summary": "Aaron Gordon's late 3-pointer secured a significant Game 1 victory for the Denver Nuggets against the top-seeded Oklahoma City Thunder on the road. This win marks an important start for the Nuggets in the series.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story offers basic awareness about the result of a specific NBA game. However, it doesn't provide any deeper understanding or insights about the strategies used, player performances, or implications for future games. It doesn't contribute significantly to the reader's understanding or decision-making.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.997,
-      "consensus": 0.2,
-      "constructiveness": 0.3
-    },
-    "score": 0.525,
-    "normalized_score": 3.33
-  },
-  {
-    "title": "Shildt, irate over Tatis ejection, throws his glasses",
-    "domain": "sports",
-    "location": "national",
-    "published": "Tue, 6 May 2025 02:13:37 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "San Diego manager Mike Shildt was so angry with plate umpire Adrian Johnson that he made a spectacle by tossing his glasses en route to an ejection during the Padres' 4-3 victory over the Yankees on Monday night."
-    ],
-    "image_url": "",
-    "titles": [
-      "Shildt, irate over Tatis ejection, throws his glasses"
-    ],
-    "summary": "During a baseball game on Monday night, where the San Diego Padres secured a 4-3 win against the Yankees, Padres manager Mike Shildt was ejected for expressing his anger towards plate umpire Adrian Johnson. Shildt's frustration culminated in him throwing his glasses in protest before being removed from the game.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This report provides basic information about an incident in a baseball game, but it doesn't offer any deeper understanding or insights into why the manager was angry, the potential impacts of his ejection, or how this could affect future games. It's more sensational than constructive.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.919,
-      "consensus": 0.2,
-      "constructiveness": 0.3
-    },
-    "score": 0.481,
-    "normalized_score": 0.0
-  },
-  {
-    "title": "'I knew it wasn't a miss': Gordon's 3 stuns OKC",
-    "domain": "sports",
-    "location": "national",
-    "published": "Tue, 6 May 2025 02:12:47 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "For the second time in these playoffs, Aaron Gordon delivered the winning shot after Denver rallied from a double-digit deficit to stun the Thunder at home in Game 1 of their Western Conference semifinal series."
-    ],
-    "image_url": "",
-    "titles": [
-      "'I knew it wasn't a miss': Gordon's 3 stuns OKC"
-    ],
-    "summary": "In Game 1 of their Western Conference semifinal series, the Denver Nuggets, led by Aaron Gordon, made a remarkable comeback from a double-digit deficit to defeat the Oklahoma City Thunder at their home court. This victory was highlighted by Gordon's game-winning shot, marking the second time he has secured a win for Denver in these playoffs.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story provides basic awareness about the game's outcome and Gordon's role in the victory, it does not offer deeper insights or understanding about the strategies used, the implications for the teams, or the broader context within the sport.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.918,
-      "consensus": 0.2,
-      "constructiveness": 0.3
-    },
-    "score": 0.481,
-    "normalized_score": 0.0
-  },
-  {
-    "title": "Isles win draft lottery for first time since '09",
-    "domain": "sports",
-    "location": "national",
-    "published": "Tue, 6 May 2025 02:12:47 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "The New York Islanders won the NHL draft lottery on Monday and vaulted nine teams -- including the last-place San Jose Sharks -- in winning the opportunity to have the No. 1 pick, marking the first time the franchise will have that position since 2009."
-    ],
-    "image_url": "",
-    "titles": [
-      "Isles win draft lottery for first time since '09"
-    ],
-    "summary": "The New York Islanders won the NHL draft lottery, securing the No. 1 pick and surpassing nine teams, including the last-place San Jose Sharks. This victory marks the first time since 2009 that the franchise will have the top draft position.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about the Islanders' draft lottery win but does not provide any further depth or insight into what this means for the team, the players they might be considering, or how this could impact their future performance.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.918,
-      "consensus": 0.2,
-      "constructiveness": 0.3
-    },
-    "score": 0.481,
-    "normalized_score": 0.0
-  },
-  {
-    "title": "Celts 'bit off' as shooting woes reach historic level",
-    "domain": "sports",
-    "location": "national",
-    "published": "Tue, 6 May 2025 02:12:47 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "The Celtics might've finally reached a saturation point as they missed a record 45 3-pointers Monday night as the Knicks took advantage in a 108-105 Game 1 overtime victory."
-    ],
-    "image_url": "",
-    "titles": [
-      "Celts 'bit off' as shooting woes reach historic level"
-    ],
-    "summary": "In Game 1 of their series, the Boston Celtics missed a record 45 3-point attempts, leading to a 108-105 overtime loss against the New York Knicks. This performance marked a significant struggle for the Celtics from beyond the arc.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides some insight into the Celtics' performance challenges, making it slightly more constructive than the previous two. However, it still lacks a deeper analysis or context about the team's struggles, potential solutions, or the implications for their future games.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.918,
-      "consensus": 0.2,
-      "constructiveness": 0.5
-    },
-    "score": 0.501,
-    "normalized_score": 1.52
-  },
-  {
-    "title": "Ravens make 'tough decision,' cut kicker Tucker",
-    "domain": "sports",
-    "location": "national",
-    "published": "Tue, 6 May 2025 02:12:47 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "The Ravens on Monday released kicker Justin Tucker, parting ways with the NFL's most accurate kicker who is being investigated by the league for sexual misconduct."
-    ],
-    "image_url": "",
-    "titles": [
-      "Ravens make 'tough decision,' cut kicker Tucker"
-    ],
-    "summary": "The Baltimore Ravens terminated their contract with Justin Tucker, the NFL's most accurate kicker, on Monday due to an ongoing investigation into allegations of sexual misconduct against him.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about a current event within the NFL, but it doesn't offer any deeper insights or actionable knowledge for the reader. It doesn't report on solutions or improvements, nor does it increase clarity around systems, causes, trends, or impacts.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.918,
-      "consensus": 0.2,
-      "constructiveness": 0.5
-    },
-    "score": 0.501,
-    "normalized_score": 1.52
-  },
-  {
-    "title": "Temu and Shein face massive tariffs. But don't count them out of the U.S. e-tail scene, experts say",
+    "title": "Uber to buy 85% stake in Turkish food delivery platform for $700 million",
     "domain": "business",
     "location": "national",
-    "published": "Tue, 06 May 2025 07:35:12 GMT",
+    "published": "Tue, 06 May 2025 15:57:57 GMT",
     "source": "CNBC",
     "sources": [
       "CNBC"
     ],
     "snippets": [
-      "Despite Temu and Shein facing Trump's high China tariffs, e-commerce experts say they are still capable of competing with rivals in the U.S."
+      "The deal is expected to close in the second half of this year and be accretive to Uber's growth, the company said."
     ],
     "image_url": "",
     "titles": [
-      "Temu and Shein face massive tariffs. But don't count them out of the U.S. e-tail scene, experts say"
+      "Uber to buy 85% stake in Turkish food delivery platform for $700 million"
     ],
-    "summary": "Despite facing high tariffs imposed by former President Trump on Chinese goods, e-commerce platforms Temu and Shein are still able to compete effectively with their rivals in the U.S. market, according to e-commerce experts.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive as it provides useful information about how e-commerce platforms are navigating high tariffs. It gives the reader a deeper understanding of the current e-commerce landscape and the strategies these companies are using to compete effectively. However, it doesn't clearly highlight solutions or progress.",
+    "summary": "Uber announced a deal expected to close in the second half of this year, which the company says will contribute to its growth.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about Uber's business strategy and growth plans. However, it doesn't provide a broader context or potential impacts of this acquisition. It also doesn't highlight solutions or improvements.",
     "score_components": {
-      "magnitude": 0.429,
-      "recency": 0.993,
+      "magnitude": 0.389,
+      "recency": 0.998,
+      "consensus": 0.2,
+      "constructiveness": 0.6
+    },
+    "score": 0.555,
+    "normalized_score": 7.2
+  },
+  {
+    "title": "Trump belittles Canada before Carney meeting: 'We don’t need ANYTHING they have'",
+    "domain": "business",
+    "location": "national",
+    "published": "Tue, 06 May 2025 15:54:59 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "snippets": [
+      "Carney's first visit to the U.S. since his election comes as the U.S.-Canada trade relationship has been upended as a result of Trump's tariffs."
+    ],
+    "image_url": "",
+    "titles": [
+      "Trump belittles Canada before Carney meeting: 'We don’t need ANYTHING they have'"
+    ],
+    "summary": "Canadian Prime Minister Carney made his first visit to the U.S. since being elected, amid tensions in the U.S.-Canada trade relationship due to tariffs imposed by President Trump. This marks a significant moment in the bilateral relations between the two countries, as they navigate the challenges presented by these new trade barriers.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about the current state of U.S.-Canada trade relations and the impact of imposed tariffs. However, it lacks depth and doesn't offer solutions or improvements to the situation.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.997,
+      "consensus": 0.2,
+      "constructiveness": 0.6
+    },
+    "score": 0.563,
+    "normalized_score": 8.0
+  },
+  {
+    "title": "Palantir falls 13% as analysts raise international growth concerns",
+    "domain": "business",
+    "location": "national",
+    "published": "Tue, 06 May 2025 15:54:32 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "snippets": [
+      "Palantir fell more than 10% even after the company hiked its guidance as AI demand fueled revenue growth."
+    ],
+    "image_url": "",
+    "titles": [
+      "Palantir falls 13% as analysts raise international growth concerns"
+    ],
+    "summary": "Palantir's stock dropped over 10% despite the company raising its financial guidance, attributing the optimistic outlook to increased demand for AI, which has spurred revenue growth.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "The story informs readers about the financial status of Palantir and the factors affecting its stock performance. It provides a deeper understanding of the company's situation but doesn't report on any solutions or progress to address the raised concerns.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.997,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.59,
-    "normalized_score": 8.26
-  },
-  {
-    "title": "Fashion retailer Hugo Boss shares pop 8% on better-than-feared first-quarter sales",
-    "domain": "business",
-    "location": "national",
-    "published": "Tue, 06 May 2025 07:32:45 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "snippets": [
-      "Shares of Hugo Boss climbed after posting a lower-than-feared decline in first-quarter sales and reiterated its full-year guidance."
-    ],
-    "image_url": "",
-    "titles": [
-      "Fashion retailer Hugo Boss shares pop 8% on better-than-feared first-quarter sales"
-    ],
-    "summary": "Shares of Hugo Boss experienced an increase following the announcement of a smaller-than-expected decline in first-quarter sales. Additionally, the company confirmed its full-year financial guidance, indicating confidence in its financial outlook for the remainder of the year.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs readers about Hugo Boss's financial performance, which could be useful for investors or stakeholders. It provides some context about the company's financial outlook, but it doesn't provide a comprehensive understanding of the company's strategies or the broader retail industry trends.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.992,
-      "consensus": 0.2,
-      "constructiveness": 0.6
-    },
-    "score": 0.561,
-    "normalized_score": 6.06
-  },
-  {
-    "title": "DoorDash strikes £2.9bn deal for Deliveroo",
-    "domain": "business",
-    "location": "global",
-    "published": "Tue, 06 May 2025 07:26:31 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times"
-    ],
-    "snippets": [
-      "Takeover comes after UK company’s struggles since going public four years ago"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe0ab9b63-d47e-4361-93c2-aa5ba57eb2e4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "DoorDash strikes £2.9bn deal for Deliveroo"
-    ],
-    "summary": "A UK company, after facing difficulties since its public listing four years ago, has been taken over. This move follows a period of struggle for the company, indicating a significant change in its ownership and management structure.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about a significant change in the food delivery industry, offering insights into the struggles of a UK company and its takeover. However, it lacks depth on the potential impacts or solutions for the issues the company faced.",
-    "score_components": {
-      "magnitude": 0.539,
-      "recency": 0.991,
-      "consensus": 0.2,
-      "constructiveness": 0.6
-    },
-    "score": 0.613,
+    "score": 0.583,
     "normalized_score": 10.0
   },
   {
-    "title": "DoorDash to buy British food delivery firm Deliveroo for $3.9 billion in overseas push",
+    "title": "Germany's Merz elected chancellor in second parliamentary vote after unexpected setback",
     "domain": "business",
     "location": "national",
-    "published": "Tue, 06 May 2025 07:06:00 GMT",
+    "published": "Tue, 06 May 2025 15:53:42 GMT",
     "source": "CNBC",
     "sources": [
       "CNBC"
     ],
     "snippets": [
-      "British food delivery firm Deliveroo on Monday said it has agreed to a takeover offer from American rival DoorDash that values the company at £2.9 billion."
+      "Friedrich Merz was elected as Germany's chancellor in a second-round parliamentary vote on Tuesday, after failing to secure enough support earlier in the day."
     ],
     "image_url": "",
     "titles": [
-      "DoorDash to buy British food delivery firm Deliveroo for $3.9 billion in overseas push"
+      "Germany's Merz elected chancellor in second parliamentary vote after unexpected setback"
     ],
-    "summary": "British food delivery firm Deliveroo has accepted a takeover bid from American competitor DoorDash, valuing Deliveroo at £2.9 billion. The agreement marks a significant move in the food delivery industry, consolidating two major players across different markets.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "The story provides useful context about the consolidation of two major players in the food delivery industry, which could impact readers who use these services. It could be more constructive if it delved into the implications for competition, prices, or service quality.",
+    "summary": "Friedrich Merz was elected as Germany's chancellor in a parliamentary vote on Tuesday, securing the position in the second round after not obtaining sufficient support in the initial round earlier that day.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about the political landscape in Germany and the election of a new chancellor. However, it doesn't provide much depth or insight into the implications of this election or the challenges faced by the new chancellor.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.986,
-      "consensus": 0.2,
-      "constructiveness": 0.7
-    },
-    "score": 0.561,
-    "normalized_score": 6.06
-  },
-  {
-    "title": "CNBC Daily Open: The Trump movie thriller no one wants to watch",
-    "domain": "business",
-    "location": "national",
-    "published": "Tue, 06 May 2025 06:30:01 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "snippets": [
-      "Out of all the tariff actions U.S. President Donald Trump has announced, the 100% levy on movies produced outside the U.S. ranks as one of the most bizarre."
-    ],
-    "image_url": "",
-    "titles": [
-      "CNBC Daily Open: The Trump movie thriller no one wants to watch"
-    ],
-    "summary": "U.S. President Donald Trump announced a 100% tariff on movies produced outside the U.S., marking one of his most unusual tariff actions. This levy aims to impact the international film industry by doubling the cost of foreign movies in the U.S. market.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story raises awareness about a new tariff policy affecting the international film industry. However, it lacks depth in explaining the reasons behind the policy, its potential impacts on the industry, or how it might affect consumers and filmmakers.",
-    "score_components": {
-      "magnitude": 0.429,
-      "recency": 0.978,
+      "recency": 0.997,
       "consensus": 0.2,
       "constructiveness": 0.5
     },
-    "score": 0.555,
-    "normalized_score": 5.61
+    "score": 0.545,
+    "normalized_score": 6.2
   },
   {
-    "title": "Portable sensor offers low-cost arsenic detection for safer drinking water",
+    "title": "Tectonic Surprise: Mantle Upwelling, Not Mega-Crunch, Built Earth’s “Roof of the World”",
     "domain": "science",
     "location": "global",
-    "published": "Tue, 06 May 2025 04:00:04 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "snippets": [
-      "Researchers at the Indian Institute of Technology (IIT) Jodhpur have developed a new low-cost mobile tool to detect arsenic contamination in water sources, addressing a critical threat to human health and the environment."
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/mobile-low-cost-arseni.jpg",
-    "titles": [
-      "Portable sensor offers low-cost arsenic detection for safer drinking water"
-    ],
-    "summary": "Researchers at the Indian Institute of Technology Jodhpur have created a low-cost mobile tool for detecting arsenic in water, targeting a significant health and environmental hazard. This development aims to provide an accessible solution for identifying contaminated water sources.",
-    "constructiveness_score": 1.0,
-    "constructiveness_reason": "This story is highly constructive as it reports on a significant innovation that can help solve a major health and environmental problem. It provides actionable insights for communities struggling with arsenic contamination in their water sources, and increases awareness about the availability of low-cost solutions.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.943,
-      "consensus": 0.2,
-      "constructiveness": 1.0
-    },
-    "score": 0.579,
-    "normalized_score": 7.42
-  },
-  {
-    "title": "Key genetic code identified for 'displacing' bacterial antibiotic resistance",
-    "domain": "science",
-    "location": "global",
-    "published": "Tue, 06 May 2025 04:00:01 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "snippets": [
-      "Birmingham scientists have identified an essential genetic code for a method called plasmid curing, which aims to \"displace\" antibiotic-resistance genes from bacteria."
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/research-advances-on-d.jpg",
-    "titles": [
-      "Key genetic code identified for 'displacing' bacterial antibiotic resistance"
-    ],
-    "summary": "Scientists in Birmingham have discovered a crucial genetic code that enables a process known as plasmid curing. This method is designed to remove antibiotic-resistance genes from bacteria, potentially addressing a significant challenge in treating bacterial infections.",
-    "constructiveness_score": 1.0,
-    "constructiveness_reason": "The story is constructive as it provides deeper understanding of a new scientific discovery that could potentially solve the problem of antibiotic resistance in bacteria. It highlights progress in the field of medical research and increases awareness about the challenges and potential solutions in treating bacterial infections.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.943,
-      "consensus": 0.2,
-      "constructiveness": 1.0
-    },
-    "score": 0.579,
-    "normalized_score": 7.42
-  },
-  {
-    "title": "Hidden for 40,000 Years: Scientists Discover “Odd” New Butterfly Species",
-    "domain": "science",
-    "location": "global",
-    "published": "Tue, 06 May 2025 02:11:49 +0000",
+    "published": "Tue, 06 May 2025 13:29:29 +0000",
     "source": "SciTechDaily",
     "sources": [
       "SciTechDaily"
     ],
     "snippets": [
-      "<a href=\"https://scitechdaily.com/hidden-for-40000-years-scientists-discover-odd-new-butterfly-species/\" rel=\"nofollow\" title=\"Hidden for 40,000 Years: Scientists Discover “Odd” New Butterfly Species\"><img alt=\"Satyrium curiosolus\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Satyrium-curiosolus-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>A new butterfly species, Satyrium curiosolus, has been discovered in Alberta. Isolated for millennia, it shows unique traits and faces conservation risks due to low genetic diversity. In Canada’s Rocky Mountains, a modest yet remarkable butterfly has gone largely unnoticed by science for years. With a wingspan ranging from one to one and a half [...]"
+      "<a href=\"https://scitechdaily.com/tectonic-surprise-mantle-upwelling-not-mega-crunch-built-earths-roof-of-the-world/\" rel=\"nofollow\" title=\"Tectonic Surprise: Mantle Upwelling, Not Mega-Crunch, Built Earth’s “Roof of the World”\"><img alt=\"Planet Earth Fault Lines Tectonic Plates\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"741\" src=\"https://scitechdaily.com/images/Planet-Earth-Fault-Lines-Tectonic-Plates-777x741.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Tibetan uplift was mainly caused by post-collisional mantle dynamics, not ongoing India-Asia convergence. The study challenges long-held tectonic models. The India-Asia continental collision and the rise of the Tibetan Plateau have traditionally been explained by continuous convergence throughout the Cenozoic, based on two main assumptions: that the India-Asia collision is ongoing and that the Indian [...]"
     ],
     "image_url": "",
     "titles": [
-      "Hidden for 40,000 Years: Scientists Discover “Odd” New Butterfly Species"
+      "Tectonic Surprise: Mantle Upwelling, Not Mega-Crunch, Built Earth’s “Roof of the World”"
     ],
-    "summary": "Scientists have discovered a new butterfly species, Satyrium curiosolus, in Alberta's Rocky Mountains, which remained hidden for 40,000 years. This species exhibits unique characteristics and is at risk due to its low genetic diversity. The discovery highlights the need for conservation efforts to protect this newly identified butterfly, which has a wingspan of one to one and a half inches.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive because it informs readers about a new discovery in the field of biodiversity, providing a deeper understanding of the unique characteristics of the newly discovered species. However, while it does highlight the need for conservation efforts, it does not provide specific solutions or improvements to address the issue.",
+    "summary": "A recent study has revealed that the elevation of the Tibetan Plateau, often referred to as the \"Roof of the World,\" was primarily driven by mantle upwelling rather than the longstanding theory of the India-Asia tectonic plate convergence. This challenges the traditional understanding of the plateau's formation, which attributed its rise to the continuous collision of the Indian and Asian continental plates since the Cenozoic era. The findings suggest that post-collisional mantle dynamics played a key role in shaping the region's topography.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides a deeper understanding of geological processes and challenges traditional theories, which can be useful for readers interested in geology or earth sciences. However, it does not provide actionable insights or report on solutions or improvements.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.918,
+      "recency": 0.964,
+      "consensus": 0.2,
+      "constructiveness": 0.6
+    },
+    "score": 0.545,
+    "normalized_score": 6.2
+  },
+  {
+    "title": "17 Years Later, Scientists May Have Finally Solved the Extreme Rainfall Mystery",
+    "domain": "science",
+    "location": "global",
+    "published": "Tue, 06 May 2025 13:04:13 +0000",
+    "source": "SciTechDaily",
+    "sources": [
+      "SciTechDaily"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/17-years-later-scientists-may-have-finally-solved-the-extreme-rainfall-mystery/\" rel=\"nofollow\" title=\"17 Years Later, Scientists May Have Finally Solved the Extreme Rainfall Mystery\"><img alt=\"Falling Rain Concept\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Falling-Rain-Concept-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>New research shows that extreme rainfall increases follow expected temperature relations when rainfall types are separated, resolving a long-standing debate but reinforcing concerns about future flash flood risks under climate change. Extreme rainfall can lead to rapid and dangerous flooding known as flash floods. Understanding how such intense rainfall responds to rising temperatures has been [...]"
+    ],
+    "image_url": "",
+    "titles": [
+      "17 Years Later, Scientists May Have Finally Solved the Extreme Rainfall Mystery"
+    ],
+    "summary": "After 17 years of study, scientists have discovered that extreme rainfall patterns align with expected temperature increases when different types of rainfall are considered separately. This finding resolves a long-standing debate and highlights the growing risk of flash floods due to climate change.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "The story informs about the relationship between extreme rainfall patterns and temperature increases, highlighting the risks of climate change. This can help readers understand the impacts of climate change and the need for mitigation efforts. However, it doesn't provide specific solutions or improvements.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.958,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.551,
-    "normalized_score": 5.3
+    "score": 0.571,
+    "normalized_score": 8.8
   },
   {
-    "title": "Shocking Discovery: Scientists Discover Organism That Act Like Living Electrical Wires",
+    "title": "Landslide rescuers to get help from rapid analysis of seismic data",
     "domain": "science",
     "location": "global",
-    "published": "Tue, 06 May 2025 01:40:27 +0000",
-    "source": "SciTechDaily",
-    "sources": [
-      "SciTechDaily"
-    ],
-    "snippets": [
-      "<a href=\"https://scitechdaily.com/shocking-discovery-scientists-discover-organism-that-act-like-living-electrical-wires/\" rel=\"nofollow\" title=\"Shocking Discovery: Scientists Discover Organism That Act Like Living Electrical Wires\"><img alt=\"Rug of Biomass\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1036\" src=\"https://scitechdaily.com/images/Rug-of-Biomass-777x1036.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Scientists identified a new electrically conductive bacterium, Ca. Electrothrix yaqonensis, with potential applications in pollution cleanup and bioelectronics. Researchers have discovered a previously unknown species of bacteria capable of conducting electricity, potentially paving the way for innovative bioelectronic technologies. These applications could span fields such as medicine, industrial manufacturing, food safety, and environmental monitoring and [...]"
-    ],
-    "image_url": "",
-    "titles": [
-      "Shocking Discovery: Scientists Discover Organism That Act Like Living Electrical Wires"
-    ],
-    "summary": "Scientists have discovered a new species of electrically conductive bacteria, named Ca. Electrothrix yaqonensis, which could have significant applications in pollution cleanup and bioelectronics. This breakthrough opens up possibilities for advancements in various fields including medicine, industrial manufacturing, food safety, and environmental monitoring.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is highly constructive as it not only provides a deeper understanding of a new scientific discovery, but also highlights potential solutions and improvements in various fields such as pollution cleanup and bioelectronics. It increases awareness about the potential of such organisms and their implications for future innovations.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.911,
-      "consensus": 0.2,
-      "constructiveness": 0.9
-    },
-    "score": 0.559,
-    "normalized_score": 5.91
-  },
-  {
-    "title": "Shingles vaccine linked with lower risk of many common heart problems",
-    "domain": "science",
-    "location": "global",
-    "published": "Tue, 06 May 2025 01:05:36 +0100",
+    "published": "Tue, 06 May 2025 12:54:27 +0100",
     "source": "New Scientist",
     "sources": [
       "New Scientist"
     ],
     "snippets": [
-      "Shingles is associated with an increased chance of health problems like strokes and heart attacks, but receiving a shingles jab seems to curb the risk of such cardiovascular problems"
+      "Being able to quickly pinpoint the location of events such as landslides and pyroclastic flows will help rescue efforts, say the team behind a new technique for doing so"
     ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/05/05191241/SEI_250069808.jpg",
+    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/05/06114748/SEI_249553245.jpg",
     "titles": [
-      "Shingles vaccine linked with lower risk of many common heart problems"
+      "Landslide rescuers to get help from rapid analysis of seismic data"
     ],
-    "summary": "Studies have found that individuals who have had shingles are at a higher risk of experiencing heart attacks and strokes. However, getting vaccinated against shingles can significantly reduce this risk, offering protection against these cardiovascular issues.",
+    "summary": "A team has developed a new technique aimed at quickly identifying the locations of natural disasters like landslides and pyroclastic flows. This method is expected to significantly aid rescue operations by enabling faster response times to affected areas.",
     "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it provides actionable insights for readers - getting vaccinated against shingles can reduce the risk of heart problems. It also increases awareness about the connection between shingles and heart issues, contributing to a deeper understanding of health and wellness.",
+    "constructiveness_reason": "This story clearly highlights an innovation aimed at solving a problem - faster identification of natural disaster locations to aid rescue operations. It provides actionable insights and increases awareness about the use of seismic data in disaster management.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.889,
+      "recency": 0.942,
       "consensus": 0.2,
       "constructiveness": 0.9
     },
-    "score": 0.552,
-    "normalized_score": 5.38
+    "score": 0.568,
+    "normalized_score": 8.5
+  },
+  {
+    "title": "Satellites Tracked a Volcano’s Secret Collapse for 12 Years – Then It Sparked a Killer Wave",
+    "domain": "science",
+    "location": "global",
+    "published": "Tue, 06 May 2025 12:39:24 +0000",
+    "source": "SciTechDaily",
+    "sources": [
+      "SciTechDaily"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/satellites-tracked-a-volcanos-secret-collapse-for-12-years-then-it-sparked-a-killer-wave/\" rel=\"nofollow\" title=\"Satellites Tracked a Volcano’s Secret Collapse for 12 Years – Then It Sparked a Killer Wave\"><img alt=\"Volcanic Eruption Wireframe Concept Illustration\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Volcanic-Eruption-Wireframe-Concept-Illustration-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>In 2018, the Anak Krakatau volcano in Indonesia collapsed catastrophically, generating a deadly tsunami. Now, researchers reveal that the volcano’s flank had been slowly slipping for years—an invisible danger detectable through satellite radar long before disaster struck. Silent Slippage Before Disaster In 2018, a massive eruption caused the southwest flank of Indonesia’s Anak Krakatau volcano [...]"
+    ],
+    "image_url": "",
+    "titles": [
+      "Satellites Tracked a Volcano’s Secret Collapse for 12 Years – Then It Sparked a Killer Wave"
+    ],
+    "summary": "In 2018, the Anak Krakatau volcano in Indonesia underwent a catastrophic collapse, leading to a deadly tsunami. Recent research has shown that satellite radar detected the volcano's southwest flank was slowly slipping for 12 years prior to the eruption. This gradual movement, not visible to the naked eye, was a critical precursor to the eventual disaster.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story provides useful information about the potential for satellite radar to detect precursors to natural disasters. However, it doesn't offer a clear solution or innovation to prevent such disasters, nor does it provide actionable insights for the reader. It does increase awareness about the causes and impacts of natural disasters.",
+    "score_components": {
+      "magnitude": 0.439,
+      "recency": 0.952,
+      "consensus": 0.2,
+      "constructiveness": 0.7
+    },
+    "score": 0.571,
+    "normalized_score": 8.8
+  },
+  {
+    "title": "Upcycled grape pomace in chicken feed may improve their gut health",
+    "domain": "science",
+    "location": "global",
+    "published": "Tue, 06 May 2025 11:55:03 EDT",
+    "source": "Phys.org",
+    "sources": [
+      "Phys.org"
+    ],
+    "snippets": [
+      "New York state's grape industry produces 30,000 pounds of grape pomace waste each year. Nationally, that number is roughly 1 million pounds."
+    ],
+    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/upcycled-grape-pomace.jpg",
+    "titles": [
+      "Upcycled grape pomace in chicken feed may improve their gut health"
+    ],
+    "summary": "New York state's grape industry generates approximately 30,000 pounds of grape pomace waste annually. Across the United States, the total amount of grape pomace waste produced each year reaches about 1 million pounds.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story brings awareness to the issue of grape pomace waste, but it doesn't provide much depth or insight. There's no clear indication of progress or solutions, nor does it provide actionable insights for the reader. The title suggests a potential use for the waste, but the summary doesn't elaborate on this.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.942,
+      "consensus": 0.2,
+      "constructiveness": 0.5
+    },
+    "score": 0.528,
+    "normalized_score": 4.5
   }
 ]
