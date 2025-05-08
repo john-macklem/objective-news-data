@@ -15,17 +15,17 @@
     "titles": [
       "Are ICE agent checks on migrant children to protect them or deport them?"
     ],
-    "summary": "Homeland Security officials announced that the purpose of welfare checks on unaccompanied children is to ensure their safety and protect them from exploitation, abuse, and sex trafficking.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the welfare checks on unaccompanied children by Homeland Security officials. However, it doesn't delve into potential solutions or improvements to the system, nor does it provide enough context about the broader issue of immigration and child welfare.",
+    "summary": "Homeland Security officials stated that the purpose of welfare checks on unaccompanied children is to verify their safety and protect them from exploitation, abuse, and sex trafficking.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story is constructive as it provides useful information about the purpose of welfare checks on unaccompanied children by Homeland Security officials. However, it does not provide any insights into solutions, improvements, or attempts to solve problems related to the welfare of migrant children.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.804,
+      "recency": 0.693,
       "consensus": 0.2,
-      "constructiveness": 0.6
+      "constructiveness": 0.7
     },
-    "score": 0.497,
-    "normalized_score": 2.95
+    "score": 0.473,
+    "normalized_score": 0.97
   },
   {
     "title": "Chabria: Why California Democrats killed, then resurrected, a bill to crack down on buying teens for sex",
@@ -43,131 +43,185 @@
     "titles": [
       "Chabria: Why California Democrats killed, then resurrected, a bill to crack down on buying teens for sex"
     ],
-    "summary": "Debate over whether California Democrats are effectively protecting minors from sex trafficking has led to significant turmoil in the state Capitol for over a week.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "The story informs readers about a significant debate in California's state Capitol regarding the protection of minors from sex trafficking. It provides some context and insight into the legislative process, but it doesn't highlight any clear progress or solutions to the problem.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.804,
-      "consensus": 0.2,
-      "constructiveness": 0.7
-    },
-    "score": 0.507,
-    "normalized_score": 3.71
-  },
-  {
-    "title": "Australia news live: Rudd criticises Trump’s proposed ‘tax on Bluey’; Faruqi refuses to concede Bandt will lose Melbourne",
-    "domain": "general",
-    "location": "global",
-    "published": "Wed, 07 May 2025 23:44:07 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "The Guardian"
-    ],
-    "snippets": [
-      "<p>Australia’s ambassador to the US has taken aim at the proposal to put tariffs on screen productions. Follow today’s news live</p><ul><li>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></li></ul><p><strong>Ben Raue’s predictions for Menzies, Bullwinkel and Bradfield</strong></p><p>Analyst <strong>Ben Raue</strong> also predicted that Labor’s <strong>Gabriel Ng</strong> lead by 1,145 votes in Menzies, Victoria, will “grow slightly”.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/may/08/australia-news-live-anthony-albanese-environment-labor-cabinet-liberal-leadership-sussan-ley-angus-taylor-ntwnfb\">Continue reading...</a>",
-      "<p>Australia’s ambassador to the US has taken aim at the proposal to put tariffs on screen productions. Follow today’s news live</p><ul><li>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></li></ul><p><strong>Ben Raue’s predictions for Menzies, Bullwinkel and Bradfield</strong></p><p>Analyst <strong>Ben Raue</strong> also predicted that Labor’s <strong>Gabriel Ng</strong> lead by 1,145 votes in Menzies, Victoria, will “grow slightly”.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/may/08/australia-news-live-anthony-albanese-environment-labor-cabinet-liberal-leadership-sussan-ley-angus-taylor-ntwnfb\">Continue reading...</a>"
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/9491addf7030ca2dd72208a17f9f5d0b55490b1a/602_0_2531_2025/master/2531.jpg?width=140&quality=85&auto=format&fit=max&s=a0712b1a406c4f09e5e33d2eed48869e",
-    "titles": [
-      "Australia news live: Rudd criticises Trump’s proposed ‘tax on Bluey’; Faruqi refuses to concede Bandt will lose Melbourne",
-      "Australia news live: Rudd criticises Trump’s proposed ‘tax on Bluey’; Faruqi refuses to concede Bandt will lose Melbourne"
-    ],
-    "summary": "Australia's ambassador to the US criticized a proposal for tariffs on screen productions. Additionally, analyst Ben Raue predicted Labor's Gabriel Ng will slightly increase his lead of 1,145 votes in Menzies, Victoria.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story offers basic awareness about current events in Australia, including political developments and proposed tariffs on screen productions. However, it lacks depth and doesn't provide actionable insights or a clear understanding of the impacts or trends involved.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.995,
-      "consensus": 0.2,
-      "constructiveness": 0.5
-    },
-    "score": 0.552,
-    "normalized_score": 7.12
-  },
-  {
-    "title": "Columbia University calls in police to clear pro-Palestinian protesters",
-    "domain": "general",
-    "location": "global",
-    "published": "Wed, 07 May 2025 23:41:09 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "The Guardian"
-    ],
-    "snippets": [
-      "<p>University’s president says activists refused to leave library despite warnings of disciplinary action and arrest</p><p>Columbia University asked the New York police department to help clear pro-Palestinian activists after dozens of protesters occupied parts of the main campus library on Wednesday.</p><p>Claire Shipman, the university’s acting president, said in a statement that protesters had refused to leave the building despite being warned that a failure to comply would result in disciplinary action and possibly arrest for trespassing.</p> <a href=\"https://www.theguardian.com/us-news/2025/may/07/columbia-university-police-pro-palestinian-protests\">Continue reading...</a>"
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/4f7e6dc2f1658f9e30354410279019c8989fdf4c/541_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=073d1a118f9c2bc00458e369938ada83",
-    "titles": [
-      "Columbia University calls in police to clear pro-Palestinian protesters"
-    ],
-    "summary": "Columbia University requested assistance from the New York Police Department to remove pro-Palestinian activists who occupied parts of the main campus library. Despite warnings of disciplinary action and potential arrest for trespassing from the university's acting president, Claire Shipman, the protesters refused to leave.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story provides basic awareness of the events that took place at Columbia University, but it doesn't offer any deeper understanding or insight into the reasons behind the protest or the implications of the university's actions.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.994,
-      "consensus": 0.2,
-      "constructiveness": 0.5
-    },
-    "score": 0.544,
-    "normalized_score": 6.52
-  },
-  {
-    "title": "The Indian Aircraft Pakistan Says It Shot Down",
-    "domain": "general",
-    "location": "global",
-    "published": "Wed, 07 May 2025 23:39:22 +0000",
-    "source": "New York Times",
-    "sources": [
-      "New York Times"
-    ],
-    "snippets": [
-      "Tensions between India and Pakistan have risen sharply in the weeks since a terrorist attack in Kashmir. On Wednesday, India hit Pakistan and appears to have lost at least a few planes in the strike."
-    ],
-    "image_url": "https://static01.nyt.com/images/2025/05/07/multimedia/07india-aircraft-1-bgcf/07india-aircraft-1-bgcf-mediumSquareAt3X.jpg",
-    "titles": [
-      "The Indian Aircraft Pakistan Says It Shot Down"
-    ],
-    "summary": "Tensions between India and Pakistan escalated following a terrorist attack in Kashmir. In response, India conducted airstrikes in Pakistan, during which it lost at least a few planes. This incident marks a significant increase in hostilities between the two countries.",
+    "summary": "The debate over whether California Democrats are effectively protecting minors from sex trafficking has sparked significant controversy in the state Capitol for over a week.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story informs about the escalating tensions between India and Pakistan, providing context to the recent events. However, it doesn't report on any solutions or attempts to solve the problem, nor does it provide actionable insights for the reader.",
+    "constructiveness_reason": "This story offers a deeper understanding of the controversy surrounding the protection of minors from sex trafficking in California. However, it does not report on any concrete solutions or improvements, nor does it provide actionable insights for the reader.",
     "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.994,
+      "magnitude": 0.389,
+      "recency": 0.693,
       "consensus": 0.2,
       "constructiveness": 0.6
     },
-    "score": 0.562,
-    "normalized_score": 7.88
+    "score": 0.463,
+    "normalized_score": 0.0
   },
   {
-    "title": "Follow live: Knicks off to rocky start in Game 2 vs. Celtics",
+    "title": "US jury acquits three Memphis police officers in Tyre Nichols beating death",
+    "domain": "general",
+    "location": "global",
+    "published": "Wed, 07 May 2025 23:58:37 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera"
+    ],
+    "snippets": [
+      "The three former officers were found not guilty on a range of charges, including second-degree murder and kidnapping."
+    ],
+    "image_url": "",
+    "titles": [
+      "US jury acquits three Memphis police officers in Tyre Nichols beating death"
+    ],
+    "summary": "Three former officers were acquitted of all charges, including second-degree murder and kidnapping, following a trial. The verdict indicates that they were not found responsible for the alleged crimes.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about a specific court case and its outcome, but it does not offer much depth or insight into broader issues related to police accountability or justice system reform. It also does not provide actionable insights or report on solutions or improvements.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.887,
+      "consensus": 0.2,
+      "constructiveness": 0.5
+    },
+    "score": 0.512,
+    "normalized_score": 4.76
+  },
+  {
+    "title": "Trump nominates Dr Casey Means, influencer close to RFK Jr, for surgeon general",
+    "domain": "general",
+    "location": "global",
+    "published": "Wed, 07 May 2025 23:56:06 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "The Guardian"
+    ],
+    "snippets": [
+      "<p>President taps wellness influencer after withdrawing initial pick, former Fox News contributor Janette Nesheiwat</p><p>Donald Trump has tapped Dr Casey Means, a wellness influencer with close ties to Robert F Kennedy Jr, the US health secretary, as nominee for surgeon general after withdrawing his initial pick for the influential health post.</p><p>The US president said in a social media post on Wednesday that Means has “impeccable ‘MAHA’ credentials” – referring to the “make America healthy again” slogan – and that she will work to eradicate chronic disease and improve the health and wellbeing of Americans.</p> <a href=\"https://www.theguardian.com/us-news/2025/may/07/trump-surgeon-general-nominee-casey-means\">Continue reading...</a>"
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/e3bfea2f805e38ce3c6cf22854ada6ab004abede/0_0_3277_2621/master/3277.jpg?width=140&quality=85&auto=format&fit=max&s=7091ec99adb093af3661a76c3d82fed1",
+    "titles": [
+      "Trump nominates Dr Casey Means, influencer close to RFK Jr, for surgeon general"
+    ],
+    "summary": "President Donald Trump has nominated Dr. Casey Means, a wellness influencer with connections to Robert F Kennedy Jr, as the new nominee for surgeon general, following the withdrawal of his initial choice, Janette Nesheiwat. Trump praised Means for her \"MAHA\" credentials, emphasizing her commitment to eradicating chronic disease and enhancing the health of Americans.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about a new nominee for surgeon general, offering insight into her background and connections. However, it doesn't provide a deep understanding of what this nomination could mean for public health policy or the potential impacts of her appointment.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.887,
+      "consensus": 0.2,
+      "constructiveness": 0.6
+    },
+    "score": 0.53,
+    "normalized_score": 6.5
+  },
+  {
+    "title": "Judge says deporting migrants to Libya would violate his order",
+    "domain": "general",
+    "location": "national",
+    "published": "Wed, 07 May 2025 23:34:15 -0400",
+    "source": "ABC News",
+    "sources": [
+      "ABC News"
+    ],
+    "snippets": [
+      "A judge has ruled that deporting noncitizens to Libya without due process would violate his court order, after sources said the White House has discussed such plans."
+    ],
+    "image_url": "https://s.abcnews.com/images/US/cecot-3-rt-gmh-250408_1744126475461_hpMain_4x3t_384.jpg",
+    "titles": [
+      "Judge says deporting migrants to Libya would violate his order"
+    ],
+    "summary": "A judge ruled that the deportation of noncitizens to Libya without due process would breach his court order. This decision came after reports surfaced about the White House considering plans for such deportations. The ruling emphasizes the requirement for due process in deportation proceedings.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story provides useful information about a recent court ruling and its implications for immigration policy. It increases awareness about the importance of due process in deportation proceedings and the potential impacts of policy decisions. However, it doesn't provide a comprehensive overview of the issue or potential solutions.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.937,
+      "consensus": 0.2,
+      "constructiveness": 0.8
+    },
+    "score": 0.557,
+    "normalized_score": 9.13
+  },
+  {
+    "title": "Grading how every men's ACC basketball team performed in 2024-25",
     "domain": "sports",
     "location": "national",
-    "published": "Wed, 7 May 2025 19:55:06 EST",
+    "published": "Wed, 7 May 2025 23:54:31 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "null"
+      "How should UNC's campaign be judged? What about the conference's newest members? Our verdicts on all 18 teams."
     ],
     "image_url": "",
     "titles": [
-      "Follow live: Knicks off to rocky start in Game 2 vs. Celtics"
+      "Grading how every men's ACC basketball team performed in 2024-25"
     ],
-    "summary": "I'm sorry, but it seems there was no news content provided for me to summarize. Could you please provide the specific details or content you'd like summarized?",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "There is no content provided to evaluate. Therefore, it cannot be determined if the story is constructive or not.",
+    "summary": "The article evaluates the University of North Carolina's (UNC) campaign and the performance of the newest members in their conference, providing assessments for all 18 teams involved. It offers verdicts on each team's season, analyzing their successes and areas for improvement. This comprehensive review aims to gauge the overall impact and progress of UNC's campaign and the integration and performance of the conference's newest teams.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story provides a comprehensive analysis of each team's performance, offering insights into their successes and areas for improvement. It contributes meaningfully to readers' understanding of the season and could potentially inform decisions about future strategies or player development. The story highlights progress and areas for improvement, contributing to a sense of agency among players, coaches, and fans.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.942,
+      "recency": 0.886,
       "consensus": 0.2,
-      "constructiveness": 0.0
+      "constructiveness": 0.9
     },
-    "score": 0.458,
-    "normalized_score": 0.0
+    "score": 0.531,
+    "normalized_score": 6.6
+  },
+  {
+    "title": "Which players should Chelsea sign? Plus: All you need to know about Estêvão, Essugo, other arrivals",
+    "domain": "sports",
+    "location": "national",
+    "published": "Wed, 7 May 2025 20:22:54 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Chelsea have spent over €1.6 billion on transfers in the past few years, mainly on young players, so who should they target next? And who is arriving already?"
+    ],
+    "image_url": "",
+    "titles": [
+      "Which players should Chelsea sign? Plus: All you need to know about Estêvão, Essugo, other arrivals"
+    ],
+    "summary": "Chelsea FC has invested more than €1.6 billion in player transfers recently, focusing largely on acquiring young talent. The discussion now centers on potential future targets and identifying players who are already set to join the club.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information for readers who are interested in Chelsea FC's player acquisition strategies. However, it doesn't report on any specific solutions or progress, nor does it provide deep insights into the systems or trends that are driving these decisions.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.837,
+      "consensus": 0.2,
+      "constructiveness": 0.6
+    },
+    "score": 0.487,
+    "normalized_score": 2.33
+  },
+  {
+    "title": "Transfer rumors, news: Arsenal eye Lookman, Mbeumo, Gittens",
+    "domain": "sports",
+    "location": "national",
+    "published": "Wed, 7 May 2025 20:22:54 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Vanquished UCL semifinalists Arsenal are already drawing up plans for the transfer window."
+    ],
+    "image_url": "",
+    "titles": [
+      "Transfer rumors, news: Arsenal eye Lookman, Mbeumo, Gittens"
+    ],
+    "summary": "Following their defeat in the UEFA Champions League semifinals, Arsenal is actively preparing for the upcoming transfer window. The team aims to strengthen its squad to enhance future performance.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "While this story offers basic awareness about Arsenal's potential player transfers, it lacks depth or insight into the reasons behind these decisions or the potential impacts they might have. It doesn't report on any specific solutions or progress.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.837,
+      "consensus": 0.2,
+      "constructiveness": 0.5
+    },
+    "score": 0.477,
+    "normalized_score": 1.36
   },
   {
     "title": "Arsenal can't shake nearly-men tag as PSG's collective wins out",
@@ -185,101 +239,45 @@
     "titles": [
       "Arsenal can't shake nearly-men tag as PSG's collective wins out"
     ],
-    "summary": "Paris Saint-Germain (PSG) will have an opportunity to overcome their 2020 Champions League final defeat in an upcoming match. This event also prompts a period of reflection and potential adjustments at Arsenal, indicating both teams are facing pivotal moments in their respective campaigns.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides some useful context about the current state of Arsenal and PSG, indicating that both teams are at crucial points in their campaigns. However, it doesn't delve into specific strategies or solutions to the challenges they face, nor does it provide a deep understanding of the causes or impacts of their situations.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.938,
-      "consensus": 0.2,
-      "constructiveness": 0.6
-    },
-    "score": 0.517,
-    "normalized_score": 4.47
-  },
-  {
-    "title": "Ancelotti's Real Madrid limbo explained: Why he could leave, and what comes next",
-    "domain": "sports",
-    "location": "national",
-    "published": "Wed, 7 May 2025 19:24:04 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "As Carlo Ancelotti prepares for what appears to be his final Clásico, how could his last few weeks play out? And what's next for him and Real Madrid?"
-    ],
-    "image_url": "",
-    "titles": [
-      "Ancelotti's Real Madrid limbo explained: Why he could leave, and what comes next"
-    ],
-    "summary": "Carlo Ancelotti is preparing for what is expected to be his final Clásico as Real Madrid's coach. Speculations about his future and the team's direction are ongoing, but details on how his last weeks will unfold and what comes next for both him and the club remain unclear.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story offers basic awareness about Carlo Ancelotti's uncertain future at Real Madrid, but it lacks depth and actionable insights. It doesn't provide clear information about why he might leave or what the club's plans are for the future.",
-    "score_components": {
-      "magnitude": 0.359,
-      "recency": 0.935,
-      "consensus": 0.2,
-      "constructiveness": 0.5
-    },
-    "score": 0.514,
-    "normalized_score": 4.24
-  },
-  {
-    "title": "Bellingham ruled last season's Clásicos. Can he save Madrid's title hopes vs. Barça?",
-    "domain": "sports",
-    "location": "national",
-    "published": "Wed, 7 May 2025 19:24:01 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "It's been a challenging season for Jude Bellingham, but the title-deciding Clásico is the perfect stage for him."
-    ],
-    "image_url": "",
-    "titles": [
-      "Bellingham ruled last season's Clásicos. Can he save Madrid's title hopes vs. Barça?"
-    ],
-    "summary": "Jude Bellingham has faced a difficult season, yet the upcoming title-deciding Clásico presents an ideal opportunity for him to showcase his skills and potentially turn his season around. This match is significant for both his personal redemption and the team's success.",
+    "summary": "Paris Saint-Germain (PSG) will have another opportunity to overcome their disappointment from the 2020 Champions League final. This comes as they prepare for a rematch, offering them a chance to address past shortcomings. Meanwhile, Arsenal is set to engage in introspection following recent events, suggesting a period of evaluation and potential adjustments within the team.",
     "constructiveness_score": 0.7,
-    "constructiveness_reason": "This article provides a useful perspective on the importance of the upcoming Clásico for Jude Bellingham and Real Madrid. It suggests that this could be a turning point for both the player and the team. However, it doesn't offer specific insights into how Bellingham could achieve this or the broader implications for the team and the league.",
+    "constructiveness_reason": "This story provides useful context for understanding Arsenal's current situation and potential future actions. It also increases awareness about the dynamics of the team and their performance. However, it doesn't clearly highlight any progress or solutions.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.935,
+      "recency": 0.827,
       "consensus": 0.2,
       "constructiveness": 0.7
     },
-    "score": 0.526,
-    "normalized_score": 5.15
+    "score": 0.494,
+    "normalized_score": 3.01
   },
   {
-    "title": "Stock watch: Shelby Miller for saves?",
+    "title": "Ranking the top 25 WNBA players: Wilson is No. 1, but where do Collier, Stewart, Clark land?",
     "domain": "sports",
     "location": "national",
-    "published": "Wed, 7 May 2025 19:12:33 EST",
+    "published": "Wed, 7 May 2025 19:08:29 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "Everything fantasy baseball managers need to know about which closers should be added, dropped and more."
+      "A'ja Wilson, Napheesa Collier, Breanna Stewart and Caitlin Clark top our preseason ranking."
     ],
     "image_url": "",
     "titles": [
-      "Stock watch: Shelby Miller for saves?"
+      "Ranking the top 25 WNBA players: Wilson is No. 1, but where do Collier, Stewart, Clark land?"
     ],
-    "summary": "This article provides fantasy baseball managers with essential advice on managing their closers, including recommendations on which closers to add or drop from their teams. It offers strategic insights aimed at optimizing team performance in fantasy baseball leagues.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is highly constructive as it provides actionable insights and strategic recommendations to fantasy baseball managers. It enables readers to make informed decisions about managing their teams, thus contributing to a deeper understanding of the game.",
+    "summary": "A'ja Wilson, Napheesa Collier, Breanna Stewart, and Caitlin Clark are leading the preseason ranking in their sport. This ranking highlights their prominence and skill level before the season starts, indicating they are players to watch.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information for sports enthusiasts, particularly those who follow WNBA. It gives readers an understanding of who the top players are, which could influence their viewing choices. However, it doesn't provide insights into solutions, improvements, or innovations in the sport, nor does it increase clarity around systems or trends.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.932,
+      "recency": 0.82,
       "consensus": 0.2,
-      "constructiveness": 0.9
+      "constructiveness": 0.6
     },
-    "score": 0.545,
-    "normalized_score": 6.59
+    "score": 0.482,
+    "normalized_score": 1.84
   },
   {
     "title": "Trump crypto advisor David Bailey launching $300 million bitcoin investment company",
@@ -297,16 +295,72 @@
     "titles": [
       "Trump crypto advisor David Bailey launching $300 million bitcoin investment company"
     ],
-    "summary": "David Bailey, the CEO of BTC Inc. and a crypto advisor to Donald Trump, has successfully raised $300 million for the creation of a new bitcoin investment firm. This company is set to be publicly traded, allowing investors an opportunity to engage with the bitcoin market through a formal investment platform.",
+    "summary": "David Bailey, the CEO of BTC Inc. and an advisor on cryptocurrency to Donald Trump, has successfully raised $300 million for the purpose of establishing a new bitcoin investment company. This venture is set to be publicly traded, marking a significant move in the cryptocurrency investment landscape.",
     "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story offers useful information about a new investment opportunity in the bitcoin market. However, it does not provide sufficient details about the potential risks or benefits of this investment, or how it fits into broader trends in the cryptocurrency market.",
+    "constructiveness_reason": "The story provides a deeper understanding of the current trends in cryptocurrency investment, particularly the move towards establishing publicly traded bitcoin investment companies. It doesn't highlight specific solutions or improvements, but it does inform readers about significant developments in the cryptocurrency landscape.",
     "score_components": {
       "magnitude": 0.429,
-      "recency": 0.993,
+      "recency": 0.882,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.59,
+    "score": 0.556,
+    "normalized_score": 9.03
+  },
+  {
+    "title": "Today’s NYT Mini Crossword Clues And Answers For Thursday, May 8th",
+    "domain": "business",
+    "location": "global",
+    "published": "Wed, 07 May 2025 23:23:33 -0400",
+    "source": "Forbes",
+    "sources": [
+      "Forbes"
+    ],
+    "snippets": [
+      "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle."
+    ],
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/66ad93159698a3280d18584c/0x0.jpg?width=960",
+    "titles": [
+      "Today’s NYT Mini Crossword Clues And Answers For Thursday, May 8th"
+    ],
+    "summary": "Today's NYT Mini Crossword puzzle assistance is provided with hints and answers for those seeking help. This service aims to aid puzzle enthusiasts in solving the day's challenge.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "While this story offers basic awareness of the day's crossword puzzle, it doesn't provide much depth or insight. It doesn't report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts. Its primary purpose is to assist puzzle enthusiasts, which is of limited usefulness to a broader audience.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.935,
+      "consensus": 0.2,
+      "constructiveness": 0.3
+    },
+    "score": 0.506,
+    "normalized_score": 4.17
+  },
+  {
+    "title": "R&D Tax Credit Boost Shows Texas Is Not Resting On Low-Tax Laurels",
+    "domain": "business",
+    "location": "global",
+    "published": "Wed, 07 May 2025 23:18:54 -0400",
+    "source": "Forbes",
+    "sources": [
+      "Forbes"
+    ],
+    "snippets": [
+      "The Texas Senate's passage of a bill to extend and strengthen the state’s R&amp;D tax credit proves Texas lawmakers aren't resting on their low-tax laurels."
+    ],
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/681b8e29b236a734955bae65/0x0.jpg?width=960",
+    "titles": [
+      "R&D Tax Credit Boost Shows Texas Is Not Resting On Low-Tax Laurels"
+    ],
+    "summary": "The Texas Senate has passed a bill aimed at extending and enhancing the state's research and development (R&D) tax credit. This legislative move demonstrates the lawmakers' commitment to maintaining Texas's competitive edge by not solely relying on its low-tax advantage.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is constructive as it provides useful information about a legislative move that could impact businesses in Texas. It also highlights the state's proactive approach to maintaining its competitive edge, which is an example of progress.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.934,
+      "consensus": 0.2,
+      "constructiveness": 0.9
+    },
+    "score": 0.566,
     "normalized_score": 10.0
   },
   {
@@ -319,107 +373,51 @@
       "Investopedia"
     ],
     "snippets": [
-      "<figure><img alt=\"Anna Moneymaker / Staff / Getty Images President Donald Trump in the Oval Office at the White House in Washington, D.C. on May 7, 2025\" src=\"https://www.investopedia.com/thmb/BFtp-Rx4Bg64oTxaFinMveK4JMo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2213940029-a5774ca3a6b24e1b99f99da064aba274.jpg\" title=\"President Donald Trump in the Oval Office at the White House in Washington, D.C. on May 7, 2025\" /><figcaption><i><p>Anna Moneymaker / Staff / Getty Images</p> President Donald Trump in the Oval Office at the White House in Washington, D.C. on May 7, 2025</i></figcaption></figure><p>The Trump administration plans to repeal Biden-era chip curbs that were set to take effect later this month and expand limits on exports of American chips. </p><p>The \"<a href=\"https://www.investopedia.com/why-new-china-chip-export-curbs-could-affect-far-more-than-just-nvidia-amd-11717188\">AI diffusion rule</a>,\" published in January and set to go into effect on May 15, would further tighten restrictions on sales of American AI hardware to other countries, but Trump plans to rescind the rule. The news was first reported by <em>Bloomberg</em> late Wednesday.<span class=\"ql-inline-citation\"></span></p><p>“The Biden AI rule is overly complex, overly bureaucratic, and would stymie American innovation. We will be replacing it with a much simpler rule that unleashes American innovation and ensures American AI dominance,” a spokesperson for the Commerce Department's Bureau of Industry and Security said in a statement to <em>Investopedia</em>.</p><p>The Commerce Department is expected to continue enforcing export limits currently in effect while it develops a new set of restrictions to replace the diffusion rule, according to <em>Bloomberg's</em> report.</p><p>&#61;Advanced Micro Devices <a href=\"https://www.investopedia.com/why-analysts-are-concerned-about-amd-ai-revenue-despite-strong-results-11729311\">said yesterday</a> it expects to take a $1.5 billion revenue hit in 2025 due to tighter restrictions on its chip sales to China—a bigger impact than analysts expected.</p><p>Nvidia (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;NVDA\">NVDA</a>) last month said it expects to take a <a href=\"https://www.investopedia.com/nvidia-to-record-usd5-5b-charge-as-us-cracks-down-on-chip-exports-to-china-11716119\">$5.5 billion charge</a> in its fiscal first quarter after the U.S. implemented a licensing requirement for Nvidia to sell its H20 chips to China. Nvidia is scheduled to post its <a href=\"https://www.investopedia.com/what-amd-earnings-mean-for-nvidia-11730155\">first-quarter results</a> on May 28.</p>"
+      "<figure><img alt=\"Anna Moneymaker / Staff / Getty Images President Donald Trump in the Oval Office at the White House in Washington, D.C. on May 7, 2025\" src=\"https://www.investopedia.com/thmb/BFtp-Rx4Bg64oTxaFinMveK4JMo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2213940029-a5774ca3a6b24e1b99f99da064aba274.jpg\" title=\"President Donald Trump in the Oval Office at the White House in Washington, D.C. on May 7, 2025\" /><figcaption><i><p>Anna Moneymaker / Staff / Getty Images</p> President Donald Trump in the Oval Office at the White House in Washington, D.C. on May 7, 2025</i></figcaption></figure><p>The Trump administration plans to repeal Biden-era chip curbs that were set to take effect later this month and expand limits on exports of American chips. </p><p>The \"<a href=\"https://www.investopedia.com/why-new-china-chip-export-curbs-could-affect-far-more-than-just-nvidia-amd-11717188\">AI diffusion rule</a>,\" published in January and set to go into effect on May 15, would further tighten restrictions on sales of American AI hardware to other countries, but Trump plans to rescind the rule. The news was first reported by <em>Bloomberg</em> late Wednesday.<span class=\"ql-inline-citation\"></span></p><p>“The Biden AI rule is overly complex, overly bureaucratic, and would stymie American innovation. We will be replacing it with a much simpler rule that unleashes American innovation and ensures American AI dominance,” a spokesperson for the Commerce Department's Bureau of Industry and Security said in a statement to <em>Investopedia</em>.</p><p>The Commerce Department is expected to continue enforcing export limits currently in effect while it develops a new set of restrictions to replace the diffusion rule, according to <em>Bloomberg's</em> report.</p><p>Advanced Micro Devices (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;amd\">AMD</a>) <a href=\"https://www.investopedia.com/why-analysts-are-concerned-about-amd-ai-revenue-despite-strong-results-11729311\">said yesterday</a> it expects to take a $1.5 billion revenue hit in 2025 due to tighter restrictions on its chip sales to China—a bigger impact than analysts expected.</p><p>Nvidia (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;NVDA\">NVDA</a>) last month said it expects to take a <a href=\"https://www.investopedia.com/nvidia-to-record-usd5-5b-charge-as-us-cracks-down-on-chip-exports-to-china-11716119\">$5.5 billion charge</a> in its fiscal first quarter after the U.S. implemented a licensing requirement for Nvidia to sell its H20 chips to China. Nvidia is scheduled to post its <a href=\"https://www.investopedia.com/what-amd-earnings-mean-for-nvidia-11730155\">first-quarter results</a> on May 28.</p>"
     ],
     "image_url": "https://www.investopedia.com/thmb/BFtp-Rx4Bg64oTxaFinMveK4JMo=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2213940029-a5774ca3a6b24e1b99f99da064aba274.jpg",
     "titles": [
       "Trump Looks To Repeal Biden Chip-Export Curbs Set To Take Effect Soon"
     ],
-    "summary": "The Trump administration announced plans to repeal Biden-era restrictions on chip exports, including the AI diffusion rule set to start on May 15, 2025, which aimed to tighten controls on American AI hardware sales abroad. The decision, reported by Bloomberg, is based on the belief that the existing rule is overly complex and stifles American innovation. A simplified rule is to be developed to ensure American AI dominance while maintaining current export limits. This repeal comes as companies like Advanced Micro Devices and Nvidia face significant financial impacts due to the current restricti",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story provides useful context about the Trump administration's plans to repeal certain chip export restrictions. It also highlights the potential impacts on American companies. However, it does not fully explain the reasons for the repeal or the potential consequences for the global tech industry.",
+    "summary": "The Trump administration announced plans to repeal Biden-era restrictions on chip exports, specifically rescinding the \"AI diffusion rule\" set to take effect on May 15, 2025, which aimed to tighten sales of American AI hardware abroad. The Commerce Department will develop a simpler rule to promote American AI innovation and dominance, maintaining current export limits in the meantime. This decision comes as companies like AMD and Nvidia face significant financial impacts due to existing restrictions, with AMD projecting a $1.5 billion revenue loss in 2025 and Nvidia taking a $5.5 billion charg",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story informs readers about a significant policy change that could impact the tech industry, providing useful context about its potential effects. However, it doesn't clearly highlight solutions or progress, focusing more on the potential negative impacts of the current restrictions.",
     "score_components": {
       "magnitude": 0.429,
-      "recency": 0.985,
-      "consensus": 0.2,
-      "constructiveness": 0.7
-    },
-    "score": 0.577,
-    "normalized_score": 9.02
-  },
-  {
-    "title": "Trump offers to help resolve conflict between India and Pakistan",
-    "domain": "business",
-    "location": "national",
-    "published": "Wed, 07 May 2025 22:41:13 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "snippets": [
-      "President Donald Trump called the tensions between India and Pakistan following the massacre in Kashmir \"terrible.\""
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump offers to help resolve conflict between India and Pakistan"
-    ],
-    "summary": "Following the massacre in Kashmir, President Donald Trump described the escalating tensions between India and Pakistan as \"terrible.\" This statement reflects his concern over the situation arising after the incident in the disputed region.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story provides useful information about the escalating tensions between India and Pakistan and the US President's concern over the situation. However, it does not offer any solutions or in-depth understanding of the causes or impacts of the conflict.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.981,
-      "consensus": 0.2,
-      "constructiveness": 0.6
-    },
-    "score": 0.558,
-    "normalized_score": 7.58
-  },
-  {
-    "title": "AppLovin shares pop on earnings beat as it announces sale of mobile gaming business",
-    "domain": "business",
-    "location": "national",
-    "published": "Wed, 07 May 2025 22:31:40 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "snippets": [
-      "AppLovin shares soared in extended trading after the company beat first-quarter expectations and announced the sale of its mobile gaming business."
-    ],
-    "image_url": "",
-    "titles": [
-      "AppLovin shares pop on earnings beat as it announces sale of mobile gaming business"
-    ],
-    "summary": "AppLovin's shares surged in extended trading following the company's announcement that it exceeded first-quarter expectations and is selling its mobile gaming business. This move indicates a significant financial and strategic shift for the company.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it provides actionable insights for investors and a deeper understanding of the company's financial situation. It reports on a significant financial and strategic shift for the company, which can help readers make informed decisions.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.978,
-      "consensus": 0.2,
-      "constructiveness": 0.9
-    },
-    "score": 0.579,
-    "normalized_score": 9.17
-  },
-  {
-    "title": "Nvidia shares climb as Trump administration prepares to end chip export restrictions",
-    "domain": "business",
-    "location": "national",
-    "published": "Wed, 07 May 2025 22:17:54 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "snippets": [
-      "AMD CEO Lisa Su and Nvidia CEO Jensen Huang have both opposed the semiconductor export controls."
-    ],
-    "image_url": "",
-    "titles": [
-      "Nvidia shares climb as Trump administration prepares to end chip export restrictions"
-    ],
-    "summary": "AMD CEO Lisa Su and Nvidia CEO Jensen Huang have publicly opposed the semiconductor export controls, arguing that these restrictions could negatively affect the global semiconductor industry. Their stance highlights concerns about the impact of such controls on international trade and technological development.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "The story informs readers about the potential end of chip export restrictions and the impact on the global semiconductor industry. It provides useful context and highlights the concerns of key industry figures, contributing to a deeper understanding of the issue. However, it doesn't clearly highlight solutions or progress.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.975,
+      "recency": 0.874,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.576,
-    "normalized_score": 8.94
+    "score": 0.554,
+    "normalized_score": 8.83
+  },
+  {
+    "title": "Legacy Hoped For Cricket In Japan Post 2026 Asian Games",
+    "domain": "business",
+    "location": "global",
+    "published": "Wed, 07 May 2025 22:44:47 -0400",
+    "source": "Forbes",
+    "sources": [
+      "Forbes"
+    ],
+    "snippets": [
+      "There is hope that permanent cricket infrastructure can be built in Nagoya in a bid to leave a legacy for the sport in baseball-crazy Japan after next year’s Asian Games."
+    ],
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/652cf6295876797ea1e600cf/0x0.jpg?width=960",
+    "titles": [
+      "Legacy Hoped For Cricket In Japan Post 2026 Asian Games"
+    ],
+    "summary": "Efforts are underway to establish permanent cricket facilities in Nagoya, Japan, with the aim of fostering a lasting cricket legacy in a country predominantly focused on baseball. This initiative is aligned with the upcoming Asian Games next year, signaling a significant step towards promoting cricket in Japan.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is constructive as it provides insight into efforts to promote cricket in Japan, a country predominantly focused on baseball. It reports on a solution (establishing permanent cricket facilities) to a problem (lack of cricket infrastructure), which shows progress.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.926,
+      "consensus": 0.2,
+      "constructiveness": 0.9
+    },
+    "score": 0.563,
+    "normalized_score": 9.71
   },
   {
     "title": "“Cryosphere Meltdown” – The Arctic’s Carbon Sink Is Cracking",
@@ -437,17 +435,17 @@
     "titles": [
       "“Cryosphere Meltdown” – The Arctic’s Carbon Sink Is Cracking"
     ],
-    "summary": "A new study led by Jochen Knies at the iC3 Polar Research Hub has found that climate change is diminishing the Arctic fjords' capacity to function as carbon sinks. The research highlights that while phytoplankton growth could increase in warmer waters, the stratification of these waters limits nutrient availability, thereby reducing the fjords' long-term effectiveness in absorbing carbon. This development is concerning for global efforts to combat climate change, as it indicates a weakening of the Arctic's natural ability to mitigate carbon emissions.",
+    "summary": "A study led by Jochen Knies at the iC3 Polar Research Hub has found that climate change is diminishing the effectiveness of Arctic fjords as carbon sinks. The research indicates that while phytoplankton growth may increase in warmer waters, the resulting stratification reduces nutrient availability. This process limits the fjords' capacity to absorb carbon over the long term, signaling a concerning impact of global warming on the Arctic's ability to mitigate carbon emissions.",
     "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story is constructive as it provides useful information about the impact of climate change on the Arctic's ability to absorb carbon, thereby increasing the reader's understanding of this issue. However, it does not highlight any solutions, progress, or improvements, which limits its score.",
+    "constructiveness_reason": "The story provides useful information about the impact of climate change on Arctic fjords' capacity to absorb carbon. However, it does not report on any solutions or improvements being made to address the issue, nor does it give the reader actionable insights.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.975,
+      "recency": 0.863,
       "consensus": 0.2,
       "constructiveness": 0.7
     },
-    "score": 0.558,
-    "normalized_score": 7.58
+    "score": 0.524,
+    "normalized_score": 5.92
   },
   {
     "title": "“It Made No Sense” – Scientist Discovers California’s New Highest Tree",
@@ -465,17 +463,17 @@
     "titles": [
       "“It Made No Sense” – Scientist Discovers California’s New Highest Tree"
     ],
-    "summary": "UC Davis Professor Hugh Safford discovered a Jeffrey pine at a new record elevation in California's High Sierra, suggesting evidence of a warming climate. This unexpected find during a leisure hike may mark the highest-altitude tree in the state, indicating significant environmental changes.",
+    "summary": "UC Davis Professor Hugh Safford discovered a Jeffrey pine in California's High Sierra at a record elevation, indicating evidence of a warming climate. This finding could mark the highest-altitude tree in the state.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story provides useful information about the potential impact of climate change, as indicated by the discovery of a tree at a new record elevation. However, it does not provide actionable insights or report on solutions, limiting its score.",
+    "constructiveness_reason": "This story informs readers about the evidence of a warming climate, contributing to their understanding of the issue. But it lacks depth in terms of solutions or actions that can be taken, and does not highlight any progress or improvements.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.969,
+      "recency": 0.858,
       "consensus": 0.2,
       "constructiveness": 0.6
     },
-    "score": 0.546,
-    "normalized_score": 6.67
+    "score": 0.513,
+    "normalized_score": 4.85
   },
   {
     "title": "South Africa Is Getting Lifted out of the Ocean and Scientists Believe They Know Why",
@@ -493,17 +491,17 @@
     "titles": [
       "South Africa Is Getting Lifted out of the Ocean and Scientists Believe They Know Why"
     ],
-    "summary": "A study by the University of Bonn found that droughts led to Germany's land rising by six millimeters from 2012 to 2020. Similarly, South Africa is experiencing an annual land rise of up to two millimeters in some areas. Previously, scientists attributed this uplift to mantle flow, but recent findings suggest droughts are a significant factor.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides valuable insights into the causes of land rise in South Africa, contributing to the reader's understanding of this phenomenon. It also reports on the progress in scientific understanding of this issue. However, it does not provide actionable insights or report on solutions, limiting its score.",
+    "summary": "A study by the University of Bonn found that droughts led to Germany's land rising by six millimeters from 2012 to 2020. Similarly, South Africa is experiencing an uplift of up to two millimeters per year in certain areas. Previously, scientists attributed this phenomenon to mantle flow, but recent findings suggest other factors are at play.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides useful information about the phenomenon of land rising due to droughts. It increases awareness about the impacts of climate change and the factors contributing to these changes. However, it does not provide actionable insights or report on any solutions or improvements.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.963,
+      "recency": 0.852,
       "consensus": 0.2,
-      "constructiveness": 0.8
+      "constructiveness": 0.6
     },
-    "score": 0.565,
-    "normalized_score": 8.11
+    "score": 0.511,
+    "normalized_score": 4.66
   },
   {
     "title": "This US Company Just Successfully Tested a Reusable Hypersonic Rocket Plane",
@@ -521,17 +519,17 @@
     "titles": [
       "This US Company Just Successfully Tested a Reusable Hypersonic Rocket Plane"
     ],
-    "summary": "Stratolaunch successfully conducted two flights of its autonomous Talon-A2 rocket plane, marking progress in the US's efforts to compete in hypersonic technology with China. This development is part of the broader race for hypersonic supremacy between the two nations.",
+    "summary": "Stratolaunch successfully conducted two flights of its Talon-A2 autonomous rocket plane earlier this year, marking progress in the US's efforts to achieve hypersonic capabilities amid competition with China.",
     "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it reports on progress and innovation in the field of hypersonic technology. It provides useful information about the developments in this sector, contributing to a deeper understanding of the topic and the broader geopolitical context.",
+    "constructiveness_reason": "This story is constructive as it reports on progress and innovation in the field of aerospace technology. It provides useful information about the successful testing of a reusable hypersonic rocket plane, which can contribute to the reader's understanding of advancements in this area.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.957,
+      "recency": 0.846,
       "consensus": 0.2,
       "constructiveness": 0.9
     },
-    "score": 0.573,
-    "normalized_score": 8.71
+    "score": 0.539,
+    "normalized_score": 7.38
   },
   {
     "title": "Dementia cases are rising faster in China than the rest of the world",
@@ -549,16 +547,16 @@
     "titles": [
       "Dementia cases are rising faster in China than the rest of the world"
     ],
-    "summary": "Between 1990 and 2021, global cases of dementia doubled, while in China, they experienced a more than fourfold increase. This significant rise highlights a stark growth in dementia cases over a 31-year period, with China facing an especially sharp surge in the condition.",
+    "summary": "Between 1990 and 2021, global dementia cases doubled, while in China, cases more than quadrupled. This indicates a significant increase in dementia prevalence worldwide, with a notably sharper rise in China over the three-decade span.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story raises awareness about a significant health issue and provides useful context about the global and regional trends in dementia cases. However, it does not report on solutions, improvements, or attempts to address the problem, limiting its constructiveness.",
+    "constructiveness_reason": "This story increases awareness about the growing prevalence of dementia, particularly in China. However, it lacks depth as it does not provide actionable insights or potential solutions to the problem, nor does it delve into the causes or impacts of this trend.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.929,
+      "recency": 0.818,
       "consensus": 0.2,
       "constructiveness": 0.6
     },
-    "score": 0.542,
-    "normalized_score": 6.36
+    "score": 0.509,
+    "normalized_score": 4.47
   }
 ]
