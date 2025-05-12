@@ -15,17 +15,45 @@
     "titles": [
       "Trump heads to Saudi Arabia eyeing more investment in US"
     ],
-    "summary": "The President is visiting Saudi Arabia, Qatar, and the UAE with the objective of encouraging these nations to increase their purchases of goods and services from the United States.",
+    "summary": "The President is visiting Saudi Arabia, Qatar, and the UAE with the aim of encouraging these countries to increase their purchases from the United States. This trip is part of a broader effort to strengthen economic ties between the U.S. and these nations.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the President's intentions and the potential economic implications of his visit to these countries. However, it lacks depth and does not provide any solutions, improvements, or innovations.",
+    "constructiveness_reason": "This story provides useful information about the President's visit to Saudi Arabia and the intended economic implications of the visit. However, it lacks depth in explaining the potential impacts and does not report on any solutions or innovations.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.884,
+      "recency": 0.773,
       "consensus": 0.2,
       "constructiveness": 0.6
     },
-    "score": 0.529,
-    "normalized_score": 6.74
+    "score": 0.495,
+    "normalized_score": 4.13
+  },
+  {
+    "title": "Hamas Says It Will Release Its Last American Hostage",
+    "domain": "general",
+    "location": "global",
+    "published": "Sun, 11 May 2025 23:29:01 +0000",
+    "source": "New York Times",
+    "sources": [
+      "New York Times"
+    ],
+    "snippets": [
+      "The announcement, which did not say when the hostage, Edan Alexander, would be set free, came as President Trump planned to visit the region."
+    ],
+    "image_url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-israel-hostage-hbvk/11int-israel-hostage-hbvk-mediumSquareAt3X-v2.jpg",
+    "titles": [
+      "Hamas Says It Will Release Its Last American Hostage"
+    ],
+    "summary": "The announcement revealed that hostage Edan Alexander will be released, although it did not specify a date. This news coincides with President Trump's planned visit to the region.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story offers basic awareness about the hostage situation and its potential resolution. However, it does not provide additional insights or context about the situation, the reasons behind the hostage-taking, or the implications of the release.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.769,
+      "consensus": 0.2,
+      "constructiveness": 0.5
+    },
+    "score": 0.476,
+    "normalized_score": 2.99
   },
   {
     "title": "The rare disease in a remote town where 'almost everyone is a cousin'",
@@ -43,17 +71,17 @@
     "titles": [
       "The rare disease in a remote town where 'almost everyone is a cousin'"
     ],
-    "summary": "In a town in Brazil, numerous children suddenly lost their ability to walk, prompting a scientist to investigate the cause. The investigation aimed to understand the sudden onset of this condition and provide insights into potential treatments or preventive measures to assist the affected children in regaining mobility.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is highly constructive as it increases awareness about a rare disease, provides insights into the investigation process, and mentions potential treatments or preventive measures. It contributes to the reader's understanding and could potentially influence decision-making related to health issues.",
+    "summary": "In a Brazilian town, a significant number of children suddenly lost the ability to walk, prompting an investigation by a scientist. The investigation aimed to uncover the cause of this alarming condition, focusing on environmental, dietary, and other potential factors that could lead to such a sudden loss of motor functions among the children. The current status of the investigation or its findings were not specified.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story raises awareness about a rare disease in a remote town, but it does not provide any actionable insights or deeper understanding. The story also lacks information about any attempts to solve the problem or the impacts of the disease on the town's population.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.875,
+      "recency": 0.764,
       "consensus": 0.2,
-      "constructiveness": 0.9
+      "constructiveness": 0.3
     },
-    "score": 0.548,
-    "normalized_score": 8.88
+    "score": 0.455,
+    "normalized_score": 1.74
   },
   {
     "title": "Why Burkina Faso's junta leader has captured hearts and minds around the world",
@@ -71,17 +99,17 @@
     "titles": [
       "Why Burkina Faso's junta leader has captured hearts and minds around the world"
     ],
-    "summary": "Capt. Ibrahim Traoré, 37, is actively positioning himself as a proponent of pan-Africanism, advocating for unity and solidarity among African nations.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "The story informs about the junta leader's views and his advocacy for unity among African nations. It provides useful context about the political landscape in Burkina Faso, but does not report on concrete solutions or improvements.",
+    "summary": "Capt. Ibrahim Traoré, aged 37, has been positioning himself as a proponent of pan-Africanism. This stance emphasizes unity and solidarity among African countries and peoples, advocating for collective self-reliance and economic, social, and political progress across the continent.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story provides useful insights into the political stance of Burkina Faso's junta leader and his emphasis on pan-Africanism. It helps in understanding the current political landscape in Africa, but it doesn't provide any concrete solutions or progress towards solving any existing problems.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.875,
+      "recency": 0.764,
       "consensus": 0.2,
-      "constructiveness": 0.8
+      "constructiveness": 0.7
     },
-    "score": 0.538,
-    "normalized_score": 7.75
+    "score": 0.495,
+    "normalized_score": 4.13
   },
   {
     "title": "Less than 1% of UK biosecurity budget goes on tackling invasive species, figures show",
@@ -99,187 +127,157 @@
     "titles": [
       "Less than 1% of UK biosecurity budget goes on tackling invasive species, figures show"
     ],
-    "summary": "Conservationists have raised concerns that less than 1% of the UK's biosecurity budget is allocated to combat invasive species, posing significant risks to native wildlife such as water voles and ladybirds, and to the environment including waterways and green spaces. They argue that the current funding is insufficient to address the threats these non-native plants and animals present to biodiversity, homes, and businesses.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the allocation of the UK's biosecurity budget and its potential impacts on native wildlife and the environment. However, it does not offer any solutions or discuss any efforts to address the issue, and thus does not score higher.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.874,
-      "consensus": 0.2,
-      "constructiveness": 0.6
-    },
-    "score": 0.518,
-    "normalized_score": 5.51
-  },
-  {
-    "title": "Eighty percent of England’s peatlands are dry and degraded, mapping shows",
-    "domain": "general",
-    "location": "global",
-    "published": "Sun, 11 May 2025 23:01:35 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "The Guardian"
-    ],
-    "snippets": [
-      "<p>Healthy peatlands can help tackle the climate crisis but degraded peat emits carbon and contributes to global heating</p><p>New mapping of England’s peatlands has revealed that 80% of the habitats are dry and degraded.</p><p>Scientists mapped England’s peatlands and peaty soils for the first time using satellite imagery, artificial intelligence and in-depth data analysis to create the most complete map to date, the Department for Environment, Food and Rural Affairs (Defra) said.</p> <a href=\"https://www.theguardian.com/environment/2025/may/12/eighty-percent-of-englands-peatlands-are-dry-and-degraded-mapping-shows\">Continue reading...</a>"
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/7032c8f102ad47c628e15e3cd6b61d5fe5e1077a/473_120_3028_2423/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=9825bbd15a1318acd37a3b3477e4691b",
-    "titles": [
-      "Eighty percent of England’s peatlands are dry and degraded, mapping shows"
-    ],
-    "summary": "A new comprehensive mapping of England's peatlands, utilizing satellite imagery, artificial intelligence, and detailed data analysis, has revealed that 80% of these habitats are in a dry and degraded state, according to the Department for Environment, Food and Rural Affairs (Defra). This first-time mapping effort highlights the condition of England's peatlands, which, when healthy, can significantly contribute to tackling the climate crisis but when degraded, emit carbon and exacerbate global heating.",
+    "summary": "Conservationists have raised concerns that less than 1% of the UK government's biosecurity budget is allocated to combat invasive species, posing significant threats to native wildlife, including water voles and ladybirds. They argue that the current funding does not reflect the substantial risk these non-native plants and animals present to ecosystems, homes, businesses, and local green spaces, calling for increased financial support to protect cherished native species.",
     "constructiveness_score": 0.8,
-    "constructiveness_reason": "The story provides a deeper understanding of the state of England's peatlands and their role in the climate crisis. It increases awareness about the condition of these habitats and their impact on global heating. However, it does not highlight any specific solutions or progress in addressing the issue.",
+    "constructiveness_reason": "The story increases awareness about the underfunding of efforts to combat invasive species in the UK. It provides clarity on the impact of this issue on ecosystems and calls for increased financial support. However, it doesn't report on any solutions or improvements, just the problem.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.874,
+      "recency": 0.763,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.538,
-    "normalized_score": 7.75
+    "score": 0.504,
+    "normalized_score": 4.67
   },
   {
-    "title": "Where to watch Pacers vs. Cavaliers: TV channel, live stream NBA playoffs, Game 4 prediction, time, odds",
+    "title": "Transfer rumors, news: Jadon Sancho's next move could be to Bayer Leverkusen",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 11 May 2025 23:56:20 +0000",
-    "source": "CBS Sports",
+    "published": "Sun, 11 May 2025 20:57:32 EST",
+    "source": "ESPN",
     "sources": [
-      "CBS Sports"
+      "ESPN"
     ],
     "snippets": [
-      "The Pacers are at home with a 2-1 series lead on Sunday night",
-      "The top-seeded Thunder are trailing again in the series against the fourth-seeded Nuggets"
+      "Bayer Leverkusen are willing to offer Man United's Jadon Sancho a career lifeline this summer. Transfer Talk has the latest news, gossip and rumors."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/05/11/897e16dd-daf8-4990-b521-eb8f2415caa6/cavs-pacers-getty.png",
+    "image_url": "",
     "titles": [
-      "Where to watch Pacers vs. Cavaliers: TV channel, live stream NBA playoffs, Game 4 prediction, time, odds",
-      "Where to watch Nuggets vs. Thunder: TV channel, NBA playoffs live stream, Game 4 time, odds, prediction"
+      "Transfer rumors, news: Jadon Sancho's next move could be to Bayer Leverkusen"
     ],
-    "summary": "The Pacers currently hold a 2-1 series lead and will be playing at home on Sunday night. Meanwhile, the top-seeded Thunder are trailing in their series against the fourth-seeded Nuggets, indicating a competitive playoff scenario in the basketball league.",
+    "summary": "Bayer Leverkusen is reportedly interested in offering Manchester United player Jadon Sancho a chance to join their team this summer, according to Transfer Talk's latest updates on football news, gossip, and rumors.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic information about an upcoming basketball game, which may be useful for fans. However, it does not provide any deeper insights, discuss any broader trends or issues in the sport, or empower the reader in any significant way.",
+    "constructiveness_reason": "While this story might be of interest to football fans, it doesn't provide any deep insights or actionable information. It's mostly speculation and gossip, offering minimal depth or insight.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.887,
+      "recency": 0.734,
       "consensus": 0.2,
       "constructiveness": 0.3
     },
-    "score": 0.472,
-    "normalized_score": 0.34
+    "score": 0.426,
+    "normalized_score": 0.0
   },
   {
-    "title": "LA Galaxy off to worst start by reigning MLS champions with zero wins through 12 games",
+    "title": "Blackmore retires: 'My days of being a jockey have come to an end'",
     "domain": "sports",
-    "location": "national",
-    "published": "Sun, 11 May 2025 23:45:34 +0000",
-    "source": "CBS Sports",
+    "location": "global",
+    "published": "Mon, 12 May 2025 16:48:00 BST",
+    "source": "Sky Sports",
     "sources": [
-      "CBS Sports"
+      "Sky Sports"
     ],
     "snippets": [
-      "The Galaxy have conceded a league-high 28 goals"
+      "Rachael Blackmore has announced that she is retiring from racing, stating on social media that her \"days of being a jockey have come to an end\"."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/05/11/9be1911f-0611-4899-b5f3-61cd7a2e0f93/galaxy.jpg",
+    "image_url": "https://e2.365dm.com/25/03/1920x1080/skysports-blackmore-racing_6855239.jpg?20250313163348",
     "titles": [
-      "LA Galaxy off to worst start by reigning MLS champions with zero wins through 12 games"
+      "Blackmore retires: 'My days of being a jockey have come to an end'"
     ],
-    "summary": "The Galaxy soccer team has allowed the highest number of goals in the league, totaling 28. This places them at the top of the league for the most goals conceded.",
+    "summary": "Rachael Blackmore, a renowned jockey, has officially announced her retirement from racing. She shared the news on social media, stating that her career as a jockey has concluded.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about the current performance of the LA Galaxy team, but it lacks depth or insight. It does not offer any analysis on why the team is performing poorly or potential solutions to improve their performance.",
+    "constructiveness_reason": "This story provides basic awareness about Rachael Blackmore's retirement but doesn't offer any deeper insights or context about her career, the impact of her retirement on the racing industry, or any potential successors.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.885,
+      "recency": 1.01,
       "consensus": 0.2,
       "constructiveness": 0.3
     },
-    "score": 0.471,
-    "normalized_score": 0.22
+    "score": 0.509,
+    "normalized_score": 4.97
   },
   {
-    "title": "NASCAR 2025 race schedule, results: Complete list of Cup Series race dates, winners, tracks, locations",
+    "title": "Eagles get rival Cowboys for NFL regular-season opener on September 4",
     "domain": "sports",
-    "location": "national",
-    "published": "Sun, 11 May 2025 23:37:46 +0000",
-    "source": "CBS Sports",
+    "location": "global",
+    "published": "Mon, 12 May 2025 16:29:00 BST",
+    "source": "Sky Sports",
     "sources": [
-      "CBS Sports"
+      "Sky Sports"
     ],
     "snippets": [
-      "The 2025 NASCAR Cup Series will feature both an international and grassroots flair"
+      "The Philadelphia Eagles will start defending their NFL championship at home on September 4 against arch rival Dallas Cowboys."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/05/11/1963312f-463c-4a80-a465-f3ed95da66a1/gettyimages-2214587289.jpg",
+    "image_url": "https://e0.365dm.com/25/02/1920x1080/skysports-philadelphia-eagles_6824686.jpg?20250210130054",
     "titles": [
-      "NASCAR 2025 race schedule, results: Complete list of Cup Series race dates, winners, tracks, locations"
+      "Eagles get rival Cowboys for NFL regular-season opener on September 4"
     ],
-    "summary": "The 2025 NASCAR Cup Series is set to incorporate elements from both international racing and grassroots levels. This approach aims to diversify the competition's appeal and showcase a wide range of racing talents and styles.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story offers empowering knowledge about the 2025 NASCAR Cup Series. It not only provides the race schedule and results but also informs about the series' attempt to diversify its appeal by incorporating elements from international racing and grassroots levels, which is a clear sign of progress and innovation.",
+    "summary": "The Philadelphia Eagles, the current NFL champions, are set to begin their title defense at home on September 4, facing their arch-rivals, the Dallas Cowboys. This marks the official start of their championship defense journey for the season.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "While this story provides awareness about the upcoming NFL season and the first match, it doesn't provide any actionable insights or deeper understanding for the reader. It also doesn't report on any improvements, innovations, or attempts to solve problems.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.883,
+      "recency": 1.005,
       "consensus": 0.2,
-      "constructiveness": 0.9
+      "constructiveness": 0.5
     },
-    "score": 0.53,
-    "normalized_score": 6.85
+    "score": 0.527,
+    "normalized_score": 6.05
   },
   {
-    "title": "Fantasy Baseball Week 8 Preview: Top 10 sleeper hitters include Jonathan Aranda, TJ Friedl",
+    "title": "Sabu was Sabu until the very end",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 11 May 2025 23:36:42 +0000",
-    "source": "CBS Sports",
+    "published": "Mon, 12 May 2025 15:56:36 +0000",
+    "source": "Yahoo Sports",
     "sources": [
-      "CBS Sports"
+      "Yahoo Sports"
     ],
     "snippets": [
-      "Best matchups this week include the Braves, Cubs and Reds"
+      "Three weeks before his death Sunday, the 60-year-old hardcore wrestling legend pulled off a swan song worthy of the homicidal, genocidal, death–defying maniac."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/05/09/87883bb8-6624-44f7-b770-812100cf4170/tj-friedl.jpg",
+    "image_url": "",
     "titles": [
-      "Fantasy Baseball Week 8 Preview: Top 10 sleeper hitters include Jonathan Aranda, TJ Friedl"
+      "Sabu was Sabu until the very end"
     ],
-    "summary": "This week's highlighted sports matchups feature games between the Braves, Cubs, and Reds. These matchups are noted for their competitive nature or significance within their respective leagues. The outcome or scores of these games were not provided, indicating the focus is on the anticipation of the games themselves rather than results.",
+    "summary": "Three weeks before his death at the age of 60, a renowned hardcore wrestling legend delivered a final performance that lived up to his reputation as a \"homicidal, genocidal, death-defying maniac.\" This event marked the culmination of his career in the wrestling industry.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information for fantasy baseball players by highlighting potential sleeper hitters. However, it could be more constructive if it provided more context or analysis on why these players are considered sleepers and how they could impact upcoming games.",
+    "constructiveness_reason": "This story provides a useful context about the wrestling legend's final performance, highlighting the end of his career. However, it doesn't provide any deeper insights into his impact on the wrestling industry, his career highlights, or how his legacy might continue.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.883,
+      "recency": 0.998,
       "consensus": 0.2,
       "constructiveness": 0.6
     },
-    "score": 0.5,
-    "normalized_score": 3.48
+    "score": 0.535,
+    "normalized_score": 6.53
   },
   {
-    "title": "NASCAR at Kansas results: Kyle Larson dominates on his way to winning the AdventHealth 400",
+    "title": "Gauff too much for Raducanu in Rome",
     "domain": "sports",
-    "location": "national",
-    "published": "Sun, 11 May 2025 23:19:56 +0000",
-    "source": "CBS Sports",
+    "location": "global",
+    "published": "Mon, 12 May 2025 15:55:00 BST",
+    "source": "Sky Sports",
     "sources": [
-      "CBS Sports"
+      "Sky Sports"
     ],
     "snippets": [
-      "Larson had the field covered all race long, leading 221 of 256 laps and crossing 10,000 laps led in his career"
+      "Highlights of Emma Raducanu against Coco Gauff from the Italian Open."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/05/11/487e453c-a913-41b6-b38d-46e2a966304c/gettyimages-2214590504.jpg",
+    "image_url": "https://e0.365dm.com/25/05/1920x1080/skysports-gauff-coco-emma-raducanu_6914304.jpg?20250512160423",
     "titles": [
-      "NASCAR at Kansas results: Kyle Larson dominates on his way to winning the AdventHealth 400"
+      "Gauff too much for Raducanu in Rome"
     ],
-    "summary": "Kyle Larson dominated the race, leading for 221 out of 256 laps. This performance allowed him to surpass a career milestone of leading 10,000 laps. Larson's command of the race was evident as he maintained the lead for the majority of the laps.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness of the race results but doesn't offer deeper insights or understanding. It doesn't report on any improvements, solutions, or innovations, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "summary": "In a highly anticipated match at the Italian Open, Emma Raducanu faced off against Coco Gauff. The encounter showcased the talent of two of tennis's rising stars. The match concluded with Coco Gauff securing a victory over Emma Raducanu. The outcome adds a significant win to Gauff's career and highlights the competitive spirit and skill level of both young athletes in the tournament.",
+    "constructiveness_score": 0.4,
+    "constructiveness_reason": "This story offers basic awareness about a specific tennis match and its outcome. It does not provide deeper insights into the strategies used, the significance of the match in the larger context of the tournament, or the potential impacts on the players' careers. Therefore, it has limited usefulness and does not report on solutions, improvements, or attempts to solve problems.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.879,
+      "recency": 0.998,
       "consensus": 0.2,
-      "constructiveness": 0.3
+      "constructiveness": 0.4
     },
-    "score": 0.469,
-    "normalized_score": 0.0
+    "score": 0.515,
+    "normalized_score": 5.33
   },
   {
     "title": "China, US Officials Say Progress Was Made in Trade Talks Over the Weekend",
@@ -297,45 +295,17 @@
     "titles": [
       "China, US Officials Say Progress Was Made in Trade Talks Over the Weekend"
     ],
-    "summary": "U.S. Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer reported \"substantial progress\" in trade talks with Chinese officials in Geneva on May 11, signaling a hopeful turn in the recent trade tensions between the world's two largest economies. Both sides described the discussions as productive, with China's Vice Premier He Lifeng calling it \"an important first step\" towards resolving the dispute characterized by reciprocal high tariffs on each other's goods. The positive outcomes from the talks led to a rise in S&P 500, Dow, and Nasdaq futures by more than 1%. Further det",
+    "summary": "U.S. Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer announced \"substantial progress\" in trade talks with Chinese officials in Geneva on May 11, signaling a potential easing of recent tensions between the world's largest economies. Both sides described the discussions as productive, with China's Vice Premier He Lifeng calling it \"an important first step.\" The negotiations aimed to address the significant tariffs imposed by both countries, which had escalated to 145% on Chinese goods by the U.S. and 125% by China on U.S. goods. The positive outcomes of the talks led to ",
     "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it reports on progress in resolving a major international trade dispute. It provides useful insights into the ongoing trade talks between the US and China, and highlights a solution-oriented approach. It also contextualizes the impact of these talks on the global economy, as seen by the rise in S&P 500, Dow, and Nasdaq futures.",
+    "constructiveness_reason": "This story clearly highlights progress in an important international issue, providing useful information about the ongoing trade talks between the U.S. and China. It increases awareness around the systems and impacts of international trade, and the potential implications of these discussions on global economics. However, the story could provide more details on the specific issues being addressed and the potential solutions being proposed.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.882,
+      "recency": 0.77,
       "consensus": 0.2,
       "constructiveness": 0.9
     },
-    "score": 0.558,
-    "normalized_score": 10.0
-  },
-  {
-    "title": "Dow futures and the dollar surge as Wall Street cheers U.S.-China tariff talks",
-    "domain": "business",
-    "location": "global",
-    "published": "Sun, 11 May 2025 23:18:01 +0000",
-    "source": "Fortune",
-    "sources": [
-      "Fortune"
-    ],
-    "snippets": [
-      "The U.S.-China tariff negotiations appeared to yield \"a broad framework under which the two nations can conduct further talks,\" an analyst said."
-    ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/05/GettyImages-2213149279_cbc284-e1746997532530.jpg?w=2048",
-    "titles": [
-      "Dow futures and the dollar surge as Wall Street cheers U.S.-China tariff talks"
-    ],
-    "summary": "The U.S. and China have reached a broad framework for continuing tariff negotiations, according to an analyst. This framework sets the stage for further discussions between the two nations on trade issues.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about the impact of US-China trade talks on the stock market and the dollar. It informs readers about the progress in tariff negotiations, but it doesn't provide as much detail or context as the previous story. However, it does increase awareness about the relationship between international trade talks and financial markets.",
-    "score_components": {
-      "magnitude": 0.429,
-      "recency": 0.878,
-      "consensus": 0.2,
-      "constructiveness": 0.8
-    },
-    "score": 0.555,
-    "normalized_score": 9.66
+    "score": 0.525,
+    "normalized_score": 5.93
   },
   {
     "title": "Trump Seeks to Lower Pharmaceutical Costs",
@@ -353,73 +323,101 @@
     "titles": [
       "Trump Seeks to Lower Pharmaceutical Costs"
     ],
-    "summary": "President Donald Trump announced his intention to sign an executive order aimed at reducing prescription drug prices in the United States. According to a statement he made on Truth Social, the order will align U.S. drug prices with the lowest prices paid by any other nation, potentially cutting costs by 30% to 80%. Trump claims this action will lead to unprecedented savings in healthcare costs for Americans and save the country trillions of dollars. The specifics of how the order will be implemented remain unclear, including whether it involves tariffs on pharmaceuticals. The signing is schedu",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about a potential change in policy that could affect the cost of prescription drugs in the United States. However, it lacks specifics on how this change will be implemented, and does not offer any analysis of the potential impacts of this policy, limiting its usefulness and depth.",
+    "summary": "President Donald Trump announced his intention to sign an executive order aimed at lowering the price of prescription drugs in the U.S. According to his statement on Truth Social, the order, expected to be signed at 9 a.m. Eastern Time, will align U.S. drug prices with those of the lowest-paying nation, potentially reducing costs by 30% to 80%. Trump claims this action will lead to unprecedented reductions in healthcare costs and save the U.S. trillions of dollars. However, details on the execution of the order remain unspecified, including whether it involves tariffs on pharmaceutical imports",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story informs about a significant policy proposal aimed at reducing healthcare costs, which could have a major impact on many Americans. However, it lacks specific details about how the proposed executive order will be implemented and how it will affect the pharmaceutical industry and consumers. Therefore, while it provides useful context, its usefulness for decision-making and sense of agency is somewhat limited.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.876,
+      "recency": 0.764,
       "consensus": 0.2,
-      "constructiveness": 0.6
+      "constructiveness": 0.8
     },
-    "score": 0.526,
-    "normalized_score": 6.4
+    "score": 0.513,
+    "normalized_score": 5.21
   },
   {
-    "title": "Trump seeks to match US drug costs with cheaper ones abroad",
-    "domain": "business",
-    "location": "global",
-    "published": "Sun, 11 May 2025 23:03:42 +0000",
-    "source": "Fortune",
-    "sources": [
-      "Fortune"
-    ],
-    "snippets": [
-      "He said in a social media post that pharmaceutical prices could drop 30% to 80%."
-    ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/05/GettyImages-2213423625_554465-e1747004169127.jpg?w=2048",
-    "titles": [
-      "Trump seeks to match US drug costs with cheaper ones abroad"
-    ],
-    "summary": "A social media post by an individual claimed that pharmaceutical prices could see a reduction ranging from 30% to 80%. This statement suggests a significant potential decrease in the cost of medications.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story merely repeats a claim made on social media without providing any additional context or analysis. It offers basic awareness of a potential change in drug prices, but does not provide any additional insight or depth.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.875,
-      "consensus": 0.2,
-      "constructiveness": 0.3
-    },
-    "score": 0.496,
-    "normalized_score": 3.03
-  },
-  {
-    "title": "Time spent in Europe gave me perspective on the U.S. and our stocks",
+    "title": "Here are the 3 things we're watching in the stock market in the week ahead",
     "domain": "business",
     "location": "national",
-    "published": "Sun, 11 May 2025 22:45:53 GMT",
+    "published": "Sun, 11 May 2025 17:22:23 GMT",
     "source": "CNBC",
     "sources": [
       "CNBC"
     ],
     "snippets": [
-      "It's almost as if you can see why these European markets are roaring, and we are way behind."
+      "The economic data calendar is jam-packed, and trade headlines will dominate too."
     ],
     "image_url": "",
     "titles": [
-      "Time spent in Europe gave me perspective on the U.S. and our stocks"
+      "Here are the 3 things we're watching in the stock market in the week ahead"
     ],
-    "summary": "European markets are experiencing significant growth, outpacing other regions. The reasons for this growth are not specified in the provided content.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides a basic awareness of growth in European markets, but does not provide any details on why this growth is occurring or what it might mean for U.S. stocks. It lacks depth and actionable insights.",
+    "summary": "The economic calendar is filled with important data releases, and trade-related news is expected to significantly influence markets.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story offers useful information for those interested in the stock market, providing a heads up on what to watch out for in the coming week. However, it lacks depth and does not provide any solutions or improvements.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.871,
+      "recency": 0.684,
       "consensus": 0.2,
-      "constructiveness": 0.3
+      "constructiveness": 0.6
     },
-    "score": 0.487,
-    "normalized_score": 2.02
+    "score": 0.461,
+    "normalized_score": 2.1
+  },
+  {
+    "title": "Consumer Stocks Pop After US-China Trade War Eases",
+    "domain": "business",
+    "location": "global",
+    "published": "Mon, 12 May 2025 16:00:07 GMT",
+    "source": "Investopedia",
+    "sources": [
+      "Investopedia"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Kevin Carter / Getty Images\" src=\"https://www.investopedia.com/thmb/DPwru3gI3JyhoYdeaQPd4vsDYx8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2189633230-3437bcd963e5429c9196266fda41efbd.jpg\" title=\"A Williams-Sonoma store is displayed. \" /><figcaption><i><p>Kevin Carter / Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>News of the agreement between the U.S. and China to lower tariffs for 90 days sent stocks up, particularly shares in consumer discretionary companies.</li><li>Furniture and home goods stores, such as Williams-Sonoma and Wayfair, along with athletic retailers, including Dick's and Nike, made significant gains.</li><li>Toy makers also stand to benefit from the deescalation, J.P. Morgan said in a research note Monday.</li></ul><br /><br /><p>Consumer stocks ranging from cruise operators to furniture retailers jumped Monday, lifted by U.S.-China trade developments.</p><p>The S&amp;P 500's consumer discretionary sector was recently up more than 5%, helped by news that the U.S. and China have walked back tariffs. Those gains, which easily outpaced those for the broader index, came as the <a href=\"https://www.investopedia.com/global-stocks-soar-as-us-china-slash-tariffs-11732791\">White House announced</a> a 90-day deescalation period in the trade war with China. (Read <em>Investopedia's</em> full coverage of <a href=\"https://www.investopedia.com/dow-jones-today-05122025-11732807\">today's trading here</a>.)</p><p>Some of the biggest gainers in the index included cruise operators Carnival (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;CCL\">CCL</a>) and Norwegian Cruise Line (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;NCLH\">NCLH</a>); athleticwear sellers Lululemon Athletica (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;LULU\">LULU</a>) and Nike (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;NKE\">NKE</a>); and furniture and home goods company Williams-Sonoma (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;WSM\">WSM</a>).</p><p>J.P. Morgan analysts in a Monday note examined how much companies would need to hike prices to maintain their gross profit while paying tariffs. Those that no longer need to consider steep price increases, which could deter customers, stand to benefit from the 90-day pause, analysts said. This includes toy companies, sporting goods stores and furniture and home good retailers.</p><p>Some of the companies named by J.P. Morgan saw their stock soar on Monday, including furniture retailers Wayfair (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;W\">W</a>) and RH (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;RH\">RH</a>), whose shares were recently up more than 21% and 17%, respectively; sports retailers Academy Sports &amp; Outdoors (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;ASO\">ASO</a>) and Dick's (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;DKS\">DKS</a>), whose shares gained about 15% and 9.5%, respectively; and toy company Mattel (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;MAT\">MAT</a>), whose stock rose about 9.6%.</p><p>While working towards a longer-term agreement, the U.S. will lower tariffs on Chinese imports to 30%, and China will cut its tax on U.S. imports to 10%, the Trump administration said early Monday.<br /></p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/DPwru3gI3JyhoYdeaQPd4vsDYx8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2189633230-3437bcd963e5429c9196266fda41efbd.jpg",
+    "titles": [
+      "Consumer Stocks Pop After US-China Trade War Eases"
+    ],
+    "summary": "The U.S. and China have agreed to a 90-day period to lower tariffs, boosting stocks, especially in the consumer discretionary sector. Shares of companies like Williams-Sonoma, Wayfair, Nike, and toy makers surged following the announcement. The S&P 500's consumer discretionary sector saw a more than 5% increase. The temporary deescalation in the trade war allows companies to avoid steep price increases, benefiting from the tariff pause. This move is part of efforts towards a longer-term trade agreement, with the U.S. reducing tariffs on Chinese imports to 30% and China cutting its tax on U.S. ",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is highly constructive as it provides actionable insights for investors and deepens understanding of the impact of geopolitical events on the stock market. It also reports on the progress made in the U.S.-China trade war, which is a solution to a significant problem.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.999,
+      "consensus": 0.2,
+      "constructiveness": 0.9
+    },
+    "score": 0.593,
+    "normalized_score": 10.0
+  },
+  {
+    "title": "Top Stock Movers Now: Apple, NRG Energy, Newmont, and More",
+    "domain": "business",
+    "location": "global",
+    "published": "Mon, 12 May 2025 15:58:11 GMT",
+    "source": "Investopedia",
+    "sources": [
+      "Investopedia"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Kevin Carter / Getty Images A shopper walks a dog by an Apple store at the Westfield UTC shopping center on May 1, 2025 in San Diego, California.\" src=\"https://www.investopedia.com/thmb/QzgHdo2frnRyq_OVciwMJtCWTBs=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2212371162-7a543bdc3e2c4fe392ee889e43c2046c.jpg\" title=\"Apple store\" /><figcaption><i><p>Kevin Carter / Getty Images</p> A shopper walks a dog by an Apple store at the Westfield UTC shopping center on May 1, 2025 in San Diego, California.</i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>U.S. equities soared at midday following the agreement between the U.S. and China to lower tariffs for 90 days.</li><li>NRG Energy's first-quarter results easily topped estimates. Separately, the firm doubled its power generation capacity by purchasing key assets from LS Power for $12 billion.</li><li>The tariff news sent gold prices sinking, dragging shares of Newmont and other gold miners.</li></ul><br /><br /><p>U.S. equities soared at midday after the U.S. and China agreed to slash their tariffs for 90 days. The <a href=\"https://www.investopedia.com/terms/n/nasdaq.asp\">Nasdaq</a> jumped about 3.5%, while the <a href=\"https://www.investopedia.com/terms/d/djia.asp\">Dow Jones Industrial Average</a> and <a href=\"https://www.investopedia.com/terms/s/sp500.asp\">S&amp;P 500</a> were up more than 2%.</p><p>Shares of Apple (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;AAPL\">AAPL</a>), Nvidia (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;NVDA\">NVDA</a>), Tesla (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;TSLA\">TSLA</a>), and other tech companies with major business ties with China were up.</p><p>The tariff news also boosted shares of toolmaker Stanley Black &amp; Decker (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;SWK\">SWK</a>), which had recently warned the initial duties would significantly impact profits.</p><p>NRG Energy (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;NRG\">NRG</a>) was the best-performing stock in the S&amp;P 500 as the nuclear power provider's first-quarter results easily exceeded estimates. Separately, the company purchased the natural gas generation and power plant platform from LS Power for about $12 billion, doubling its generation capacity.</p><p>Next Technology Holding (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;NXTT\">NXTT</a>) soared for a second straight session after the company revealed it added 5,000 bitcoin to its portfolio this year and plans to add more.</p><p>Shares of Newmont (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;NEM\">NEM</a>) and rival gold miners tumbled along with the price of the precious metal on the tariff deal. Gold had been soaring as a <a href=\"https://www.investopedia.com/terms/s/safe-haven.asp\">haven</a> for investors concerned about the effects of tariffs.</p><p>Shares of Cigna Group (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;CI\">CI</a>) fell when the health insurer came under fire for denying coverage for a patient awaiting an experimental treatment for lung cancer. </p><p>Oil futures rose. The yield on the 10-year Treasury note advanced. The U.S. dollar gained on the euro, pound, and yen. Most major cryptocurrencies were lower. <br /></p><figure><img alt=\"TradingView\" src=\"https://www.investopedia.com/thmb/m0xC8VCbPFRpuf7M7TgqQeetkws=/fit-in/640x480/NRG_2025-05-12_11-18-14-c7a05c93e0c349e8acf01de297402274.png\" title=\"NRG\" /><figcaption><i><p>TradingView</p></i></figcaption></figure>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/QzgHdo2frnRyq_OVciwMJtCWTBs=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2212371162-7a543bdc3e2c4fe392ee889e43c2046c.jpg",
+    "titles": [
+      "Top Stock Movers Now: Apple, NRG Energy, Newmont, and More"
+    ],
+    "summary": "U.S. equities experienced significant gains following a 90-day agreement between the U.S. and China to reduce tariffs, with the Nasdaq, Dow Jones, and S&P 500 all seeing increases. This announcement positively affected shares of tech companies like Apple, Nvidia, and Tesla, which have substantial business in China, as well as Stanley Black & Decker. NRG Energy outperformed in the S&P 500 after surpassing first-quarter estimates and doubling its power generation capacity with a $12 billion purchase from LS Power. Meanwhile, gold prices and related stocks, such as Newmont, declined due to the ta",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story provides useful information about the current state of the stock market, highlighting specific companies that are performing well or poorly. However, it doesn't provide much insight into why these changes are happening or any potential solutions or improvements.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.998,
+      "consensus": 0.2,
+      "constructiveness": 0.8
+    },
+    "score": 0.575,
+    "normalized_score": 8.92
   },
   {
     "title": "Natural Mushroom Compound Shows Promise in Treating Parkinson’s Symptoms",
@@ -437,17 +435,17 @@
     "titles": [
       "Natural Mushroom Compound Shows Promise in Treating Parkinson’s Symptoms"
     ],
-    "summary": "A pilot study by the University of California, San Francisco (UCSF) has found that psilocybin therapy, involving a compound found in certain mushrooms, can lead to significant improvements in mood, cognitive function, and motor symptoms in patients. This research suggests psilocybin's potential benefits extend beyond treating depression and anxiety, indicating it could also aid individuals with Parkinson’s disease.",
+    "summary": "A pilot study conducted by the University of California, San Francisco (UCSF) found that psilocybin therapy, which uses a compound found in certain mushrooms, resulted in significant improvements in mood, cognitive function, and motor symptoms in patients. This suggests psilocybin's potential for treating Parkinson’s symptoms, alongside its previously noted benefits for depression and anxiety.",
     "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it reports on progress in medical research, providing readers with new understanding about potential benefits of psilocybin therapy. It offers actionable insights for those interested in alternative treatments for Parkinson’s disease.",
+    "constructiveness_reason": "This story is highly constructive as it reports on a potential solution for treating Parkinson's symptoms, providing actionable insights for those affected by the disease, and increasing awareness about the potential use of natural compounds in medical treatments.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.847,
+      "recency": 0.736,
       "consensus": 0.2,
       "constructiveness": 0.9
     },
-    "score": 0.54,
-    "normalized_score": 7.98
+    "score": 0.506,
+    "normalized_score": 4.79
   },
   {
     "title": "Scientists Have Found a Drug That Slashes Blood Pressure in Weeks",
@@ -465,100 +463,100 @@
     "titles": [
       "Scientists Have Found a Drug That Slashes Blood Pressure in Weeks"
     ],
-    "summary": "Scientists at the University of California, San Diego School of Medicine have discovered a new drug that significantly reduces systolic blood pressure by 15 points in individuals with resistant high blood pressure. This promising therapy offers hope for those with treatment-resistant hypertension, providing a potential new treatment option.",
+    "summary": "Scientists at the University of California, San Diego School of Medicine have discovered a new drug that significantly reduces systolic blood pressure by 15 points in individuals with resistant high blood pressure. This promising therapy offers hope for those with treatment-resistant hypertension, potentially improving the management of the condition.",
     "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is highly constructive as it highlights a significant innovation in medical science. It informs readers about a potential new treatment for resistant high blood pressure, providing useful information for those affected by this condition.",
+    "constructiveness_reason": "This story reports on a significant innovation in the treatment of high blood pressure, which could be useful to those suffering from the condition. It provides a deeper understanding of potential medical advancements, making it constructive.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.84,
+      "recency": 0.729,
       "consensus": 0.2,
       "constructiveness": 0.9
     },
-    "score": 0.538,
-    "normalized_score": 7.75
+    "score": 0.504,
+    "normalized_score": 4.67
   },
   {
-    "title": "Rewriting History: Study Challenges Long-Held Assumptions About Phoenician Civilization",
+    "title": "The EPA Will Likely Gut Team That Studies Health Risks From Chemicals",
     "domain": "science",
     "location": "global",
-    "published": "Sun, 11 May 2025 15:41:36 +0000",
+    "published": "Mon, 12 May 2025 15:29:32 +0000",
+    "source": "Wired",
+    "sources": [
+      "Wired"
+    ],
+    "snippets": [
+      "Reorganizations at the EPA may get rid of the agency’s fundamental program for research around the risks of toxic chemicals."
+    ],
+    "image_url": "https://media.wired.com/photos/681b88fd3c3a66840c38ab63/master/pass/GettyImages-2212809340.jpg",
+    "titles": [
+      "The EPA Will Likely Gut Team That Studies Health Risks From Chemicals"
+    ],
+    "summary": "The Environmental Protection Agency (EPA) is considering reorganizations that could potentially eliminate its key program focused on researching the risks associated with toxic chemicals. This change is part of a broader review of the agency's structure and priorities.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story increases awareness about potential changes within the EPA and their potential impacts on public health. However, it does not provide solutions or empower the reader with actionable insights, making it somewhat less constructive.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.992,
+      "consensus": 0.2,
+      "constructiveness": 0.7
+    },
+    "score": 0.563,
+    "normalized_score": 8.2
+  },
+  {
+    "title": "15-Month-Old Babies Can Learn Words for Objects They’ve Never Seen",
+    "domain": "science",
+    "location": "global",
+    "published": "Mon, 12 May 2025 14:06:21 +0000",
     "source": "SciTechDaily",
     "sources": [
       "SciTechDaily"
     ],
     "snippets": [
-      "<a href=\"https://scitechdaily.com/rewriting-history-study-challenges-long-held-assumptions-about-phoenician-civilization/\" rel=\"nofollow\" title=\"Rewriting History: Study Challenges Long-Held Assumptions About Phoenician Civilization\"><img alt=\"Punic Necropolis of Puig Des Molins, Ibiza\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Punic-Necropolis-of-Puig-Des-Molins-Ibiza-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Study challenges long-standing beliefs about the Mediterranean Phoenician-Punic civilization, a culture recognized as one of the most influential maritime powers in history. The Phoenician culture originated in the Bronze Age city-states of the Levant and introduced major innovations, including the first alphabet, an ancestor to many modern writing systems. By the early first millennium BCE, [...]"
+      "<a href=\"https://scitechdaily.com/15-month-old-babies-can-learn-words-for-objects-theyve-never-seen/\" rel=\"nofollow\" title=\"15-Month-Old Babies Can Learn Words for Objects They’ve Never Seen\"><img alt=\"Infant Baby Brain Illustration\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Infant-Baby-Brain-Illustration-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>The study presents new evidence that infants are capable of learning words solely through exposure to language. Human language enables us to learn the meanings of words for things we’ve never directly experienced. We do this effortlessly in everyday conversation, often using context to infer the meaning of unfamiliar words. But how early in life [...]"
     ],
     "image_url": "",
     "titles": [
-      "Rewriting History: Study Challenges Long-Held Assumptions About Phoenician Civilization"
+      "15-Month-Old Babies Can Learn Words for Objects They’ve Never Seen"
     ],
-    "summary": "A recent study has challenged prevailing beliefs about the Phoenician-Punic civilization, known for being a dominant maritime power in the Mediterranean and originating in the Levant during the Bronze Age. This civilization, credited with creating the first alphabet, which influenced many modern writing systems, has been re-examined, leading to new insights into its historical impact and development.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive because it increases awareness and understanding about the Phoenician-Punic civilization. Although it doesn't offer actionable insights or solutions, it provides valuable knowledge, challenging long-held assumptions and contributing to a deeper understanding of history.",
+    "summary": "A study has revealed that 15-month-old babies can learn the words for objects they have never seen before, demonstrating early language acquisition skills. This finding underscores the ability of infants to understand and learn new words through exposure to language, highlighting the human capacity to infer meanings of unfamiliar words from context.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "The story is constructive as it provides valuable insights into early language acquisition skills in infants, contributing to a deeper understanding of child development. It highlights the progress in scientific research on language learning and could be useful for parents, educators, and pediatricians.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.773,
-      "consensus": 0.2,
-      "constructiveness": 0.8
-    },
-    "score": 0.508,
-    "normalized_score": 4.38
-  },
-  {
-    "title": "Old drains and railways are full of life. Here's how to make the most of these overlooked green spaces",
-    "domain": "science",
-    "location": "global",
-    "published": "Sun, 11 May 2025 15:30:01 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "snippets": [
-      "Across Australian cities, leftover and overlooked green spaces are everywhere. Just think of all the land along stormwater drains, railway lines and vacant lots. While often dismissed as useless or unsightly, there's a growing understanding of the value these spaces bring to cities."
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/old-train-tracks.jpg",
-    "titles": [
-      "Old drains and railways are full of life. Here's how to make the most of these overlooked green spaces"
-    ],
-    "summary": "In Australian cities, unused and neglected green spaces such as those along stormwater drains, railway lines, and vacant lots are being reevaluated for their potential benefits. These areas, previously considered unattractive or worthless, are now recognized for their possible contribution to urban environments.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it provides awareness about the potential benefits of neglected green spaces in urban environments. It offers actionable insights on how these spaces can be utilized, contributing to the reader's understanding and decision-making regarding urban planning and environmental conservation.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.77,
+      "recency": 0.972,
       "consensus": 0.2,
       "constructiveness": 0.9
     },
-    "score": 0.525,
-    "normalized_score": 6.29
+    "score": 0.577,
+    "normalized_score": 9.04
   },
   {
-    "title": "Who Are the Japanese? Shocking DNA Study Reveals the Truth",
+    "title": "How “Natural” Cinnamon Supplements Could Disrupt Your Health Regimen",
     "domain": "science",
     "location": "global",
-    "published": "Sun, 11 May 2025 15:08:13 +0000",
+    "published": "Mon, 12 May 2025 13:41:05 +0000",
     "source": "SciTechDaily",
     "sources": [
       "SciTechDaily"
     ],
     "snippets": [
-      "<a href=\"https://scitechdaily.com/who-are-the-japanese-shocking-dna-study-reveals-the-truth/\" rel=\"nofollow\" title=\"Who Are the Japanese? Shocking DNA Study Reveals the Truth\"><img alt=\"Aterui &#039;Lord of Tamo&#039; Mask\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Aterui-Lord-of-Tamo-Mask-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>A Massive DNA Study Just Rewrote Japan’s Ancestry — And It Could Help Future Medicine Scientists have just made a fascinating discovery about the roots of the Japanese people. By analyzing the complete genomes of over 3,200 individuals from all across Japan, researchers found that the population isn’t shaped by just two ancestral groups, as [...]"
+      "<a href=\"https://scitechdaily.com/how-natural-cinnamon-supplements-could-disrupt-your-health-regimen/\" rel=\"nofollow\" title=\"How “Natural” Cinnamon Supplements Could Disrupt Your Health Regimen\"><img alt=\"Cinnamon Herb Drug Interactions\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"435\" src=\"https://scitechdaily.com/images/Cinnamon-Herb-Drug-Interactions-777x435.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Researchers examine how cinnamon interacts with prescription medications. Cinnamon is one of the oldest and most widely used spices in the world, but a new study from the National Center for Natural Products Research suggests that a compound in cinnamon may interfere with certain prescription medications. In a study published in Food Chemistry: Molecular Sciences, [...]"
     ],
     "image_url": "",
     "titles": [
-      "Who Are the Japanese? Shocking DNA Study Reveals the Truth"
+      "How “Natural” Cinnamon Supplements Could Disrupt Your Health Regimen"
     ],
-    "summary": "A comprehensive DNA study involving over 3,200 Japanese individuals has revealed new insights into the ancestry of Japan's population, challenging the previous belief that it was formed from just two ancestral groups. This groundbreaking research could have significant implications for the future of medicine in the country.",
+    "summary": "A study by the National Center for Natural Products Research, published in Food Chemistry: Molecular Sciences, reveals that a compound found in cinnamon could potentially interfere with certain prescription medications. This research highlights the importance of considering dietary supplements, such as cinnamon, in the context of overall health and medication management.",
     "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides a deeper understanding of the ancestry of Japan's population, which can be useful in various fields, including medicine and genetics. However, it does not clearly report on solutions, improvements, or attempts to solve problems, hence it does not score the highest.",
+    "constructiveness_reason": "This story provides useful information about potential interactions between dietary supplements and prescription medications, which can be actionable for readers. It raises awareness about the importance of considering dietary supplements in the context of overall health and medication management. However, it doesn't report on solutions or improvements to the problem.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.765,
+      "recency": 0.967,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.505,
-    "normalized_score": 4.04
+    "score": 0.566,
+    "normalized_score": 8.38
   }
 ]
