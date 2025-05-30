@@ -1,61 +1,5 @@
 [
   {
-    "title": "White House acknowledges problems in RFK Jr.'s 'Make America Healthy Again' report",
-    "domain": "general",
-    "location": "national",
-    "published": "Thu, 29 May 2025 23:50:59 -0400",
-    "source": "NPR",
-    "sources": [
-      "NPR"
-    ],
-    "snippets": [
-      "HHS Secretary Robert F. Kennedy Jr.'s \"Make America Healthy Again\" report cited hundreds of studies, but a closer look by the news organization NOTUS found that some of those studies did not exist."
-    ],
-    "image_url": "",
-    "titles": [
-      "White House acknowledges problems in RFK Jr.'s 'Make America Healthy Again' report"
-    ],
-    "summary": "A review by NOTUS of HHS Secretary Robert F. Kennedy Jr.'s \"Make America Healthy Again\" report found discrepancies, revealing that some of the hundreds of studies cited in the document do not exist. This raises questions about the report's accuracy and reliability.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the credibility of a report from a high-ranking official. It contributes to the reader's understanding of the situation and the need for accurate information in decision-making. However, it does not highlight progress, solutions, or empowering knowledge.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.941,
-      "consensus": 0.2,
-      "constructiveness": 0.6
-    },
-    "score": 0.546,
-    "normalized_score": 4.75
-  },
-  {
-    "title": "IT specialist placed thumb drive with classified info in Virginia park: Court docs",
-    "domain": "general",
-    "location": "national",
-    "published": "Thu, 29 May 2025 23:42:07 -0400",
-    "source": "ABC News",
-    "sources": [
-      "ABC News"
-    ],
-    "snippets": [
-      "An IT specialist employed by the Defense Intelligence Agency has been charged with attempting to provide classified information to a friendly foreign government."
-    ],
-    "image_url": "https://s.abcnews.com/images/US/doj-gty-er-240906_1725656523984_hpMain_4x3t_384.jpg",
-    "titles": [
-      "IT specialist placed thumb drive with classified info in Virginia park: Court docs"
-    ],
-    "summary": "An IT specialist working for the Defense Intelligence Agency has been officially charged for trying to give classified information to a government considered friendly to the United States.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story offers basic awareness about a specific security breach, it does not provide deeper insight or understanding about the broader issues related to data security or espionage. It also does not report on solutions or attempts to solve the problem.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.939,
-      "consensus": 0.2,
-      "constructiveness": 0.3
-    },
-    "score": 0.507,
-    "normalized_score": 2.28
-  },
-  {
     "title": "World has responsibility to get aid into Gaza, UN official tells BBC",
     "domain": "general",
     "location": "global",
@@ -71,17 +15,17 @@
     "titles": [
       "World has responsibility to get aid into Gaza, UN official tells BBC"
     ],
-    "summary": "Tom Fletcher of the UN reported to the BBC that Israel has subjected the people of Gaza to forced starvation. This statement highlights the severity of the humanitarian issues facing Gaza's population as conveyed by a UN representative.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story increases clarity around the humanitarian crisis in Gaza, informing readers about the severity of the situation and the international responsibility to provide aid. However, it does not clearly highlight solutions or progress towards resolving the issue.",
+    "summary": "Tom Fletcher of the UN stated in a BBC interview that the population of Gaza is experiencing forced starvation due to actions by Israel. This summary reflects Fletcher's comments as reported, without additional context or responses from other parties involved.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story raises awareness about the humanitarian crisis in Gaza, but it lacks depth and insight. It only presents one perspective and does not provide any actionable insights or potential solutions to the problem.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.876,
+      "recency": 0.765,
       "consensus": 0.2,
-      "constructiveness": 0.8
+      "constructiveness": 0.3
     },
-    "score": 0.546,
-    "normalized_score": 4.75
+    "score": 0.463,
+    "normalized_score": 3.94
   },
   {
     "title": "The new Covid variant NB.1.8.1 is driving infections in Australia. A virologist explains what you need to know | Lara Herrero for the Conversation",
@@ -99,73 +43,101 @@
     "titles": [
       "The new Covid variant NB.1.8.1 is driving infections in Australia. A virologist explains what you need to know | Lara Herrero for the Conversation"
     ],
-    "summary": "The new COVID-19 variant, NB.1.8.1, is gaining attention as it may spread more easily and could potentially evade immunity from previous infections or vaccinations. The World Health Organization has classified it as a \"variant under monitoring\" due to its increasing global presence and distinct characteristics. This development comes as Australia enters its colder months, witnessing a rise in COVID-19 cases linked to this variant.",
+    "summary": "The new COVID-19 variant, NB.1.8.1, is gaining attention as it may spread more easily and evade immunity from past infections or vaccinations. The World Health Organization has labeled it a \"variant under monitoring\" due to its increasing global presence and distinct characteristics. This development comes as Australia enters its colder months, with a noticeable rise in infections linked to this variant.",
     "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive as it provides useful information about a new Covid-19 variant, helping readers understand the current situation and potential risks. However, it does not mention any solutions or progress in dealing with this variant, hence it does not score higher.",
+    "constructiveness_reason": "This story provides useful information about a new Covid-19 variant, informing readers about its characteristics and potential impacts. However, it does not discuss any solutions or improvements related to the issue.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.875,
+      "recency": 0.764,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.546,
-    "normalized_score": 4.75
+    "score": 0.513,
+    "normalized_score": 9.26
   },
   {
-    "title": "New AI test can predict which men will benefit from prostate cancer drug",
+    "title": "How the West is helping Russia to fund its war on Ukraine",
     "domain": "general",
     "location": "global",
-    "published": "Thu, 29 May 2025 23:01:37 GMT",
-    "source": "The Guardian",
+    "published": "Thu, 29 May 2025 23:01:27 GMT",
+    "source": "BBC",
     "sources": [
-      "The Guardian"
+      "BBC"
     ],
     "snippets": [
-      "<p>Artificial intelligence tool determines best candidates to take abiraterone, which can halve risk of death from disease</p><p>Doctors have developed an artificial intelligence tool that can predict which men with prostate cancer will benefit from a drug that halves the risk of dying.</p><p>Abiraterone has been described as a “gamechanger” treatment for the disease, which is the most common form of cancer in men in more than 100 countries. It has already helped hundreds of thousands with advanced prostate cancer to live longer.</p> <a href=\"https://www.theguardian.com/society/2025/may/30/new-ai-test-can-predict-which-men-will-benefit-from-prostate-cancer-drug\">Continue reading...</a>"
+      "Data shows that Russian fossil fuel revenues are three times higher than aid allocated to Ukraine."
     ],
-    "image_url": "https://i.guim.co.uk/img/media/5eb2c87ce61ff33102cd970f602ae008ec65efa6/805_0_4027_3222/master/4027.jpg?width=140&quality=85&auto=format&fit=max&s=be5ae846a23447243b0aa61a22f9ceae",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/645e/live/4b1e3c90-3d31-11f0-b6e6-4ddb91039da1.jpg",
     "titles": [
-      "New AI test can predict which men will benefit from prostate cancer drug"
+      "How the West is helping Russia to fund its war on Ukraine"
     ],
-    "summary": "Doctors have developed an AI tool capable of predicting which prostate cancer patients will benefit from abiraterone, a treatment known to reduce the risk of death by half. Abiraterone is hailed as a significant advancement for the most common cancer in men across over 100 countries, extending the lives of hundreds of thousands with advanced stages of the disease.",
-    "constructiveness_score": 1.0,
-    "constructiveness_reason": "This story is highly constructive. It not only provides a deeper understanding of a new AI tool and its potential benefits for prostate cancer patients, but also highlights progress and innovation in the medical field. This information could empower readers, especially those affected by prostate cancer, to make informed decisions about their treatment options.",
+    "summary": "Recent data reveals that Russia's earnings from fossil fuel exports are triple the amount of financial aid given to Ukraine. This comparison highlights the significant disparity between Russia's income from its energy sector and the international support provided to Ukraine amidst ongoing conflicts.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides a deeper understanding of how international fossil fuel trade indirectly supports Russia's conflict with Ukraine. However, it does not suggest any solutions or improvements, nor does it empower readers with actionable insights.",
     "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.874,
+      "magnitude": 0.429,
+      "recency": 0.763,
       "consensus": 0.2,
-      "constructiveness": 1.0
+      "constructiveness": 0.6
     },
-    "score": 0.566,
-    "normalized_score": 6.01
+    "score": 0.5,
+    "normalized_score": 7.87
   },
   {
-    "title": "Missouri's Eli Drinkwitz laments consecutive Big Ten national championships, SEC shortcomings: 'It bothers us'",
-    "domain": "sports",
-    "location": "national",
-    "published": "Thu, 29 May 2025 23:57:55 +0000",
-    "source": "CBS Sports",
+    "title": "UK Weighs Sanctions on 2 Israeli Ministers as Gaza Crisis Worsens",
+    "domain": "general",
+    "location": "global",
+    "published": "Thu, 29 May 2025 23:00:30 +0000",
+    "source": "New York Times",
     "sources": [
-      "CBS Sports"
+      "New York Times"
     ],
     "snippets": [
-      "SEC football is in the midst of its longest national championship drought in a decade"
+      "Facing rising pressure over the acute suffering of civilians in Gaza, the British government is considering sanctions on two far-right ministers, Itamar Ben-Gvir and Bezalel Smotrich."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/05/29/d89e7cca-277e-4dd1-901c-12523113d210/adobe-express-file.jpg",
+    "image_url": "https://static01.nyt.com/images/2025/05/28/multimedia/28int-uk-israel-01-vtpf/28int-uk-israel-01-vtpf-mediumSquareAt3X.jpg",
     "titles": [
-      "Missouri's Eli Drinkwitz laments consecutive Big Ten national championships, SEC shortcomings: 'It bothers us'"
+      "UK Weighs Sanctions on 2 Israeli Ministers as Gaza Crisis Worsens"
     ],
-    "summary": "The SEC, a collegiate athletic conference, is currently experiencing its longest national championship drought in football in ten years. This marks a significant shift for a conference traditionally known for its strong football programs and frequent championship victories.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story provides basic awareness of the current state of collegiate football championships, it lacks depth and insight. It does not provide actionable insights for the reader, nor does it highlight any solutions or improvements to the situation. The focus is mainly on the SEC's shortcomings, which doesn't contribute meaningfully to the reader's understanding or decision-making.",
+    "summary": "The British government is contemplating imposing sanctions on Itamar Ben-Gvir and Bezalel Smotrich, two far-right ministers, due to the escalating humanitarian crisis in Gaza. This consideration comes amid increasing international concern over the plight of civilians in the region.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story provides useful information about the UK's potential response to the Gaza crisis, offering insight into international relations and decision-making. However, it lacks a focus on solutions or progress towards resolving the crisis, and it does not delve deeply into the systems or causes at play.",
     "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.887,
+      "magnitude": 0.409,
+      "recency": 0.763,
       "consensus": 0.2,
-      "constructiveness": 0.3
+      "constructiveness": 0.7
     },
-    "score": 0.472,
-    "normalized_score": 0.06
+    "score": 0.502,
+    "normalized_score": 8.09
+  },
+  {
+    "title": "South African Woman Sentenced to Life in Prison for Trafficking Missing Daughter, 6",
+    "domain": "general",
+    "location": "global",
+    "published": "Thu, 29 May 2025 22:48:00 +0000",
+    "source": "New York Times",
+    "sources": [
+      "New York Times"
+    ],
+    "snippets": [
+      "The girl, Joshlin Smith, is still missing, and the case has haunted South Africa. Prosecutors said that the mother was addicted to drugs and had sold the girl for about $1,100."
+    ],
+    "image_url": "https://static01.nyt.com/images/2025/05/29/multimedia/29-int-safrica-traffiking-verdict-photo-kght/29-int-safrica-traffiking-verdict-photo-kght-mediumSquareAt3X.jpg",
+    "titles": [
+      "South African Woman Sentenced to Life in Prison for Trafficking Missing Daughter, 6"
+    ],
+    "summary": "In South Africa, the case of missing girl Joshlin Smith continues to remain unresolved. Authorities have reported that her mother, struggling with drug addiction, allegedly sold Joshlin for approximately $1,100. Despite ongoing efforts, Joshlin's whereabouts are still unknown, leaving the case open and the community haunted by her disappearance.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "While this story raises awareness about the issue of human trafficking and its impacts, it does not provide actionable insights for the reader or report on solutions or improvements. The story is largely reactive and lacks depth in terms of understanding the broader system or causes of such incidents.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.76,
+      "consensus": 0.2,
+      "constructiveness": 0.5
+    },
+    "score": 0.474,
+    "normalized_score": 5.11
   },
   {
     "title": "Ohtani scores 170 runs? Royals have a top-10 starting pitcher? Don't be surprised",
@@ -183,185 +155,129 @@
     "titles": [
       "Ohtani scores 170 runs? Royals have a top-10 starting pitcher? Don't be surprised"
     ],
-    "summary": "Eric Karabell offers predictions for future fantasy baseball trends and outcomes to assist managers in making informed decisions. His insights aim to guide players through potential scenarios that could impact their strategy and success in the game.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story provides actionable insights for fantasy baseball managers, giving them a deeper understanding of potential trends and outcomes. However, it doesn't report on solutions or improvements, and the awareness it provides is specific to the niche audience of fantasy baseball players.",
+    "summary": "Eric Karabell has made predictions for future fantasy baseball trends and outcomes, providing fantasy baseball managers with insights on what to expect in upcoming seasons. His analysis aims to guide managers in making informed decisions for their teams.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is highly constructive as it provides actionable insights for fantasy baseball managers, helping them make informed decisions. It reports on potential future trends and outcomes, contributing to the reader's understanding of the game. It also highlights the progress of players and teams, empowering readers with knowledge.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.886,
+      "recency": 0.775,
       "consensus": 0.2,
-      "constructiveness": 0.7
+      "constructiveness": 0.9
     },
-    "score": 0.511,
-    "normalized_score": 2.53
+    "score": 0.498,
+    "normalized_score": 7.66
   },
   {
-    "title": "Rankings: Napheesa Collier jumps Caitlin Clark",
+    "title": "Six tied for first-round lead at U.S. Women's Open",
     "domain": "sports",
     "location": "national",
-    "published": "Thu, 29 May 2025 23:52:19 EST",
+    "published": "Thu, 29 May 2025 22:25:28 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "Fantasy women's basketball rankings for 2025 with A'ja Wilson, Napheesa Collier and Caitlin Clark as the top three."
+      "Angel Yin started experimenting with a new putter about a month ago and decided to use it in a tournament for the first time at the most prestigious event in women's golf."
     ],
     "image_url": "",
     "titles": [
-      "Rankings: Napheesa Collier jumps Caitlin Clark"
+      "Six tied for first-round lead at U.S. Women's Open"
     ],
-    "summary": "In the 2025 fantasy women's basketball rankings, A'ja Wilson, Napheesa Collier, and Caitlin Clark are ranked as the top three players. This list serves as a guide for fantasy basketball enthusiasts, highlighting these athletes as key picks for their fantasy teams.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story provides useful information for fantasy basketball enthusiasts, helping them make informed decisions about their teams. It doesn't highlight progress or solutions, and the awareness it provides is limited to the context of fantasy basketball.",
+    "summary": "Angel Yin recently began using a new putter, which she tested for about a month before deciding to debut it in competition. She chose the most prestigious event in women's golf for its first tournament use.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story offers basic awareness about a player's strategic choice to use a new putter in a prestigious competition, but it lacks depth or insight into the wider context of the tournament or the player's decision-making process.",
     "score_components": {
-      "magnitude": 0.359,
-      "recency": 0.886,
+      "magnitude": 0.339,
+      "recency": 0.755,
       "consensus": 0.2,
-      "constructiveness": 0.7
+      "constructiveness": 0.5
     },
-    "score": 0.519,
-    "normalized_score": 3.04
+    "score": 0.452,
+    "normalized_score": 2.77
   },
   {
-    "title": "Sources: Chelsea to beat Man Utd to Delap signing",
+    "title": "Transfer window preview: What do Europe's big clubs need?",
     "domain": "sports",
     "location": "national",
-    "published": "Thu, 29 May 2025 23:44:52 EST",
+    "published": "Thu, 29 May 2025 21:00:54 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "Chelsea have beaten Manchester United to the £30 million signing of Liam Delap with sources telling ESPN, with a deal close to being finalised."
+      "The first transfer window is set to open across Europe on June 1, so what are the top clubs planning? Who comes in? Who will go?"
     ],
     "image_url": "",
     "titles": [
-      "Sources: Chelsea to beat Man Utd to Delap signing"
+      "Transfer window preview: What do Europe's big clubs need?"
     ],
-    "summary": "Chelsea have successfully secured the signing of Liam Delap for £30 million, outbidding Manchester United. According to ESPN sources, the deal is nearing completion.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story provides basic awareness about a recent development in the football world, it doesn't offer actionable insights or a deeper understanding of the situation. It also doesn't report on progress, solutions, or improvements, and the awareness it provides is limited to the specific event of Liam Delap's signing.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.884,
-      "consensus": 0.2,
-      "constructiveness": 0.3
-    },
-    "score": 0.471,
-    "normalized_score": 0.0
-  },
-  {
-    "title": "Milan fire Conceição, reportedly line up Allegri",
-    "domain": "sports",
-    "location": "national",
-    "published": "Thu, 29 May 2025 23:44:52 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "AC Milan fired Sergio Conceicao as expected on Thursday following a disappointing season that saw the Rossoneri fail to qualify for Europe."
-    ],
-    "image_url": "",
-    "titles": [
-      "Milan fire Conceição, reportedly line up Allegri"
-    ],
-    "summary": "AC Milan dismissed coach Sergio Conceicao on Thursday due to the team's underperformance, resulting in their failure to qualify for European competitions this season.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about the dismissal of AC Milan's coach due to the team's underperformance. However, it does not offer any deeper insights or solutions to the issue.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.884,
-      "consensus": 0.2,
-      "constructiveness": 0.3
-    },
-    "score": 0.471,
-    "normalized_score": 0.0
-  },
-  {
-    "title": "Here's what impressed us most about Costco's earnings beat in a tariff-filled world",
-    "domain": "business",
-    "location": "national",
-    "published": "Thu, 29 May 2025 23:40:14 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "snippets": [
-      "After a surprising earnings miss last time around, Costco delivered on Thursday night."
-    ],
-    "image_url": "",
-    "titles": [
-      "Here's what impressed us most about Costco's earnings beat in a tariff-filled world"
-    ],
-    "summary": "Costco reported its earnings on Thursday, showing a rebound from its previous surprising miss. The outcome indicates an improvement in the company's financial performance.",
+    "summary": "The first transfer window in Europe is scheduled to open on June 1. Top football clubs are in the process of planning their strategies, which includes decisions on acquiring new players and determining which current players may leave the team. The specifics of these plans, including potential transfers in or out, remain under development as clubs finalize their strategies for the upcoming season.",
     "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about Costco's financial performance and how it has improved despite the challenges posed by tariffs. It gives readers a deeper understanding of the company's situation, but it doesn't highlight a solution or innovation.",
+    "constructiveness_reason": "This story informs readers about the upcoming transfer window and the strategic planning of football clubs. It provides context and understanding about the process, even though it doesn't provide specific details about potential transfers.",
     "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.883,
+      "magnitude": 0.339,
+      "recency": 0.735,
       "consensus": 0.2,
       "constructiveness": 0.8
     },
-    "score": 0.548,
-    "normalized_score": 4.87
+    "score": 0.476,
+    "normalized_score": 5.32
   },
   {
-    "title": "AI deepfakes pose ‘significant’ risk to ‘identity systems upon which our entire economy relies,’ warns fintech CEO",
-    "domain": "business",
-    "location": "global",
-    "published": "Thu, 29 May 2025 23:36:26 +0000",
-    "source": "Fortune",
-    "sources": [
-      "Fortune"
-    ],
-    "snippets": [
-      "Scammers can now use AI tools to generate multiple live video fakes of real people—and request money transfers."
-    ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/05/54533838837_52914157a3_o-e1748560311489.jpg?w=2048",
-    "titles": [
-      "AI deepfakes pose ‘significant’ risk to ‘identity systems upon which our entire economy relies,’ warns fintech CEO"
-    ],
-    "summary": "Scammers are utilizing advanced AI tools to create realistic live video fakes of actual individuals. These counterfeit videos are then used to solicit money transfers from victims. This development in scam tactics represents a significant escalation in the sophistication of online fraud.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs readers about the increasing risk of AI deepfakes in online fraud, providing useful context for understanding this emerging threat. However, it does not report on any solutions or improvements to address this problem.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.882,
-      "consensus": 0.2,
-      "constructiveness": 0.6
-    },
-    "score": 0.528,
-    "normalized_score": 3.61
-  },
-  {
-    "title": "Costco tops earnings and revenue estimates as sales jump 8%, shares still dip",
-    "domain": "business",
+    "title": "Transfer rumors, news: Liverpool duo wanted by Saudi clubs",
+    "domain": "sports",
     "location": "national",
-    "published": "Thu, 29 May 2025 23:11:52 GMT",
-    "source": "CNBC",
+    "published": "Thu, 29 May 2025 21:00:54 EST",
+    "source": "ESPN",
     "sources": [
-      "CNBC"
+      "ESPN"
     ],
     "snippets": [
-      "Costco is poised to benefit from tariff volatility as it offers competitive prices and bulk discounts."
+      "Saudi Pro League clubs are showing interest in Darwin Nunez and Luis Diaz. Transfer Talk has the latest."
     ],
     "image_url": "",
     "titles": [
-      "Costco tops earnings and revenue estimates as sales jump 8%, shares still dip"
+      "Transfer rumors, news: Liverpool duo wanted by Saudi clubs"
     ],
-    "summary": "Costco is set to gain from fluctuations in tariffs due to its strategy of providing competitive prices and bulk purchase discounts. This approach positions the retailer to attract customers looking for value amid changing tariff landscapes.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about Costco's financial performance and its strategy to handle tariff fluctuations. However, it doesn't delve into any solutions, improvements, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "summary": "Saudi Pro League clubs have expressed interest in acquiring Darwin Nunez and Luis Diaz, according to Transfer Talk reports. The current status of any potential transfers remains unconfirmed, with the latest updates highlighting the ongoing interest from the Saudi clubs in these players.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story offers minimal awareness about potential transfers involving specific players, but it lacks depth or insight. It relies on rumors and doesn't provide any actionable insights or deeper understanding for the reader.",
     "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.876,
+      "magnitude": 0.339,
+      "recency": 0.735,
       "consensus": 0.2,
-      "constructiveness": 0.6
+      "constructiveness": 0.3
     },
-    "score": 0.518,
-    "normalized_score": 2.97
+    "score": 0.426,
+    "normalized_score": 0.0
+  },
+  {
+    "title": "Horner dismisses 'flattering' links to Ferrari",
+    "domain": "sports",
+    "location": "global",
+    "published": "Fri, 30 May 2025 16:00:00 BST",
+    "source": "Sky Sports",
+    "sources": [
+      "Sky Sports"
+    ],
+    "snippets": [
+      "Red Bull team principal Christian Horner has dismissed \"flattering\" speculation linking him with Ferrari."
+    ],
+    "image_url": "https://e0.365dm.com/25/05/1920x1080/skysports-christian-horner_6931354.jpg?20250530160645",
+    "titles": [
+      "Horner dismisses 'flattering' links to Ferrari"
+    ],
+    "summary": "Red Bull's team principal, Christian Horner, has addressed rumors linking him to Ferrari, describing them as \"flattering\" but indicating he is not pursuing a position with the Italian racing team. This statement effectively dismisses the speculation about any potential move from Red Bull to Ferrari.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about the rumor and its dismissal, but it lacks depth or insight into the implications of the dismissal for the teams involved or the sport in general.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.999,
+      "consensus": 0.2,
+      "constructiveness": 0.3
+    },
+    "score": 0.505,
+    "normalized_score": 8.4
   },
   {
     "title": "Musk's SpaceX town in Texas warns residents they may lose right to 'continue using' their property",
@@ -379,45 +295,129 @@
     "titles": [
       "Musk's SpaceX town in Texas warns residents they may lose right to 'continue using' their property"
     ],
-    "summary": "Elon Musk's aerospace and defense contractor company successfully won a local election, leading to the official formation of Starbase earlier this month.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about SpaceX's recent local election victory and the potential implications for residents. However, it lacks depth and doesn't offer actionable insights or a deeper understanding of the situation.",
+    "summary": "Earlier this month, Starbase became officially recognized following a successful local election outcome in favor of Elon Musk's aerospace and defense contractor. This development marks a significant step in the establishment of the area associated with Musk's space exploration and technology ventures.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story offers useful information about the development of Starbase and its potential implications for local residents. However, it does not provide solutions or highlight progress beyond the establishment of the area.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.875,
+      "recency": 0.764,
+      "consensus": 0.2,
+      "constructiveness": 0.6
+    },
+    "score": 0.485,
+    "normalized_score": 6.28
+  },
+  {
+    "title": "Gap shares plummet as retailer says tariffs could cost between $100 million and $150 million",
+    "domain": "business",
+    "location": "national",
+    "published": "Thu, 29 May 2025 22:52:11 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "snippets": [
+      "Gap beat Wall Street's expectations on the top and bottom lines but said new tariffs could cost it hundreds of millions of dollars."
+    ],
+    "image_url": "",
+    "titles": [
+      "Gap shares plummet as retailer says tariffs could cost between $100 million and $150 million"
+    ],
+    "summary": "Gap Inc. exceeded Wall Street forecasts in both revenue and earnings. However, the company warned that new tariffs might lead to costs amounting to hundreds of millions of dollars. This announcement highlights Gap's financial performance while acknowledging potential future financial challenges due to tariffs.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "The story provides useful context about Gap's financial performance and the potential impact of tariffs. It increases reader's understanding of the situation and its potential impacts, but does not highlight solutions or progress.",
+    "score_components": {
+      "magnitude": 0.429,
+      "recency": 0.761,
+      "consensus": 0.2,
+      "constructiveness": 0.8
+    },
+    "score": 0.52,
+    "normalized_score": 10.0
+  },
+  {
+    "title": "Jim Cramer says this is the easiest way for the market to get out of its tariff 'nightmare'",
+    "domain": "business",
+    "location": "national",
+    "published": "Thu, 29 May 2025 22:32:27 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "snippets": [
+      "The \"Mad Money\" host said the uncertain legal fight over Trump's tariffs could eventually deliver a positive outcome for the market."
+    ],
+    "image_url": "",
+    "titles": [
+      "Jim Cramer says this is the easiest way for the market to get out of its tariff 'nightmare'"
+    ],
+    "summary": "The host of \"Mad Money\" has stated that the ongoing legal battle regarding the tariffs implemented by Trump might ultimately lead to a favorable result for the stock market.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides some useful insight into the potential impact of the tariff legal battle on the stock market. However, it doesn't provide any actionable insights or report on any solutions or improvements.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.756,
+      "consensus": 0.2,
+      "constructiveness": 0.6
+    },
+    "score": 0.49,
+    "normalized_score": 6.81
+  },
+  {
+    "title": "Watch These HP Price Levels as Stock Tumbles After Company Cuts Outlook Due to Tariffs",
+    "domain": "business",
+    "location": "global",
+    "published": "Thu, 29 May 2025 21:40:51 GMT",
+    "source": "Investopedia",
+    "sources": [
+      "Investopedia"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Source: TradingView.com\" src=\"https://www.investopedia.com/thmb/et1V1r7qAQ_mDMIY2gmj1rdmIY8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/HPQChart-5a4d66751f834a7b99d5d031faf4ea2f.jpg\" title=\"This image depicts the HPQ chart.\" /><figcaption><i>Source: TradingView.com</i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>HP shares fell sharply Thursday after the company missed analysts’ profit expectations and issued a light outlook, citing increased costs from tariffs. </li><li>Thursday’s decline followed a breakdown from a rising wedge pattern in yesterday's trading session.</li><li>Investors should watch important support levels on HP's chart around $25, $23 and $21, while also monitoring a key overhead area near $29.<br /></li></ul><br /><br /><p>HP (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;hpq\">HPQ</a>) shares plunged Thursday after the PC maker missed analysts’ profit expectations and issued a light outlook, citing increased costs from tariffs.<span class=\"ql-inline-citation\"></span></p><p>The PC maker said <a href=\"https://www.investopedia.com/hp-posts-weaker-than-expected-profit-cuts-outlook-on-tariff-impact-11744224\">its guidance reflects tariff costs</a> and actions taken to mitigate associated trade risks, adding that it had responded quickly to expand its <a href=\"https://www.investopedia.com/terms/m/manufacturing.asp\">manufacturing</a> footprint and reduce its cost structure. CEO Enrique Lores said during the earnings call that additional tariff costs \"could not be fully mitigated in the quarter,\" and that HP has \"implemented price increases to help offset cost pressure.\"<br /></p><p>HP shares fell more than 8% Thursday, posting the biggest declines in the S&amp;P 500. The stock has lost nearly a quarter of its value so far in 2025 as investors assess the cost of the company’s ongoing efforts to diversify its <a href=\"https://www.investopedia.com/terms/s/supplychain.asp\">supply chain</a> while it navigates the <a href=\"https://www.investopedia.com/court-rules-trump-s-tariffs-can-stay-on-for-now-11744787\">Trump administration’s unpredictable trade policies</a>.</p><p>Below, we take a closer look at HP’s chart and use <a href=\"https://www.investopedia.com/terms/t/technicalanalysis.asp\">technical analysis</a> to identify price levels worth watching out for.</p><h2>Rising Wedge Breakdown</h2><p>Since bottoming out early last month, HP shares have staged a <a href=\"https://www.investopedia.com/terms/c/countertrend.asp\">countertrend</a> rally, forming a <a href=\"https://www.investopedia.com/articles/trading/07/rising_wedge.asp\">rising wedge</a> pattern in the process.</p><p>In an ominous sign, the stock broke down below the pattern’s lower trendline on above-average <a href=\"https://www.investopedia.com/articles/technical/02/010702.asp\">volume</a> in Wednesday’s trading session ahead of the company’s quarterly report, paving the way for a continuation move lower.</p><p>It’s also worth pointing out that the <a href=\"https://www.investopedia.com/terms/r/rsi.asp\">relative strength index</a> has recently fallen below the 50 threshold, signaling weakening price momentum.</p><p>Let’s identify three important <a href=\"https://www.investopedia.com/terms/s/support.asp\">support levels</a> to watch and also locate a key overhead area worth monitoring during future upswings.</p><h2>Important Support Levels to Watch</h2><p>The first lower level to watch sits around $25, right about where the stock closed on Thursday. This area may provide support near a brief period of <a href=\"https://www.investopedia.com/terms/c/consolidation.asp\">consolidation</a> within the rising wedge pattern and the prominent September 2023 trough.</p><p>A move below this level could see HP shares fall to the $23 region. The price may attract support here near the low of the stock’s first minor dip after <a href=\"https://www.investopedia.com/terms/b/buyabounce.asp#:~:text&#61;Understanding%20Buy%20a%20Bounce,-Buy%20a%20bounce&amp;text&#61;Buy%20a%20bounce%20trading%20opportunities,resistance%20and%20support%20price%20ranges.\">bouncing</a> from its early-April low.</p><p>Selling below this level opens the door for the shares revisiting lower support at $21. Investors may seek longer-term <a href=\"https://www.investopedia.com/terms/b/buyandhold.asp\">buy-and-hold</a> entry points in this area near last month’s tariff-driven low.</p><h2>Key Overhead Area Worth Monitoring</h2><p>During future upswings in the stock, investors should monitor the $29 area. A recovery effort into this region would likely meet overhead <a href=\"https://www.investopedia.com/terms/r/resistance.asp\">resistance</a> near the rising wedge pattern’s peak, which also closely aligns with a temporary pause in the stock’s <a href=\"https://www.investopedia.com/terms/d/downtrend.asp\">downtrend</a> during March.</p><p><em>The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our <a href=\"https://www.investopedia.com/legal-4768893#toc-warranty-and-liability-disclaimer\">warranty and liability disclaimer</a> for more info.</em></p><p><em>As of the date this article was written, the author does not own any of the above securities.</em><br /></p>"
+    ],
+    "image_url": "https://www.investopedia.com/thmb/et1V1r7qAQ_mDMIY2gmj1rdmIY8=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/HPQChart-5a4d66751f834a7b99d5d031faf4ea2f.jpg",
+    "titles": [
+      "Watch These HP Price Levels as Stock Tumbles After Company Cuts Outlook Due to Tariffs"
+    ],
+    "summary": "HP's shares fell over 8% on Thursday, marking significant declines after the company reported earnings below analysts' expectations and provided a weak financial outlook, attributed to increased costs from tariffs. This downturn followed a technical pattern breakdown, suggesting potential further declines. HP is adjusting its pricing and supply chain to mitigate tariff impacts but has seen its stock value drop nearly 25% in 2025 amid challenges from the Trump administration's trade policies. Key support levels for HP's stock are identified at $25, $23, and $21, with significant overhead resist",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "The story provides useful information about HP's stock performance and its response to tariff impacts. It also identifies key support levels for the stock, which could be actionable for investors. However, it doesn't report on any solutions or improvements.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.744,
+      "consensus": 0.2,
+      "constructiveness": 0.8
+    },
+    "score": 0.507,
+    "normalized_score": 8.62
+  },
+  {
+    "title": "American Eagle issues downbeat quarterly guidance as earnings miss expectations",
+    "domain": "business",
+    "location": "national",
+    "published": "Thu, 29 May 2025 21:30:35 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "snippets": [
+      "AEO reported quarterly earnings that missed expectations, reflecting a $75 million merchandise write-down, following the company pulling its full-year guidance."
+    ],
+    "image_url": "",
+    "titles": [
+      "American Eagle issues downbeat quarterly guidance as earnings miss expectations"
+    ],
+    "summary": "American Eagle Outfitters (AEO) reported quarterly earnings that fell short of expectations due to a $75 million merchandise write-down. This financial setback occurred after the company withdrew its full-year financial guidance.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story provides basic awareness of American Eagle's financial setback but does not provide deeper understanding or actionable insights. It also does not report on any solutions, improvements, or attempts to solve the problem.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.742,
       "consensus": 0.2,
       "constructiveness": 0.5
     },
-    "score": 0.508,
-    "normalized_score": 2.34
-  },
-  {
-    "title": "Ava Max Says She’s ‘Lovin’ Myself’ On New Single",
-    "domain": "business",
-    "location": "global",
-    "published": "Thu, 29 May 2025 23:00:29 -0400",
-    "source": "Forbes",
-    "sources": [
-      "Forbes"
-    ],
-    "snippets": [
-      "Ava Max is gearing up for her new album 'Don't Click Play' with the new single \"Lovin' Myself.\""
-    ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6836440e8340df1dad23016e/0x0.jpg?width=960",
-    "titles": [
-      "Ava Max Says She’s ‘Lovin’ Myself’ On New Single"
-    ],
-    "summary": "Ava Max is preparing to release her new album titled 'Don't Click Play' and has introduced the album with a new single called \"Lovin' Myself.\" This marks the latest project from the pop artist as she continues to build her music career.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about Ava Max's new single and upcoming album, but it doesn't provide deeper insights or understanding, nor does it report on solutions, improvements, or attempts to solve problems. It also doesn't increase clarity around systems, causes, trends, or impacts.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.929,
-      "consensus": 0.2,
-      "constructiveness": 0.3
-    },
-    "score": 0.504,
-    "normalized_score": 2.09
+    "score": 0.468,
+    "normalized_score": 4.47
   },
   {
     "title": "Scientists Discover Violation of 1931 Thermodynamic Principle",
@@ -435,17 +435,17 @@
     "titles": [
       "Scientists Discover Violation of 1931 Thermodynamic Principle"
     ],
-    "summary": "Scientists have discovered a violation of the Onsager reciprocity principle, a fundamental thermodynamic rule established in 1931, in ion-exchange membranes, especially at high electrolyte concentrations. This discovery underscores the need for precise modeling of transport properties in these membranes, which are crucial for electrochemical and separation processes. The findings, published in the journal Asymmetry, highlight the significance of accounting for asymmetric transport coefficients in the study and application of ion-exchange membranes.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story provides readers with useful insights into a new scientific discovery that challenges a long-standing thermodynamic principle. It increases awareness about the need for precise modeling in ion-exchange membranes and the implications of this discovery on electrochemical and separation processes. However, it does not report on any solutions or improvements.",
+    "summary": "Scientists have discovered a violation of the Onsager reciprocity principle, a fundamental thermodynamic principle established in 1931, in ion-exchange membranes, particularly at high electrolyte concentrations. This finding, detailed in the journal Asymmetry, underscores the need for accurate modeling of these membranes' transport properties, which are crucial in various electrochemical and separation processes. The study highlights the importance of considering asymmetric transport coefficients in the modeling of ion-exchange membranes.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story provides useful information and deeper understanding about a new scientific discovery, which challenges a long-standing principle. However, it does not clearly highlight solutions or progress, nor does it offer actionable insights.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.859,
+      "recency": 0.748,
       "consensus": 0.2,
-      "constructiveness": 0.7
+      "constructiveness": 0.8
     },
-    "score": 0.523,
-    "normalized_score": 3.29
+    "score": 0.5,
+    "normalized_score": 7.87
   },
   {
     "title": "Turning Waste Into Energy: New Enzyme Revolutionizes Biofuel Production",
@@ -463,17 +463,17 @@
     "titles": [
       "Turning Waste Into Energy: New Enzyme Revolutionizes Biofuel Production"
     ],
-    "summary": "Researchers at the Brazilian Center for Research in Energy and Materials have developed a new enzyme, CelOCE, that significantly enhances biofuel production by efficiently breaking down cellulose, the most abundant renewable material in plant matter, into usable fuel. This breakthrough is ready for immediate industrial application, potentially revolutionizing the way waste is converted into energy.",
+    "summary": "Researchers at the Brazilian Center for Research in Energy and Materials have developed a new enzyme, CelOCE, that significantly enhances biofuel production by efficiently breaking down cellulose, the most abundant renewable biomass material. This breakthrough allows for the conversion of waste into usable energy, marking a major advancement in biofuel technology. CelOCE is ready for immediate industrial application, promising to revolutionize the biofuel industry by making the process more efficient and sustainable.",
     "constructiveness_score": 1.0,
-    "constructiveness_reason": "This story clearly highlights an innovative solution to biofuel production, which could potentially revolutionize the way waste is converted into energy. It provides actionable insights for industries involved in biofuel production and contributes to the reader's understanding of advancements in this field.",
+    "constructiveness_reason": "This story clearly highlights an innovative solution in the field of biofuel technology. It provides actionable insights for industries and contributes to the reader's understanding of advancements in renewable energy.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.851,
+      "recency": 0.74,
       "consensus": 0.2,
       "constructiveness": 1.0
     },
-    "score": 0.551,
-    "normalized_score": 5.06
+    "score": 0.518,
+    "normalized_score": 9.79
   },
   {
     "title": "First evidence of ancient birds nesting above the Arctic circle",
@@ -491,17 +491,17 @@
     "titles": [
       "First evidence of ancient birds nesting above the Arctic circle"
     ],
-    "summary": "Recent findings in Alaska of tiny bone fragments indicate that birds began breeding and nesting in the Arctic approximately 30 million years earlier than scientists previously believed. This discovery challenges existing theories about bird migration and breeding patterns in ancient times.",
+    "summary": "Recent findings in Alaska of tiny bone fragments indicate that birds began breeding and nesting in the Arctic approximately 30 million years earlier than previously believed. This discovery challenges existing theories about bird migration and breeding patterns in prehistoric times.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs readers about a new discovery that challenges existing theories about bird migration and breeding patterns. It provides a deeper understanding of bird behavior in ancient times. However, it does not offer actionable insights or report on solutions or improvements.",
+    "constructiveness_reason": "This story provides useful information about new findings that challenge existing theories about bird migration and breeding patterns. However, it does not offer actionable insights or report on solutions or improvements.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.818,
+      "recency": 0.707,
       "consensus": 0.2,
       "constructiveness": 0.6
     },
-    "score": 0.501,
-    "normalized_score": 1.9
+    "score": 0.468,
+    "normalized_score": 4.47
   },
   {
     "title": "Long shot science leads to revised age for land-animal ancestor",
@@ -510,56 +510,53 @@
     "published": "Thu, 29 May 2025 19:46:48 EDT",
     "source": "ScienceDaily",
     "sources": [
-      "ScienceDaily",
-      "Phys.org"
+      "ScienceDaily"
     ],
     "snippets": [
-      "The fossils of ancient salamander-like creatures in Scotland are among the most well-preserved examples of early stem tetrapods -- some of the first animals to make the transition from water to land. Thanks to new research, scientists believe that these creatures are 14 million years older than previously thought. The new age -- dating back to 346 million years ago -- adds to the significance of the find because it places the specimens in a mysterious hole in the fossil record called Romer's Gap.",
-      "In 1984, an amateur paleontologist in Scotland found a remarkable specimen: a nearly complete fossil of what looked to be a lizard or salamander. Rather small in size at 20 centimeters, it would turn out to be a crucial piece in the puzzle of animal evolution."
+      "The fossils of ancient salamander-like creatures in Scotland are among the most well-preserved examples of early stem tetrapods -- some of the first animals to make the transition from water to land. Thanks to new research, scientists believe that these creatures are 14 million years older than previously thought. The new age -- dating back to 346 million years ago -- adds to the significance of the find because it places the specimens in a mysterious hole in the fossil record called Romer's Gap."
     ],
     "image_url": "",
     "titles": [
-      "Long shot science leads to revised age for land-animal ancestor",
       "Long shot science leads to revised age for land-animal ancestor"
     ],
-    "summary": "New research on fossils found in Scotland reveals that ancient salamander-like creatures, initially discovered in 1984, are 14 million years older than previously thought, dating back to 346 million years ago. This finding places these early stem tetrapods, crucial to understanding the transition from water to land, within Romer's Gap in the fossil record, addressing a significant mystery in animal evolution.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive as it provides useful insights into the field of paleontology and animal evolution. The discovery adds to our understanding of the timeline of life on Earth, specifically the transition from water to land. However, it does not directly report on solutions, improvements, or innovations, nor does it offer actionable insights for the reader.",
-    "score_components": {
-      "magnitude": 0.55,
-      "recency": 0.829,
-      "consensus": 0.4,
-      "constructiveness": 0.8
-    },
-    "score": 0.629,
-    "normalized_score": 10.0
-  },
-  {
-    "title": "Gaming seals reveal how cloudy water provides sense of direction",
-    "domain": "science",
-    "location": "global",
-    "published": "Thu, 29 May 2025 18:00:02 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "snippets": [
-      "Open water swimming can be strangely claustrophobic. Immerse your face in cloudy water and your view might dwindle to a few centimeters. Yet, harbor seals (Phoca vitulina) manage to negotiate the turbid coastal waters in which they reside with ease, detecting their surroundings through various senses, including their dexterous whiskers."
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/harbor-seal.jpg",
-    "titles": [
-      "Gaming seals reveal how cloudy water provides sense of direction"
-    ],
-    "summary": "Harbor seals (Phoca vitulina) adeptly navigate the murky coastal waters where they live, despite the limited visibility that can make open water swimming feel claustrophobic. They rely on their highly sensitive whiskers among other senses to detect their surroundings and move through the water with ease.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story offers a deeper understanding of how harbor seals navigate murky waters, which could be useful for marine biologists or animal behavior researchers. It increases awareness about the adaptations of marine animals, but it does not provide actionable insights for the reader or report on solutions or improvements.",
+    "summary": "Scientists have discovered that fossils of ancient salamander-like creatures found in Scotland, initially believed to be significant examples of early stem tetrapods transitioning from water to land, are 14 million years older than previously thought, dating back to 346 million years ago. This new dating places the specimens within Romer's Gap, a mysterious period in the fossil record, thereby enhancing the importance of the find in understanding early terrestrial animal evolution.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is highly constructive as it provides readers with a deeper understanding of the evolution of terrestrial animals. It reports on the significant discovery and its implications for our understanding of a mysterious period in the fossil record, thereby contributing to the reader's knowledge and awareness of the subject.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.804,
+      "recency": 0.718,
       "consensus": 0.2,
-      "constructiveness": 0.6
+      "constructiveness": 0.9
     },
-    "score": 0.497,
-    "normalized_score": 1.65
+    "score": 0.501,
+    "normalized_score": 7.98
+  },
+  {
+    "title": "Listening to electrons talk",
+    "domain": "science",
+    "location": "global",
+    "published": "Thu, 29 May 2025 15:54:35 EDT",
+    "source": "ScienceDaily",
+    "sources": [
+      "ScienceDaily"
+    ],
+    "snippets": [
+      "Researchers present new experimental and theoretical results for the bound electron g-factor in lithium-like tin which has a much higher nuclear charge than any previous measurement. The experimental accuracy reached a level of 0.5 parts per billion. Using an enhanced interelectronic QED method, the theoretical prediction for the g-factor reached a precision of 6 parts per billion."
+    ],
+    "image_url": "",
+    "titles": [
+      "Listening to electrons talk"
+    ],
+    "summary": "Researchers have achieved a significant milestone in the measurement of the bound electron g-factor in lithium-like tin, marking a notable improvement in experimental accuracy to 0.5 parts per billion. This work examines elements with a higher nuclear charge than those previously studied. Additionally, the team utilized an advanced interelectronic Quantum Electrodynamics (QED) method to predict the g-factor with a theoretical precision of 6 parts per billion, showcasing a substantial advancement in the field's understanding and measurement capabilities.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "The story is constructive as it reports on an innovation in the field of Quantum Electrodynamics. It offers useful insights into the advanced techniques used for predicting the g-factor with a high degree of precision. While the topic might be complex for some readers, it still contributes to the understanding of advancements in the field.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.664,
+      "consensus": 0.2,
+      "constructiveness": 0.8
+    },
+    "score": 0.475,
+    "normalized_score": 5.21
   }
 ]
