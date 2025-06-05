@@ -20,12 +20,12 @@
     "constructiveness_reason": "This story provides useful information about the political landscape in Mexico and potential implications of the judiciary overhaul. However, it doesn't provide solutions or progress on the issue, nor does it delve deeply into the causes, trends, or impacts.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.922,
+      "recency": 0.804,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.49,
-    "normalized_score": 6.67
+    "score": 0.467,
+    "normalized_score": 5.51
   },
   {
     "title": "Ex-Rams Player McQuaide Escorted From Church After Questioning Official",
@@ -48,12 +48,12 @@
     "constructiveness_reason": "This story provides basic awareness about a specific incident involving a former Rams player. However, it lacks depth, doesn't provide actionable insights, and doesn't report on solutions or progress.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.861,
+      "recency": 0.751,
       "consensus": 0.283,
       "constructiveness": 0.3
     },
-    "score": 0.457,
-    "normalized_score": 3.98
+    "score": 0.435,
+    "normalized_score": 1.91
   },
   {
     "title": "Man Arrested at JFK for Supplying Bomb Materials to Clinic Attacker",
@@ -76,40 +76,12 @@
     "constructiveness_reason": "This story provides awareness about a security incident and the arrest of a suspect. However, it doesn't provide deeper understanding or actionable insights, nor does it report on solutions or progress to prevent such incidents in the future.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.802,
+      "recency": 0.7,
       "consensus": 0.283,
       "constructiveness": 0.5
     },
-    "score": 0.456,
-    "normalized_score": 3.9
-  },
-  {
-    "title": "Yucca Valley Man, 73, Denies Threatening Trump on Facebook",
-    "domain": "general",
-    "location": "national",
-    "published": "Wed, 4 Jun 2025 02:23:11 GMT",
-    "source": "LA Times",
-    "sources": [
-      "LA Times"
-    ],
-    "snippets": [
-      "<p>Yucca Valley resident Thomas Eugene Streavel, 73, pleaded not guilty Tuesday to three felony counts of making threats on Facebook against Donald Trump.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "'Dead man walking': SoCal man charged with threatening to assassinate Trump"
-    ],
-    "summary": "Thomas Eugene Streavel, 73, from Yucca Valley, has pleaded not guilty to three felony counts related to making threats against Donald Trump on Facebook.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story offers basic awareness about a legal case involving threats against a public figure. However, it does not provide deeper insights or useful information beyond the immediate facts of the case.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.617,
-      "consensus": 0.283,
-      "constructiveness": 0.3
-    },
-    "score": 0.408,
-    "normalized_score": 0.0
+    "score": 0.436,
+    "normalized_score": 2.02
   },
   {
     "title": "Court: Removal of Soliman's Family Without Due Process May Cause Irreparable Har",
@@ -132,130 +104,130 @@
     "constructiveness_reason": "This story provides a deeper understanding of the importance of due process in legal matters, especially those involving family separation. It emphasizes the potential harm of not following legal procedures, which can be useful for readers to understand the implications of such actions.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.964,
+      "recency": 0.841,
       "consensus": 0.283,
       "constructiveness": 0.8
     },
-    "score": 0.519,
-    "normalized_score": 9.02
+    "score": 0.494,
+    "normalized_score": 8.54
   },
   {
-    "title": "Zack Steffen Out of US Gold Cup Camp Due to Knee Injury",
-    "domain": "sports",
-    "location": "national",
-    "published": "Wed, 4 Jun 2025 21:13:27 EST",
-    "source": "ESPN",
+    "title": "Billionaire Criticizes Bill for Undermining Federal Spending Reduction Efforts",
+    "domain": "general",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 23:31:13 GMT",
+    "source": "BBC",
     "sources": [
-      "ESPN"
+      "BBC"
     ],
     "snippets": [
-      "Zack Steffen injured a knee and became the second goalkeeper dropped from the United States' training camp ahead of the Concacaf Gold Cup."
+      "Billionaire says the bill, which faces a key test in the Senate, undercuts efforts to slash federal spending."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86c7/live/71f19820-40a7-11f0-a90d-6b992e1c44a7.jpg",
     "titles": [
-      "USMNT's Steffen (knee) set to miss Gold Cup"
+      "Musk urges Americans to tell lawmakers to 'kill the bill'"
     ],
-    "summary": "Zack Steffen, a goalkeeper, sustained a knee injury and was subsequently removed from the United States' training camp for the Concacaf Gold Cup. This makes him the second goalkeeper to be dropped from the team ahead of the tournament.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story offers basic awareness about a change in a sports team due to an injury. However, it does not provide deeper insights or useful information beyond the immediate facts of the incident.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.914,
-      "consensus": 0.283,
-      "constructiveness": 0.5
-    },
-    "score": 0.456,
-    "normalized_score": 3.9
-  },
-  {
-    "title": "Chelsea FC Signs Striker Liam Delap from Ipswich Town",
-    "domain": "sports",
-    "location": "national",
-    "published": "Wed, 4 Jun 2025 21:13:25 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "Chelsea have bolstered their forward line with the signing of 22-year-old striker Liam Delap from Ipswich Town."
-    ],
-    "image_url": "",
-    "titles": [
-      "Delap joins Chelsea from Ipswich in $40.6m deal"
-    ],
-    "summary": "Chelsea Football Club has strengthened its attacking options by signing 22-year-old striker Liam Delap from Ipswich Town. This move is part of the club's efforts to enhance their forward line.",
-    "constructiveness_score": 0.4,
-    "constructiveness_reason": "This story provides basic awareness about a recent development in the football world, but it doesn't offer any deep insights or actionable information for the reader. It doesn't report on solutions, improvements, or attempts to solve problems.",
-    "score_components": {
-      "magnitude": 0.509,
-      "recency": 0.914,
-      "consensus": 0.283,
-      "constructiveness": 0.4
-    },
-    "score": 0.523,
-    "normalized_score": 9.35
-  },
-  {
-    "title": "Finland Women's Team Mistakenly Calls Up Retired Player, Manager Apologizes",
-    "domain": "sports",
-    "location": "national",
-    "published": "Wed, 4 Jun 2025 21:13:25 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "Finland women's national team manager has apologised for mistakenly calling up a long-retired 51-year-old for this week's game against Serbia."
-    ],
-    "image_url": "",
-    "titles": [
-      "Finland mistakenly call up retired 51-year-old"
-    ],
-    "summary": "The manager of Finland's women's national football team issued an apology for erroneously summoning a 51-year-old retired player for a match against Serbia. This mistake was recognized and corrected, highlighting an unusual oversight in the team's selection process.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs readers about an unusual incident in the selection process of a national football team. While it doesn't provide actionable insights, it does increase awareness about the importance of accurate player selection and the potential for human error in this process.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.914,
-      "consensus": 0.283,
-      "constructiveness": 0.6
-    },
-    "score": 0.466,
-    "normalized_score": 4.72
-  },
-  {
-    "title": "Dodgers Manager Gifts Pink Porsche to Ohtani's Daughter",
-    "domain": "sports",
-    "location": "national",
-    "published": "Wed, 4 Jun 2025 21:12:59 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "Dodgers manager Dave Roberts and his wife bought Shohei Ohtani's daughter a pink remote-controlled Porsche."
-    ],
-    "image_url": "",
-    "titles": [
-      "Dave Roberts jokingly gives Shohei Ohtani remote-controlled car for his daughter"
-    ],
-    "summary": "Dodgers manager Dave Roberts and his wife purchased a pink remote-controlled Porsche as a gift for Shohei Ohtani's daughter. This gesture highlights a personal connection between the families outside of their professional baseball affiliations.",
+    "summary": "A billionaire has criticized a bill undergoing a crucial Senate vote, arguing it undermines attempts to reduce federal spending.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story provides an interesting anecdote about the personal lives of well-known sports figures, it offers minimal depth or insight into a broader issue or trend. It does not provide actionable insights or a deeper understanding of a particular topic.",
+    "constructiveness_reason": "This story provides basic awareness about a billionaire's criticism of a bill and its potential impact on federal spending. However, it lacks depth and actionable insights, such as the specific aspects of the bill that the billionaire criticizes, or how it could affect the reader or the broader society.",
     "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.914,
+      "magnitude": 0.409,
+      "recency": 0.837,
       "consensus": 0.283,
       "constructiveness": 0.3
     },
-    "score": 0.436,
-    "normalized_score": 2.28
+    "score": 0.452,
+    "normalized_score": 3.82
+  },
+  {
+    "title": "Thai Youth Turn to AI Like ChatGPT for Personal Guidance",
+    "domain": "general",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 23:30:52 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "The Guardian"
+    ],
+    "snippets": [
+      "<p>A growing number of young Thais are turning to AI tools such as ChatGPT for answers about their future</p><p>When Whan consulted her new fortune teller about the future of her relationship with her boyfriend, she was told that one half of the couple tended to be sulky, while the other would over-analyse things. The fortune teller recommended that they try to be more open with each other.</p><p>But the advice on the future of the relationship didn’t come from a human – it came from ChatGPT.</p> <a..."
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/52eb71ee736a7890412e248fc812e1f03c4ac0c6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=abf9993db24830812a2e6f0b8ebcf058",
+    "titles": [
+      "In Thailand, where mysticism thrives, AI fortune telling finds fertile ground"
+    ],
+    "summary": "A rising number of young people in Thailand are using AI platforms like ChatGPT for guidance on their future, including personal aspects such as relationships. One user, Whan, received advice from ChatGPT on improving communication within her relationship, highlighting the AI's role as a non-human fortune teller. This trend showcases the growing reliance on artificial intelligence for personal advice among the youth in Thailand.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story informs readers about a trend among Thai youth turning to AI for personal guidance. It provides a specific example and contextualizes the use of AI in everyday life, contributing to a deeper understanding of the role of AI. However, it does not highlight any solutions, improvements, or attempts to solve problems.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.836,
+      "consensus": 0.283,
+      "constructiveness": 0.8
+    },
+    "score": 0.502,
+    "normalized_score": 9.44
+  },
+  {
+    "title": "Denmark's Strict Policies Gain Global Attention Under Social Democrat PM",
+    "domain": "general",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 23:11:08 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC"
+    ],
+    "snippets": [
+      "Denmark has come under international attention for its tough approach. And its Social Democrat prime minister is leading the charge"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8097/live/9803a120-414c-11f0-bace-e1270fc31f5e.png",
+    "titles": [
+      "The country where the left (not the far right) made hardline immigration laws"
+    ],
+    "summary": "Denmark has attracted international attention for its stringent policies under the leadership of the Social Democrat prime minister. The country's tough approach has placed it in the global spotlight.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story offers basic awareness of Denmark's strict policies under its current leadership and the international attention it's receiving. However, it lacks depth and insight as it does not provide details about the policies, their impacts, or how they might be relevant to the reader.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.831,
+      "consensus": 0.283,
+      "constructiveness": 0.3
+    },
+    "score": 0.451,
+    "normalized_score": 3.71
+  },
+  {
+    "title": "White House Claims Democrats Oppose Previously Supported Measures",
+    "domain": "general",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 23:03:25 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera"
+    ],
+    "snippets": [
+      "In a release, the White House said that Democrats opposed key measures party members actually championed."
+    ],
+    "image_url": "",
+    "titles": [
+      "White House makes misleading claims about Democratic opposition to tax bill"
+    ],
+    "summary": "The White House issued a statement claiming that Democrats have opposed several key measures that they had previously supported. This announcement highlights a discrepancy between the party's past advocacies and its current stance on certain issues.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides some useful information about the political dynamics between the White House and the Democrats. However, it lacks depth and context, as it doesn't explain why the Democrats' stance might have changed or what the implications are for policy-making.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.829,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.481,
+    "normalized_score": 7.08
   },
   {
     "title": "NBA Finals Preview: Iconic Playoff Moments Captured in Images",
     "domain": "sports",
     "location": "national",
-    "published": "Wed, 4 Jun 2025 21:12:57 EST",
+    "published": "Wed, 4 Jun 2025 22:53:31 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
@@ -272,12 +244,208 @@
     "constructiveness_reason": "This story provides a useful context for the upcoming NBA Finals by highlighting key moments from the playoffs. While it doesn't necessarily offer actionable insights, it does contribute to a deeper understanding of the teams' journey to the championship series.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.914,
+      "recency": 0.826,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.466,
-    "normalized_score": 4.72
+    "score": 0.449,
+    "normalized_score": 3.48
+  },
+  {
+    "title": "Dodgers Manager Gifts Pink Porsche to Ohtani's Daughter",
+    "domain": "sports",
+    "location": "national",
+    "published": "Wed, 4 Jun 2025 22:53:30 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Dodgers' Dave Roberts and his wife bought Shohei Ohtani's daughter a pink remote-controlled Porsche."
+    ],
+    "image_url": "",
+    "titles": [
+      "Dave Roberts jokingly gives Shohei Ohtani remote-controlled car for his daughter"
+    ],
+    "summary": "Dodgers manager Dave Roberts and his wife purchased a pink remote-controlled Porsche as a gift for Shohei Ohtani's daughter. This gesture highlights a personal connection between the families outside of their professional baseball affiliations.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "While this story provides an interesting anecdote about the personal lives of well-known sports figures, it offers minimal depth or insight into a broader issue or trend. It does not provide actionable insights or a deeper understanding of a particular topic.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.826,
+      "consensus": 0.283,
+      "constructiveness": 0.3
+    },
+    "score": 0.418,
+    "normalized_score": 0.0
+  },
+  {
+    "title": "2025 NCAA Baseball Tournament Schedule and Viewing Details Announced",
+    "domain": "sports",
+    "location": "national",
+    "published": "Wed, 4 Jun 2025 21:59:41 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "How to watch, schedule updates and scores from the 2025 NCAA baseball tournament."
+    ],
+    "image_url": "",
+    "titles": [
+      "Road to the MCWS: NCAA baseball tournament schedule, results"
+    ],
+    "summary": "The 2025 NCAA baseball tournament schedule, including how to watch games and updates on scores, will be made available to fans through various platforms. Details on specific dates, times, and channels for broadcasts will be provided closer to the event. As the tournament progresses, scores and key highlights will be accessible through official NCAA websites and partner sports networks.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story offers basic awareness about the upcoming NCAA baseball tournament, including how to watch games and where to find updates. However, it doesn't provide any deeper insights or analysis, such as predictions for the tournament or profiles of key teams and players.",
+    "score_components": {
+      "magnitude": 0.359,
+      "recency": 0.81,
+      "consensus": 0.283,
+      "constructiveness": 0.5
+    },
+    "score": 0.444,
+    "normalized_score": 2.92
+  },
+  {
+    "title": "Analysis of Appeal in Current NBA Coaching Vacancies",
+    "domain": "sports",
+    "location": "national",
+    "published": "Wed, 4 Jun 2025 21:51:41 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Which NBA coaching jobs are available? Which situations are the most appealing? We're breaking down each vacancy."
+    ],
+    "image_url": "",
+    "titles": [
+      "NBA coaching carousel: Suns, Spurs, Nuggets find successors -- but what's next for the Knicks?"
+    ],
+    "summary": "The article provides an analysis of the current vacancies in NBA coaching positions, evaluating their appeal based on various factors. It breaks down each available job, offering insights into what makes some positions more attractive than others. However, the summary does not specify the exact number of openings or detail which teams are searching for new coaches.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story provides useful insights into the current vacancies in NBA coaching positions, helping readers understand what makes some jobs more attractive than others. However, it doesn't fully inform or contextualize, as it doesn't specify the number of openings or which teams are looking for new coaches.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.808,
+      "consensus": 0.283,
+      "constructiveness": 0.8
+    },
+    "score": 0.465,
+    "normalized_score": 5.28
+  },
+  {
+    "title": "Tigers Aim to Convert Recruiting Success into On-Field Results",
+    "domain": "sports",
+    "location": "national",
+    "published": "Wed, 4 Jun 2025 21:44:49 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "The Tigers have scored recruiting and portal wins of late -- now they have to deliver where it matters most."
+    ],
+    "image_url": "",
+    "titles": [
+      "'I'm not naïve': Hugh Freeze knows Auburn needs to start winning soon"
+    ],
+    "summary": "The Tigers have experienced recent successes in recruiting and acquiring players through the transfer portal. The focus now shifts to translating these gains into tangible results on the field.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides useful information about the Tigers' recent recruiting successes and their strategic shift towards improving on-field performance. However, it lacks detailed insights or solutions to achieve this goal, and does not provide a deep understanding of the underlying systems or trends.",
+    "score_components": {
+      "magnitude": 0.359,
+      "recency": 0.806,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.453,
+    "normalized_score": 3.93
+  },
+  {
+    "title": "Bayern Munich Eyes Rafael Leão for Left-Wing Boost: Transfer Talk",
+    "domain": "sports",
+    "location": "national",
+    "published": "Wed, 4 Jun 2025 20:13:18 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Bayern Munich could bring in Rafael Leão to strengthen their squad at left wing. Transfer Talk has the latest news, gossip and rumors."
+    ],
+    "image_url": "",
+    "titles": [
+      "Transfer rumors, news: Bayern plot move for Rafael Leão"
+    ],
+    "summary": "Bayern Munich is reportedly considering signing Rafael Leão to enhance their left-wing position, according to Transfer Talk. This move is part of the club's strategy to strengthen their squad. The current status of negotiations or any potential agreement has not been disclosed.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story offers basic awareness about Bayern Munich's potential recruitment strategy, but it does not provide in-depth insights, progress on negotiations, or impacts of this potential signing. It lacks actionable insights for the reader.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.781,
+      "consensus": 0.283,
+      "constructiveness": 0.5
+    },
+    "score": 0.429,
+    "normalized_score": 1.24
+  },
+  {
+    "title": "McIlroy Returns to Canadian Open, DeChambeau Active in LIV Golf",
+    "domain": "sports",
+    "location": "national",
+    "published": "Wed, 4 Jun 2025 16:48:32 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "After scuffling at the PGA Championship Rory McIlroy is back in action at the Canadian Open. Meanwhile, from LIV Golf events to social media shoots, Bryson DeChambeau seems to never slow down."
+    ],
+    "image_url": "",
+    "titles": [
+      "Latest from PGA Tour and LIV Golf: McIlroy's back and DeChambeau is everywhere"
+    ],
+    "summary": "Rory McIlroy, following a disappointing performance at the PGA Championship, has returned to compete in the Canadian Open. Concurrently, Bryson DeChambeau remains highly active, participating in LIV Golf events and engaging with fans on social media.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs readers about the activities of two prominent golfers, providing useful context about their recent performances and engagements. However, it does not offer solutions, improvements, or a deeper understanding of the golf industry or these players' strategies.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.727,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.429,
+    "normalized_score": 1.24
+  },
+  {
+    "title": "Slow Starts for Teams, Players Mark 2025 Season's Opening Months",
+    "domain": "sports",
+    "location": "national",
+    "published": "Wed, 4 Jun 2025 16:45:35 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "A number of teams and stars are still struggling two months into the season. Do their slow starts define who they are in 2025?"
+    ],
+    "image_url": "",
+    "titles": [
+      "A big bullpen bust in L.A.? Is Soto unlucky? Are the O's cooked? An early verdict on 2025 disappointments"
+    ],
+    "summary": "Two months into the 2025 season, several teams and prominent players are facing difficulties, experiencing slow starts. The current situation raises questions about whether these early struggles will be indicative of their overall performance and identity for the rest of the season.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story offers basic awareness of the current situation of the teams and players. However, it lacks depth or insight into why these struggles are happening, what the teams or players are doing to overcome them, or how this might affect the rest of the season.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.727,
+      "consensus": 0.283,
+      "constructiveness": 0.5
+    },
+    "score": 0.419,
+    "normalized_score": 0.11
   },
   {
     "title": "Bombing Suspect Used AI Chat to Research Explosives",
@@ -300,12 +468,12 @@
     "constructiveness_reason": "While this story does increase awareness about the potential misuse of AI technology, it doesn't provide a deeper understanding or suggest any solutions to this issue. The information is somewhat useful, but it lacks depth and insight.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.961,
+      "recency": 0.839,
       "consensus": 0.283,
       "constructiveness": 0.5
     },
-    "score": 0.497,
-    "normalized_score": 7.24
+    "score": 0.473,
+    "normalized_score": 6.18
   },
   {
     "title": "Circle IPO Priced at $31/Share, Valuing Company at $6.8 Billion",
@@ -328,12 +496,12 @@
     "constructiveness_reason": "This story provides useful information for investors or those interested in the financial market. It does not report on solutions or improvements, but it does provide a deeper understanding of the company's valuation and its initial public offering.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.953,
+      "recency": 0.831,
       "consensus": 0.283,
       "constructiveness": 0.8
     },
-    "score": 0.516,
-    "normalized_score": 8.78
+    "score": 0.492,
+    "normalized_score": 8.31
   },
   {
     "title": "Jared Isaacman Steps Down as Shift4 CEO, Eyes NASA Role",
@@ -356,12 +524,12 @@
     "constructiveness_reason": "This story provides useful information about leadership changes in a significant company and potential changes in NASA's leadership. However, it doesn't provide in-depth insights or discuss potential impacts or solutions related to this leadership change.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.95,
+      "recency": 0.829,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.496,
-    "normalized_score": 7.15
+    "score": 0.472,
+    "normalized_score": 6.07
   },
   {
     "title": "Circle Raises IPO Size Again, Valuation Hits $8.06 Billion",
@@ -384,12 +552,12 @@
     "constructiveness_reason": "The story informs readers about the company's growing prominence in the cryptocurrency market, which is useful for investors and those interested in the field. However, it does not delve into the implications of this growth or potential future trends.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.949,
+      "recency": 0.829,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.505,
-    "normalized_score": 7.89
+    "score": 0.481,
+    "normalized_score": 7.08
   },
   {
     "title": "'Mad Money' Host Tips China's Interest in U.S. Gas, Planes, Turbines, Nvidia",
@@ -412,12 +580,96 @@
     "constructiveness_reason": "This story provides useful insights into potential areas for increased trade between the U.S. and China, which can help readers understand the dynamics of international trade. However, it doesn't highlight specific solutions or progress in the trade relationship.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.949,
+      "recency": 0.828,
       "consensus": 0.283,
       "constructiveness": 0.8
     },
-    "score": 0.525,
-    "normalized_score": 9.51
+    "score": 0.5,
+    "normalized_score": 9.21
+  },
+  {
+    "title": "Mel Stride Criticizes Opposition's Credibility Post-2022 Fiscal Event",
+    "domain": "business",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 23:01:40 GMT",
+    "source": "Financial Times",
+    "sources": [
+      "Financial Times"
+    ],
+    "snippets": [
+      "Mel Stride will say in speech that 2022 fiscal event ‘damaged credibility’ of main opposition party"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7fe00655-0962-4883-8e52-bd27966ec450.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Tory shadow chancellor to say sorry for Liz Truss mini-Budget"
+    ],
+    "summary": "Mel Stride is set to claim in an upcoming speech that the 2022 fiscal event significantly undermined the credibility of the main opposition party. This statement indicates a critical view on the impact of the fiscal decisions made during the event on the opposition's reputation.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness of Mel Stride's viewpoint on the opposition party's credibility after the 2022 fiscal event. However, it does not offer any detailed analysis or context about the fiscal decisions that led to this viewpoint, nor does it provide any actionable insights for the reader.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.828,
+      "consensus": 0.283,
+      "constructiveness": 0.3
+    },
+    "score": 0.441,
+    "normalized_score": 2.58
+  },
+  {
+    "title": "Musk's Reaction Tied to EV Tax Credit Removal in Trump Bill: Source",
+    "domain": "business",
+    "location": "national",
+    "published": "Wed, 04 Jun 2025 22:42:00 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "snippets": [
+      "Musk's reaction likely comes in part because Trump's bill cuts an EV tax credit that helps Tesla, a source familiar with the matter told NBC News."
+    ],
+    "image_url": "",
+    "titles": [
+      "Musk whips opposition to Trump tax plan: 'KILL the BILL'"
+    ],
+    "summary": "Elon Musk's reaction is likely influenced by the removal of an electric vehicle (EV) tax credit in Trump's bill, which benefits Tesla, according to a source speaking to NBC News.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful context about Elon Musk's reaction to the removal of the EV tax credit in Trump's bill. However, it does not provide any deeper understanding of the implications of this removal for Tesla or the EV industry as a whole, nor does it report on any solutions or attempts to solve this problem.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.822,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.479,
+    "normalized_score": 6.85
+  },
+  {
+    "title": "US Institution Found in Violation of Anti-Discrimination Laws Amid Protests",
+    "domain": "business",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 22:32:42 GMT",
+    "source": "Financial Times",
+    "sources": [
+      "Financial Times"
+    ],
+    "snippets": [
+      "US government says institution violated anti-discrimination laws during pro-Palestine protests"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd751b72-aef7-4c25-95af-10e79de67133.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Trump administration says Columbia fails to meet accreditation standards"
+    ],
+    "summary": "The US government concluded that an institution breached anti-discrimination laws amid pro-Palestine protests. This finding underscores the legal implications of handling protests and the importance of adhering to anti-discrimination statutes. The specific details of the violation or the institution involved were not disclosed.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides some awareness about the legal implications of handling protests and the importance of adhering to anti-discrimination laws. However, it lacks depth and actionable insights due to the absence of specific details about the violation or the institution involved.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.82,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.47,
+    "normalized_score": 5.84
   },
   {
     "title": "\"Discovery: Crystal Structures Morph to Boost Catalysis Efficiency at BESSY II\"",
@@ -440,12 +692,12 @@
     "constructiveness_reason": "This story is highly constructive as it reports a significant scientific discovery that could lead to advancements in catalysis technology. It provides useful insights into the potential impact of this discovery and increases awareness about the role of crystal structures in catalysis.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.933,
+      "recency": 0.814,
       "consensus": 0.283,
       "constructiveness": 0.9
     },
-    "score": 0.522,
-    "normalized_score": 9.27
+    "score": 0.499,
+    "normalized_score": 9.1
   },
   {
     "title": "MIT Develops Membrane to Cut Oil Refining Energy Use by Up to 90%",
@@ -468,11 +720,11 @@
     "constructiveness_reason": "The story is very constructive. It not only reports on an innovative solution developed by MIT researchers that could potentially reduce the energy consumption in oil refining, but also provides actionable insights into how this technology could be applied in the industry. It also raises awareness about the energy-intensive nature of oil refining.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.925,
+      "recency": 0.807,
       "consensus": 0.283,
       "constructiveness": 1.0
     },
-    "score": 0.531,
+    "score": 0.507,
     "normalized_score": 10.0
   },
   {
@@ -496,12 +748,12 @@
     "constructiveness_reason": "This story is constructive as it offers a deeper understanding of the unique chemistry of lithium-rich brines, which could have implications for lithium extraction processes. However, it doesn't provide clear actionable insights or report on specific solutions or improvements related to this discovery.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.917,
+      "recency": 0.8,
       "consensus": 0.283,
       "constructiveness": 0.7
     },
-    "score": 0.499,
-    "normalized_score": 7.4
+    "score": 0.476,
+    "normalized_score": 6.52
   },
   {
     "title": "Study Finds Both Male and Female Earwigs Exhibit Large Forceps Growth",
@@ -524,12 +776,12 @@
     "constructiveness_reason": "This story provides useful information and contributes to a deeper understanding of the evolution of earwigs. However, it doesn't report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter on a broader scale.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.894,
+      "recency": 0.78,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.485,
-    "normalized_score": 6.26
+    "score": 0.462,
+    "normalized_score": 4.94
   },
   {
     "title": "Researchers Urge Moving Beyond Halting Extinction to Restoring Ecosystems",
@@ -552,11 +804,95 @@
     "constructiveness_reason": "This story is highly constructive. It provides actionable insights by suggesting a shift in focus from conservation to restoration. It reports on a potential solution to a global problem, thus offering a sense of progress. It also increases awareness about the state of the planet's ecosystems and the need for more ambitious environmental goals.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.854,
+      "recency": 0.746,
       "consensus": 0.283,
       "constructiveness": 1.0
     },
-    "score": 0.517,
-    "normalized_score": 8.86
+    "score": 0.495,
+    "normalized_score": 8.65
+  },
+  {
+    "title": "Rivers Release Millennia-Old Carbon Due to Human Activity",
+    "domain": "science",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 17:00:59 +0100",
+    "source": "New Scientist",
+    "sources": [
+      "New Scientist"
+    ],
+    "snippets": [
+      "Carbon stored in landscapes for thousands of years is leaching back into the atmosphere via rivers, and human activity may be to blame"
+    ],
+    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/06/04112446/SEI_254171587.jpg",
+    "titles": [
+      "Rivers are leaking ancient carbon back into the atmosphere"
+    ],
+    "summary": "Recent studies have revealed that carbon, which has been stored in landscapes for millennia, is now being released back into the atmosphere through rivers. This phenomenon is largely attributed to human activities. The findings underscore the impact of human intervention on natural carbon cycles and highlight a potentially overlooked source of atmospheric carbon.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story is constructive, as it provides a deeper understanding of the impact of human activities on natural carbon cycles. It increases awareness about a potentially overlooked source of atmospheric carbon. However, it does not clearly highlight solutions or improvements, which would have made it more empowering for the reader.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.716,
+      "consensus": 0.283,
+      "constructiveness": 0.8
+    },
+    "score": 0.469,
+    "normalized_score": 5.73
+  },
+  {
+    "title": "Breakthrough in Boosting Brain's Waste Removal May Aid Neurodegenerative Disease",
+    "domain": "science",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 17:00:44 +0100",
+    "source": "New Scientist",
+    "sources": [
+      "New Scientist"
+    ],
+    "snippets": [
+      "The glymphatic system flushes out waste products from the brain – now scientists have found a way to boost it in mice, which could open treatment possibilities for neurodegenerative diseases"
+    ],
+    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/06/04150721/SEI_254273231.jpg",
+    "titles": [
+      "Massaging the neck and face may help flush waste out of the brain"
+    ],
+    "summary": "Scientists have discovered a method to enhance the glymphatic system's ability to remove waste products from the brain in mice. This advancement holds potential for developing treatments for neurodegenerative diseases by improving the brain's natural waste elimination processes.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story clearly highlights progress in the field of neurodegenerative disease research. It informs readers about a new scientific discovery that could potentially lead to new treatments for these diseases, thus providing actionable insights.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.715,
+      "consensus": 0.283,
+      "constructiveness": 0.9
+    },
+    "score": 0.488,
+    "normalized_score": 7.87
+  },
+  {
+    "title": "New Study Challenges Origins of Tuberculosis, Highlights Its Resilience",
+    "domain": "science",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 17:00:41 +0100",
+    "source": "New Scientist",
+    "sources": [
+      "New Scientist"
+    ],
+    "snippets": [
+      "Once thought to have originated in cows and spread through dust, the surprising evolutionary story of tuberculosis reveals why it's so hard to stamp out this ancient disease, writes Carl Zimmer"
+    ],
+    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/05/27111433/SEI_251394932.jpg",
+    "titles": [
+      "TB's extraordinary evolution reveals why the ancient disease lives on"
+    ],
+    "summary": "The evolutionary history of tuberculosis (TB), as discussed by Carl Zimmer, challenges the previous belief that TB originated in cows and was spread through dust. This new understanding of its complex origins explains the difficulty in eradicating the ancient disease, highlighting its resilience and adaptability over time.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story provides useful information about the origins of tuberculosis, challenging previous beliefs and increasing understanding of the disease's resilience. However, it doesn't offer any solutions or improvements, thus not scoring a full mark.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.715,
+      "consensus": 0.283,
+      "constructiveness": 0.8
+    },
+    "score": 0.469,
+    "normalized_score": 5.73
   }
 ]
