@@ -20,12 +20,12 @@
     "constructiveness_reason": "This story provides useful information about the political landscape in Mexico and potential implications of the judiciary overhaul. However, it doesn't provide solutions or progress on the issue, nor does it delve deeply into the causes, trends, or impacts.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.804,
+      "recency": 0.681,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.467,
-    "normalized_score": 5.51
+    "score": 0.442,
+    "normalized_score": 3.7
   },
   {
     "title": "Ex-Rams Player McQuaide Escorted From Church After Questioning Official",
@@ -48,96 +48,12 @@
     "constructiveness_reason": "This story provides basic awareness about a specific incident involving a former Rams player. However, it lacks depth, doesn't provide actionable insights, and doesn't report on solutions or progress.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.751,
+      "recency": 0.635,
       "consensus": 0.283,
       "constructiveness": 0.3
     },
-    "score": 0.435,
-    "normalized_score": 1.91
-  },
-  {
-    "title": "Man Arrested at JFK for Supplying Bomb Materials to Clinic Attacker",
-    "domain": "general",
-    "location": "national",
-    "published": "Wed, 4 Jun 2025 14:58:19 GMT",
-    "source": "LA Times",
-    "sources": [
-      "LA Times"
-    ],
-    "snippets": [
-      "<p>Federal authorities have arrested a man at JFK airport in New York who allegedly provided bomb ingredients to the suspect responsible for last month's attack on a fertility clinic in Palm Springs.</p>"
-    ],
-    "image_url": "https://ca-times.brightspotcdn.com/dims4/default/1451f99/2147483647/strip/false/crop/3600x2400+0+0/resize/1500x1000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdf%2Fc4%2F7086ca3d405aafd3a0b410a5f9ee%2F1507438-me-palm-springs-bombing-update-10-ajs.jpg",
-    "titles": [
-      "Palm Springs accomplice fled to Europe after supplying ingredient for bomb, feds say"
-    ],
-    "summary": "Federal authorities arrested a man at JFK airport in New York for allegedly supplying bomb ingredients to the perpetrator of a bombing at a Palm Springs fertility clinic last month.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides awareness about a security incident and the arrest of a suspect. However, it doesn't provide deeper understanding or actionable insights, nor does it report on solutions or progress to prevent such incidents in the future.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.7,
-      "consensus": 0.283,
-      "constructiveness": 0.5
-    },
-    "score": 0.436,
-    "normalized_score": 2.02
-  },
-  {
-    "title": "Court: Removal of Soliman's Family Without Due Process May Cause Irreparable Har",
-    "domain": "general",
-    "location": "global",
-    "published": "Wed, 04 Jun 2025 23:45:50 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera"
-    ],
-    "snippets": [
-      "Federal court says removing the wife and children of Mohamed Soliman without due process could cause &#039;irreparable harm&#039;."
-    ],
-    "image_url": "",
-    "titles": [
-      "US judge halts deportation of family of suspect in pro-Israel rally attack"
-    ],
-    "summary": "A federal court ruled that the removal of Mohamed Soliman's wife and children without due process may result in 'irreparable harm'. This decision emphasizes the importance of following legal procedures in such cases to prevent potential lasting damage to the individuals involved.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides a deeper understanding of the importance of due process in legal matters, especially those involving family separation. It emphasizes the potential harm of not following legal procedures, which can be useful for readers to understand the implications of such actions.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.841,
-      "consensus": 0.283,
-      "constructiveness": 0.8
-    },
-    "score": 0.494,
-    "normalized_score": 8.54
-  },
-  {
-    "title": "Billionaire Criticizes Bill for Undermining Federal Spending Reduction Efforts",
-    "domain": "general",
-    "location": "global",
-    "published": "Wed, 04 Jun 2025 23:31:13 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC"
-    ],
-    "snippets": [
-      "Billionaire says the bill, which faces a key test in the Senate, undercuts efforts to slash federal spending."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86c7/live/71f19820-40a7-11f0-a90d-6b992e1c44a7.jpg",
-    "titles": [
-      "Musk urges Americans to tell lawmakers to 'kill the bill'"
-    ],
-    "summary": "A billionaire has criticized a bill undergoing a crucial Senate vote, arguing it undermines attempts to reduce federal spending.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about a billionaire's criticism of a bill and its potential impact on federal spending. However, it lacks depth and actionable insights, such as the specific aspects of the bill that the billionaire criticizes, or how it could affect the reader or the broader society.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.837,
-      "consensus": 0.283,
-      "constructiveness": 0.3
-    },
-    "score": 0.452,
-    "normalized_score": 3.82
+    "score": 0.412,
+    "normalized_score": 1.64
   },
   {
     "title": "Thai Youth Turn to AI Like ChatGPT for Personal Guidance",
@@ -160,12 +76,12 @@
     "constructiveness_reason": "This story informs readers about a trend among Thai youth turning to AI for personal guidance. It provides a specific example and contextualizes the use of AI in everyday life, contributing to a deeper understanding of the role of AI. However, it does not highlight any solutions, improvements, or attempts to solve problems.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.836,
+      "recency": 0.708,
       "consensus": 0.283,
       "constructiveness": 0.8
     },
-    "score": 0.502,
-    "normalized_score": 9.44
+    "score": 0.476,
+    "normalized_score": 6.03
   },
   {
     "title": "Denmark's Strict Policies Gain Global Attention Under Social Democrat PM",
@@ -188,183 +104,127 @@
     "constructiveness_reason": "This story offers basic awareness of Denmark's strict policies under its current leadership and the international attention it's receiving. However, it lacks depth and insight as it does not provide details about the policies, their impacts, or how they might be relevant to the reader.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.831,
+      "recency": 0.703,
       "consensus": 0.283,
       "constructiveness": 0.3
     },
-    "score": 0.451,
-    "normalized_score": 3.71
+    "score": 0.425,
+    "normalized_score": 2.53
   },
   {
-    "title": "White House Claims Democrats Oppose Previously Supported Measures",
+    "title": "Study Finds Treatment Disparities for Aortic Stenosis in England",
     "domain": "general",
     "location": "global",
-    "published": "Wed, 04 Jun 2025 23:03:25 +0000",
-    "source": "Al Jazeera",
+    "published": "Wed, 04 Jun 2025 23:01:53 GMT",
+    "source": "The Guardian",
     "sources": [
-      "Al Jazeera"
+      "The Guardian"
     ],
     "snippets": [
-      "In a release, the White House said that Democrats opposed key measures party members actually championed."
+      "<p>Research shows disparity in care after detection of aortic stenosis, also affecting those living in deprived areas</p><p>Women, people from minority ethnic backgrounds, and those living in the most deprived areas of England are less likely to receive treatment after a diagnosis of a deadly heart disease, according to one of the largest studies of its kind.</p><p>Researchers at the University of Leicester analysed data from almost 155,000 people diagnosed with aortic stenosis – a narrowing of the valve between the heart’s main pumping chamber and the main artery – between 2000 and 2022..."
     ],
-    "image_url": "",
+    "image_url": "https://i.guim.co.uk/img/media/2e25827a0faf4b9ce48901be35b8c591cbc698f6/562_0_2740_2192/master/2740.jpg?width=140&quality=85&auto=format&fit=max&s=e9a564ce03232d6ef7551318e55fdc51",
     "titles": [
-      "White House makes misleading claims about Democratic opposition to tax bill"
+      "Women and ethnic minorities less likely to be treated after diagnosis of deadly heart disease in England, study finds"
     ],
-    "summary": "The White House issued a statement claiming that Democrats have opposed several key measures that they had previously supported. This announcement highlights a discrepancy between the party's past advocacies and its current stance on certain issues.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides some useful information about the political dynamics between the White House and the Democrats. However, it lacks depth and context, as it doesn't explain why the Democrats' stance might have changed or what the implications are for policy-making.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.829,
-      "consensus": 0.283,
-      "constructiveness": 0.6
-    },
-    "score": 0.481,
-    "normalized_score": 7.08
-  },
-  {
-    "title": "NBA Finals Preview: Iconic Playoff Moments Captured in Images",
-    "domain": "sports",
-    "location": "national",
-    "published": "Wed, 4 Jun 2025 22:53:31 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "As we prepare for Game 1 of the NBA Finals, we take a look back at the iconic images that defined these playoffs."
-    ],
-    "image_url": "",
-    "titles": [
-      "From wild dunks to improbable comebacks: The top photos of the 2025 NBA playoffs"
-    ],
-    "summary": "As the NBA Finals approach, a review of the playoffs highlights iconic images that have marked this season's journey. These images capture pivotal moments and key players that have defined the path to the championship series. The focus is on preparing for Game 1, reflecting on the memorable visuals that have accompanied the teams' progress through the playoffs.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides a useful context for the upcoming NBA Finals by highlighting key moments from the playoffs. While it doesn't necessarily offer actionable insights, it does contribute to a deeper understanding of the teams' journey to the championship series.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.826,
-      "consensus": 0.283,
-      "constructiveness": 0.6
-    },
-    "score": 0.449,
-    "normalized_score": 3.48
-  },
-  {
-    "title": "Dodgers Manager Gifts Pink Porsche to Ohtani's Daughter",
-    "domain": "sports",
-    "location": "national",
-    "published": "Wed, 4 Jun 2025 22:53:30 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "Dodgers' Dave Roberts and his wife bought Shohei Ohtani's daughter a pink remote-controlled Porsche."
-    ],
-    "image_url": "",
-    "titles": [
-      "Dave Roberts jokingly gives Shohei Ohtani remote-controlled car for his daughter"
-    ],
-    "summary": "Dodgers manager Dave Roberts and his wife purchased a pink remote-controlled Porsche as a gift for Shohei Ohtani's daughter. This gesture highlights a personal connection between the families outside of their professional baseball affiliations.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story provides an interesting anecdote about the personal lives of well-known sports figures, it offers minimal depth or insight into a broader issue or trend. It does not provide actionable insights or a deeper understanding of a particular topic.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.826,
-      "consensus": 0.283,
-      "constructiveness": 0.3
-    },
-    "score": 0.418,
-    "normalized_score": 0.0
-  },
-  {
-    "title": "2025 NCAA Baseball Tournament Schedule and Viewing Details Announced",
-    "domain": "sports",
-    "location": "national",
-    "published": "Wed, 4 Jun 2025 21:59:41 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "How to watch, schedule updates and scores from the 2025 NCAA baseball tournament."
-    ],
-    "image_url": "",
-    "titles": [
-      "Road to the MCWS: NCAA baseball tournament schedule, results"
-    ],
-    "summary": "The 2025 NCAA baseball tournament schedule, including how to watch games and updates on scores, will be made available to fans through various platforms. Details on specific dates, times, and channels for broadcasts will be provided closer to the event. As the tournament progresses, scores and key highlights will be accessible through official NCAA websites and partner sports networks.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story offers basic awareness about the upcoming NCAA baseball tournament, including how to watch games and where to find updates. However, it doesn't provide any deeper insights or analysis, such as predictions for the tournament or profiles of key teams and players.",
-    "score_components": {
-      "magnitude": 0.359,
-      "recency": 0.81,
-      "consensus": 0.283,
-      "constructiveness": 0.5
-    },
-    "score": 0.444,
-    "normalized_score": 2.92
-  },
-  {
-    "title": "Analysis of Appeal in Current NBA Coaching Vacancies",
-    "domain": "sports",
-    "location": "national",
-    "published": "Wed, 4 Jun 2025 21:51:41 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "Which NBA coaching jobs are available? Which situations are the most appealing? We're breaking down each vacancy."
-    ],
-    "image_url": "",
-    "titles": [
-      "NBA coaching carousel: Suns, Spurs, Nuggets find successors -- but what's next for the Knicks?"
-    ],
-    "summary": "The article provides an analysis of the current vacancies in NBA coaching positions, evaluating their appeal based on various factors. It breaks down each available job, offering insights into what makes some positions more attractive than others. However, the summary does not specify the exact number of openings or detail which teams are searching for new coaches.",
+    "summary": "A study by the University of Leicester, analyzing data from nearly 155,000 people diagnosed with aortic stenosis in England from 2000 to 2022, found significant disparities in treatment. Women, individuals from minority ethnic backgrounds, and residents of the most deprived areas are less likely to receive care after being diagnosed with this serious heart condition.",
     "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful insights into the current vacancies in NBA coaching positions, helping readers understand what makes some jobs more attractive than others. However, it doesn't fully inform or contextualize, as it doesn't specify the number of openings or which teams are looking for new coaches.",
+    "constructiveness_reason": "This article is constructive as it provides useful information about a study that reveals disparities in treatment for aortic stenosis in England. It raises awareness about the issue and could potentially influence decision-making in healthcare policy.",
     "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.808,
+      "magnitude": 0.389,
+      "recency": 0.701,
       "consensus": 0.283,
       "constructiveness": 0.8
     },
-    "score": 0.465,
-    "normalized_score": 5.28
+    "score": 0.466,
+    "normalized_score": 5.34
   },
   {
-    "title": "Tigers Aim to Convert Recruiting Success into On-Field Results",
-    "domain": "sports",
-    "location": "national",
-    "published": "Wed, 4 Jun 2025 21:44:49 EST",
-    "source": "ESPN",
+    "title": "US Vetoes UN Resolution for Ceasefire in Gaza Supported by 14 Members",
+    "domain": "general",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 22:21:54 GMT",
+    "source": "The Guardian",
     "sources": [
-      "ESPN"
+      "The Guardian"
     ],
     "snippets": [
-      "The Tigers have scored recruiting and portal wins of late -- now they have to deliver where it matters most."
+      "<p>Russia, China, France and the UK all voted in favour of ‘immediate, unconditional and permanent ceasefire’</p><p>The United States has vetoed a United Nations security council resolution calling for an “immediate, unconditional and permanent ceasefire” in Gaza while the 14 remaining countries on the council voted in favour.</p><p>The vetoed resolution also called the situation in Gaza “catastrophic”, and demanded the “immediate and unconditional lifting of all restrictions on the entry of humanitarian aid into Gaza and its safe and unhindered distribution at scale, including by the UN and..."
     ],
-    "image_url": "",
+    "image_url": "https://i.guim.co.uk/img/media/e610fe5f007155fd2abc2a1ccc5b05ae7874a4e3/154_0_2336_1868/master/2336.jpg?width=140&quality=85&auto=format&fit=max&s=288681faf231f551d5a36f485bba0a26",
     "titles": [
-      "'I'm not naïve': Hugh Freeze knows Auburn needs to start winning soon"
+      "US vetoes resolution for unconditional Gaza ceasefire at UN security council"
     ],
-    "summary": "The Tigers have experienced recent successes in recruiting and acquiring players through the transfer portal. The focus now shifts to translating these gains into tangible results on the field.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story provides useful information about the Tigers' recent recruiting successes and their strategic shift towards improving on-field performance. However, it lacks detailed insights or solutions to achieve this goal, and does not provide a deep understanding of the underlying systems or trends.",
+    "summary": "The United States vetoed a United Nations Security Council resolution that sought an \"immediate, unconditional and permanent ceasefire\" in Gaza, which was supported by the other 14 members, including Russia, China, France, and the UK. The resolution described the situation in Gaza as \"catastrophic\" and demanded the lifting of restrictions on humanitarian aid.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "While this article provides awareness about the US veto of a UN resolution, it doesn't offer much in terms of solutions or progress towards resolving the conflict in Gaza. It provides minimal depth or insight into the reasons behind the veto or the potential implications.",
     "score_components": {
-      "magnitude": 0.359,
-      "recency": 0.806,
+      "magnitude": 0.389,
+      "recency": 0.691,
       "consensus": 0.283,
-      "constructiveness": 0.6
+      "constructiveness": 0.5
     },
-    "score": 0.453,
-    "normalized_score": 3.93
+    "score": 0.434,
+    "normalized_score": 3.15
   },
   {
-    "title": "Bayern Munich Eyes Rafael Leão for Left-Wing Boost: Transfer Talk",
+    "title": "Security Council Demands Hostage Release, Full-Scale Aid Resumption",
+    "domain": "general",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 22:20:07 +0000",
+    "source": "New York Times",
+    "sources": [
+      "New York Times"
+    ],
+    "snippets": [
+      "The Security Council resolution also sought the release of all the hostages and the resumption of full-scale aid deliveries."
+    ],
+    "image_url": "https://static01.nyt.com/images/2025/06/04/multimedia/04un-1-lzfv/04un-1-lzfv-mediumSquareAt3X.jpg",
+    "titles": [
+      "U.S. Vetoes U.N. Resolution Demanding Immediate Gaza Cease-Fire"
+    ],
+    "summary": "The Security Council passed a resolution demanding the release of all hostages and the resumption of full-scale aid deliveries. This action underscores the international body's commitment to addressing humanitarian issues and securing the well-being of those affected by conflicts.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This article is highly constructive. It reports on the Security Council's resolution, which represents an attempt to solve a problem. It also provides actionable insights about the international body's commitment to humanitarian issues, potentially empowering readers with knowledge about the global response to such issues.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.691,
+      "consensus": 0.283,
+      "constructiveness": 0.9
+    },
+    "score": 0.483,
+    "normalized_score": 6.51
+  },
+  {
+    "title": "Future of Iran Nuclear Talks Remains Uncertain",
+    "domain": "general",
+    "location": "national",
+    "published": "Wed, 04 Jun 2025 22:10:51 -0400",
+    "source": "ABC News",
+    "sources": [
+      "ABC News"
+    ],
+    "snippets": [
+      "The future of high-stakes negotiations over Iran's nuclear program remains shrouded in uncertainty."
+    ],
+    "image_url": "https://s.abcnews.com/images/Politics/trump-Khamenei-gty-gmh-250604_1749079858807_hpMain_4x3t_384.jpg",
+    "titles": [
+      "Critical US-Iran nuclear talks on shaky ground"
+    ],
+    "summary": "The future of the negotiations concerning Iran's nuclear program is currently uncertain. High-stakes talks are ongoing, but there is no clear outcome or resolution at this time.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about the ongoing negotiations concerning Iran's nuclear program. However, it lacks depth and insight into the implications of these talks, the key players involved, or the potential outcomes.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.748,
+      "consensus": 0.283,
+      "constructiveness": 0.3
+    },
+    "score": 0.434,
+    "normalized_score": 3.15
+  },
+  {
+    "title": "Erik ten Hag Eyes Manchester United's Antony for Leverkusen",
     "domain": "sports",
     "location": "national",
     "published": "Wed, 4 Jun 2025 20:13:18 EST",
@@ -373,79 +233,247 @@
       "ESPN"
     ],
     "snippets": [
-      "Bayern Munich could bring in Rafael Leão to strengthen their squad at left wing. Transfer Talk has the latest news, gossip and rumors."
+      "New Bayer Leverkusen coach Erik ten Hag is ready to make a move for Manchester United forward Antony. Transfer Talk has the latest news, gossip and rumors."
     ],
     "image_url": "",
     "titles": [
-      "Transfer rumors, news: Bayern plot move for Rafael Leão"
+      "Transfer rumors, news: Ten Hag to give Antony a Man United escape route at Leverkusen"
     ],
-    "summary": "Bayern Munich is reportedly considering signing Rafael Leão to enhance their left-wing position, according to Transfer Talk. This move is part of the club's strategy to strengthen their squad. The current status of negotiations or any potential agreement has not been disclosed.",
+    "summary": "Erik ten Hag, the new coach of Bayer Leverkusen, is reportedly interested in acquiring Manchester United forward Antony, according to Transfer Talk's latest updates on football news, gossip, and rumors.",
     "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story offers basic awareness about Bayern Munich's potential recruitment strategy, but it does not provide in-depth insights, progress on negotiations, or impacts of this potential signing. It lacks actionable insights for the reader.",
+    "constructiveness_reason": "The story provides some insight into football transfer news, which could be useful for fans or those involved in fantasy leagues. However, it doesn't provide deeper understanding about the reasons for this potential transfer or its implications for the teams involved.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.781,
+      "recency": 0.661,
       "consensus": 0.283,
       "constructiveness": 0.5
     },
-    "score": 0.429,
-    "normalized_score": 1.24
+    "score": 0.406,
+    "normalized_score": 1.23
   },
   {
-    "title": "McIlroy Returns to Canadian Open, DeChambeau Active in LIV Golf",
+    "title": "Journalism, Sovereignty Lead Belmont Stakes Odds",
     "domain": "sports",
     "location": "national",
-    "published": "Wed, 4 Jun 2025 16:48:32 EST",
+    "published": "Wed, 4 Jun 2025 15:45:40 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "After scuffling at the PGA Championship Rory McIlroy is back in action at the Canadian Open. Meanwhile, from LIV Golf events to social media shoots, Bryson DeChambeau seems to never slow down."
+      "Preakness winner Journalism and Kentucky Derby winner Sovereignty have the best odds in the eight-horse field for Saturday's Belmont Stakes."
     ],
     "image_url": "",
     "titles": [
-      "Latest from PGA Tour and LIV Golf: McIlroy's back and DeChambeau is everywhere"
+      "Odds, post positions for the Belmont Stakes"
     ],
-    "summary": "Rory McIlroy, following a disappointing performance at the PGA Championship, has returned to compete in the Canadian Open. Concurrently, Bryson DeChambeau remains highly active, participating in LIV Golf events and engaging with fans on social media.",
+    "summary": "Preakness winner Journalism and Kentucky Derby winner Sovereignty are the leading contenders in an eight-horse field for the upcoming Belmont Stakes on Saturday, based on their favorable odds.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs readers about the activities of two prominent golfers, providing useful context about their recent performances and engagements. However, it does not offer solutions, improvements, or a deeper understanding of the golf industry or these players' strategies.",
+    "constructiveness_reason": "This story provides useful information for those interested in horse racing or betting on the Belmont Stakes. It gives an update on the odds for the race, which can inform decision-making. However, it doesn't provide much context or insight beyond the basic odds.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.727,
+      "recency": 0.602,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.429,
-    "normalized_score": 1.24
+    "score": 0.404,
+    "normalized_score": 1.1
   },
   {
-    "title": "Slow Starts for Teams, Players Mark 2025 Season's Opening Months",
+    "title": "Djokovic Beats Zverev in French Open, Faces Sinner in Semi-Finals",
+    "domain": "sports",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 23:00:00 BST",
+    "source": "Sky Sports",
+    "sources": [
+      "Sky Sports"
+    ],
+    "snippets": [
+      "Novak Djokovic came from behind to beat Alexander Zverev at the French Open, setting up a blockbuster semi-final clash with Jannik Sinner."
+    ],
+    "image_url": "https://e2.365dm.com/25/06/1920x1080/skysports-novak-djokovic-french-open_6934792.jpg?20250604230623",
+    "titles": [
+      "Djokovic beats Zverev to set up French Open semi-final with Sinner"
+    ],
+    "summary": "Novak Djokovic secured a comeback victory against Alexander Zverev in the French Open, advancing to the semi-finals. He is set to face Jannik Sinner next in what is anticipated to be a highly competitive match.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "The story provides basic awareness about the outcome of a sports event but does not offer deeper insights or actionable information. It does not report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.7,
+      "consensus": 0.283,
+      "constructiveness": 0.3
+    },
+    "score": 0.393,
+    "normalized_score": 0.34
+  },
+  {
+    "title": "Chelsea Signs Liam Delap for £30M from Ipswich",
+    "domain": "sports",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 21:00:00 BST",
+    "source": "Sky Sports",
+    "sources": [
+      "Sky Sports"
+    ],
+    "snippets": [
+      "Chelsea have completed the &#163;30m signing of Ipswich striker Liam Delap."
+    ],
+    "image_url": "https://e2.365dm.com/25/06/1920x1080/skysports-liam-delap-chelsea_6934751.jpg?20250604212253",
+    "titles": [
+      "'I want to win trophies' - Chelsea complete £30m deal for Delap"
+    ],
+    "summary": "Chelsea Football Club has finalized the acquisition of striker Liam Delap from Ipswich for a transfer fee of £30 million. This move strengthens Chelsea's attacking options for the upcoming season.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about a transfer in the football world but does not offer deeper understanding or actionable insights. It does not report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.672,
+      "consensus": 0.283,
+      "constructiveness": 0.3
+    },
+    "score": 0.388,
+    "normalized_score": 0.0
+  },
+  {
+    "title": "LA Runners Unite to Rebuild Future After Eaton Fire",
     "domain": "sports",
     "location": "national",
-    "published": "Wed, 4 Jun 2025 16:45:35 EST",
+    "published": "Thu, 5 Jun 2025 11:56:32 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "A number of teams and stars are still struggling two months into the season. Do their slow starts define who they are in 2025?"
+      "Though still reeling from the Eaton fire, a group of L.A. area runners are determined to build a worthwhile future."
     ],
     "image_url": "",
     "titles": [
-      "A big bullpen bust in L.A.? Is Soto unlucky? Are the O's cooked? An early verdict on 2025 disappointments"
+      "How members of the Pasadena Run Club are finding salvation in a post-wildfire world"
     ],
-    "summary": "Two months into the 2025 season, several teams and prominent players are facing difficulties, experiencing slow starts. The current situation raises questions about whether these early struggles will be indicative of their overall performance and identity for the rest of the season.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story offers basic awareness of the current situation of the teams and players. However, it lacks depth or insight into why these struggles are happening, what the teams or players are doing to overcome them, or how this might affect the rest of the season.",
+    "summary": "In the aftermath of the Eaton fire, a group of runners from the Los Angeles area remains committed to overcoming the disaster's effects. They are actively working towards creating a positive future, despite the challenges posed by the recent fire.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story informs the reader about a community's response to a disaster, providing useful context about their efforts to rebuild. It reports on a solution to a problem and increases clarity around the impact of the Eaton fire, but it could provide more detailed insights or specific actions to be more constructive.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.727,
+      "recency": 0.917,
+      "consensus": 0.283,
+      "constructiveness": 0.8
+    },
+    "score": 0.487,
+    "normalized_score": 6.78
+  },
+  {
+    "title": "Boston Bruins Name Marco Sturm Head Coach, Eye Playoff Return",
+    "domain": "sports",
+    "location": "national",
+    "published": "Thu, 5 Jun 2025 11:47:50 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "The Boston Bruins hired Marco Sturm as coach on Thursday to help the Original Six franchise get back to the playoffs after missing them for the first time since 2016."
+    ],
+    "image_url": "",
+    "titles": [
+      "Bruins turn to ex-forward Sturm as head coach"
+    ],
+    "summary": "The Boston Bruins appointed Marco Sturm as their new coach on Thursday, aiming to guide the team back into the playoffs following their absence since 2016. This move marks a significant effort by the Original Six franchise to rejuvenate their playoff prospects.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story is constructive as it provides useful information about the new appointment in the Boston Bruins team and their future plans. However, it doesn't provide any in-depth insights into the strategies or improvements they plan to implement, nor does it increase awareness about broader trends in the sport.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.914,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.466,
+    "normalized_score": 5.34
+  },
+  {
+    "title": "Sergiño Dest Withdraws from Concacaf Gold Cup, Latest USMNT Player Out",
+    "domain": "sports",
+    "location": "national",
+    "published": "Thu, 5 Jun 2025 11:47:50 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "United States international and PSV Eindhoven defender Sergiño Dest is the latest USMNT player to pull out of the Concacaf Gold Cup."
+    ],
+    "image_url": "",
+    "titles": [
+      "Dest latest USMNT absentee in Gold Cup roster"
+    ],
+    "summary": "Sergiño Dest, a defender for PSV Eindhoven and the United States men's national soccer team (USMNT), has withdrawn from the Concacaf Gold Cup. Dest is the latest player from the USMNT to pull out of the tournament.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story offers basic awareness about the player's withdrawal from the tournament, but lacks depth or insight. It doesn't provide any actionable insights for the reader, nor does it report on any solutions or improvements. The story could be more constructive if it discussed the implications of this withdrawal on the team or the tournament.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.914,
       "consensus": 0.283,
       "constructiveness": 0.5
     },
-    "score": 0.419,
-    "normalized_score": 0.11
+    "score": 0.456,
+    "normalized_score": 4.66
+  },
+  {
+    "title": "Ravens Extend Rashod Bateman's Contract for $36.75M, $20M Guaranteed",
+    "domain": "sports",
+    "location": "national",
+    "published": "Thu, 5 Jun 2025 11:47:50 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "The Ravens have signed wide receiver Rashod Bateman to a three-year, $36.75 million contract extension that includes $20 million guaranteed, a source told ESPN."
+    ],
+    "image_url": "",
+    "titles": [
+      "Source: Ravens give WR Bateman $36.75M deal"
+    ],
+    "summary": "The Baltimore Ravens have extended wide receiver Rashod Bateman's contract for three years, committing $36.75 million to him, with $20 million of that sum guaranteed. This information was confirmed by a source to ESPN.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The news story provides useful information about the contract extension of Rashod Bateman, a wide receiver for the Baltimore Ravens. However, it doesn't provide any deeper understanding of the player's performance or the team's strategy, nor does it highlight any progress or solutions. The story could be more constructive if it provided context about the player's contribution to the team or the team's performance.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.914,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.466,
+    "normalized_score": 5.34
+  },
+  {
+    "title": "CrowdStrike CEO Confident in Financial Stability Amid Inquiry",
+    "domain": "business",
+    "location": "national",
+    "published": "Wed, 04 Jun 2025 23:48:32 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "snippets": [
+      "CrowdStrike CEO George Kurtz indicated that the cybersecurity outfit is confident in its finances as it faces a government inquiry."
+    ],
+    "image_url": "",
+    "titles": [
+      "CrowdStrike CEO talks DOJ inquiry: 'We stand by the accounting of those transactions'"
+    ],
+    "summary": "CrowdStrike's CEO, George Kurtz, expressed confidence in the company's financial stability amidst an ongoing government inquiry. The cybersecurity firm is currently under investigation, but Kurtz's statements suggest a positive outlook on the company's financial health during this period.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about the current status of CrowdStrike during a government inquiry. However, it does not offer any actionable insights or deeper understanding about the investigation or its potential impacts.",
+    "score_components": {
+      "magnitude": 0.579,
+      "recency": 0.712,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.534,
+    "normalized_score": 10.0
   },
   {
     "title": "Bombing Suspect Used AI Chat to Research Explosives",
@@ -468,40 +496,12 @@
     "constructiveness_reason": "While this story does increase awareness about the potential misuse of AI technology, it doesn't provide a deeper understanding or suggest any solutions to this issue. The information is somewhat useful, but it lacks depth and insight.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.839,
+      "recency": 0.71,
       "consensus": 0.283,
       "constructiveness": 0.5
     },
-    "score": 0.473,
-    "normalized_score": 6.18
-  },
-  {
-    "title": "Circle IPO Priced at $31/Share, Valuing Company at $6.8 Billion",
-    "domain": "business",
-    "location": "national",
-    "published": "Wed, 04 Jun 2025 23:13:16 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "snippets": [
-      "Circle, the issuer of one of the biggest stablecoins, priced its IPO at $31per share, above its expected range and giving it a market value of $6.8 billion."
-    ],
-    "image_url": "",
-    "titles": [
-      "Stablecoin issuer Circle prices IPO at $31 per share, above expected range, ahead of NYSE debut"
-    ],
-    "summary": "Circle, the company behind one of the largest stablecoins, has set its initial public offering (IPO) price at $31 per share, surpassing the anticipated range. This pricing values the company at $6.8 billion.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information for investors or those interested in the financial market. It does not report on solutions or improvements, but it does provide a deeper understanding of the company's valuation and its initial public offering.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.831,
-      "consensus": 0.283,
-      "constructiveness": 0.8
-    },
-    "score": 0.492,
-    "normalized_score": 8.31
+    "score": 0.447,
+    "normalized_score": 4.04
   },
   {
     "title": "Jared Isaacman Steps Down as Shift4 CEO, Eyes NASA Role",
@@ -524,96 +524,12 @@
     "constructiveness_reason": "This story provides useful information about leadership changes in a significant company and potential changes in NASA's leadership. However, it doesn't provide in-depth insights or discuss potential impacts or solutions related to this leadership change.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.829,
+      "recency": 0.701,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.472,
-    "normalized_score": 6.07
-  },
-  {
-    "title": "Circle Raises IPO Size Again, Valuation Hits $8.06 Billion",
-    "domain": "business",
-    "location": "global",
-    "published": "Wed, 04 Jun 2025 23:03:25 +0000",
-    "source": "Fortune",
-    "sources": [
-      "Fortune"
-    ],
-    "snippets": [
-      "Circle valued at $8.06 billion after stablecoin giant increases IPO deal size for second time."
-    ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/circle.jpg?w=2048",
-    "titles": [
-      "Circle raises $1.05 billion in long-awaited IPO, shares price at $31"
-    ],
-    "summary": "Circle, the company behind a major stablecoin, has raised its initial public offering (IPO) deal size for the second time, now valuing the company at $8.06 billion. This adjustment reflects the company's growing prominence in the cryptocurrency market.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story informs readers about the company's growing prominence in the cryptocurrency market, which is useful for investors and those interested in the field. However, it does not delve into the implications of this growth or potential future trends.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.829,
-      "consensus": 0.283,
-      "constructiveness": 0.6
-    },
-    "score": 0.481,
-    "normalized_score": 7.08
-  },
-  {
-    "title": "'Mad Money' Host Tips China's Interest in U.S. Gas, Planes, Turbines, Nvidia",
-    "domain": "business",
-    "location": "national",
-    "published": "Wed, 04 Jun 2025 23:02:13 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "snippets": [
-      "The 'Mad Money' host laid out a few U.S. exports China may want — natural gas, Boeing planes, turbines for power plants and Nvidia products."
-    ],
-    "image_url": "",
-    "titles": [
-      "Jim Cramer says Nvidia chips could give the U.S. leverage in the trade war with China"
-    ],
-    "summary": "The host of 'Mad Money' suggested that China might be interested in importing several U.S. products, including natural gas, Boeing airplanes, turbines for power plants, and Nvidia products. This selection highlights potential areas for increased trade between the U.S. and China.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful insights into potential areas for increased trade between the U.S. and China, which can help readers understand the dynamics of international trade. However, it doesn't highlight specific solutions or progress in the trade relationship.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.828,
-      "consensus": 0.283,
-      "constructiveness": 0.8
-    },
-    "score": 0.5,
-    "normalized_score": 9.21
-  },
-  {
-    "title": "Mel Stride Criticizes Opposition's Credibility Post-2022 Fiscal Event",
-    "domain": "business",
-    "location": "global",
-    "published": "Wed, 04 Jun 2025 23:01:40 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times"
-    ],
-    "snippets": [
-      "Mel Stride will say in speech that 2022 fiscal event ‘damaged credibility’ of main opposition party"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7fe00655-0962-4883-8e52-bd27966ec450.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Tory shadow chancellor to say sorry for Liz Truss mini-Budget"
-    ],
-    "summary": "Mel Stride is set to claim in an upcoming speech that the 2022 fiscal event significantly undermined the credibility of the main opposition party. This statement indicates a critical view on the impact of the fiscal decisions made during the event on the opposition's reputation.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness of Mel Stride's viewpoint on the opposition party's credibility after the 2022 fiscal event. However, it does not offer any detailed analysis or context about the fiscal decisions that led to this viewpoint, nor does it provide any actionable insights for the reader.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.828,
-      "consensus": 0.283,
-      "constructiveness": 0.3
-    },
-    "score": 0.441,
-    "normalized_score": 2.58
+    "score": 0.446,
+    "normalized_score": 3.97
   },
   {
     "title": "Musk's Reaction Tied to EV Tax Credit Removal in Trump Bill: Source",
@@ -636,40 +552,124 @@
     "constructiveness_reason": "This story provides useful context about Elon Musk's reaction to the removal of the EV tax credit in Trump's bill. However, it does not provide any deeper understanding of the implications of this removal for Tesla or the EV industry as a whole, nor does it report on any solutions or attempts to solve this problem.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.822,
+      "recency": 0.696,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.479,
-    "normalized_score": 6.85
+    "score": 0.454,
+    "normalized_score": 4.52
   },
   {
-    "title": "US Institution Found in Violation of Anti-Discrimination Laws Amid Protests",
+    "title": "Economic Activity Declines Since April 23, Report Shows",
     "domain": "business",
-    "location": "global",
-    "published": "Wed, 04 Jun 2025 22:32:42 GMT",
-    "source": "Financial Times",
+    "location": "national",
+    "published": "Wed, 04 Jun 2025 22:31:20 GMT",
+    "source": "CNBC",
     "sources": [
-      "Financial Times"
+      "CNBC"
     ],
     "snippets": [
-      "US government says institution violated anti-discrimination laws during pro-Palestine protests"
+      "The report noted that \"economic activity has declined slightly since the previous report\" released April 23."
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd751b72-aef7-4c25-95af-10e79de67133.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "",
     "titles": [
-      "Trump administration says Columbia fails to meet accreditation standards"
+      "Fed 'Beige Book' economic report cites declining growth, rising prices and slow hiring"
     ],
-    "summary": "The US government concluded that an institution breached anti-discrimination laws amid pro-Palestine protests. This finding underscores the legal implications of handling protests and the importance of adhering to anti-discrimination statutes. The specific details of the violation or the institution involved were not disclosed.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides some awareness about the legal implications of handling protests and the importance of adhering to anti-discrimination laws. However, it lacks depth and actionable insights due to the absence of specific details about the violation or the institution involved.",
+    "summary": "A recent report indicates that since April 23, there has been a slight decline in economic activity. This marks a change from the status reported on that date, signaling a downturn in economic performance.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story offers basic awareness about the recent decline in economic activity. However, it lacks depth or insight into the causes, impacts, or potential solutions to this downturn.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.82,
+      "recency": 0.693,
       "consensus": 0.283,
-      "constructiveness": 0.6
+      "constructiveness": 0.5
     },
-    "score": 0.47,
-    "normalized_score": 5.84
+    "score": 0.434,
+    "normalized_score": 3.15
+  },
+  {
+    "title": "Trump Photographed Boarding Marine One Sparks Wide Attention",
+    "domain": "business",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 21:51:41 GMT",
+    "source": "Investopedia",
+    "sources": [
+      "Investopedia"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Photo by Hu Yousong / Xinhua via Getty Images\" src=\"https://www.investopedia.com/thmb/Q6WgoApfNIHs0oYzQS00oaUZVr4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2217393619-9a7e5994212c4eb8a600f471b668c226.jpg\" title=\"U.S. President Donald Trump walks to board Marine One at the White House in Washington, D.C., the United States, on May 30, 2025. \" /><figcaption><i><p>Photo by Hu Yousong / Xinhua via Getty Images</p></i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>Business and community leaders throughout the country are having..."
+    ],
+    "image_url": "https://www.investopedia.com/thmb/Q6WgoApfNIHs0oYzQS00oaUZVr4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2217393619-9a7e5994212c4eb8a600f471b668c226.jpg",
+    "titles": [
+      "Fed: The Economy Is Slowing As 'Companies Can’t Figure Out the Rules of This Tariff Game'"
+    ],
+    "summary": "On May 30, 2025, U.S. President Donald Trump was photographed while walking to board Marine One at the White House in Washington, D.C. This event has drawn attention from various business and community leaders across the United States, indicating its significance in the current political and social climate. The photo, captured by Hu Yousong and distributed by Xinhua via Getty Images, underscores the ongoing engagement and scrutiny of President Trump's activities and movements.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story primarily focuses on a sensational event - the photographing of President Trump. It does not provide any actionable insights, solutions, or deeper understanding of the political or social climate.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.684,
+      "consensus": 0.283,
+      "constructiveness": 0.3
+    },
+    "score": 0.422,
+    "normalized_score": 2.33
+  },
+  {
+    "title": "Elon Musk Visits Oval Office on May 30, 2025",
+    "domain": "business",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 21:35:02 GMT",
+    "source": "Investopedia",
+    "sources": [
+      "Investopedia"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Kevin Dietsch / Getty Images Tesla CEO Elon Musk in the Oval Office on May 30, 2025\" src=\"https://www.investopedia.com/thmb/jNmeL4i4HMdv1mgHeL55uirKlms=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2217854519-2f930628d3594d40b5becae4c3ca14f4.jpg\" title=\"Tesla CEO Elon Musk in the Oval Office.\" /><figcaption><i><p>Kevin Dietsch / Getty Images</p> Tesla CEO Elon Musk in the Oval Office on May 30, 2025</i></figcaption></figure><p>Tesla (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;TSLA\">TSLA</a>) CEO Elon Musk on..."
+    ],
+    "image_url": "https://www.investopedia.com/thmb/jNmeL4i4HMdv1mgHeL55uirKlms=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2217854519-2f930628d3594d40b5becae4c3ca14f4.jpg",
+    "titles": [
+      "Tesla CEO Elon Musk Tells Congress To 'KILL the BILL'"
+    ],
+    "summary": "Elon Musk, CEO of Tesla, was in the Oval Office on May 30, 2025. The specific details of his visit or discussions were not provided in the content available.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness of an event, but offers no depth or insight into the purpose or outcomes of the visit. Without additional information, the reader is unable to gain a deeper understanding or actionable insights.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.68,
+      "consensus": 0.283,
+      "constructiveness": 0.3
+    },
+    "score": 0.412,
+    "normalized_score": 1.64
+  },
+  {
+    "title": "ECB Cuts Interest Rates, Confirms President Lagarde",
+    "domain": "business",
+    "location": "global",
+    "published": "Thu, 05 Jun 2025 16:00:50 GMT",
+    "source": "Investopedia",
+    "sources": [
+      "Investopedia"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Thomas Lohnes / Getty Images ECB President Christine Lagarde speaks to the media Thursday.\" src=\"https://www.investopedia.com/thmb/jyRg0RH78Y40o4ov8l2VKdqox6M=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2218770834-1b42ac00655441dbabc82e6ae676b110.jpg\" title=\"ECB President Christine Lagarde speaks to the media.\" /><figcaption><i><p>Thomas Lohnes / Getty Images</p> ECB President Christine Lagarde speaks to the media Thursday.</i></figcaption></figure><br /><h3>Key Takeaways</h3><ul><li>The European Central Bank lowered interest rates Thursday,..."
+    ],
+    "image_url": "https://www.investopedia.com/thmb/jyRg0RH78Y40o4ov8l2VKdqox6M=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2218770834-1b42ac00655441dbabc82e6ae676b110.jpg",
+    "titles": [
+      "The ECB Lowered Interest Rates Again. Trump Still Wants the Fed to Do the Same"
+    ],
+    "summary": "The European Central Bank (ECB) announced a reduction in interest rates on Thursday, as confirmed by ECB President Christine Lagarde during a media briefing. This move is part of the ECB's monetary policy actions.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story informs readers about the ECB's decision to cut interest rates, offering useful context about the bank's monetary policy actions. However, it doesn't report on how this decision might affect the economy or individuals, or what led to this decision, limiting its score.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.998,
+      "consensus": 0.283,
+      "constructiveness": 0.8
+    },
+    "score": 0.525,
+    "normalized_score": 9.38
   },
   {
     "title": "\"Discovery: Crystal Structures Morph to Boost Catalysis Efficiency at BESSY II\"",
@@ -692,12 +692,12 @@
     "constructiveness_reason": "This story is highly constructive as it reports a significant scientific discovery that could lead to advancements in catalysis technology. It provides useful insights into the potential impact of this discovery and increases awareness about the role of crystal structures in catalysis.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.814,
+      "recency": 0.689,
       "consensus": 0.283,
       "constructiveness": 0.9
     },
-    "score": 0.499,
-    "normalized_score": 9.1
+    "score": 0.474,
+    "normalized_score": 5.89
   },
   {
     "title": "MIT Develops Membrane to Cut Oil Refining Energy Use by Up to 90%",
@@ -720,12 +720,12 @@
     "constructiveness_reason": "The story is very constructive. It not only reports on an innovative solution developed by MIT researchers that could potentially reduce the energy consumption in oil refining, but also provides actionable insights into how this technology could be applied in the industry. It also raises awareness about the energy-intensive nature of oil refining.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.807,
+      "recency": 0.683,
       "consensus": 0.283,
       "constructiveness": 1.0
     },
-    "score": 0.507,
-    "normalized_score": 10.0
+    "score": 0.482,
+    "normalized_score": 6.44
   },
   {
     "title": "Unique \"Alien\" Chemistry Found in Earth's Largest Lithium Deposits",
@@ -748,40 +748,124 @@
     "constructiveness_reason": "This story is constructive as it offers a deeper understanding of the unique chemistry of lithium-rich brines, which could have implications for lithium extraction processes. However, it doesn't provide clear actionable insights or report on specific solutions or improvements related to this discovery.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.8,
+      "recency": 0.677,
       "consensus": 0.283,
       "constructiveness": 0.7
     },
-    "score": 0.476,
-    "normalized_score": 6.52
+    "score": 0.451,
+    "normalized_score": 4.32
   },
   {
-    "title": "Study Finds Both Male and Female Earwigs Exhibit Large Forceps Growth",
+    "title": "2035 Imagined: Humans Live Undersea, Explores Future Chronicles",
     "domain": "science",
     "location": "global",
-    "published": "Wed, 04 Jun 2025 20:10:01 EDT",
-    "source": "Phys.org",
+    "published": "Wed, 04 Jun 2025 19:00:00 +0100",
+    "source": "New Scientist",
     "sources": [
-      "Phys.org"
+      "New Scientist"
     ],
     "snippets": [
-      "A new study from Toho University reveals that female earwigs exhibit a similar pattern of exaggerated forceps growth as males, suggesting that both sexes may have evolved these traits through sexual selection."
+      "In this latest instalment of Future Chronicles, an imagined history of future inventions, we journey to 2035, when undersea living became a reality. Rowan Hooper tells us how it happened"
     ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/have-female-earwigs-ev.jpg",
+    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/06/03110856/SEI_252579972.jpg",
     "titles": [
-      "Female earwigs may also use their forceps as weapons in battles for mates"
+      "Could undersea living be the future as sea levels rise?"
     ],
-    "summary": "A study by Toho University found that both male and female earwigs show exaggerated growth in their forceps. This suggests that the trait may have evolved in both sexes through sexual selection, challenging previous beliefs that only males exhibited this feature.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information and contributes to a deeper understanding of the evolution of earwigs. However, it doesn't report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter on a broader scale.",
+    "summary": "The article from Future Chronicles imagines a scenario set in 2035 where living under the sea has become possible, as narrated by Rowan Hooper. This fictional account explores the technological advancements and societal shifts that enabled humans to inhabit the ocean floor.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story offers basic awareness of a potential future scenario, but as a fictional account, it doesn't provide actionable insights or real-world solutions. It could increase understanding of potential technological advancements, but without a clear connection to current trends or initiatives, its usefulness is limited.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.78,
+      "recency": 0.631,
+      "consensus": 0.283,
+      "constructiveness": 0.5
+    },
+    "score": 0.422,
+    "normalized_score": 2.33
+  },
+  {
+    "title": "\"Sperm Racing Sparks Public Interest, Faces CGI Hurdles for Legitimacy\"",
+    "domain": "science",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 19:00:00 +0100",
+    "source": "New Scientist",
+    "sources": [
+      "New Scientist"
+    ],
+    "snippets": [
+      "Feedback is amazed to see sperm racing touted as a new track sport, but it’s going to take a lot of CGI and other fakery to help it take off"
+    ],
+    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/06/03111549/SEI_254135288.jpg",
+    "titles": [
+      "Could a race between microscopic competitors be the next big thing?"
+    ],
+    "summary": "The concept of sperm racing as a new track sport has garnered amazement from the public. However, its success and acceptance as a legitimate sport would require significant use of CGI and other forms of digital enhancement.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "While the story provides basic awareness about a new concept, it does not provide much depth or insight. It fails to explain how this concept could impact or benefit the reader or society at large.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.631,
+      "consensus": 0.283,
+      "constructiveness": 0.3
+    },
+    "score": 0.402,
+    "normalized_score": 0.96
+  },
+  {
+    "title": "ADHD Podcast Hosts Stress Importance of Precise Language",
+    "domain": "science",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 19:00:00 +0100",
+    "source": "New Scientist",
+    "sources": [
+      "New Scientist"
+    ],
+    "snippets": [
+      "Being accurate in the language we use to describe conditions like ADHD matters, and can lead to better outcomes for those affected. The words we choose to use are important, say Alex Conner and James Brown, hosts of podcast The ADHD Adults"
+    ],
+    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/06/02110807/SEI_253690590.jpg",
+    "titles": [
+      "Why nobody is neurodiverse and nobody is neurotypical"
+    ],
+    "summary": "Alex Conner and James Brown, hosts of The ADHD Adults podcast, emphasize the importance of using accurate language when discussing ADHD. They argue that precise terminology can lead to improved outcomes for individuals with the condition. This perspective highlights the significance of word choice in the context of ADHD and its impact on those affected.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is highly constructive as it provides actionable insights on the importance of using precise language when discussing ADHD. It could potentially lead to improved outcomes for individuals with the condition, thus contributing to the reader's understanding and sense of agency.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.631,
+      "consensus": 0.283,
+      "constructiveness": 0.9
+    },
+    "score": 0.462,
+    "normalized_score": 5.07
+  },
+  {
+    "title": "Quantum Physics Book Criticized for Not Being User-Friendly",
+    "domain": "science",
+    "location": "global",
+    "published": "Wed, 04 Jun 2025 19:00:00 +0100",
+    "source": "New Scientist",
+    "sources": [
+      "New Scientist"
+    ],
+    "snippets": [
+      "A new book on quantum physics is pleasingly full of cutting-edge topics. Yet it isn't the accessible work it promised to be"
+    ],
+    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/06/02114857/SEI_253335553.jpg",
+    "titles": [
+      "Ambitious book on quantum physics still fails to be accessible"
+    ],
+    "summary": "A recent publication on quantum physics, despite covering a range of advanced topics, has not lived up to expectations of being user-friendly. Critics highlight that the book, which aimed to make complex subjects accessible to a broader audience, falls short in delivering on its promise of simplicity and comprehensibility.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides useful information for readers interested in quantum physics, especially those seeking accessible resources. However, it does not report on solutions to the problem or discuss the broader impacts of the issue.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.631,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.462,
-    "normalized_score": 4.94
+    "score": 0.432,
+    "normalized_score": 3.01
   },
   {
     "title": "Researchers Urge Moving Beyond Halting Extinction to Restoring Ecosystems",
@@ -804,95 +888,11 @@
     "constructiveness_reason": "This story is highly constructive. It provides actionable insights by suggesting a shift in focus from conservation to restoration. It reports on a potential solution to a global problem, thus offering a sense of progress. It also increases awareness about the state of the planet's ecosystems and the need for more ambitious environmental goals.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.746,
+      "recency": 0.631,
       "consensus": 0.283,
       "constructiveness": 1.0
     },
-    "score": 0.495,
-    "normalized_score": 8.65
-  },
-  {
-    "title": "Rivers Release Millennia-Old Carbon Due to Human Activity",
-    "domain": "science",
-    "location": "global",
-    "published": "Wed, 04 Jun 2025 17:00:59 +0100",
-    "source": "New Scientist",
-    "sources": [
-      "New Scientist"
-    ],
-    "snippets": [
-      "Carbon stored in landscapes for thousands of years is leaching back into the atmosphere via rivers, and human activity may be to blame"
-    ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/06/04112446/SEI_254171587.jpg",
-    "titles": [
-      "Rivers are leaking ancient carbon back into the atmosphere"
-    ],
-    "summary": "Recent studies have revealed that carbon, which has been stored in landscapes for millennia, is now being released back into the atmosphere through rivers. This phenomenon is largely attributed to human activities. The findings underscore the impact of human intervention on natural carbon cycles and highlight a potentially overlooked source of atmospheric carbon.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive, as it provides a deeper understanding of the impact of human activities on natural carbon cycles. It increases awareness about a potentially overlooked source of atmospheric carbon. However, it does not clearly highlight solutions or improvements, which would have made it more empowering for the reader.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.716,
-      "consensus": 0.283,
-      "constructiveness": 0.8
-    },
-    "score": 0.469,
-    "normalized_score": 5.73
-  },
-  {
-    "title": "Breakthrough in Boosting Brain's Waste Removal May Aid Neurodegenerative Disease",
-    "domain": "science",
-    "location": "global",
-    "published": "Wed, 04 Jun 2025 17:00:44 +0100",
-    "source": "New Scientist",
-    "sources": [
-      "New Scientist"
-    ],
-    "snippets": [
-      "The glymphatic system flushes out waste products from the brain – now scientists have found a way to boost it in mice, which could open treatment possibilities for neurodegenerative diseases"
-    ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/06/04150721/SEI_254273231.jpg",
-    "titles": [
-      "Massaging the neck and face may help flush waste out of the brain"
-    ],
-    "summary": "Scientists have discovered a method to enhance the glymphatic system's ability to remove waste products from the brain in mice. This advancement holds potential for developing treatments for neurodegenerative diseases by improving the brain's natural waste elimination processes.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story clearly highlights progress in the field of neurodegenerative disease research. It informs readers about a new scientific discovery that could potentially lead to new treatments for these diseases, thus providing actionable insights.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.715,
-      "consensus": 0.283,
-      "constructiveness": 0.9
-    },
-    "score": 0.488,
-    "normalized_score": 7.87
-  },
-  {
-    "title": "New Study Challenges Origins of Tuberculosis, Highlights Its Resilience",
-    "domain": "science",
-    "location": "global",
-    "published": "Wed, 04 Jun 2025 17:00:41 +0100",
-    "source": "New Scientist",
-    "sources": [
-      "New Scientist"
-    ],
-    "snippets": [
-      "Once thought to have originated in cows and spread through dust, the surprising evolutionary story of tuberculosis reveals why it's so hard to stamp out this ancient disease, writes Carl Zimmer"
-    ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/05/27111433/SEI_251394932.jpg",
-    "titles": [
-      "TB's extraordinary evolution reveals why the ancient disease lives on"
-    ],
-    "summary": "The evolutionary history of tuberculosis (TB), as discussed by Carl Zimmer, challenges the previous belief that TB originated in cows and was spread through dust. This new understanding of its complex origins explains the difficulty in eradicating the ancient disease, highlighting its resilience and adaptability over time.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about the origins of tuberculosis, challenging previous beliefs and increasing understanding of the disease's resilience. However, it doesn't offer any solutions or improvements, thus not scoring a full mark.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.715,
-      "consensus": 0.283,
-      "constructiveness": 0.8
-    },
-    "score": 0.469,
-    "normalized_score": 5.73
+    "score": 0.472,
+    "normalized_score": 5.75
   }
 ]
