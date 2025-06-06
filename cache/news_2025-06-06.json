@@ -20,12 +20,12 @@
     "constructiveness_reason": "This story is constructive as it informs readers about a significant legal decision that has implications for workplace discrimination claims. It increases awareness about the uniform approach to assessing such claims, which contributes to readers' understanding and decision-making, especially for those in the workforce.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.822,
+      "recency": 0.695,
       "consensus": 0.283,
       "constructiveness": 0.9
     },
-    "score": 0.509,
-    "normalized_score": 9.89
+    "score": 0.484,
+    "normalized_score": 5.93
   },
   {
     "title": "Musk Claims Trump Mentioned in Epstein Files on X",
@@ -48,152 +48,12 @@
     "constructiveness_reason": "This story offers basic awareness about a claim made by Elon Musk, but it lacks depth, insight, or actionable insights. It seems more focused on sensationalism and stirring controversy rather than providing useful information or clarity around the issue.",
     "score_components": {
       "magnitude": 0.429,
-      "recency": 0.765,
+      "recency": 0.647,
       "consensus": 0.283,
       "constructiveness": 0.3
     },
-    "score": 0.447,
-    "normalized_score": 3.0
-  },
-  {
-    "title": "California, 3 States Urge FDA to Ease Abortion Pill Restrictions",
-    "domain": "general",
-    "location": "national",
-    "published": "Thu, 5 Jun 2025 15:40:38 GMT",
-    "source": "LA Times",
-    "sources": [
-      "LA Times"
-    ],
-    "snippets": [
-      "<p>California and three other states have called on the FDA to ease restrictions on the abortion pill mifepristone, which they say has a strong safety record.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "California asks FDA to undo limits on abortion pill mifepristone amid RFK Jr. scrutiny"
-    ],
-    "summary": "California, along with three other states, has requested the FDA to loosen restrictions on the abortion pill mifepristone, citing its proven safety record.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about states' efforts to change FDA restrictions on an abortion pill. It increases awareness about the ongoing debate over abortion rights and the potential impacts of policy changes. However, it doesn't highlight specific solutions or progress, which prevents it from scoring higher.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.711,
-      "consensus": 0.283,
-      "constructiveness": 0.8
-    },
-    "score": 0.468,
-    "normalized_score": 5.33
-  },
-  {
-    "title": "Mexico Blames US-Made Guns for Violence, Faces Legal Hurdles",
-    "domain": "general",
-    "location": "national",
-    "published": "Thu, 5 Jun 2025 15:26:41 GMT",
-    "source": "LA Times",
-    "sources": [
-      "LA Times"
-    ],
-    "snippets": [
-      "<p>Mexico said American-made weapons are responsible for its gun violence, but U.S. laws bar suits against gun makers.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Supreme Court throws out Mexico's suit against U.S. gun makers in a unanimous decision"
-    ],
-    "summary": "Mexico attributes its gun violence issues to American-made weapons. However, U.S. legislation prevents legal action against gun manufacturers, limiting Mexico's options for addressing this concern through the American legal system.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story provides useful context about the role of US-made guns in Mexico's violence and the legal challenges Mexico faces in addressing this issue. However, it doesn't offer solutions or progress towards addressing the problem.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.707,
-      "consensus": 0.283,
-      "constructiveness": 0.7
-    },
-    "score": 0.457,
-    "normalized_score": 4.11
-  },
-  {
-    "title": "Claim Linking Trump to Embassy Shootings Lacks Evidence",
-    "domain": "general",
-    "location": "national",
-    "published": "Thu, 5 Jun 2025 10:00:00 GMT",
-    "source": "LA Times",
-    "sources": [
-      "LA Times"
-    ],
-    "snippets": [
-      "<p>Trump and his officials personify this ethos of cruelty, which has fueled the shooting deaths of two Israeli Embassy employees and hundreds of thousands of others in the U.S.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Contributor: Every shooting reflects our culture of violence, which the president cheers"
-    ],
-    "summary": "This summary inaccurately attributes the shooting deaths of two Israeli Embassy employees and numerous others in the U.S. directly to the actions and ethos of Trump and his officials. Such a claim lacks specific evidence and context in the provided content, making it speculative and potentially misleading.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about the claim but lacks depth or insight. It doesn't provide any useful information or context about the claim, and it doesn't offer any solutions or progress towards addressing the issue.",
-    "score_components": {
-      "magnitude": 0.429,
-      "recency": 0.631,
-      "consensus": 0.283,
-      "constructiveness": 0.3
-    },
-    "score": 0.42,
-    "normalized_score": 0.0
-  },
-  {
-    "title": "California Governor Candidates Debate Affordability Solutions",
-    "domain": "general",
-    "location": "national",
-    "published": "Thu, 5 Jun 2025 10:00:00 GMT",
-    "source": "LA Times",
-    "sources": [
-      "LA Times"
-    ],
-    "snippets": [
-      "<p>Democratic and GOP hopefuls lamented California's affordability crisis but diverged on solutions during the first bipartisan panel in the 2026 governor's race.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Candidates for California governor face off about affordability, high cost of living in first bipartisan clash"
-    ],
-    "summary": "During the first bipartisan panel of the 2026 California governor's race, both Democratic and GOP candidates addressed the state's affordability crisis. However, they offered different solutions to the problem, highlighting their divergent approaches to tackling the issue.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it provides useful insights into the different approaches the candidates are proposing to tackle California's affordability crisis. It also increases awareness about the issue and the potential solutions, contributing to the reader's understanding and decision-making.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.631,
-      "consensus": 0.283,
-      "constructiveness": 0.9
-    },
-    "score": 0.462,
-    "normalized_score": 4.67
-  },
-  {
-    "title": "Elon Musk and President Trump's Relationship Turns to Public Dispute",
-    "domain": "general",
-    "location": "national",
-    "published": "Thu, 05 Jun 2025 23:48:14 -0400",
-    "source": "ABC News",
-    "sources": [
-      "ABC News"
-    ],
-    "snippets": [
-      "Once a key member of President Donald Trump's inner circle, Elon Musk's relationship with the president has deteriorated into a bitter public feud."
-    ],
-    "image_url": "https://s.abcnews.com/images/US/elon-musk-1-rt-gmh-241220_1734720014258_hpMain_4x3t_384.jpg",
-    "titles": [
-      "From key adviser to bitter feud: A timeline of Musk and Trump's relationship"
-    ],
-    "summary": "Elon Musk, previously a significant figure in President Donald Trump's inner circle, has seen his relationship with the president evolve into a public dispute. This marks a notable shift from their earlier association to a current state of discord.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story offers basic awareness about the evolving relationship between Elon Musk and President Trump, but it lacks depth or insight into the reasons for the dispute or its potential impacts. It doesn't provide actionable insights or contribute meaningfully to the reader's understanding.",
-    "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.915,
-      "consensus": 0.283,
-      "constructiveness": 0.3
-    },
-    "score": 0.468,
-    "normalized_score": 5.33
+    "score": 0.423,
+    "normalized_score": 2.58
   },
   {
     "title": "New Zealand Butter Prices Surge 65%, Prompting Alternative Searches",
@@ -216,96 +76,152 @@
     "constructiveness_reason": "This story informs about the significant increase in butter prices in New Zealand, and how it's affecting residents' behavior. It provides useful insights into the impacts of the price surge and the measures people are taking to cope with it. However, it doesn't report on solutions or improvements to the issue.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.84,
+      "recency": 0.71,
       "consensus": 0.283,
       "constructiveness": 0.8
     },
-    "score": 0.494,
-    "normalized_score": 8.22
+    "score": 0.468,
+    "normalized_score": 5.05
   },
   {
-    "title": "Ex-UFC Fighters Share Predictions for Upcoming Fights",
-    "domain": "sports",
-    "location": "national",
-    "published": "Thu, 5 Jun 2025 23:36:17 EST",
-    "source": "ESPN",
+    "title": "U.S. Tightens Visa Rules for Chinese Students, Sparking Uncertainty",
+    "domain": "general",
+    "location": "global",
+    "published": "Thu, 05 Jun 2025 23:27:42 GMT",
+    "source": "The Guardian",
     "sources": [
-      "ESPN"
+      "The Guardian"
     ],
     "snippets": [
-      "Former UFC fighters give their predictions for the main and co-main events."
+      "<p>Across the US, hundreds of thousands of Chinese students are now uncertain about their academic future and some are considering moving away</p><p>Chinese students in the United States are questioning their future in the country after the state department announced last week that it would “aggressively” revoke visas for Chinese students and enhance scrutiny of future applications from China and Hong Kong.</p><p>Chinese students hoping to study at Harvard, the US’s oldest and wealthiest university, are under particular pressure after the Trump administration <a..."
     ],
-    "image_url": "",
+    "image_url": "https://i.guim.co.uk/img/media/245456d0a71b3c4ab5a2e09d1e353dad9e1ccf77/1132_0_5662_4530/master/5662.jpg?width=140&quality=85&auto=format&fit=max&s=09200d82e4532d03d2e37f051d7d7861",
     "titles": [
-      "UFC 316 expert picks, best bets: How can O'Malley take back Dvalishvili's title?"
+      "‘Total discrimination’: Chinese students facing US visa ban say their lives are in limbo"
     ],
-    "summary": "Former UFC fighters shared their predictions for the upcoming main and co-main events, offering insights based on their experiences and knowledge of the sport. While specific predictions vary, the consensus among the fighters highlights their expectations and analyses of the competitors' strengths and weaknesses. The outcome of these predictions will be tested during the actual events, where the fighters' expertise will be compared against the results.",
+    "summary": "Following the U.S. State Department's announcement to \"aggressively\" revoke visas for Chinese students and increase scrutiny on future applications from China and Hong Kong, many Chinese students in the U.S. are facing uncertainty about their academic futures. This decision has prompted a significant number of these students, including those aspiring to attend prestigious institutions like Harvard, to reconsider their plans to study in the United States.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful insights from former UFC fighters about upcoming events, which could help readers understand the sport better and make informed predictions. However, it doesn't report on solutions, improvements, or innovations, and it doesn't increase clarity around systems, causes, trends, or impacts.",
+    "constructiveness_reason": "This story provides useful information about changes in visa rules for Chinese students, which could impact their decision-making about studying in the U.S. However, it does not report on any solutions or improvements to this situation, nor does it provide a deep understanding of the reasons behind the decision or its potential impacts.",
     "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.838,
+      "magnitude": 0.409,
+      "recency": 0.707,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.451,
-    "normalized_score": 3.44
+    "score": 0.456,
+    "normalized_score": 4.4
   },
   {
-    "title": "Colorado Resolves to Overcome Recent Challenges",
-    "domain": "sports",
-    "location": "national",
-    "published": "Thu, 5 Jun 2025 23:35:51 EST",
-    "source": "ESPN",
+    "title": "Israel Criticized for Arming Group Labeled as Criminals",
+    "domain": "general",
+    "location": "global",
+    "published": "Thu, 05 Jun 2025 23:24:19 GMT",
+    "source": "BBC",
     "sources": [
-      "ESPN"
+      "BBC"
     ],
     "snippets": [
-      "Colorado has made headlines for all the wrong reasons so far, but the Rockies aren't giving up just yet."
+      "Israel has been criticised for giving weapons to a group of \"criminals and felons\"."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bca2/live/f75a8580-425a-11f0-bd62-978fc0ef9c71.jpg",
     "titles": [
-      "What it's like in the Rockies' clubhouse as they barrel toward the wrong kind of history"
+      "Netanyahu confirms Israel arming clans opposed to Hamas in Gaza"
     ],
-    "summary": "Colorado has faced significant challenges recently, attracting national attention. Despite these difficulties, the state's residents and leadership are determined to persevere and address the issues at hand.",
+    "summary": "Israel faces criticism for supplying weapons to a group identified as \"criminals and felons.\" The nature of the criticism or the specifics of the group involved were not detailed. The current status of this situation, including any response from Israel or actions taken, was not provided in the information available.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "The story provides basic awareness about the challenges faced by Colorado, but it lacks depth and insight. It doesn't provide specific information about what the challenges are, how they're being addressed, or how they impact the residents and the state.",
+    "constructiveness_reason": "While this story raises awareness about a potential issue, it lacks depth and insight. The specifics of the group involved, the nature of the criticism, and any response or actions from Israel are not detailed, limiting its usefulness and clarity.",
     "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.838,
+      "magnitude": 0.409,
+      "recency": 0.706,
       "consensus": 0.283,
       "constructiveness": 0.3
     },
-    "score": 0.421,
-    "normalized_score": 0.11
+    "score": 0.426,
+    "normalized_score": 2.75
   },
   {
-    "title": "Two Top Baseball Teams Face Decline in League Rankings",
-    "domain": "sports",
-    "location": "national",
-    "published": "Thu, 5 Jun 2025 23:35:51 EST",
-    "source": "ESPN",
+    "title": "Airstrikes Hit Hezbollah-Controlled Area in Beirut, Escalating Tensions",
+    "domain": "general",
+    "location": "global",
+    "published": "Thu, 05 Jun 2025 23:03:35 +0000",
+    "source": "New York Times",
     "sources": [
-      "ESPN"
+      "New York Times"
     ],
     "snippets": [
-      "While baseball's powerhouses battle for the top spot, two contenders continue their fall down our list."
+      "The airstrikes on the southern outskirts of the Lebanese capital, an area where Hezbollah holds sway, were some of the heaviest since a U.S.-brokered cease-fire came into effect in November."
     ],
-    "image_url": "",
+    "image_url": "https://static01.nyt.com/images/2025/06/05/multimedia/05int-israel-lebanon-photo-pvcm/05int-israel-lebanon-photo-pvcm-mediumSquareAt3X.jpg",
     "titles": [
-      "MLB Power Rankings: Are the Dodgers or Tigers No. 1 this week?"
+      "Israel Bombs Beirut Outskirts, Citing Hezbollah Drone Workshops"
     ],
-    "summary": "In the world of baseball, as dominant teams vie for supremacy, two competitive teams are experiencing a decline in their rankings. This shift reflects their current performance challenges within the league.",
+    "summary": "Airstrikes targeted the southern outskirts of Beirut, a region controlled by Hezbollah, marking some of the most intense military activity in the area since a U.S.-brokered cease-fire was established in November.",
     "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story offers basic awareness about the decline of two top baseball teams in league rankings, but it lacks depth or insight. It doesn't provide information about why these teams are declining, what the implications are, or how they plan to address the situation.",
+    "constructiveness_reason": "This story provides basic awareness about the escalating tensions in Beirut due to airstrikes, but it does not provide deeper understanding of the causes, trends, or impacts of this situation. There is no mention of any attempts to solve the problem or any actionable insights for the reader.",
     "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.838,
+      "magnitude": 0.659,
+      "recency": 0.701,
       "consensus": 0.283,
       "constructiveness": 0.5
     },
-    "score": 0.441,
-    "normalized_score": 2.33
+    "score": 0.558,
+    "normalized_score": 10.0
+  },
+  {
+    "title": "Rubio Names Judges Probing U.S. Military, Issuing Warrants Against Israeli Offic",
+    "domain": "general",
+    "location": "global",
+    "published": "Thu, 05 Jun 2025 22:36:55 +0000",
+    "source": "New York Times",
+    "sources": [
+      "New York Times"
+    ],
+    "snippets": [
+      "Secretary of State Marco Rubio said the four judges were responsible for investigations of the U.S. military and arrest warrants against top Israeli officials."
+    ],
+    "image_url": "https://static01.nyt.com/images/2025/06/05/multimedia/05dc-trump-icc-fthz/05dc-trump-icc-fthz-mediumSquareAt3X.jpg",
+    "titles": [
+      "State Dept. Imposes Sanctions on International Criminal Court Judges"
+    ],
+    "summary": "Secretary of State Marco Rubio identified four judges as being responsible for conducting investigations into the U.S. military and for issuing arrest warrants against high-ranking Israeli officials.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about the judges involved in investigations into the U.S. military and Israeli officials. However, it doesn't offer any insight into the implications of these investigations, the systems at play, or potential solutions or progress, limiting its constructiveness.",
+    "score_components": {
+      "magnitude": 0.429,
+      "recency": 0.695,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.463,
+    "normalized_score": 4.78
+  },
+  {
+    "title": "Council of Europe SG Calls for Careful Evolution of Human Rights Treaty",
+    "domain": "general",
+    "location": "global",
+    "published": "Thu, 05 Jun 2025 22:34:56 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "The Guardian"
+    ],
+    "snippets": [
+      "<p>Alain Berset acknowledged growing criticism of the 75-year-old treaty, but said any changes must also respect ‘our core values’</p><p>The European convention on human rights (ECHR) must adapt while continuing to uphold its core values, the head of a European rights council has said.</p><p>Alain Berset, the secretary general of the Council of Europe (CoE), acknowledged growing criticism of the 75-year-old treaty, but said reform should be approached with care and rooted in shared democratic principles.</p> <a..."
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/90943c36fd9b33512d88584ae8c11bdfb4c2f0dd/324_86_829_664/master/829.jpg?width=140&quality=85&auto=format&fit=max&s=62881db814804bcdcf9681aa428fdc64",
+    "titles": [
+      "Convention on human rights must adapt, says Council of Europe head"
+    ],
+    "summary": "Alain Berset, the Secretary General of the Council of Europe, stated that the European Convention on Human Rights (ECHR), a 75-year-old treaty, must evolve in response to increasing criticism. However, he emphasized that any changes should be carefully considered and must continue to reflect the treaty's foundational values of democracy and human rights. Berset's comments highlight the need for the ECHR to adapt while maintaining its core principles.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story clearly highlights a call for progress in the evolution of the European Convention on Human Rights. It provides useful knowledge about the need for the treaty to adapt while maintaining its core principles, contributing to the reader's understanding of the issue at hand.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.694,
+      "consensus": 0.283,
+      "constructiveness": 0.9
+    },
+    "score": 0.475,
+    "normalized_score": 5.44
   },
   {
     "title": "Players Signal Readiness in Pre-Game Tunnel Before Finals",
@@ -328,12 +244,12 @@
     "constructiveness_reason": "This story offers basic awareness about the pre-game rituals and psychological preparation of players before a major game. However, it lacks depth and does not provide actionable insights, solutions, or a deeper understanding of the systems or trends involved.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.836,
+      "recency": 0.707,
       "consensus": 0.283,
       "constructiveness": 0.3
     },
-    "score": 0.42,
-    "normalized_score": 0.0
+    "score": 0.395,
+    "normalized_score": 1.04
   },
   {
     "title": "NBA Finals Pit Two Teams in 40-Year Championship Drought",
@@ -356,152 +272,180 @@
     "constructiveness_reason": "This story provides useful context about the historical significance of the NBA Finals matchup, which could inform readers' understanding and anticipation of the event. However, it does not report on any solutions or improvements, nor does it provide a deeper understanding of the underlying systems or trends.",
     "score_components": {
       "magnitude": 0.339,
-      "recency": 0.836,
+      "recency": 0.707,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.451,
-    "normalized_score": 3.44
+    "score": 0.425,
+    "normalized_score": 2.69
   },
   {
-    "title": "Steelers Sign Aaron Rodgers to Boost Offense",
+    "title": "Top Hockey Players Gear Up for Selection Event on June 27-28",
     "domain": "sports",
     "location": "national",
-    "published": "Thu, 5 Jun 2025 19:39:14 EST",
+    "published": "Thu, 5 Jun 2025 16:37:58 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "The Steelers finally landed Rodgers after months of anticipation. But can the move actually improve the offense? Let's grade the signing."
+      "There is no hockey left to be played this season for the top players available June 27-28. Here's how they stack up."
     ],
     "image_url": "",
     "titles": [
-      "Aaron Rodgers to the Steelers -- finally: Grading the move, and whether he's actually an upgrade"
+      "Ranking the top 64 NHL draft prospects, including projected ceilings and floors"
     ],
-    "summary": "The Pittsburgh Steelers have successfully signed Aaron Rodgers following a period of extended anticipation. The acquisition aims to enhance the team's offensive capabilities. The effectiveness of this move in improving the offense is currently under analysis, with opinions on its impact varying.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "The story is useful as it provides information on the Steelers' decision to sign Aaron Rodgers, which is a strategic move to boost their offense. However, it lacks a detailed analysis or projection of the impact of this decision, which would have made it more constructive.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.772,
-      "consensus": 0.283,
-      "constructiveness": 0.7
-    },
-    "score": 0.448,
-    "normalized_score": 3.11
-  },
-  {
-    "title": "Rodgers' Style Clashes with Tomlin, Smith's Offensive Strategies",
-    "domain": "sports",
-    "location": "national",
-    "published": "Thu, 5 Jun 2025 19:39:14 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "Aaron Rodgers' playing style doesn't exactly fit the offense Mike Tomlin and Arthur Smith run."
-    ],
-    "image_url": "",
-    "titles": [
-      "Steelers built for prime Rodgers, but instead get older QB with questionable skills"
-    ],
-    "summary": "Aaron Rodgers' playing style is not compatible with the offensive strategies employed by coaches Mike Tomlin and Arthur Smith.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the compatibility between a player's style and coaches' strategies, which could inform readers' understanding of team dynamics and performance. However, it does not report on any solutions or improvements, nor does it provide a deeper understanding of the underlying systems or trends.",
-    "score_components": {
-      "magnitude": 0.339,
-      "recency": 0.772,
-      "consensus": 0.283,
-      "constructiveness": 0.6
-    },
-    "score": 0.438,
-    "normalized_score": 2.0
-  },
-  {
-    "title": "Coach Overcomes Player Losses, Maintains Winning Team Strategy",
-    "domain": "sports",
-    "location": "national",
-    "published": "Thu, 5 Jun 2025 18:38:23 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "The coach knows he's going to lose players each year to power conference programs. He's finding ways to win anyway."
-    ],
-    "image_url": "",
-    "titles": [
-      "'Like John Wayne': To succeed at Western Kentucky, Tyson Helton seeks gunslingers"
-    ],
-    "summary": "Despite the challenge of losing players annually to power conference programs, the coach has successfully implemented strategies to maintain a winning team. This approach demonstrates his adaptability and commitment to overcoming obstacles in the competitive sports landscape.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it highlights the coach's innovative strategy to overcome challenges and maintain a winning team. It provides insights into the coach's adaptability and commitment, which readers can apply in their own contexts.",
-    "score_components": {
-      "magnitude": 0.359,
-      "recency": 0.756,
-      "consensus": 0.283,
-      "constructiveness": 0.9
-    },
-    "score": 0.473,
-    "normalized_score": 5.89
-  },
-  {
-    "title": "Stock Drops After Anticipated Earnings Release",
-    "domain": "business",
-    "location": "national",
-    "published": "Thu, 05 Jun 2025 23:57:45 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "snippets": [
-      "Expectations were high coming into Thursday's earnings release, so the stock's pullback is hardly a surprise."
-    ],
-    "image_url": "",
-    "titles": [
-      "We're lifting our price target on Broadcom after its AI business impresses once again"
-    ],
-    "summary": "The stock experienced a decline following the Thursday earnings release, a development that was largely anticipated due to high expectations set prior to the announcement.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about a specific stock's performance after an earnings release. However, it lacks depth or insight into why the stock dropped, what the earnings report contained, or what it means for the company or investors in the long run.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.845,
-      "consensus": 0.283,
-      "constructiveness": 0.5
-    },
-    "score": 0.465,
-    "normalized_score": 5.0
-  },
-  {
-    "title": "Jake Mangum Debuts with Tampa Bay Rays Against Rockies",
-    "domain": "business",
-    "location": "global",
-    "published": "Thu, 05 Jun 2025 23:10:32 -0400",
-    "source": "Forbes",
-    "sources": [
-      "Forbes"
-    ],
-    "snippets": [
-      "When Jake Mangum took the field before the Rays’ March 30 game against the visiting Rockies, it was a moment that made the journey to his MLB debut well worth it."
-    ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6841e6837557006249b36485/0x0.jpg?width=960&precrop=2478%2C1394%2Cx0%2Cy52",
-    "titles": [
-      "Rookie Season Has Been Worth The Wait For Rays’ 29-Year-Old Jake Mangum"
-    ],
-    "summary": "Jake Mangum made his MLB debut with the Tampa Bay Rays in their game against the Colorado Rockies on March 30. This marked a significant milestone in Mangum's career, highlighting the culmination of his efforts to reach professional baseball.",
+    "summary": "The top hockey players have concluded their season and are now preparing for the upcoming event on June 27-28, where they will be available for selection or draft. This marks the end of their current hockey commitments and transitions them into the next phase of their careers.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "While it offers basic awareness about Jake Mangum's debut in MLB, it does not provide deeper insights or context about his journey or the significance of this achievement. It lacks actionable insights for the reader.",
+    "constructiveness_reason": "While this story provides basic awareness about an upcoming event, it offers minimal depth or insight into the implications of this event for the players, the sport, or the broader system of professional hockey.",
     "score_components": {
-      "magnitude": 0.409,
-      "recency": 0.903,
+      "magnitude": 0.339,
+      "recency": 0.614,
       "consensus": 0.283,
       "constructiveness": 0.3
     },
-    "score": 0.465,
-    "normalized_score": 5.0
+    "score": 0.376,
+    "normalized_score": 0.0
+  },
+  {
+    "title": "Tennessee Coach Embraces Unconventional Methods for Team Creativity",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 6 Jun 2025 11:42:40 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Why the Tennessee head coach won't have himself or his players color inside the lines."
+    ],
+    "image_url": "",
+    "titles": [
+      "How Tony Vitello became a Tennessee Orange axe, splitting the college baseball community"
+    ],
+    "summary": "The Tennessee head coach has adopted an unconventional approach, encouraging creativity and original thinking by not enforcing strict adherence to traditional rules or boundaries in strategy and play. This method aims to foster a more dynamic and adaptable team, challenging players to think outside the box and develop unique solutions on the field. This coaching philosophy is a departure from conventional coaching methods, emphasizing individuality and innovation in the game.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is highly constructive as it provides the reader with an understanding of an innovative approach to coaching. It highlights a solution (creative thinking and rule-breaking) to a problem (lack of dynamism and adaptability in teams), and empowers the reader with the knowledge of this unique coaching philosophy.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.913,
+      "consensus": 0.283,
+      "constructiveness": 0.9
+    },
+    "score": 0.496,
+    "normalized_score": 6.59
+  },
+  {
+    "title": "Manchester United Ups Bid for Brentford's Mbeumo: ESPN Sources",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 6 Jun 2025 11:41:38 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Manchester United have upped their offer for Brentford forward Bryan Mbeumo, sources have told ESPN."
+    ],
+    "image_url": "",
+    "titles": [
+      "Sources: Man Utd increase offer for Mbeumo"
+    ],
+    "summary": "Manchester United has increased their bid for Brentford's forward Bryan Mbeumo, according to information from ESPN sources.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about a potential player transfer, but it lacks depth or insight into why this move is significant or what implications it might have. It doesn't provide actionable insights or deeper understanding for the reader.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.913,
+      "consensus": 0.283,
+      "constructiveness": 0.3
+    },
+    "score": 0.436,
+    "normalized_score": 3.3
+  },
+  {
+    "title": "Gabriel Magalhães Signs New Four-Year Contract with Arsenal",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 6 Jun 2025 11:41:38 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Arsenal defender Gabriel Magalhães has signed a new long-term contract, keeping him at the club for four years."
+    ],
+    "image_url": "",
+    "titles": [
+      "Arsenal's Gabriel signs new four-year contract"
+    ],
+    "summary": "Arsenal defender Gabriel Magalhães has secured a new four-year contract with the club, ensuring his stay at Arsenal for an extended period. This move reaffirms the club's commitment to retaining key players as part of their long-term strategy.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs about a key player's contract renewal, which could be useful for fans or those interested in the club's strategy. It provides some context about the club's commitment to retain key players, but doesn't go into depth about the impacts or trends of such decisions in the football industry.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.913,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.466,
+    "normalized_score": 4.95
+  },
+  {
+    "title": "David Beckham to Be Knighted for Football, Charity Work",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 6 Jun 2025 11:41:38 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Manchester United legend David Beckham will be given a knighthood in King Charles' birthday honors list, according to British media reports."
+    ],
+    "image_url": "",
+    "titles": [
+      "Reports: David Beckham to be given knighthood"
+    ],
+    "summary": "British media reports indicate that David Beckham, a Manchester United football legend, will receive a knighthood as part of King Charles' birthday honors list. This recognition is in acknowledgment of his contributions to football and his various charitable efforts over the years.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about David Beckham's knighthood and his contributions to football and charity. However, it doesn't offer much depth or insight into the impact of his work, how he achieved it, or how readers can learn from or apply this information.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.913,
+      "consensus": 0.283,
+      "constructiveness": 0.5
+    },
+    "score": 0.456,
+    "normalized_score": 4.4
+  },
+  {
+    "title": "Lyon's Matic, Le Havre's Hassan Suspended for Anti-Homophobia Sign Cover-Up",
+    "domain": "sports",
+    "location": "national",
+    "published": "Fri, 6 Jun 2025 11:41:38 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Lyon's Nemanja Matic and Le Havre's Ahmed Hassan have been handed two-game bans after they concealed Ligue 1's anti-homophobia sign on their shirts."
+    ],
+    "image_url": "",
+    "titles": [
+      "Matic, Hassan banned for hiding anti-LGBTQ+ sign"
+    ],
+    "summary": "Nemanja Matic of Lyon and Ahmed Hassan of Le Havre received two-game suspensions for covering the anti-homophobia sign on their Ligue 1 shirts. This action led to disciplinary measures to uphold the league's stance against homophobia.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story informs readers about the disciplinary measures taken against two football players for covering the anti-homophobia sign on their shirts. It provides useful context on the league's stance against homophobia, but it doesn't report on solutions or improvements to combat homophobia in sports.",
+    "score_components": {
+      "magnitude": 0.339,
+      "recency": 0.913,
+      "consensus": 0.283,
+      "constructiveness": 0.8
+    },
+    "score": 0.486,
+    "normalized_score": 6.04
   },
   {
     "title": "Jim Cramer Suggests Reviewing 52-Week High Stocks for Market Insights",
@@ -524,40 +468,12 @@
     "constructiveness_reason": "This story is useful as it provides actionable insights for investors on how to discern market trends and themes. However, it does not report on solutions, improvements, or attempts to solve problems, which prevents it from scoring higher.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.83,
+      "recency": 0.702,
       "consensus": 0.283,
       "constructiveness": 0.8
     },
-    "score": 0.492,
-    "normalized_score": 8.0
-  },
-  {
-    "title": "Texas Tech Edges Texas 4-3 in Women's College World Series Game",
-    "domain": "business",
-    "location": "global",
-    "published": "Thu, 05 Jun 2025 23:06:12 -0400",
-    "source": "Forbes",
-    "sources": [
-      "Forbes"
-    ],
-    "snippets": [
-      "In game two of the Women’s College World Series, a battle ensued between the Texas Longhorns and Texas Tech Red Raiders that saw the Red Raiders prevail, 4-3."
-    ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68425284cf0871c2a8719fdb/0x0.jpg?width=960",
-    "titles": [
-      "Texas Tech Forces Game 3, Raising WCWS Stakes And Media Value"
-    ],
-    "summary": "In the second game of the Women's College World Series, the Texas Tech Red Raiders defeated the Texas Longhorns with a close score of 4-3. This victory marks a significant win for the Red Raiders in the series.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story simply reports the outcome of a game, providing minimal depth or insight into the strategies employed, the performance of the players, or the implications of the result. It does not offer actionable insights or a deeper understanding for the reader.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.902,
-      "consensus": 0.283,
-      "constructiveness": 0.3
-    },
-    "score": 0.456,
-    "normalized_score": 4.0
+    "score": 0.466,
+    "normalized_score": 4.95
   },
   {
     "title": "Broadcom's Growth Fueled by AI Business Success",
@@ -580,40 +496,12 @@
     "constructiveness_reason": "This story is highly constructive as it highlights the progress and success of Broadcom's AI business. It provides readers with a deeper understanding of the company's growth and the impact of the AI sector on its financial performance. The story could be even more constructive if it provided more context about the AI industry or offered insights into Broadcom's future plans.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.828,
+      "recency": 0.701,
       "consensus": 0.283,
       "constructiveness": 0.9
     },
-    "score": 0.51,
-    "normalized_score": 10.0
-  },
-  {
-    "title": "Sabrina Carpenter Drops New Single \"Manchild\" After 2024 Album Success",
-    "domain": "business",
-    "location": "global",
-    "published": "Thu, 05 Jun 2025 23:00:06 -0400",
-    "source": "Forbes",
-    "sources": [
-      "Forbes"
-    ],
-    "snippets": [
-      "Sabrina Carpenter is back with a new single, \"Manchild,\" following up her 2024 breakout album 'Short n' Sweet.'"
-    ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6842828042fc8b15db5dbb08/0x0.jpg?width=960",
-    "titles": [
-      "Sabrina Carpenter Releases Summer-Ready Single ‘Manchild’"
-    ],
-    "summary": "Sabrina Carpenter has released a new single titled \"Manchild.\" This follows her successful 2024 album 'Short n' Sweet.' The release marks Carpenter's latest musical endeavor since her album's acclaim.",
-    "constructiveness_score": 0.2,
-    "constructiveness_reason": "The story provides basic information about Sabrina Carpenter's new single release, but it doesn't offer any depth, actionable insights, or a deeper understanding of the subject. It also doesn't report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.9,
-      "consensus": 0.283,
-      "constructiveness": 0.2
-    },
-    "score": 0.446,
-    "normalized_score": 2.89
+    "score": 0.485,
+    "normalized_score": 5.99
   },
   {
     "title": "Companies Announce Layoffs, Cite AI as Factor in Cost-Cutting Measures",
@@ -636,40 +524,152 @@
     "constructiveness_reason": "The story provides a deeper understanding of how AI is impacting job markets and informs about the ongoing trend of AI-induced layoffs. However, it lacks in offering solutions or improvements to the problem.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.822,
+      "recency": 0.695,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.479,
-    "normalized_score": 6.56
+    "score": 0.454,
+    "normalized_score": 4.29
   },
   {
-    "title": "Dogecoin Value Drops Amid Musk-Trump Public Dispute",
+    "title": "Retailer Launches Drone Delivery in Arkansas, Eyes Dallas Expansion",
     "domain": "business",
     "location": "national",
-    "published": "Thu, 05 Jun 2025 22:33:53 GMT",
+    "published": "Thu, 05 Jun 2025 21:59:15 GMT",
     "source": "CNBC",
     "sources": [
       "CNBC"
     ],
     "snippets": [
-      "Dogecoin tumbled Thursday as Elon Musk's feud with President Donald Trump spilled into public view and their alliance quickly crumbled."
+      "The big-box retailer has already tested drone deliveries in Arkansas and expanded them in the Dallas-Forth Worth area."
     ],
     "image_url": "",
     "titles": [
-      "Musk's feud with Trump and exit from DOGE are really bad for Dogecoin"
+      "Walmart plans to expand drone deliveries to three more states"
     ],
-    "summary": "Dogecoin's value fell on Thursday amid a public dispute between Elon Musk and President Donald Trump, leading to the dissolution of their previous alliance.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story offers basic awareness about the volatility of cryptocurrency and how public disputes can affect their value. However, it lacks depth or actionable insights for the reader.",
+    "summary": "The big-box retailer has initiated drone delivery services, initially testing them in Arkansas before expanding operations to the Dallas-Fort Worth area. This development marks a significant step in the retailer's efforts to enhance its delivery capabilities.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story clearly highlights progress and innovation in the field of delivery services. It provides useful information about the retailer's plans and could potentially influence decision-making for those in the industry or consumers in the mentioned areas.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.82,
+      "recency": 0.686,
+      "consensus": 0.283,
+      "constructiveness": 0.9
+    },
+    "score": 0.482,
+    "normalized_score": 5.82
+  },
+  {
+    "title": "US President Considers Ending Contracts with Billionaire's Firms",
+    "domain": "business",
+    "location": "global",
+    "published": "Thu, 05 Jun 2025 21:49:27 GMT",
+    "source": "Financial Times",
+    "sources": [
+      "Financial Times"
+    ],
+    "snippets": [
+      "US president signals he may cut billionaire’s contracts with the federal government"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faafec00d-f4bb-450f-9b97-2fda87c61afe.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Trump attacks ‘crazy’ Musk as relationship implodes"
+    ],
+    "summary": "The US President has indicated a possibility of terminating contracts between the federal government and a billionaire's businesses. This move suggests a significant shift in the government's dealings with the billionaire's enterprises, although specific reasons for this potential action were not disclosed. The outcome of these signals remains to be seen as any decisions to cut contracts would impact both the federal government's operations and the billionaire's business interests.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides useful information about a potential shift in the government's dealings with a billionaire's businesses. However, it doesn't provide clear reasons for this potential action or its implications for the readers, limiting its usefulness and depth.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.684,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.452,
+    "normalized_score": 4.18
+  },
+  {
+    "title": "Broadcom Hits Record Revenue from Surge in AI Chip Sales",
+    "domain": "business",
+    "location": "global",
+    "published": "Thu, 05 Jun 2025 21:07:15 GMT",
+    "source": "Investopedia",
+    "sources": [
+      "Investopedia"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Bloomberg / Getty Images\" src=\"https://www.investopedia.com/thmb/R00s8QZO0KHELkXDn0X6Cx694cs=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-22177253761-e10ddb16fc4945c8be161b57fd0177fa.jpg\" title=\"Broadcom headquarters.\" /><figcaption><i><p>Bloomberg / Getty Images</p></i></figcaption></figure><p>Broadcom (<a href=\"https://www.investopedia.com/markets/quote?tvwidgetsymbol&#61;AVGO\">AVGO</a>) on Thursday posted record quarterly revenue, thanks in part to growth in AI semiconductor revenue.</p><p>The chipmaker reported fiscal second-quarter..."
+    ],
+    "image_url": "https://www.investopedia.com/thmb/R00s8QZO0KHELkXDn0X6Cx694cs=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-22177253761-e10ddb16fc4945c8be161b57fd0177fa.jpg",
+    "titles": [
+      "Broadcom Posts Record Quarterly Revenue, 'Driven by Robust Demand for AI'"
+    ],
+    "summary": "Broadcom (AVGO) announced a record quarterly revenue, driven by an increase in AI semiconductor sales. This financial achievement highlights the company's growth in the tech sector.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "While the story does provide useful information about Broadcom's financial success, it doesn't delve into why AI chip sales are increasing or what this could mean for the tech industry as a whole. It provides a basic understanding but lacks depth and actionable insights.",
+    "score_components": {
+      "magnitude": 0.409,
+      "recency": 0.674,
+      "consensus": 0.283,
+      "constructiveness": 0.6
+    },
+    "score": 0.45,
+    "normalized_score": 4.07
+  },
+  {
+    "title": "Elon Musk Resigns from Government Efficiency Role",
+    "domain": "business",
+    "location": "global",
+    "published": "Thu, 05 Jun 2025 21:00:31 GMT",
+    "source": "Investopedia",
+    "sources": [
+      "Investopedia"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Tom Brenner / The Washington Post / Getty Images Elon Musk officially left his role in the Department of Government Efficiency last week.\" src=\"https://www.investopedia.com/thmb/_AhtRV0Thd5u7hzyy4lv3sq15jQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2217198082-9ff045be4fef4628a3c37d93680bf6dc.jpg\" title=\"President Donald Trump holds a news conference with Elon Musk to mark the end of the Tesla CEO's tenure as a special government employee.\" /><figcaption><i><p>Tom Brenner / The Washington Post / Getty Images</p> Elon Musk officially left his..."
+    ],
+    "image_url": "https://www.investopedia.com/thmb/_AhtRV0Thd5u7hzyy4lv3sq15jQ=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2217198082-9ff045be4fef4628a3c37d93680bf6dc.jpg",
+    "titles": [
+      "Trump-Musk Rift Costs Tesla a Spot in $1 Trillion Club"
+    ],
+    "summary": "Elon Musk has officially resigned from his role in the Department of Government Efficiency, as confirmed by a news conference with President Donald Trump marking the end of Musk's tenure as a special government employee. This development was documented last week, indicating a closure to Musk's direct involvement in governmental advisory capacities.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "The story offers basic awareness about Elon Musk's resignation from his government role. However, it doesn't provide any insight into why he resigned, what impact his resignation might have, or what this means for the future of governmental efficiency. The story lacks depth and actionable insights.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.672,
       "consensus": 0.283,
       "constructiveness": 0.3
     },
+    "score": 0.41,
+    "normalized_score": 1.87
+  },
+  {
+    "title": "MongoDB's Atlas Hits 6-Year High in Net Additions Amid Growing Demand",
+    "domain": "business",
+    "location": "global",
+    "published": "Thu, 05 Jun 2025 20:31:38 GMT",
+    "source": "Investopedia",
+    "sources": [
+      "Investopedia"
+    ],
+    "snippets": [
+      "<figure><img alt=\"Cheng Xin / Getty Images MongoDB's Atlas multi-cloud database subscription offering saw its most net additions in six years\" src=\"https://www.investopedia.com/thmb/T7V5kDSYRnD3nyb1HLpXoSiqDRM=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2218096478-ed8bab45e72544c7b878b125a99c5c7e.jpg\" title=\"MongoDB logo displayed on a smartphone screen.\" /><figcaption><i><p>Cheng Xin / Getty Images</p> MongoDB's Atlas multi-cloud database subscription offering saw its most net additions in six years</i></figcaption></figure><br /><h3>Key..."
+    ],
+    "image_url": "https://www.investopedia.com/thmb/T7V5kDSYRnD3nyb1HLpXoSiqDRM=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2218096478-ed8bab45e72544c7b878b125a99c5c7e.jpg",
+    "titles": [
+      "MongoDB Stock Rallies as Analysts Raise Price Targets on Strong Quarterly Results"
+    ],
+    "summary": "MongoDB's Atlas, a multi-cloud database subscription service, achieved its highest number of net additions in six years. This milestone underscores the growing demand and success of MongoDB's Atlas offering in the competitive cloud database market.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story informs readers about the success of MongoDB's Atlas service in the competitive cloud database market. However, it could be more constructive if it provided more context about why there is growing demand for this service and what this means for the future of the cloud database market.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.665,
+      "consensus": 0.283,
+      "constructiveness": 0.7
+    },
     "score": 0.449,
-    "normalized_score": 3.22
+    "normalized_score": 4.01
   },
   {
     "title": "Study Shows Caffeine Keeps Brain Partially Awake During Sleep",
@@ -692,12 +692,12 @@
     "constructiveness_reason": "This story is highly constructive as it offers actionable insights (considering caffeine intake for better sleep health), reports on new research, and increases awareness about the impact of caffeine on sleep. It provides empowering knowledge to the reader.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.809,
+      "recency": 0.684,
       "consensus": 0.283,
       "constructiveness": 0.9
     },
-    "score": 0.507,
-    "normalized_score": 9.67
+    "score": 0.482,
+    "normalized_score": 5.82
   },
   {
     "title": "Study Finds Cancer-Causing Chemicals in Beauty Products for Black, Latina Women",
@@ -720,12 +720,12 @@
     "constructiveness_reason": "This story is constructive as it raises awareness about a significant health risk, particularly for Black and Latina women. It provides useful information about the presence of harmful chemicals in commonly used beauty products. However, it does not offer solutions or alternatives, which would have increased its score.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.799,
+      "recency": 0.676,
       "consensus": 0.283,
       "constructiveness": 0.8
     },
-    "score": 0.486,
-    "normalized_score": 7.33
+    "score": 0.461,
+    "normalized_score": 4.67
   },
   {
     "title": "Taurine Supplements May Not Extend Human Lifespan, Study Suggests",
@@ -748,12 +748,12 @@
     "constructiveness_reason": "The story provides useful insight into the effects of taurine supplements on human lifespan, based on a recent study. It helps to debunk the misconception that taurine supplements may extend human lifespan. However, it does not provide a broader context or discuss potential implications or alternative solutions.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.762,
+      "recency": 0.645,
       "consensus": 0.283,
       "constructiveness": 0.6
     },
-    "score": 0.458,
-    "normalized_score": 4.22
+    "score": 0.435,
+    "normalized_score": 3.24
   },
   {
     "title": "Nanoparticle Injection Partially Restores Vision in Blind Mice",
@@ -776,40 +776,12 @@
     "constructiveness_reason": "This story is highly constructive as it reports on a significant scientific breakthrough in vision restoration. It provides a sense of progress in the field of medical research and offers hope for future solutions to vision impairment in humans. The story increases understanding of the potential benefits of nanoparticle use in medical treatments.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.762,
+      "recency": 0.645,
       "consensus": 0.283,
       "constructiveness": 0.9
     },
-    "score": 0.488,
-    "normalized_score": 7.56
-  },
-  {
-    "title": "New Evidence in 700-Year-Old Murder of Priest Uncovered by Criminologist",
-    "domain": "science",
-    "location": "global",
-    "published": "Thu, 05 Jun 2025 20:00:01 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "snippets": [
-      "A Cambridge criminologist has uncovered new evidence in the killing of a priest, John Forde, who had his throat cut on a busy London street almost seven centuries ago."
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/medieval-murder-record.jpg",
-    "titles": [
-      "Medieval murder: Records suggest vengeful noblewoman had priest assassinated in 688-year-old cold case"
-    ],
-    "summary": "A Cambridge criminologist has discovered new evidence regarding the murder of priest John Forde, who was killed by having his throat slashed on a crowded London street nearly 700 years ago. This breakthrough provides fresh insights into a historical case that has remained unresolved for centuries.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "While this story provides deeper understanding into a historical case, it does not offer actionable insights or clarity around systems, causes, or impacts that matter in the present day. It does, however, provide a useful context for the field of criminology.",
-    "score_components": {
-      "magnitude": 0.389,
-      "recency": 0.778,
-      "consensus": 0.283,
-      "constructiveness": 0.6
-    },
-    "score": 0.461,
-    "normalized_score": 4.56
+    "score": 0.465,
+    "normalized_score": 4.89
   },
   {
     "title": "Nuclear Fusion Faces Hurdle with Lithium Shortage, Mercury Concerns",
@@ -832,12 +804,12 @@
     "constructiveness_reason": "This story clearly highlights a problem (lithium shortage and mercury concerns) in the progress of nuclear fusion technology. It increases awareness about the environmental and health impacts of increasing lithium production, and the challenges in developing nuclear fusion as a future energy source.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.716,
+      "recency": 0.606,
       "consensus": 0.283,
       "constructiveness": 0.9
     },
-    "score": 0.479,
-    "normalized_score": 6.56
+    "score": 0.457,
+    "normalized_score": 4.45
   },
   {
     "title": "Brain Regions Linked to Distinguishing Reality Found, May Aid Treatment",
@@ -860,39 +832,67 @@
     "constructiveness_reason": "This story is highly constructive as it reports on a scientific innovation that could lead to improved treatments for visual hallucinations. It provides useful insights into how the brain works and contributes to the reader's understanding of neuroscience and mental health.",
     "score_components": {
       "magnitude": 0.409,
-      "recency": 0.716,
+      "recency": 0.606,
       "consensus": 0.283,
       "constructiveness": 1.0
     },
-    "score": 0.498,
-    "normalized_score": 8.67
+    "score": 0.476,
+    "normalized_score": 5.49
   },
   {
-    "title": "Nematode Worms Form Tentacle-like Structures for Mobility",
+    "title": "Ancient 7,000-Year-Old Monuments Found in South Arabia Shed Light on Early Socie",
     "domain": "science",
     "location": "global",
-    "published": "Thu, 05 Jun 2025 17:00:23 +0100",
-    "source": "New Scientist",
+    "published": "Thu, 05 Jun 2025 16:39:37 +0000",
+    "source": "SciTechDaily",
     "sources": [
-      "New Scientist"
+      "SciTechDaily"
     ],
     "snippets": [
-      "Thousands of tiny nematode worms can join up to form tentacle-like towers that can straddle large gaps or hitch rides on larger animals"
+      "<a href=\"https://scitechdaily.com/7000-year-old-stone-monuments-reveal-secrets-of-ancient-survival-and-social-bonds/\" rel=\"nofollow\" title=\"7,000-Year-Old Stone Monuments Reveal Secrets of Ancient Survival and Social Bonds\"><img alt=\"Researchers Examine Ancient Platform Monument Built by Large Groups in a Single Event in South Arabia\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"520\" src=\"https://scitechdaily.com/images/Researchers-Examine-Ancient-Platform-Monument-Built-by-Large-Groups-in-a-Single-Event-in-South-Arabia-777x520.jpg\" style=\"display: block; margin: auto; margin-bottom:..."
     ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/06/04120017/SEI_254249096.jpg",
+    "image_url": "",
     "titles": [
-      "Worms team up to form tentacles when they want to go places"
+      "7,000-Year-Old Stone Monuments Reveal Secrets of Ancient Survival and Social Bonds"
     ],
-    "summary": "Researchers have discovered that thousands of tiny nematode worms can collaborate to form structures resembling tentacles. These structures enable the worms to bridge significant gaps or attach themselves to larger animals for transportation. This finding highlights a novel form of collective behavior and mobility among nematodes.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides a deeper understanding of collective behavior and mobility among nematodes. It is useful for readers interested in biology or natural sciences, but it does not report on solutions, improvements, or innovations, nor does it increase awareness around systems, causes, trends, or impacts that have broader societal relevance.",
+    "summary": "Researchers have discovered 7,000-year-old stone monuments in South Arabia, which provide insights into ancient survival strategies and social structures. These platform monuments, built by large groups in a single event, suggest complex social interactions and the importance of collective efforts for survival in ancient communities. The findings highlight the significance of these structures in understanding the social and environmental challenges faced by early human societies.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is highly constructive as it provides readers with a deeper understanding of ancient survival strategies and social structures. It highlights the significance of these structures in understanding the social and environmental challenges faced by early human societies, thus contributing to the reader's knowledge.",
     "score_components": {
       "magnitude": 0.389,
-      "recency": 0.716,
+      "recency": 0.614,
       "consensus": 0.283,
-      "constructiveness": 0.8
+      "constructiveness": 0.9
     },
-    "score": 0.469,
-    "normalized_score": 5.44
+    "score": 0.459,
+    "normalized_score": 4.56
+  },
+  {
+    "title": "New Stegosaur Group Discovered, Redefining Dinosaur Evolution",
+    "domain": "science",
+    "location": "global",
+    "published": "Thu, 05 Jun 2025 16:06:48 +0000",
+    "source": "SciTechDaily",
+    "sources": [
+      "SciTechDaily"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/150-million-year-old-stegosaurus-skull-rewrites-dinosaur-evolution/\" rel=\"nofollow\" title=\"150-Million-Year-Old Stegosaurus Skull Rewrites Dinosaur Evolution\"><img alt=\"Illustration of Dacentrurus armatus\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"779\" src=\"https://scitechdaily.com/images/Illustration-of-Dacentrurus-armatus-777x779.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>A rare stegosaurian skull discovery in Spain redefines dinosaur evolution and unveils a new group, Neostegosauria. Paleontologists from the..."
+    ],
+    "image_url": "",
+    "titles": [
+      "150-Million-Year-Old Stegosaurus Skull Rewrites Dinosaur Evolution"
+    ],
+    "summary": "A 150-million-year-old stegosaurus skull found in Spain has led paleontologists to redefine dinosaur evolution, introducing a new group called Neostegosauria. This discovery challenges previous understandings and adds significant new insights into the diversity and evolutionary history of stegosaurs.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is constructive as it reports on a new discovery that redefines our understanding of dinosaur evolution. It provides actionable insights into the diversity and evolutionary history of stegosaurs, thus contributing to the reader's understanding and knowledge in the field of paleontology.",
+    "score_components": {
+      "magnitude": 0.389,
+      "recency": 0.607,
+      "consensus": 0.283,
+      "constructiveness": 0.9
+    },
+    "score": 0.457,
+    "normalized_score": 4.45
   }
 ]
