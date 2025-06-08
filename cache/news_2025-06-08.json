@@ -20,12 +20,12 @@
     "constructiveness_reason": "While the story does not provide solutions or progress, it does increase awareness about the issue of cross-border arms trafficking. However, it lacks actionable insights or deeper understanding for the reader.",
     "score_components": {
       "magnitude": 0.159,
-      "recency": 0.901,
+      "recency": 0.881,
       "consensus": 0.33,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.428
+    "score": 0.424
   },
   {
     "title": "Mike Lindell Stands Trial Over False 2020 Election Claims",
@@ -48,12 +48,12 @@
     "constructiveness_reason": "The story provides basic awareness about the consequences of spreading false information about the election, but it lacks depth, insight, or information about solutions to the problem of misinformation.",
     "score_components": {
       "magnitude": 0.109,
-      "recency": 0.901,
+      "recency": 0.881,
       "consensus": 0.33,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.381
+    "score": 0.377
   },
   {
     "title": "Democrats Debate Party Identity Post-Election Amid Trump Opposition",
@@ -76,12 +76,12 @@
     "constructiveness_reason": "This story provides useful context and understanding about the Democratic party's introspection and strategy discussions following the election. However, it does not highlight any specific progress or solutions, and the impact of these discussions is not yet clear.",
     "score_components": {
       "magnitude": 0.109,
-      "recency": 0.901,
+      "recency": 0.881,
       "consensus": 0.33,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.421
+    "score": 0.417
   },
   {
     "title": "Online Nationalism Spurs Attacks on Critics by Youths, Bots",
@@ -104,46 +104,74 @@
     "constructiveness_reason": "This story provides a deeper understanding of the current digital landscape and the risks associated with online nationalism. However, it doesn't offer actionable insights or potential solutions to the issue.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.901,
+      "recency": 0.881,
       "consensus": 0.33,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.404
+    "score": 0.4
   },
   {
-    "title": "City Clashes Enter Second Day Amid Immigration Raids",
+    "title": "Ice District Draws Oilers Fans for Playoffs; Some Opt Elsewhere",
     "domain": "general",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 14:54:27 GMT",
-    "source": "BBC",
+    "location": "national",
+    "published": "Sun, 08 Jun 2025 15:57:08 +0000",
+    "source": "Global News",
     "sources": [
-      "BBC"
+      "Global News"
     ],
     "snippets": [
-      "The city sees a second day of clashes over raids by federal agents on undocumented migrants."
+      "The Ice district has been the heartbeat of playoff excitement, but not all Oilers fans are crowding into downtown."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2383/live/1e143a20-4406-11f0-b6e6-4ddb91039da1.jpg",
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/06/vintage-tv.png",
     "titles": [
-      "Trump orders National Guard to LA after clashes"
+      "Edmonton bar puts its own vintage spin on Stanley Cup final"
     ],
-    "summary": "Clashes in the city continued for a second day, triggered by federal agents conducting raids on undocumented migrants. The situation reflects ongoing tensions regarding immigration enforcement.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides awareness about the ongoing clashes in a city and the cause, which is immigration raids. However, it lacks depth and does not provide any solutions or attempts to solve the problem. It does not give the reader actionable insights or deeper understanding of the situation.",
+    "summary": "The Ice District, known as the center of playoff excitement, has seen a significant turnout of Oilers fans during the playoffs. However, not all fans are choosing to gather downtown to support the team, indicating varied preferences among the fanbase for watching the games.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about the Oilers fans' behavior during the playoffs. However, it does not offer any deeper understanding or actionable insights for the reader.",
     "score_components": {
-      "magnitude": 0.109,
-      "recency": 0.998,
+      "magnitude": 0.089,
+      "recency": 0.997,
       "consensus": 0.33,
-      "constructiveness": 0.5,
+      "constructiveness": 0.3,
+      "proximity": 1.0
+    },
+    "score": 0.443
+  },
+  {
+    "title": "US National Guard Deployed in LA Amid Immigration Crackdown",
+    "domain": "general",
+    "location": "global",
+    "published": "Sun, 08 Jun 2025 15:54:17 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "The Guardian"
+    ],
+    "snippets": [
+      "<p>Order to deploy troops came from Trump on Saturday night in stunning escalation in crackdown on immigrants</p><p>US national guard troops began to deploy in downtown Los Angeles after an immigration crackdown saw police use teargas on protesters in a move that has sent shockwaves though American politics.</p><p>Local television station <a href=\"https://abc7.com/live-updates/tensions-flare-downtown-la-anti-ice-protesters-clash-agents-live-updates/16692645/entry/16695462/?linkId=828840736\">ABC7 reported </a>that national guard troops had started to arrive in downtown Los Angeles. It<a..."
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/f11730b620d60d83f759262a62d3ebd41f7409a0/974_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=bc71b8f44789df5dfe4cd8f540e127ff",
+    "titles": [
+      "US national guard reportedly arrive in LA after protests over immigration raids"
+    ],
+    "summary": "Following an order from President Trump on Saturday, US National Guard troops have been deployed in downtown Los Angeles amid a significant immigration crackdown. This move comes after police used teargas on protesters, marking a notable escalation in the government's approach to immigration enforcement. The deployment has sparked widespread controversy and discussion throughout American politics, as reported by local television station ABC7.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs the reader about the recent actions taken by the government in response to immigration issues. It provides context and increases awareness about the situation, even though the topic is negative.",
+    "score_components": {
+      "magnitude": 0.089,
+      "recency": 0.996,
+      "consensus": 0.33,
+      "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.42
+    "score": 0.423
   },
   {
     "title": "Sinner Names Alcaraz Favorite for Roland Garros Amid Doubles Oversight",
     "domain": "general",
     "location": "global",
-    "published": "Sun, 08 Jun 2025 14:39:35 GMT",
+    "published": "Sun, 08 Jun 2025 15:53:26 GMT",
     "source": "The Guardian",
     "sources": [
       "The Guardian"
@@ -160,91 +188,63 @@
     "constructiveness_reason": "While the story provides basic awareness about the Roland Garros final and the overlooked doubles competition, it lacks depth and doesn't provide much insight beyond the opinions of one player.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.993,
+      "recency": 0.996,
       "consensus": 0.33,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.412
+    "score": 0.413
   },
   {
-    "title": "Andrew Tate Faces £300 Fine for Speeding in Romania",
+    "title": "Dog Ownership Rises, Defying Religious Taboos",
     "domain": "general",
     "location": "global",
-    "published": "Sun, 08 Jun 2025 14:34:37 GMT",
-    "source": "The Guardian",
+    "published": "Sun, 08 Jun 2025 15:53:06 GMT",
+    "source": "BBC",
     "sources": [
-      "The Guardian"
+      "BBC"
     ],
     "snippets": [
-      "<p>Self-styled ‘misogynist influencer’ claims police radar gun must have been ‘calibrated incorrectly’ and says he cannot afford £300 fine</p><p>The controversial British-American influencer Andrew Tate is due to appear in court in Romania on Monday after allegedly being caught at the weekend driving at 196km/h (122mph) in an area with a 50km/h speed limit.</p><p>Tate, a 38-year-old professional kickboxer and self-styled “misogynist influencer” who uses social media to share his love of supercars, expensive watches and private jets, lives in Romania with his younger brother, Tristan, where..."
+      "Dogs are vieved as \"unclean\" by Islamic officials, but ownership is rising as a form of quiet rebellion."
     ],
-    "image_url": "https://i.guim.co.uk/img/media/aa86cb4ba70537afad6618f2fe725f706b90a77a/311_0_4243_3395/master/4243.jpg?width=140&quality=85&auto=format&fit=max&s=894a3fb8c37261a28248d1299c457f06",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8058/live/dda32f80-447f-11f0-a52b-1f501521a10c.jpg",
     "titles": [
-      "Andrew Tate to appear in court for allegedly driving 90mph over limit in Romania"
+      "Iran expands dog walking ban"
     ],
-    "summary": "Andrew Tate, a British-American influencer known for his misogynistic views, is set to appear in a Romanian court for driving 196km/h in a 50km/h zone. Claiming the police radar was faulty, Tate faces a £300 fine. The 38-year-old, who resides in Romania, is also a professional kickboxer and social media personality, famous for flaunting his wealth.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story offers minimal insight or value. While it reports on a particular incident, it doesn't contribute to the reader's understanding or decision-making in a meaningful way, nor does it increase awareness about a broader issue.",
+    "summary": "Despite Islamic officials deeming dogs as \"unclean,\" there's a notable increase in dog ownership. This trend is seen as a form of quiet rebellion against religious strictures.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story provides useful insights into societal trends and the defiance of religious taboos. It increases awareness about the changing attitudes towards dog ownership in certain religious communities, offering a deeper understanding of the issue.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.991,
+      "recency": 0.996,
       "consensus": 0.33,
-      "constructiveness": 0.3,
+      "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.392
+    "score": 0.443
   },
   {
-    "title": "New Product Offers Versatile Gardening Solutions for Various Plants",
-    "domain": "general",
-    "location": "national",
-    "published": "Sun, 08 Jun 2025 14:30:31 +0000",
-    "source": "Global News",
-    "sources": [
-      "Global News"
-    ],
-    "snippets": [
-      "Perfect for everything from succulents to statement foliage."
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/05/planter.png",
-    "titles": [
-      "The most aesthetic planters you can buy in Canada right now"
-    ],
-    "summary": "This product is designed to accommodate a variety of plants, ranging from small succulents to larger, decorative foliage, making it versatile for different gardening needs.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it provides useful information about a new product that can help readers with their gardening needs. It also highlights an innovative solution for accommodating different types of plants.",
-    "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.99,
-      "consensus": 0.33,
-      "constructiveness": 0.9,
-      "proximity": 1.0
-    },
-    "score": 0.502
-  },
-  {
-    "title": "Dvalishvili, Harrison Aim for Top Honors in Their Sports",
+    "title": "MLB Artifact Tied to Jeter and Flying Dollars Gains Fame",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 8 Jun 2025 10:37:22 EST",
+    "published": "Sun, 8 Jun 2025 11:53:04 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "Merab Dvalishvili and Kayla Harrison proved they mean to challenge for greatness."
+      "Fistfuls of flying dollars, an alert vendor and a Jeter signature. Here's the tale of one of MLB's most famous artifacts."
     ],
     "image_url": "",
     "titles": [
-      "GOAT debate revived? Dvalishvili taps out O'Malley"
+      "Why a die-hard Yankees fan is selling one of MLB's greatest artifacts"
     ],
-    "summary": "Merab Dvalishvili and Kayla Harrison have demonstrated their intentions to contend for top honors in their respective sports. Both athletes have shown significant promise and are actively seeking opportunities to achieve greatness in their careers.",
+    "summary": "A notable MLB artifact, linked to an incident involving flying dollars, an observant vendor, and a signature from Derek Jeter, has gained fame. The story encapsulates a unique event in baseball history, highlighting the convergence of a spontaneous moment, quick thinking by a vendor, and the involvement of a baseball legend. This artifact's journey to fame underscores its significance in MLB lore.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story provides basic awareness about the ambitions of two athletes, it doesn't offer much depth or insight into their sports, their strategies for success, or the broader context of their careers.",
+    "constructiveness_reason": "This story provides basic awareness about a unique event in baseball history and its significance in MLB lore. However, it lacks depth and doesn't offer actionable insights, solutions, or a deeper understanding of the subject matter.",
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.992,
+      "recency": 0.996,
       "consensus": 0.33,
       "constructiveness": 0.3,
       "proximity": 0.75
@@ -252,27 +252,27 @@
     "score": 0.407
   },
   {
-    "title": "Dvalishvili Defends Bantamweight Title at UFC 316, Submits O'Malley",
+    "title": "\"Garrett 'Thundor' Haviland Elevates OKC Free Throw Defense Game\"",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 8 Jun 2025 10:36:22 EST",
+    "published": "Sun, 8 Jun 2025 11:51:29 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "Merab Dvalishvili kept coming at Sean O'Malley, ultimately submitting him in Round 3 to remain bantamweight champ Saturday night at UFC 316."
+      "Garrett Haviland, also known as \"Thundor,\" is at the forefront of what fans in OKC call \"free throw defense.\""
     ],
     "image_url": "",
     "titles": [
-      "Relentless Dvalishvili taps O'Malley to retain title"
+      "'That's the Thundor dream': How one superfan contributes to OKC's 'free throw defense'"
     ],
-    "summary": "Merab Dvalishvili successfully defended his bantamweight title at UFC 316 by submitting Sean O'Malley in the third round. The fight took place on Saturday night, where Dvalishvili maintained his championship status with a decisive victory.",
+    "summary": "Garrett Haviland, nicknamed \"Thundor,\" has become a prominent figure in Oklahoma City for his unique approach to \"free throw defense\" during basketball games. His methods, aimed at distracting opposing players during free throws, have garnered attention and appreciation from local fans, highlighting his influence in the fan community and the sporting event atmosphere.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about a specific event in the UFC, but it doesn't offer any deeper understanding, actionable insights, or information about progress, solutions, or empowering knowledge.",
+    "constructiveness_reason": "The story provides awareness about a unique approach to 'free throw defense' in basketball games and its impact on the fan community. However, it lacks depth and doesn't provide actionable insights or solutions, or a deeper understanding of the topic.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.992,
+      "recency": 0.995,
       "consensus": 0.33,
       "constructiveness": 0.3,
       "proximity": 0.75
@@ -280,27 +280,55 @@
     "score": 0.4
   },
   {
-    "title": "Jay Wright Declines Knicks Coaching Offer, Stays Retired",
+    "title": "Latest Fantasy Baseball Insights: Trends, Injuries, and Roster Updates",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 8 Jun 2025 10:36:22 EST",
+    "published": "Sun, 8 Jun 2025 11:47:47 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "Former Villanova coach Jay Wright confirmed that he is not interested in the Knicks' head coaching vacancy and wishes to remain retired, according to Seth Davis."
+      "All of the important fantasy spin and actionable takeaways resulting from the latest baseball news."
     ],
     "image_url": "",
     "titles": [
-      "Wright reportedly won't be in mix for Knicks job"
+      "Phillies plan for lineup without Harper"
     ],
-    "summary": "Former Villanova coach Jay Wright has officially declined interest in the New York Knicks' head coaching position, opting to stay retired. This confirmation was reported by Seth Davis.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "The story provides basic awareness about Jay Wright's decision to decline the Knicks' coaching offer, but it doesn't provide any deeper insight or context about why he made this decision or how it might impact the Knicks or the NBA more broadly.",
+    "summary": "The latest baseball news provides essential insights and practical advice for fantasy baseball players. Key updates include player performance trends, injury reports, and roster changes, all of which are crucial for making informed decisions in fantasy leagues. The current status of players and teams has been thoroughly analyzed to offer actionable takeaways for fantasy sports enthusiasts.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story is highly constructive as it provides actionable insights and practical advice for fantasy baseball players. It informs readers about player performance trends, injury reports, and roster changes, aiding in decision-making for fantasy leagues. However, it doesn't report on solutions, improvements, or innovations, hence it doesn't score a perfect 1.0.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.992,
+      "recency": 0.994,
+      "consensus": 0.33,
+      "constructiveness": 0.8,
+      "proximity": 0.75
+    },
+    "score": 0.45
+  },
+  {
+    "title": "John Cena's \"The Last Time is Now\" Farewell Tour Kicks Off",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 8 Jun 2025 11:47:40 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "Here are the best moments from John Cena's \"The Last Time is Now\" farewell tour, which kicked off at Intuit Dome on Jan. 6."
+    ],
+    "image_url": "",
+    "titles": [
+      "Chaos at Money in the Bank: Highlights from John Cena's farewell tour"
+    ],
+    "summary": "John Cena's farewell tour, \"The Last Time is Now,\" began on January 6 at the Intuit Dome. The event showcased the best moments from Cena's career, marking the start of his final appearances in the wrestling world. Fans experienced a nostalgic journey celebrating Cena's legacy in the sport.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about John Cena's farewell tour but doesn't offer much depth or insight. It doesn't provide actionable insights or deeper understanding of his career, nor does it report on solutions, improvements, or innovations. It also doesn't increase clarity around systems, causes, trends, or impacts that matter.",
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.994,
       "consensus": 0.33,
       "constructiveness": 0.3,
       "proximity": 0.75
@@ -308,27 +336,27 @@
     "score": 0.4
   },
   {
-    "title": "Sovereignty Wins 157th Belmont Stakes at Saratoga, Defeats Journalism",
+    "title": "Panthers vs. Oilers in Stanley Cup Final; Betting Options Abound",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 8 Jun 2025 10:36:22 EST",
+    "published": "Sun, 8 Jun 2025 11:44:35 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "Sovereignty bested Journalism on Saturday in a Kentucky Derby rematch to win the 157th Belmont Stakes, and the second hosted at Saratoga."
+      "Top ways to bet the series and props for the Stanley Cup Final between the Florida Panthers and Edmonton Oilers."
     ],
     "image_url": "",
     "titles": [
-      "Derby victor Sovereignty returns to win Belmont"
+      "Stanley Cup Final odds: Panthers favored to win series after Game 2 win"
     ],
-    "summary": "Sovereignty won the 157th Belmont Stakes, outperforming Journalism in a rematch from the Kentucky Derby. This victory took place at Saratoga, marking the second time the event was hosted there.",
+    "summary": "The Stanley Cup Final features the Florida Panthers against the Edmonton Oilers. Various betting options are available for this series, including series outcomes and individual player prop bets. The specific bets or odds were not detailed in the content provided.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "The story provides basic awareness about the outcome of the 157th Belmont Stakes, but it doesn't offer any deeper understanding or context about the race, the horses, or the implications of the result.",
+    "constructiveness_reason": "This story provides basic awareness about the Stanley Cup Final and the betting options available, but it lacks depth or insight. It doesn't provide actionable insights or deeper understanding of the game or betting, nor does it report on solutions, improvements, or innovations. It also doesn't increase clarity around systems, causes, trends, or impacts that matter.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.992,
+      "recency": 0.993,
       "consensus": 0.33,
       "constructiveness": 0.3,
       "proximity": 0.75
@@ -336,116 +364,172 @@
     "score": 0.4
   },
   {
-    "title": "Aaron Rodgers Signs One-Year, $13.65M Deal with Steelers",
+    "title": "USL Plans Promotion-Relegation System, Details Pending",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 8 Jun 2025 10:36:22 EST",
+    "published": "Sun, 8 Jun 2025 11:38:41 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
     ],
     "snippets": [
-      "Aaron Rodgers has signed a one-year, $13.65 million deal with the Steelers, sources told ESPN's Adam Schefter, a deal that includes $10 million guaranteed."
+      "USL's introduction of promotion-relegation could change U.S. soccer forever, but it's still unclear how it will work."
     ],
     "image_url": "",
     "titles": [
-      "Sources: Rodgers with Steelers, inks $13M+ deal"
+      "Will USL's move to pro-rel change U.S. soccer, threaten MLS?"
     ],
-    "summary": "Aaron Rodgers has agreed to a one-year contract with the Pittsburgh Steelers, according to ESPN's Adam Schefter. The deal is valued at $13.65 million, with $10 million of that amount guaranteed.",
+    "summary": "The United Soccer League (USL) has announced plans to introduce a promotion-relegation system, marking a significant potential shift in the structure of U.S. soccer. However, details on how this system will be implemented remain unclear. This change could have a lasting impact on the sport within the country.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs readers about a significant potential shift in the structure of U.S. soccer. However, it lacks details on how this system will be implemented, which limits its usefulness. Nonetheless, it does increase clarity around a system that could have a lasting impact on the sport within the country.",
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.991,
+      "consensus": 0.33,
+      "constructiveness": 0.6,
+      "proximity": 0.75
+    },
+    "score": 0.436
+  },
+  {
+    "title": "New Sports League with Touring Model to Test Cities for Future Teams",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 8 Jun 2025 11:28:35 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "The league will feature four teams and a touring model that will serve as a \"tryout\" for prospective home cities next season."
+    ],
+    "image_url": "",
+    "titles": [
+      "Pro softball is on deck! What to know about the inaugural AUSL season"
+    ],
+    "summary": "The new sports league will consist of four teams that will adopt a touring model to function as a \"tryout\" for cities potentially hosting these teams in the next season.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is constructive as it reports on an innovative approach to sports league management. It provides useful insights into how cities are evaluated for hosting sports teams, offering readers a deeper understanding of the decision-making process in sports management.",
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.988,
+      "consensus": 0.33,
+      "constructiveness": 0.9,
+      "proximity": 0.75
+    },
+    "score": 0.459
+  },
+  {
+    "title": "Pochettino Denies Tottenham Return, Committed to USMNT",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 8 Jun 2025 11:02:04 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "snippets": [
+      "USMNT head coach Mauricio Pochettino shut down rumors linking him to the Tottenham Hotspur managerial vacancy, labeling the idea \"not realistic.\""
+    ],
+    "image_url": "",
+    "titles": [
+      "Pochettino dismisses Spurs links: 'Not realistic'"
+    ],
+    "summary": "USMNT head coach Mauricio Pochettino dismissed rumors of his potential move to Tottenham Hotspur as \"not realistic.\" He firmly addressed the speculation surrounding the managerial vacancy at Tottenham, indicating his current commitment to the US national team.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about the coach's career decision, which could influence the performance of the teams involved. However, it lacks depth and does not provide insights into why the coach made this decision or how it might affect the teams in the long run.",
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.979,
+      "consensus": 0.33,
+      "constructiveness": 0.6,
+      "proximity": 0.75
+    },
+    "score": 0.427
+  },
+  {
+    "title": "Elon Musk Criticizes GOP-Led House Bill in Sarcastic Remark",
+    "domain": "business",
+    "location": "national",
+    "published": "Sun, 08 Jun 2025 15:23:13 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "snippets": [
+      "Elon Musk has ranted against the Republican-led \"big, beautiful bill\" that narrowly passed the House."
+    ],
+    "image_url": "",
+    "titles": [
+      "Speaker Johnson hopes Musk and Trump can 'reconcile' their differences after public fallout"
+    ],
+    "summary": "Elon Musk publicly criticized a bill that was recently passed by the House, led by Republicans. He referred to the legislation as the \"big, beautiful bill\" in a negative context. The bill passed by a narrow margin.",
     "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story provides basic awareness about Aaron Rodgers' new contract with the Steelers, and it gives a bit more depth by providing the specific terms of the deal. However, it doesn't offer any analysis or context about how this might impact the Steelers' performance or the broader NFL landscape.",
+    "constructiveness_reason": "While this story provides basic awareness of a recent legislative development and a high-profile figure's reaction to it, it lacks depth and does not provide specific details about the bill or why it is being criticized. It does not offer actionable insights or deeper understanding.",
     "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.992,
+      "magnitude": 0.089,
+      "recency": 0.986,
       "consensus": 0.33,
       "constructiveness": 0.5,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.42
+    "score": 0.411
   },
   {
-    "title": "Roman Anthony Hits Record 497-Foot Grand Slam for Boston's Triple-A Team",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sun, 8 Jun 2025 10:36:22 EST",
-    "source": "ESPN",
+    "title": "Foreign Hackers Target Smartphones to Exploit U.S. Cyber Defenses",
+    "domain": "business",
+    "location": "global",
+    "published": "Sun, 08 Jun 2025 15:05:45 +0000",
+    "source": "Fortune",
     "sources": [
-      "ESPN"
+      "Fortune"
     ],
     "snippets": [
-      "Roman Anthony, ESPN's No. 1-rated prospect, smashed a 497-foot grand slam for Boston's Triple-A team Saturday night, the longest home run in affiliated baseball this season."
+      "Foreign hackers have increasingly identified smartphones, other mobile devices and the apps they use as a weak link in U.S. cyberdefenses."
     ],
-    "image_url": "",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/AP25149163043530-e1749394497706.jpg?w=2048",
     "titles": [
-      "Red Sox prospect Anthony hits longest HR of '25"
+      "‘The world is in a mobile security crisis’ as Chinese hackers and user lapses put smartphones at risk"
     ],
-    "summary": "Roman Anthony, ESPN's top-rated prospect, hit a 497-foot grand slam for Boston's Triple-A team, marking the longest home run in affiliated baseball for the current season. This event took place on a Saturday night.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness of a sports event but does not provide any deeper insights or understanding. It does not report on solutions, improvements, or innovations and does not increase clarity around systems, causes, trends, or impacts.",
+    "summary": "Foreign hackers are increasingly targeting smartphones, mobile devices, and their apps as vulnerabilities in U.S. cyber defenses, exploiting these platforms to bypass more secure systems.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story raises awareness about the issue of cyber security and the vulnerability of mobile devices. However, it does not provide actionable insights or solutions to the problem, nor does it offer a deep understanding of the causes or impacts.",
     "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.992,
+      "magnitude": 0.089,
+      "recency": 0.98,
       "consensus": 0.33,
-      "constructiveness": 0.3,
-      "proximity": 0.75
+      "constructiveness": 0.5,
+      "proximity": 0.5
     },
-    "score": 0.4
+    "score": 0.41
   },
   {
-    "title": "Ex-MMA Champion Ben Askren Hospitalized With Severe Pneumonia",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sun, 8 Jun 2025 10:36:22 EST",
-    "source": "ESPN",
+    "title": "Trump, Xi Jinping Discuss US-China Relations in Phone Call",
+    "domain": "business",
+    "location": "global",
+    "published": "Sun, 08 Jun 2025 14:52:55 +0000",
+    "source": "Fortune",
     "sources": [
-      "ESPN"
+      "Fortune"
     ],
     "snippets": [
-      "Former MMA champion Ben Askren was hospitalized after developing severe pneumonia, his wife posted on social media on Saturday."
+      "President Donald Trump spoke at length with Chinese leader Xi Jinping by phone last Thursday in an attempt to put relations back on track."
     ],
-    "image_url": "",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/AP25159112977684-e1749394120743.jpg?w=2048",
     "titles": [
-      "Ex-MMA star Askren in hospital with severe illness"
+      "New disputes emerge ahead of US-China trade talks in London"
     ],
-    "summary": "Former MMA champion Ben Askren was hospitalized with severe pneumonia, according to a social media post by his wife on Saturday.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about Ben Askren's health condition but lacks depth or insight. It doesn't offer any actionable insights, solutions, or a deeper understanding of the situation.",
+    "summary": "President Donald Trump had a lengthy phone conversation with Chinese leader Xi Jinping last Thursday, aiming to improve and stabilize the relationship between the United States and China.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides useful information about the ongoing dialogue between the U.S. and China, which could impact international relations. However, it lacks details about the specific improvements or innovations discussed during the call.",
     "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.992,
+      "magnitude": 0.129,
+      "recency": 0.975,
       "consensus": 0.33,
-      "constructiveness": 0.3,
-      "proximity": 0.75
+      "constructiveness": 0.6,
+      "proximity": 0.5
     },
-    "score": 0.4
-  },
-  {
-    "title": "College Athletes to Receive Direct Payments in Historic Settlement",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sun, 8 Jun 2025 10:36:22 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "snippets": [
-      "Schools are now free to begin paying their athletes directly, marking the dawn of a new era in college sports brought about by a multibillion-dollar legal settlement that was formally approved Friday."
-    ],
-    "image_url": "",
-    "titles": [
-      "💰 $2.8B settlement lets colleges pay athletes"
-    ],
-    "summary": "A legal settlement approved on Friday has initiated a new era in college sports, allowing schools to directly pay their athletes. This significant change follows a multibillion-dollar agreement, marking a historic shift in the treatment and compensation of college athletes.",
-    "constructiveness_score": 1.0,
-    "constructiveness_reason": "This story is highly constructive as it reports on a significant change in the system of college sports, provides useful information about the new compensation rules for athletes, and increases awareness about the impacts of this historic settlement.",
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.992,
-      "consensus": 0.33,
-      "constructiveness": 1.0,
-      "proximity": 0.75
-    },
-    "score": 0.47
+    "score": 0.433
   },
   {
     "title": "Meta Announces Largest AI Investment to Date",
@@ -468,12 +552,12 @@
     "constructiveness_reason": "This story provides useful information about Meta's strategic focus on AI technology, which could influence readers' decisions related to tech investments or career choices. However, it doesn't provide much detail on the specific AI projects or how they might solve existing problems, so it doesn't quite reach the level of highlighting progress or solutions.",
     "score_components": {
       "magnitude": 0.109,
-      "recency": 0.98,
+      "recency": 0.959,
       "consensus": 0.33,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.437
+    "score": 0.432
   },
   {
     "title": "Finance Guru Ramit Sethi Faces Personal Money Challenges",
@@ -496,12 +580,12 @@
     "constructiveness_reason": "The story offers a deeper understanding of financial challenges, showing that they can affect anyone, regardless of their expertise. However, without more detail on the specific challenges faced and how they were addressed, the story doesn't offer actionable insights or clearly highlight solutions.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.979,
+      "recency": 0.958,
       "consensus": 0.33,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.419
+    "score": 0.415
   },
   {
     "title": "Research Identifies Unexpected Top Reason for Couples' Fights",
@@ -524,12 +608,12 @@
     "constructiveness_reason": "This story raises awareness about a surprising cause of conflict in relationships, which could prompt readers to reflect on their own relationships. However, without disclosing the specific reason or offering insights on how to navigate disagreements, the story lacks depth and doesn't provide actionable insights or solutions.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.969,
+      "recency": 0.948,
       "consensus": 0.33,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.407
+    "score": 0.403
   },
   {
     "title": "Pete Docter Reflects on Working with Steve Jobs at Pixar Event",
@@ -552,12 +636,12 @@
     "constructiveness_reason": "This story provides a deeper understanding of the working relationship between Pete Docter and Steve Jobs at Pixar, which could be insightful for those interested in the company's history or in leadership dynamics. However, it doesn't offer actionable insights or report on solutions or improvements.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.969,
+      "recency": 0.948,
       "consensus": 0.33,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.417
+    "score": 0.413
   },
   {
     "title": "Gov. Newsom Criticizes Trump's National Guard Deployment to LA",
@@ -580,96 +664,96 @@
     "constructiveness_reason": "While this story provides basic awareness about a political disagreement, it doesn't offer much depth or insight. It doesn't provide actionable insights, report on solutions or improvements, or increase clarity around systems, causes, trends, or impacts.",
     "score_components": {
       "magnitude": 0.109,
-      "recency": 0.965,
+      "recency": 0.943,
       "consensus": 0.33,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.394
+    "score": 0.389
   },
   {
-    "title": "Chancellor Announces 2.8% Increase in NHS Annual Spending for Next 3 Years",
-    "domain": "business",
+    "title": "Study Shows Seasonal Sunlight Affects Human Circadian Rhythms",
+    "domain": "science",
     "location": "global",
-    "published": "Sun, 08 Jun 2025 12:54:31 GMT",
-    "source": "Financial Times",
+    "published": "Sun, 08 Jun 2025 15:58:01 +0000",
+    "source": "SciTechDaily",
     "sources": [
-      "Financial Times"
+      "SciTechDaily"
     ],
     "snippets": [
-      "Chancellor is set to give NHS a 2.8 per cent real-terms rise in annual day-to-day spending over three years"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8ac6570b-b5f1-4e33-b9b3-94fee197ff8f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "UK prioritises health and defence as other budgets face squeeze"
-    ],
-    "summary": "The Chancellor has announced a 2.8% real-terms increase in the NHS's annual day-to-day spending over the next three years. This financial decision aims to support the health service's operational costs and improve its services during this period.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story clearly reports on a solution (increased spending) to improve services in the NHS. It provides actionable insights for those involved in the health service and contributes to the reader's understanding of the financial decisions impacting the NHS.",
-    "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.957,
-      "consensus": 0.33,
-      "constructiveness": 0.9,
-      "proximity": 0.5
-    },
-    "score": 0.445
-  },
-  {
-    "title": "Businesses Hike Prices in Response to Trump Tariffs, Consumers Bear Cost",
-    "domain": "business",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 12:50:37 GMT",
-    "source": "Investopedia",
-    "sources": [
-      "Investopedia"
-    ],
-    "snippets": [
-      "<br /><h3>Key Takeaways</h3><ul><li>Companies are raising prices in response to President Donald Trump's tariff campaign, according to surveys.<br /></li><li>Some companies are passing the full cost to customers, while others are eating some of the costs themselves.<br /></li><li>Some companies have begun emailing customers to let them know prices are rising because of tariffs. One luggage company emailed its customers to say they were raising prices in response to the \"dumpster fire\" tariffs.<br /></li></ul><br /><br /><p>If there was any doubt about who would ultimately pay the cost of..."
+      "<a href=\"https://scitechdaily.com/new-research-reveals-that-humans-are-seasonal-animals/\" rel=\"nofollow\" title=\"New Research Reveals That Humans Are Seasonal Animals\"><img alt=\"Woman Sleeping Circadian Rhythm\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Woman-Sleeping-Circadian-Rhythm-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Human circadian rhythms remain tied to seasonal sunlight, with genetic differences influencing how individuals respond to day length and shift work. It may be easy to assume..."
     ],
     "image_url": "",
     "titles": [
-      "Who's Paying For Trump's Tariffs? You Are, Businesses Say"
+      "New Research Reveals That Humans Are Seasonal Animals"
     ],
-    "summary": "Companies are adjusting to President Donald Trump's tariffs by increasing prices, surveys reveal. While some businesses are transferring the entire cost to consumers, others are absorbing a portion of the expenses themselves. A notable example includes a luggage company that informed its customers via email about price hikes directly attributed to the tariffs, which they referred to as a \"dumpster fire.\" This indicates that the financial burden of these tariffs is largely falling on consumers.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the impacts of tariffs on businesses and consumers, giving readers a better understanding of economic dynamics. However, it lacks a focus on potential solutions or improvements to the situation.",
-    "score_components": {
-      "magnitude": 0.129,
-      "recency": 0.956,
-      "consensus": 0.33,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.429
-  },
-  {
-    "title": "HerMD Launches to Enhance Women's Health with In-Person and Virtual Care",
-    "domain": "business",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 12:05:00 +0000",
-    "source": "Fortune",
-    "sources": [
-      "Fortune"
-    ],
-    "snippets": [
-      "Dr. Somi Javaid is the founder of HerMD which provides in-person and virtual care focused on women’s health."
-    ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/54535142955_592178b80c_o-e1749234995369.jpg?w=2048",
-    "titles": [
-      "Somi Javaid was 21 years old when her mother almost died from an undiagnosed disease. Today, her company has raised millions to fill in the care gap"
-    ],
-    "summary": "Dr. Somi Javaid founded HerMD, a healthcare service dedicated to women's health, offering both in-person and virtual care options. This initiative aims to improve accessibility and quality of healthcare services for women, addressing their unique health needs.",
+    "summary": "New research indicates that human circadian rhythms are influenced by seasonal sunlight variations, with genetic differences affecting individual responses to day length changes and shift work. This study suggests humans are seasonal creatures, adapting their sleep and activity patterns to the natural environment.",
     "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is highly constructive as it highlights a solution (HerMD) to a problem (accessibility and quality of women's healthcare). It provides actionable insights for women seeking healthcare services and informs about a new innovation in this sector.",
+    "constructiveness_reason": "This story is highly constructive as it provides a deeper understanding of how seasonal sunlight variations affect human circadian rhythms. It also provides actionable insights for individuals who might be affected by changes in day length or shift work, and increases awareness about the impact of our natural environment on our health.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.941,
+      "recency": 0.998,
       "consensus": 0.33,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.442
+    "score": 0.453
+  },
+  {
+    "title": "New Antibiotic Class \"Lariocidin\" Discovered After 30 Years",
+    "domain": "science",
+    "location": "global",
+    "published": "Sun, 08 Jun 2025 15:33:59 +0000",
+    "source": "SciTechDaily",
+    "sources": [
+      "SciTechDaily"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/the-first-in-30-years-scientists-discover-new-class-of-antibiotics/\" rel=\"nofollow\" title=\"The First in 30 Years: Scientists Discover New Class of Antibiotics\"><img alt=\"Pseudomonas aeruginosa Rod Shaped Pathogen Bacteria\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Pseudomonas-aeruginosa-Rod-Shaped-Pathogen-Bacteria-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Researchers have found a powerful new antibiotic candidate, lariocidin, that could combat drug-resistant..."
+    ],
+    "image_url": "",
+    "titles": [
+      "The First in 30 Years: Scientists Discover New Class of Antibiotics"
+    ],
+    "summary": "Scientists have discovered a new class of antibiotics, the first in 30 years, named lariocidin. This discovery offers potential in fighting drug-resistant bacteria, addressing a growing global health concern. The research marks a significant breakthrough in the field of medicine, providing hope for the development of effective treatments against resistant bacterial infections.",
+    "constructiveness_score": 1.0,
+    "constructiveness_reason": "This story is highly constructive. It provides useful information on a significant scientific breakthrough, which is the discovery of a new class of antibiotics. The story also highlights progress in the field of medicine, particularly in addressing the problem of drug-resistant bacteria. It increases awareness about the importance of continued research and innovation in healthcare.",
+    "score_components": {
+      "magnitude": 0.089,
+      "recency": 0.989,
+      "consensus": 0.33,
+      "constructiveness": 1.0,
+      "proximity": 0.5
+    },
+    "score": 0.461
+  },
+  {
+    "title": "MIND Diet Linked to 25% Lower Dementia Risk, Study Finds",
+    "domain": "science",
+    "location": "global",
+    "published": "Sun, 08 Jun 2025 15:08:05 +0000",
+    "source": "SciTechDaily",
+    "sources": [
+      "SciTechDaily"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/this-diet-could-reduce-your-risk-of-dementia-by-up-to-25-new-study-reveals/\" rel=\"nofollow\" title=\"This Diet Could Reduce Your Risk of Dementia by up to 25%, New Study Reveals\"><img alt=\"Doctor Examining Brain Hologram Close\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Doctor-Examining-Brain-Hologram-Close-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Adopting the MIND diet, even later in life, is associated with a reduced risk of developing dementia. As the U.S...."
+    ],
+    "image_url": "",
+    "titles": [
+      "This Diet Could Reduce Your Risk of Dementia by up to 25%, New Study Reveals"
+    ],
+    "summary": "A recent study has found that following the MIND diet can lower the risk of dementia by up to 25%. This diet, which emphasizes the consumption of brain-healthy foods, shows benefits for individuals even when adopted later in life.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is constructive as it offers actionable insights for readers on how to potentially lower their risk of dementia through diet. It reports on a solution, the MIND diet, and its potential benefits. The story also increases awareness about the link between diet and cognitive health.",
+    "score_components": {
+      "magnitude": 0.089,
+      "recency": 0.981,
+      "consensus": 0.33,
+      "constructiveness": 0.9,
+      "proximity": 0.5
+    },
+    "score": 0.45
   },
   {
     "title": "Student Discovers First Velvet Worm Species in Karoo Region",
@@ -692,12 +776,12 @@
     "constructiveness_reason": "This story offers a deeper understanding of biodiversity and evolutionary biology, contributing to the reader's knowledge of these fields. However, while it highlights a significant discovery, it does not provide actionable insights or report on solutions to specific problems.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.929,
+      "recency": 0.909,
       "consensus": 0.33,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.429
+    "score": 0.425
   },
   {
     "title": "Arctic Nesting Site Shows Birds Lived Among Dinosaurs 73 Million Years Ago",
@@ -720,12 +804,12 @@
     "constructiveness_reason": "This story provides useful knowledge and deeper understanding about the coexistence of birds and dinosaurs in the Arctic during the Cretaceous period. However, it does not highlight any progress or solution, nor does it provide actionable insights.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.921,
+      "recency": 0.901,
       "consensus": 0.33,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.418
+    "score": 0.414
   },
   {
     "title": "New Theory Suggests Universal Complexity Growth, Challenges Evolution Views",
@@ -748,12 +832,12 @@
     "constructiveness_reason": "This story clearly highlights a new theory that could potentially alter our understanding of evolution and the nature of time. It provides empowering knowledge and prompts readers to rethink traditional views on these topics.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.92,
+      "recency": 0.9,
       "consensus": 0.33,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.438
+    "score": 0.434
   },
   {
     "title": "Scotland Fossils Redated to 346M Years, Altering Land Life History",
@@ -776,12 +860,12 @@
     "constructiveness_reason": "This story informs readers about a significant discovery that challenges previous understandings about the history of life on land. It provides useful context and increases awareness about the complexity of terrestrial ecosystems evolution, but it does not offer solutions or improvements.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.914,
+      "recency": 0.893,
       "consensus": 0.33,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.426
+    "score": 0.422
   },
   {
     "title": "Advances in Light Speed Control Poised to Transform Communications Tech",
@@ -804,95 +888,11 @@
     "constructiveness_reason": "This story is highly constructive as it provides a deep understanding of a scientific advancement. It reports on a solution that could potentially revolutionize communication technologies, thus highlighting progress and innovation. It also increases awareness about the potential impacts of such advancements in the field of high-speed communications and quantum information processing.",
     "score_components": {
       "magnitude": 0.089,
-      "recency": 0.959,
+      "recency": 0.938,
       "consensus": 0.33,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.445
-  },
-  {
-    "title": "Tranquilized Female Rhino Escapes Helicopter Pursuit into Woods",
-    "domain": "science",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 08:00:01 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "snippets": [
-      "Barely feeling the tranquilizer shot, the panic-stricken female rhinoceros ran to take shelter in a wooded area, eluding the low-flying helicopter trying to prevent her escape."
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/the-team-has-just-minu.jpg",
-    "titles": [
-      "How to move a rhino"
-    ],
-    "summary": "A female rhinoceros, after being hit by a tranquilizer shot, fled in panic to a wooded area, successfully avoiding capture by a helicopter attempting to track her.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story offers basic awareness about a specific event involving a rhinoceros, but it lacks depth or insight. It doesn't provide actionable insights or deeper understanding of the broader implications or context. It also doesn't report on solutions or improvements, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
-    "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.939,
-      "consensus": 0.33,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.381
-  },
-  {
-    "title": "Oysters Touted for Environmental Benefits, Volunteers Boost Populations",
-    "domain": "science",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 07:50:01 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "snippets": [
-      "For many just a tasty delicacy, the oyster may actually be the hero the world needs to fight environmental degradation—and volunteers like Kimberly Price are battling to repopulate the surprisingly powerful species."
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/kimberly-price-53-take.jpg",
-    "titles": [
-      "US oyster gardeners rebuild nature's own water-cleaning system"
-    ],
-    "summary": "Oysters, often enjoyed as a delicacy, are being recognized for their environmental benefits, with volunteers like Kimberly Price working to increase their populations. These efforts aim to combat environmental degradation by leveraging the oyster's natural abilities.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive as it provides useful information about the environmental benefits of oysters and the efforts to increase their populations. It reports on a solution to environmental degradation, highlighting the progress made by volunteers. It also increases awareness about the role of oysters in the environment and the impact of volunteer efforts.",
-    "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.936,
-      "consensus": 0.33,
-      "constructiveness": 0.8,
-      "proximity": 0.5
-    },
-    "score": 0.431
-  },
-  {
-    "title": "France Hosts Summit on UN's Ocean \"Emergency\"",
-    "domain": "science",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 07:40:01 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "snippets": [
-      "France is hosting world leaders this week to confront what the United Nations calls a global \"emergency\" in the oceans—but what is expected, and can the summit make a difference?"
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/france-is-hosting-the.jpg",
-    "titles": [
-      "Money, mining and marine parks: The big issues at UN ocean summit"
-    ],
-    "summary": "France is hosting a summit with world leaders to address the United Nations' declared global \"emergency\" in the oceans. The event aims to tackle pressing issues affecting marine environments, though specific expectations and the potential impact of the summit remain to be seen.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story is moderately constructive. It raises awareness about a pressing global issue, the state of the world's oceans, and informs readers about the international effort to address it. However, it lacks specific details about the problems at hand, the proposed solutions, or the potential impact of the summit, which would provide the reader with a deeper understanding or actionable insights.",
-    "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.933,
-      "consensus": 0.33,
-      "constructiveness": 0.7,
-      "proximity": 0.5
-    },
-    "score": 0.42
+    "score": 0.441
   }
 ]
