@@ -22,13 +22,13 @@
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story is constructive as it highlights a positive transformation of a community, showing progress and improvement. It can provide readers with insights into how collective efforts can lead to significant changes, thus contributing to their understanding and potentially inspiring similar initiatives.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.971,
+      "magnitude": 0.039,
+      "recency": 0.893,
       "consensus": 0.33,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.448
+    "score": 0.415
   },
   {
     "title": "Trump Deploys National Guard to LA Amidst Riots; City Life Persists",
@@ -53,13 +53,13 @@
     "constructiveness_score": 0.6,
     "constructiveness_reason": "While the story provides useful information about the current situation in LA, it does not delve into the reasons behind the riots or offer any solutions. However, it does highlight the resilience of the city's residents, which can be seen as a form of progress.",
     "score_components": {
-      "magnitude": 0.109,
-      "recency": 0.899,
+      "magnitude": 0.059,
+      "recency": 0.827,
       "consensus": 0.33,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.41
+    "score": 0.379
   },
   {
     "title": "Supreme Court Dismisses Mexico's $10 Billion Gun Lawsuit Against U.S. Firms",
@@ -84,13 +84,13 @@
     "constructiveness_score": 0.6,
     "constructiveness_reason": "While the story does not provide solutions or progress, it does increase awareness about the issue of cross-border arms trafficking. However, it lacks actionable insights or deeper understanding for the reader.",
     "score_components": {
-      "magnitude": 0.159,
-      "recency": 0.746,
+      "magnitude": 0.109,
+      "recency": 0.686,
       "consensus": 0.33,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.397
+    "score": 0.368
   },
   {
     "title": "Mike Lindell Stands Trial Over False 2020 Election Claims",
@@ -115,13 +115,13 @@
     "constructiveness_score": 0.3,
     "constructiveness_reason": "The story provides basic awareness about the consequences of spreading false information about the election, but it lacks depth, insight, or information about solutions to the problem of misinformation.",
     "score_components": {
-      "magnitude": 0.109,
-      "recency": 0.746,
+      "magnitude": 0.059,
+      "recency": 0.686,
       "consensus": 0.33,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.35
+    "score": 0.32
   },
   {
     "title": "Democrats Debate Party Identity Post-Election Amid Trump Opposition",
@@ -146,13 +146,13 @@
     "constructiveness_score": 0.7,
     "constructiveness_reason": "This story provides useful context and understanding about the Democratic party's introspection and strategy discussions following the election. However, it does not highlight any specific progress or solutions, and the impact of these discussions is not yet clear.",
     "score_components": {
-      "magnitude": 0.109,
-      "recency": 0.746,
+      "magnitude": 0.059,
+      "recency": 0.686,
       "consensus": 0.33,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.39
+    "score": 0.36
   },
   {
     "title": "Online Nationalism Spurs Attacks on Critics by Youths, Bots",
@@ -177,19 +177,50 @@
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story provides a deeper understanding of the current digital landscape and the risks associated with online nationalism. However, it doesn't offer actionable insights or potential solutions to the issue.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.746,
+      "magnitude": 0.039,
+      "recency": 0.686,
       "consensus": 0.33,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.373
+    "score": 0.343
   },
   {
-    "title": "Democratic Governors Slam Troop Deployment to LA Amid Protests",
+    "title": "Los Angeles Protests Call for Immigration Policy Reform",
+    "domain": "general",
+    "location": "national",
+    "published": "Sun, 08 Jun 2025 23:48:48 -0400",
+    "source": "ABC News",
+    "sources": [
+      "ABC News"
+    ],
+    "domains": [
+      "general"
+    ],
+    "snippets": [
+      "Los Angeles immigration protests live updates"
+    ],
+    "image_url": "https://s.abcnews.com/images/US/la-protest-44-rt-gmh-250608_1749431911321_hpMain_4x3t_384.jpg",
+    "titles": [
+      "LA immigration protests live updates: Cars in flames as National Guard is deployed"
+    ],
+    "summary": "In Los Angeles, a series of protests have taken place regarding immigration policies. These events drew significant public attention and participation from various groups advocating for reform. The protests were largely peaceful, with organizers emphasizing the need for changes in the current immigration system. Authorities reported minimal disturbances and no major incidents. The live updates covered the progression of the protests, highlighting key speeches, march routes, and community responses. The events concluded without any significant conflicts or disruptions.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story provides a useful update on a current event, offering readers an understanding of the ongoing protests and their peaceful nature. However, it doesn't delve into the specifics of the immigration policies being protested or suggest any potential solutions or improvements, limiting its score.",
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.994,
+      "consensus": 0.33,
+      "constructiveness": 0.7,
+      "proximity": 0.75
+    },
+    "score": 0.44
+  },
+  {
+    "title": "Wuppertal Schwebebahn Marks 125 Years of Unique Urban Transport",
     "domain": "general",
     "location": "global",
-    "published": "Sun, 08 Jun 2025 23:54:14 GMT",
+    "published": "Sun, 08 Jun 2025 23:00:47 GMT",
     "source": "The Guardian",
     "sources": [
       "The Guardian"
@@ -198,60 +229,91 @@
       "general"
     ],
     "snippets": [
-      "<p>Democratic governors rebuke president ordering 2,000 troops to LA county as ‘ineffective and dangerous’ in statement</p><p>Here are a selection of photographs from protests in the early hours of Sunday morning.</p><p>Immigration officers could be in California for a month, a Democrat congresswoman has been told.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/jun/08/trump-national-guard-la-protests-immigration-ice-us-politics-live-news\">Continue reading...</a>"
+      "<p>Still gliding above the town of Wuppertal on an overhead track 125 years after it was built, the charming Schwebebahn has lost none of its magic</p><p>It’s easy to be seduced by the romance of train travel. Think of sleeper trains, boat trains, vintage steam railways, elegant dining cars. But it’s rare that an urban transport system can capture the imagination quite as much as the Wuppertal Schwebebahn in Germany caught mine, and that of anyone else who’s clapped eyes on the world’s oldest suspended railway.</p><p>In October it will be 125 years since Kaiser Wilhelm II took a test ride in..."
     ],
-    "image_url": "https://i.guim.co.uk/img/media/a5a5f4df0313f2df73c6e0f3e471834ce01b79fb/423_0_3348_2678/master/3348.jpg?width=140&quality=85&auto=format&fit=max&s=13ce90cdc077ead7f1c76033435f8452",
+    "image_url": "https://i.guim.co.uk/img/media/ef275d6783c4497c1878db18bb4cc24e134bb3a9/331_0_4653_3721/master/4653.jpg?width=140&quality=85&auto=format&fit=max&s=c6cf9165375c4cef7ac804689bc3f79c",
     "titles": [
-      "LA protests live: teargas and rubber bullets fired as Trump deployment of national guard branded ‘alarming abuse of power’"
+      "Riding high in Germany on the world’s oldest suspended railway"
     ],
-    "summary": "Democratic governors criticized the President's decision to deploy 2,000 troops to Los Angeles County, calling it \"ineffective and dangerous.\" This rebuke came amid ongoing protests, as depicted in various photographs from early Sunday morning. Additionally, a Democratic congresswoman was informed that immigration officers might be stationed in California for up to a month, indicating an extended federal presence in the state.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story offers basic awareness about the political reactions to the troop deployment in LA, but it does not provide much depth or insight into the situation. It does not discuss the reasons for the protests, the effectiveness of the troop deployment, or potential alternatives. Therefore, its usefulness and progressiveness are limited.",
+    "summary": "The Wuppertal Schwebebahn, the world's oldest suspended railway, continues to operate and captivate visitors 125 years after its inception. Built above the town of Wuppertal, Germany, this unique urban transport system retains its historical charm and remains a testament to innovative engineering. Celebrating its 125th anniversary, the Schwebebahn has maintained its appeal and function, offering a unique travel experience that stands out in the world of train travel.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides interesting historical context and awareness about a unique transportation system. However, it doesn't offer actionable insights or highlight any recent innovations or improvements in the system. It's mainly informative and interesting, but not particularly constructive.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.996,
+      "magnitude": 0.039,
+      "recency": 0.899,
       "consensus": 0.33,
-      "constructiveness": 0.5,
+      "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.413
+    "score": 0.386
   },
   {
-    "title": "Victoria SES Conducts Rescues Near Hotham, Whale Rescue Seeks Public Help",
-    "domain": "general",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 23:44:23 GMT",
-    "source": "The Guardian",
+    "title": "OKC Thunder Levels NBA Finals at 1-1 with Strategic Game 2 Victory",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 8 Jun 2025 23:16:12 EST",
+    "source": "ESPN",
     "sources": [
-      "The Guardian"
+      "ESPN"
     ],
     "domains": [
-      "general"
+      "sports"
     ],
     "snippets": [
-      "<p>Victoria SES confirmed this morning rescues are ongoing near Hotham Heights. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Whale rescuers call on public for assistance as tangled humpback travels south</strong></p><p>Rescuers are calling for residents along the NSW south coast to keep an eye on the waves today..."
+      "NBA insiders break down OKC's win and biggest takeaways from Game 2 of the 2025 Finals."
     ],
-    "image_url": "https://i.guim.co.uk/img/media/e724e39eb5de1bc3ef1824d9a5c91834eb14cd0f/295_427_1341_1073/master/1341.jpg?width=140&quality=85&auto=format&fit=max&s=68910bcd8e386b47547738e92991fc34",
+    "image_url": "",
     "titles": [
-      "Australia news live: drivers trapped in heavy snow near Mount Hotham; two bushwalkers rescued in Kosciuszko national park"
+      "2025 NBA Finals: SGA leads Thunder to Game 2 bounce-back"
     ],
-    "summary": "Victoria SES is currently conducting ongoing rescues near Hotham Heights as confirmed this morning. In a separate incident, whale rescuers have requested public assistance to monitor a tangled humpback whale moving south along the NSW coast. Residents are urged to report sightings to aid in the rescue efforts.",
+    "summary": "NBA insiders analyzed Oklahoma City Thunder's victory in Game 2 of the 2025 NBA Finals, highlighting key strategies and player performances that led to their win. The analysis provided insights into how OKC's defensive adjustments and offensive execution were crucial in securing the win, setting the stage for the rest of the series. The outcome marks a significant moment in the Finals, with OKC evening the series at 1-1.",
     "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive as it provides useful information about ongoing rescue operations and how the public can assist in the whale rescue. It increases awareness about the situation and encourages public participation.",
+    "constructiveness_reason": "This story offers useful insights into the strategies and player performances that led to the Oklahoma City Thunder's victory. It provides readers with a deeper understanding of the game, contributing to their knowledge of basketball strategy. However, it doesn't highlight any systemic issues or trends in the sport, limiting its score.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.993,
+      "magnitude": 0.039,
+      "recency": 0.983,
       "consensus": 0.33,
       "constructiveness": 0.8,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.442
+    "score": 0.448
+  },
+  {
+    "title": "Thunder Defeat Pacers, Tie NBA Finals Series 1-1",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 8 Jun 2025 22:57:50 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "domains": [
+      "sports"
+    ],
+    "snippets": [
+      "The Thunder did what they have done all season after a loss and blew out the Indiana Pacers in Game 2 of the NBA Finals to even the series."
+    ],
+    "image_url": "",
+    "titles": [
+      "Thunder bounce back with dominant Game 2 win"
+    ],
+    "summary": "The Oklahoma City Thunder defeated the Indiana Pacers in Game 2 of the NBA Finals, evening the series. This victory follows the team's pattern of rebounding strongly after a loss throughout the season.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about the outcome of a specific NBA game but does not offer deeper insights or understanding that would be useful to the reader beyond the game's result.",
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.977,
+      "consensus": 0.33,
+      "constructiveness": 0.3,
+      "proximity": 0.75
+    },
+    "score": 0.397
   },
   {
     "title": "Alcaraz Defends French Open Title, Overcomes Sinner in Comeback",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 8 Jun 2025 19:48:23 EST",
+    "published": "Sun, 8 Jun 2025 22:57:50 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
@@ -271,18 +333,18 @@
     "constructiveness_reason": "While the story provides basic awareness of the event and its outcome, it doesn't offer much depth or insight beyond the fact of Alcaraz's victory. It doesn't provide actionable insights or deeper understanding of the context or significance of the event.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.994,
+      "recency": 0.977,
       "consensus": 0.33,
       "constructiveness": 0.5,
       "proximity": 0.75
     },
-    "score": 0.42
+    "score": 0.417
   },
   {
-    "title": "Portugal Wins Second Nations League Title, Beats Spain in Penalties",
+    "title": "Nick Chubb to Sign One-Year Contract with Houston Texans",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 8 Jun 2025 19:48:23 EST",
+    "published": "Sun, 8 Jun 2025 22:57:50 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
@@ -291,60 +353,91 @@
       "sports"
     ],
     "snippets": [
-      "Portugal picked up their second Nations League title after beating holders Spain 5-3 in a penalty shootout following a 2-2 draw in Sunday's final."
+      "Four-time Pro Bowl running back Nick Chubb is expected to sign a one-year deal with the Texans on Monday, sources told ESPN."
     ],
     "image_url": "",
     "titles": [
-      "Ronaldo goal helps Portugal beat Spain to win NL"
+      "Sources: RB Chubb expected to sign with Texans"
     ],
-    "summary": "Portugal won their second Nations League title by defeating Spain in a penalty shootout with a score of 5-3, after the match ended in a 2-2 draw in regular time during Sunday's final.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness of the result of the match, but it doesn't offer any deeper understanding or insights into the game, the players, or the significance of the victory. It doesn't report on solutions or improvements, nor does it increase clarity around systems, causes, or trends.",
-    "score_components": {
-      "magnitude": 0.059,
-      "recency": 0.994,
-      "consensus": 0.33,
-      "constructiveness": 0.5,
-      "proximity": 0.75
-    },
-    "score": 0.427
-  },
-  {
-    "title": "Sky's Courtney Vandersloot Out for 2025 Season with Torn ACL",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sun, 8 Jun 2025 19:48:23 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "Veteran Sky point guard Courtney Vandersloot suffered a torn right ACL and will miss the rest of the 2025 season, the team announced Sunday."
-    ],
-    "image_url": "",
-    "titles": [
-      "Sky's Vandersloot (ACL) will miss rest of season"
-    ],
-    "summary": "Courtney Vandersloot, the veteran point guard for the Sky, has torn her right ACL and will not play for the remainder of the 2025 season, according to an announcement from the team on Sunday.",
+    "summary": "Four-time Pro Bowl running back Nick Chubb is set to sign a one-year contract with the Houston Texans on Monday, according to sources cited by ESPN.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about an injury to a key player in the Sky team. However, it lacks depth and insight, offering no information on how this might impact the team's performance or strategies, or any potential replacements.",
+    "constructiveness_reason": "This story offers basic awareness about a player's career move but does not provide any further insights or context that would be useful to the reader or contribute to their understanding of the broader implications of this move.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.994,
+      "recency": 0.977,
       "consensus": 0.33,
       "constructiveness": 0.3,
       "proximity": 0.75
     },
-    "score": 0.4
+    "score": 0.397
+  },
+  {
+    "title": "Sky's Courtney Vandersloot Out for Season with Torn ACL",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 8 Jun 2025 22:57:50 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "domains": [
+      "sports"
+    ],
+    "snippets": [
+      "Veteran Sky point guard Courtney Vandersloot will miss the rest of the 2025 season after tearing her right ACL, the team announced Sunday."
+    ],
+    "image_url": "",
+    "titles": [
+      "Sky's Vandersloot out for season with ACL tear"
+    ],
+    "summary": "Courtney Vandersloot, the veteran point guard for the Sky, will be out for the remainder of the 2025 season due to a torn right ACL, as announced by the team on Sunday.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about a player's injury status but does not offer any deeper insights or understanding about the implications of this injury for the team or the player's career.",
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.977,
+      "consensus": 0.33,
+      "constructiveness": 0.3,
+      "proximity": 0.75
+    },
+    "score": 0.397
+  },
+  {
+    "title": "Wander Franco Charged with Gun Possession Amid Sexual Abuse Trial",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 8 Jun 2025 22:57:50 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "domains": [
+      "sports"
+    ],
+    "snippets": [
+      "Rays shortstop Wander Franco, who's currently on trial on charges including sexual abuse of a minor, was charged Sunday with illegal possession of a handgun."
+    ],
+    "image_url": "",
+    "titles": [
+      "Rays' Franco charged with gun possession in D.R."
+    ],
+    "summary": "Tampa Bay Rays shortstop Wander Franco, who is on trial for charges of sexual abuse of a minor, faced additional legal trouble as he was charged with illegal possession of a handgun on Sunday. This development adds to the legal challenges confronting Franco amidst his ongoing trial.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about the legal challenges faced by a public figure, but it does not provide any depth or insight into the broader issues at play, such as the prevalence of such issues in sports or the legal system's handling of such cases.",
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.977,
+      "consensus": 0.33,
+      "constructiveness": 0.3,
+      "proximity": 0.75
+    },
+    "score": 0.397
   },
   {
     "title": "Skenes Shines in Pitching, Pirates Win Despite No Victory for Ace",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 8 Jun 2025 19:48:23 EST",
+    "published": "Sun, 8 Jun 2025 22:57:50 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
@@ -364,18 +457,18 @@
     "constructiveness_reason": "This story provides useful context about the game and the performance of Paul Skenes. However, it doesn't provide much insight into the implications of this event, such as how it might affect the team's morale or future strategy.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.994,
+      "recency": 0.977,
       "consensus": 0.33,
       "constructiveness": 0.6,
       "proximity": 0.75
     },
-    "score": 0.43
+    "score": 0.427
   },
   {
-    "title": "Dallas Mavericks Schedule Private Visit with Top Draft Pick Cooper Flagg",
+    "title": "Ronaldo Tears Up as Portugal Wins Second Nations League Title",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 8 Jun 2025 19:48:23 EST",
+    "published": "Sun, 8 Jun 2025 22:57:50 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
@@ -384,116 +477,23 @@
       "sports"
     ],
     "snippets": [
-      "The Dallas Mavericks, owners of the No. 1 pick in the 2025 NBA draft, have scheduled a private visit for projected No. 1 pick Cooper Flagg on June 17, sources told ESPN."
+      "Portugal skipper Cristiano Ronaldo shed tears of joy as they won their second Nations League title on Sunday, insisting that winning trophies with his country beats all club honors."
     ],
     "image_url": "",
     "titles": [
-      "Sources: Mavericks to work out Flagg on June 17"
+      "Tearful Ronaldo says 'duty done' after 2nd NL win"
     ],
-    "summary": "The Dallas Mavericks, holding the No. 1 pick in the 2025 NBA draft, have arranged a private visit with Cooper Flagg, the projected top pick, on June 17, according to sources cited by ESPN.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs readers about the Dallas Mavericks' interest in Cooper Flagg, a top draft pick. However, it doesn't provide much depth or insight into why the Mavericks are interested in him, or how he might fit into their team.",
+    "summary": "Cristiano Ronaldo expressed immense joy, shedding tears as Portugal secured their second Nations League title on Sunday. He emphasized that winning trophies with his national team surpasses any club achievements, highlighting the significance of this victory for him personally and for Portugal.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story offers basic awareness about a sports event and the emotional reaction of a player. However, it lacks depth or insight into the significance of the event, the performance of the team, or the implications for the sport.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.994,
+      "recency": 0.977,
       "consensus": 0.33,
-      "constructiveness": 0.6,
+      "constructiveness": 0.3,
       "proximity": 0.75
     },
-    "score": 0.43
-  },
-  {
-    "title": "Oilers Leverage Past Cup Final Loss to Bounce Back from Game 2 OT Defeat",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sun, 8 Jun 2025 19:48:23 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "The Oilers are leaning on their experience from losing in the Cup Final last year to try to turn the page from an emotional overtime loss in Game 2."
-    ],
-    "image_url": "",
-    "titles": [
-      "Oilers shrug off 'what-ifs,' turn page after OT loss"
-    ],
-    "summary": "The Oilers are using their experience from last year's Cup Final loss to recover from a recent emotional overtime defeat in Game 2. This approach suggests they are focusing on resilience and learning from past challenges to improve their performance moving forward.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story provides a deeper understanding of the team's strategy and mindset, which could be useful for readers interested in sports psychology or team dynamics. However, it doesn't report on a solution or innovation, and its impact is limited to the sports world.",
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.994,
-      "consensus": 0.33,
-      "constructiveness": 0.7,
-      "proximity": 0.75
-    },
-    "score": 0.44
-  },
-  {
-    "title": "MLS, Players Union Discuss Club World Cup Prize Money in CBA Talks",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sun, 8 Jun 2025 19:48:23 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "The discussions between MLS and the MLS Players Association over the Club World Cup prize money and player compensation remain ongoing, with the two sides failing to agree so far on terms in a newly revised section of the CBA."
-    ],
-    "image_url": "",
-    "titles": [
-      "MLS, players still at odds on CWC compensation"
-    ],
-    "summary": "The Major League Soccer (MLS) and the MLS Players Association are currently in negotiations regarding the distribution of Club World Cup prize money and player compensation. These discussions are part of a revision to the Collective Bargaining Agreement (CBA), but the two parties have not yet reached an agreement on the terms.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about ongoing negotiations that could impact player compensation and the distribution of prize money. It also increases awareness about the process of revising the Collective Bargaining Agreement. However, it does not report on a solution or progress, as the negotiations are still ongoing.",
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.994,
-      "consensus": 0.33,
-      "constructiveness": 0.8,
-      "proximity": 0.75
-    },
-    "score": 0.45
-  },
-  {
-    "title": "Lewandowski Refuses to Play for Poland Under Coach Probierz",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sun, 8 Jun 2025 19:48:23 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "Barcelona striker Robert Lewandowski has announced he will not play for the Poland national team for as long as coach Michał Probierz remains in charge."
-    ],
-    "image_url": "",
-    "titles": [
-      "Lewandowski boycotting Poland after captain snub"
-    ],
-    "summary": "Barcelona striker Robert Lewandowski has declared he will not participate in matches for the Poland national team while Michał Probierz serves as the team's coach. This decision marks a significant stance from Lewandowski, one of Poland's most prominent footballers, against the current coaching leadership.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story offers basic awareness about a conflict within the Poland national team, but it doesn't provide much depth or insight beyond reporting the facts. It doesn't report on a solution or progress, and it doesn't provide actionable insights for the reader.",
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.994,
-      "consensus": 0.33,
-      "constructiveness": 0.5,
-      "proximity": 0.75
-    },
-    "score": 0.42
+    "score": 0.397
   },
   {
     "title": "Jobs Report Spurs S&P 500 Rally, Nears Record High",
@@ -518,13 +518,13 @@
     "constructiveness_score": 0.8,
     "constructiveness_reason": "This story is constructive as it provides useful information about the current state of the job market and its impact on the stock market. However, it doesn't provide solutions or deep insights into the causes or trends.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.984,
+      "magnitude": 0.039,
+      "recency": 0.905,
       "consensus": 0.33,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.44
+    "score": 0.407
   },
   {
     "title": "Troops to Be Deployed Extensively to Prevent Unspecified Event",
@@ -549,13 +549,13 @@
     "constructiveness_score": 0.3,
     "constructiveness_reason": "The story offers basic awareness about the deployment of troops but lacks depth or insight. It doesn't provide any actionable insights or understanding of the situation due to the unspecified nature of the event.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.982,
+      "magnitude": 0.039,
+      "recency": 0.903,
       "consensus": 0.33,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.39
+    "score": 0.357
   },
   {
     "title": "Newsom Criticizes Trump's National Guard Deployment in L.A.",
@@ -580,44 +580,13 @@
     "constructiveness_score": 0.6,
     "constructiveness_reason": "The story provides useful context about a political disagreement, increasing clarity around the systems of decision-making regarding National Guard deployment. However, it doesn't delve into the impacts or potential solutions to the issue at hand, limiting its constructive value.",
     "score_components": {
-      "magnitude": 0.109,
-      "recency": 0.976,
+      "magnitude": 0.059,
+      "recency": 0.898,
       "consensus": 0.33,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.426
-  },
-  {
-    "title": "Protests Continue for 3 Days Against Trump's Troop Deployment for Raids",
-    "domain": "business",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 22:47:25 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "Demonstrations against immigration raids continue for third day after Trump sends in troops"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F79d21294-00f5-4a2b-81db-a1418c642845.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Federal agents clash with anti-deportation protesters in LA"
-    ],
-    "summary": "Demonstrations have persisted for three days in response to President Trump's decision to deploy troops to conduct immigration raids. The protests are a direct reaction against the administration's immigration enforcement actions.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs readers about ongoing protests against a political decision, providing some context even if the topic is negative. However, it doesn't report on solutions or improvements, nor does it offer deep understanding of the underlying issues.",
-    "score_components": {
-      "magnitude": 0.129,
-      "recency": 0.973,
-      "consensus": 0.33,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.432
+    "score": 0.393
   },
   {
     "title": "China Faces Economic Concerns as Consumer Demand Drops, Prices Cut",
@@ -642,13 +611,44 @@
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story provides useful information about the current economic situation in China, which could influence decision-making for businesses or individuals with economic interests in the region. However, it doesn't provide solutions or deeper insights into the causes or potential impacts of the situation.",
     "score_components": {
-      "magnitude": 0.109,
-      "recency": 0.971,
+      "magnitude": 0.059,
+      "recency": 0.893,
       "consensus": 0.33,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.425
+    "score": 0.392
+  },
+  {
+    "title": "2025 U.S. Open to Be Held at Oakmont Country Club",
+    "domain": "business",
+    "location": "global",
+    "published": "Sun, 08 Jun 2025 22:35:47 -0400",
+    "source": "Forbes",
+    "sources": [
+      "Forbes"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "2025 U.S. Open at Oakmont Country Club.  How to watch and viewers guide with tee times, broadcast information and golf course information."
+    ],
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6845c809ea954dd64b0d37bf/0x0.jpg?width=960",
+    "titles": [
+      "U.S. Open 2025: How To Watch And Viewers Guide"
+    ],
+    "summary": "The 2025 U.S. Open is set to take place at Oakmont Country Club. Viewers can watch the event by following the provided tee times and broadcast information. The guide also includes details about the golf course.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about an upcoming sports event, including where it will be held and how to watch it. However, it does not report on any progress, solutions, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.969,
+      "consensus": 0.33,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.4
   },
   {
     "title": "Chancellor Announces 2.8% Increase in NHS Annual Spending for Next 3 Years",
@@ -673,13 +673,13 @@
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story clearly reports on a solution (increased spending) to improve services in the NHS. It provides actionable insights for those involved in the health service and contributes to the reader's understanding of the financial decisions impacting the NHS.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.957,
+      "magnitude": 0.039,
+      "recency": 0.88,
       "consensus": 0.33,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.445
+    "score": 0.412
   },
   {
     "title": "Officials Criticize Terry Moran's Late-Night Comments on Platform X",
@@ -704,13 +704,13 @@
     "constructiveness_score": 0.3,
     "constructiveness_reason": "This story mainly focuses on a conflict between officials and Terry Moran, providing basic awareness of the situation but no actionable insights or deeper understanding. It doesn't report on solutions or attempts to solve the problem, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.943,
+      "magnitude": 0.039,
+      "recency": 0.867,
       "consensus": 0.33,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.382
+    "score": 0.35
   },
   {
     "title": "U.S. Announces Travel Ban, Exempts Existing Visa Holders",
@@ -735,13 +735,75 @@
     "constructiveness_score": 0.7,
     "constructiveness_reason": "This story is useful for travelers, especially those with existing visas, as it informs them about the new policy and its implications. However, it doesn't report on the reasons behind the policy, its potential impacts, or any solutions or improvements related to the issue.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.931,
+      "magnitude": 0.039,
+      "recency": 0.856,
       "consensus": 0.33,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.42
+    "score": 0.387
+  },
+  {
+    "title": "ETH Zurich Unveils Why Seismic Waves Accelerate in Earth's Deep \"D\" Layer",
+    "domain": "science",
+    "location": "global",
+    "published": "Sun, 08 Jun 2025 22:21:55 EDT",
+    "source": "ScienceDaily",
+    "sources": [
+      "ScienceDaily"
+    ],
+    "domains": [
+      "science"
+    ],
+    "snippets": [
+      "Beneath Earth s surface, nearly 3,000 kilometers down, lies a mysterious layer where seismic waves speed up inexplicably. For decades, scientists puzzled over this D\" layer. Now, groundbreaking experiments by ETH Zurich have finally revealed that solid rock flows at extreme depths, acting like liquid in motion. This horizontal mantle flow aligns mineral crystals called post-perovskite in a single direction, explaining the seismic behavior. It s a stunning leap in understanding Earth s deep inner mechanics, transforming a long-standing mystery into a vivid map of subterranean currents that..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Earth’s core mystery solved: How solid rock flows 3,000 kilometers beneath us"
+    ],
+    "summary": "ETH Zurich scientists have uncovered the mystery behind the D\" layer, located nearly 3,000 kilometers beneath Earth's surface, where seismic waves inexplicably speed up. Their groundbreaking experiments demonstrate that solid rock can flow like liquid at extreme depths, due to horizontal mantle flow aligning mineral crystals called post-perovskite in one direction. This discovery explains the peculiar seismic behavior observed in this layer, offering a significant advancement in our understanding of Earth's deep inner mechanics.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is highly constructive as it provides readers with a deeper understanding of Earth's inner mechanics, which is useful for geologists and those interested in Earth sciences. It reports on a significant scientific breakthrough, indicating progress in the field. It also increases awareness about the complex processes occurring beneath Earth's surface.",
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.965,
+      "consensus": 0.33,
+      "constructiveness": 0.9,
+      "proximity": 0.5
+    },
+    "score": 0.429
+  },
+  {
+    "title": "Quantum Computers Boost Machine Learning, Offer Sustainable Computing Path",
+    "domain": "science",
+    "location": "global",
+    "published": "Sun, 08 Jun 2025 22:20:02 EDT",
+    "source": "ScienceDaily",
+    "sources": [
+      "ScienceDaily"
+    ],
+    "domains": [
+      "science"
+    ],
+    "snippets": [
+      "A team of researchers has shown that even small-scale quantum computers can enhance machine learning performance, using a novel photonic quantum circuit. Their findings suggest that today s quantum technology isn t just experimental it can already outperform classical systems in specific tasks. Notably, this photonic approach could also drastically reduce energy consumption, offering a sustainable path forward as machine learning s power needs soar."
+    ],
+    "image_url": "",
+    "titles": [
+      "Photonic quantum chips are making AI smarter and greener"
+    ],
+    "summary": "Researchers have demonstrated that small-scale quantum computers, through a new photonic quantum circuit, can improve machine learning performance beyond classical systems in certain tasks. This advancement not only showcases the practical applicability of current quantum technology but also presents a potential solution for reducing the high energy demands of machine learning, marking a significant step towards sustainable computing.",
+    "constructiveness_score": 1.0,
+    "constructiveness_reason": "This story is extremely constructive. It reports on an innovation that improves machine learning performance and offers a potential solution for reducing the high energy demands of machine learning. This not only provides actionable insights for those in the tech industry but also raises awareness about the need for sustainable computing. The story clearly highlights progress and solutions in the field of quantum computing.",
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.964,
+      "consensus": 0.33,
+      "constructiveness": 1.0,
+      "proximity": 0.5
+    },
+    "score": 0.446
   },
   {
     "title": "Cambridge Develops Superior Quantum Sensor with Hexagonal Boron Nitride",
@@ -766,13 +828,13 @@
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story is constructive as it reports on a significant innovation in quantum sensing technology, offering the reader a deeper understanding of the advancements in this field. It also provides awareness about the potential impacts of this new technology on magnetic field measurements.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.945,
+      "magnitude": 0.039,
+      "recency": 0.869,
       "consensus": 0.33,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.443
+    "score": 0.41
   },
   {
     "title": "Breakthrough in Quantum Interferometry Enhances Precision Measurements",
@@ -797,13 +859,13 @@
     "constructiveness_score": 0.9,
     "constructiveness_reason": "The story is highly constructive, as it informs the reader about a groundbreaking tool in quantum interferometry, thus enhancing their understanding of the subject. It also highlights progress and potential applications in various scientific areas, empowering the reader with knowledge.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.937,
+      "magnitude": 0.039,
+      "recency": 0.862,
       "consensus": 0.33,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.441
+    "score": 0.409
   },
   {
     "title": "New Diamond Sensor Enhances Quantum and Biological Detection",
@@ -828,13 +890,13 @@
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This news story is constructive as it provides useful information about a new diamond sensor that advances quantum science and cellular biology. It reports on a solution that could significantly enhance the ability to detect and analyze biological and quantum phenomena, thus contributing to the reader's understanding and awareness.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.929,
+      "magnitude": 0.039,
+      "recency": 0.854,
       "consensus": 0.33,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.439
+    "score": 0.407
   },
   {
     "title": "South Africa's Rhino Population Plummets from 10,000 to 2,600",
@@ -859,13 +921,13 @@
     "constructiveness_score": 0.5,
     "constructiveness_reason": "This story raises awareness about the decline in rhino populations in South Africa due to poaching, which is important. However, it doesn't provide actionable insights for the reader or report on any solutions or attempts to solve the problem, which limits its constructiveness.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.968,
+      "magnitude": 0.039,
+      "recency": 0.89,
       "consensus": 0.33,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.407
+    "score": 0.374
   },
   {
     "title": "Study Shows Seasonal Sunlight Affects Human Circadian Rhythms",
@@ -890,13 +952,13 @@
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story is highly constructive as it provides a deeper understanding of how seasonal sunlight variations affect human circadian rhythms. It also provides actionable insights for individuals who might be affected by changes in day length or shift work, and increases awareness about the impact of our natural environment on our health.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.844,
+      "magnitude": 0.039,
+      "recency": 0.777,
       "consensus": 0.33,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.422
+    "score": 0.392
   },
   {
     "title": "New Antibiotic Class \"Lariocidin\" Discovered After 30 Years",
@@ -921,74 +983,12 @@
     "constructiveness_score": 1.0,
     "constructiveness_reason": "This story is highly constructive. It provides useful information on a significant scientific breakthrough, which is the discovery of a new class of antibiotics. The story also highlights progress in the field of medicine, particularly in addressing the problem of drug-resistant bacteria. It increases awareness about the importance of continued research and innovation in healthcare.",
     "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.837,
+      "magnitude": 0.039,
+      "recency": 0.77,
       "consensus": 0.33,
       "constructiveness": 1.0,
       "proximity": 0.5
     },
-    "score": 0.431
-  },
-  {
-    "title": "MIND Diet Linked to 25% Lower Dementia Risk, Study Finds",
-    "domain": "science",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 15:08:05 +0000",
-    "source": "SciTechDaily",
-    "sources": [
-      "SciTechDaily"
-    ],
-    "domains": [
-      "science"
-    ],
-    "snippets": [
-      "<a href=\"https://scitechdaily.com/this-diet-could-reduce-your-risk-of-dementia-by-up-to-25-new-study-reveals/\" rel=\"nofollow\" title=\"This Diet Could Reduce Your Risk of Dementia by up to 25%, New Study Reveals\"><img alt=\"Doctor Examining Brain Hologram Close\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Doctor-Examining-Brain-Hologram-Close-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Adopting the MIND diet, even later in life, is associated with a reduced risk of developing dementia. As the U.S...."
-    ],
-    "image_url": "",
-    "titles": [
-      "This Diet Could Reduce Your Risk of Dementia by up to 25%, New Study Reveals"
-    ],
-    "summary": "A recent study has found that following the MIND diet can lower the risk of dementia by up to 25%. This diet, which emphasizes the consumption of brain-healthy foods, shows benefits for individuals even when adopted later in life.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it offers actionable insights for readers on how to potentially lower their risk of dementia through diet. It reports on a solution, the MIND diet, and its potential benefits. The story also increases awareness about the link between diet and cognitive health.",
-    "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.83,
-      "consensus": 0.33,
-      "constructiveness": 0.9,
-      "proximity": 0.5
-    },
-    "score": 0.42
-  },
-  {
-    "title": "Environmental Rules Lead to Manure Surplus, Increased Fertilizer Use",
-    "domain": "science",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 13:50:01 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "domains": [
-      "science"
-    ],
-    "snippets": [
-      "Due to strict environmental regulations, farmers are not allowed to spread all of their manure on their land. At the same time, they use synthetic fertilizers to provide their crops with sufficient nutrients. The result: a growing manure surplus and the loss of valuable nutrients."
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/no-more-manure-waste.jpg",
-    "titles": [
-      "Moving toward circular agriculture thanks to nutrient separation from manure"
-    ],
-    "summary": "Strict environmental regulations prevent farmers from spreading all their manure on their land, leading to a surplus of manure. Meanwhile, to ensure their crops receive enough nutrients, farmers use synthetic fertilizers. This situation has resulted in both a growing manure surplus and a loss of valuable nutrients from the natural manure that could benefit the soil.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the unintended consequences of environmental regulations on farming practices. It helps readers understand the complexity of environmental regulation and its impacts. However, it doesn't report on any solutions or improvements, which would make it more constructive.",
-    "score_components": {
-      "magnitude": 0.089,
-      "recency": 0.878,
-      "consensus": 0.33,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.399
+    "score": 0.4
   }
 ]
