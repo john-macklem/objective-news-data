@@ -23,12 +23,12 @@
     "constructiveness_reason": "This story is constructive as it provides a deeper understanding of how a community can transform itself, highlighting the collective efforts of residents and officials. It also reports on a positive outcome, the city's national recognition, which can be seen as a solution or improvement to the previous state of blight.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.696,
+      "recency": 0.69,
       "consensus": 0.393,
       "constructiveness": 0.9,
       "proximity": 0.75
     },
-    "score": 0.416
+    "score": 0.415
   },
   {
     "title": "Trump Orders National Guard to LA Amid Claims of Chaos, City Life Unaffected",
@@ -54,12 +54,12 @@
     "constructiveness_reason": "This story offers basic awareness of the situation in Los Angeles and the President's response, but it lacks depth or insight into why the National Guard was ordered and what the actual impacts are. It does not provide actionable insights or contribute to the reader's understanding of the situation.",
     "score_components": {
       "magnitude": 0.079,
-      "recency": 0.644,
+      "recency": 0.639,
       "consensus": 0.393,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.355
+    "score": 0.354
   },
   {
     "title": "Wuppertal Schwebebahn Marks 125 Years as a Beloved Historical Transport",
@@ -85,43 +85,12 @@
     "constructiveness_reason": "This story provides a deeper understanding of the historical significance and charm of the Wuppertal Schwebebahn. However, it doesn't provide actionable insights or report on solutions, improvements, or innovations.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.701,
+      "recency": 0.695,
       "consensus": 0.393,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.362
-  },
-  {
-    "title": "Portugal Wins Nations League, Defeats Spain 5-3 in Shootout",
-    "domain": "general",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 22:17:43 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera"
-    ],
-    "domains": [
-      "general"
-    ],
-    "snippets": [
-      "Ruben Neves scores winning penalty kick as Portugal defeat Spain 5-3 in a shootout to win the Nations League title."
-    ],
-    "image_url": "",
-    "titles": [
-      "Portugal beat Spain in penalty shootout to win second Nations League crown"
-    ],
-    "summary": "Ruben Neves scored the decisive penalty kick, leading Portugal to a 5-3 shootout victory over Spain in the Nations League final. This win secured the Nations League title for Portugal.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "The story provides basic awareness about the result of a soccer match but does not offer deeper insights or actionable information. It does not report on improvements, solutions, or trends that matter.",
-    "score_components": {
-      "magnitude": 0.059,
-      "recency": 0.691,
-      "consensus": 0.393,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.337
+    "score": 0.361
   },
   {
     "title": "Gandhi Aides Push for Presidential System to Centralize Power in India",
@@ -147,12 +116,12 @@
     "constructiveness_reason": "This story provides useful context about a potential shift in India's political system, which could influence decision-making both within and outside the country. It does not, however, highlight solutions or progress towards resolving any specific problem.",
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.687,
+      "recency": 0.681,
       "consensus": 0.393,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.386
+    "score": 0.385
   },
   {
     "title": "Israelis, Palestinians Clash Over Tunnel's Significance",
@@ -178,74 +147,105 @@
     "constructiveness_reason": "The story informs readers about a contested issue between Israelis and Palestinians, providing context to understand the ongoing conflict. It increases clarity around the systems and causes of the conflict, but does not offer solutions or highlight progress towards resolving the issue.",
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.684,
+      "recency": 0.678,
       "consensus": 0.393,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.376
+    "score": 0.375
   },
   {
-    "title": "Israeli Strike in Syria Kills One, Injures Two: Rights Group",
+    "title": "French Open Finals Showcase Exceptional Talent, Draw Global Viewers",
     "domain": "general",
     "location": "global",
-    "published": "Sun, 08 Jun 2025 21:48:34 +0000",
-    "source": "Al Jazeera",
+    "published": "Sun, 08 Jun 2025 21:10:02 +0000",
+    "source": "New York Times",
     "sources": [
-      "Al Jazeera"
+      "New York Times"
     ],
     "domains": [
       "general"
     ],
     "snippets": [
-      "Syrian Observatory for Human Rights reports one dead and two others wounded in the Israeli attack on a vehicle."
+      "Plus, the French Open’s stunning finals."
     ],
-    "image_url": "",
+    "image_url": "https://static01.nyt.com/images/2025/06/08/multimedia/09ambriefing-asia/09ambriefing-asia-mediumSquareAt3X-v3.jpg",
     "titles": [
-      "Israel strikes Syria again, claims to have killed alleged Hamas member"
+      "Monday Briefing: Tensions Flare in Los Angeles"
     ],
-    "summary": "An Israeli attack on a vehicle in Syria resulted in one fatality and two injuries, as reported by the Syrian Observatory for Human Rights.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness of an event but lacks depth or insight. It does not provide any actionable insights or deeper understanding, nor does it report on solutions, improvements, or attempts to solve problems. It also does not increase clarity around systems, causes, trends, or impacts.",
+    "summary": "The French Open concluded with remarkable finals, capturing global attention. The outcomes of these matches have been widely discussed, highlighting the exceptional skill and competition displayed by the players. This event has further solidified its status as a premier tournament in the tennis world.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "While the story provides basic awareness about the French Open finals and its global attention, it lacks depth or actionable insights. It does not provide specific details about the matches, players, or the impact of this event on the tennis world.",
     "score_components": {
-      "magnitude": 0.169,
-      "recency": 0.684,
+      "magnitude": 0.039,
+      "recency": 0.669,
+      "consensus": 0.393,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.346
+  },
+  {
+    "title": "Trump Policies May Affect Club World Cup Ticket Sales",
+    "domain": "general",
+    "location": "global",
+    "published": "Sun, 08 Jun 2025 20:12:24 +0000",
+    "source": "New York Times",
+    "sources": [
+      "New York Times"
+    ],
+    "domains": [
+      "general"
+    ],
+    "snippets": [
+      "The Trump administration’s policies may have contributed to lower ticket sales for a Club World Cup tournament starting next week."
+    ],
+    "image_url": "https://static01.nyt.com/images/2025/06/08/multimedia/08int-soccer-travel01-photo-wbcz/08int-soccer-travel01-photo-wbcz-mediumSquareAt3X.jpg",
+    "titles": [
+      "Soccer Fans Fear Being Targets of U.S. Immigration Raids"
+    ],
+    "summary": "The Trump administration's policies are reported to have potentially impacted ticket sales for the upcoming Club World Cup tournament.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story informs readers about a potential impact of Trump administration's policies on Club World Cup ticket sales. However, it lacks detailed information or context about how these policies are affecting the sales or what the implications might be.",
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.656,
+      "consensus": 0.393,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.36
+  },
+  {
+    "title": "Israeli Military Finds Mohammed Sinwar's Body in Hospital Tunnel",
+    "domain": "general",
+    "location": "global",
+    "published": "Sun, 08 Jun 2025 20:05:41 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC"
+    ],
+    "domains": [
+      "general"
+    ],
+    "snippets": [
+      "The Israeli military says Mohammed Sinwar's body was discovered in a tunnel at a hospital."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4e6/live/8171eb10-44a3-11f0-835b-310c7b938e84.jpg",
+    "titles": [
+      "Israel says Hamas Gaza chief Sinwar's body identified"
+    ],
+    "summary": "The Israeli military has confirmed the discovery of Mohammed Sinwar's body inside a tunnel located at a hospital. This statement provides the current status of Sinwar's situation, indicating his demise. Further details about the circumstances surrounding the discovery have not been provided.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story offers basic awareness about the discovery of Mohammed Sinwar's body, but it provides minimal depth or insight. It does not explain who Sinwar is, why his death is significant, or what the implications might be.",
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.654,
       "consensus": 0.393,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.374
-  },
-  {
-    "title": "UN Rapporteur Criticizes US-Backed Gaza Aid as 'Humanitarian Camouflage'",
-    "domain": "general",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 21:34:24 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera"
-    ],
-    "domains": [
-      "general"
-    ],
-    "snippets": [
-      "UN rapporteur Francesca Albanese brands US-backed Gaza aid system ‘humanitarian camouflage’, &#039;tactic of this genocide&#039;."
-    ],
-    "image_url": "",
-    "titles": [
-      "Gaza aid sites branded ‘human slaughterhouses’ under deadly Israeli fire"
-    ],
-    "summary": "UN rapporteur Francesca Albanese criticized the US-backed Gaza aid system as 'humanitarian camouflage,' labeling it a 'tactic of this genocide.' Albanese's statements highlight her concerns over the effectiveness and intentions behind the aid system in place for Gaza, suggesting it serves more to mask underlying issues than to address the humanitarian needs of the region.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information and context about the aid system in Gaza, critiquing its effectiveness and intentions. It increases awareness about a significant issue and provides a deeper understanding of the situation, although it does not highlight any solutions or improvements.",
-    "score_components": {
-      "magnitude": 0.059,
-      "recency": 0.68,
-      "consensus": 0.393,
-      "constructiveness": 0.8,
-      "proximity": 0.5
-    },
-    "score": 0.385
+    "score": 0.33
   },
   {
     "title": "Powell's Stunning Catch Leads to Duckett's Dismissal in T20I Match",
@@ -271,49 +271,18 @@
     "constructiveness_reason": "While this story provides basic awareness of an event in a cricket match, it lacks depth or insight. It does not provide actionable insights or deeper understanding, nor does it report on solutions, improvements, or attempts to solve problems. It also does not increase clarity around systems, causes, trends, or impacts.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.619,
+      "recency": 0.614,
       "consensus": 0.393,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.316
+    "score": 0.315
   },
   {
-    "title": "West Indies Hits Five Sixes in One Over Against England in T20 Match",
-    "domain": "sports",
-    "location": "global",
-    "published": "Sun, 08 Jun 2025 16:12:00 BST",
-    "source": "Sky Sports",
-    "sources": [
-      "Sky Sports"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "Watch the West Indies claim five sixes in one over against England in their T20 clash in Bristol."
-    ],
-    "image_url": "https://e2.365dm.com/25/06/1920x1080/skysports-west-indies-cricket_6936902.jpg?20250608161705",
-    "titles": [
-      "'Extraordinary!' | West Indies smash FIVE sixes in one over"
-    ],
-    "summary": "In a T20 match in Bristol, the West Indies cricket team achieved the remarkable feat of hitting five sixes in a single over against England. This performance highlights the West Indies' aggressive batting strategy and skill in the shorter format of the game.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about a remarkable feat in a cricket match. However, it does not offer any actionable insights, report on solutions or improvements, or increase clarity around systems, causes, trends, or impacts that matter.",
-    "score_components": {
-      "magnitude": 0.059,
-      "recency": 0.608,
-      "consensus": 0.393,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.32
-  },
-  {
-    "title": "FIFA Pledges Better Pitch Conditions for US-hosted World Cups",
+    "title": "Thunder Levels NBA Finals Series in Game 2 Victory",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 9 Jun 2025 11:48:58 EST",
+    "published": "Mon, 9 Jun 2025 12:18:47 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
@@ -322,29 +291,91 @@
       "sports"
     ],
     "snippets": [
-      "Players slammed the pitch conditions in the U.S. for the Copa America. FIFA is making sure the Club World Cup and 2026 World Cup are different."
+      "NBA insiders break down OKC's win and biggest takeaways from Game 2 of the 2025 Finals."
     ],
     "image_url": "",
     "titles": [
-      "After Copa America 'disaster,' FIFA is using Club World Cup to be ready for 2026"
+      "SGA leads Thunder to Game 2 bounce-back"
     ],
-    "summary": "Following criticisms from players regarding the pitch conditions during the Copa America held in the U.S., FIFA has committed to ensuring that the venues for the upcoming Club World Cup and the 2026 World Cup, also to be held in the U.S., will meet higher standards. This move aims to address and prevent similar complaints in future tournaments.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it reports on a solution to a problem that has been previously identified. It provides useful information to readers about FIFA's commitment to improve pitch conditions, which could impact future games and tournaments. It also increases awareness about the standards of football venues.",
+    "summary": "NBA insiders analyzed Oklahoma City Thunder's victory in Game 2 of the 2025 NBA Finals, highlighting key performances and strategic plays that led to the win. The analysis provided insights into the team's strengths and adjustments made since Game 1. The outcome of the game has leveled the series, setting the stage for a competitive continuation of the Finals.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about Oklahoma City Thunder's victory and the strategic plays that led to it. It also provides insights into the team's strengths and adjustments made since Game 1. However, it does not report on solutions or improvements, or increase clarity around systems, causes, trends, or impacts that matter.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.995,
+      "recency": 0.997,
       "consensus": 0.393,
-      "constructiveness": 0.9,
+      "constructiveness": 0.6,
       "proximity": 0.75
     },
-    "score": 0.476
+    "score": 0.446
+  },
+  {
+    "title": "NBA Finals Lineup and Championship Odds Announced",
+    "domain": "sports",
+    "location": "national",
+    "published": "Mon, 9 Jun 2025 12:15:15 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "domains": [
+      "sports"
+    ],
+    "snippets": [
+      "The NBA Finals are set and here are the updated odds to win the NBA championship and Finals MVP."
+    ],
+    "image_url": "",
+    "titles": [
+      "NBA Finals betting: Thunder huge title favorites after blowout win"
+    ],
+    "summary": "The NBA Finals lineup has been confirmed, along with the latest odds for winning the NBA championship and the Finals MVP award. This announcement sets the stage for the upcoming matches that will determine this season's champions and the most valuable player in the finals.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about the NBA Finals lineup and championship odds, but it doesn't offer much depth or insight beyond that. It doesn't contribute to the reader's understanding of the game, the teams, or the players, nor does it provide actionable insights or report on any solutions or improvements.",
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.996,
+      "consensus": 0.393,
+      "constructiveness": 0.3,
+      "proximity": 0.75
+    },
+    "score": 0.416
+  },
+  {
+    "title": "Panthers vs Oilers in Stanley Cup Final: Top Betting Strategies Explored",
+    "domain": "sports",
+    "location": "national",
+    "published": "Mon, 9 Jun 2025 12:15:15 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN"
+    ],
+    "domains": [
+      "sports"
+    ],
+    "snippets": [
+      "Top ways to bet the series and props for the Stanley Cup Final between the Florida Panthers and Edmonton Oilers."
+    ],
+    "image_url": "",
+    "titles": [
+      "Stanley Cup Final odds: Sam Bennett gains ground in Conn Smythe odds"
+    ],
+    "summary": "The Stanley Cup Final features the Florida Panthers against the Edmonton Oilers. The article provides insights on the top betting strategies for both the series outcome and various proposition bets (props) related to game specifics and player performances.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story provides useful information for readers interested in betting on the Stanley Cup Final. It offers actionable insights in the form of betting strategies, which can aid readers in making informed decisions. However, it doesn't report on any solutions, improvements, or innovations, and it doesn't increase clarity around systems, causes, trends, or impacts.",
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.996,
+      "consensus": 0.393,
+      "constructiveness": 0.7,
+      "proximity": 0.75
+    },
+    "score": 0.456
   },
   {
     "title": "Ronaldo Confirms Continuation with Al Nassr, Ends Transfer Speculation",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 9 Jun 2025 11:46:00 EST",
+    "published": "Mon, 9 Jun 2025 12:14:53 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
@@ -364,7 +395,7 @@
     "constructiveness_reason": "This story provides basic information about Cristiano Ronaldo's career decision, which ends transfer speculation. However, it does not provide deeper understanding, report on solutions or improvements, or increase clarity around systems, causes, trends, or impacts that matter.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.994,
+      "recency": 0.996,
       "consensus": 0.393,
       "constructiveness": 0.3,
       "proximity": 0.75
@@ -375,7 +406,7 @@
     "title": "Spectator Dies at Nations League Final in Munich",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 9 Jun 2025 11:46:00 EST",
+    "published": "Mon, 9 Jun 2025 12:14:53 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
@@ -395,7 +426,7 @@
     "constructiveness_reason": "While this story provides basic awareness of a tragic incident, it does not offer any depth or insight into the circumstances, nor does it provide actionable insights or deeper understanding. It also does not report on solutions, improvements, innovations, or attempts to solve problems.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.994,
+      "recency": 0.996,
       "consensus": 0.393,
       "constructiveness": 0.3,
       "proximity": 0.75
@@ -403,10 +434,10 @@
     "score": 0.416
   },
   {
-    "title": "Chelsea FC Pursues Jamie Gittens, Dortmund Wants £40M",
+    "title": "Former TV Coach Takes Helm of College Program with Big Ambitions",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 9 Jun 2025 11:46:00 EST",
+    "published": "Mon, 9 Jun 2025 11:57:16 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
@@ -415,29 +446,29 @@
       "sports"
     ],
     "snippets": [
-      "Chelsea are continuing to pursue a deal for Jamie Gittens despite Borussia Dortmund holding out for a fee in the region of £40 million ($54.3m), sources have told ESPN."
+      "After spending a few years on TV, the coach is back at the helm of a college program and looking to make a statement."
     ],
     "image_url": "",
     "titles": [
-      "Sources: Chelsea eye Gittens deal, 1st bid rejected"
+      "'The best show in town': Dan Mullen wants to win in style at UNLV"
     ],
-    "summary": "Chelsea FC is actively working to sign Jamie Gittens, even as Borussia Dortmund demands approximately £40 million ($54.3 million) for the player, according to sources reported by ESPN.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information for football fans, especially those interested in Chelsea FC or Jamie Gittens. However, it does not report on solutions, improvements, innovations, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "summary": "A coach, previously involved in television, has returned to college sports, taking charge of a college program with ambitions to make a significant impact.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about a coach's career move, but it lacks depth or insight. It doesn't provide actionable insights or deeper understanding of the coach's strategies, plans, or the college program's ambitions. It also doesn't report on any solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.994,
+      "recency": 0.989,
       "consensus": 0.393,
-      "constructiveness": 0.6,
+      "constructiveness": 0.5,
       "proximity": 0.75
     },
-    "score": 0.446
+    "score": 0.435
   },
   {
-    "title": "Xabi Alonso Leads First Real Madrid Training as Manager, Targets Club World Cup",
+    "title": "FIFA Pledges Better Pitches for Club World Cup, 2026 World Cup After Criticism",
     "domain": "sports",
     "location": "national",
-    "published": "Mon, 9 Jun 2025 11:46:00 EST",
+    "published": "Mon, 9 Jun 2025 11:48:58 EST",
     "source": "ESPN",
     "sources": [
       "ESPN"
@@ -446,54 +477,23 @@
       "sports"
     ],
     "snippets": [
-      "Xabi Alonso completed his first training session as manager of Real Madrid on Monday after being reminded by Florentino Perez of the importance of the Club World Cup."
+      "Players slammed the pitch conditions in the U.S. for the Copa América. FIFA is making sure the Club World Cup and 2026 World Cup are different."
     ],
     "image_url": "",
     "titles": [
-      "Alonso starts work as Madrid step up CWC prep"
+      "After Copa América 'disaster,' FIFA is using Club World Cup to be ready for 2026"
     ],
-    "summary": "Xabi Alonso conducted his inaugural training session as the manager of Real Madrid on Monday. During this session, Florentino Perez, the club's president, emphasized to Alonso the significance of winning the Club World Cup. This marks the beginning of Alonso's tenure as the team's manager.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story provides useful information about the change in management at Real Madrid and the new manager's goals. However, it doesn't delve deeper into the implications of this change or provide insights into how it might affect the team's performance or strategies, which limits its constructiveness.",
-    "score_components": {
-      "magnitude": 0.059,
-      "recency": 0.994,
-      "consensus": 0.393,
-      "constructiveness": 0.6,
-      "proximity": 0.75
-    },
-    "score": 0.453
-  },
-  {
-    "title": "Portugal Wins Second Nations League Title; Ronaldo Elated",
-    "domain": "sports",
-    "location": "national",
-    "published": "Mon, 9 Jun 2025 11:46:00 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "Portugal skipper Cristiano Ronaldo shed tears of joy as they won their second Nations League title on Sunday, insisting that winning trophies with his country beats all club honors."
-    ],
-    "image_url": "",
-    "titles": [
-      "Tearful Ronaldo says 'duty done' after 2nd NL win"
-    ],
-    "summary": "Portugal won their second Nations League title on Sunday, with team captain Cristiano Ronaldo expressing immense joy and stating that achieving victories with his national team surpasses any club-level honors. This victory marks a significant accomplishment for Ronaldo and Portugal in international football.",
-    "constructiveness_score": 0.2,
-    "constructiveness_reason": "The story is mostly focused on the event and the reaction of the player, but it doesn't provide any deeper understanding or actionable insights for the reader. It does not increase clarity around systems, causes, trends, or impacts that matter.",
+    "summary": "Following criticisms from players about the pitch conditions during the Copa América held in the U.S., FIFA has committed to ensuring that both the upcoming Club World Cup and the 2026 World Cup will feature improved playing surfaces. This decision comes as a response to the negative feedback received, highlighting FIFA's focus on enhancing the quality of the game environment for these major tournaments.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is constructive as it reports on improvements and solutions to a problem that has been identified and criticized. It provides useful information to readers interested in the quality of football tournaments.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.994,
+      "recency": 0.987,
       "consensus": 0.393,
-      "constructiveness": 0.2,
+      "constructiveness": 0.9,
       "proximity": 0.75
     },
-    "score": 0.406
+    "score": 0.474
   },
   {
     "title": "Jobs Report Fuels S&P 500 Rally, Nears Record High",
@@ -519,12 +519,12 @@
     "constructiveness_reason": "The story provides useful information about the impact of the jobs report on the stock market, which can be useful for readers in making financial decisions. However, it doesn't report on solutions, improvements, or innovations.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.705,
+      "recency": 0.7,
       "consensus": 0.393,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.373
+    "score": 0.372
   },
   {
     "title": "Workforce Growth Slowdown Eases Pressure on Hiring Efforts",
@@ -550,49 +550,18 @@
     "constructiveness_reason": "This story provides useful insights about the labor market and hiring trends, which could be valuable for businesses and job seekers. However, it doesn't offer solutions or progress on any particular issue, nor does it delve deeply into the causes or impacts of the slowdown.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.654,
+      "recency": 0.649,
       "consensus": 0.393,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.363
+    "score": 0.362
   },
   {
-    "title": "Waymo Robotaxis Catch Fire Amid Anti-ICE Graffiti Incident",
-    "domain": "business",
-    "location": "national",
-    "published": "Mon, 09 Jun 2025 15:55:03 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "In one photo, at least five Waymo robotaxis can be seen engulfed in flames, with anti-Immigration and Customs Enforcement graffiti scrawled on the doors."
-    ],
-    "image_url": "",
-    "titles": [
-      "Photos show Waymo vehicles on fire during LA protests as company cuts service"
-    ],
-    "summary": "At least five Waymo robotaxis were photographed engulfed in flames, with the incident also involving anti-Immigration and Customs Enforcement (ICE) graffiti marked on the vehicles' doors. The current status of the investigation or the cause of the fire has not been disclosed in the provided content.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story offers basic awareness of an incident involving Waymo robotaxis, but it lacks depth and insight. It doesn't provide any actionable insights or deeper understanding of the situation, nor does it report on solutions or attempts to solve the problem. The lack of information about the investigation or the cause of the fire also limits its usefulness.",
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.997,
-      "consensus": 0.393,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.391
-  },
-  {
-    "title": "Series of Incidents Leads to Injuries, Including Concussions and Broken Toes",
+    "title": "Troops Deployed to Provide Support, Security for ICE Operations",
     "domain": "business",
     "location": "global",
-    "published": "Mon, 09 Jun 2025 15:51:37 +0000",
+    "published": "Sun, 08 Jun 2025 16:55:05 +0000",
     "source": "Fortune",
     "sources": [
       "Fortune"
@@ -601,147 +570,178 @@
       "business"
     ],
     "snippets": [
-      "Broken toes, concussions, and more."
+      "“All that these troops will be able to do is provide a form of force protection and other logistical support for ICE personnel.”"
     ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-1256997107-e1749479387655.jpg?w=2048",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2218618358-e1749401120256.jpg?w=2048",
     "titles": [
-      "BowFlex weights item sold at Best Buy, Amazon and more recalled after more than 100 injuries reported"
+      "National Guard troops are in L.A. Here’s what they can and can’t do, for now, as Trump deploys them in response to protests"
     ],
-    "summary": "A series of incidents has resulted in various injuries including broken toes and concussions. The specific circumstances surrounding these injuries were not detailed, but the outcome has been a range of physical harm to individuals involved. The current status of those injured or the broader implications of these incidents were not provided.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about a series of incidents leading to injuries, but it lacks depth and insight. It doesn't provide any actionable insights, solutions, or deeper understanding of the situation. The story does not specify the circumstances of the incidents, the current status of the injured, or the broader implications, which makes it less constructive.",
+    "summary": "The troops deployed will primarily offer force protection and logistical support to ICE personnel. This assistance is focused on enhancing security and ensuring the efficient operation of ICE activities, without engaging directly in law enforcement tasks.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful context about the role of troops in supporting ICE operations. However, it doesn't provide much depth or insight into the broader implications or the reasons behind this decision, limiting its constructiveness.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.996,
+      "recency": 0.612,
+      "consensus": 0.393,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.344
+  },
+  {
+    "title": "U.S. Tariffs Could Boost Production in Neighboring Countries, Report Suggests",
+    "domain": "business",
+    "location": "global",
+    "published": "Mon, 09 Jun 2025 16:22:32 GMT",
+    "source": "Investopedia",
+    "sources": [
+      "Investopedia"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "<figure><img alt=\"(Photo by PATRICK T. FALLON / AFP via Getty Images)     U.S. tariffs are likely to create added production opportunities for nearby countries like Mexico, a new report says\" src=\"https://www.investopedia.com/thmb/XtUrObEgkwmc0jkBmjJTWOtrca4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2197040900-c0bcf2a5b1334a98a39f1fcb56ac88db.jpg\" title=\"Cargo shipping containers sit on a ship docked at the Port of Los Angeles in California\" /><figcaption><i><p>(Photo by PATRICK T. FALLON / AFP via Getty Images)    </p> U.S. tariffs are likely to create..."
+    ],
+    "image_url": "https://www.investopedia.com/thmb/XtUrObEgkwmc0jkBmjJTWOtrca4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2197040900-c0bcf2a5b1334a98a39f1fcb56ac88db.jpg",
+    "titles": [
+      "U.S. Tariffs Are a Big Win for Mexico, Report Finds"
+    ],
+    "summary": "A new report suggests that U.S. tariffs may benefit countries close to the United States, like Mexico, by potentially increasing their production opportunities. This is due to the tariffs making it more costly to import certain goods from farther away, thus potentially shifting some manufacturing and production closer to the U.S. market.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story offers a deeper understanding of the potential impacts of U.S. tariffs, contributing to the reader's awareness of economic trends. However, it doesn't clearly highlight solutions or empowering knowledge, which would have made it more constructive.",
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.998,
+      "consensus": 0.393,
+      "constructiveness": 0.8,
+      "proximity": 0.5
+    },
+    "score": 0.449
+  },
+  {
+    "title": "One-Year Inflation Outlook Drops to 3.2%, Down 0.4 Points",
+    "domain": "business",
+    "location": "national",
+    "published": "Mon, 09 Jun 2025 16:22:01 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "The one-year inflation outlook took a substantial dip, down to 3.2% — a 0.4 percentage point decrease from April."
+    ],
+    "image_url": "",
+    "titles": [
+      "Inflation fears receded in May as Trump eased some tariff threats, New York Fed survey shows"
+    ],
+    "summary": "The one-year inflation outlook has decreased to 3.2%, marking a 0.4 percentage point drop from its April figure. This significant reduction reflects changes in economic expectations over the coming year.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story provides useful information for readers who are interested in economic trends, specifically inflation. However, it does not suggest any solutions or improvements, nor does it delve deeply into the causes or impacts of this change.",
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.998,
+      "consensus": 0.393,
+      "constructiveness": 0.7,
+      "proximity": 0.5
+    },
+    "score": 0.439
+  },
+  {
+    "title": "Quantum Computing Gains Momentum with Big Tech Investments",
+    "domain": "business",
+    "location": "national",
+    "published": "Mon, 09 Jun 2025 16:20:43 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "Interest in quantum computing has skyrocketed in recent months following recent announcements from major technology players like Microsoft and Alphabet."
+    ],
+    "image_url": "",
+    "titles": [
+      "IonQ buys UK quantum startup Oxford Ionics for more than $1 billion"
+    ],
+    "summary": "Interest in quantum computing has significantly increased in recent months, driven by announcements from major technology companies such as Microsoft and Alphabet. These developments highlight the growing focus and investment in the field of quantum computing.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story clearly highlights progress in the field of quantum computing, specifically the increased investment and focus from major technology companies. It could be more constructive if it provided more context or insight into the implications of these developments.",
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.998,
+      "consensus": 0.393,
+      "constructiveness": 0.9,
+      "proximity": 0.5
+    },
+    "score": 0.459
+  },
+  {
+    "title": "Investing Club Hosts Daily \"Morning Meeting\" at 10:20 a.m. ET",
+    "domain": "business",
+    "location": "national",
+    "published": "Mon, 09 Jun 2025 16:14:29 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET."
+    ],
+    "image_url": "",
+    "titles": [
+      "Jim Cramer sees a 'bizarre' rotation in the market  — plus, Starbucks makes a move in China"
+    ],
+    "summary": "The Investing Club conducts its \"Morning Meeting\" at 10:20 a.m. ET on weekdays. This event is a regular occurrence where presumably financial topics, market trends, or investment strategies are discussed.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "While this story informs readers of a regular event that could potentially offer insights into financial topics, it lacks depth and specificity. There's no clear indication of what actionable insights or deeper understanding the reader could gain from attending the meeting.",
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.995,
       "consensus": 0.393,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.391
+    "score": 0.398
   },
   {
-    "title": "Companies Pivot to Streaming as Cable Subscriptions Decline",
+    "title": "Warner Bros. Discovery to Split into Two Public Companies in 2025",
     "domain": "business",
-    "location": "national",
-    "published": "Mon, 09 Jun 2025 15:51:10 GMT",
-    "source": "CNBC",
+    "location": "global",
+    "published": "Mon, 09 Jun 2025 16:10:09 GMT",
+    "source": "Investopedia",
     "sources": [
-      "CNBC"
+      "Investopedia"
     ],
     "domains": [
       "business"
     ],
     "snippets": [
-      "The move comes as consumers cut cords from their cable plans and companies focus on streaming."
+      "<figure><img alt=\"Thomas Fuller / SOPA Images / LightRocket via Getty Images Warner Bros. Discovery announced plans to split into two publicly traded companies on Monday, June 9, 2025.\" src=\"https://www.investopedia.com/thmb/0OikYlxqM-KTi4tn9mKhT-xOjFs=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2217856954-ba9b3ce5a1684704a8eff132a588c854.jpg\" title=\"The Warner Bros. Discovery logo is seen displayed on a smartphone screen\" /><figcaption><i><p>Thomas Fuller / SOPA Images / LightRocket via Getty Images</p> Warner Bros. Discovery announced plans to split into two..."
     ],
-    "image_url": "",
+    "image_url": "https://www.investopedia.com/thmb/0OikYlxqM-KTi4tn9mKhT-xOjFs=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/GettyImages-2217856954-ba9b3ce5a1684704a8eff132a588c854.jpg",
     "titles": [
-      "Warner Bros. Discovery to split into two public companies by next year"
+      "Top Stock Movers Now: Warner Bros. Discovery, Boeing, Sunnova, and more"
     ],
-    "summary": "In response to a growing trend of consumers canceling their cable subscriptions, companies are increasingly shifting their focus toward streaming services. This strategic pivot aims to adapt to changing viewer preferences for digital and on-demand content.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it informs readers about a significant trend in the entertainment industry and the strategic responses of companies. It provides useful insight into the shift from traditional cable to digital streaming services, highlighting the industry's adaptability and innovation in response to changing consumer preferences.",
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.996,
-      "consensus": 0.393,
-      "constructiveness": 0.9,
-      "proximity": 0.5
-    },
-    "score": 0.451
-  },
-  {
-    "title": "Vantage Data Centers Secures €720M in Historic Euro ABS Deal in Germany",
-    "domain": "business",
-    "location": "national",
-    "published": "Mon, 09 Jun 2025 15:44:58 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "Vantage Data Centers raised 720 million euros in an asset-backed securitization (ABS) deal, the first ever euro-denominated with data center assets in Germany."
-    ],
-    "image_url": "",
-    "titles": [
-      "Vantage raises $820 million in a first-of-its-kind cloud and AI data center deal in Europe"
-    ],
-    "summary": "Vantage Data Centers successfully secured 720 million euros through an asset-backed securitization deal, marking the first time a euro-denominated ABS deal has been completed with data center assets in Germany. This financing achievement underscores the growing investment interest in digital infrastructure within the European market.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "The story highlights a significant achievement in the data center industry and provides insights about the growing investment interest in digital infrastructure in Europe. It indicates progress in the sector and offers empowering knowledge for investors and businesses in the industry.",
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.993,
-      "consensus": 0.393,
-      "constructiveness": 0.9,
-      "proximity": 0.25
-    },
-    "score": 0.426
-  },
-  {
-    "title": "Nvidia CEO Calls UK's Situation a \"Goldilocks Circumstance\"",
-    "domain": "business",
-    "location": "national",
-    "published": "Mon, 09 Jun 2025 15:39:12 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "\"The U.K. is in a Goldilocks circumstance,\" Nvidia's Jensen Huang said, speaking on a panel with British Prime Minister Keir Starmer."
-    ],
-    "image_url": "",
-    "titles": [
-      "Nvidia CEO says the UK is in a 'Goldilocks' moment: 'I'm going to invest here'"
-    ],
-    "summary": "Nvidia's CEO, Jensen Huang, described the UK's situation as a \"Goldilocks circumstance\" during a panel discussion with British Prime Minister Keir Starmer. This statement suggests that Huang views the UK's current condition as being in a balanced or 'just right' state, referencing the Goldilocks principle from the fairy tale.",
+    "summary": "Warner Bros. Discovery announced on June 9, 2025, its plans to divide into two separate publicly traded companies. This strategic move aims to enhance operational focus and shareholder value. The announcement marks a significant shift in the company's structure, although specific details about the division were not disclosed.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides some useful context about the Nvidia CEO's view on the UK's current situation, but it does not offer actionable insights or a deeper understanding of the implications. The story could be more constructive if it elaborated on what the 'Goldilocks circumstance' means for the UK's tech industry or economy.",
+    "constructiveness_reason": "The news story provides useful information about a major shift in Warner Bros. Discovery's corporate structure. However, it lacks depth as it does not provide specific details about the division or how it might impact stakeholders, the industry, or consumers. The story does not report on solutions, improvements, innovations, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.991,
+      "recency": 0.994,
       "consensus": 0.393,
       "constructiveness": 0.6,
-      "proximity": 0.25
+      "proximity": 0.5
     },
-    "score": 0.395
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang Kicks Off European Tour at London Tech Week",
-    "domain": "business",
-    "location": "national",
-    "published": "Mon, 09 Jun 2025 15:38:34 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "Nvidia CEO Jensen Huang received the rockstar treatment at London Tech Week on Monday as he kicked off a big European tour."
-    ],
-    "image_url": "",
-    "titles": [
-      "'He’s like Iron Man': Jensen Huang lit up London Tech Week — and we were in the room"
-    ],
-    "summary": "Nvidia CEO Jensen Huang was warmly received at London Tech Week, where he began a significant European tour. His appearance on Monday garnered attention, highlighting his prominence in the tech industry.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story offers basic awareness about the Nvidia CEO's European tour and his prominence in the tech industry, but it lacks depth or insight. It would be more constructive if it provided information about the purpose of the tour, the issues to be addressed, or the potential impacts on the tech industry.",
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.991,
-      "consensus": 0.393,
-      "constructiveness": 0.5,
-      "proximity": 0.25
-    },
-    "score": 0.385
+    "score": 0.421
   },
   {
     "title": "ETH Zurich Scientists Unravel Mystery of Earth's Deep Layer Behavior",
@@ -767,12 +767,12 @@
     "constructiveness_reason": "This story provides a deeper understanding of the Earth's inner structure, a topic that may not be commonly known to the general public. It reports on a significant scientific discovery, highlighting progress in the field of earth sciences. The information could be useful for those studying or interested in geology and earth sciences.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.752,
+      "recency": 0.746,
       "consensus": 0.393,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.402
+    "score": 0.401
   },
   {
     "title": "Quantum Computers Boost Machine Learning, Cut Energy Use",
@@ -798,12 +798,12 @@
     "constructiveness_reason": "This story reports on an innovation in quantum computing and machine learning, offering readers actionable insights into the practical applications of quantum technology. It also highlights a potential solution to the increasing energy demands of machine learning, contributing to awareness about sustainable technology solutions.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.751,
+      "recency": 0.745,
       "consensus": 0.393,
       "constructiveness": 1.0,
       "proximity": 0.5
     },
-    "score": 0.412
+    "score": 0.411
   },
   {
     "title": "Cambridge Develops Superior Quantum Sensor from hBN",
@@ -829,12 +829,12 @@
     "constructiveness_reason": "This news story reports on an improvement in sensor technology, providing useful information about the potential applications of this new quantum sensor. It highlights progress in the field of quantum technology, contributing to the reader's understanding of this complex subject.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.677,
+      "recency": 0.672,
       "consensus": 0.393,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.387
+    "score": 0.386
   },
   {
     "title": "Quantum Interferometry Tool Boosts Measurement Precision Beyond Classical Limits",
@@ -860,12 +860,12 @@
     "constructiveness_reason": "This story is highly constructive as it reports on a significant innovation in the field of physics. It provides readers with a deeper understanding of the new tool and its potential applications, thus contributing meaningfully to their knowledge.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.671,
+      "recency": 0.666,
       "consensus": 0.393,
       "constructiveness": 1.0,
       "proximity": 0.5
     },
-    "score": 0.396
+    "score": 0.395
   },
   {
     "title": "New Diamond Sensor Merges Quantum Science for Advanced Diagnostics",
@@ -891,12 +891,12 @@
     "constructiveness_reason": "This news story is constructive because it highlights a solution to a longstanding quantum riddle and discusses its potential impact on various fields. The information provided can help readers understand the importance of this development and its implications for the future.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.666,
+      "recency": 0.66,
       "consensus": 0.393,
       "constructiveness": 1.0,
       "proximity": 0.5
     },
-    "score": 0.395
+    "score": 0.394
   },
   {
     "title": "Key Protein Identified for ATP Transport into ER, Aiding Disease Therapy Researc",
@@ -922,12 +922,12 @@
     "constructiveness_reason": "",
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.969,
+      "recency": 0.961,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.363
+    "score": 0.361
   },
   {
     "title": "Arctic Warming Models Flawed Due to Cloud Liquid Miscalculation",
@@ -953,12 +953,12 @@
     "constructiveness_reason": "This story effectively increases awareness about a flaw in climate models, contributing to a deeper understanding of the complexities involved in predicting Arctic warming. However, it does not report on any solutions or improvements to the issue, which limits its score.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.96,
+      "recency": 0.953,
       "consensus": 0.393,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.434
+    "score": 0.432
   },
   {
     "title": "Half of Earth's Glaciers Risk Vanishing Amid Climate Crisis",
@@ -984,11 +984,11 @@
     "constructiveness_reason": "This story is constructive as it provides useful insights into the current climate crisis and its impact on Earth's glaciers. It also increases awareness about the importance of aggressive climate action and the potential benefits of limiting global warming to 1.5°C. However, it falls short of the highest score because it does not highlight specific solutions or strategies for achieving this temperature reduction.",
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.952,
+      "recency": 0.944,
       "consensus": 0.393,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.432
+    "score": 0.431
   }
 ]
