@@ -6,51 +6,88 @@
     "published": "Sat, 12 Jul 2025 09:58:19 -0400",
     "source": "NPR",
     "sources": [
-      "CityNews",
-      "Financial Post",
-      "The Guardian",
-      "CNBC",
-      "BBC",
       "NPR",
+      "CityNews",
       "Financial Times",
-      "Al Jazeera"
+      "CNBC",
+      "Al Jazeera",
+      "Washington Post",
+      "The Guardian",
+      "Deutsche Welle"
     ],
     "domains": [
-      "business",
-      "general"
+      "general",
+      "business"
     ],
     "snippets": [
       "President Donald Trump on Saturday announced he's levying tariffs of 30% against the European Union and Mexico.",
-      "The US president warned both trading partners would face additional tariffs if they retaliated.",
-      "EU&#039;s von der Leyen says bloc will safeguard its interests, &#039;including the adoption of proportionate countermeasures&#039;.",
+      "EU threatens countermeasures, while Mexico decries the latest tariffs, which will begin on August 1, as unfair.",
+      "The announcement follows failed attempts in recent weeks to strike a trade deal between the US and EU. Top EU leaders said negotiations would continue but have vowed to protect the bloc's interests.",
       "President Donald Trump has sent similar letters to 23 other U.S. trading partners this week, including Canada, Japan and Brazil.",
-      "US president issues new threats against trading partners in letters posted to social media",
+      "US president announces new levies on trading partners in letters posted to social media",
       "<p>The president made the announcement on social media, even as the EU was hoping for a trade agreement</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> announced on Saturday that goods imported from both the European Union and Mexico will face a 30% US tariff rate st",
-      "President Donald Trump unleashed his latest tariff ultimatums, declaring a 30% rate for Mexico and the European Union, as his trade agenda continues to keep allies off balance and inject uncertainty into global financial markets.",
+      "Trump has spent the past several days sending letters to world leaders about new tariffs the United States would be imposing on them.",
       "BRIDGEWATER, N.J. (AP) — President Donald Trump on Saturday announced he&#8217;s levying tariffs of 30% against the European Union and Mexico starting Aug. 1, a move that could cause massive upheaval between the United States and two of its biggest trade partners. Trump detailed the planned tariffs "
     ],
     "image_url": "",
     "titles": [
       "Trump announces 30% tariffs against EU, Mexico to begin August 1",
-      "Trump says EU and Mexico face 30% tariff from August",
-      "Trump says 30-percent tariffs against EU and Mexico to begin on August 1",
+      "Trump slaps 30% tariffs on all goods from EU and Mexico",
+      "Trump announces 30% tariffs on EU goods as trade talks stall",
       "Trump announces 30% tariffs on EU and Mexico, starting Aug. 1",
-      "Trump says he will impose 30% tariffs on the EU and Mexico from August 1",
+      "Trump threatens 30% tariffs on EU and Mexico from August 1",
       "Donald Trump announces 30% tariffs on goods from the EU and Mexico",
-      "Trump Threatens 30% Tariffs on EU and Mexico as Talks Continue",
+      "Trump says he’ll slap 30% tariffs on Mexico, European Union on Aug. 1",
       "Trump announces 30% tariffs against EU, Mexico to begin Aug. 1, rattling major US trading partners"
     ],
     "score_components": {
       "magnitude": 0.84,
-      "recency": 0.809,
+      "recency": 0.685,
       "consensus": 1.0,
       "constructiveness": 0.6,
       "proximity": 0.75
     },
-    "score": 0.841,
+    "score": 0.816,
     "summary": "President Donald Trump announced on social media that starting August 1, a 30% tariff will be imposed on goods imported from the European Union and Mexico. This decision comes after unsuccessful negotiations for a trade deal with the EU and extends similar tariff conditions to a total of 24 countries, including Canada, Japan, and Brazil. Trump warned of further tariffs if these trading partners retaliate. In response, the EU's von der Leyen stated the EU would take proportionate countermeasures to safeguard its interests. This move by Trump has escalated tensions and could significantly impact",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story provides useful information about the current state of international trade relations, particularly between the US, EU, and Mexico. It helps readers understand the implications of tariff impositions and gives them insight into the possible consequences of such actions. However, it does not report on any solutions or improvements to the trade tensions, nor does it provide a deep understanding of the systems or causes behind these decisions."
+  },
+  {
+    "title": "Kim Jong Un Backs Russia in Ukraine Conflict During Lavrov Visit",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 12 Jul 2025 23:31:51 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "The Guardian",
+      "ABC News"
+    ],
+    "domains": [
+      "general"
+    ],
+    "snippets": [
+      "Kim Jong Un stresses Pyongyang-Moscow alliance during Russian Foreign Minister Sergey Lavrov&#039;s visit to North Korea.",
+      "North Korea and its leader, Kim Jong Un, will continue to \"unconditionally support and encourage\" Russia's war in Ukraine, according to state media.",
+      "<p>North Korean leader meets Sergei Lavrov in ‘atmosphere full of warm comradely trust’; six people killed in Russian strikes across Ukraine. What we know on day 1,236</p><ul><li><p><a href=\"https://www.theguardian.com/world/ukraine\">Read all our Ukraine war coverage</a></p></li></ul> <a href=\"https"
+    ],
+    "image_url": "",
+    "titles": [
+      "North Korea’s Kim voices ‘unconditional’ support for Russia in Ukraine",
+      "North Korea pledges to 'unconditionally support' Russia's war in Ukraine",
+      "Ukraine war briefing: Kim Jong-un voices ‘unconditional’ support for Moscow as Russian foreign minister visits"
+    ],
+    "score_components": {
+      "magnitude": 0.74,
+      "recency": 0.836,
+      "consensus": 0.847,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.748,
+    "summary": "During Russian Foreign Minister Sergey Lavrov's visit to North Korea, leader Kim Jong Un pledged to \"unconditionally support and encourage\" Russia's involvement in the Ukraine war. The meeting, described as full of \"warm comradely trust,\" reinforces the Pyongyang-Moscow alliance amidst ongoing conflict in Ukraine, where recent Russian strikes have resulted in six deaths.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about the geopolitical alignment between North Korea and Russia, particularly in the context of the ongoing conflict in Ukraine. However, it does not offer a deeper understanding of the implications of this alliance or potential solutions to the conflict."
   },
   {
     "title": "Trump Considers Revoking Rosie O'Donnell's Citizenship Amid Feud",
@@ -61,206 +98,186 @@
     "sources": [
       "CNBC",
       "Al Jazeera",
-      "CityNews",
-      "Global News"
+      "CityNews"
     ],
     "domains": [
-      "business",
-      "general"
+      "general",
+      "business"
     ],
     "snippets": [
       "O&#039;Donnell says the Republican US president hates her because she sees &#039;him for who he is - a criminal con man&#039;.",
       "It's a dramatic escalation of President Donald Trump threatening to use the executive branch to target his opponents.",
-      "U.S. President Donald Trump attacked comedian Rosie O'Donnell on Saturday, saying he may revoke her U.S. citizenship. O'Donnell, a Trump critic, moved to Ireland in January.",
       "WASHINGTON (AP) — President Donald Trump says he is considering “taking away” the U.S. citizenship of a longtime rival, actress and comedian Rosie O’Donnell, despite a decades-old Supreme Court ruling that expressly prohibits such an action by the government. “Because of the fact that Rosie O’Donnel"
     ],
     "image_url": "",
     "titles": [
       "Trump threatens to revoke citizenship of US comedian Rosie O’Donnell",
       "Trump threatens to revoke comedian Rosie O’Donnell's citizenship",
-      "Trump threatens to revoke Rosie O’Donnell’s U.S. citizenship",
       "Trump says he’s considering ‘taking away’ Rosie O’Donnell’s US citizenship"
     ],
     "score_components": {
-      "magnitude": 0.82,
-      "recency": 0.908,
-      "consensus": 0.985,
+      "magnitude": 0.72,
+      "recency": 0.77,
+      "consensus": 0.897,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.825,
+    "score": 0.74,
     "summary": "U.S. President Donald Trump has publicly considered revoking the U.S. citizenship of comedian Rosie O'Donnell, a known critic who moved to Ireland in January. O'Donnell has accused Trump of being a \"criminal con man.\" However, this action contradicts a Supreme Court ruling that prevents the government from taking away citizenship. The conflict represents a significant escalation in the ongoing feud between Trump and O'Donnell.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story informs readers about the ongoing feud between Trump and O'Donnell, and contextualizes it within the legal framework of citizenship revocation. It provides a deeper understanding of the situation, even if the topic is negative. However, it does not report on solutions or improvements, and its usefulness is limited."
   },
   {
-    "title": "Iga Swiatek Wins First Wimbledon, Secures Sixth Grand Slam Victory",
+    "title": "2026 World Cup to Have Indoor, Air-Conditioned Stadiums: FIFA President",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 13 Jul 2025 06:55:00 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "The Guardian",
+      "Yahoo Sports"
+    ],
+    "domains": [
+      "general",
+      "sports"
+    ],
+    "snippets": [
+      "FIFA president Gianni Infantino has confirmed plans to utilize indoor air-conditioned stadiums for daytime kick-offs at the 2026 World Cup. The decision aims to combat expected high temperatures duri...",
+      "<ul><li><p>Infantino acts after player welfare fears at Club World Cup</p></li><li><p>‘Heat is definitely an issue. We have covered stadiums’</p></li></ul><p>Fifa’s president, Gianni Infantino, has said indoor air-conditioned venues will be used as much as possible for day-time kick-offs at the 2026"
+    ],
+    "image_url": "",
+    "titles": [
+      "World Cup 2026 to use covered stadiums to combat heat",
+      "World Cup will use more indoor venues for day-time kick-offs to combat heat"
+    ],
+    "score_components": {
+      "magnitude": 0.62,
+      "recency": 0.975,
+      "consensus": 0.682,
+      "constructiveness": 0.9,
+      "proximity": 0.5
+    },
+    "score": 0.723,
+    "summary": "FIFA President Gianni Infantino announced that the 2026 World Cup will feature indoor, air-conditioned stadiums for daytime matches to address concerns over high temperatures and ensure player welfare. This decision follows issues raised during the Club World Cup.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is constructive as it provides useful information about the upcoming 2026 World Cup and the measures taken by FIFA to ensure player welfare. It reports on an innovative solution to a problem (high temperatures), contributing to the reader's understanding of the challenges faced in organizing global sporting events."
+  },
+  {
+    "title": "Cities Arrest Protesters in Second Week of Palestine Action Demonstrations",
     "domain": "general",
     "location": "global",
-    "published": "Sat, 12 Jul 2025 19:11:04 GMT",
+    "published": "Sat, 12 Jul 2025 19:54:58 GMT",
     "source": "BBC",
     "sources": [
       "BBC",
-      "Sportsnet",
       "Al Jazeera",
       "Deutsche Welle"
     ],
     "domains": [
-      "sports",
       "general"
     ],
     "snippets": [
-      "Poland's Iga Swiatek ruthlessly takes advantage of American opponent Amanda Anisimova's nerves to win her maiden Wimbledon title.",
-      "Swiatek, a former world No.1, did not drop a game in the women&#039;s singles final to claim her sixth Grand Slam title.",
-      "It took Iga Swiatek less than an hour to swat aside Amanda Anisimova, of the USA, in the Wimbledon women's final on Saturday. In winning her maiden Wimbledon title, Swiatek also did something few players have ever done.",
-      "<p>Poland&#8217;s Iga Swiatek captured her first Wimbledon title on Saturday, cruising past American Amanda Anisimova 6-0, 6-0 in the women&#8217;s final at the All England Club.</p>"
+      "The protests - and the arrests - come after the pro-Palestinian group was proscribed as a terror organisation.",
+      "Authorities unleash crackdown as demonstrators gather in London and other cities in support of recently banned group.",
+      "Protesters have gathered for a second straight week to support the banned Palestine Action. Its outlawing means support for the group is now a crime."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd93/live/49657690-5f3f-11f0-9d4b-ff4ef3dc8bdc.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68a3/live/7e99f2e0-5f31-11f0-a45e-e59a8129f3be.jpg",
     "titles": [
-      "Swiatek inflicts 6-0 6-0 defeat on Anisimova to win Wimbledon",
-      "Iga Swiatek destroys Amanda Anisimova to win first Wimbledon tennis title",
-      "Wimbledon: Poland's Iga Swiatek wins women's tennis title",
-      "Swiatek dominates Anisimova to capture first Wimbledon title"
+      "More than 70 arrests at Palestine Action ban protests",
+      "UK police arrest dozens at protests against Palestine Action ban",
+      "London police arrest over 40 supporters of Palestine Action"
     ],
     "score_components": {
-      "magnitude": 0.8,
-      "recency": 0.902,
-      "consensus": 0.985,
+      "magnitude": 0.7,
+      "recency": 0.776,
+      "consensus": 0.847,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.807,
+    "score": 0.712,
+    "summary": "Authorities in London and other cities have arrested protesters for a second consecutive week during demonstrations supporting Palestine Action, a pro-Palestinian group recently declared a terror organization. The group's proscription has criminalized support for it, leading to a crackdown on demonstrators rallying in its favor.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story offers basic awareness about the ongoing protests and the recent classification of Palestine Action as a terror organization. However, it lacks depth and insight into the wider implications of this classification, the reasons behind the protests, or potential solutions."
+  },
+  {
+    "title": "Iga Swiatek Wins First Wimbledon, Secures Sixth Grand Slam Victory",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 12 Jul 2025 17:05:49 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Deutsche Welle",
+      "Le Monde"
+    ],
+    "domains": [
+      "general"
+    ],
+    "snippets": [
+      "Swiatek, a former world No.1, did not drop a game in the women&#039;s singles final to claim her sixth Grand Slam title.",
+      "It took Iga Swiatek less than an hour to swat aside Amanda Anisimova, of the USA, in the Wimbledon women's final on Saturday. In winning her maiden Wimbledon title, Swiatek also did something few players have ever done.",
+      "La Polonaise a remporté, samedi, le tournoi londonien (6-0, 6-0), son sixième titre du Grand Chelem. Son expérience a fait la différence face à l’Américaine, qui disputait sa première finale en Majeur."
+    ],
+    "image_url": "",
+    "titles": [
+      "Iga Swiatek destroys Amanda Anisimova to win first Wimbledon tennis title",
+      "Wimbledon: Poland's Iga Swiatek wins women's tennis title",
+      "Iga Swiatek assomme Amanda Anisimova et gagne son premier Wimbledon"
+    ],
+    "score_components": {
+      "magnitude": 0.7,
+      "recency": 0.731,
+      "consensus": 0.847,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.703,
     "summary": "Iga Swiatek of Poland won her first Wimbledon and sixth Grand Slam title by defeating American Amanda Anisimova 6-0, 6-0 in the women's final. Swiatek, a former world No.1, achieved this victory in less than an hour, showcasing a dominant performance that capitalized on Anisimova's nerves. This victory marks a significant milestone in Swiatek's career, adding a Wimbledon title to her achievements.",
     "constructiveness_score": 0.5,
     "constructiveness_reason": "This story offers basic awareness of Swiatek's victory but does not provide any actionable insights or deeper understanding of the event. It does not report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter. However, it does highlight a significant milestone in Swiatek's career."
   },
   {
-    "title": "England Beats Argentina 22-17, Wins Series 2-0 with Last-Minute Try",
+    "title": "Calgary Stampeders Beat Saskatchewan Roughriders 24-10 After Delay",
     "domain": "general",
-    "location": "global",
-    "published": "Sat, 12 Jul 2025 22:05:44 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC",
-      "Sky Sports",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "sports",
-      "general"
-    ],
-    "snippets": [
-      "Jack van Poortvliet scores a last-gasp try in San Juan to hand England a dramatic victory and an impressive 2-0 series win over Argentina.",
-      "Jack van Poortvliet scores a last-gasp try in San Juan to hand England a dramatic victory and an impressive 2-0 series win over Argentina.",
-      "<ul><li><p>2nd Test: Argentina 17-22 England</p></li><li><p>England recover from 17-14 half-time deficit to snatch win</p></li></ul><p><a href=\"https://www.theguardian.com/sport/2025/jul/12/jamie-george-lions-luke-cowan-dickie-garry-ringrose-first-australia-test\">Jamie George flies to Australia</a> ",
-      "Jack van Poortvliet's last-gasp try clinched England a 22-17 victory against Argentina in their second Test in San Juan and a 2-0 series win."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a673/live/1f76ea10-5f73-11f0-a40e-a1af2950b220.jpg",
-    "titles": [
-      "Van Poortvliet's late try seals England series win in Argentina",
-      "Van Poortvliet's late try seals England series win in Argentina",
-      "Van Poortvliet’s last-minute try seals dramatic series win for England in Argentina",
-      "Last-gasp Van Poortvliet try earns England series win over Argentina"
-    ],
-    "score_components": {
-      "magnitude": 0.8,
-      "recency": 0.958,
-      "consensus": 0.985,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.798,
-    "summary": "Jack van Poortvliet scored a decisive try in the final moments of the second Test in San Juan, securing England a 22-17 win over Argentina. This victory concluded the series with England triumphing 2-0. England overcame a 17-14 deficit at halftime to claim the win, marking a dramatic end to the series.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness of the event but lacks depth or insight. It does not provide any actionable insights or deeper understanding of the game, nor does it report on solutions, improvements, or innovations. It also does not increase clarity around systems, causes, trends, or impacts that matter."
-  },
-  {
-    "title": "Fred VanVleet Elected New NBPA President, Succeeds CJ McCollum",
-    "domain": "sports",
     "location": "national",
-    "published": "Sat, 12 Jul 2025 19:07:37 EST",
-    "source": "ESPN",
+    "published": "Sun, 13 Jul 2025 02:13:33 +0000",
+    "source": "Global News",
     "sources": [
-      "Yahoo Sports",
-      "Sportsnet",
-      "ESPN"
+      "Global News",
+      "Sportsnet"
     ],
     "domains": [
+      "general",
       "sports"
     ],
     "snippets": [
-      "Rockets guard Fred VanVleet has been elected as the new president of the National Basketball Players Association, succeeding CJ McCollum.",
-      "“I am committed to approaching this role with the passion, dignity, and dedication every player deserves,” Fred VanVleet says in an NBPA statement.",
-      "Fred VanVleet will start his four-year term as the NBPA president immediately.",
-      "In a significant leadership move, veteran NBA guard Fred VanVleet has been officially elected as the new President of the National Basketball Players Association (NBPA), the labor union that represents all NBA players.  The announcement was made at the NBPA's annual summer meeting, where player repr",
-      "<p>The former Toronto Raptors guard and current Houston Rockets player was reportedly elected the new president of the National Basketball Players Association, per ESPN&#8217;s Shams Charania on Saturday.</p>"
+      "The Calgary Stampeders overcame a scheduling nightmare and brutal start to smoke the Saskatchewan Roughriders 24-10 on Saturday in a rescheduled CFL game. The contest was originally slated for Friday night but after an almost four-hour weather delay, the game was postponed until Saturday. An air qua",
+      "<p>Having to spend an extra night in Regina didn’t faze the Calgary Stampeders as they smoked the Saskatchewan Roughriders 24-10 on Saturday in a rescheduled CFL game.</p>"
     ],
-    "image_url": "",
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/07/Stamps-July-12.jpg?quality=85&strip=all",
     "titles": [
-      "Rockets' Fred VanVleet elected president of NBPA",
-      "Rockets guard Fred VanVleet elected president of NBA players union",
-      "Rockets veteran Fred VanVleet elected new NBPA president, will replace CJ McCollum",
-      "Houston Rockets Fred Vanvleet Named President of NBPA",
-      "Rockets’ Fred VanVleet elected NBPA president, succeeds Wizards’ McCollum"
+      "Stampeders smoke Roughriders 24-10 in West Division power struggle",
+      "Stampeders defeat Roughriders in West Division power struggle"
     ],
     "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.979,
-      "consensus": 0.847,
-      "constructiveness": 0.6,
-      "proximity": 0.75
-    },
-    "score": 0.788,
-    "summary": "Fred VanVleet, currently with the Houston Rockets, has been elected as the new president of the National Basketball Players Association (NBPA), succeeding CJ McCollum. VanVleet, who is committed to serving with passion and dedication, will begin his four-year term immediately. This leadership change was confirmed at the NBPA's annual summer meeting.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about a leadership change in the National Basketball Players Association. It informs readers about who the new president is and when he will start his term. However, it does not provide information on the potential impacts, improvements, or innovations that may occur under his leadership."
-  },
-  {
-    "title": "Byron Buxton Hits Cycle in Twins' 12-4 Win, First at Target Field",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 12 Jul 2025 19:07:37 EST",
-    "source": "ESPN",
-    "sources": [
-      "Sportsnet",
-      "ESPN",
-      "CBS Sports"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "Minnesota Twins All-Star center fielder Byron Buxton, who will participate in the Home Run Derby, hit for the cycle Saturday in a 12-4 win over the Pittsburgh Pirates, the first cycle hit at Target Field since it opened in 2010.",
-      "Buxton collected hits in the first, second and third innings against the Pirates before going yard in the seventh",
-      "<p>Byron Buxton became the 12th player in franchise history to hit for the cycle in Saturday&#8217;s game against the Pittsburgh Pirates.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "On Buxton bobblehead day, All-Star hits for cycle",
-      "Twins' Byron Buxton hits for cycle on his bobblehead day, becomes 12th Minnesota player to accomplish feat",
-      "Twins’ Byron Buxton hits for cycle vs. Pirates"
-    ],
-    "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.979,
-      "consensus": 0.847,
+      "magnitude": 0.6,
+      "recency": 0.885,
+      "consensus": 0.682,
       "constructiveness": 0.3,
-      "proximity": 0.75
+      "proximity": 1.0
     },
-    "score": 0.758,
-    "summary": "Minnesota Twins All-Star center fielder Byron Buxton hit for the cycle in a 12-4 victory over the Pittsburgh Pirates, becoming the 12th player in franchise history to achieve this feat. Buxton secured hits in the first three innings and completed the cycle with a home run in the seventh. This marked the first cycle hit at Target Field since its opening in 2010.",
+    "score": 0.688,
+    "summary": "The Calgary Stampeders defeated the Saskatchewan Roughriders 24-10 in a CFL game that was rescheduled from Friday to Saturday due to an almost four-hour weather delay. Despite the scheduling challenges and having to spend an extra night in Regina, the Stampeders managed to secure a victory.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about a notable event in a baseball game. However, it doesn't offer deeper insights, solutions, or actionable information that would significantly contribute to the reader's understanding or decision-making."
+    "constructiveness_reason": "This story provides a basic report on a sports event, but it does not contribute meaningfully to the reader’s understanding or decision-making beyond the outcome of the game. It does not offer any insights into the implications of the weather delay or how it was handled, nor does it provide any broader context or analysis."
   },
   {
-    "title": "Palestinian-American, Another Killed in West Bank Incident",
+    "title": "France and New Caledonia Agree on Statehood Within French Union",
     "domain": "general",
     "location": "global",
-    "published": "Sat, 12 Jul 2025 21:36:54 +0000",
+    "published": "Sat, 12 Jul 2025 22:44:40 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "ABC News",
       "Al Jazeera",
       "The Guardian"
     ],
@@ -268,351 +285,305 @@
       "general"
     ],
     "snippets": [
-      "Advocates say 20-year-old American citizen Sayfollah Musallet was &#039;lynched&#039; while US officials stay silent.",
-      "A 20-year-old American was allegedly beaten to death by Israeli settlers while visiting family in the West Bank, according to Palestinian health officials and his family.",
-      "<p>Ambulances were reportedly stopped from reaching Sayfollah Musallet after attack in which another Palestinian man was shot dead</p><p>A 20-year-old Palestinian-American was killed by Israeli settlers while visiting relatives in the occupied West Bank, his family have said.</p><p>Sayfollah “Saif” "
+      "Agreement allows the archipelago that endured unrest last year to be its own state but remain within French fold.",
+      "<p>Emmanuel Macron hails ‘new chapter’ for New Caledonia as politicians agree on statehood after 10 days of talks</p><p>France has announced a “historic” accord with New Caledonia in which the overseas territory, rocked by <a href=\"https://www.theguardian.com/world/2025/may/13/new-caledonia-riots-on"
     ],
     "image_url": "",
     "titles": [
-      "Family of American citizen killed by Israeli settlers demands US probe",
-      "American killed by Israeli settlers in the West Bank, family says",
-      "Israeli settlers kill American-Palestinian visiting relatives in West Bank, says family"
-    ],
-    "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.948,
-      "consensus": 0.847,
-      "constructiveness": 0.5,
-      "proximity": 0.5
-    },
-    "score": 0.746,
-    "summary": "Sayfollah Musallet, a 20-year-old Palestinian-American, was allegedly killed by Israeli settlers in the West Bank while visiting family. Reports indicate ambulances were prevented from reaching him after the attack, which also resulted in the death of another Palestinian man. U.S. officials have yet to comment on the incident.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story raises basic awareness about a specific incident of violence in the West Bank, but it doesn't provide deep insights or actionable information. It also doesn't report on any attempts to solve the underlying issues, nor does it increase clarity around the systems, causes, or impacts involved."
-  },
-  {
-    "title": "Cash and Glasspool Win Wimbledon, First All-British Pair in 89 Years",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 12 Jul 2025 19:25:41 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "Sportsnet",
-      "The Guardian"
-    ],
-    "domains": [
-      "sports",
-      "general"
-    ],
-    "snippets": [
-      "Julian Cash and Lloyd Glasspool become the first all-British pair to win the men's doubles title at Wimbledon for 89 years.",
-      "<ul><li><p>‘To do it here is incredible,’ says Lloyd Glasspool</p></li><li><p>Defeat in the wheelchair final for Hewett and Reid</p></li></ul><p>Julian Cash and Lloyd Glasspool have etched their names into Wimbledon history, becoming the first all-British pair to win the men’s doubles title since Pa",
-      "<p>Julian Cash and Lloyd Glasspool became the first all-British pair in 89 years to win the men&#8217;s Wimbledon doubles title by defeating Rinky Hijikata and David Pel 6-2, 7-6 (3) Saturday on Centre Court.</p>"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f1/live/1454e080-5f4e-11f0-b5c5-012c5796682d.jpg",
-    "titles": [
-      "GB's Cash and Glasspool make history with doubles title",
-      "Wimbledon: Cash and Glasspool net first all-British men’s doubles title in 89 years",
-      "Cash, Glasspool become first British duo since 1936 to win Wimbledon men’s doubles title"
-    ],
-    "score_components": {
-      "magnitude": 0.72,
-      "recency": 0.906,
-      "consensus": 0.897,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.737,
-    "summary": "Julian Cash and Lloyd Glasspool made history by becoming the first all-British pair to win the Wimbledon men's doubles title in 89 years, defeating Rinky Hijikata and David Pel with scores of 6-2, 7-6 (3). Their victory marks a significant achievement in British tennis, celebrated on Centre Court.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story offers basic awareness about a significant achievement in British tennis, it does not provide actionable insights or deeper understanding for readers. It does not report on any solutions, improvements, or innovations in the sport, nor does it increase clarity around systems, causes, trends, or impacts that matter. Its value is largely in reporting a historical event."
-  },
-  {
-    "title": "Iga Swiatek Wins Wimbledon, Marks Most One-Sided Final in 114 Years",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 12 Jul 2025 17:34:10 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "Forbes",
-      "The Guardian"
-    ],
-    "domains": [
-      "business",
-      "general"
-    ],
-    "snippets": [
-      "Watch highlights as Iga Swiatek becomes the 2025 Wimbledon champion, beating Amanda Anisimova in under an hour, 6-0 6-0, to secure her first Championship win at the All England Club.",
-      "<ul><li><p>24-year-old Pole storms to victory in just 57 minutes</p></li><li><p>American freezes in most one-sided final in 114 years</p></li></ul><p>Amanda Anisimova arrived in her first grand slam final playing the best tennis of her life but, under the stifling pressure of such a significant occa",
-      "Iga Swiatek won her maiden Wimbledon title after beating Amanda Anisimova 6-0 6-0 in the most one-sided final in 114 years."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a943/live/1047abc0-5f45-11f0-b5c5-012c5796682d.jpg",
-    "titles": [
-      "Swiatek cruises to first Wimbledon title against Anisimova - highlights",
-      "Iga Swiatek races to first Wimbledon title with 6-0, 6-0 thrashing of Anisimova",
-      "Swiatek Wins Wimbledon Title As Anisimova Suffers Severe Stage Fright"
-    ],
-    "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.872,
-      "consensus": 0.897,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.724,
-    "summary": "Iga Swiatek won her first Wimbledon championship by defeating Amanda Anisimova with a dominant score of 6-0, 6-0 in under an hour, marking the most one-sided final at the All England Club in 114 years. The 24-year-old Polish player secured her maiden title at the event, showcasing a remarkable performance against Anisimova, who struggled in her first Grand Slam final.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story provides an update on a significant sporting event, it doesn't offer much in the way of actionable insights, deeper understanding, or awareness of broader trends or systems. It's primarily of interest to tennis fans and doesn't contribute meaningfully to a general reader's understanding or decision-making."
-  },
-  {
-    "title": "Gaza Violence Escalates: 59 Dead, Including Children, Amid Humanitarian Crisis",
-    "domain": "general",
-    "location": "national",
-    "published": "Sat, 12 Jul 2025 16:09:58 +0000",
-    "source": "Global News",
-    "sources": [
-      "CityNews",
-      "Global News"
-    ],
-    "domains": [
-      "general"
-    ],
-    "snippets": [
-      "The 21-month war has left much of Gaza's population of over 2 million reliant on outside aid while food security experts warn of famine.",
-      "DEIR AL-BALAH, Gaza Strip (AP) — At least 31 Palestinians were fatally shot on their way to an aid distribution site in the Gaza Strip on Saturday, while Israeli airstrikes killed at least 28 Palestinians including four children, Palestinian hospital officials and witnesses said. There were no signs"
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/07/90ffb293efba0f06a25d76911912381eddbfe8fab5005996d6796614a92841dc_f2d929.jpg?quality=85&strip=all",
-    "titles": [
-      "52 Palestinians in Gaza are killed by Israeli airstrikes or shot dead while seeking aid",
-      "59 Palestinians in Gaza are killed by Israeli airstrikes or shot dead while seeking aid"
+      "New Caledonia declared a ‘state’ in autonomy deal, but will stay French",
+      "New Caledonia to be declared a state in ‘historic’ agreement – but will remain French"
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.847,
+      "recency": 0.823,
       "consensus": 0.632,
-      "constructiveness": 0.6,
-      "proximity": 1.0
-    },
-    "score": 0.697,
-    "summary": "In the Gaza Strip, escalating violence has resulted in significant casualties. At least 31 Palestinians were killed en route to an aid site, and Israeli airstrikes have taken at least 28 lives, including four children. This intensifies the humanitarian crisis in Gaza, where the 21-month conflict has left over 2 million people dependent on external aid, with experts warning of potential famine.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the escalating violence in Gaza and its humanitarian impacts. However, it doesn't report on any solutions, improvements, or attempts to solve the crisis, nor does it provide a deep understanding of the underlying causes or systems. It does, however, raise awareness about the severity of the situation and its potential consequences."
-  },
-  {
-    "title": "Coco Gauff Mentors Newcomer, Highlights Support for Tennis Talents",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 12 Jul 2025 23:02:16 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sports Illustrated",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "The tennis superstar passed down some sage advice to the American newcomer.",
-      "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlJ3NGtrQThWTHZXZjFqb3h5bU8wTGFEZUw4MnpMdl9tYmJ6a05OQ25VMC15cXhNdDV6WkcxLVl2X0pUeHJLWE1JeG1XU1prUEFkTlptcnRpWDA2bVlES0JPLVZ1VldUX2NDbU1TMU5pR2h0TGJ4VUUtQ1ZDbVg0QmlfdE5YYkVkUW9FSFRaWVRUTDFtc2NBcw?oc=5\" target=\"_blank\">Coco Gauff Sends Supp"
-    ],
-    "image_url": "",
-    "titles": [
-      "Rafael Nadal Sends Personal Message to Amanda Anisimova Amid Historic Wimbledon Loss",
-      "Coco Gauff Sends Supportive Message to Amanda Anisimova After Wimbledon Loss - Sports Illustrated"
-    ],
-    "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.977,
-      "consensus": 0.632,
-      "constructiveness": 0.8,
+      "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.693,
-    "summary": "Tennis superstar Coco Gauff shared valuable advice with an American newcomer to the sport. This mentoring moment signifies Gauff's role in supporting upcoming talents within the tennis community. The specific advice and the identity of the newcomer were not disclosed, but the gesture emphasizes Gauff's commitment to fostering growth and camaraderie among athletes.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story informs readers about Coco Gauff's mentorship role within the tennis community, contributing to a deeper understanding of her influence off the court. However, it lacks specific details about the advice given or the newcomer's identity, which could have provided more actionable insights or increased clarity around the system of mentorship in tennis."
+    "score": 0.673,
+    "summary": "France and New Caledonia have reached a historic agreement granting New Caledonia statehood while ensuring it remains within the French fold. This accord concludes after 10 days of negotiations, marking a \"new chapter\" for the archipelago, as described by French President Emmanuel Macron. The agreement comes in the wake of unrest that shook the territory last year, aiming to stabilize and define its future relationship with France.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is highly constructive as it reports on a significant development in the relationship between France and New Caledonia, offering a deeper understanding of international politics. It highlights the progress made in negotiations and the solution to the unrest that occurred in the territory last year, which contributes to the reader's knowledge about the situation."
   },
   {
-    "title": "Chicago Sky Overcomes Minnesota Lynx 87-81, Atkins Scores 27",
+    "title": "Cleveland Browns Rookie Judkins Arrested on Domestic Violence Charges",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 12 Jul 2025 23:27:52 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sportsnet",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "Ariel Atkins scored 27 points, Angel Reese and Kamilla Cardoso each had a double-double and the Chicago Sky beat the Minnesota Lynx 87-81 on Saturday.  Reese had 19 points and 11 rebounds — her eighth consecutive double-double and 14th of the season — and Cardoso finished with 17 points and a career",
-      "<p>Ariel Atkins scored 27 points, Angel Reese and Kamilla Cardoso each had a double-double and the Chicago Sky beat the Minnesota Lynx 87-81 on Saturday.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Atkins scores 27 as Sky beat Lynx 87-81",
-      "Atkins scores 27, Reese and Cardoso record double-doubles as Sky beats Lynx"
-    ],
-    "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.986,
-      "consensus": 0.632,
-      "constructiveness": 0.5,
-      "proximity": 0.75
-    },
-    "score": 0.69,
-    "summary": "Ariel Atkins led with 27 points as the Chicago Sky defeated the Minnesota Lynx 87-81. Angel Reese contributed with 19 points and 11 rebounds, marking her eighth consecutive double-double and 14th of the season, while Kamilla Cardoso added 17 points and a career-high in rebounds.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story gives an account of a basketball game, providing basic awareness of the game's outcome and key players' performances. However, it doesn't offer deeper insights into the strategies used, trends in the sport, or the impact of this game on the overall season."
-  },
-  {
-    "title": "Cardinals Legend Luis Sharpe Dies at 65",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 12 Jul 2025 19:07:37 EST",
+    "published": "Sat, 12 Jul 2025 23:07:44 EST",
     "source": "ESPN",
     "sources": [
-      "Yahoo Sports",
+      "CBS Sports",
       "ESPN"
     ],
     "domains": [
       "sports"
     ],
     "snippets": [
-      "Longtime Cardinals left tackle Luis Sharpe, a three-time Pro Bowler who spent his entire 13-year NFL career with the franchise, has died at age 65.",
-      "Luis Sharpe, a 3-time Pro Bowl selection widely regarded as the best left tackle in Cardinals franchise history, has died at the age of 65."
+      "Cleveland Browns rookie running back Quinshon Judkins was arrested on a domestic violence and battery charge in Fort Lauderdale, Florida, on Saturday, according to the Fort Lauderdale Police Department and Broward County arrest records.",
+      "The Ohio State product was arrested on Saturday in Fort Lauderdale, according to arrest records"
     ],
     "image_url": "",
     "titles": [
-      "Sharpe, 3-time Pro Bowl LT for Cardinals, dies",
-      "Luis Sharpe, longtime Cardinals left tackle and 3-time Pro Bowl pick, dies at 65"
+      "Browns' Judkins facing domestic violence charge",
+      "Browns rookie running back Quinshon Judkins arrested, charged with domestic violence in Florida"
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.979,
+      "recency": 0.901,
       "consensus": 0.632,
-      "constructiveness": 0.3,
+      "constructiveness": 0.5,
       "proximity": 0.75
     },
-    "score": 0.669,
-    "summary": "Luis Sharpe, celebrated as the best left tackle in Cardinals franchise history and a three-time Pro Bowler, has passed away at the age of 65. Sharpe spent his entire 13-year NFL career with the Cardinals, earning widespread recognition for his performance on the field.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story informs readers about the passing of a notable figure in sports, it does not provide actionable insights, deeper understanding, or highlight progress or solutions. It offers basic awareness about the event but lacks depth or insight."
+    "score": 0.673,
+    "summary": "Cleveland Browns rookie running back Quinshon Judkins was arrested in Fort Lauderdale, Florida, on charges of domestic violence and battery, as confirmed by the Fort Lauderdale Police Department and Broward County arrest records. The incident leading to the arrest of the Ohio State product occurred on Saturday.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story offers basic awareness about an incident involving a high-profile sports figure, but it doesn't provide much depth or insight beyond the basic facts of the arrest. It doesn't report on any solutions or improvements, nor does it contribute to the reader's understanding of broader issues such as domestic violence in sports."
   },
   {
-    "title": "Stevenson Faces Zepeda, Berlanga vs. Sheeraz in Major Boxing Event",
+    "title": "Brewers Rookie Misiorowski Named NL All-Star, Sparks Debate",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 12 Jul 2025 21:23:07 +0000",
-    "source": "CBS Sports",
+    "published": "Sat, 12 Jul 2025 23:07:44 EST",
+    "source": "ESPN",
     "sources": [
-      "Forbes",
-      "CBS Sports"
+      "Sportsnet",
+      "ESPN"
     ],
     "domains": [
-      "business",
       "sports"
     ],
     "snippets": [
-      "The champion is back in action as a part of a loaded card the features two title fights",
+      "The addition of Milwaukee Brewers pitcher Jacob Misiorowski to the NL All-Star team drew mixed reactions around baseball, but on Saturday, NL manager Dave Roberts supported the selection, adding the rookie should bring \"some more excitement\" to the game.",
+      "<p>The addition of Milwaukee Brewers rookie phenom pitcher Jacob Misiorowski to the National League All-Star team drew mixed reactions around Major League Baseball.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Roberts, Murphy back Misiorowski ASG selection",
+      "Roberts, Murphy defend Misiorowski’s selection to NL All-Star roster"
+    ],
+    "score_components": {
+      "magnitude": 0.6,
+      "recency": 0.901,
+      "consensus": 0.632,
+      "constructiveness": 0.5,
+      "proximity": 0.75
+    },
+    "score": 0.673,
+    "summary": "Jacob Misiorowski, a rookie pitcher for the Milwaukee Brewers, was selected for the National League All-Star team, sparking mixed reactions across Major League Baseball. However, NL manager Dave Roberts endorsed the decision, stating that Misiorowski's inclusion would add excitement to the game.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story provides basic awareness about the selection of Jacob Misiorowski as an All-Star player, but it doesn't offer in-depth analysis or insights into the reasons for the debate, or potential impacts on the team or league."
+  },
+  {
+    "title": "Shakur Stevenson Dominates William Zepeda in New York Victory",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 13 Jul 2025 02:43:43 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "CBS Sports",
+      "Forbes"
+    ],
+    "domains": [
+      "sports",
+      "business"
+    ],
+    "snippets": [
+      "Stevenson let his hands go and put a beating on Zepeda in New York",
       "We’re tracking every result and reaction from the Shakur Stevenson vs. William Zepeda card. Here’s everything you need to follow along live."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/11/688eae5f-722d-425a-afd3-bd28f707691c/shakur-zepeda.jpg",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/13/8fc00d63-5d14-4b58-91d4-ee0890c8ff8c/shakur-stevenson-zepeda-action-gbp.jpg",
     "titles": [
-      "Shakur Stevenson vs. William Zepeda fight predictions, undercard, odds, start time, expert picks, PPV price",
+      "Shakur Stevenson vs. William Zepeda results, highlights: Champion retains title with impressive performance",
       "Shakur Stevenson Vs. William Zepeda Results And Fight Card Results"
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.944,
+      "recency": 0.894,
       "consensus": 0.682,
-      "constructiveness": 0.5,
-      "proximity": 0.5
+      "constructiveness": 0.3,
+      "proximity": 0.75
     },
-    "score": 0.669,
-    "summary": "Shakur Stevenson returns to the ring against William Zepeda, marking a significant challenge for Stevenson given Zepeda's aggressive style. Additionally, Edgar Berlanga will face Hamzah Sheeraz, with both fighters aiming to establish their dominance. The event features two title fights, highlighting a major boxing card. The outcomes of these matches are anticipated, with Stevenson's technical skills and the Berlanga-Sheeraz matchup being key points of interest.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about an upcoming boxing event and the athletes involved. However, it lacks depth and does not provide actionable insights or a deeper understanding of the sport, the event, or the athletes. It does not report on solutions, improvements, or innovations."
+    "score": 0.664,
+    "summary": "Shakur Stevenson delivered a dominant performance against William Zepeda in New York, showcasing his skills and securing a victory. The fight results and reactions from the Stevenson vs. Zepeda card are being closely monitored for updates. Stay tuned for more details on the match outcome and responses.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "The story provides basic awareness about the outcome of the match, but lacks depth or insights into the strategies used, the performance of the players, or the implications of the result on their careers or the sport."
   },
   {
-    "title": "SportsLine's Vithlani Picks UFC Fight Night Favorites in Nashville",
+    "title": "Skubal, Skenes Named All-Star Game Starting Pitchers",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 12 Jul 2025 22:00:45 +0000",
+    "published": "Sun, 13 Jul 2025 00:56:52 +0000",
     "source": "CBS Sports",
     "sources": [
-      "Sportsnet",
-      "CBS Sports"
+      "CBS Sports",
+      "Sportsnet"
     ],
     "domains": [
       "sports"
     ],
     "snippets": [
-      "SportsLine's Daniel Vithlani reveals his picks for the UFC Fight Night: Lewis vs. Teixeira fight card from Bridgestone Arena in Nashville on Saturday",
-      "<p>Experienced heavyweight Derrick Lewis squares up against promising up-and-comer Tallison Teixeira. Watch UFC Fight Night live from Nashville on Sportsnet.</p>"
+      "It will be Skenes' second straight All-Star Game start",
+      "<p>Tarik Skubal and Paul Skenes have been named their respective leagues&#8217; starting pitchers, according to The Athletic&#8217;s Ken Rosenthal.</p>"
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/12/71675dda-12c8-49dc-ac88-d2e9248de060/derrick-lewis-ufc-getty-images.jpg",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/13/baef0fc9-b303-4458-bc3f-00ddbc53bb83/skenes-skubal-splut.jpg",
     "titles": [
-      "UFC Fight Night odds, lines, Nashville predictions, time: Lewis vs. Teixeira picks by proven MMA expert",
-      "UFC Fight Night on Sportsnet: Lewis vs. Teixeira"
+      "2025 MLB All-Star Game: Pirates' Paul Skenes and Tigers' Tarik Skubal named starting pitchers for Tuesday",
+      "Tigers’ Skubal, Pirates’ Skenes named starters for All-Star Game"
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.956,
+      "recency": 0.861,
       "consensus": 0.632,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.659,
-    "summary": "Daniel Vithlani from SportsLine has made his picks for the UFC Fight Night at Bridgestone Arena in Nashville, featuring a heavyweight match between Derrick Lewis and Tallison Teixeira. The event is scheduled for Saturday and will be broadcast live on Sportsnet.",
+    "score": 0.64,
+    "summary": "Tarik Skubal and Paul Skenes have been selected as starting pitchers for their respective leagues' All-Star Game. This will be Skenes' second consecutive All-Star Game start. The news was reported by Ken Rosenthal of The Athletic.",
     "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story offers basic awareness about an upcoming UFC Fight Night event, including who is participating and where it will be broadcast. However, it lacks depth or insight into the fighters, their strategies, or the potential implications of the match results."
+    "constructiveness_reason": "While the story informs readers about the selection of Skubal and Skenes as starting pitchers for the All-Star Game, it doesn't provide any deeper understanding or context about their performance, the selection process, or the potential impact of this decision."
   },
   {
-    "title": "Goldberg to Retire After Match Against Gunther at 2025 WWE Event in Atlanta",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 12 Jul 2025 20:01:01 +0000",
-    "source": "CBS Sports",
+    "title": "England Beats Argentina 22-17, Wins Series 2-0 with Last-Minute Try",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 12 Jul 2025 22:17:24 GMT",
+    "source": "The Guardian",
     "sources": [
-      "Forbes",
-      "CBS Sports"
+      "The Guardian",
+      "Sky Sports"
     ],
     "domains": [
-      "business",
+      "general",
       "sports"
     ],
     "snippets": [
-      "Saturday Night's Main Event takes place in Atlanta on Saturday",
-      "Goldberg challenges world heavyweight champion Gunther in the WCW legend's retirement match",
-      "WWE Saturday Night's Main Event 2025 match card, start time and betting odds as Goldberg faces Gunther in his retirement match."
+      "<ul><li><p>2nd Test: Argentina 17-22 England</p></li><li><p>England recover from 17-14 half-time deficit to snatch win</p></li></ul><p><a href=\"https://www.theguardian.com/sport/2025/jul/12/jamie-george-lions-luke-cowan-dickie-garry-ringrose-first-australia-test\">Jamie George flies to Australia</a> ",
+      "Jack van Poortvliet's last-gasp try clinched England a 22-17 victory against Argentina in their second Test in San Juan to wrap up a 2-0 series win."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/01/8279bb9f-96e2-496d-9cd6-a96098cf7e27/dchibadblood2024-06-ntwk-rev-1-8cf2150dce40dbbc366acea0219c29ef.jpg",
+    "image_url": "https://i.guim.co.uk/img/media/f7a55870fbd6ce022716bf8ee2af63961fee56ab/555_0_5971_4777/master/5971.jpg?width=140&quality=85&auto=format&fit=max&s=a441d0d9623ba7a681cf4ded34afc1db",
     "titles": [
-      "2025 WWE Saturday Night's Main Event card, date, matches, rumors, card, start time, match card, location",
-      "WWE Saturday Night's Main Event 2025 predictions, start time, card, date, where to watch, matches, location",
-      "WWE Saturday Night’s Main Event XL Match Card, Start Time And Odds"
+      "Van Poortvliet’s last-minute try seals dramatic series win for England in Argentina",
+      "Last-gasp Van Poortvliet try earns England series win over Argentina"
     ],
     "score_components": {
-      "magnitude": 0.62,
-      "recency": 0.917,
+      "magnitude": 0.6,
+      "recency": 0.815,
       "consensus": 0.682,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.651,
-    "summary": "Saturday Night's Main Event, happening in Atlanta, features a significant match as WCW legend Goldberg faces world heavyweight champion Gunther in what is announced as Goldberg's retirement match. The event is part of WWE's 2025 lineup, with details on the match card, start time, and betting odds available for fans.",
+    "score": 0.624,
+    "summary": "Jack van Poortvliet scored a decisive try in the final moments of the second Test in San Juan, securing England a 22-17 win over Argentina. This victory concluded the series with England triumphing 2-0. England overcame a 17-14 deficit at halftime to claim the win, marking a dramatic end to the series.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about an upcoming wrestling match and a wrestler's retirement. However, it lacks in-depth insights or actionable information that would contribute to the reader's understanding or decision-making."
+    "constructiveness_reason": "This story provides basic awareness of the event but lacks depth or insight. It does not provide any actionable insights or deeper understanding of the game, nor does it report on solutions, improvements, or innovations. It also does not increase clarity around systems, causes, trends, or impacts that matter."
   },
   {
-    "title": "Canadian Revives Racing Madrid, Achieves Promotion in Three Seasons",
+    "title": "Ex-Tennis Hopefuls Gainer, Ruffels Contend at Evian Championship",
+    "domain": "sports",
+    "location": "global",
+    "published": "Sat, 12 Jul 2025 16:26:00 BST",
+    "source": "Sky Sports",
+    "sources": [
+      "Sportsnet",
+      "Sky Sports"
+    ],
+    "domains": [
+      "sports"
+    ],
+    "snippets": [
+      "Highlights from round three of the Evian Championship at Evian Resort Golf Club in France.",
+      "<p>Golf wasn’t the first love of Cara Gainer or Gabriela Ruffels, who grew up wanting to be professional tennis players and came close to making it. Now they’re in sight of becoming an unlikely major winner in their adopted sport.</p>"
+    ],
+    "image_url": "https://e2.365dm.com/25/07/1920x1080/skysports-evian-championship_6963515.jpg?20250712162903",
+    "titles": [
+      "Highlights: Gainer and Ruffels co-lead by one shot at Evian Championship",
+      "Gainer, Ruffels tied for lead at Evian Championship entering final round"
+    ],
+    "score_components": {
+      "magnitude": 0.62,
+      "recency": 0.721,
+      "consensus": 0.632,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.619,
+    "summary": "At the Evian Championship in France, former aspiring tennis players Cara Gainer and Gabriela Ruffels are now contenders for a major win in golf. Transitioning from their initial sports ambitions, both athletes have made significant strides in their golf careers and are in contention at the Evian Resort Golf Club.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about the Evian Championship and the transition of two athletes from tennis to golf. However, it lacks depth and does not provide actionable insights for the reader. It does not report on solutions, improvements, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts."
+  },
+  {
+    "title": "Byron Buxton Hits Cycle in Twins' 12-4 Win, First at Target Field",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sat, 12 Jul 2025 21:00:40 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "CBS Sports",
+      "Sportsnet"
+    ],
+    "domains": [
+      "sports"
+    ],
+    "snippets": [
+      "Buxton collected hits in the first, second and third innings against the Pirates before going yard in the seventh",
+      "<p>Byron Buxton became the 12th player in franchise history to hit for the cycle in Saturday&#8217;s game against the Pittsburgh Pirates.</p>"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/12/2076f32a-a443-44b1-bfa1-5ee1a6df456c/byron-buxton-twins-cycle-usatsi.jpg",
+    "titles": [
+      "Twins' Byron Buxton hits for cycle on his bobblehead day, becomes 12th Minnesota player to accomplish feat",
+      "Twins’ Byron Buxton hits for cycle vs. Pirates"
+    ],
+    "score_components": {
+      "magnitude": 0.6,
+      "recency": 0.793,
+      "consensus": 0.632,
+      "constructiveness": 0.3,
+      "proximity": 0.5
+    },
+    "score": 0.607,
+    "summary": "Minnesota Twins All-Star center fielder Byron Buxton hit for the cycle in a 12-4 victory over the Pittsburgh Pirates, becoming the 12th player in franchise history to achieve this feat. Buxton secured hits in the first three innings and completed the cycle with a home run in the seventh. This marked the first cycle hit at Target Field since its opening in 2010.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about a notable event in a baseball game. However, it doesn't offer deeper insights, solutions, or actionable information that would significantly contribute to the reader's understanding or decision-making."
+  },
+  {
+    "title": "McIlroy Ties for Lead at Scottish Open with Gotterup",
+    "domain": "sports",
+    "location": "global",
+    "published": "Sat, 12 Jul 2025 20:30:00 BST",
+    "source": "Sky Sports",
+    "sources": [
+      "Sportsnet",
+      "Sky Sports"
+    ],
+    "domains": [
+      "sports"
+    ],
+    "snippets": [
+      "Rory McIlroy put himself in pole position to win the Scottish Open after he\ncarded a fine four-under par 66 at the Renaissance Club.",
+      "<p>Masters champion Rory McIlroy took another step toward emerging out of the doldrums with two big shots at the end of his round Saturday that led to a 4-under 66 and gave him a share of the lead with Chris Gotterup in the Scottish Open.</p>"
+    ],
+    "image_url": "https://e0.365dm.com/25/07/1920x1080/skysports-rory-mcilroy-scottish-open_6963627.jpg?20250712184356",
+    "titles": [
+      "McIlroy on charge to hold share of Scottish Open lead ahead of final round",
+      "McIlroy surges into share of lead alongside Gotterup at Scottish Open"
+    ],
+    "score_components": {
+      "magnitude": 0.6,
+      "recency": 0.785,
+      "consensus": 0.632,
+      "constructiveness": 0.3,
+      "proximity": 0.5
+    },
+    "score": 0.605,
+    "summary": "Rory McIlroy tied for the lead at the Scottish Open with Chris Gotterup after scoring a 4-under 66 at the Renaissance Club. This performance, highlighted by two significant shots towards the end of his round, positions McIlroy, the Masters champion, in contention for the win.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about the current status of the Scottish Open, but does not provide any deeper insight or actionable information for the reader. It does not report on solutions, improvements, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts."
+  },
+  {
+    "title": "Australian PM Albanese Visits China to Boost Trade Ties",
     "domain": "business",
     "location": "national",
-    "published": "Sat, 12 Jul 2025 15:40:20 +0000",
+    "published": "Sun, 13 Jul 2025 07:30:34 +0000",
     "source": "Financial Post",
     "sources": [
       "Financial Post"
@@ -621,23 +592,85 @@
       "business"
     ],
     "snippets": [
-      "When Canadian Steve Nijjar helped resurrect the long-defunct Racing Madrid soccer club, it had no players, no fans and no stadium. &#8220;We had zero,&#8221; he said. Times have changed. In May, the team won promotion to the Spanish fifth-tier in Nijjar&#8217;s third season at the helm. &#8220;But t"
+      "BEIJING (AP) &#8212; Australian Prime Minister Anthony Albanese kicked off a visit to China this weekend meant to shore up trade relations between the two countries. Albanese met with Shanghai Party Secretary Chen Jining on Sunday, the first in a series of high-level exchanges that will include meet"
     ],
     "image_url": "",
     "titles": [
-      "Canadian co-owner Steve Nijjar celebrates Racing Madrid’s promotion in Spain"
+      "Australia PM Albanese kicks off China visit focused on trade"
+    ],
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.987,
+      "consensus": 0.393,
+      "constructiveness": 0.8,
+      "proximity": 0.5
+    },
+    "score": 0.446,
+    "summary": "Australian Prime Minister Anthony Albanese visited China to strengthen trade relations. He met with Shanghai Party Secretary Chen Jining, marking the start of high-level exchanges. The visit aims to enhance economic ties between the two countries.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story is useful as it informs readers about the Australian Prime Minister's visit to China and the aim to strengthen trade relations. It provides context about the current state of economic ties between the two countries. However, it does not clearly highlight progress, solutions, or empowering knowledge."
+  },
+  {
+    "title": "Experts Predict AGI with Human-Like Abilities by 2040",
+    "domain": "business",
+    "location": "global",
+    "published": "Sun, 13 Jul 2025 03:15:00 -0400",
+    "source": "Forbes",
+    "sources": [
+      "Forbes"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "AI experts believe AI will advance to artificial general intelligence (AGI) by 2040. One path is an S-curve of AI advancements. Here is an inside look at that vital path."
+    ],
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/67c7847bd2eb4d131cd55bd1/0x0.jpg?width=960",
+    "titles": [
+      "Future Forecasting An S-Curve Pathway That Advances AI To Become AGI By 2040"
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.838,
+      "recency": 0.982,
       "consensus": 0.393,
-      "constructiveness": 1.0,
-      "proximity": 1.0
+      "constructiveness": 0.8,
+      "proximity": 0.5
     },
-    "score": 0.479,
-    "summary": "Canadian Steve Nijjar revived the defunct Racing Madrid soccer club, starting with no players, fans, or stadium. Within three seasons under his leadership, the club achieved promotion to the Spanish fifth-tier in May, marking a significant turnaround from its initial state.",
-    "constructiveness_score": 1.0,
-    "constructiveness_reason": "This story is constructive as it highlights progress and innovation in the revival of a defunct soccer club. It provides an example of successful leadership and strategic decision-making, which can be insightful and inspiring for readers."
+    "score": 0.438,
+    "summary": "AI experts predict that artificial general intelligence (AGI), which is AI with human-like cognitive abilities, could be achieved by 2040. They suggest that the development of AGI will follow an S-curve pattern, indicating a period of slow progress followed by rapid advancements and then leveling off. This path is considered crucial for reaching AGI.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story provides a useful insight into the future of artificial general intelligence, offering a timeline that can help readers understand when they might expect major advancements. However, it doesn't report on specific solutions or improvements, nor does it provide a clear sense of agency or actionable insights for the reader."
+  },
+  {
+    "title": "Markets Brace for Impact After Trump Announces 30% Tariffs on EU, Mexico",
+    "domain": "business",
+    "location": "national",
+    "published": "Sun, 13 Jul 2025 04:31:20 +0000",
+    "source": "Financial Post",
+    "sources": [
+      "Financial Post"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "Financial markets, which have shown increasing insensitivity to tariff threats from the US, will face a test at the Monday open after President Donald Trump declared a 30% rate for the European Union and Mexico effective Aug. 1."
+    ],
+    "image_url": "",
+    "titles": [
+      "Market Resilience Challenged by Trump’s Weekend Tariff Salvo"
+    ],
+    "score_components": {
+      "magnitude": 0.079,
+      "recency": 0.928,
+      "consensus": 0.393,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.421,
+    "summary": "Financial markets are set to be challenged at the Monday opening after President Donald Trump announced a 30% tariff rate on the European Union and Mexico, effective from August 1. This move tests the markets' recent insensitivity to US tariff threats.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story informs about a significant economic event that could have wide-ranging impacts. It provides context about the markets' recent insensitivity to tariff threats, which can help readers understand the potential consequences. However, it doesn't offer solutions, improvements, or empowering knowledge, and it doesn't provide actionable insights for readers."
   },
   {
     "title": "Study Finds Anger Decreases After Age 50",
@@ -660,108 +693,15 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.99,
+      "recency": 0.838,
       "consensus": 0.393,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.45,
+    "score": 0.419,
     "summary": "A study reported by SciTechDaily finds that individuals tend to experience a decrease in anger after the age of 50. The research, focusing on mood changes during midlife, suggests a significant shift in how emotions are managed and expressed as people age. This conclusion is based on observed patterns of emotional response, highlighting a notable reduction in anger levels among older adults.",
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story clearly highlights a scientific finding that can contribute to readers' understanding of emotional changes with age. It provides useful insights into patterns of emotional response and could help readers make informed decisions about their own emotional management."
-  },
-  {
-    "title": "Trump Questions Stanford-China University Deal Over IP Concerns",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 12 Jul 2025 22:21:55 +0000",
-    "source": "Fortune",
-    "sources": [
-      "Fortune"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "It could set a precedent for deals with other universities President Donald Trump has gone after, including Harvard."
-    ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2209732283-e1752358528712.jpg?w=2048",
-    "titles": [
-      "Columbia may be nearing a truce with Trump in funding fight"
-    ],
-    "score_components": {
-      "magnitude": 0.079,
-      "recency": 0.963,
-      "consensus": 0.393,
-      "constructiveness": 0.8,
-      "proximity": 0.5
-    },
-    "score": 0.449,
-    "summary": "President Donald Trump is targeting a deal between Stanford University and China's Zhejiang University, raising concerns about intellectual property theft. This move could impact similar agreements with other universities, like Harvard. The outcome of this situation is still pending.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about a potential issue concerning intellectual property rights between US and Chinese universities. It raises awareness about the potential implications for other universities and for international academic collaboration. However, it does not report on any solutions or progress towards resolving the issue."
-  },
-  {
-    "title": "Families Can Save $5,000 Annually in Trump Accounts, Employers Add $2,500",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 12 Jul 2025 21:42:18 +0000",
-    "source": "Fortune",
-    "sources": [
-      "Fortune"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "Families can contribute up to $5,000 a year into Trump accounts, with employers allowed to chip in up to $2,500 of that amount."
-    ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-1151326292-e1752351528963.jpg?w=2048",
-    "titles": [
-      "Here’s how a $1,000 ‘Trump account’ could swell to $100,000 by age 21—and $2 million by 60—even with modest contributions from families"
-    ],
-    "score_components": {
-      "magnitude": 0.059,
-      "recency": 0.95,
-      "consensus": 0.393,
-      "constructiveness": 0.9,
-      "proximity": 0.5
-    },
-    "score": 0.449,
-    "summary": "Families can now put up to $5,000 annually into Trump accounts, with employers permitted to add up to $2,500. This initiative aims to boost savings and financial security for families.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This news story is highly constructive as it provides actionable insights for families to improve their financial security. It reports on a new initiative and its potential benefits, contributing to the reader's decision-making and sense of agency."
-  },
-  {
-    "title": "Study Links Exercise Dislike to Personality Traits",
-    "domain": "science",
-    "location": "global",
-    "published": "Sat, 12 Jul 2025 23:04:36 +0000",
-    "source": "SciTechDaily",
-    "sources": [
-      "SciTechDaily"
-    ],
-    "domains": [
-      "science"
-    ],
-    "snippets": [
-      "<a href=\"https://scitechdaily.com/hate-exercise-science-says-it-might-just-be-your-personality/\" rel=\"nofollow\" title=\"Hate Exercise? Science Says It Might Just Be Your Personality\"><img alt=\"Sad Obese Woman Exercise Lose Weight\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https:/"
-    ],
-    "image_url": "",
-    "titles": [
-      "Hate Exercise? Science Says It Might Just Be Your Personality"
-    ],
-    "score_components": {
-      "magnitude": 0.059,
-      "recency": 0.978,
-      "consensus": 0.393,
-      "constructiveness": 0.8,
-      "proximity": 0.5
-    },
-    "score": 0.445,
-    "summary": "Recent scientific research suggests that a dislike for exercise may be linked to an individual's personality traits. The study highlights that certain personality characteristics can influence one's inclination towards physical activity. This finding offers a new perspective on the challenges some people face in maintaining regular exercise routines.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful insights into the relationship between personality traits and exercise habits. It offers a deeper understanding of why some people might struggle with maintaining regular exercise routines. However, it doesn't provide specific solutions or strategies for overcoming these challenges."
   },
   {
     "title": "Experts Confirm Key Ingredients for Healthy Skin",
@@ -784,46 +724,108 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.966,
+      "recency": 0.818,
       "consensus": 0.393,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.445,
+    "score": 0.415,
     "summary": "Leading dermatologists have identified several skin care ingredients proven to be effective. These include hyaluronic acid for hydration, retinol for aging signs, niacinamide for skin tone, and sunscreen to protect against UV damage. This consensus highlights the importance of using scientifically backed ingredients for skin health.",
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story is highly constructive as it provides actionable insights on skin care. It informs readers about scientifically backed ingredients for skin health and how to use them, empowering readers to make informed decisions about their skin care routines."
   },
   {
-    "title": "WNBA Viewership Boost Linked to Weekend Afternoon Broadcasts",
+    "title": "Study Links Exercise Dislike to Personality Traits",
+    "domain": "science",
+    "location": "global",
+    "published": "Sat, 12 Jul 2025 23:04:36 +0000",
+    "source": "SciTechDaily",
+    "sources": [
+      "SciTechDaily"
+    ],
+    "domains": [
+      "science"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/hate-exercise-science-says-it-might-just-be-your-personality/\" rel=\"nofollow\" title=\"Hate Exercise? Science Says It Might Just Be Your Personality\"><img alt=\"Sad Obese Woman Exercise Lose Weight\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https:/"
+    ],
+    "image_url": "",
+    "titles": [
+      "Hate Exercise? Science Says It Might Just Be Your Personality"
+    ],
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.828,
+      "consensus": 0.393,
+      "constructiveness": 0.8,
+      "proximity": 0.5
+    },
+    "score": 0.414,
+    "summary": "Recent scientific research suggests that a dislike for exercise may be linked to an individual's personality traits. The study highlights that certain personality characteristics can influence one's inclination towards physical activity. This finding offers a new perspective on the challenges some people face in maintaining regular exercise routines.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story provides useful insights into the relationship between personality traits and exercise habits. It offers a deeper understanding of why some people might struggle with maintaining regular exercise routines. However, it doesn't provide specific solutions or strategies for overcoming these challenges."
+  },
+  {
+    "title": "Ministry of Justice Rebuilds Payment Systems Amid Financial Struggles",
     "domain": "business",
     "location": "global",
-    "published": "Sat, 12 Jul 2025 17:53:41 -0400",
-    "source": "Forbes",
+    "published": "Sun, 13 Jul 2025 04:00:15 GMT",
+    "source": "Financial Times",
     "sources": [
-      "Forbes"
+      "Financial Times"
     ],
     "domains": [
       "business"
     ],
     "snippets": [
-      "The WNBA doesn't need a single player to carry the viewership load. High viewership is linked with accessible broadcast time slots on major networks, especially weekend afternoons."
+      "‘No end in sight’ to financial strain as Ministry of Justice is forced to rebuild payment systems"
     ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6872c28ddca8995f45c5c770/0x0.jpg?width=960",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2145ba8b-9d91-42c1-a2c0-f635caeaf9fc.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "titles": [
-      "Creative Media Scheduling Is Key For WNBA Viewership Growth Regardless Of Caitlin Clark"
+      "Barristers in England and Wales struggle to pay bills after legal aid hack"
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.954,
+      "recency": 0.918,
       "consensus": 0.393,
-      "constructiveness": 0.8,
+      "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.433,
-    "summary": "The WNBA's viewership success is not dependent on any single player but rather on the accessibility of its broadcast time slots on major networks, particularly during weekend afternoons. This approach has been linked to higher viewership rates for the league.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story offers a deeper understanding of the factors influencing WNBA viewership. It highlights the successful strategy of scheduling broadcasts during weekend afternoons. However, it doesn't provide actionable insights for the reader or report on further improvements or innovations."
+    "score": 0.405,
+    "summary": "The Ministry of Justice is currently facing ongoing financial difficulties with no immediate resolution apparent. This situation has necessitated the rebuilding of its payment systems to address these issues. The process indicates a significant challenge, but the exact timeline or full scope of the financial strain remains unclear.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs readers about the financial struggles faced by the Ministry of Justice and their attempt to solve the problem by rebuilding their payment systems. However, it lacks specific details about the scope of the financial strain and the timeline for the rebuilding process, limiting its usefulness for decision-making."
+  },
+  {
+    "title": "Companies Await Details on 50% Levy on Metal-Containing Products",
+    "domain": "business",
+    "location": "global",
+    "published": "Sun, 13 Jul 2025 04:00:15 GMT",
+    "source": "Financial Times",
+    "sources": [
+      "Financial Times"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "Companies await details on whether 50% levy will apply to all products containing the metal"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa2e36fcb-16b6-4674-81ec-1e13089c9249.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Manufacturers plead for US tariff clarity before copper stockpiles dwindle"
+    ],
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.918,
+      "consensus": 0.393,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.402,
+    "summary": "Companies are currently awaiting clarification on the implementation of a 50% levy, specifically regarding whether it will apply to all products containing a certain metal. The outcome or specifics of how this tax will be applied remain undetermined as of the latest updates.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story offers basic awareness about a potential tax levy on metal-containing products and its impact on companies. However, it lacks depth and insight as it does not provide any actionable insights or clarity on how the tax will be applied. This leaves readers without a clear understanding of the potential impacts or how to prepare for them."
   },
   {
     "title": "Mexico Aims to Avoid Trump's Threatened 30% Tariffs Starting August",
@@ -838,7 +840,7 @@
       "business"
     ],
     "snippets": [
-      "Mexico is projecting confidence that it will fend off a new set of 30% tariffs that President Donald Trump has threatened to impose on the Latin American country starting on Aug. 1."
+      "Mexico is projecting confidence that it will fend off a new set of 30% tariffs that President Donald Trump threatened Saturday to impose next month, with talks already underway to avert the worst."
     ],
     "image_url": "",
     "titles": [
@@ -846,12 +848,12 @@
     ],
     "score_components": {
       "magnitude": 0.099,
-      "recency": 0.866,
+      "recency": 0.734,
       "consensus": 0.393,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.426,
+    "score": 0.4,
     "summary": "Mexico is confident it can avoid new 30% tariffs threatened by President Trump starting August 1. The country is working to prevent the tariffs from being imposed.",
     "constructiveness_score": 0.7,
     "constructiveness_reason": "This story provides useful information about a potential economic issue between Mexico and the United States, which could affect various industries and consumers. However, it does not offer any solutions or progress towards resolving the problem, nor does it delve deeply into the potential impacts or underlying causes."
@@ -877,46 +879,46 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.835,
+      "recency": 0.707,
       "consensus": 0.393,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.426,
+    "score": 0.4,
     "summary": "Authorities in the Australian Capital Territory (ACT) have proposed new draft regulations aimed at improving the welfare of dogs. A notable guideline within these regulations mandates that all dogs must receive a minimum of three hours of human contact every day. This measure is part of a broader effort to ensure the well-being of dogs in the ACT.",
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story clearly highlights a proposed solution to improve the welfare of dogs. It provides useful information for dog owners and increases awareness about animal welfare regulations. The story empowers readers with knowledge about the new regulations and their potential impact."
   },
   {
-    "title": "US Inflation Rises in June Due to Tariff-Related Costs",
+    "title": "Fogbow Member Initiates Support for Gaza Humanitarian Foundation",
     "domain": "business",
-    "location": "national",
-    "published": "Sat, 12 Jul 2025 20:39:20 +0000",
-    "source": "Financial Post",
+    "location": "global",
+    "published": "Sun, 13 Jul 2025 04:00:15 GMT",
+    "source": "Financial Times",
     "sources": [
-      "Financial Post"
+      "Financial Times"
     ],
     "domains": [
       "business"
     ],
     "snippets": [
-      "After months of seeing very little inflation, US consumers probably experienced slightly faster price growth in June as companies started to pass along the higher cost of imported merchandise associated with tariffs."
+      "Work with private US group Fogbow overlapped with start of separate effort to help Gaza Humanitarian Foundation"
     ],
-    "image_url": "",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F06e4975f-a844-4b7a-8515-f62b5ba62715.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "titles": [
-      "US Inflation to Pick Up on More Tariff Pass-Through"
+      "BCG earned more than $1mn for Gaza aid barge project"
     ],
     "score_components": {
-      "magnitude": 0.079,
-      "recency": 0.93,
+      "magnitude": 0.039,
+      "recency": 0.918,
       "consensus": 0.393,
-      "constructiveness": 0.6,
+      "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.422,
-    "summary": "In June, US consumers likely faced slightly increased inflation as companies passed on higher costs from tariffs on imported goods. This marks a change from previous months of low inflation.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the current economic situation in the US and the impact of tariffs on inflation. However, it lacks depth in explaining the systems and causes behind these trends and does not offer solutions or improvements."
+    "score": 0.395,
+    "summary": "An individual's involvement with the private US group Fogbow coincided with the launch of a distinct initiative to support the Gaza Humanitarian Foundation. The connection between these two efforts has been noted. The current status or outcome of this situation is not provided in the information given.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story provides basic awareness about an individual's initiative to support a humanitarian cause. However, it lacks depth and insight as it does not provide any actionable insights, nor does it report on any solutions or improvements. The outcome of this initiative is also not mentioned, leaving readers without a clear understanding of the impact."
   },
   {
     "title": "Uneven-Aged Forest Management Offers Balanced Conservation Approach",
@@ -939,46 +941,15 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.835,
+      "recency": 0.707,
       "consensus": 0.393,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.419,
+    "score": 0.393,
     "summary": "Even-aged forest management prioritizes timber production often at the expense of ecosystem health, treating forests largely as either plantations or reserves. In contrast, uneven-aged management offers a compromise by potentially reducing ecosystem impacts, suggesting a more balanced approach to addressing the conflicting interests of land use and conservation.",
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story is constructive as it offers a deeper understanding of forest management practices, and highlights a potential solution to the problem of balancing timber production with ecosystem health. It informs readers about an innovative approach, thus empowering them with knowledge."
-  },
-  {
-    "title": "Central Bank Launches FAQ Page to Address Renovation Concerns",
-    "domain": "business",
-    "location": "national",
-    "published": "Sat, 12 Jul 2025 20:20:32 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "The central bank is quietly pushing back with a new \"Frequently Asked Questions\" page on its website defending the central bank's renovation."
-    ],
-    "image_url": "",
-    "titles": [
-      "Federal Reserve quietly responds to Trump administration attacks over renovation"
-    ],
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.924,
-      "consensus": 0.393,
-      "constructiveness": 0.7,
-      "proximity": 0.5
-    },
-    "score": 0.417,
-    "summary": "The central bank has launched a \"Frequently Asked Questions\" page on its website to address and defend its renovation project, responding to public queries and concerns. This move indicates the bank's effort to provide clarity and justification for the renovation activities.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story informs readers about the central bank's attempt to address public concerns about its renovation project. It provides actionable insights by directing readers to the FAQ page for more information. However, it does not report on specific improvements or innovations."
   },
   {
     "title": "Companies Push for Office Return, Productivity Impact Unclear",
@@ -1001,15 +972,76 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.853,
+      "recency": 0.722,
       "consensus": 0.393,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.412,
+    "score": 0.386,
     "summary": "Companies are urging employees to return to the office to boost productivity, despite limited proof that this enhances innovation or performance. The effectiveness of such policies remains uncertain.",
     "constructiveness_score": 0.8,
     "constructiveness_reason": "This story informs readers about the current trend of companies pushing for office returns and questions the effectiveness of such policies. It offers a useful context about the impact on productivity, but it doesn't provide a clear solution or report on any innovative approaches."
+  },
+  {
+    "title": "G20 Meetings Set for Next Week in South Africa",
+    "domain": "business",
+    "location": "national",
+    "published": "Sun, 13 Jul 2025 06:15:42 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "The G20 meetings in South Africa next week come at an interesting time for the country."
+    ],
+    "image_url": "",
+    "titles": [
+      "Global week ahead: Trade tensions cloud earnings and the G20 heads south"
+    ],
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.962,
+      "consensus": 0.393,
+      "constructiveness": 0.3,
+      "proximity": 0.5
+    },
+    "score": 0.384,
+    "summary": "The G20 meetings are scheduled to take place in South Africa next week, marking a significant event for the country. This timing is noted as particularly noteworthy, although specific reasons for this characterization are not provided in the content.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story offers basic awareness about an upcoming international event, but it provides minimal depth or insight. It doesn't explain why the timing is noteworthy, nor does it provide any actionable insights or empowering knowledge. It also doesn't report on any solutions, improvements, or attempts to solve problems."
+  },
+  {
+    "title": "xAI explains the Grok Nazi meltdown as Tesla puts Elon’s bot in its cars",
+    "domain": "technology",
+    "location": "global",
+    "published": "2025-07-12T20:54:56-04:00",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "domains": [
+      "technology"
+    ],
+    "snippets": [
+      "Several days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in response to user prompts, Elon Musk’s AI company tried to explain why that happened. In a series of posts on X, it said that “&#8230;we discovered the root cause was an update to "
+    ],
+    "image_url": "",
+    "titles": [
+      "xAI explains the Grok Nazi meltdown as Tesla puts Elon’s bot in its cars"
+    ],
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.861,
+      "consensus": 0.393,
+      "constructiveness": 0.4,
+      "proximity": 0.5
+    },
+    "score": 0.381,
+    "constructiveness_score": 0.4,
+    "constructiveness_reason": "The title suggests the article might offer some insight into the workings of AI in Tesla's cars, but it doesn't provide any clear information about solutions, improvements, or innovations. The reference to a 'Nazi meltdown' might be sensational or fear-based. The story could increase basic awareness about AI in cars, but without more context it's hard to say how much depth or insight it provides."
   },
   {
     "title": "Paranthropus robustus Studies Offer Insights into Human Evolution",
@@ -1032,12 +1064,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.864,
+      "recency": 0.732,
       "consensus": 0.393,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.405,
+    "score": 0.378,
     "summary": "Scientists have long studied fossils of Paranthropus robustus, an early human relative known for its upright walking, robust build, massive jaws, and large teeth with thick enamel. The species has intrigued researchers for nearly a century, shedding light on human evolution and dietary adaptations.",
     "constructiveness_score": 0.7,
     "constructiveness_reason": "This story increases awareness about human evolution and dietary adaptations, providing a deeper understanding of our early human relatives. However, it doesn't offer direct implications or actionable insights for the reader, limiting its usefulness in daily life."
@@ -1063,12 +1095,12 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.763,
+      "recency": 0.647,
       "consensus": 0.393,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.402,
+    "score": 0.378,
     "constructiveness_score": 0.8,
     "constructiveness_reason": "This title suggests the story will provide key insights or takeaways related to electric vehicles (EVs) from a specific piece of legislation. This could be highly useful to readers interested in EVs or environmental policy, offering them actionable insights and deeper understanding. However, without more context, it's unclear whether the story also reports on progress, solutions, or attempts to solve problems."
   },
@@ -1093,12 +1125,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.919,
+      "recency": 0.779,
       "consensus": 0.393,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.396,
+    "score": 0.368,
     "constructiveness_score": 0.5,
     "constructiveness_reason": "This story offers basic awareness about a controversial statement made by a prominent figure in the tech industry. However, it lacks depth or insight into the implications of this statement, the context in which it was made, or the broader conversation about diversity, equity, and inclusion in higher education."
   },
@@ -1123,12 +1155,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.858,
+      "recency": 0.727,
       "consensus": 0.393,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.393,
+    "score": 0.367,
     "summary": "Dark matter, an elusive substance that prevents galaxies from disintegrating by providing necessary mass, remains a significant enigma in physics. Despite its confirmed existence through gravitational effects on galaxies, its precise nature is unknown, challenging scientists and researchers in the fields of particle physics and cosmology.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story provides useful information about the ongoing mystery of dark matter, giving readers a deeper understanding of the challenges in the field of physics. However, it doesn't report on any solutions or progress in the field, nor does it give actionable insights."
@@ -1146,55 +1178,22 @@
       "technology"
     ],
     "snippets": [
-      "Amazon’s first four-day Prime Day technically ended yesterday, but a few deals have stuck around a little longer. You won’t see a bright red “Prime Day Deal” tag anymore, which can make these stragglers a little hard to find, so we’ve collected them for you. These deals could end at any time, and we",
-      "Here at The Verge, we love physical media, and we know many of you do as well. That’s why it’s our duty to share the news that many great 4K Blu-ray and standard Blu-ray movies, TV shows, and box sets are on sale for Prime Day. Amazon is currently offering a ton of great Blu-ray [&#8230;]"
+      "Amazon’s first four-day Prime Day technically ended yesterday, but a few deals have stuck around a little longer. You won’t see a bright red “Prime Day Deal” tag anymore, which can make these stragglers a little hard to find, so we’ve collected them for you. These deals could end at any time, and we"
     ],
     "image_url": "",
     "titles": [
-      "The best Amazon Prime Day deals you can still shop",
-      "The best Prime Day deals you can still grab on Verge-favorite 4K Blu-rays"
+      "The best Amazon Prime Day deals you can still shop"
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.824,
+      "recency": 0.698,
       "consensus": 0.393,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.387,
+    "score": 0.361,
     "constructiveness_score": 0.6,
     "constructiveness_reason": "While this story may be useful for readers looking for deals, it doesn't provide deeper understanding or increase awareness about a significant issue. It does, however, offer a service to readers by informing them about ongoing deals."
-  },
-  {
-    "title": "Individual Clarifies State's Non-Community Property Laws, Mentions Adult Son",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 12 Jul 2025 22:35:00 GMT",
-    "source": "MarketWatch",
-    "sources": [
-      "MarketWatch"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "“We do not live in a community-property state. We have one son who is now a young adult.”"
-    ],
-    "image_url": "https://images.mktw.net/im-04411670",
-    "titles": [
-      "‘We are blessed’: My husband is inheriting a $1 million home. Should he put it in my name too?"
-    ],
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.968,
-      "consensus": 0.393,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.386,
-    "summary": "A person clarifies that they reside in a state which does not follow community property laws regarding assets and property division. They also mention having one son, who is now a young adult. This information suggests the context may involve family or legal matters related to property or inheritance, but specific details or outcomes are not provided.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story offers basic awareness about non-community property laws in certain states, but lacks depth or insight. It does not provide actionable insights, report on solutions, or increase clarity around systems or impacts."
   },
   {
     "title": "A United Nations research institute created an AI refugee avatar",
@@ -1217,12 +1216,12 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.937,
+      "recency": 0.794,
       "consensus": 0.393,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.386,
+    "score": 0.358,
     "constructiveness_score": 0.3,
     "constructiveness_reason": "Without a summary or further context, it's hard to evaluate this story. The title alone suggests some level of innovation, but without more information, it's unclear if the story provides actionable insights, reports on a solution, or increases awareness on a particular issue."
   },
@@ -1247,12 +1246,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.793,
+      "recency": 0.671,
       "consensus": 0.393,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.381,
+    "score": 0.356,
     "constructiveness_score": 0.6,
     "constructiveness_reason": "While the title doesn't provide much information about the content of the story, it suggests a personal experience with a product. This could potentially offer readers insights into the product's features or usability, contributing to their understanding or decision-making if they're considering purchasing the product. However, without more context, it's hard to definitively say how constructive the story is."
   },
@@ -1277,12 +1276,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.809,
+      "recency": 0.686,
       "consensus": 0.393,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.374,
+    "score": 0.349,
     "constructiveness_score": 0.5,
     "constructiveness_reason": "This story offers basic awareness about the user experience with Alexa Plus, but it doesn't provide much depth or insight. It doesn't report on solutions, improvements, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts that matter."
   },
@@ -1307,43 +1306,13 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.866,
+      "recency": 0.733,
       "consensus": 0.393,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.372,
+    "score": 0.345,
     "constructiveness_score": 0.3,
     "constructiveness_reason": "This story informs the reader about a public apology from two tech companies, but it does not provide any actionable insights or deeper understanding. It also does not report on any solutions, improvements, or attempts to address the behavior in question, nor does it increase clarity around the causes, trends, or impacts of such behavior in the tech industry."
-  },
-  {
-    "title": "Just 3 days left to save before TechCrunch All Stage 2025 lights up Boston",
-    "domain": "technology",
-    "location": "global",
-    "published": "Sat, 12 Jul 2025 13:00:00 +0000",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "domains": [
-      "technology"
-    ],
-    "snippets": [
-      "In only 3 days, founders, investors, and operators will flood into the SoWa Power Station in Boston for TechCrunch All Stage 2025 — and if you haven’t grabbed your pass yet, this is your final window to lock in the lowest prices available and save up to $475. Whether you’re a first-time founder or a"
-    ],
-    "image_url": "",
-    "titles": [
-      "Just 3 days left to save before TechCrunch All Stage 2025 lights up Boston"
-    ],
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.793,
-      "consensus": 0.393,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.35,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This title seems to be more promotional than informative, likely alerting readers to a discount or deal related to an upcoming event. While this may be useful to some readers, it doesn't appear to offer deeper understanding, report on progress or solutions, or increase awareness around significant systems, causes, or trends."
   }
 ]
