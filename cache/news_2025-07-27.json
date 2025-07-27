@@ -6,18 +6,18 @@
     "published": "2025-07-26T18:40:00Z",
     "source": "Deutsche Welle",
     "sources": [
-      "Washington Post",
-      "The Guardian",
       "New York Times",
-      "Deutsche Welle"
+      "Deutsche Welle",
+      "Washington Post",
+      "The Guardian"
     ],
     "domains": [
       "general"
     ],
     "snippets": [
       "US President Donald Trump has said Thai and Cambodian leaders want an immediate ceasefire after days of deadly clashes. The conflict has killed at least 33 people.",
-      "<p>US president warns he will not negotiate trade deal with either side until clashes, which have killed at least 23, stop</p><p>Thailand and Cambodia have agreed to “immediately meet” to work out a ceasefire, according to Donald Trump, who spoke to the leaders of both countries as he sought an end ",
-      "The president suggests that the U.S. is ready to impose heavy tariffs on both countries if border clashes continue.",
+      "<p>US president warns he will not negotiate trade deal with either side until clashes, which have killed at least 23, stop</p><p>Thailand and Cambodia agreed to “immediately meet” to work out a ceasefire, Donald Trump claimed after speaking to the leaders of both countries as he sought an end to con",
+      "President Donald Trump suggests that the U.S. is ready to impose heavy tariffs on both countries if border clashes continue.",
       "President Trump said he had intervened to help stop the deadly strife, now in its third day, after it extended to provinces about 200 miles south of where clashes began."
     ],
     "image_url": "",
@@ -29,12 +29,12 @@
     ],
     "score_components": {
       "magnitude": 0.84,
-      "recency": 0.892,
+      "recency": 0.756,
       "consensus": 0.935,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.836,
+    "score": 0.809,
     "summary": "US President Donald Trump has announced that leaders from Thailand and Cambodia have agreed to meet immediately to discuss a ceasefire following deadly clashes at their border, which have resulted in at least 33 deaths. Trump has intervened in the conflict, now in its third day, and has warned that the U.S. will not negotiate trade deals with either country and is prepared to impose heavy tariffs if the violence continues.",
     "constructiveness_score": 0.8,
     "constructiveness_reason": "This story is constructive as it provides useful information about the ongoing conflict between Thailand and Cambodia, and the US's involvement in mediating the situation. It also highlights the potential consequences if the violence continues, which could impact the reader's understanding of international relations and trade.",
@@ -51,15 +51,64 @@
     }
   },
   {
+    "title": "De Ridder Wins Close Decision Over Whittaker in UFC Debut",
+    "domain": "sports",
+    "location": "global",
+    "published": "Sun, 27 Jul 2025 00:13:25 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Sportsnet",
+      "CBS Sports",
+      "Al Jazeera"
+    ],
+    "domains": [
+      "general",
+      "sports"
+    ],
+    "snippets": [
+      "Reinier de Ridder survives a brutal knockdown to narrowly win against Robert Whittaker in the main event.",
+      "De Ridder had to survive a brutal knockdown but was able to grind out a close decision win",
+      "<p>Reinier de Ridder said he didn’t plan on his first UFC main event going five rounds and although that prediction was incorrect, he did prove he can hang with the UFC’s best, picking up a win over former champion Robert Whittaker.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "De Ridder beats Whittaker in split decision at UFC Abu Dhabi",
+      "UFC Fight Night results: Reinier de Ridder edges out narrow split decision over Robert Whittaker in tough bout",
+      "Reinier de Ridder edges out Robert Whittaker, Yan wins at UFC Abu Dhabi"
+    ],
+    "score_components": {
+      "magnitude": 0.7,
+      "recency": 0.848,
+      "consensus": 0.897,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.749,
+    "summary": "Reinier de Ridder won a close decision against former champion Robert Whittaker in his first UFC main event, despite being knocked down. De Ridder, who initially didn't expect the fight to last five rounds, demonstrated his ability to compete with top UFC fighters by securing the victory.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story gives useful context about Reinier de Ridder's debut in UFC and his performance against Robert Whittaker. It does not, however, provide broader insights into the sport or discuss any innovations or solutions.",
+    "image": {
+      "src": "https://live.staticflickr.com/4090/5202116364_6c35d6feb2_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/c529fe29-eb8c-45d3-90a3-0d57ab3c13ec/thumb/",
+      "alt": "Balkenende bevorderd tot Ridder Grootkruis in de Orde van Oranje Nassau",
+      "credit": "Minister-president / CC BY 2.0",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "Openverse"
+    }
+  },
+  {
     "title": "Tea Dating App Hack Leaks User Images, No Personal Info Compromised",
     "domain": "business",
     "location": "global",
     "published": "Sat, 26 Jul 2025 20:56:17 +0000",
     "source": "Fortune",
     "sources": [
+      "CityNews",
       "Financial Post",
-      "Fortune",
-      "CityNews"
+      "Fortune"
     ],
     "domains": [
       "general",
@@ -78,12 +127,12 @@
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.935,
+      "recency": 0.792,
       "consensus": 0.897,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.776,
+    "score": 0.748,
     "summary": "Tea, a dating app allowing women to anonymously discuss men, confirmed a hack that leaked thousands of images, including selfies. The breach only impacted users who signed up before February 2024. No email addresses or phone numbers were compromised. This incident comes as the app gained popularity, reaching the top spot on the U.S. Apple App Store.",
     "constructiveness_score": 0.7,
     "constructiveness_reason": "The story provides useful information about a data breach, including the specific data that was compromised. It also clarifies that no personal contact information was leaked, which is useful for the app's users. However, it doesn't report on any actions taken to prevent future breaches or improve security.",
@@ -102,37 +151,37 @@
   {
     "title": "Allianz Life Insurance Data Breach Affects 1.4 Million Customers",
     "domain": "business",
-    "location": "national",
-    "published": "Sat, 26 Jul 2025 18:22:47 -0400",
-    "source": "ABC News",
+    "location": "global",
+    "published": "Sat, 26 Jul 2025 21:19:49 +0000",
+    "source": "Fortune",
     "sources": [
+      "TechCrunch",
       "Financial Post",
-      "Fortune",
-      "ABC News"
+      "Fortune"
     ],
     "domains": [
-      "business",
-      "general"
+      "technology",
+      "business"
     ],
     "snippets": [
-      "Hackers have accessed the personal data of most of the 1.4 million customers.",
       "Allianz Life said the data breach happened on July 16 when a “malicious threat actor” accesses a third-party, cloud-based system used by the company.",
-      "MINNEAPOLIS (AP) &#8212; Hackers gained access to personal data on the majority of the 1.4 million customers of Allianz Life Insurance Company of North America, the company confirmed Saturday. Minneapolis-based Allianz Life, a subsidiary of Munich, Germany-based Allianz SE, said the data breach happ"
+      "MINNEAPOLIS (AP) &#8212; Hackers gained access to personal data on the majority of the 1.4 million customers of Allianz Life Insurance Company of North America, the company confirmed Saturday. Minneapolis-based Allianz Life, a subsidiary of Munich, Germany-based Allianz SE, said the data breach happ",
+      "Exclusive: Allianz Life said the \"majority\" of its customers and employees had data stolen in the July cyberattack. The company said it has notified the FBI."
     ],
-    "image_url": "https://s.abcnews.com/images/US/wirestory_12b991a141c24d3a060642c0d173e0be_4x3_384.jpg",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/AP25207720496637.jpg?w=2048",
     "titles": [
-      "Allianz Life confirms data breach affecting majority of 1.4M US customers",
       "Allianz Life says hackers accessed personal data on the majority of its 1.4 million US customers",
-      "Allianz Life confirms data breach affecting majority of 1.4M US customers"
+      "Allianz Life confirms data breach affecting majority of 1.4M US customers",
+      "Allianz Life says ‘majority’ of customers’ personal data stolen in cyberattack"
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.964,
+      "recency": 0.799,
       "consensus": 0.897,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.772,
+    "score": 0.739,
     "summary": "Hackers accessed personal data of most of Allianz Life Insurance's 1.4 million customers following a breach on July 16. The Minneapolis-based company, a subsidiary of Germany's Allianz SE, confirmed the breach occurred through a third-party cloud system.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story informs readers about a significant data breach, which is important for those affected. However, it doesn't provide actionable insights for readers or report on any solutions or improvements to prevent such incidents in the future.",
@@ -149,15 +198,64 @@
     }
   },
   {
+    "title": "Spain Eyes Euro 2025 Victory Against England After World Cup Triumph",
+    "domain": "general",
+    "location": "global",
+    "published": "Sat, 26 Jul 2025 14:50:06 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Yahoo Sports",
+      "Al Jazeera",
+      "The Guardian"
+    ],
+    "domains": [
+      "general",
+      "sports"
+    ],
+    "snippets": [
+      "Spain&#039;s women battled sexism and indifference. Now the world champions are eyeing Euro 2025 title against England.",
+      "England will aim for back-to-back Euros titles against the world champions",
+      "<ul><li><p>Keep up with all the latest news, 5pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/ng-interactive/2025/jun/26/womens-euro-2025-top-goalscorers-golden-boot-switzerland\">Euros top scorers</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2025/ju"
+    ],
+    "image_url": "",
+    "titles": [
+      "England vs Spain: Women’s Euro 2025 final – teams, start, lineups",
+      "Is England vs Spain on TV? Kick-off time, channel and how to watch Euro 2025 final for free",
+      "Women’s Euro 2025: England v Spain news and buildup to the final showdown – live"
+    ],
+    "score_components": {
+      "magnitude": 0.72,
+      "recency": 0.698,
+      "consensus": 0.897,
+      "constructiveness": 0.7,
+      "proximity": 0.5
+    },
+    "score": 0.736,
+    "summary": "Spain's women's football team, having overcome sexism and indifference, are now the world champions and are setting their sights on the Euro 2025 title, facing England. England, on the other hand, is aiming to secure back-to-back European titles in a match that kicks off at 5pm BST. The competition highlights the progress and current standing of women's football on the international stage.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story provides useful context about the progress of women's football, specifically in Spain and England. It does not, however, provide actionable insights or deeper understanding of the systems or trends in women's football.",
+    "image": {
+      "src": "https://live.staticflickr.com/3835/15263425281_76e2c40631_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/98fad0a7-9a02-4600-a46c-7f46a6196249/thumb/",
+      "alt": "Boy with Big Eyes",
+      "credit": "M1key.me / CC BY 2.0",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "Openverse"
+    }
+  },
+  {
     "title": "Wildfire Forces Evacuations in Athens Suburb Amid High Winds and Heat",
     "domain": "general",
     "location": "global",
     "published": "Sat, 26 Jul 2025 19:01:16 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "The Guardian",
       "Global News",
-      "Al Jazeera"
+      "Al Jazeera",
+      "The Guardian"
     ],
     "domains": [
       "general"
@@ -175,12 +273,12 @@
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.899,
+      "recency": 0.761,
       "consensus": 0.847,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.747,
+    "score": 0.719,
     "summary": "A wildfire has impacted the suburb of Kryoneri, north-east of Athens, leading to evacuations as high temperatures and strong winds exacerbate the situation. Greek officials warn of ongoing challenges due to persistent dry conditions. Residents received evacuation orders via SMS, and there have been reports of property damage and injuries.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "The story provides useful information about the wildfire and the evacuation process, which could be useful for readers in understanding the severity of the situation. However, it does not report on any solutions or improvements, and the awareness it provides is limited to the immediate situation.",
@@ -197,88 +295,43 @@
     }
   },
   {
-    "title": "Israel to Begin Airdrops, Open Humanitarian Corridors in Gaza Amid Crisis",
+    "title": "UK to Ease Shop-to-Pub Conversions, Protect Music Venues with Soundproofing Rule",
     "domain": "general",
-    "location": "national",
-    "published": "Sat, 26 Jul 2025 17:51:35 -0400",
-    "source": "NPR",
+    "location": "global",
+    "published": "Sun, 27 Jul 2025 07:16:37 GMT",
+    "source": "BBC",
     "sources": [
-      "ABC News",
-      "NPR"
+      "The Guardian",
+      "BBC"
     ],
     "domains": [
       "general"
     ],
     "snippets": [
-      "Israel's military said the airdrops would begin Saturday night in Gaza, after mounting accounts of starvation-related deaths. Israeli officials also said humanitarian corridors will be established.",
-      "The Israel Defense Forces announced Saturday it would conduct air drops into Gaza following calls from humanitarian groups about the growing malnutrition."
+      "It will also be easier to open new pubs in disused shops under licensing reforms planned by the government.",
+      "<p>New government measures will also require developers to soundproof flats and apartments near existing venues</p><p>Music venues that are subject to noise complaints by nearby residential developments will be offered “greater protection” under new government plans.</p><p>The measures, which are se"
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff59/live/c7d44e40-6a46-11f0-9878-a1f4f8230617.jpg",
     "titles": [
-      "Israel's military says aid airdrops will begin in Gaza as hunger grows",
-      "IDF says it will conduct aid airdrops in Gaza as hunger crisis deepens"
+      "Pubs and venues to be protected from noise complaints",
+      "Music venues subject to noise complaints to get ‘greater protection’"
     ],
     "score_components": {
-      "magnitude": 0.64,
-      "recency": 0.953,
+      "magnitude": 0.6,
+      "recency": 0.983,
       "consensus": 0.632,
       "constructiveness": 0.9,
-      "proximity": 0.75
-    },
-    "score": 0.738,
-    "summary": "Israel's military announced plans to start airdrops in Gaza on Saturday night and establish humanitarian corridors, responding to reports of starvation-related deaths and increasing malnutrition concerns. This initiative comes after humanitarian groups highlighted the urgent need for food and supplies in the area.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is highly constructive. It not only provides useful information about the humanitarian crisis in Gaza, but also reports on the solutions being implemented to alleviate the situation. This could empower readers with knowledge about the actions being taken to address the crisis.",
-    "image": {
-      "src": "https://live.staticflickr.com/4223/34460983290_f93d2fc6b8_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/6b5803ad-95ce-4d14-82bd-514ad97b12a1/thumb/",
-      "alt": "President Trump at the Israel Museum. Jerusalem May 23, 2017 President Trump at the Israel Museum. Jerusalem May 23, 2017",
-      "credit": "U.S. Embassy Jerusalem / CC BY 2.0",
-      "license": "by",
-      "license_version": "2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "provider": "flickr",
-      "source": "Openverse"
-    }
-  },
-  {
-    "title": "Virginia Tech Probes Claim of In-Game Player Recruitment by Assistant Coach",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 26 Jul 2025 18:51:52 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "CBS Sports"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "Virginia Tech says it is looking into a tampering claim made by NC Central coach Trei Oliver, who said a Hokies assistant attended an Eagles game in an effort to recruit their star running back.",
-      "North Carolina Central's Trei Oliver is the latest to sound the alarms on tampering"
-    ],
-    "image_url": "",
-    "titles": [
-      "Va. Tech probing tampering claim by NC Central",
-      "Virginia Tech investigating tampering claim from North Carolina Central coach over star RB"
-    ],
-    "score_components": {
-      "magnitude": 0.62,
-      "recency": 0.974,
-      "consensus": 0.632,
-      "constructiveness": 0.6,
-      "proximity": 0.75
+      "proximity": 0.5
     },
     "score": 0.705,
-    "summary": "Virginia Tech is investigating a tampering claim by NC Central coach Trei Oliver, who alleges a Virginia Tech assistant tried to recruit NC Central's star running back during a game. The university is taking steps to address the accusation and determine the validity of Oliver's claim.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story informs about an ongoing investigation into a potential violation of recruitment rules in college sports. It provides useful context about the allegations and the steps being taken by the university to address them. However, it doesn't offer solutions or highlight progress in addressing such issues.",
+    "summary": "The UK government plans to simplify the process of converting disused shops into pubs and introduce licensing reforms to support this change. Additionally, new measures will mandate developers to soundproof flats and apartments close to existing music venues, providing these venues with greater protection against noise complaints. This initiative aims to balance the growth of residential areas with the preservation of cultural spaces.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This article clearly highlights a solution to a problem - the preservation of cultural spaces in the face of residential growth. It provides actionable insights (the new regulations) and a deeper understanding of the government's approach to balancing these two interests.",
     "image": {
-      "src": "https://live.staticflickr.com/3826/9130576836_4be88f1848_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/ba724722-b58e-4e62-9135-a9d800b6b051/thumb/",
-      "alt": "Marine's childhood dream of being courtside comes true",
-      "credit": "Tyler J. Bolken / CC BY 2.0",
+      "src": "https://live.staticflickr.com/1595/26246679326_6336ec5f1c_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/3e56d481-a95f-462f-9908-0ba68325aa86/thumb/",
+      "alt": "Reading, UK",
+      "credit": "VV Nincic / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
@@ -290,15 +343,15 @@
     "title": "Victoria Mboko Reflects on Bouchard's Legacy Ahead of Final Match",
     "domain": "business",
     "location": "national",
-    "published": "Sat, 26 Jul 2025 21:50:17 +0000",
+    "published": "Sun, 27 Jul 2025 05:14:07 +0000",
     "source": "Financial Post",
     "sources": [
-      "Financial Post",
-      "Sportsnet"
+      "Sportsnet",
+      "Financial Post"
     ],
     "domains": [
-      "sports",
-      "business"
+      "business",
+      "sports"
     ],
     "snippets": [
       "MONTREAL &#8212; Victoria Mboko was only seven years old when Eugenie Bouchard captivated the country &#8212; and the tennis world _ with her run to the Wimbledon final. But Mboko still remembers its magnitude because of how Bouchard&#8217;s achievements shaped the future of Canadian tennis. &#8220;",
@@ -311,12 +364,12 @@
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.953,
+      "recency": 0.942,
       "consensus": 0.682,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.701,
+    "score": 0.699,
     "summary": "Victoria Mboko recalls the impact Eugenie Bouchard had on Canadian tennis when Bouchard reached the Wimbledon final. Bouchard's influence is significant as she prepares for her final tennis tournament, facing Emiliana Arango at the National Bank Open.",
     "constructiveness_score": 0.8,
     "constructiveness_reason": "This story provides a deeper understanding of Eugenie Bouchard's impact on Canadian tennis, which is useful for tennis fans. However, it doesn't provide actionable insights or report on any systemic trends or impacts.",
@@ -333,43 +386,136 @@
     }
   },
   {
-    "title": "Israel Initiates Gaza Aid Airdrops; UN Warns of Continuing Starvation Crisis",
-    "domain": "general",
-    "location": "global",
-    "published": "2025-07-26T21:05:00Z",
-    "source": "Deutsche Welle",
+    "title": "Claressa Shields Retains Title in Unanimous Victory Against Daniels",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 27 Jul 2025 06:35:29 +0000",
+    "source": "Yahoo Sports",
     "sources": [
-      "The Guardian",
-      "Deutsche Welle"
+      "Yahoo Sports",
+      "Sportsnet"
     ],
     "domains": [
-      "general"
+      "sports"
     ],
     "snippets": [
-      "The Israeli military said airdrops of aid into Gaza would begin and that humanitarian corridors would be established for UN convoys. The move comes days after the UN and aid groups warned of mass starvation. DW has more.",
-      "<p>‘Airdrops will not reverse the deepening starvation,’ said UNRWA Commissioner-General Philippe Lazzarini</p><p>At least 25 people were killed by Israeli airstrikes and gunshots overnight, according to health officials and the ambulance service on Saturday, as ceasefire talks appear to have stalle"
+      "Claressa Shields retained her undisputed women’s heavyweight championship with a commanding unanimous decision over Lani Daniels on Saturday night at Little Caesars Arena in Detroit.  The judges scored the bout 100-90, 99-91 and 99-91 in favor of Shields, who improved to 17-0 (3 KOs).  It marked the",
+      "<p>Claressa Shields unanimously outpointed Lani Daniels on Saturday night, successfully defending all her belts as the first undisputed heavyweight champion in women&#8217;s boxing.</p>"
     ],
     "image_url": "",
     "titles": [
-      "Middle East: Israel to airdrop aid into Gaza",
-      "Middle East: Israel starts airdrops with humanitarian aid in Gaza – as it happened"
+      "Claressa Shields eases past Lani Daniels to defend undisputed heavyweight title",
+      "Claressa Shields beats Lani Daniels, defends all belts"
     ],
     "score_components": {
-      "magnitude": 0.64,
-      "recency": 0.938,
+      "magnitude": 0.62,
+      "recency": 0.969,
       "consensus": 0.632,
-      "constructiveness": 0.8,
+      "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.7,
-    "summary": "The Israeli military announced the initiation of airdrops of aid and the establishment of humanitarian corridors for UN convoys into Gaza, responding to warnings of mass starvation by the UN and aid groups. Despite these efforts, UNRWA Commissioner-General Philippe Lazzarini stated that airdrops would not alleviate the severe starvation crisis. Concurrently, at least 25 people have died due to Israeli airstrikes and gunfire, amid stalled ceasefire negotiations.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about the humanitarian crisis in Gaza and the efforts to alleviate it. It also contextualizes the situation with the mention of the UN's warnings and the ongoing conflict. However, it doesn't highlight any long-term solutions or improvements, which limits its constructiveness.",
+    "score": 0.679,
+    "summary": "Claressa Shields defended her undisputed women's heavyweight championship with a unanimous decision victory over Lani Daniels at Little Caesars Arena in Detroit. The judges scored the fight 100-90, 99-91, and 99-91, favoring Shields. This win improves her record to 17-0, with 3 KOs, solidifying her position as the first undisputed heavyweight champion in women's boxing.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about the boxing match, including the judges' scores and Shields' improved record. It gives the reader a better understanding of Shields' achievement. However, it doesn't report on any solutions, improvements, or innovations, nor does it increase clarity around systems, causes, or trends.",
     "image": {
-      "src": "https://live.staticflickr.com/2640/3702501888_aaa8f0ef5f_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/db17a4f5-f285-4b7a-9f41-b4667597dce9/thumb/",
-      "alt": "Danger de mort",
-      "credit": "zigazou76 / CC BY 2.0",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Lani_Daniels_with_her_three_New_Zealand_Titles.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/625564a8-22c7-4608-92d7-0df4f91dba3f/thumb/",
+      "alt": "Lani Daniels with her three New Zealand Titles",
+      "credit": "",
+      "license": "cc0",
+      "license_version": "1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+      "provider": "wikimedia",
+      "source": "Openverse"
+    }
+  },
+  {
+    "title": "Claressa Shields Retains Undisputed Heavyweight Title in Detroit Victory",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 27 Jul 2025 01:17:49 EST",
+    "source": "ESPN",
+    "sources": [
+      "Sky Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "sports"
+    ],
+    "snippets": [
+      "Claressa Shields successfully defended her undisputed heavyweight crown with a unanimous decision victory versus Lani Daniels on Saturday night.",
+      "Claressa Shields retained her undisputed heavyweight world championship with a unanimous decision win over Lani Daniels in Detroit."
+    ],
+    "image_url": "",
+    "titles": [
+      "Shields defends undisputed crown vs. Daniels",
+      "Shields dominates Daniels to defend undisputed heavyweight title"
+    ],
+    "score_components": {
+      "magnitude": 0.62,
+      "recency": 0.943,
+      "consensus": 0.632,
+      "constructiveness": 0.3,
+      "proximity": 0.75
+    },
+    "score": 0.669,
+    "summary": "Claressa Shields defended her undisputed heavyweight title by defeating Lani Daniels in a unanimous decision victory in Detroit. Shields retains her championship status following the successful defense.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "The story provides basic awareness about Claressa Shields' victory in a boxing match. However, it does not offer any deeper understanding or insight into the match, her skills, or the significance of the victory.",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Lani_Daniels_with_her_three_New_Zealand_Titles.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/625564a8-22c7-4608-92d7-0df4f91dba3f/thumb/",
+      "alt": "Lani Daniels with her three New Zealand Titles",
+      "credit": "",
+      "license": "cc0",
+      "license_version": "1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+      "provider": "wikimedia",
+      "source": "Openverse"
+    }
+  },
+  {
+    "title": "Sarina Wiegman Leads England to Fifth Major Final",
+    "domain": "general",
+    "location": "global",
+    "published": "Sun, 27 Jul 2025 04:56:27 GMT",
+    "source": "BBC",
+    "sources": [
+      "Yahoo Sports",
+      "BBC"
+    ],
+    "domains": [
+      "general",
+      "sports"
+    ],
+    "snippets": [
+      "Sarina Wiegman will manage England in her fifth major tournament final - so what makes the Dutchwoman so successful?",
+      "Sarina Wiegman will manage England in her fifth major tournament final - so what makes the Dutchwoman so successful?",
+      "Sarina Wiegman will manage England in her fifth major tournament final - so what makes the Dutchwoman so successful?"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3973/live/76c2b380-6abd-11f0-af20-030418be2ca5.jpg",
+    "titles": [
+      "What makes Lionesses' manager Sarina Wiegman so successful?",
+      "What makes Wiegman so successful?",
+      "What makes Wiegman so successful?"
+    ],
+    "score_components": {
+      "magnitude": 0.6,
+      "recency": 0.936,
+      "consensus": 0.682,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.668,
+    "summary": "Sarina Wiegman is set to manage the England team in her fifth major tournament final. This achievement highlights her successful career as a football manager, underscoring her significant impact and expertise in leading teams to the final stages of major tournaments.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story offers basic awareness about Sarina Wiegman's achievement in leading the England team to a major tournament final. However, it lacks depth and insight into her strategies, the challenges she overcame, or the impact of her leadership on the team.",
+    "image": {
+      "src": "https://live.staticflickr.com/5557/14949716569_389bd08bcb_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/391828c0-8cb0-495b-a8ab-cda4c0018586/thumb/",
+      "alt": "York, England",
+      "credit": "Lex Kravetski / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
@@ -385,8 +531,8 @@
     "source": "Al Jazeera",
     "sources": [
       "Deutsche Welle",
-      "The Guardian",
-      "Al Jazeera"
+      "Al Jazeera",
+      "The Guardian"
     ],
     "domains": [
       "general"
@@ -404,12 +550,12 @@
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.738,
+      "recency": 0.625,
       "consensus": 0.847,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.684,
+    "score": 0.662,
     "summary": "In Zahedan, Sistan-Baluchistan province, Iran, an attack on a court building by the Sunni militant group Jaish al-Adl resulted in the deaths of at least six civilians, including a mother and child. The assault involved mortar fire, shootings, and a hand grenade. Jaish al-Adl has claimed responsibility for this act of violence.",
     "constructiveness_score": 0.3,
     "constructiveness_reason": "While the story does raise awareness about the ongoing conflict in Iran, it lacks depth and insight about the causes, impacts, or potential solutions to the issue. The story is more reactive and focuses on the violent act without providing any actionable insights for the reader.",
@@ -422,6 +568,96 @@
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
       "provider": "flickr",
+      "source": "Openverse"
+    }
+  },
+  {
+    "title": "11 Stabbed, 6 Critically, in Michigan Walmart Attack",
+    "domain": "general",
+    "location": "national",
+    "published": "Sun, 27 Jul 2025 00:23:59 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "The Guardian"
+    ],
+    "domains": [
+      "general"
+    ],
+    "snippets": [
+      "Eleven people were stabbed at a Walmart in Traverse City on Saturday — with six in critical condition — in what a Michigan sheriff said appeared to be a random act.",
+      "<p>Hospital says six people in a critical condition after stabbing at Traverse City store</p><p>At least 11 people were stabbed at a Walmart in Traverse City, with six people in a critical condition, Michigan authorities said.</p><p>About 4.45pm on Saturday, a 42-year-old man allegedly entered the s"
+    ],
+    "image_url": "",
+    "titles": [
+      "A man accused of stabbing 11 people at a Walmart is in Michigan authorities' custody",
+      "At least 11 people stabbed at Walmart store in Michigan and man in custody, police say"
+    ],
+    "score_components": {
+      "magnitude": 0.6,
+      "recency": 0.926,
+      "consensus": 0.632,
+      "constructiveness": 0.3,
+      "proximity": 0.75
+    },
+    "score": 0.658,
+    "summary": "Eleven individuals were stabbed at a Walmart in Traverse City, Michigan, on Saturday, with six of them critically injured. The incident, described by authorities as a random act, occurred around 4:45 pm. A 42-year-old man is alleged to have carried out the attack. The current status is that six victims are in critical condition, as confirmed by hospital officials.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "While the story does provide basic awareness about a violent incident, it lacks depth, insight, or any sort of takeaway for the reader. It does not report on solutions, improvements, or attempts to solve the problem, nor does it increase clarity around systems, causes, or impacts.",
+    "image": {
+      "src": "https://live.staticflickr.com/53/134753034_fbf1aa6f5a_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/67bc2a02-05b8-487a-8a01-0439101f1e16/thumb/",
+      "alt": "Stabbed Pineapple Juice",
+      "credit": "NOGG3R5 / CC BY 2.0",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "Openverse"
+    }
+  },
+  {
+    "title": "Yankees Add Rosario, McMahon to Lineup Ahead of Trade Deadline",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 27 Jul 2025 03:01:12 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Sportsnet",
+      "CBS Sports"
+    ],
+    "domains": [
+      "sports"
+    ],
+    "snippets": [
+      "Rosario joins Ryan McMahon as the Yankees' trade deadline moves so far",
+      "<p>The New York Yankees are continuing to bolster their lineup ahead of the trade deadline. </p>"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/27/c33958d5-260b-4f56-9ea7-9b720c63ce8b/rosario-getty.png",
+    "titles": [
+      "Yankees acquire ex-Mets infielder Amed Rosario: Nationals veteran reportedly traded to N.Y. for two prospects",
+      "Yankees acquire Amed Rosario from Nationals"
+    ],
+    "score_components": {
+      "magnitude": 0.6,
+      "recency": 0.899,
+      "consensus": 0.632,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.658,
+    "summary": "The New York Yankees have made moves ahead of the trade deadline, adding Rosario to their lineup alongside Ryan McMahon. The team is actively working to strengthen their roster as they prepare for upcoming games.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs readers about the Yankees' recent player acquisitions, which could be useful to fans or those interested in the team's strategy. However, it doesn't provide much context about why these players were chosen or what their addition could mean for the team's performance.",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Shane_McMahon_in_December_2016.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/c4b605b5-33f8-4c8f-975e-572fd1436ce0/thumb/",
+      "alt": "Shane McMahon in December 2016",
+      "credit": "Chairman of the Joint Chiefs of Staff from Washington D.C, United States / CC BY 2.0",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "wikimedia",
       "source": "Openverse"
     }
   },
@@ -449,12 +685,12 @@
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.933,
+      "recency": 0.79,
       "consensus": 0.632,
       "constructiveness": 0.5,
       "proximity": 0.75
     },
-    "score": 0.68,
+    "score": 0.651,
     "summary": "The U.S. president visited Scotland for a long weekend, where he faced protests. Demonstrators criticized his policies on immigration and Gaza, and highlighted his connections to sex offender Jeffrey Epstein by displaying Epstein's photos. The protests covered a variety of issues during his stay.",
     "constructiveness_score": 0.5,
     "constructiveness_reason": "This story provides basic awareness about the protests against the U.S. President's policies and connections. However, it doesn't offer deeper insights or actionable insights for the reader. It also lacks context about the implications of these protests.",
@@ -471,10 +707,10 @@
     }
   },
   {
-    "title": "De Ridder Wins Close Decision Over Whittaker in UFC Debut",
+    "title": "Rams QB Matthew Stafford Misses Second Week of Camp Due to Sore Back",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 26 Jul 2025 22:17:33 +0000",
+    "published": "Sat, 26 Jul 2025 23:17:25 +0000",
     "source": "CBS Sports",
     "sources": [
       "Sportsnet",
@@ -484,67 +720,22 @@
       "sports"
     ],
     "snippets": [
-      "De Ridder had to survive a brutal knockdown but was able to grind out a close decision win",
-      "<p>Reinier de Ridder said he didn’t plan on his first UFC main event going five rounds and although that prediction was incorrect, he did prove he can hang with the UFC’s best, picking up a win over former champion Robert Whittaker.</p>"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/26/113a696a-a3e3-4b8a-bf59-68b100b2cffe/whittaker-rdr-embrace.jpg",
-    "titles": [
-      "UFC Fight Night results: Reinier de Ridder edges out narrow split decision over Robert Whittaker in tough bout",
-      "Reinier de Ridder edges out Robert Whittaker, Yan wins at UFC Abu Dhabi"
-    ],
-    "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.962,
-      "consensus": 0.632,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.67,
-    "summary": "Reinier de Ridder won a close decision against former champion Robert Whittaker in his first UFC main event, despite being knocked down. De Ridder, who initially didn't expect the fight to last five rounds, demonstrated his ability to compete with top UFC fighters by securing the victory.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story gives useful context about Reinier de Ridder's debut in UFC and his performance against Robert Whittaker. It does not, however, provide broader insights into the sport or discuss any innovations or solutions.",
-    "image": {
-      "src": "https://live.staticflickr.com/4090/5202116364_6c35d6feb2_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/c529fe29-eb8c-45d3-90a3-0d57ab3c13ec/thumb/",
-      "alt": "Balkenende bevorderd tot Ridder Grootkruis in de Orde van Oranje Nassau",
-      "credit": "Minister-president / CC BY 2.0",
-      "license": "by",
-      "license_version": "2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "provider": "flickr",
-      "source": "Openverse"
-    }
-  },
-  {
-    "title": "Rams QB Matthew Stafford Misses Second Week of Camp Due to Sore Back",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 26 Jul 2025 23:12:09 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sportsnet",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "Quarterback Matthew Stafford will miss the second week of the Los Angeles Rams' training camp to rest his sore back.  The 37-year-old Stafford hasn't practiced with the Rams since the start of camp last Tuesday at Loyola Marymount University.  Coach Sean McVay initially said Stafford would only miss",
+      "Stafford turned 37 earlier this offseason and is entering his 17th NFL season",
       "<p>Quarterback Matthew Stafford will miss the second week of the Los Angeles Rams&#8217; training camp to rest his sore back.</p>"
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/22/f2c10b8f-d9e6-4c2c-aedb-9c367082d868/stafford.jpg",
     "titles": [
-      "QB Matthew Stafford to miss another week of Rams training camp to rest his sore back",
+      "Matthew Stafford injury: Rams QB sidelined in training camp with back soreness, eyes Week 1 availability",
       "QB Matthew Stafford to miss another week of Rams training camp to rest his sore back"
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.98,
+      "recency": 0.832,
       "consensus": 0.632,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.664,
+    "score": 0.634,
     "summary": "Matthew Stafford, the 37-year-old quarterback for the Los Angeles Rams, will be absent from the team's training camp for a second week due to a sore back. Stafford has not participated in practices since the camp began last Tuesday at Loyola Marymount University. Coach Sean McVay had initially stated Stafford would miss only a short period, but his absence has been extended to allow for more rest and recovery.",
     "constructiveness_score": 0.5,
     "constructiveness_reason": "This story provides basic awareness about a player's health status and its impact on the team's training camp. It lacks depth or insight into the causes, trends, or impacts of such injuries in sports. It doesn't offer actionable insights or report on solutions to manage or prevent such injuries.",
@@ -561,89 +752,46 @@
     }
   },
   {
-    "title": "Kansas Coach Bill Self Discharged After Heart Procedure",
+    "title": "Kalinskaya Defeats Raducanu to Reach Mubadala Citi DC Open Final",
     "domain": "sports",
-    "location": "national",
-    "published": "Sat, 26 Jul 2025 20:19:21 +0000",
-    "source": "CBS Sports",
+    "location": "global",
+    "published": "Sun, 27 Jul 2025 00:44:28 GMT",
+    "source": "The Guardian",
     "sources": [
-      "Yahoo Sports",
-      "CBS Sports"
+      "Sky Sports",
+      "The Guardian"
     ],
     "domains": [
+      "general",
       "sports"
     ],
     "snippets": [
-      "Self reported feeling unwell and underwent a procedure Thursday to have two stents inserted",
-      "Kansas basketball coach Bill Self was released from Lawrence Memorial Hospital on Saturday, two days after having two stents inserted into his heart to treat blocked arteries.  “I want to thank all the amazing doctors and nurses at LMH Health for the excellent care I received during my stay there,” "
+      "<ul><li><p>Briton falls 6-4, 6-3 after dropping first sets of tournament</p></li><li><p>Russian to face Canada’s Leylah Fernandez in final</p></li></ul><p>Anna Kalinskaya outclassed Emma Raducanu 6-4, 6-3 to advance to the Washington Open final, where she will face Leylah Fernandez.</p><p>After a st",
+      "Emma Raducanu was bundled out of the Mubadala Citi DC Open in Washington in the semi-finals after losing 6-4 6-3 to Anna Kalinskaya.",
+      "Highlights of the semi-final match between Emma Raducanu and Anna Kalinskaya at the Mubadala Citi DC Open."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/25/f3475aef-b500-4597-b8e0-19227368ad5c/b-self-getty.png",
+    "image_url": "https://i.guim.co.uk/img/media/882a7960b668867edaf9b566b030c518b95bffeb/465_0_2728_2184/master/2728.jpg?width=140&quality=85&auto=format&fit=max&s=935ba7dde030575d5719e1eb91cebf53",
     "titles": [
-      "Kansas coach Bill Self released from hospital after heart procedure for 'concerning symptoms'",
-      "Kansas basketball coach Bill Self released from hospital after heart procedure"
+      "Emma Raducanu outclassed by Anna Kalinskaya in Washington semi-final",
+      "Raducanu loses Washington Open semi-final to Kalinskaya",
+      "Highlights: Raducanu overpowered by Kalinskaya in Washington semis"
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.923,
-      "consensus": 0.632,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.663,
-    "summary": "Kansas basketball coach Bill Self was released from Lawrence Memorial Hospital on Saturday following a procedure on Thursday to insert two stents into his heart due to blocked arteries. Self expressed gratitude towards the doctors and nurses at LMH Health for their excellent care during his stay.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about Coach Bill Self's health condition and the procedure he underwent. It doesn't offer actionable insights or discuss solutions, but it does contribute to the reader's understanding of the situation.",
-    "image": {
-      "src": "https://live.staticflickr.com/3503/3235465927_1264ca70ec_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/bc9405b5-e0e2-44ba-a4d8-9b59ac6eb896/thumb/",
-      "alt": "Bill Self during timeout",
-      "credit": "Dirk DBQ / CC BY 2.0",
-      "license": "by",
-      "license_version": "2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "provider": "flickr",
-      "source": "Openverse"
-    }
-  },
-  {
-    "title": "Nigeria Wins 10th WAFCON Title, Beats Morocco 3-2 in Rabat",
-    "domain": "general",
-    "location": "global",
-    "published": "Sat, 26 Jul 2025 23:24:29 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Yahoo Sports",
-      "Al Jazeera"
-    ],
-    "domains": [
-      "sports",
-      "general"
-    ],
-    "snippets": [
-      "Nigeria claim their tenth WAFCON title, &#039;Mission X&#039;, as they come from behind to beat Morocco 3-2 in Rabat.",
-      "Nigeria claim their tenth WAFCON title, ‘Mission X’, as they come from behind to beat Morocco 3-2 in Rabat."
-    ],
-    "image_url": "",
-    "titles": [
-      "Nigeria beat Morocco to claim WAFCON title and complete Mission X",
-      "Nigeria beat Morocco to claim WAFCON title and complete Mission X"
-    ],
-    "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.985,
+      "recency": 0.858,
       "consensus": 0.682,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.658,
-    "summary": "Nigeria secured their tenth WAFCON title, dubbed 'Mission X', by defeating Morocco 3-2 in Rabat. Nigeria staged a comeback to clinch the victory, showcasing their strength in the tournament. The win solidifies Nigeria's dominance in women's football in Africa.",
+    "score": 0.632,
+    "summary": "Emma Raducanu was defeated by Anna Kalinskaya with a score of 6-4, 6-3 in the semi-finals of the Mubadala Citi DC Open in Washington. Kalinskaya advanced to the final where she will face Leylah Fernandez. Raducanu dropped the first sets of the tournament and was unable to secure a spot in the final match.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story is a positive one, it doesn't provide much beyond the basic information of the event. There's no deeper understanding offered about the significance of this win for Nigeria or women's football in Africa, nor does it provide context or trends in the sport.",
+    "constructiveness_reason": "The story provides basic awareness about the results of a tennis match, but it does not offer any deeper insights or understanding about the players' strategies, the implications of the results, or the context of the tournament.",
     "image": {
-      "src": "https://live.staticflickr.com/7030/6538525687_b27e559433_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/d53a9ffe-b187-4dc2-9ee1-5f9876601bc0/thumb/",
-      "alt": "Work in progress: High hopes for health in Nigeria",
-      "credit": "DFID - UK Department for International Development / CC BY 2.0",
+      "src": "https://live.staticflickr.com/65535/48639201168_a499c3330f_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/e7a9e86d-8ae1-401e-9e12-8510b5c8ed24/thumb/",
+      "alt": "Anna Kalinskaya",
+      "credit": "trendingtopics / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
@@ -652,100 +800,10 @@
     }
   },
   {
-    "title": "Multiple Stabbings at Michigan Walmart; Suspect Arrested",
-    "domain": "general",
-    "location": "national",
-    "published": "Sat, 26 Jul 2025 19:46:12 -0400",
-    "source": "ABC News",
-    "sources": [
-      "The Guardian",
-      "ABC News"
-    ],
-    "domains": [
-      "general"
-    ],
-    "snippets": [
-      "Authorities in Michigan say they are investigating a multiple stabbing incident at a Walmart in Traverse City.",
-      "<p>State authorities say suspect in custody and investigation under way into stabbing at  Traverse City store</p><p>Authorities in Michigan are investigating after multiple people were stabbed at a Walmart in Traverse City, police said on Saturday.</p><p>The Michigan state police said in a social me"
-    ],
-    "image_url": "https://s.abcnews.com/images/US/traverse-walmart-2_1753570317453_hpMain_4x3t_384.jpg",
-    "titles": [
-      "Multiple people stabbed at Walmart in Traverse City, Michigan; suspect in custody",
-      "Multiple people stabbed at Michigan Walmart, police say"
-    ],
-    "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.992,
-      "consensus": 0.632,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.646,
-    "summary": "Authorities in Michigan are investigating a multiple stabbing incident at a Walmart in Traverse City. The incident, which resulted in multiple people being stabbed, led to the suspect's arrest. Michigan State Police confirmed the suspect is in custody and an investigation is ongoing.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness of a criminal incident but lacks depth or insight. It doesn't offer actionable insights or deeper understanding to the reader. Nor does it report on solutions or attempts to prevent such incidents in the future.",
-    "image": {
-      "src": "https://live.staticflickr.com/652/20624667532_b188e93883_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/1cdcc674-bf02-422e-81ed-31288d78e3b0/thumb/",
-      "alt": "Customs correspondence regarding importation of Marxist literature (1926)",
-      "credit": "Archives New Zealand / CC BY 2.0",
-      "license": "by",
-      "license_version": "2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "provider": "flickr",
-      "source": "Openverse"
-    }
-  },
-  {
-    "title": "Olesen, Bhatia Tied for Lead at 3M Open After Round Three",
+    "title": "Breanna Stewart Injured in Game, Exits Early During Liberty's Loss",
     "domain": "sports",
     "location": "national",
-    "published": "Sat, 26 Jul 2025 23:45:22 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sky Sports",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "Thorbjorn Olesen aced the par-3 eighth and shot a 4-under 67 on Saturday in the 3M Open for a share of the third-round lead with Akshay Bhatia.",
-      "Thorbjorn Olesen aced the par three eighth and shot a four under 67 on Saturday in the 3M Open for a share of the third-round lead with Akshay Bhatia.&#160;"
-    ],
-    "image_url": "",
-    "titles": [
-      "Thorbjorn Olesen makes hole-in-one, shares 3M Open lead with Akshay Bhatia",
-      "Olesen, Bhatia out in front at 3M Open"
-    ],
-    "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.992,
-      "consensus": 0.632,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.646,
-    "summary": "Thorbjorn Olesen hit a hole-in-one on the eighth hole and scored a 4-under 67 in the 3M Open, putting him in a tie for the lead with Akshay Bhatia after the third round. Both golfers are at the top heading into the final round of the tournament.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about the current state of the 3M Open golf tournament. However, it doesn't offer in-depth insight, actionable insights, or a broader understanding of the event or the sport.",
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/20170615_Folkemodet_Birk_Olesen_N8B9400x_%2835162385242%29_%28cropped%29.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/253555d3-d8df-4710-907b-1b6f4d1b86fe/thumb/",
-      "alt": "File:20170615 Folkemodet Birk Olesen N8B9400x (35162385242) (cropped).jpg",
-      "credit": "News Oresund / CC BY 2.0",
-      "license": "by",
-      "license_version": "2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "provider": "wikimedia",
-      "source": "Openverse"
-    }
-  },
-  {
-    "title": "Vikings Secure Josh Metellus with $36M, 3-Year Extension",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 26 Jul 2025 18:27:57 +0000",
+    "published": "Sun, 27 Jul 2025 02:01:35 +0000",
     "source": "CBS Sports",
     "sources": [
       "Sportsnet",
@@ -755,34 +813,34 @@
       "sports"
     ],
     "snippets": [
-      "The Vikings will keep their versatile defensive back in Minnesota for the foreseeable future",
-      "<p>The Minnesota Vikings and versatile safety Josh Metellus agreed Saturday on a three-year, $36 million contract extension, according to a person familiar with details of the deal.</p>"
+      "Stewart came up hobbling just minutes into the game",
+      "<p>New York Liberty star Breanna Stewart left the team&#8217;s 101-99 loss to the Los Angeles Sparks on Saturday night after 3 minutes with a lower leg injury.</p>"
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/26/8851aefa-edf0-4acd-beba-84368048cb57/metellus.jpg",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/27/a4f7ae48-0872-4d01-93ad-5fc5059d4a12/breanna-stewart.jpg",
     "titles": [
-      "Vikings extend Josh Metellus: Minnesota gives versatile safety three-year, $36 million contract extension",
-      "Vikings, safety Josh Metellus agree to contract extension"
+      "Breanna Stewart injury: Liberty star leaves game vs. Sparks with lower leg issue, does not return",
+      "Liberty’s Breanna Stewart leaves game with lower leg injury after just 3 minutes"
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.888,
+      "recency": 0.881,
       "consensus": 0.632,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.626,
-    "summary": "The Minnesota Vikings have signed a three-year, $36 million contract extension with safety Josh Metellus, securing his position on the team for the foreseeable future.",
+    "score": 0.624,
+    "summary": "New York Liberty's Breanna Stewart suffered a lower leg injury just 3 minutes into the game against the Los Angeles Sparks, leading to her early exit from the match. The incident occurred during the team's 101-99 loss. Stewart's status and extent of the injury are currently unknown.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "The story provides basic awareness about the contract extension of a player. However, it lacks depth or insight into why this is significant for the team or the player, or how it impacts the dynamics of the game.",
+    "constructiveness_reason": "While this story informs readers about an injury to a player during a game, it does not provide any further insights into the potential impact on the team, the severity of the injury, or any potential solutions or next steps.",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Josh_Metellus%2C_also.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/7fb8b5f1-8ed6-4bb3-ae86-69abdad3916d/thumb/",
-      "alt": "Josh Metellus, also",
-      "credit": "Maize & Blue Nation / CC BY 2.0",
+      "src": "https://live.staticflickr.com/3887/14948886566_7f606b520a_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/9380b203-4eb2-467e-a600-278837a7874e/thumb/",
+      "alt": "Games",
+      "credit": "Ian D / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "provider": "wikimedia",
+      "provider": "flickr",
       "source": "Openverse"
     }
   },
@@ -793,8 +851,8 @@
     "published": "Sat, 26 Jul 2025 15:02:31 GMT",
     "source": "NHL",
     "sources": [
-      "NHL",
-      "Sportsnet"
+      "Sportsnet",
+      "NHL"
     ],
     "domains": [
       "sports"
@@ -810,12 +868,12 @@
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.827,
+      "recency": 0.701,
       "consensus": 0.632,
       "constructiveness": 0.4,
       "proximity": 0.5
     },
-    "score": 0.623,
+    "score": 0.598,
     "summary": "The Chicago Blackhawks have signed Arvid Söderblom, avoiding arbitration. The agreement secures Söderblom's future with the team. The deal marks a positive development for both the player and the organization, ensuring stability and continuity moving forward.",
     "constructiveness_score": 0.4,
     "constructiveness_reason": "The story provides basic awareness about the signing of a player and the avoidance of arbitration. However, it doesn't provide much depth or insight into why this is significant, or how it impacts the team or the player. It does not report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
@@ -832,43 +890,40 @@
     }
   },
   {
-    "title": "Texans' Joe Mixon Faces Season Start Uncertainty Pending Reevaluation",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sat, 26 Jul 2025 18:14:44 +0000",
-    "source": "CBS Sports",
+    "title": "Lunar Soil Found to Support Plant Growth, Aiding Space Survival",
+    "domain": "science",
+    "location": "global",
+    "published": "Sun, 27 Jul 2025 03:59:32 +0000",
+    "source": "SciTechDaily",
     "sources": [
-      "CBS Sports",
-      "Sports Illustrated"
+      "SciTechDaily"
     ],
     "domains": [
-      "sports"
+      "science"
     ],
     "snippets": [
-      "Mixon, 29, will be reevaluated closer to the start of the season",
-      "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMUxzTmVFYkFCYVlGMmFlMTEzUkJtNTQwOEs5NkhQUVQ4OUFRSXZlbUgyZFlXYXFzaWVLM05ISzY5WWJZeklseVBrLTdjU0dHOHZQQXdCcGxsTzhSandZeXZKc0tzWnFQVTdUNnFXQkprVG9BYlBxUHk2dXNZSTdlZFMyYjdBX1VBd3psVDV6MmV1TXB2bkE?oc=5\" target=\"_blank\">Texans' Joe Mixon to Mis"
+      "<a href=\"https://scitechdaily.com/scientists-shocked-by-lunar-soils-magic-in-space-survival-study/\" rel=\"nofollow\" title=\"Scientists Shocked by Lunar Soil’s “Magic” in Space Survival Study\"><img alt=\"Astronauts Plant Life\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"447\" src=\"https://scitec"
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/26/afabe7ff-60c6-418a-83e9-3cdf00ad5ba9/adobe-express-file-2025-07-26t140914-984.jpg",
+    "image_url": "",
     "titles": [
-      "Joe Mixon injury: Texans RB out for extended period of time with foot injury, per report",
-      "Texans' Joe Mixon to Miss Extended Time With Foot Injury - Sports Illustrated"
+      "Scientists Shocked by Lunar Soil’s “Magic” in Space Survival Study"
     ],
     "score_components": {
-      "magnitude": 0.62,
-      "recency": 0.884,
-      "consensus": 0.632,
-      "constructiveness": 0.2,
+      "magnitude": 0.059,
+      "recency": 0.918,
+      "consensus": 0.393,
+      "constructiveness": 1.0,
       "proximity": 0.5
     },
-    "score": 0.622,
-    "summary": "Joe Mixon, a 29-year-old player for the Texans, will undergo a reevaluation before the season starts. The specific details of his condition or the reasons for the reevaluation were not disclosed. The current status is that his participation at the beginning of the season remains uncertain until further assessment.",
-    "constructiveness_score": 0.2,
-    "constructiveness_reason": "The story is mostly reactive, focusing on the uncertainty of a player's status. It does not provide any actionable insights or deeper understanding, nor does it report on solutions or improvements. The lack of specific details about the player's condition or the reasons for the reevaluation also limits its value.",
+    "score": 0.452,
+    "summary": "Scientists have discovered that lunar soil has remarkable properties that could significantly benefit space survival. The study found that lunar soil can support plant growth, a crucial finding for future long-term space missions and potential lunar habitation. This discovery opens new avenues for sustaining life in space by utilizing the natural resources of the moon.",
+    "constructiveness_score": 1.0,
+    "constructiveness_reason": "This story is highly constructive as it reports on a significant scientific discovery that can greatly benefit future space missions and potential lunar habitation. It provides actionable insights for space exploration, highlights progress in the field, and increases awareness about the potential of lunar resources for sustaining life in space.",
     "image": {
-      "src": "https://live.staticflickr.com/3907/14674249557_9b0b348fb8_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/055c64d9-bb6f-4b25-b300-1695aae12f00/thumb/",
-      "alt": "Texan",
-      "credit": "Thomas8047 / CC BY 2.0",
+      "src": "https://live.staticflickr.com/5167/5325091312_73670b1323_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/ee3ca6f8-b71d-4a5c-a7c0-d3c33eeaa787/thumb/",
+      "alt": "NASA Satellites See Partial Solar Eclipse over Europe and Asia",
+      "credit": "NASA Goddard Photo and Video / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
@@ -877,40 +932,124 @@
     }
   },
   {
-    "title": "Tesla Announces Robotaxi Service Launch in Bay Area",
+    "title": "US Tariff Hikes Impact Import Costs, Disrupt Supply Chains",
     "domain": "business",
     "location": "global",
-    "published": "2025-07-26T22:23:32Z",
-    "source": "Business Insider",
+    "published": "Sun, 27 Jul 2025 04:00:18 GMT",
+    "source": "Financial Times",
     "sources": [
-      "Business Insider"
+      "Financial Times"
     ],
     "domains": [
       "business"
     ],
     "snippets": [
-      "Tesla sent Robotaxi users an agreement on Saturday giving more details about its planned launch in the Bay area."
+      "Higher levies mean rising costs for importing into the US, parts procurement and supply chain adjustments"
     ],
-    "image_url": "https://i.insider.com/68854b36f748d8c055f65807?format=jpeg",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5f648ca-c9f2-4c8d-8cb4-1da9e691aaa1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "titles": [
-      "Tesla updates Robotaxi app users about California launch"
+      "German carmakers set for €10bn cash flow hit as Trump tariffs bite"
     ],
     "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.964,
+      "magnitude": 0.079,
+      "recency": 0.918,
       "consensus": 0.393,
-      "constructiveness": 0.9,
+      "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.445,
-    "summary": "Tesla has issued an agreement to Robotaxi users, detailing the upcoming launch of its service in the Bay Area. The agreement, sent out on Saturday, provides users with more information about how the Robotaxi service will operate, indicating a step forward in Tesla's expansion of autonomous vehicle services.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive because it provides useful information about Tesla's upcoming Robotaxi service. It reports on an innovation in autonomous vehicle services, contributing to the reader's understanding and awareness of advancements in this field.",
+    "score": 0.44,
+    "summary": "Recent increases in tariffs have led to higher costs for importing goods into the United States, impacting parts procurement and necessitating adjustments in supply chains. This has resulted in financial challenges for businesses and may lead to changes in sourcing strategies. The situation highlights the complexities and potential consequences of trade policies on global supply chains and economic activities.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story provides useful insights into the impacts of tariff hikes on businesses and supply chains. It increases awareness about the complexities of trade policies and their potential consequences on global economic activities. However, it does not highlight any solutions or improvements to the situation.",
     "image": {
-      "src": "https://live.staticflickr.com/2856/8964774648_e93d167006_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/d0141970-bc23-45cb-8493-e36557f95996/thumb/",
-      "alt": "Car of the future - arrived...",
-      "credit": "jitze / CC BY 2.0",
+      "src": "https://live.staticflickr.com/6163/6195573431_6f96c4c80d_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/810ee254-c038-4328-99ef-f1bd4df4c0af/thumb/",
+      "alt": "Going Green Panel",
+      "credit": "jurvetson / CC BY 2.0",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "Openverse"
+    }
+  },
+  {
+    "title": "U.S.-China Talks Add Complexity to Global Market Predictions",
+    "domain": "business",
+    "location": "national",
+    "published": "Sun, 27 Jul 2025 06:12:01 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "The week has become even trickier to predict, with talks between the U.S. and China now taking center stage, potentially complicating the picture for Europe."
+    ],
+    "image_url": "",
+    "titles": [
+      "Global week ahead: Crunch time for trade talks as Trump's deadline nears"
+    ],
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.961,
+      "consensus": 0.393,
+      "constructiveness": 0.7,
+      "proximity": 0.5
+    },
+    "score": 0.431,
+    "summary": "Talks between the U.S. and China are now a focal point, adding complexity to the week's predictions and potentially impacting Europe. The outcome of these discussions could have significant implications for global markets and trade relationships.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story provides useful context about the potential impact of U.S.-China talks on global markets, helping readers understand the complexity of international trade relations. However, it doesn't report on progress or solutions, and it doesn't offer specific actionable insights.",
+    "image": {
+      "src": "https://live.staticflickr.com/3275/2930064710_9b521bc06d.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/1615bba0-f9a7-4ac0-a87e-36e8728052ac/thumb/",
+      "alt": "China - Great Wall",
+      "credit": "iNathan / CC BY 2.0",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "Openverse"
+    }
+  },
+  {
+    "title": "Intense Fighting Continues in Ukraine Despite Global Attention Shift",
+    "domain": "business",
+    "location": "national",
+    "published": "Sun, 27 Jul 2025 06:20:47 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "It's easy to forget Russian and Ukrainian soldiers continue to fight for every inch of frontline territory in Ukraine, and the world feels like it has moved on."
+    ],
+    "image_url": "",
+    "titles": [
+      "How Trump and trade wars pushed Russia and Ukraine into the cold"
+    ],
+    "score_components": {
+      "magnitude": 0.079,
+      "recency": 0.964,
+      "consensus": 0.393,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.429,
+    "summary": "Russian and Ukrainian forces remain engaged in intense combat for control over frontline territories in Ukraine, despite a global perception of diminished attention to the conflict. The ongoing battle underscores the continued struggle and significance of the situation on the ground.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides useful information about the ongoing conflict in Ukraine, providing context to the situation. However, it lacks a focus on solutions, improvements, or attempts to solve the problem, and doesn't offer actionable insights for the reader.",
+    "image": {
+      "src": "https://live.staticflickr.com/7410/9606241127_50e2273d98_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/4fedc1c0-7af2-4eed-bcc0-3ee1bd4d3e02/thumb/",
+      "alt": "Nighttime View of California’s Rim Fire",
+      "credit": "NASA Goddard Photo and Video / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
@@ -939,12 +1078,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.963,
+      "recency": 0.816,
       "consensus": 0.393,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.445,
+    "score": 0.415,
     "summary": "Scientists have resolved a century-old quantum mystery by directly observing electrons' tunneling process, a phenomenon where particles pass through barriers they classically shouldn't overcome. This breakthrough provides insight into the fundamental behavior of quantum particles, enhancing our understanding of quantum mechanics.",
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story is highly constructive as it reports on a significant scientific breakthrough, providing readers with a deeper understanding of quantum mechanics. It highlights progress in the field and could potentially lead to innovative solutions or applications in the future.",
@@ -961,40 +1100,82 @@
     }
   },
   {
-    "title": "Leaders to Discuss Preventing Transatlantic Trade War on Sunday",
-    "domain": "business",
+    "title": "New Potentially Habitable Planet Found 35 Light-Years Away",
+    "domain": "science",
     "location": "global",
-    "published": "Sat, 26 Jul 2025 21:13:25 GMT",
-    "source": "Financial Times",
+    "published": "Sun, 27 Jul 2025 04:34:21 +0000",
+    "source": "SciTechDaily",
     "sources": [
-      "Financial Times"
+      "SciTechDaily"
+    ],
+    "domains": [
+      "science"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/astronomers-discover-potentially-habitable-earth-like-planet-just-35-light-years-away/\" rel=\"nofollow\" title=\"Astronomers Discover Potentially Habitable Earth-Like Planet Just 35 Light-Years Away\"><img alt=\"Illustration of the Planetary System of L 98–59\" class=\"web"
+    ],
+    "image_url": "",
+    "titles": [
+      "Astronomers Discover Potentially Habitable Earth-Like Planet Just 35 Light-Years Away"
+    ],
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.929,
+      "consensus": 0.393,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.408,
+    "summary": "Astronomers have discovered a potentially habitable Earth-like planet located just 35 light-years away from Earth. The planet, part of the planetary system L 98-59, was identified as having conditions that might support life. This discovery adds to the growing list of exoplanets that could be viable for human study and potential future exploration.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides interesting information about the discovery of a potentially habitable planet, which can deepen readers' understanding of space exploration. However, it does not provide actionable insights or report on solutions to problems. The story also does not significantly increase clarity around systems, causes, or impacts.",
+    "image": {
+      "src": "https://live.staticflickr.com/3804/13739170564_4701470639_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/5b44fa22-85b2-42fc-b90a-773696237f0b/thumb/",
+      "alt": "There are stars out there.",
+      "credit": "Simon Matzinger / CC BY 2.0",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "Openverse"
+    }
+  },
+  {
+    "title": "U.S. Imposes 17% Import Tax on Mexican Tomatoes from July 14",
+    "domain": "business",
+    "location": "national",
+    "published": "Sun, 27 Jul 2025 04:26:31 +0000",
+    "source": "Financial Post",
+    "sources": [
+      "Financial Post"
     ],
     "domains": [
       "business"
     ],
     "snippets": [
-      "Leaders due to meet on Sunday in bid to avoid economically damaging transatlantic trade war"
+      "AJUCHITLAN, Mexico (AP) &#8212; The Trump administration&#8217;s decision to impose a 17% duty on fresh tomatoes imported from Mexico has created a dilemma for the country providing more tomatoes to U.S. consumers than any other. The import tax that began July 14 is just the latest protectionist mov"
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1dfaf618-f951-4f36-9903-05202c0d541b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "",
     "titles": [
-      "EU and US locked in talks ahead of key Trump meeting with von der Leyen"
+      "Here’s how a major Mexican tomato exporter is affected by Trump’s 17% tariff"
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.941,
+      "recency": 0.926,
       "consensus": 0.393,
-      "constructiveness": 0.9,
+      "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.44,
-    "summary": "Leaders are set to meet on Sunday to discuss ways to prevent a transatlantic trade war that could harm economies. The goal is to find solutions to avoid damaging trade disputes. The outcome of the meeting and any agreements reached will be crucial in determining the future of trade relations between the involved parties.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it highlights an upcoming event where leaders will discuss solutions to prevent a potential trade war. It provides awareness about the potential impacts of such a war and the importance of diplomatic efforts to avoid it. However, the full score is not given as the story does not provide details about the proposed solutions or strategies.",
+    "score": 0.407,
+    "summary": "The Trump administration initiated a 17% import tax on fresh tomatoes from Mexico starting July 14, impacting the largest supplier of tomatoes to the U.S. This measure is part of broader protectionist efforts affecting trade relations between the two countries.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about changes in trade relations between the U.S. and Mexico. However, it doesn't offer actionable insights for the reader, nor does it report on progress or solutions to the issue.",
     "image": {
-      "src": "https://live.staticflickr.com/7168/6835571199_da4de088dd_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/18735a6d-9069-4367-aadd-a583debea92e/thumb/",
-      "alt": "Maryland Future Business Leaders of America",
-      "credit": "MDGovpics / CC BY 2.0",
+      "src": "https://live.staticflickr.com/2673/3976704675_a553aa3e08_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/32dd5c88-4fa6-457f-b787-fc79747714cd/thumb/",
+      "alt": "imposing imperfections.",
+      "credit": "B.Riordan. / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
@@ -1023,12 +1204,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.975,
+      "recency": 0.826,
       "consensus": 0.393,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.437,
+    "score": 0.407,
     "summary": "Scientists have proposed a new theory about the universe's origins, suggesting a revision of current physics textbooks. This theory, if proven, could significantly alter our understanding of the universe's beginnings. The details of the theory and its implications are still under study, aiming to provide a deeper insight into the cosmos.",
     "constructiveness_score": 0.8,
     "constructiveness_reason": "This story is constructive as it informs readers about a new theory that could potentially change our understanding of the universe's origins. It increases awareness about ongoing scientific research, but the lack of details about the theory itself and its implications limits its usefulness and depth.",
@@ -1045,82 +1226,40 @@
     }
   },
   {
-    "title": "Study: Ivermectin and Bed Nets Cut Malaria Transmission",
-    "domain": "science",
-    "location": "global",
-    "published": "Sat, 26 Jul 2025 12:09:34 EDT",
-    "source": "ScienceDaily",
-    "sources": [
-      "ScienceDaily"
-    ],
-    "domains": [
-      "science"
-    ],
-    "snippets": [
-      "A groundbreaking study has revealed that the mass administration of ivermectin—a drug once known for treating river blindness and scabies—can significantly reduce malaria transmission when used in conjunction with bed nets."
-    ],
-    "image_url": "",
-    "titles": [
-      "Ivermectin: The mosquito-killing pill that dropped malaria by 26%"
-    ],
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.847,
-      "consensus": 0.393,
-      "constructiveness": 0.9,
-      "proximity": 0.5
-    },
-    "score": 0.421,
-    "summary": "A recent study has found that combining the use of ivermectin, a medication previously used to treat river blindness and scabies, with bed nets can substantially decrease malaria transmission. This innovative approach offers a new strategy in the fight against malaria.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it reports on a solution to a global health problem. It provides useful information about an innovative approach to malaria prevention, increasing the reader's understanding and awareness of this issue.",
-    "image": {
-      "src": "https://live.staticflickr.com/8144/7653312938_e77f116d69_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/c3f2ab41-2760-4250-8193-636c43f9018b/thumb/",
-      "alt": "Medical Study",
-      "credit": "born1945 / CC BY 2.0",
-      "license": "by",
-      "license_version": "2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "provider": "flickr",
-      "source": "Openverse"
-    }
-  },
-  {
-    "title": "Trump Announces Preliminary Trade Deals with Japan, Tariffs to Return",
+    "title": "Netanyahu's Government Denies Withholding Food in Blockaded Area",
     "domain": "business",
-    "location": "national",
-    "published": "Sat, 26 Jul 2025 19:51:16 GMT",
-    "source": "CNBC",
+    "location": "global",
+    "published": "Sun, 27 Jul 2025 06:13:48 GMT",
+    "source": "Financial Times",
     "sources": [
-      "CNBC"
+      "Financial Times"
     ],
     "domains": [
       "business"
     ],
     "snippets": [
-      "Trump has recently announced preliminary trade deals with Japan and other countries, and many of his paused \"reciprocal\" tariffs are set to resume next month."
+      "Netanyahu’s government denies it has deliberately starved civilians in the blockaded territory"
     ],
-    "image_url": "",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd23f251a-22fc-4b24-b4e5-02f5390ebe87.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "titles": [
-      "Trump's trade deals and tariffs are on the chopping block in court. What happens next"
+      "Israel airdrops food into Gaza as it rebuffs famine claims"
     ],
     "score_components": {
-      "magnitude": 0.079,
-      "recency": 0.914,
+      "magnitude": 0.039,
+      "recency": 0.961,
       "consensus": 0.393,
-      "constructiveness": 0.6,
+      "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.419,
-    "summary": "Donald Trump has announced the initiation of preliminary trade agreements with Japan and various other countries. Additionally, numerous tariffs that had been previously paused under the guise of fostering \"reciprocal\" trade relations are scheduled to be reinstated next month.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story informs about a significant development in international trade relations, which could impact readers in various ways. However, it does not provide enough context or insight into the implications of these trade agreements and tariffs, or how they might affect the economies and people of the involved countries.",
+    "score": 0.404,
+    "summary": "The government led by Netanyahu has officially refuted claims that it has intentionally withheld food from civilians in an area under blockade. This statement comes in response to accusations of deliberately starving the population in the blockaded territory.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about a conflict situation and the government's response to allegations. However, it lacks depth and does not offer insights into the broader context, potential solutions, or the impact on the people in the blockaded area.",
     "image": {
-      "src": "https://live.staticflickr.com/5006/5251791208_96dddb94ca_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/d4dc67a6-e6de-4b74-957b-b9efe13d8998/thumb/",
-      "alt": "Osaka Japan",
-      "credit": "kevin dooley / CC BY 2.0",
+      "src": "https://live.staticflickr.com/65535/49438462177_ae16bb22e1_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/d39c0afa-e030-4a0e-9ada-2481226d4281/thumb/",
+      "alt": "VP Pence meet with PM Netanyahu",
+      "credit": "U.S. Embassy Jerusalem / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
@@ -1149,12 +1288,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.883,
+      "recency": 0.748,
       "consensus": 0.393,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.418,
+    "score": 0.392,
     "summary": "Climate change is impacting forest ecosystems worldwide by causing higher temperatures, changing rainfall patterns, and more frequent extreme weather events. Tropical forests are especially at risk, leading to significant challenges for the forestry sector.",
     "constructiveness_score": 0.8,
     "constructiveness_reason": "This story is constructive because it increases awareness about the impact of climate change on global forest ecosystems. It provides useful information about the causes and potential impacts of the issue. However, it does not report on any solutions or improvements, limiting its score.",
@@ -1191,12 +1330,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.809,
+      "recency": 0.686,
       "consensus": 0.393,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.414,
+    "score": 0.389,
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story is constructive as it provides actionable insights for parents looking to purchase laptops for their children. It contributes to the reader’s decision-making process.",
     "image": {
@@ -1232,12 +1371,12 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.91,
+      "recency": 0.77,
       "consensus": 0.393,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.411,
+    "score": 0.383,
     "summary": "NASA is set to lose around 3,900 employees due to Donald Trump's initiative to reduce the federal workforce. This comes as the president focuses on crewed missions to the moon and Mars. The outcome is a significant reduction in NASA's workforce as part of broader federal workforce trimming efforts.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story is somewhat constructive as it informs readers about a significant development regarding NASA's workforce. However, it lacks depth and doesn't provide actionable insights or potential solutions to the issue.",
@@ -1254,124 +1393,40 @@
     }
   },
   {
-    "title": "Meta Appoints Shengjia Zhao as Chief Scientist of Superintelligence Labs",
-    "domain": "business",
-    "location": "global",
-    "published": "2025-07-26T19:50:58Z",
-    "source": "Business Insider",
-    "sources": [
-      "Business Insider"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "Meta CEO Mark Zuckerberg said Friday that Shengjia Zhao would be the chief scientist for its Superintelligence Labs."
-    ],
-    "image_url": "https://i.insider.com/6885194b3d5881a51c1e0fb2?format=jpeg",
-    "titles": [
-      "Meta chief AI scientist Yann LeCun clarifies his role after the company hires another chief AI scientist"
-    ],
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.914,
-      "consensus": 0.393,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.405,
-    "summary": "Meta CEO Mark Zuckerberg announced that Shengjia Zhao will lead the Superintelligence Labs as chief scientist. This move signals Meta's focus on advancing AI technology.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story offers some insight into Meta's focus on AI technology by announcing their new Chief Scientist. However, it does not provide detailed information on what the Superintelligence Labs are working on or how this appointment might influence their progress, limiting its usefulness and depth.",
-    "image": {
-      "src": "https://live.staticflickr.com/4014/4581898460_26ed409b44_m.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/e172f52f-f852-4951-a048-ef49da004d17/thumb/",
-      "alt": "First chief scientist brings perspective to laboratory",
-      "credit": "U.S. Army Combat Capabilities Development Command / CC BY 2.0",
-      "license": "by",
-      "license_version": "2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "provider": "flickr",
-      "source": "Openverse"
-    }
-  },
-  {
-    "title": "New Geological Formations Found Beneath North Sea, Altering Theories",
+    "title": "\"1,500 Latin Inscriptions Unearthed Annually Shed Light on Roman Life\"",
     "domain": "science",
     "location": "global",
-    "published": "Sat, 26 Jul 2025 16:31:34 +0000",
-    "source": "SciTechDaily",
+    "published": "Sat, 26 Jul 2025 10:10:01 EDT",
+    "source": "Phys.org",
     "sources": [
-      "SciTechDaily"
+      "Phys.org"
     ],
     "domains": [
       "science"
     ],
     "snippets": [
-      "<a href=\"https://scitechdaily.com/defying-geology-scientists-discover-giant-formations-beneath-the-north-sea/\" rel=\"nofollow\" title=\"Defying Geology: Scientists Discover Giant Formations Beneath the North Sea\"><img alt=\"Windy Ocean North Sea\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\""
+      "Around 1,500 Latin inscriptions are discovered every year, offering an invaluable view into the daily life of ancient Romans—and posing a daunting challenge for the historians tasked with interpreting them."
     ],
-    "image_url": "",
+    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/a-mosaic-outside-a-hom.jpg",
     "titles": [
-      "Defying Geology: Scientists Discover Giant Formations Beneath the North Sea"
+      "AI helps Latin scholars decipher ancient Roman texts"
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.853,
+      "recency": 0.688,
       "consensus": 0.393,
-      "constructiveness": 0.7,
+      "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.402,
-    "summary": "Scientists have discovered large geological formations beneath the North Sea, challenging previous geological understanding. These findings, detailed in a recent study, reveal significant structures that could impact future geological research and theories about the area's formation and history.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story offers useful insights into new scientific discoveries that challenge previous theories, contributing to readers' understanding of geological research. However, it doesn't provide actionable insights or report on solutions or improvements.",
+    "score": 0.38,
+    "summary": "Every year, approximately 1,500 Latin inscriptions are found, providing critical insights into the daily lives of ancient Romans. This discovery presents a significant challenge for historians who are responsible for interpreting these texts to understand more about past civilizations.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "The story gives readers a deeper understanding of ancient Roman life through the discovery and interpretation of Latin inscriptions. It informs about the challenges historians face in interpreting these texts. However, it does not report on solutions, improvements, or innovations related to these challenges.",
     "image": {
-      "src": "https://live.staticflickr.com/65535/50674686032_f9b15d749b_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/578fe5c3-a86b-4dfa-b3e3-737e65ecffdc/thumb/",
-      "alt": "Expanding Lifespans",
-      "credit": "jurvetson / CC BY 2.0",
-      "license": "by",
-      "license_version": "2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "provider": "flickr",
-      "source": "Openverse"
-    }
-  },
-  {
-    "title": "Netanyahu's Government Denies Withholding Food in Blockaded Area",
-    "domain": "business",
-    "location": "global",
-    "published": "Sat, 26 Jul 2025 21:25:33 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "Netanyahu’s government denies it has deliberately starved civilians in the blockaded territory"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd23f251a-22fc-4b24-b4e5-02f5390ebe87.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Israel to airdrop food into Gaza as it rebuffs famine claims"
-    ],
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.945,
-      "consensus": 0.393,
-      "constructiveness": 0.5,
-      "proximity": 0.5
-    },
-    "score": 0.401,
-    "summary": "The government led by Netanyahu has officially refuted claims that it intentionally withheld food supplies from civilians in the blockaded area. This denial comes in response to accusations of deliberately starving the population in the territory under siege.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about a conflict situation and the government's response to allegations. However, it lacks depth and does not offer insights into the broader context, potential solutions, or the impact on the people in the blockaded area.",
-    "image": {
-      "src": "https://live.staticflickr.com/65535/49438462177_ae16bb22e1_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/d39c0afa-e030-4a0e-9ada-2481226d4281/thumb/",
-      "alt": "VP Pence meet with PM Netanyahu",
-      "credit": "U.S. Embassy Jerusalem / CC BY 2.0",
+      "src": "https://live.staticflickr.com/363/32143341170_3675456c96_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/ac5efa66-e733-4010-8c2d-d7135e1d93fd/thumb/",
+      "alt": "Roman Life",
+      "credit": "Bradley N. Weber / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
@@ -1400,14 +1455,55 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.927,
+      "recency": 0.785,
       "consensus": 0.393,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.397,
+    "score": 0.369,
     "constructiveness_score": 0.5,
     "constructiveness_reason": "While this story provides basic awareness about a new law, it lacks depth or insight into the implications or effectiveness of this law, making it less constructive."
+  },
+  {
+    "title": "Microsoft to stop using China-based teams to support Department of Defense",
+    "domain": "technology",
+    "location": "global",
+    "published": "Sat, 26 Jul 2025 11:00:21 +0000",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "domains": [
+      "technology"
+    ],
+    "snippets": [
+      "The tech giant has relied on global workforce to support federal clients."
+    ],
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/us-china-flags-1152x648-1747063482.jpg",
+    "titles": [
+      "Microsoft to stop using China-based teams to support Department of Defense"
+    ],
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.644,
+      "consensus": 0.393,
+      "constructiveness": 0.7,
+      "proximity": 0.5
+    },
+    "score": 0.368,
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story could provide useful information about changes in tech industry practices and international relations. However, without more context or detail, it's unclear how much it contributes to understanding of these complex systems.",
+    "image": {
+      "src": "https://live.staticflickr.com/2193/2264763977_fbeb2e34ba_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/6e22ebe1-7c72-44d0-94c0-5e8181f91752/thumb/",
+      "alt": "Microsoft sign outside building 99",
+      "credit": "Robert Scoble / CC BY 2.0",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "Openverse"
+    }
   },
   {
     "title": "2023 Sees Record-Breaking Global Marine Heatwaves",
@@ -1430,12 +1526,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.858,
+      "recency": 0.727,
       "consensus": 0.393,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.393,
+    "score": 0.367,
     "summary": "In 2023, global oceans faced unprecedented marine heatwaves, marking the most intense and widespread on record. Some heatwaves lasted over 500 days, affecting nearly the entire planet. This phenomenon led to mass coral bleaching, endangered fisheries, and signaled significant ecological disruptions.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story provides important information about an environmental crisis, contributing to readers' understanding of the impacts of climate change on marine life. However, it lacks actionable insights or solutions, and doesn't delve into the causes or potential progress in addressing the issue.",
@@ -1472,12 +1568,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.856,
+      "recency": 0.725,
       "consensus": 0.393,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.393,
+    "score": 0.367,
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story is useful in informing readers about the data breach, which can encourage them to take necessary precautions with their personal data. However, it does not provide any solutions or progress in addressing such issues, nor does it delve into the causes or impacts of such breaches.",
     "image": {
@@ -1485,47 +1581,6 @@
       "thumbnail": "https://api.openverse.org/v1/images/df9fa05f-964e-45ae-95b1-fafec88aeba2/thumb/",
       "alt": "Dates",
       "credit": "Cara Harpole / CC BY 2.0",
-      "license": "by",
-      "license_version": "2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "provider": "flickr",
-      "source": "Openverse"
-    }
-  },
-  {
-    "title": "Microsoft to stop using China-based teams to support Department of Defense",
-    "domain": "technology",
-    "location": "global",
-    "published": "Sat, 26 Jul 2025 11:00:21 +0000",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "domains": [
-      "technology"
-    ],
-    "snippets": [
-      "The tech giant has relied on global workforce to support federal clients."
-    ],
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/us-china-flags-1152x648-1747063482.jpg",
-    "titles": [
-      "Microsoft to stop using China-based teams to support Department of Defense"
-    ],
-    "score_components": {
-      "magnitude": 0.059,
-      "recency": 0.76,
-      "consensus": 0.393,
-      "constructiveness": 0.7,
-      "proximity": 0.5
-    },
-    "score": 0.391,
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story could provide useful information about changes in tech industry practices and international relations. However, without more context or detail, it's unclear how much it contributes to understanding of these complex systems.",
-    "image": {
-      "src": "https://live.staticflickr.com/2193/2264763977_fbeb2e34ba_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/6e22ebe1-7c72-44d0-94c0-5e8181f91752/thumb/",
-      "alt": "Microsoft sign outside building 99",
-      "credit": "Robert Scoble / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
@@ -1554,12 +1609,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.776,
+      "recency": 0.658,
       "consensus": 0.393,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.377,
+    "score": 0.353,
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story might offer insights into the challenges of game development and adaptation of popular media. It could be useful for readers interested in these topics, but it doesn't appear to report on solutions or progress toward solving a problem.",
     "image": {
@@ -1567,47 +1622,6 @@
       "thumbnail": "https://api.openverse.org/v1/images/a4e2c1ca-ef76-446a-b4b7-d67816595e23/thumb/",
       "alt": "Inside the Sunland Baobab tree, Limpopo, South Africa",
       "credit": "South African Tourism / CC BY 2.0",
-      "license": "by",
-      "license_version": "2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "provider": "flickr",
-      "source": "Openverse"
-    }
-  },
-  {
-    "title": "Astronomer winks at viral notoriety with ‘temporary spokesperson’ Gwyneth Paltrow",
-    "domain": "technology",
-    "location": "global",
-    "published": "Sat, 26 Jul 2025 19:40:33 +0000",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "domains": [
-      "technology"
-    ],
-    "snippets": [
-      "After spending the past week-plus in the headlines due to a seemingly inescapable social media scandal, data operations startup Astronomer is trying to shift the narrative with a tongue-in-cheek video starring actress and entrepreneur Gwyneth Paltrow."
-    ],
-    "image_url": "",
-    "titles": [
-      "Astronomer winks at viral notoriety with ‘temporary spokesperson’ Gwyneth Paltrow"
-    ],
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.911,
-      "consensus": 0.393,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.374,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story seems to focus on a viral incident rather than providing meaningful insights or knowledge. It might raise basic awareness about the astronomer and the incident, but it doesn't offer much in terms of usefulness or progress.",
-    "image": {
-      "src": "https://live.staticflickr.com/8159/7558375412_725b19644a_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/0591b24e-7c5d-49ce-a4ed-1366fa3792e2/thumb/",
-      "alt": "My Brother the Astronomer",
-      "credit": "Tobias Lindman / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
@@ -1636,12 +1650,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.801,
+      "recency": 0.679,
       "consensus": 0.393,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.372,
+    "score": 0.348,
     "constructiveness_score": 0.5,
     "constructiveness_reason": "This story offers basic awareness about a political strategy, but without more context or analysis, it provides minimal depth or insight, limiting its constructiveness.",
     "image": {
@@ -1657,40 +1671,39 @@
     }
   },
   {
-    "title": "Colorful Birds Enhance Nature's Beauty, Outnumber Black and White Species",
-    "domain": "science",
+    "title": "Astronomer winks at viral notoriety with ‘temporary spokesperson’ Gwyneth Paltrow",
+    "domain": "technology",
     "location": "global",
-    "published": "Sat, 26 Jul 2025 12:30:02 EDT",
-    "source": "Phys.org",
+    "published": "Sat, 26 Jul 2025 19:40:33 +0000",
+    "source": "TechCrunch",
     "sources": [
-      "Phys.org"
+      "TechCrunch"
     ],
     "domains": [
-      "science"
+      "technology"
     ],
     "snippets": [
-      "Birds are perhaps the most colorful group of animals, bringing a splash of color to the natural world around us every day. Indeed, exclusively black and white birds—such as magpies—are in the minority."
+      "After spending the past week-plus in the headlines due to a seemingly inescapable social media scandal, data operations startup Astronomer is trying to shift the narrative with a tongue-in-cheek video starring actress and entrepreneur Gwyneth Paltrow."
     ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/tanager.jpg",
+    "image_url": "",
     "titles": [
-      "Hidden black and white feathers found to intensify blue and yellow bird plumage"
+      "Astronomer winks at viral notoriety with ‘temporary spokesperson’ Gwyneth Paltrow"
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.853,
+      "recency": 0.772,
       "consensus": 0.393,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.362,
-    "summary": "Birds are known for their vibrant colors, with black and white birds like magpies being less common. Their colorful plumage adds beauty to nature.",
+    "score": 0.346,
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story provides basic awareness about bird species and their colors, it offers minimal depth or insight. It doesn't provide actionable insights, report on progress or solutions, or increase clarity around systems, causes, trends, or impacts.",
+    "constructiveness_reason": "This story seems to focus on a viral incident rather than providing meaningful insights or knowledge. It might raise basic awareness about the astronomer and the incident, but it doesn't offer much in terms of usefulness or progress.",
     "image": {
-      "src": "https://live.staticflickr.com/5207/5302663715_30083a4d21_b.jpg",
-      "thumbnail": "https://api.openverse.org/v1/images/112e0a55-f870-458b-8fa8-6ed5855100a7/thumb/",
-      "alt": "Semisopochnoi Island, Alaska",
-      "credit": "NASA Goddard Photo and Video / CC BY 2.0",
+      "src": "https://live.staticflickr.com/8159/7558375412_725b19644a_b.jpg",
+      "thumbnail": "https://api.openverse.org/v1/images/0591b24e-7c5d-49ce-a4ed-1366fa3792e2/thumb/",
+      "alt": "My Brother the Astronomer",
+      "credit": "Tobias Lindman / CC BY 2.0",
       "license": "by",
       "license_version": "2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
@@ -1719,12 +1732,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.793,
+      "recency": 0.671,
       "consensus": 0.393,
       "constructiveness": 0.2,
       "proximity": 0.5
     },
-    "score": 0.341,
+    "score": 0.316,
     "constructiveness_score": 0.2,
     "constructiveness_reason": "This story seems to be a review or promotion of a book or film. While it might be entertaining, it doesn't appear to offer actionable insights, solutions, or a deeper understanding of a significant issue.",
     "image": {
