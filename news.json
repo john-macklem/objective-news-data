@@ -1,45 +1,5 @@
 [
   {
-    "title": "Boat Sinks Off Yemen: 68 Dead, 74 Missing Among Ethiopian Migrants",
-    "domain": "general",
-    "location": "national",
-    "published": "Sun, 03 Aug 2025 19:42:01 -0400",
-    "source": "NPR",
-    "sources": [
-      "Deutsche Welle",
-      "New York Times",
-      "Global News",
-      "NPR"
-    ],
-    "domains": [
-      "general"
-    ],
-    "snippets": [
-      "More than 150 Ethiopian migrants were on board the boat when it sank in the Gulf of Aden off the southern Yemeni province of Abyan, the International Organization for Migration in Yemen said.",
-      "The vessel was taking Ethiopians to Yemen, a popular transit country for migrants to reach wealthy Gulf nations such as Saudi Arabia. The UN says Yemen is witnessing an influx of African migrants, despite a civil war.",
-      "The trip across the Gulf of Aden is the first leg of one of the world’s riskiest — and busiest — migration and smuggling routes.",
-      "At least 68 African migrants died and 74 others were missing after their boat capsized Sunday in the waters off Yemen, the U.N.’s migration agency said."
-    ],
-    "image_url": "",
-    "titles": [
-      "At least 68 African migrants killed after boat capsizes off Yemen coast, U.N. says",
-      "African migrant boat capsizes off Yemen, killing dozens",
-      "More Than 60 Migrants Dead After Boat Capsizes Off the Coast of Yemen",
-      "UN says 68 African migrants were killed when boat capsized off Yemen"
-    ],
-    "score_components": {
-      "magnitude": 0.8,
-      "recency": 0.991,
-      "consensus": 0.935,
-      "constructiveness": 0.6,
-      "proximity": 0.75
-    },
-    "score": 0.847,
-    "summary": "A boat carrying over 150 Ethiopian migrants sank in the Gulf of Aden off Yemen's Abyan province, resulting in at least 68 deaths and 74 missing, according to the International Organization for Migration. The vessel was en route to Yemen, a common passage for migrants heading to Gulf countries. This incident highlights the dangers of one of the world's most perilous migration routes.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story provides useful information about the dangers of migration routes and the risks migrants face. However, it does not offer solutions, improvements, or attempts to solve the problem, nor does it provide a deeper understanding of the systemic causes or trends."
-  },
-  {
     "title": "Boeing Workers in MO and IL to Strike After Rejecting Contract",
     "domain": "general",
     "location": "national",
@@ -48,6 +8,137 @@
     "sources": [
       "NPR",
       "The Guardian",
+      "Forbes",
+      "ABC News"
+    ],
+    "domains": [
+      "business",
+      "general"
+    ],
+    "snippets": [
+      "Roughly 3,200 workers are striking at sites in Missouri and Illinois. Members of the labor union representing the workers rejected a modified contract offered by Boeing last week.",
+      "About 3,200 union members at Boeing facilities in Michigan and Illinois went on strike at midnight on Monday after rejecting an offer from the company, the union said.",
+      "<p>More than 3,200 union machinists around St Louis launch strike action as they seek new contract</p><p>More than 3,200 <a href=\"https://www.theguardian.com/business/2025/jul/28/boeing-workers-strike-reject-contract-offer\">unionized workers</a> who assemble <a href=\"https://www.theguardian.com/busi",
+      "About 3,200 workers in Missouri and Illinois rejected an offer on Sunday."
+    ],
+    "image_url": "",
+    "titles": [
+      "More than 3,000 Boeing workers begin strike after rejecting a contract offer",
+      "About 3,200 Boeing jet and weapons workers begin strike",
+      "US Boeing defense workers go on strike after rejecting latest offer",
+      "Boeing Defense Workers Set To Strike For First Time Since 1996 After Rejecting Contract Offer"
+    ],
+    "score_components": {
+      "magnitude": 0.93,
+      "recency": 0.836,
+      "consensus": 0.985,
+      "constructiveness": 0.6,
+      "proximity": 0.75
+    },
+    "score": 0.874,
+    "summary": "Over 3,200 members of the International Association of Machinists and Aerospace Workers in Missouri and Illinois rejected a modified contract from Boeing and are expected to strike at midnight on Monday. The rejection came after negotiations for a new contract failed to meet their expectations.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs readers about the labor dispute and impending strike at Boeing, which may impact the company's operations. However, it lacks depth in terms of the specific issues at stake in the contract negotiations and doesn't suggest any potential solutions or outcomes."
+  },
+  {
+    "title": "Earthquake Causes Collapse at Chile's El Teniente Mine, 1 Dead, 5 Trapped",
+    "domain": "general",
+    "location": "national",
+    "published": "Mon, 04 Aug 2025 01:16:33 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "The Guardian",
+      "Al Jazeera",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "general"
+    ],
+    "snippets": [
+      "The five miners were trapped deep inside Chile's El Teniente mine on Thursday after a section of the mine collapsed following a 4.2 magnitude earthquake.",
+      "Some 100 people were involved in search for workers at El Teniente copper mine, the world&#039;s largest underground mine.",
+      "The rescue team dug several feet underground to retrieve the bodies of the miners who got trapped after a partial collapse of the El Teniente copper mine in Chile.",
+      "<p>Body of Moisés Pavez, last missing miner, found after section of El Teniente collapsed following earthquake</p><p>All five trapped workers who were missing in a collapsed shaft in the world’s biggest underground copper mine have been found dead, an official said on Sunday.</p><p>Aquiles Cubillos,"
+    ],
+    "image_url": "",
+    "titles": [
+      "The bodies of all 5 miners are found and identified in Chilean mine collapse",
+      "All five miners trapped after copper mine collapse in Chile found dead",
+      "Chile mine collapse: Search ends after 5 miners found dead",
+      "All five missing miners confirmed dead after Chile copper mine collapse"
+    ],
+    "score_components": {
+      "magnitude": 0.85,
+      "recency": 0.942,
+      "consensus": 0.935,
+      "constructiveness": 0.6,
+      "proximity": 0.75
+    },
+    "score": 0.855,
+    "summary": "An earthquake on Thursday caused a partial collapse at El Teniente, the world's largest underground copper mine, in Chile. This incident trapped five miners and resulted in the death of a sixth. Following the collapse, at least 100 individuals participated in a rescue operation. Chile's state-owned Codelco group later announced that one of the trapped miners was found dead.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about a tragic event and the subsequent rescue operation. It increases awareness about the risks associated with mining and the impacts of natural disasters. However, it does not report on solutions or improvements, nor does it provide empowering knowledge for the reader."
+  },
+  {
+    "title": "Boat Sinks Off Yemen: 68 Dead, 74 Missing Among Ethiopian Migrants",
+    "domain": "general",
+    "location": "national",
+    "published": "Sun, 03 Aug 2025 19:42:01 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "Deutsche Welle",
+      "The Guardian",
+      "BBC",
+      "Al Jazeera",
+      "New York Times",
+      "Global News"
+    ],
+    "domains": [
+      "general"
+    ],
+    "snippets": [
+      "More than 150 Ethiopian migrants were on board the boat when it sank in the Gulf of Aden off the southern Yemeni province of Abyan, the International Organization for Migration in Yemen said.",
+      "Dozens are missing after a boat carrying more than 150 migrants, many believed to be Ethiopian, sank in bad weather.",
+      "Rescue operations are ongoing to find dozens more missing, local authorities say.",
+      "The vessel was taking Ethiopians to Yemen, a popular transit country for migrants to reach wealthy Gulf nations such as Saudi Arabia. The UN says Yemen is witnessing an influx of African migrants, despite a civil war.",
+      "<p>Shipwreck in Gulf of Aden with 154 Ethiopians onboard leaves only 12 survivors, with the rest missing and presumed dead, says UN agency</p><p>A boat has capsized off Yemen’s coast leaving 68 African migrants dead and 74 others missing, the UN’s migration agency said.</p><p>It was the latest in a ",
+      "The trip across the Gulf of Aden is the first leg of one of the world’s riskiest — and busiest — migration and smuggling routes.",
+      "At least 68 African migrants died and 74 others were missing after their boat capsized Sunday in the waters off Yemen, the U.N.’s migration agency said."
+    ],
+    "image_url": "",
+    "titles": [
+      "At least 68 African migrants killed after boat capsizes off Yemen coast, U.N. says",
+      "Dozens of migrants die in boat capsize off Yemen",
+      "More than 65 refugees and migrants die in boat sinking off Yemeni coast",
+      "African migrant boat capsizes off Yemen, killing dozens",
+      "More than 140 migrants believed dead as boat capsizes off Yemen",
+      "More Than 60 Migrants Dead After Boat Capsizes Off the Coast of Yemen",
+      "UN says 68 African migrants were killed when boat capsized off Yemen"
+    ],
+    "score_components": {
+      "magnitude": 0.8,
+      "recency": 0.839,
+      "consensus": 1.0,
+      "constructiveness": 0.6,
+      "proximity": 0.75
+    },
+    "score": 0.833,
+    "summary": "A boat carrying over 150 Ethiopian migrants sank in the Gulf of Aden off Yemen's Abyan province, resulting in at least 68 deaths and 74 missing, according to the International Organization for Migration. The vessel was en route to Yemen, a common passage for migrants heading to Gulf countries. This incident highlights the dangers of one of the world's most perilous migration routes.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides useful information about the dangers of migration routes and the risks migrants face. However, it does not offer solutions, improvements, or attempts to solve the problem, nor does it provide a deeper understanding of the systemic causes or trends."
+  },
+  {
+    "title": "Loni Anderson, \"WKRP in Cincinnati\" Star, Dies at 79",
+    "domain": "general",
+    "location": "national",
+    "published": "Sun, 03 Aug 2025 20:26:55 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "The Guardian",
+      "CityNews",
       "Forbes"
     ],
     "domains": [
@@ -55,104 +146,142 @@
       "general"
     ],
     "snippets": [
-      "The International Association of Machinists and Aerospace Workers union members in Missouri and Illinois rejected a modified contract offered by Boeing last week.",
-      "<p>Over 3,200 union machinists around St Louis expected to strike at midnight on Monday as they seek new contract</p><p>More than 3,200 <a href=\"https://www.theguardian.com/business/2025/jul/28/boeing-workers-strike-reject-contract-offer\">unionized workers</a> who assemble <a href=\"https://www.thegu",
-      "About 3,200 workers in Missouri and Illinois rejected an offer on Sunday."
+      "Loni Anderson died at a Los Angeles hospital following a prolonged illness, according to her longtime publicist, Cheryl J. Kagan.",
+      "<p>Actor died at a Los Angeles hospital after a ‘prolonged’ illness, days before her 80th birthday, her publicist says</p><p>Loni Anderson, who played a struggling radio station’s empowered receptionist on the hit TV comedy WKRP in Cincinnati, died on Sunday, just days before her 80th birthday.</p><",
+      "Loni Anderson, who rose to fame in her Emmy and Golden Globe-nominated role as receptionist Jennifer Marlowe on \"WKRP in Cincinnati,\" died Sunday in Los Angeles.",
+      "LOS ANGELES (AP) — Loni Anderson, who played a struggling radio station’s empowered receptionist on the hit TV comedy “WKRP in Cincinnati,” died Sunday, just days before her 80th birthday. Anderson died at a Los Angeles hospital following a prolonged illness, said her longtime publicist, Cheryl J. K"
     ],
     "image_url": "",
     "titles": [
-      "More than 3,000 Boeing workers are set to strike after rejecting a contract offer",
-      "US Boeing defense workers slated to strike after rejecting latest offer",
-      "Boeing Defense Workers Set To Strike For First Time Since 1996 After Rejecting Contract Offer"
+      "Loni Anderson, star of hit TV series 'WKRP in Cincinnati,' dies at 79",
+      "Loni Anderson, star of 1980s sitcom WKRP in Cincinnati, dies aged 79",
+      "Loni Anderson Dies: The ‘WKRP In Cincinnati’ Star Was 79",
+      "Popular 1980s actor Loni Anderson of the hit TV series ‘WKRP in Cincinnati’ has died"
     ],
     "score_components": {
-      "magnitude": 0.81,
-      "recency": 0.987,
+      "magnitude": 0.8,
+      "recency": 0.852,
+      "consensus": 0.985,
+      "constructiveness": 0.3,
+      "proximity": 0.75
+    },
+    "score": 0.802,
+    "summary": "Loni Anderson, acclaimed for her role in \"WKRP in Cincinnati,\" passed away in a Los Angeles hospital on Sunday after a prolonged illness, just days shy of her 80th birthday. Her death was confirmed by her publicist, Cheryl J. K. Anderson was known for her Emmy and Golden Globe-nominated performance as the empowered receptionist Jennifer Marlowe on the popular TV comedy.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about the death of a well-known actress, but it doesn't offer any deep insights or actionable knowledge for the reader. It is primarily an informational piece."
+  },
+  {
+    "title": "Amorim Backs Fernandes' Call for Improvement After Everton Draw",
+    "domain": "sports",
+    "location": "national",
+    "published": "Mon, 4 Aug 2025 00:16:42 EST",
+    "source": "ESPN",
+    "sources": [
+      "The Guardian",
+      "Sky Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "sports",
+      "general"
+    ],
+    "snippets": [
+      "Manchester United head coach Ruben Amorim has backed Bruno Fernandes' criticism of the performance in their 2-2 draw with Everton by saying he's happy for his players to call it out if they see a drop in standards.",
+      "<ul><li><p>Captain unhappy with display in 2-2 Everton draw</p></li><li><p>‘It’s not the place it needs to be,’ he says of the squad</p></li></ul><p>Manchester United’s captain, Bruno Fernandes, let rip at his teammates after their 2-2 pre-season draw with Everton, saying their performance was “lazy",
+      "Bruno Fernandes was critical of Man Utd's \"lazy\" display in their 2-2 Premier League Summer Series draw with Everton before calling for further reinforcements in the transfer window."
+    ],
+    "image_url": "",
+    "titles": [
+      "Amorim backs Fernandes' criticism of 'lazy' United",
+      "Bruno Fernandes criticises ‘lazy’ Manchester United and calls for more signings",
+      "Fernandes critical of 'lazy' Man Utd display and hopes for 'one or two' more signings"
+    ],
+    "score_components": {
+      "magnitude": 0.7,
+      "recency": 0.923,
       "consensus": 0.897,
       "constructiveness": 0.6,
       "proximity": 0.75
     },
-    "score": 0.84,
-    "summary": "Over 3,200 members of the International Association of Machinists and Aerospace Workers in Missouri and Illinois rejected a modified contract from Boeing and are expected to strike at midnight on Monday. The rejection came after negotiations for a new contract failed to meet their expectations.",
+    "score": 0.789,
+    "summary": "Manchester United's head coach, Ruben Amorim, supported captain Bruno Fernandes' criticism of the team's performance following a 2-2 draw with Everton in the Premier League Summer Series. Fernandes labeled the display as \"lazy\" and indicated the squad is not at the desired level, suggesting the need for additional signings. Amorim appreciates his players' openness about standards dropping.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs readers about the labor dispute and impending strike at Boeing, which may impact the company's operations. However, it lacks depth in terms of the specific issues at stake in the contract negotiations and doesn't suggest any potential solutions or outcomes."
+    "constructiveness_reason": "The story provides some useful insight into the internal dynamics of Manchester United, and the call for improvement could be seen as an attempt to solve a problem. However, it lacks depth in terms of the specific improvements needed or how the team plans to achieve them."
   },
   {
-    "title": "Krasheninnikov Volcano Erupts in Russia After Centuries, Ash Soars 6km",
+    "title": "South Korea Removes Border Loudspeakers to Boost North Korea Relations",
     "domain": "general",
-    "location": "national",
-    "published": "Sun, 03 Aug 2025 17:51:04 -0400",
-    "source": "NPR",
+    "location": "global",
+    "published": "Mon, 04 Aug 2025 03:46:23 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "BBC",
-      "New York Times",
-      "NPR",
-      "CityNews"
+      "Deutsche Welle",
+      "The Guardian",
+      "Al Jazeera"
     ],
     "domains": [
       "general"
     ],
     "snippets": [
-      "The volcano may have been primed to erupt before the magnitude 8.8 quake pushed it over the edge.",
-      "The eruption of a volcano in Russia's Kamchatka peninsula may be linked to a massive earthquake last week, experts say.",
-      "The eruption of the Krasheninnikov volcano on Sunday in Russia’s Far East came after a series of seismic events this past week on the Kamchatka peninsula.",
-      "A volcano on Russia’s far eastern Kamchatka Peninsula erupted overnight into Sunday for what scientists said is the first time in hundreds of years, days after a massive 8.8-magnitude earthquake. The Krasheninnikov volcano sent ash 6 kilometers (3.7 miles) into the sky, according to staff at the Kro"
+      "Seoul removes propaganda loudspeakers to signal a shift in policy under President Lee&#039;s administration.",
+      "The move comes as Lee Jae-myung's new government in South Korea seeks to normalize its relations with Pyongyang.",
+      "<p>Overture from new president Lee Jae Myung is latest effort to revive dialogue with Pyongyang that stalled under his predecessor</p><p>South Korean authorities have begun removing loudspeakers that blare propaganda broadcasts along its border with the North, Seoul’s defence ministry said on Monday"
     ],
     "image_url": "",
     "titles": [
-      "Russian volcano erupts days after monster quake shakes region",
-      "Russian volcano erupts for first time in more than 500 years",
-      "Long-Dormant Russian Volcano Erupts for the First Time in Centuries",
-      "A volcano in Russia’s Far East erupts for the first time in centuries"
+      "South Korea dismantles border loudspeakers to ease tensions with N Korea",
+      "South Korea removes loudspeakers on border with North",
+      "South Korea begins removing loudspeakers on border with North to reduce tensions"
     ],
     "score_components": {
-      "magnitude": 0.8,
-      "recency": 0.953,
-      "consensus": 0.935,
-      "constructiveness": 0.5,
-      "proximity": 0.75
+      "magnitude": 0.7,
+      "recency": 0.913,
+      "consensus": 0.847,
+      "constructiveness": 0.9,
+      "proximity": 0.5
     },
-    "score": 0.829,
-    "summary": "The Krasheninnikov volcano on Russia's Kamchatka Peninsula erupted for the first time in centuries, following a series of seismic events, including a massive 8.8-magnitude earthquake. The eruption, occurring overnight into Sunday, propelled ash 6 kilometers into the sky. Experts suggest the earthquake may have triggered the volcanic activity.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story provides basic awareness about a significant natural event and its potential link to seismic activity. However, it lacks depth in terms of the potential impacts or consequences of the eruption, and does not offer any actionable insights for readers."
+    "score": 0.779,
+    "summary": "South Korea has started dismantling loudspeakers used for broadcasting propaganda across its border with North Korea, as part of President Lee Jae-myung's new approach to improve relations with Pyongyang. This action marks a significant policy shift from the previous administration and is aimed at reviving dialogue between the two Koreas, which had stalled. The removal was confirmed by Seoul's defence ministry.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is constructive as it provides useful information about a significant policy shift in South Korea's approach to North Korea. It also highlights a clear attempt at progress in improving relations between the two countries."
   },
   {
-    "title": "Earthquake Causes Collapse at Chile's El Teniente Mine, 1 Dead, 5 Trapped",
+    "title": "Ukraine, Russia Exchange Strikes; Drone Hits Oil Depot, 7 Injured",
     "domain": "general",
     "location": "global",
-    "published": "Sun, 03 Aug 2025 21:58:07 GMT",
-    "source": "BBC",
+    "published": "Sun, 03 Aug 2025 10:21:21 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "BBC",
+      "The Guardian",
       "Al Jazeera",
-      "The Guardian"
+      "Financial Times"
     ],
     "domains": [
+      "business",
       "general"
     ],
     "snippets": [
-      "Tunnels in a copper mine collapsed after an earthquake on Thursday, trapping five miners and killing a sixth person that day.",
-      "Some 100 people were involved in search for workers at El Teniente copper mine, the world&#039;s largest underground mine.",
-      "<p>At least 100 people involved in rescue operation at El Teniente copper mine, which partially collapsed after ‘seismic event’</p><p>One of five miners trapped after a partial collapse at the world’s largest underground copper mine has been found dead, Chile’s state-owned Codelco group announced on"
+      "Ukraine has regularly hit Russian oil and gas infrastructure in response to attacks on its own territory.",
+      "Volodymyr Zelenskyy welcomes long-range attack on Black Sea facility as drone and missile exchanges continue",
+      "<p>Video shows black smoke pouring from facility in Sochi, while Russian attack on Mykolaiv wounds seven people</p><p>An overnight Ukrainian drone attack on an oil depot near the Russian Black Sea resort of Sochi ignited a raging fire, as the two countries traded strikes at the end of one of the dea"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ed/live/2eeaa6e0-7075-11f0-af20-030418be2ca5.jpg",
+    "image_url": "",
     "titles": [
-      "Chile rescuers find body of last trapped miner - five confirmed dead",
-      "All five miners trapped after copper mine collapse in Chile found dead",
-      "Body found in collapsed Chile mine as search continues for trapped miners"
+      "Ukrainian drone attack sparks fire at oil depot in Sochi, southwest Russia",
+      "Russian oil depot in Sochi set ablaze by Ukrainian drone strike",
+      "Ukrainian attack sparks blaze at Russian oil depot as countries trade strikes"
     ],
     "score_components": {
-      "magnitude": 0.75,
-      "recency": 0.936,
-      "consensus": 0.847,
+      "magnitude": 0.87,
+      "recency": 0.635,
+      "consensus": 0.897,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.771,
-    "summary": "An earthquake on Thursday caused a partial collapse at El Teniente, the world's largest underground copper mine, in Chile. This incident trapped five miners and resulted in the death of a sixth. Following the collapse, at least 100 individuals participated in a rescue operation. Chile's state-owned Codelco group later announced that one of the trapped miners was found dead.",
+    "score": 0.766,
+    "summary": "Ukraine and Russia continue to exchange strikes amid ongoing conflict. Ukrainian forces launched a drone attack on an oil depot near Sochi, causing a significant fire, while Russia conducted air strikes on Kherson and Mykolaiv, injuring seven. The attack on the Russian oil facility in Novokuybyshevsk was also highlighted, with a massive explosion reported. Ukrainian President Volodymyr Zelenskyy has welcomed these long-range attacks. Additionally, a prisoner exchange was announced by Zelenskyy amidst the hostilities.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about a tragic event and the subsequent rescue operation. It increases awareness about the risks associated with mining and the impacts of natural disasters. However, it does not report on solutions or improvements, nor does it provide empowering knowledge for the reader."
+    "constructiveness_reason": "This story provides useful information about the ongoing conflict between Ukraine and Russia, including specific incidents and the impact of these events. However, it does not provide deeper insights into the causes, solutions, or potential outcomes of the conflict, nor does it highlight any progress towards resolution."
   },
   {
     "title": "Texas Democrats Leave State to Block GOP-Favored Map Redrawing",
@@ -161,120 +290,8 @@
     "published": "Sun, 03 Aug 2025 22:01:02 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Al Jazeera",
-      "ABC News",
-      "Axios"
-    ],
-    "domains": [
-      "general"
-    ],
-    "snippets": [
-      "US president has urged Republicans to redraw map to help the party net a handful of seats in the midterms next year.",
-      "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXFxSWxEdGpsNFg1UHRnOVBHZHRpU3RoNHVxcEg0dGlKVzFaRzNSNWtWVEpGZllPOVZlZ3ota3FJZnhzQkhWM0NjTXZWdldabHNyT3VNbXAwa0RPVWtsWWFGbGlZLVVjQS1ad0dNSUZaNjJjamV2QjBhcDRLVk9JeERvc1g4cFpIQTBZUF9KdFA4Zw?oc=5\" target=\"_blank\">Texas Dems leave state in bid",
-      "Texas state House Democrats plan to leave to break quorum of a special session in which Republicans aim to pass a new congressional map that could net the GOP five seats."
-    ],
-    "image_url": "",
-    "titles": [
-      "Texas Democrats leave state to block vote on new House map backed by Trump",
-      "Texas Dems leave state in bid to block Trump-backed redistricting vote - Axios",
-      "Texas House Democrats plan to flee state to try to stop proposed congressional maps"
-    ],
-    "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.957,
-      "consensus": 0.847,
-      "constructiveness": 0.7,
-      "proximity": 0.5
-    },
-    "score": 0.768,
-    "summary": "In a strategic move to block the passage of a new congressional map that could benefit the Republican Party by netting them five additional seats, Texas state House Democrats have decided to leave the state. This action aims to break the quorum required for a special session dedicated to redrawing the map, as urged by the US president to assist the GOP in the upcoming midterms.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story informs readers about a significant political event and gives context to the strategic decisions made by Texas Democrats. It increases awareness about the political system and the tactics used within it, but it does not highlight any solutions or progress."
-  },
-  {
-    "title": "Colts' Salvon Ahmed Hospitalized After Practice Injury",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sun, 3 Aug 2025 19:08:28 EST",
-    "source": "ESPN",
-    "sources": [
-      "Sports Illustrated",
-      "ESPN",
-      "CBS Sports"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "Colts backup running back Salvon Ahmed suffered a severe injury to his lower right leg after a hip-drop tackle during practice and was taken to a hospital for X-rays.",
-      "Safety Trey Washington tackled Ahmed on the play",
-      "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTHpuXzk2OG9wOTdCdmQ3Y3JiQ25pbUk3SFhRVVVsbjI0RVNhdFl1OGdqX0c1RGpIUkJBSWl3bVo4bmhKWDN2bHplZXFrNTRIZ09xZE11RkNqNnItRjgtVmF0dnk0WUZXQVJKTTZkc1FmTlIwX3lQZzdCanU2V2YzR0o1Zm1RSlA1V2xuT2p1S3JVdWlrTVVrbDU2U3NWQQ?oc=5\" target=\"_blank\">Colts RB Hosp"
-    ],
-    "image_url": "",
-    "titles": [
-      "Hip-drop tackle severely injures Colts RB Ahmed",
-      "Colts RB Salvon Ahmed carted off field with severe leg injury following hip-drop tackle",
-      "Colts RB Hospitalized After Suffering 'Severe' Leg Injury From Banned Tackle - Sports Illustrated"
-    ],
-    "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.979,
-      "consensus": 0.847,
-      "constructiveness": 0.3,
-      "proximity": 0.75
-    },
-    "score": 0.758,
-    "summary": "Indianapolis Colts backup running back Salvon Ahmed suffered a severe lower right leg injury during practice due to a hip-drop tackle by safety Trey Washington. Ahmed was taken to the hospital for X-rays following the incident. The current status of Ahmed's injury and recovery is not provided in the available information.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness of an injury incident involving a player from the Indianapolis Colts. However, it lacks depth and does not provide actionable insights, solutions, or a deeper understanding of the incident, the player's condition, or the implications for the team."
-  },
-  {
-    "title": "Miyu Yamashita Wins AIG Women's Open, Hull Runner-Up",
-    "domain": "general",
-    "location": "global",
-    "published": "Sun, 03 Aug 2025 18:31:57 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "Sky Sports",
-      "The Guardian"
-    ],
-    "domains": [
-      "sports",
-      "general"
-    ],
-    "snippets": [
-      "Miyu Yamashita produces an almost faultless final round to hold off England's Charley Hull and win the Women's Open at Royal Porthcawl.",
-      "<ul><li><p>Japanese finishes on 11 under, two clear of Hull</p></li><li><p>Lottie Woad happy with top-10 finish</p></li></ul><p>Charley Hull is due high praise for at least making this interesting. It may be of little consolation to the English golfer as her wait for a maiden major win goes on but H",
-      "Watch highlights as Miyu Yamashita claimed her first major victory after shooting a composed two-under 70 in the final round of the AIG Women's Open at Royal Porthcawl, holding off Charley Hull's challenge."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090e/live/e3eb8860-7094-11f0-89ea-4d6f9851f623.jpg",
-    "titles": [
-      "Yamashita holds off Hull to win Women's Open",
-      "Hull’s major wait goes on as she pushes Yamashita all the way at Women’s Open",
-      "Highlights: Hull surges but falls short as Yamashita claims AIG Women's Open"
-    ],
-    "score_components": {
-      "magnitude": 0.72,
-      "recency": 0.871,
-      "consensus": 0.897,
-      "constructiveness": 0.5,
-      "proximity": 0.5
-    },
-    "score": 0.75,
-    "summary": "Miyu Yamashita won her first major title at the AIG Women's Open at Royal Porthcawl, finishing at 11 under par, two strokes ahead of England's Charley Hull. Yamashita's near-flawless final round secured her victory. Charley Hull's performance was commendable, making the competition close, but she continues her wait for a maiden major win. Lottie Woad also had a strong showing, finishing in the top 10.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about the outcome of the AIG Women's Open, with some insight into the performances of the top players. However, it lacks depth and does not provide actionable insights, solutions, or a deeper understanding of the event or the sport."
-  },
-  {
-    "title": "Loni Anderson, \"WKRP in Cincinnati\" Star, Dies at 79",
-    "domain": "general",
-    "location": "global",
-    "published": "Sun, 03 Aug 2025 23:13:55 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "CityNews",
       "The Guardian",
+      "Al Jazeera",
       "Forbes"
     ],
     "domains": [
@@ -282,105 +299,104 @@
       "general"
     ],
     "snippets": [
-      "<p>Actor died at a Los Angeles hospital after a ‘prolonged’ illness, days before her 80th birthday, her publicist says</p><p>Loni Anderson, who played a struggling radio station’s empowered receptionist on the hit TV comedy WKRP in Cincinnati, died on Sunday, just days before her 80th birthday.</p><",
-      "Loni Anderson, who rose to fame in her Emmy and Golden Globe-nominated role as receptionist Jennifer Marlowe on \"WKRP in Cincinnati,\" died Sunday in Los Angeles.",
-      "LOS ANGELES (AP) — Loni Anderson, who played a struggling radio station’s empowered receptionist on the hit TV comedy “WKRP in Cincinnati,” died Sunday, just days before her 80th birthday. Anderson died at a Los Angeles hospital following a prolonged illness, said her longtime publicist, Cheryl J. K"
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/15d3466402576dc58b123ee67514a1416155cdef/290_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=7773b958fb5c42d3eb04d1856d5a0f39",
-    "titles": [
-      "Loni Anderson, star of 1980s sitcom WKRP in Cincinnati, dies aged 79",
-      "Loni Anderson Dies: The ‘WKRP In Cincinnati’ Star Was 79",
-      "Popular 1980s actor Loni Anderson of the hit TV series ‘WKRP in Cincinnati’ has died"
-    ],
-    "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.961,
-      "consensus": 0.897,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.741,
-    "summary": "Loni Anderson, acclaimed for her role in \"WKRP in Cincinnati,\" passed away in a Los Angeles hospital on Sunday after a prolonged illness, just days shy of her 80th birthday. Her death was confirmed by her publicist, Cheryl J. K. Anderson was known for her Emmy and Golden Globe-nominated performance as the empowered receptionist Jennifer Marlowe on the popular TV comedy.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about the death of a well-known actress, but it doesn't offer any deep insights or actionable knowledge for the reader. It is primarily an informational piece."
-  },
-  {
-    "title": "Canada Expects Trade Talks Between PM Carney and President Trump Soon",
-    "domain": "business",
-    "location": "national",
-    "published": "Sun, 03 Aug 2025 21:01:07 +0000",
-    "source": "Financial Post",
-    "sources": [
-      "Financial Post",
-      "CityNews"
-    ],
-    "domains": [
-      "business",
-      "general"
-    ],
-    "snippets": [
-      "OTTAWA &#8212; Dominic LeBlanc said Sunday that he expects Prime Minister Mark Carney and U.S. President Donald Trump will speak &#8220;over the next number of days&#8221; as the United States ratchets up pressure in trade talks. The Canada-U.S. trade minister appeared on CBS&#8217;s &#8220;Face the",
-      "OTTAWA — Dominic LeBlanc said Sunday that he expects Prime Minister Mark Carney and U.S. President Donald Trump will speak &#8220;over the next number of days&#8221; as the United States ratchets up pressure in trade talks. The Canada-U.S. trade minister appeared on CBS&#8217;s &#8220;Face the Natio"
+      "US president has urged Republicans to redraw map to help the party net a handful of seats in the midterms next year.",
+      "<p>About 30 lawmakers are headed to Illinois for a week to hinder Republicans’ redistricting plan pushed by Trump</p><p><a href=\"https://www.theguardian.com/us-news/texas\">Texas</a> <a href=\"https://www.theguardian.com/us-news/democrats\">Democrats</a> are fleeing the state to prevent a vote on Monda",
+      "Over 50 Democratic lawmakers from Texas left the state on Sunday to ensure that the state legislature doesn’t have a quorum to pass a redistricting vote being pushed by the GOP."
     ],
     "image_url": "",
     "titles": [
-      "LeBlanc says he expects Carney, Trump will speak in the coming days",
-      "LeBlanc says he expects Carney, Trump will speak in the coming days"
+      "Texas Democrats leave state to block vote on new House map backed by Trump",
+      "Texas Democrats flee state to prevent vote on redrawing congressional map",
+      "Texas Democrats Leave State To Block GOP Redistricting Vote—Gov. Abbott Threatens Their Removal"
     ],
     "score_components": {
-      "magnitude": 0.62,
-      "recency": 0.937,
-      "consensus": 0.682,
-      "constructiveness": 0.5,
-      "proximity": 1.0
+      "magnitude": 0.7,
+      "recency": 0.81,
+      "consensus": 0.897,
+      "constructiveness": 0.7,
+      "proximity": 0.5
     },
-    "score": 0.725,
-    "summary": "Dominic LeBlanc, Canada's trade minister, announced on CBS's \"Face the Nation\" that he anticipates discussions between Prime Minister Mark Carney and U.S. President Donald Trump in the coming days. This dialogue is expected as the United States increases pressure in ongoing trade negotiations.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story offers basic awareness about the upcoming trade talks between Canada and the United States. It lacks depth or insight into what the talks will entail or the potential implications for both countries."
+    "score": 0.751,
+    "summary": "In a strategic move to block the passage of a new congressional map that could benefit the Republican Party by netting them five additional seats, Texas state House Democrats have decided to leave the state. This action aims to break the quorum required for a special session dedicated to redrawing the map, as urged by the US president to assist the GOP in the upcoming midterms.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story informs readers about a significant political event and gives context to the strategic decisions made by Texas Democrats. It increases awareness about the political system and the tactics used within it, but it does not highlight any solutions or progress."
   },
   {
-    "title": "Man Dies Falling from Wembley Stadium at Oasis Concert",
+    "title": "Krasheninnikov Volcano Erupts in Russia After Centuries, Ash Soars 6km",
     "domain": "general",
-    "location": "global",
-    "published": "Sun, 03 Aug 2025 21:17:44 GMT",
-    "source": "BBC",
+    "location": "national",
+    "published": "Sun, 03 Aug 2025 17:51:04 -0400",
+    "source": "NPR",
     "sources": [
-      "BBC",
-      "New York Times",
-      "The Guardian"
+      "NPR",
+      "CityNews",
+      "New York Times"
     ],
     "domains": [
       "general"
     ],
     "snippets": [
-      "The band said they were \"shocked and saddened\" to hear of the death of a fan.",
-      "<p>Man understood to have been sitting in London stadium’s upper tier was pronounced dead at the scene</p><p>Oasis have said they are “shocked and saddened” after a man fell to his death at Wembley Stadium during the band’s Saturday concert.</p><p>The man was understood to be sitting in the upper ti",
-      "A concertgoer apparently fell from the upper tiers at Wembley Stadium as the band’s reunion tour show was winding down."
+      "The volcano may have been primed to erupt before the magnitude 8.8 quake pushed it over the edge.",
+      "The eruption of the Krasheninnikov volcano on Sunday in Russia’s Far East came after a series of seismic events this past week on the Kamchatka peninsula.",
+      "A volcano on Russia’s far eastern Kamchatka Peninsula erupted overnight into Sunday for what scientists said is the first time in hundreds of years, days after a massive 8.8-magnitude earthquake. The Krasheninnikov volcano sent ash 6 kilometers (3.7 miles) into the sky, according to staff at the Kro"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b45/live/930f99b0-70b5-11f0-af20-030418be2ca5.jpg",
+    "image_url": "",
     "titles": [
-      "Man dies after fall at Oasis Wembley concert",
-      "Oasis ‘shocked and saddened’ after fan dies in fall at Wembley concert",
-      "Oasis Fan Dies in Apparent Fall at Wembley"
+      "Russian volcano erupts days after monster quake shakes region",
+      "Long-Dormant Russian Volcano Erupts for the First Time in Centuries",
+      "A volcano in Russia’s Far East erupts for the first time in centuries"
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.923,
+      "recency": 0.807,
       "consensus": 0.847,
-      "constructiveness": 0.2,
-      "proximity": 0.5
+      "constructiveness": 0.5,
+      "proximity": 0.75
     },
-    "score": 0.711,
-    "summary": "A man fell to his death from the upper tier of Wembley Stadium during an Oasis concert, leading to the band expressing their shock and sadness over the incident. The man was pronounced dead at the scene. This tragic event occurred as the band's reunion tour show was concluding.",
-    "constructiveness_score": 0.2,
-    "constructiveness_reason": "This story is largely reactive and sensational, focusing on a tragic incident without providing any actionable insights or deeper understanding. It does not report on any potential solutions or preventative measures, nor does it increase clarity around the causes or impacts of such incidents."
+    "score": 0.743,
+    "summary": "The Krasheninnikov volcano on Russia's Kamchatka Peninsula erupted for the first time in centuries, following a series of seismic events, including a massive 8.8-magnitude earthquake. The eruption, occurring overnight into Sunday, propelled ash 6 kilometers into the sky. Experts suggest the earthquake may have triggered the volcanic activity.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story provides basic awareness about a significant natural event and its potential link to seismic activity. However, it lacks depth in terms of the potential impacts or consequences of the eruption, and does not offer any actionable insights for readers."
+  },
+  {
+    "title": "David White Named Interim Executive Director of NFLPA After Howell Resigns",
+    "domain": "sports",
+    "location": "national",
+    "published": "Mon, 4 Aug 2025 00:16:42 EST",
+    "source": "ESPN",
+    "sources": [
+      "Sportsnet",
+      "ESPN"
+    ],
+    "domains": [
+      "sports"
+    ],
+    "snippets": [
+      "The NFL Players Association on Sunday night elected David White as its interim executive director, 17 days after the resignation of Lloyd Howell Jr.",
+      "<p>The association announced Sunday night that David White has assumed the role on an interim basis.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "NFLPA elects White as interim executive director",
+      "NFL Players Association elects David White as interim executive director"
+    ],
+    "score_components": {
+      "magnitude": 0.6,
+      "recency": 0.923,
+      "consensus": 0.632,
+      "constructiveness": 0.6,
+      "proximity": 0.75
+    },
+    "score": 0.688,
+    "summary": "David White has been elected as the interim executive director of the NFL Players Association, following the resignation of Lloyd Howell Jr. The decision was made 17 days after Howell's departure. White will now serve in the interim role until a permanent replacement is found.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about a change in leadership within the NFL Players Association. However, it does not go into detail about the implications of this change, potential candidates for the permanent position, or the reasons behind Howell's resignation. Therefore, it only partially contributes to the reader's understanding."
   },
   {
     "title": "Cameron Young Wins First PGA Tour Title at Wyndham Championship",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 3 Aug 2025 19:08:28 EST",
+    "published": "Mon, 4 Aug 2025 00:16:42 EST",
     "source": "ESPN",
     "sources": [
       "Sportsnet",
@@ -400,204 +416,57 @@
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.979,
+      "recency": 0.923,
       "consensus": 0.632,
       "constructiveness": 0.6,
       "proximity": 0.75
     },
-    "score": 0.699,
+    "score": 0.688,
     "summary": "Cameron Young secured his first PGA Tour victory at the Wyndham Championship, finishing with a 2-under 68. After seven runner-up finishes, Young dominated the tournament with five consecutive birdies early on, building a nine-shot lead. He ultimately won by six shots, marking a significant milestone in his career.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story provides useful information about Cameron Young's first PGA Tour victory, giving readers an understanding of his performance and progress in his career. However, it doesn't provide actionable insights or deeper understanding of the sport, nor does it report on any innovations or attempts to solve problems."
   },
   {
-    "title": "Hilary Weston, Philanthropist and Former Ontario Lt.-Gov., Dies at 83",
-    "domain": "business",
-    "location": "national",
-    "published": "Sun, 03 Aug 2025 23:53:21 +0000",
-    "source": "Financial Post",
-    "sources": [
-      "Financial Post",
-      "CityNews"
-    ],
-    "domains": [
-      "business",
-      "general"
-    ],
-    "snippets": [
-      "Hilary Weston, an Irish-Canadian fashion mogul and former lieutenant-governor of Ontario who devoted time to issues tied to women, volunteerism and youth, has died at 83. In a statement Sunday, her family said the philanthropist and writer was shaped by an &#8220;enduring generosity and a deep commi",
-      "Hilary Weston, an Irish-Canadian fashion mogul and former lieutenant-governor of Ontario who devoted time to issues tied to women, volunteerism and youth, has died at 83. In a statement Sunday, her family said the philanthropist and writer was shaped by an &#8220;enduring generosity and a deep commi"
-    ],
-    "image_url": "",
-    "titles": [
-      "Hilary Weston, fashion mogul and former Ontario lieutenant-governor, dead at 83",
-      "Hilary Weston, fashion mogul and former Ontario lieutenant-governor, dead at 83"
-    ],
-    "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.995,
-      "consensus": 0.682,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.69,
-    "summary": "Hilary Weston, an Irish-Canadian fashion mogul, philanthropist, and former lieutenant-governor of Ontario, has passed away at 83. Her family highlighted her dedication to women's issues, volunteerism, and youth, noting her \"enduring generosity and deep commitment\" to these causes.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the life and contributions of Hilary Weston, increasing awareness about her philanthropic work and dedication to women's issues, volunteerism, and youth. However, it doesn't provide actionable insights or report on solutions or improvements."
-  },
-  {
-    "title": "Bills' James Cook Misses Mandatory Practice Amid Contract Talks",
+    "title": "Messi Injured in Leagues Cup Match, Inter Miami Awaits Return Timeline",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 3 Aug 2025 19:08:28 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "CBS Sports"
-    ],
-    "domains": [
-      "sports"
-    ],
-    "snippets": [
-      "Bills running back James Cook did not participate in a mandatory practice for the first time since seeking an extension this offseason.",
-      "Cook participated in mandatory team activities up to this point"
-    ],
-    "image_url": "",
-    "titles": [
-      "RB Cook sits out Bills' practice: 'Just business'",
-      "James Cook sits out of Bills practice, calls decision 'just business' as contract negotiations continue"
-    ],
-    "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.979,
-      "consensus": 0.632,
-      "constructiveness": 0.5,
-      "proximity": 0.75
-    },
-    "score": 0.689,
-    "summary": "Bills running back James Cook missed a mandatory practice for the first time after seeking a contract extension this offseason. He had been participating in team activities before this absence. The current status of the situation is that Cook did not take part in the recent mandatory practice.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This news story provides basic awareness about James Cook's absence from a mandatory practice amid contract talks. It offers some insight into the situation but doesn't provide actionable insights or deeper understanding. It also doesn't report on any solutions or improvements."
-  },
-  {
-    "title": "OPEC+ Agrees to Boost Oil Production, Could Lower Prices",
-    "domain": "business",
-    "location": "national",
-    "published": "Sun, 03 Aug 2025 18:09:13 +0000",
-    "source": "Financial Post",
-    "sources": [
-      "Financial Post",
-      "CityNews"
-    ],
-    "domains": [
-      "business",
-      "general"
-    ],
-    "snippets": [
-      "NEW YORK (AP) &#8212; A group of countries that are part of the OPEC+ alliance of oil-exporting countries has agreed to boost oil production, a move some believe could lower oil and gasoline prices, citing a steady global economic outlook and low oil inventories. The group met virtually on Sunday an",
-      "NEW YORK (AP) — A group of countries that are part of the OPEC+ alliance of oil-exporting countries has agreed to boost oil production, a move some believe could lower oil and gasoline prices, citing a steady global economic outlook and low oil inventories. The group met virtually on Sunday and anno"
-    ],
-    "image_url": "",
-    "titles": [
-      "OPEC+ countries to boost oil production by 547,000 barrels per day",
-      "OPEC+ countries to boost oil production by 547,000 barrels per day"
-    ],
-    "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.883,
-      "consensus": 0.682,
-      "constructiveness": 0.8,
-      "proximity": 0.5
-    },
-    "score": 0.687,
-    "summary": "The OPEC+ alliance, a group of oil-exporting countries, has agreed to increase oil production following a virtual meeting on Sunday. This decision is anticipated to potentially lower oil and gasoline prices, attributed to a steady global economic outlook and low oil inventories.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This news story provides useful information about the decision of OPEC+ to increase oil production, potentially impacting oil and gasoline prices. It provides a deeper understanding of the global economic outlook and oil market dynamics."
-  },
-  {
-    "title": "WWE SummerSlam Set for Two Nights at MetLife, Features Cena vs. Rhodes",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sun, 03 Aug 2025 22:00:52 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "Forbes",
-      "CBS Sports"
-    ],
-    "domains": [
-      "sports",
-      "business"
-    ],
-    "snippets": [
-      "All the information you need to watch the WWE SummerSlam live event in East Rutherford, New Jersey",
-      "SummerSlam weekend takes over at MetLife Stadium with 12 matches set for the two-night event",
-      "WWE SummerSlam takes place in New Jersey on Saturday and Sunday",
-      "WWE SummerSlam 2025 live results, winners and grades on Night 2 as John Cena faces Cody Rhodes for the WWE Championship.",
-      "WWE SummerSlam 2025 Night 2 could top Night 1 with huge matches like Cena vs. Cody, Naomi’s triple threat, and a wild tag TLC match.",
-      "WWE SummerSlam 2025 match card, start time and odds for Sunday as John Cena defends the WWE title against Cody Rhodes."
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/02/66d2b76f-ffcb-405a-bbd7-983507fd29c1/wwe-summerslam-2025-roman-reigns-pro-wrestling-news-today-aug-1-2025.jpg",
-    "titles": [
-      "WWE SummerSlam 2025 start time, date: Full schedule, matches, Night 2 card, where to watch live",
-      "2025 WWE SummerSlam predictions, card, start time, date, matches, expert picks for the epic two-night event",
-      "2025 WWE SummerSlam card: Matches, results, start time, lineup as John Cena vs. Cody Rhodes headlines Night 2",
-      "WWE SummerSlam 2025 Live Results, Winners And Grades On Night 2",
-      "WWE SummerSlam 2025: What Time Does Night 2 Start On Sunday?",
-      "WWE SummerSlam 2025 Match Card, Start Time And Odds For Night Two"
-    ],
-    "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.957,
-      "consensus": 0.682,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.682,
-    "summary": "The WWE SummerSlam event is scheduled for a two-night affair at MetLife Stadium in East Rutherford, New Jersey. Across the weekend, a total of 12 matches will be featured, including a notable title defense by John Cena against Cody Rhodes. The event spans Saturday and Sunday, with specific start times and odds available for Sunday's matches, including the headline WWE title match.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the WWE SummerSlam event, including its schedule, location, and key matches. It informs readers who are interested in the event, but it doesn't offer deeper insights into the significance of the matches or the strategies of the wrestlers."
-  },
-  {
-    "title": "William Byron Wins NASCAR Cup Series at Iowa Speedway Amid Fuel Concerns",
-    "domain": "sports",
-    "location": "national",
-    "published": "Sun, 03 Aug 2025 23:34:49 +0000",
+    "published": "Mon, 04 Aug 2025 06:59:04 +0000",
     "source": "Yahoo Sports",
     "sources": [
-      "Sportsnet",
-      "Yahoo Sports"
+      "Yahoo Sports",
+      "Sports Illustrated"
     ],
     "domains": [
       "sports"
     ],
     "snippets": [
-      "William Byron nursed his car to the finish line at Iowa Speedway as the whole team held its breath there was enough fuel to take the checkered flag.",
-      "Who won the NASCAR Iowa race? William Byron is the winner, plus full NASCAR Cup results, running order and leaderboard for Iowa Corn 350.",
-      "<p>William Byron fought off fuel worries in the closing laps to win the NASCAR Cup Series race Sunday at Iowa Speedway.</p>"
+      "Lionel Messi’s injury is a blow to Inter Miami’s Leagues Cup hopes but when can the Argentine return?",
+      "Lionel Messi picked up a hamstring injury during Inter Miami’s Leagues Cup penalty shootout win over Club Necaxa. The MLS club has provided an update, saying Messi underwent medical tests to evalua...",
+      "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOX014Rk5uVjhrdTVKbjlKSHNKd21VZmtOZVRuWmtSWTZ3LTRkaV9jTmJFMjZvYWtCSktsN1hORzA2VnZQbUgyaDNMX3RHRUdRdEI2WW9rbW5ueHhhSlJFTkxUOW9FeXZWdVhxSDZyRDBOemtQcHBRNmVLZFlHQTFMNVFn?oc=5\" target=\"_blank\">Inter Miami Issue Lionel Messi Injury Update After "
     ],
     "image_url": "",
     "titles": [
-      "William Byron wins NASCAR Cup race at Iowa with fuel running out",
-      "NASCAR Iowa race results: William Byron is winner, plus full leaderboard",
-      "William Byron has enough fuel to win NASCAR Cup race at Iowa Speedway"
+      "When will Lionel Messi return after Inter Miami confirms muscle injury",
+      "Inter Miami provide update on Lionel Messi after suffering hamstring injury against Necaxa",
+      "Inter Miami Issue Lionel Messi Injury Update After Leagues Cup Win - Sports Illustrated"
     ],
     "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.988,
+      "magnitude": 0.62,
+      "recency": 0.977,
       "consensus": 0.632,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.676,
-    "summary": "William Byron secured a victory at the NASCAR Cup Series race at Iowa Speedway, overcoming concerns about fuel levels in the final laps. His win at the Iowa Corn 350 was confirmed as he managed to nurse his car to the finish line with enough fuel, leading his team to victory.",
+    "score": 0.68,
+    "summary": "Lionel Messi, playing for Inter Miami, sustained a hamstring injury during the Leagues Cup match against Club Necaxa, which Inter Miami won in a penalty shootout. Following the injury, Messi has undergone medical tests to assess the extent of his hamstring issue. The club has issued an update on his condition, but the specific timeframe for his return to play has not been disclosed in the provided content. This injury is considered a significant setback for Inter Miami's aspirations in the Leagues Cup.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs about William Byron's victory at the NASCAR Cup Series race at Iowa Speedway, providing some context about the challenges he faced regarding fuel levels. However, it doesn't offer a deeper understanding of the race's significance, or how Byron and his team strategized to overcome the fuel concerns."
+    "constructiveness_reason": "This story provides useful information about Messi's injury and its potential impact on Inter Miami's aspirations in the Leagues Cup. However, it does not provide a clear timeline for Messi's return or discuss how the team plans to cope in his absence. Therefore, while it informs and contextualizes usefully, it does not clearly highlight solutions or empowering knowledge."
   },
   {
-    "title": "Altercation Between Lyles and Bednarek at U.S. Track Championships",
+    "title": "Lionel Messi Suffers Minor Leg Injury in Leagues Cup Match",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 3 Aug 2025 19:08:28 EST",
+    "published": "Mon, 4 Aug 2025 00:16:43 EST",
     "source": "ESPN",
     "sources": [
       "Sportsnet",
@@ -607,135 +476,293 @@
       "sports"
     ],
     "snippets": [
-      "The U.S. track championships turned physical Sunday, with Noah Lyles and Kenny Bednarek getting involved in a shoving and shouting match as they crossed the finish line of a hotly contested 200-meter final.",
-      "<p>Noah Lyles landed the day’s biggest blow on the track, passing Kenny Bednarek for the win, then looking his way to talk some trash.</p>"
+      "Inter Miami CF captain Lionel Messi suffered a \"minor\" muscle injury in his right leg Saturday night in the Leagues Cup match against Necaxa at Chase Stadium.",
+      "<p>Inter Miami star Lionel Messi is dealing with a minor muscle injury in his right leg after being hurt in the opening minutes of Saturday&#8217;s Leagues Cup match against Necaxa, the club said Sunday.</p>"
     ],
     "image_url": "",
     "titles": [
-      "Lyles shoved by Bednarek after his win in 200m",
-      "Lyles shoved by Bednarek after his win in 200 meters at U.S. nationals"
+      "Miami says Messi injury 'minor,' no return date set",
+      "Messi has a ‘minor’ muscle injury, Inter Miami says timeline for return is unknown"
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.979,
+      "recency": 0.923,
       "consensus": 0.632,
-      "constructiveness": 0.3,
+      "constructiveness": 0.5,
       "proximity": 0.75
     },
-    "score": 0.669,
-    "summary": "During the U.S. track championships, a physical altercation occurred between Noah Lyles and Kenny Bednarek at the finish line of the 200-meter final. The incident involved shoving and shouting. Noah Lyles won the race and exchanged words with Bednarek after passing him for the victory.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story offers basic awareness of an incident at the U.S. track championships, but it lacks depth or insight. It neither provides actionable insights nor reports on solutions or improvements. It also doesn't increase clarity around systems, causes, trends, or impacts that matter."
+    "score": 0.678,
+    "summary": "Lionel Messi, the captain of Inter Miami CF, sustained a minor muscle injury in his right leg during the early minutes of the Leagues Cup match against Necaxa at Chase Stadium on Saturday night. The club confirmed the injury the following day, describing it as minor.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "While the story provides basic awareness about Lionel Messi's injury, it lacks depth and insight. It does not provide information about how this injury might affect upcoming matches, the team's strategies, or Messi's career. Therefore, it offers basic awareness but minimal depth or insight."
   },
   {
-    "title": "Dolphins' Zach Sieler Signs $67.75M Extension, $44M Guaranteed",
+    "title": "Dolphins Make Sieler Highest-Paid Defender with $67.75M Deal",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 03 Aug 2025 23:44:01 +0000",
-    "source": "Yahoo Sports",
+    "published": "Mon, 4 Aug 2025 00:16:42 EST",
+    "source": "ESPN",
     "sources": [
-      "Sportsnet",
-      "Yahoo Sports"
+      "Sports Illustrated",
+      "ESPN"
     ],
     "domains": [
       "sports"
     ],
     "snippets": [
-      "Zach Allen landed an extension with the Broncos and a good weekend for defensive linemen continued when Zach Sieler agreed to an extension with the Dolphins on Sunday.",
-      "Miami Dolphins defensive tackle Zach Sieler always felt the team would come through for him, and they did. The Dolphins and Sieler agreed on a three-year contract extension worth up to $67.75 million and with $44 million in guarantees Sunday evening, according to agent Drew Rosenhaus. Sieler last wa",
-      "<p>Defensive tackle Zach Sieler has reportedly signed a three-year, $67.75-million extesnion to stay in Miami, per ESPN&#8217;s Adam Schefter. </p>"
+      "The Dolphins and defensive tackle Zach Sieler agreed to a three-year extension worth up to $67.75 million, making him the team's highest-paid defensive player.",
+      "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOcW9JdlNoVjJCYldEVTFUUXRnclVXeTNibVgwRjM5X1JYWkpGOWZQdHhiSUNuMWFhdUp6RkdkTTVEYjdhZTJTSlJzZnY4c0NqbEdqcUdzTzhsVnVQbngxdC15WmUtVlhsM3lldUpUNFFsWDNfTGQtQ3pDaVAwZUFVckRLN2VjZ0d2VmU4Z01ZcUNFcEtycHp6ZlktMA?oc=5\" target=\"_blank\">Dolphins Make DT "
     ],
     "image_url": "",
     "titles": [
-      "Dolphins, Zach Sieler agree to three-year extension",
-      "Dolphins pay Zach Sieler, give reliable DT contract extension",
-      "Report: Dolphins sign DT Zach Sieler to three-year, $67.75M extension"
+      "Fins make Sieler their highest-paid defensive player",
+      "Dolphins Make DT Zach Sieler Highest-Paid Defensive Player on Team - Sports Illustrated"
+    ],
+    "score_components": {
+      "magnitude": 0.62,
+      "recency": 0.923,
+      "consensus": 0.632,
+      "constructiveness": 0.3,
+      "proximity": 0.75
+    },
+    "score": 0.665,
+    "summary": "The Miami Dolphins and defensive tackle Zach Sieler have agreed to a three-year contract extension worth up to $67.75 million. This deal makes Sieler the highest-paid defensive player on the team.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story offers basic awareness about a contract extension and its financial details, but it doesn't provide any deeper insight or context about the player's performance, the team's strategy, or the impact of this decision."
+  },
+  {
+    "title": "WWE SummerSlam Set for Two Nights at MetLife, Features Cena vs. Rhodes",
+    "domain": "sports",
+    "location": "national",
+    "published": "Sun, 03 Aug 2025 22:00:52 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "CBS Sports",
+      "Forbes"
+    ],
+    "domains": [
+      "sports",
+      "business"
+    ],
+    "snippets": [
+      "All the information you need to watch the WWE SummerSlam live event in East Rutherford, New Jersey",
+      "SummerSlam weekend takes over at MetLife Stadium with 12 matches set for the two-night event",
+      "WWE SummerSlam takes place in New Jersey on Saturday and Sunday",
+      "WWE SummerSlam 2025 Night 2 could top Night 1 with huge matches like Cena vs. Cody, Naomi’s triple threat, and a wild tag TLC match."
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/02/66d2b76f-ffcb-405a-bbd7-983507fd29c1/wwe-summerslam-2025-roman-reigns-pro-wrestling-news-today-aug-1-2025.jpg",
+    "titles": [
+      "WWE SummerSlam 2025 start time, date: Full schedule, matches, Night 2 card, where to watch live",
+      "2025 WWE SummerSlam predictions, card, start time, date, matches, expert picks for the epic two-night event",
+      "2025 WWE SummerSlam card: Matches, results, start time, lineup as John Cena vs. Cody Rhodes headlines Night 2",
+      "WWE SummerSlam 2025: What Time Does Night 2 Start On Sunday?"
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.991,
-      "consensus": 0.632,
-      "constructiveness": 0.5,
+      "recency": 0.81,
+      "consensus": 0.682,
+      "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.666,
-    "summary": "Zach Sieler, a defensive tackle for the Miami Dolphins, has secured a three-year contract extension worth up to $67.75 million, with $44 million guaranteed. This agreement was confirmed by his agent Drew Rosenhaus and reported by ESPN's Adam Schefter. The deal highlights the Dolphins' commitment to retaining Sieler and bolsters their defensive lineup.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about the contract extension of Zach Sieler with the Miami Dolphins. However, it doesn't offer deep insights into the implications of this move or how it might affect the team's performance in the future."
+    "score": 0.653,
+    "summary": "The WWE SummerSlam event is scheduled for a two-night affair at MetLife Stadium in East Rutherford, New Jersey. Across the weekend, a total of 12 matches will be featured, including a notable title defense by John Cena against Cody Rhodes. The event spans Saturday and Sunday, with specific start times and odds available for Sunday's matches, including the headline WWE title match.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about the WWE SummerSlam event, including its schedule, location, and key matches. It informs readers who are interested in the event, but it doesn't offer deeper insights into the significance of the matches or the strategies of the wrestlers."
   },
   {
-    "title": "Lyles Wins 200m at US Championships, Clash with Bednarek Ensues",
+    "title": "William Byron Wins NASCAR Cup Series at Iowa Speedway Amid Fuel Concerns",
     "domain": "sports",
     "location": "national",
-    "published": "Sun, 03 Aug 2025 23:35:36 +0000",
+    "published": "Mon, 04 Aug 2025 00:01:51 +0000",
     "source": "CBS Sports",
     "sources": [
-      "Yahoo Sports",
+      "Sportsnet",
       "CBS Sports"
     ],
     "domains": [
       "sports"
     ],
     "snippets": [
-      "Bednarek didn't appreciate Lyles staring him down at the finish line and gave him a shove and some words after the race",
-      "Noah Lyles stared down Kenny Bednarek while winning gold in the men’s 200 meters at the U.S. track and field championships."
+      "Byron's win is his first since the Daytona 500, and it also gives him the regular season points lead with three races to go",
+      "<p>William Byron fought off fuel worries in the closing laps to win the NASCAR Cup Series race Sunday at Iowa Speedway.</p>"
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/03/e1932c5f-919e-4ed1-9fcd-7c22a7c40167/lyles-bednarek.jpg",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/03/2df94811-cd61-43e0-b0e2-f7f752b8d806/gettyimages-2228392610.jpg",
     "titles": [
-      "WATCH: Noah Lyles taunts Kenny Bednarek after win in 200-meter final; Bednarek shoves him back",
-      "Noah Lyles taunted Kenny Bednarek as he won 200 at U.S. track and field championships"
+      "NASCAR at Iowa results: William Byron saves enough fuel to pick up his second win of the 2025 season",
+      "William Byron has enough fuel to win NASCAR Cup race at Iowa Speedway"
     ],
     "score_components": {
       "magnitude": 0.6,
-      "recency": 0.989,
+      "recency": 0.845,
       "consensus": 0.632,
-      "constructiveness": 0.3,
+      "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.646,
-    "summary": "At the U.S. track and field championships, Noah Lyles won gold in the men's 200 meters while staring down Kenny Bednarek at the finish line. Bednarek, feeling disrespected, shoved Lyles and exchanged words with him after the race. The incident highlighted tensions between the two athletes.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story offers basic awareness about the conflict between two athletes, Noah Lyles and Kenny Bednarek, at the U.S. track and field championships. However, it doesn't provide any deeper understanding or actionable insights for the reader."
+    "score": 0.647,
+    "summary": "William Byron secured a victory at the NASCAR Cup Series race at Iowa Speedway, overcoming concerns about fuel levels in the final laps. His win at the Iowa Corn 350 was confirmed as he managed to nurse his car to the finish line with enough fuel, leading his team to victory.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs about William Byron's victory at the NASCAR Cup Series race at Iowa Speedway, providing some context about the challenges he faced regarding fuel levels. However, it doesn't offer a deeper understanding of the race's significance, or how Byron and his team strategized to overcome the fuel concerns."
   },
   {
-    "title": "\"Fantastic Four: First Steps Sees 66% Box Office Drop, Still Tops Charts\"",
+    "title": "Crowdstrike: Daily Alerts on North Korean Developers in Tech Jobs",
     "domain": "business",
     "location": "global",
-    "published": "Sun, 03 Aug 2025 12:28:39 -0400",
+    "published": "Mon, 04 Aug 2025 07:03:00 +0000",
+    "source": "Fortune",
+    "sources": [
+      "Fortune"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "Cybersecurity firm Crowdstrike red-flags a new North Korean software development hire to clients just about once a day."
+    ],
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-842418008.jpg?w=2048",
+    "titles": [
+      "North Korean IT worker infiltrations exploded 220% over the past 12 months, with GenAI weaponized at every stage of the hiring process"
+    ],
+    "score_components": {
+      "magnitude": 0.189,
+      "recency": 0.978,
+      "consensus": 0.393,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.47,
+    "summary": "Cybersecurity firm Crowdstrike reports that it alerts clients to the hiring of North Korean software developers approximately once daily. This indicates a significant level of activity by North Korean developers in the global tech job market, as identified by Crowdstrike's monitoring efforts.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides useful information about the presence of North Korean developers in the global tech job market. However, it doesn't provide any actionable insights or solutions, nor does it provide a deep understanding of the implications or causes of this trend."
+  },
+  {
+    "title": "AI Powers Immersive Training Programs for Enhanced Skill Learning",
+    "domain": "business",
+    "location": "global",
+    "published": "Mon, 04 Aug 2025 03:00:00 -0400",
     "source": "Forbes",
     "sources": [
-      "Financial Post",
       "Forbes"
     ],
     "domains": [
       "business"
     ],
     "snippets": [
-      "The Marvel film saw a 66% drop for its second weekend after opening with $117.6 million.",
-      "LOS ANGELES (AP) &#8212; Marvel&#8217;s first family stumbled in theaters in its second weekend, but still held on to the top spot at the box office. &#8220;The Fantastic Four: First Steps&#8221; earned $40 million from 4,125 North American theaters, a 66% drop from a healthy $117.6 million debut. T"
+      "AI-created immersive training helps employees practice real skills, stay engaged, and learn in ways that go far beyond clicking through boring slides."
     ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/688f8e12133b9cc06db08cdb/0x0.jpg?width=960&precrop=3000%2C1688%2Cx0%2Cy77",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/688f7251ca8a83ba17ad617f/0x0.jpg?width=960",
     "titles": [
-      "‘The Fantastic Four: First Steps’ Lags Second Weekend With Only $40 Million After Strong Opening",
-      "‘The Fantastic Four: First Steps’ holds its lead atop the box office"
+      "The Top 5 AI-Created Immersive Training Experiences Used At Work"
     ],
     "score_components": {
-      "magnitude": 0.6,
-      "recency": 0.852,
-      "consensus": 0.632,
-      "constructiveness": 0.3,
+      "magnitude": 0.059,
+      "recency": 0.977,
+      "consensus": 0.393,
+      "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.618,
-    "summary": "\"The Fantastic Four: First Steps,\" a Marvel film, experienced a significant 66% decrease in its box office revenue during its second weekend, earning $40 million from 4,125 North American theaters. Despite this drop from its opening weekend of $117.6 million, the movie maintained the top position at the box office.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about the box office performance of a specific movie, but it does not offer any deeper understanding or actionable insights. It does not report on solutions, improvements, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts."
+    "score": 0.454,
+    "summary": "Artificial Intelligence (AI) is being used to develop immersive training programs that allow employees to practice real-world skills in an engaging manner. This innovative approach to learning surpasses traditional methods, such as slide-based training, by offering interactive experiences that enhance engagement and skill acquisition.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is highly constructive as it highlights an innovative solution (AI-powered immersive training) for enhanced skill learning. It provides actionable insights for businesses looking to improve their training programs, and it increases awareness about the potential uses of AI in education and training."
   },
   {
-    "title": "3,200 Boeing Workers to Strike Over Labor Agreement Dispute",
+    "title": "3,200 Boeing Workers Strike at Three Sites, Including Key F-47 Hub",
+    "domain": "business",
+    "location": "global",
+    "published": "2025-08-04T03:35:11Z",
+    "source": "Business Insider",
+    "sources": [
+      "Business Insider"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "The strike involves roughly 3,200 workers  at three Boeing sites, including its St. Louis hub, which is expected to be central to the F-47 program."
+    ],
+    "image_url": "https://i.insider.com/6890254d85e81483682f337e?format=jpeg",
+    "titles": [
+      "Thousands of Boeing workers who make the F-15 and F/A-18 fighter jets are on strike"
+    ],
+    "score_components": {
+      "magnitude": 0.169,
+      "recency": 0.91,
+      "consensus": 0.393,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.449,
+    "summary": "Approximately 3,200 workers across three Boeing sites, including the St. Louis hub crucial for the F-47 program, are on strike. The strike's impact on operations and negotiations for resolution remains ongoing.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about a significant labor dispute at a major corporation, which could affect supply chains and the broader economy. However, it does not delve into potential solutions or the root causes of the strike."
+  },
+  {
+    "title": "AI Simulates 4 Billion Atoms for Greener Concrete Revolution",
+    "domain": "science",
+    "location": "global",
+    "published": "Mon, 04 Aug 2025 03:29:10 +0000",
+    "source": "SciTechDaily",
+    "sources": [
+      "SciTechDaily"
+    ],
+    "domains": [
+      "science"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/concrete-reinvented-ai-simulates-4-billion-atoms-to-build-better-materials/\" rel=\"nofollow\" title=\"Concrete Reinvented: AI Simulates 4 Billion Atoms To Build Better Materials\"><img alt=\"Atoms Simuation Metal Spheres Art Concept\" class=\"webfeedsFeaturedVisual wp-post"
+    ],
+    "image_url": "",
+    "titles": [
+      "Concrete Reinvented: AI Simulates 4 Billion Atoms To Build Better Materials"
+    ],
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.908,
+      "consensus": 0.393,
+      "constructiveness": 0.9,
+      "proximity": 0.5
+    },
+    "score": 0.441,
+    "summary": "Researchers have utilized artificial intelligence to simulate the behavior of 4 billion atoms, aiming to create a more durable and environmentally friendly concrete. This innovative approach could revolutionize the construction industry by enhancing material properties, potentially leading to stronger, more sustainable building materials.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "The story clearly highlights an innovative solution for creating more sustainable and durable concrete, contributing to progress in the construction industry. It provides empowering knowledge about the potential of AI in revolutionizing material properties, thus offering actionable insights and deeper understanding."
+  },
+  {
+    "title": "Physicists Use Light to Control Semiconductors in Trillionths of a Second",
+    "domain": "science",
+    "location": "global",
+    "published": "Mon, 04 Aug 2025 03:54:20 +0000",
+    "source": "SciTechDaily",
+    "sources": [
+      "SciTechDaily"
+    ],
+    "domains": [
+      "science"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/physicists-harness-light-to-control-semiconductors-in-trillionths-of-a-second/\" rel=\"nofollow\" title=\"Physicists Harness Light To Control Semiconductors in Trillionths of a Second\"><img alt=\"Ultrathin Semiconductors Terahertz Light\" class=\"webfeedsFeaturedVisual wp-"
+    ],
+    "image_url": "",
+    "titles": [
+      "Physicists Harness Light To Control Semiconductors in Trillionths of a Second"
+    ],
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.916,
+      "consensus": 0.393,
+      "constructiveness": 0.9,
+      "proximity": 0.5
+    },
+    "score": 0.435,
+    "summary": "Physicists have developed a method to control semiconductors using light within trillionths of a second. This breakthrough, utilizing ultrathin semiconductors and terahertz light, enables rapid manipulation of semiconductor properties. This advancement could significantly impact the speed and efficiency of electronic devices in the future.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story is constructive as it informs readers about a significant scientific breakthrough, which could lead to improvements in electronic devices. It provides actionable insights into the future of technology and gives a deeper understanding of how semiconductors work."
+  },
+  {
+    "title": "Swiss Inflation Rise May Prompt Negative Interest Rate Reconsideration",
     "domain": "business",
     "location": "national",
-    "published": "Sun, 03 Aug 2025 20:45:59 +0000",
+    "published": "Mon, 04 Aug 2025 06:51:33 +0000",
     "source": "Financial Post",
     "sources": [
       "Financial Post"
@@ -744,23 +771,23 @@
       "business"
     ],
     "snippets": [
-      "NEW YORK (AP) &#8212; Boeing workers who build fighter jets are planning to go on strike Monday at midnight Central Standard Time. About 3,200 workers at Boeing facilities in St. Louis; St. Charles, Missouri; and Mascoutah, Illinois, voted to reject a modified four-year labor agreement with Boeing, "
+      "Swiss inflation unexpectedly accelerated, a reading that will be welcomed by policymakers mulling whether to reintroduce negative interest rates."
     ],
     "image_url": "",
     "titles": [
-      "Boeing workers who build fighter jets plan to go on strike"
+      "Swiss Inflation Unexpectedly Quickens, Offering SNB Respite"
     ],
     "score_components": {
-      "magnitude": 0.149,
-      "recency": 0.932,
+      "magnitude": 0.059,
+      "recency": 0.974,
       "consensus": 0.393,
-      "constructiveness": 0.8,
+      "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.467,
-    "summary": "Approximately 3,200 Boeing employees, involved in building fighter jets at facilities in St. Louis, St. Charles, Missouri, and Mascoutah, Illinois, are set to strike at midnight Central Standard Time on Monday. This decision comes after the workers voted to reject a modified four-year labor agreement with Boeing.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about a labor dispute involving Boeing employees. It increases clarity around the cause of the strike and its potential impacts. However, it does not report on any solutions or improvements to the situation, limiting its score."
+    "score": 0.434,
+    "summary": "Swiss inflation has unexpectedly increased, which may influence policymakers considering reintroducing negative interest rates. This development suggests a potential shift in economic conditions and could impact future monetary policy decisions in Switzerland.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "The story provides useful information about the potential shift in Switzerland's economic conditions and monetary policy. However, it does not offer any solutions or improvements, nor does it delve deeply into the causes, trends, or impacts."
   },
   {
     "title": "Columbia Scientists Create Yogurt-Based Healing Gel for Tissue Repair",
@@ -783,21 +810,52 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.977,
+      "recency": 0.827,
       "consensus": 0.393,
       "constructiveness": 1.0,
       "proximity": 0.5
     },
-    "score": 0.464,
+    "score": 0.434,
     "summary": "Columbia scientists have developed a healing gel made from yogurt that effectively repairs tissue damage. The gel, derived from a protein in yogurt, has shown promising results in healing wounds and injuries. This innovative approach could offer a natural and efficient solution for tissue regeneration. The research highlights the potential of utilizing food-based materials for medical applications.",
     "constructiveness_score": 1.0,
     "constructiveness_reason": "This story is highly constructive as it reports on an innovative solution to a problem, which is tissue damage. It provides readers with a deeper understanding of how food-based materials can be used in medical applications. The story also empowers readers by increasing their awareness of the potential of such materials for healing and tissue repair."
   },
   {
-    "title": "SK Innovation Partners with Western Automakers to Boost Battery Tech",
+    "title": "Nvidia's H20 Chips to Return to China Amid Lowered Expectations",
     "domain": "business",
     "location": "national",
-    "published": "Sun, 03 Aug 2025 22:28:48 +0000",
+    "published": "Mon, 04 Aug 2025 07:43:15 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "Nvidia’s H20 chips are set for a likely return to China, but experts don't expect them to be met with the same fanfare in light of new competition and regulatory scrutiny."
+    ],
+    "image_url": "",
+    "titles": [
+      "Nvidia's set to regain some China access. But it still faces eroding AI chip market share"
+    ],
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.971,
+      "consensus": 0.393,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.423,
+    "summary": "Nvidia's H20 chips are expected to make a comeback in China, but experts predict they won't receive the same level of excitement due to increased competition and regulatory challenges.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story offers useful insights into the tech industry, specifically the dynamics of Nvidia's market in China. However, it does not offer actionable insights for readers or discuss potential solutions to the challenges mentioned."
+  },
+  {
+    "title": "Swiss Stocks Plunge on US Tariff Concerns, Erase Year's Gains",
+    "domain": "business",
+    "location": "national",
+    "published": "Mon, 04 Aug 2025 07:32:11 +0000",
     "source": "Financial Post",
     "sources": [
       "Financial Post"
@@ -806,23 +864,116 @@
       "business"
     ],
     "snippets": [
-      "SK Innovation Co.’s battery unit plans to accelerate development of cutting-edge technologies in partnership with US and European carmakers, its R&#038;D chief said, aiming to win back market share from peers in China and South Korea."
+      "Swiss stocks dropped Monday, nearly erasing their gains for this year, on worries that US President Donald Trump’s punitive 39% export tariff on the country will dent corporate profits."
     ],
     "image_url": "",
     "titles": [
-      "Korea’s SK On Aims to Best Rivals With Next-Generation Batteries"
+      "Swiss Stocks Sink on Tariff Hit as Market Reopens From Holiday"
+    ],
+    "score_components": {
+      "magnitude": 0.079,
+      "recency": 0.988,
+      "consensus": 0.393,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.423,
+    "summary": "Swiss stocks fell significantly on Monday, almost wiping out their gains for the year. This decline was driven by concerns over a 39% export tariff imposed by US President Donald Trump on Switzerland. Investors fear this tariff could impact corporate profits.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story provides basic awareness of a significant market event and its potential impacts. However, it lacks depth or insight into the broader implications of the tariff, the reasons behind it, or potential solutions to the issue."
+  },
+  {
+    "title": "Concerns Rise Over Mental Health of Nuclear-Armed Leaders",
+    "domain": "science",
+    "location": "global",
+    "published": "Mon, 04 Aug 2025 03:04:21 +0000",
+    "source": "SciTechDaily",
+    "sources": [
+      "SciTechDaily"
+    ],
+    "domains": [
+      "science"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/dementia-depression-and-the-nuclear-button-the-shocking-reality-of-mental-decline-in-command/\" rel=\"nofollow\" title=\"Dementia, Depression, and the Nuclear Button: The Shocking Reality of Mental Decline in Command\"><img alt=\"Finger Pressing Red Nuclear Button\" class="
+    ],
+    "image_url": "",
+    "titles": [
+      "Dementia, Depression, and the Nuclear Button: The Shocking Reality of Mental Decline in Command"
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.966,
+      "recency": 0.9,
       "consensus": 0.393,
-      "constructiveness": 0.9,
+      "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.445,
-    "summary": "SK Innovation Co.'s battery division is partnering with US and European automakers to fast-track the development of advanced technologies. The company's R&D chief announced this strategy as a move to regain market share from competitors in China and South Korea.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive because it reports on a strategic partnership aimed at advancing battery technology. It gives readers an understanding of the competitive dynamics in the battery industry and how companies are innovating to stay ahead. It also highlights a solution to a problem, which is the need for better battery technology."
+    "score": 0.422,
+    "summary": "The article discusses concerns about the mental health of leaders with access to nuclear weapons, focusing on the risks posed by conditions like dementia and depression. It highlights the lack of safeguards to prevent leaders experiencing mental decline from making catastrophic decisions. The piece calls for more robust mechanisms to assess and manage the mental fitness of such individuals, emphasizing the potential global risks of inaction.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This article provides a useful perspective on the potential risks associated with the mental health of leaders with access to nuclear weapons. It increases awareness about a serious issue and calls for solutions, but it doesn't provide specific steps or actions to address the problem, which is why it doesn't score higher."
+  },
+  {
+    "title": "Mitsubishi to Acquire 13.81% Stake in Thai Union for $205M",
+    "domain": "business",
+    "location": "national",
+    "published": "Mon, 04 Aug 2025 06:51:54 +0000",
+    "source": "Financial Post",
+    "sources": [
+      "Financial Post"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "Mitsubishi Corp. is seeking to acquire an additional 13.81% stake in Thai Union Pcl for 6.65 billion baht ($205 million) as the Japanese conglomerate aims to deepen collaboration with the Thai seafood producer."
+    ],
+    "image_url": "",
+    "titles": [
+      "Mitsubishi to Raise Stake in Thai Union for $205 Million"
+    ],
+    "score_components": {
+      "magnitude": 0.059,
+      "recency": 0.974,
+      "consensus": 0.393,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.414,
+    "summary": "Mitsubishi Corp. plans to buy a 13.81% stake in Thai Union Pcl for $205 million to enhance ties with the Thai seafood company. Mitsubishi aims to strengthen its partnership with Thai Union through this acquisition.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "While this story provides basic awareness about a significant business deal, it doesn't provide much depth or insight into the implications of the deal, the reasons behind it, or the potential impacts on the industry or region. It also doesn't offer actionable insights for the reader."
+  },
+  {
+    "title": "India Continues Russian Oil Imports Amid US Pressure",
+    "domain": "business",
+    "location": "national",
+    "published": "Mon, 04 Aug 2025 07:47:24 +0000",
+    "source": "Financial Post",
+    "sources": [
+      "Financial Post"
+    ],
+    "domains": [
+      "business"
+    ],
+    "snippets": [
+      "At least four tankers discharged millions of barrels of Russian crude at Indian refineries at the weekend, a sign the closely scrutinized deliveries are continuing as normal, even as the US ramps up pressure on the South Asian country to stop purchases."
+    ],
+    "image_url": "",
+    "titles": [
+      "Tankers Deliver Russian Crude to India Despite US, EU Pressure"
+    ],
+    "score_components": {
+      "magnitude": 0.039,
+      "recency": 0.993,
+      "consensus": 0.393,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.41,
+    "summary": "Over the weekend, at least four tankers delivered millions of barrels of Russian crude oil to Indian refineries. This activity indicates that the transactions are proceeding as usual, despite increased pressure from the United States on India to halt its purchases of Russian oil.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story provides basic awareness about India's ongoing oil transactions with Russia amidst international pressure. However, it lacks depth and insight into the broader geopolitical and economic implications, and does not offer actionable insights or solutions."
   },
   {
     "title": "Study Links Poor Sleep and High Sugar Intake to Memory Decline",
@@ -845,12 +996,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.96,
+      "recency": 0.813,
       "consensus": 0.393,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.434,
+    "score": 0.404,
     "summary": "A study highlighted by SciTechDaily suggests a link between poor sleep and high sugar intake as factors contributing to memory decline. This combination is identified as detrimental to cognitive functions, particularly affecting memory. The research underscores the importance of healthy sleep patterns and diet in maintaining cognitive health.",
     "constructiveness_score": 0.8,
     "constructiveness_reason": "The story provides useful insights into the link between sleep, diet, and cognitive health, which can inform readers' decision-making about their own lifestyle habits. However, it does not report on specific solutions or innovations to address the problem of memory decline."
@@ -876,46 +1027,15 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.853,
+      "recency": 0.722,
       "consensus": 0.393,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.429,
+    "score": 0.403,
     "summary": "Digital twins, AI simulations of real-world systems, have the potential to significantly benefit environmental conservation efforts by optimizing energy use, reducing waste, and enhancing resource management. However, challenges such as data accuracy, privacy concerns, and the need for substantial computational resources must be addressed to fully realize their potential in aiding planetary sustainability.",
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story clearly highlights a potential solution (digital twins) for environmental conservation, and provides a balanced view by also discussing the challenges that need to be overcome. This gives readers a deeper understanding of the topic and its implications for sustainability."
-  },
-  {
-    "title": "Insect Found to Slow Aging, Sparks Human Research Hope",
-    "domain": "science",
-    "location": "global",
-    "published": "Sun, 03 Aug 2025 22:36:38 +0000",
-    "source": "SciTechDaily",
-    "sources": [
-      "SciTechDaily"
-    ],
-    "domains": [
-      "science"
-    ],
-    "snippets": [
-      "<a href=\"https://scitechdaily.com/this-tiny-insect-can-slow-its-own-aging-could-humans-be-next/\" rel=\"nofollow\" title=\"This Tiny Insect Can Slow Its Own Aging. Could Humans Be Next?\"><img alt=\"Clock Aging Time Old\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.c"
-    ],
-    "image_url": "",
-    "titles": [
-      "This Tiny Insect Can Slow Its Own Aging. Could Humans Be Next?"
-    ],
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.969,
-      "consensus": 0.393,
-      "constructiveness": 0.7,
-      "proximity": 0.5
-    },
-    "score": 0.426,
-    "summary": "Scientists have discovered that a specific tiny insect can slow down its aging process. This finding has sparked interest in the possibility of applying similar biological mechanisms to humans in the future. However, the current status of this research is at an early stage, focusing on understanding how this insect achieves slowed aging. No direct applications for human aging have been developed yet.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story provides useful awareness about a new scientific discovery and its potential implications for human aging. However, it does not provide actionable insights for readers or report on concrete progress towards a solution, as the research is still in its early stages."
   },
   {
     "title": "Arctic Research Finds Rain, Blooms Instead of Snow, Signaling Climate Shift",
@@ -938,83 +1058,21 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.838,
+      "recency": 0.71,
       "consensus": 0.393,
       "constructiveness": 0.9,
       "proximity": 0.5
     },
-    "score": 0.426,
+    "score": 0.401,
     "summary": "Scientists conducting research in the Arctic expected to find snow but instead encountered rain and blooming flowers, indicating significant climate change effects in the region. This unusual weather pattern highlights the rapid environmental transformations occurring in the Arctic, traditionally known for its cold and snowy landscape.",
     "constructiveness_score": 0.9,
     "constructiveness_reason": "This story clearly increases awareness around the impacts of climate change, providing a deeper understanding of the issue. While it does not offer specific solutions, it empowers readers with knowledge about the ongoing environmental transformations, which could influence decision-making and actions related to climate change."
   },
   {
-    "title": "Malibu Lots Where Wildfires Struck Sell for Millions",
-    "domain": "business",
-    "location": "global",
-    "published": "2025-08-03T23:49:21Z",
-    "source": "Business Insider",
-    "sources": [
-      "Business Insider"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "Homes burned to the ground in Malibu during a wildfire seven months ago. The now empty lots are selling for millions."
-    ],
-    "image_url": "https://i.insider.com/688fd8403d5881a51c1e8423?format=jpeg",
-    "titles": [
-      "Empty lots in Malibu destroyed by the LA fires are now on the market for millions"
-    ],
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.993,
-      "consensus": 0.393,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.42,
-    "summary": "Seven months after a wildfire destroyed homes in Malibu, the empty lots are now being sold for millions. The properties, once filled with houses, are now vacant due to the devastation caused by the fire. This highlights the lasting impact of natural disasters on communities and the real estate market.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the impact of wildfires on real estate prices and community structures. However, it doesn't offer any solutions or insights into how these impacts could be mitigated or prevented. Therefore, it is informative but not as constructive as it could be."
-  },
-  {
-    "title": "Transparency Key to Democracy, Ensures Accountability and Trust",
+    "title": "Insect Found to Slow Aging, Sparks Human Research Hope",
     "domain": "science",
     "location": "global",
-    "published": "Sun, 03 Aug 2025 11:00:09 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "domains": [
-      "science"
-    ],
-    "snippets": [
-      "Transparency is vital to our democratic system of government."
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/government.jpg",
-    "titles": [
-      "Governments are becoming increasingly secretive. Here's how they can be made to be more transparent"
-    ],
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.827,
-      "consensus": 0.393,
-      "constructiveness": 0.9,
-      "proximity": 0.5
-    },
-    "score": 0.417,
-    "summary": "Transparency in government is crucial for democracy. It ensures accountability and trust in the system. Citizens rely on transparency to understand how decisions are made and how public funds are used. Lack of transparency can lead to corruption and erode public confidence. It is essential for governments to be open and honest with their actions and decisions to maintain the integrity of the democratic process.",
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it provides readers with a deeper understanding of the role of transparency in democracy, contributing to their knowledge of political systems. It also emphasizes the importance of accountability, which can be seen as a solution to corruption, thus highlighting progress."
-  },
-  {
-    "title": "Land Greenery Up, Ocean Life Declines Amid Environmental Changes",
-    "domain": "science",
-    "location": "global",
-    "published": "Sun, 03 Aug 2025 16:05:58 +0000",
+    "published": "Sun, 03 Aug 2025 22:36:38 +0000",
     "source": "SciTechDaily",
     "sources": [
       "SciTechDaily"
@@ -1023,23 +1081,23 @@
       "science"
     ],
     "snippets": [
-      "<a href=\"https://scitechdaily.com/earth-is-getting-greener-but-the-oceans-are-losing-life/\" rel=\"nofollow\" title=\"Earth Is Getting Greener, But the Oceans Are Losing Life\"><img alt=\"Global Net Primary Production 2003 2021\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"458\" src=\"https://scitec"
+      "<a href=\"https://scitechdaily.com/this-tiny-insect-can-slow-its-own-aging-could-humans-be-next/\" rel=\"nofollow\" title=\"This Tiny Insect Can Slow Its Own Aging. Could Humans Be Next?\"><img alt=\"Clock Aging Time Old\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.c"
     ],
     "image_url": "",
     "titles": [
-      "Earth Is Getting Greener, But the Oceans Are Losing Life"
+      "This Tiny Insect Can Slow Its Own Aging. Could Humans Be Next?"
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.846,
+      "recency": 0.82,
       "consensus": 0.393,
-      "constructiveness": 0.8,
+      "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.411,
-    "summary": "Recent studies have shown that while the Earth's land areas are becoming greener, indicating an increase in vegetation, the oceans are experiencing a decline in life. This contrast highlights the different impacts of environmental changes on terrestrial and marine ecosystems. The increase in greenery on land is attributed to afforestation and agricultural expansion, whereas the oceans are suffering due to factors like pollution, overfishing, and climate change, leading to a decrease in marine biodiversity.",
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive as it provides a deeper understanding of the contrasting impacts of environmental changes on terrestrial and marine ecosystems. It increases clarity around the causes and impacts of these changes. However, it does not report on potential solutions or improvements."
+    "score": 0.396,
+    "summary": "Scientists have discovered that a specific tiny insect can slow down its aging process. This finding has sparked interest in the possibility of applying similar biological mechanisms to humans in the future. However, the current status of this research is at an early stage, focusing on understanding how this insect achieves slowed aging. No direct applications for human aging have been developed yet.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story provides useful awareness about a new scientific discovery and its potential implications for human aging. However, it does not provide actionable insights for readers or report on concrete progress towards a solution, as the research is still in its early stages."
   },
   {
     "title": "Mastercard denies pressuring game platforms, Valve tells a different story",
@@ -1062,12 +1120,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.946,
+      "recency": 0.801,
       "consensus": 0.393,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.411,
+    "score": 0.382,
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story informs readers about a dispute between major companies, which can be useful for understanding their operations and potential impacts on the gaming industry. However, without more context or details, it's hard to say whether it offers actionable insights or highlights solutions."
   },
@@ -1092,76 +1150,14 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.866,
+      "recency": 0.733,
       "consensus": 0.393,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.405,
+    "score": 0.379,
     "constructiveness_score": 0.7,
     "constructiveness_reason": "This story provides useful information for those in the tech and business sectors, as it reports on a significant corporate acquisition. However, without further details on the implications of this acquisition, it doesn't fully meet the criteria for progress or awareness."
-  },
-  {
-    "title": "Carney and Trump to Discuss Trade After Missing Deadline",
-    "domain": "business",
-    "location": "national",
-    "published": "Sun, 03 Aug 2025 17:55:38 +0000",
-    "source": "Financial Post",
-    "sources": [
-      "Financial Post"
-    ],
-    "domains": [
-      "business"
-    ],
-    "snippets": [
-      "Prime Minister Mark Carney and US President Donald Trump are expected to talk “over the next number of days,” a Canadian official said, after the two governments failed to reach a deal before an Aug. 1 tariff deadline."
-    ],
-    "image_url": "",
-    "titles": [
-      "Canadian Trade Envoy Still Sees Chance to Ease Trump’s Tariffs"
-    ],
-    "score_components": {
-      "magnitude": 0.059,
-      "recency": 0.878,
-      "consensus": 0.393,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.404,
-    "summary": "Prime Minister Mark Carney and US President Donald Trump plan to discuss trade talks soon, following their failure to meet the August 1st tariff deadline. This was confirmed by a Canadian official. The talks are aimed at resolving the issues that prevented a deal before the deadline.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs readers about the upcoming trade discussions between Prime Minister Mark Carney and US President Donald Trump. It provides context about the missed tariff deadline, contributing to the reader's understanding of the situation. However, it does not report on any specific solutions or improvements."
-  },
-  {
-    "title": "Summer Vacation Quality Varies Among Students",
-    "domain": "science",
-    "location": "global",
-    "published": "Sun, 03 Aug 2025 13:10:01 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "domains": [
-      "science"
-    ],
-    "snippets": [
-      "Summer is popularly imagined as bringing joy to all young people. Yet it is not an equal break or of the same quality for all students."
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/black-students-1.jpg",
-    "titles": [
-      "Accessible, high-quality summer programs and Black joy support Black children's return to school"
-    ],
-    "score_components": {
-      "magnitude": 0.039,
-      "recency": 0.865,
-      "consensus": 0.393,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.395,
-    "summary": "Summer vacation, often seen as a universally joyful time for youth, does not offer equal or consistent quality of break for all students. This disparity highlights the varying experiences and opportunities available to young people during the summer months.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story is constructive as it provides useful awareness about the disparity in summer vacation experiences among students. However, it does not provide actionable insights or report on solutions to this issue."
   },
   {
     "title": "Apple might be building its own AI ‘answer engine’",
@@ -1184,12 +1180,12 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.953,
+      "recency": 0.807,
       "consensus": 0.393,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.39,
+    "score": 0.36,
     "constructiveness_score": 0.3,
     "constructiveness_reason": "This story lacks a summary, making it difficult to evaluate its constructiveness. Based on the title alone, it may offer basic awareness about Apple's potential AI development, but without further information, it does not provide depth or insight."
   },
@@ -1214,12 +1210,12 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.806,
+      "recency": 0.682,
       "consensus": 0.393,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.38,
+    "score": 0.355,
     "constructiveness_score": 0.5,
     "constructiveness_reason": "This story offers basic awareness about a price change for a popular product, which could be relevant for consumers. However, it lacks depth or insight into why the price change occurred or what it might mean for consumers or the wider gaming industry."
   },
@@ -1244,12 +1240,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.809,
+      "recency": 0.686,
       "consensus": 0.393,
       "constructiveness": 0.2,
       "proximity": 0.5
     },
-    "score": 0.344,
+    "score": 0.319,
     "constructiveness_score": 0.2,
     "constructiveness_reason": "Without a summary or more context, it's hard to evaluate this story. The title suggests a conflict or controversy but doesn't provide actionable insights, solutions, or a clear understanding of the situation."
   },
@@ -1274,12 +1270,12 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.809,
+      "recency": 0.686,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.331,
+    "score": 0.306,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "Without a summary or more context, it's impossible to evaluate the constructiveness of this story."
   },
@@ -1304,12 +1300,12 @@
     ],
     "score_components": {
       "magnitude": 0.059,
-      "recency": 0.793,
+      "recency": 0.671,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.328,
+    "score": 0.303,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "Without a summary or more context, it's impossible to evaluate the constructiveness of this story."
   },
@@ -1334,12 +1330,12 @@
     ],
     "score_components": {
       "magnitude": 0.039,
-      "recency": 0.793,
+      "recency": 0.671,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.321,
+    "score": 0.296,
     "constructiveness_score": 0.0,
     "constructiveness_reason": ""
   }
