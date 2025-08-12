@@ -7,14 +7,14 @@
     "published": "Mon, 11 Aug 2025 19:50:34 -0400",
     "source": "NPR",
     "sources": [
-      "Deutsche Welle",
-      "Financial Post",
       "NPR",
-      "BBC"
+      "Deutsche Welle",
+      "BBC",
+      "Financial Post"
     ],
     "domains": [
-      "financialpost.com",
       "www.npr.org",
+      "financialpost.com",
       "www.dw.com",
       "www.bbc.com"
     ],
@@ -33,12 +33,12 @@
     ],
     "score_components": {
       "magnitude": 0.92,
-      "recency": 0.947,
+      "recency": 0.927,
       "consensus": 0.985,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.833,
+    "score": 0.829,
     "summary": "President Donald Trump announced his intention to nominate E.J. Antoni, a chief economist at the conservative Heritage Foundation, as the new commissioner of the Bureau of Labor Statistics (BLS). This decision follows Trump's firing of the previous commissioner, Erika McEntarfer, citing dissatisfaction with a recent jobs report and accusing her of manipulating data. Trump asserts that Antoni will provide \"honest and accurate\" employment data.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 66 tokens",
@@ -49,7 +49,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -60,16 +62,16 @@
     "published": "Mon, 11 Aug 2025 14:15:08 -0400",
     "source": "NPR",
     "sources": [
+      "NPR",
       "Axios",
       "The Guardian",
-      "NPR",
       "BBC"
     ],
     "domains": [
-      "www.theguardian.com",
       "www.npr.org",
-      "www.bbc.com",
-      "news.google.com"
+      "news.google.com",
+      "www.theguardian.com",
+      "www.bbc.com"
     ],
     "snippets": [
       "President Trump says he thinks Russian President Vladimir Putin is ready to end his war on Ukraine, but he will use a Friday summit to \"feel out\" his counterpart.",
@@ -86,92 +88,25 @@
     ],
     "score_components": {
       "magnitude": 0.96,
-      "recency": 0.843,
+      "recency": 0.825,
       "consensus": 0.985,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.826,
+    "score": 0.822,
     "summary": "President Trump plans to use a summit in Alaska on Friday to discuss the potential end of the war in Ukraine with Russian President Vladimir Putin. Trump mentioned the meeting would serve as a \"feel-out meeting\" to urge Russia towards peace and will include discussions on Ukraine's future borders, specifically the possibility of \"land swapping.\" This announcement follows Trump's expression of frustration with Ukrainian President Zelenskyy's conditions for a peace deal.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 75 tokens",
     "image": {
       "src": "icons/ukraine.svg",
       "thumbnail": "icons/ukraine.svg",
-      "alt": "ukraine",
+      "alt": "ukraine flag",
       "credit": "Twemoji",
       "license": "CC-BY-4.0",
       "provider": "local",
-      "source": "local"
-    }
-  },
-  {
-    "title": "Trump Extends Tariff Pause on Chinese Imports for 90 Days",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Tue, 12 Aug 2025 01:23:08 GMT",
-    "source": "BBC",
-    "sources": [
-      "Deutsche Welle",
-      "The Guardian",
-      "BBC",
-      "Axios",
-      "CNBC",
-      "Financial Post",
-      "New York Times",
-      "Al Jazeera"
-    ],
-    "domains": [
-      "financialpost.com",
-      "www.aljazeera.com",
-      "www.cnbc.com",
-      "www.theguardian.com",
-      "www.nytimes.com",
-      "www.bbc.com",
-      "news.google.com",
-      "www.dw.com"
-    ],
-    "snippets": [
-      "On Monday, President Trump signed an executive order to continue the tariffs pause for another 90 days.",
-      "US President Donald Trump signed an extension just before midnight in Beijing, when the pause was to expire.",
-      "The decision delays a trade showdown between the world's two biggest economies.",
-      "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9FNnZTQUw0dlRTUjdpTmpCTmRfWHJnbnNGTEtsVjhwVEdRaTRjOXVjV0FsbGFxQXVnUVJ1NHl1Sl85WmpxZERIeVFxRXo0Vk9wZFFoZW5xZ1ZMYnFNN1NRMjJXdU9ieElRbXZZS3VpMFU?oc=5\" target=\"_blank\">U.S., China extend tariff pause another 90 days</a>&nbsp;&nbsp;<font color=\"",
-      "President Donald Trump has signed an executive order that will prevent U.S. tariffs on Chinese goods from spiking for another 90 days.",
-      "<p>President signs executive order extending deadline for higher tariffs hours before agreement was due to expire</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/aug/11/donald-trump-washington-crime-homelessness-redistricting-tariffs-us-politics-news-live-updates\">US politics li",
-      "President Trump signed an executive order that offered a reprieve from the threat of escalating tariffs and export controls that have rocked the global economy.",
-      "Oil edged higher after President Donald Trump extended a pause of lofty US tariffs on China, adding to optimism that trade ties between the world’s two biggest economies are improving."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2b6/live/576dda70-770e-11f0-8c81-1388426461db.jpg",
-    "titles": [
-      "US and China extend tariff truce deadline to November",
-      "US to extend China tariff pause another 90 days",
-      "Trump, China extend tariffs pause for 90 more days",
-      "U.S., China extend tariff pause another 90 days - Axios",
-      "Trump extends China tariff deadline by 90 days",
-      "Trump announces another 90-day pause on China tariffs",
-      "Trump Extends China Tariff Truce",
-      "Oil Edges Higher After Trump Extends Tariff Pause on China"
-    ],
-    "score_components": {
-      "magnitude": 0.94,
-      "recency": 0.958,
-      "consensus": 1.0,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.821,
-    "summary": "President Donald Trump signed an executive order extending the pause on increasing tariffs against Chinese imports for another 90 days, just before the previous pause was set to expire at midnight in Beijing. This action prevents the expected rise in tariffs that was scheduled for Tuesday.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 46 tokens",
-    "image": {
-      "src": "icons/newspaper.svg",
-      "thumbnail": "icons/newspaper.svg",
-      "alt": "general",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": true
     }
   },
   {
@@ -182,16 +117,16 @@
     "published": "Mon, 11 Aug 2025 13:04:57 -0400",
     "source": "NPR",
     "sources": [
-      "Deutsche Welle",
-      "TechCrunch",
       "NPR",
-      "Ars Technica"
+      "Ars Technica",
+      "Deutsche Welle",
+      "TechCrunch"
     ],
     "domains": [
-      "arstechnica.com",
       "www.npr.org",
-      "www.dw.com",
-      "techcrunch.com"
+      "arstechnica.com",
+      "techcrunch.com",
+      "www.dw.com"
     ],
     "snippets": [
       "The president said that Nvidia would pay the government in exchange for easing export restrictions — and that he'd initially asked for a larger cut.",
@@ -208,83 +143,24 @@
     ],
     "score_components": {
       "magnitude": 0.94,
-      "recency": 0.823,
+      "recency": 0.805,
       "consensus": 0.985,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.815,
+    "score": 0.811,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 16 tokens",
     "image": {
-      "src": "icons/light-bulb.svg",
-      "thumbnail": "icons/light-bulb.svg",
-      "alt": "technology",
+      "src": "icons/cpu.svg",
+      "thumbnail": "icons/cpu.svg",
+      "alt": "chip",
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
-    }
-  },
-  {
-    "title": "Explosion at Pennsylvania Steel Plant Kills One, Leaves One Missing",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Tue, 12 Aug 2025 01:29:17 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC",
-      "Axios",
-      "ABC News",
-      "Al Jazeera",
-      "Business Insider"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "www.theguardian.com",
-      "www.bbc.com",
-      "news.google.com",
-      "abcnews.go.com",
-      "www.businessinsider.com"
-    ],
-    "snippets": [
-      "A second death is confirmed after a search operation for a missing person stretched into Monday evening.",
-      "The massive US Steel coking plant is the largest such facility in North America.",
-      "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQU5KNWZuU24yWHJjSGdnVFNOR2YyMFpTZ3BlRXc1cG8tRlZ5QkdXYU9ldW5yN0R4UFdTZHJ4Y0hQLU5MODhEaC1tMkl4WnVid05sSlVfbWZXeFQ3Z3dVZ1dYbjNRM196cVBzb0htOUdtSDBNMGxsbnh3VS13SzNwV0k3WElfVU9ZWW8tMV9JcVVHQQ?oc=5\" target=\"_blank\">At least 2 dead and 10 injure",
-      "One person has died, one is unaccounted for and 10 are injured following an explosion at a Pennsylvania steel plant on Monday, local police said.",
-      "<p>Two people missing and several injured as rescue operation under way at coking facility in Clairton</p><p>One person has died and two are believed to be unaccounted for after an explosion at a US Steel plant in <a href=\"https://www.theguardian.com/us-news/pennsylvania\">Pennsylvania</a>, near Pitt",
-      "The explosion took place at the US Steel Clairton Coke Works plant, located south of Pittsburgh, Pennsylvania."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/994f/live/2d9e3ce0-771c-11f0-a975-cb151ca452f4.jpg",
-    "titles": [
-      "Two dead and 10 injured in Pennsylvania steel plant explosion",
-      "One dead, dozens injured in steel plant explosion in Pennsylvania",
-      "At least 2 dead and 10 injured in explosions at U.S. Steel Clairton plant - Axios",
-      "WATCH:  One dead, 10 injured in explosion at Pennsylvania steel plant, officials say",
-      "Explosion ‘like thunder’ at Pennsylvania US Steel plant leaves at least one dead",
-      "One dead, one missing after explosion at US Steel plant in Pennsylvania"
-    ],
-    "score_components": {
-      "magnitude": 0.9,
-      "recency": 0.96,
-      "consensus": 1.0,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.807,
-    "summary": "An explosion at the US Steel Clairton Coke Works plant in Pennsylvania resulted in one death, one person missing, and 10 injuries. The incident occurred south of Pittsburgh at North America's largest coking facility. The cause of the explosion is currently unknown, and a search and rescue operation is underway for the missing individual.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 55 tokens",
-    "image": {
-      "src": "icons/newspaper.svg",
-      "thumbnail": "icons/newspaper.svg",
-      "alt": "general",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -292,19 +168,19 @@
     "domain": "general",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Tue, 12 Aug 2025 00:41:40 GMT",
+    "published": "Tue, 12 Aug 2025 01:37:05 GMT",
     "source": "Axios",
     "sources": [
+      "CNBC",
       "Axios",
       "MarketWatch",
-      "CNBC",
       "The Guardian"
     ],
     "domains": [
-      "www.marketwatch.com",
-      "www.theguardian.com",
+      "news.google.com",
       "www.cnbc.com",
-      "news.google.com"
+      "www.theguardian.com",
+      "www.marketwatch.com"
     ],
     "snippets": [
       "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9yNXNQcUpRYTkwc3VRRlgyTzZzSmJrYjFMSjJDRmJKdDVCYVlITF81bGZlQWRRVk1xbWFBM3IzMGF5b3lYdkZmZUd2QUp0Z091d3g1RGRXcV9fQ0JseEJUZUQ1YWRjQ1VrTUVlTkVkR2hSaXBzS1d4akhQMjI3RXc?oc=5\" target=\"_blank\">Trump names Heritage's E.J. Antoni to lead Bureau of Lab",
@@ -317,13 +193,13 @@
     "titles": [
       "Trump names Heritage's E.J. Antoni to lead Bureau of Labor Statistics - Axios",
       "Trump says he's nominating E.J. Antoni as Bureau of Labor Statistics commissioner",
-      "Trump nominates chief economist at rightwing Heritage Foundation to lead Bureau of Labor Statistics –as it happened",
+      "Trump nominates chief economist at rightwing Heritage Foundation to lead Bureau of Labor Statistics – as it happened",
       "Trump nominates Heritage Foundation economist as labor statistics chief",
       "Trump picks conservative economist E.J. Antoni to lead Bureau of Labor Statistics"
     ],
     "score_components": {
       "magnitude": 0.92,
-      "recency": 0.944,
+      "recency": 0.942,
       "consensus": 0.985,
       "constructiveness": 0.0,
       "proximity": 0.5
@@ -339,7 +215,139 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Explosion at Pennsylvania Steel Plant Kills One, Leaves One Missing",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Tue, 12 Aug 2025 01:29:17 GMT",
+    "source": "BBC",
+    "sources": [
+      "Axios",
+      "BBC",
+      "Business Insider",
+      "Al Jazeera",
+      "The Guardian",
+      "ABC News"
+    ],
+    "domains": [
+      "abcnews.go.com",
+      "www.theguardian.com",
+      "www.aljazeera.com",
+      "www.bbc.com",
+      "news.google.com",
+      "www.businessinsider.com"
+    ],
+    "snippets": [
+      "A second death is confirmed after a search operation for a missing person stretched into Monday evening.",
+      "The massive US Steel coking plant is the largest such facility in North America.",
+      "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQU5KNWZuU24yWHJjSGdnVFNOR2YyMFpTZ3BlRXc1cG8tRlZ5QkdXYU9ldW5yN0R4UFdTZHJ4Y0hQLU5MODhEaC1tMkl4WnVid05sSlVfbWZXeFQ3Z3dVZ1dYbjNRM196cVBzb0htOUdtSDBNMGxsbnh3VS13SzNwV0k3WElfVU9ZWW8tMV9JcVVHQQ?oc=5\" target=\"_blank\">Explosions at U.S. Steel plan",
+      "One person has died, one is unaccounted for and 10 are injured following an explosion at a Pennsylvania steel plant on Monday, local police said.",
+      "<p>Second fatality reported after body of one worker pulled from wreckage of coking facility in Clairton after explosion sent black smoke into the sky</p><p>An explosion at a US Steel plant in <a href=\"https://www.theguardian.com/us-news/pennsylvania\">Pennsylvania</a>, near Pittsburgh, has killed tw",
+      "The explosion took place at the US Steel Clairton Coke Works plant, located south of Pittsburgh, Pennsylvania."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/994f/live/2d9e3ce0-771c-11f0-a975-cb151ca452f4.jpg",
+    "titles": [
+      "Two dead and 10 injured in Pennsylvania steel plant explosion",
+      "One dead, dozens injured in steel plant explosion in Pennsylvania",
+      "Explosions at U.S. Steel plant leave 2 dead, 10 injured - Axios",
+      "WATCH:  One dead, 10 injured in explosion at Pennsylvania steel plant, officials say",
+      "Explosion ‘like thunder’ at Pennsylvania US Steel plant leaves two dead",
+      "One dead, one missing after explosion at US Steel plant in Pennsylvania"
+    ],
+    "score_components": {
+      "magnitude": 0.9,
+      "recency": 0.94,
+      "consensus": 1.0,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.803,
+    "summary": "An explosion at the US Steel Clairton Coke Works plant in Pennsylvania resulted in one death, one person missing, and 10 injuries. The incident occurred south of Pittsburgh at North America's largest coking facility. The cause of the explosion is currently unknown, and a search and rescue operation is underway for the missing individual.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 55 tokens",
+    "image": {
+      "src": "icons/newspaper.svg",
+      "thumbnail": "icons/newspaper.svg",
+      "alt": "general",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Trump Extends Tariff Pause on Chinese Imports for 90 Days",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Mon, 11 Aug 2025 20:35:12 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Deutsche Welle",
+      "Axios",
+      "CNBC",
+      "MarketWatch",
+      "Al Jazeera",
+      "The Guardian",
+      "New York Times"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.dw.com",
+      "www.marketwatch.com",
+      "www.nytimes.com",
+      "www.aljazeera.com",
+      "news.google.com",
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "US President Donald Trump signed an extension just before midnight in Beijing, when the pause was to expire.",
+      "The decision delays a trade showdown between the world's two biggest economies.",
+      "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9FNnZTQUw0dlRTUjdpTmpCTmRfWHJnbnNGTEtsVjhwVEdRaTRjOXVjV0FsbGFxQXVnUVJ1NHl1Sl85WmpxZERIeVFxRXo0Vk9wZFFoZW5xZ1ZMYnFNN1NRMjJXdU9ieElRbXZZS3VpMFU?oc=5\" target=\"_blank\">U.S., China extend tariff pause another 90 days</a>&nbsp;&nbsp;<font color=\"",
+      "President Donald Trump has signed an executive order that will prevent U.S. tariffs on Chinese goods from spiking for another 90 days.",
+      "<p>President signs executive order extending deadline for higher tariffs hours before agreement was due to expire</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/aug/11/donald-trump-washington-crime-homelessness-redistricting-tariffs-us-politics-news-live-updates\">US politics li",
+      "President Trump’s order continues a reprieve from the threat of escalating tariffs and export controls, which rocked the global economy earlier this year.",
+      "U.S. levies on Chinese goods like toys, footwear and furniture could rise sharply if a deal is not approved by Tuesday’s deadline."
+    ],
+    "image_url": "",
+    "titles": [
+      "US to extend China tariff pause another 90 days",
+      "Trump, China extend tariffs pause for 90 more days",
+      "U.S., China extend tariff pause another 90 days - Axios",
+      "Trump extends China tariff deadline by 90 days",
+      "Trump announces another 90-day pause on China tariffs",
+      "Trump Extends China Tariff Truce by Three Months",
+      "Trump extends trade truce with China. What it means for tariffs."
+    ],
+    "score_components": {
+      "magnitude": 0.94,
+      "recency": 0.866,
+      "consensus": 1.0,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.802,
+    "summary": "President Donald Trump signed an executive order extending the pause on increasing tariffs against Chinese imports for another 90 days, just before the previous pause was set to expire at midnight in Beijing. This action prevents the expected rise in tariffs that was scheduled for Tuesday.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 46 tokens",
+    "image": {
+      "src": "icons/china.svg",
+      "thumbnail": "icons/china.svg",
+      "alt": "chinese flag",
+      "credit": "Twemoji",
+      "license": "CC-BY-4.0",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": true
     }
   },
   {
@@ -352,16 +360,16 @@
     "sources": [
       "Deutsche Welle",
       "BBC",
-      "New York Times",
+      "Al Jazeera",
       "LA Times",
-      "Al Jazeera"
+      "New York Times"
     ],
     "domains": [
-      "www.aljazeera.com",
       "www.latimes.com",
+      "www.dw.com",
       "www.nytimes.com",
-      "www.bbc.com",
-      "www.dw.com"
+      "www.aljazeera.com",
+      "www.bbc.com"
     ],
     "snippets": [
       "Sharif was killed when Israel targeted a tent used by media in northern Gaza, alongside six others, Al Jazeera said.",
@@ -380,12 +388,12 @@
     ],
     "score_components": {
       "magnitude": 0.96,
-      "recency": 0.809,
+      "recency": 0.792,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.798,
+    "score": 0.794,
     "summary": "Anas al-Sharif, a 28-year-old Al Jazeera reporter with a significant social media following, and four colleagues were killed in an Israeli airstrike targeting a media tent in northern Gaza. Israel has accused al-Sharif of being a Hamas operative, a claim disputed by Al Jazeera. This incident is part of a broader conflict in which nearly 270 journalists and media workers have been killed since Israel launched its war on Gaza.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 74 tokens",
@@ -396,7 +404,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -408,22 +418,24 @@
     "source": "BBC",
     "sources": [
       "Deutsche Welle",
-      "Financial Times",
-      "BBC",
       "Axios",
+      "BBC",
       "CNBC",
+      "Financial Times",
+      "Al Jazeera",
       "LA Times",
-      "Al Jazeera"
+      "The Guardian"
     ],
     "domains": [
-      "www.ft.com",
-      "www.aljazeera.com",
       "www.latimes.com",
-      "www.cnbc.com",
+      "www.dw.com",
+      "www.bbc.co.uk",
+      "www.theguardian.com",
+      "www.aljazeera.com",
       "www.bbc.com",
       "news.google.com",
-      "www.bbc.co.uk",
-      "www.dw.com"
+      "www.cnbc.com",
+      "www.ft.com"
     ],
     "snippets": [
       "The president also takes control of the city's police force, as the mayor rejects his claims of a crime wave.",
@@ -434,6 +446,7 @@
       "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQakxHQVgzZ19lVkx0YVpKYVlud28zb0F0bmh3UGlRU1ZRenNzNmVKNXpFcmE3NE56RjNTRklVTktLU0RSR2dfaVY5UlZMZUlORWFwWWlsNWJ0SnpkQ1V5cUt6QzZ0LWN0UDZlVUNHX2xOWXlyUFBpYzhsNm8yMmdSeS1Tc2FpU2ExTlZv?oc=5\" target=\"_blank\">Trump to deploy National Guard to D.C. ",
       "Trump in a social media post on Sunday declared that \"the Homeless\" in Washington, D.C., will \"have to move out.\"",
       "Mayor Muriel Bowser acknowledges crime ‘spike’ in 2023 but says there has been a sharp decline since",
+      "<p>President claims US capital ‘overtaken by violent gangs and bloodthirsty criminals … and homeless people’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/aug/11/donald-trump-washington-crime-homelessness-redistricting-tariffs-us-politics-news-live-updates\">US politics – live ",
       "<p>Trump is invoking Section 740 of the District of Columbia Home Rule Act that places the Metropolitan Police Department under direct federal control.</p>"
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8608/live/ea34de40-76ef-11f0-a20f-3b86f375586a.jpg",
@@ -446,16 +459,17 @@
       "Trump to deploy National Guard to D.C. and federalize city police - Axios",
       "Trump puts Washington, DC, police under federal control, deploys National Guard",
       "Trump deploys National Guard in Washington over ‘safety emergency’",
+      "Trump seizes control of Washington DC police and deploys national guard",
       "Trump expands L.A. military tactics by sending National Guard to Washington, D.C."
     ],
     "score_components": {
       "magnitude": 0.92,
-      "recency": 0.848,
+      "recency": 0.83,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.792,
+    "score": 0.788,
     "summary": "President Donald Trump announced plans to deploy the National Guard and take control of Washington D.C.'s Metropolitan Police Department, citing concerns over crime and homelessness. Despite Trump's claims of the city being \"overtaken\" by criminals and gangs, police statistics indicate a significant decrease in violent crimes in recent years. D.C.'s mayor has criticized the comparison to a war-torn country as exaggerated and misleading. Trump's actions are based on invoking section 740 of the District of Columbia Home Rule Act.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 86 tokens",
@@ -466,7 +480,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -477,14 +493,14 @@
     "published": "Mon, 11 Aug 2025 21:47:58 EST",
     "source": "ESPN",
     "sources": [
-      "ESPN",
       "Sports Illustrated",
-      "CBS Sports"
+      "CBS Sports",
+      "ESPN"
     ],
     "domains": [
-      "www.espn.com",
+      "www.cbssports.com",
       "news.google.com",
-      "www.cbssports.com"
+      "www.espn.com"
     ],
     "snippets": [
       "Browns defensive end Myles Garrett was issued a citation for speeding on the interstate in a Cleveland suburb early Saturday morning, according to court records, after he was clocked going 100 mph in a 60 mph zone.",
@@ -499,12 +515,12 @@
     ],
     "score_components": {
       "magnitude": 0.8,
-      "recency": 0.987,
+      "recency": 0.966,
       "consensus": 0.897,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.777,
+    "score": 0.772,
     "summary": "Browns defensive end Myles Garrett was cited for speeding early Saturday in a Cleveland suburb after being caught driving 100 mph in a 60 mph zone, as per court records. This incident adds to Garrett's history of speeding tickets, highlighting a recurring issue with traffic violations.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 47 tokens",
@@ -515,48 +531,56 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
-    "title": "Cannabis Stocks Surge as Trump Considers Reclassifying Marijuana",
+    "title": "Australia to Recognize Palestinian State at UN, Aligns with Allies",
     "domain": "general",
-    "source_domain": "www.aljazeera.com",
+    "source_domain": "www.dw.com",
     "location": "global",
-    "published": "Tue, 12 Aug 2025 01:32:08 +0000",
-    "source": "Al Jazeera",
+    "published": "2025-08-11T11:18:00Z",
+    "source": "Deutsche Welle",
     "sources": [
+      "Deutsche Welle",
       "Axios",
-      "CNBC",
-      "Al Jazeera"
+      "New York Times",
+      "Washington Post"
     ],
     "domains": [
-      "www.aljazeera.com",
-      "www.cnbc.com",
-      "news.google.com"
+      "www.nytimes.com",
+      "news.google.com",
+      "www.washingtonpost.com",
+      "www.dw.com"
     ],
     "snippets": [
-      "Cannabis stocks soar after US president says he is &#039;looking at&#039; reclassification.",
-      "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaE9CbGNBWklSS2E3VHRUcWlYb3llY2U5UVIxQUZyLTlaZnBWT2thcFIyWTY1RkFJZ1pGSnZsbFJ0X1hGeDEwcWNqcGZSUVFzTENNMjY3eWRfLW10SkwwUWpDajRmYVFyeU5NN1pPUnVoQ0VCX3NHckN2NnBGOVFwSV9maWxVMEk1UGVNZjV5TnY3Zlk?oc=5\" target=\"_blank\">Trump \"looking at reclassifi",
-      "Trump said he's considering reclassifying marijuana's danger level. That drove cannabis stocks up Monday."
+      "Despite widespread international recognition of Palestine as a state, many Western nations say they will only endorse Palestinian statehood as part of a comprehensive peace agreement with Israel.",
+      "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1YQzZidTlNWnRPYWN4SjRTOGZNYVlLeWtWcUFkN0M0UVdLZEF5UGo4cWpSR3g5Z0IxanYwNTA5OEVlMG9naVlGZld6Wjg2dGlkZWxMbEdlandZU0NXaTlNUHF4NjZnVEdnRjJXU1FiU1dIbkZ2LVlBc2ln?oc=5\" target=\"_blank\">Australia will recognize a Palestinian state, PM Albanese says<",
+      "Anger over Israel’s conduct in Gaza has left it increasingly isolated as key allies move toward declarations of Palestinian statehood.",
+      "Canberra is the latest U.S. ally to announce such a move in the face of growing global outrage over the dire humanitarian situation in Gaza.",
+      "After similar announcements by France, Britain and Canada, Australia said it would act at the United Nations General Assembly session next month."
     ],
     "image_url": "",
     "titles": [
-      "Trump says he may reclassify cannabis as less dangerous drug",
-      "Trump \"looking at reclassification\" of marijuana as less dangerous drug - Axios",
-      "Cannabis stocks rally after Trump says he is weighing drug reclassification"
+      "Which countries recognize Palestinian statehood?",
+      "Australia will recognize a Palestinian state, PM Albanese says - Axios",
+      "Here are countries that recognize a Palestinian state — or may do so soon",
+      "Australia to recognize a Palestinian state, joining France, Canada and U.K.",
+      "Australia to Recognize Palestinian Statehood"
     ],
     "score_components": {
-      "magnitude": 0.82,
-      "recency": 0.981,
-      "consensus": 0.897,
-      "constructiveness": 0.0,
+      "magnitude": 0.9,
+      "recency": 0.714,
+      "consensus": 0.985,
+      "constructiveness": 0.053,
       "proximity": 0.5
     },
-    "score": 0.757,
-    "summary": "Cannabis stocks surged after US President Trump mentioned considering reclassifying marijuana's danger level. This led to a significant increase in cannabis stock prices on Monday. The potential reclassification by the president sparked optimism in the cannabis industry, driving up investor interest and stock values.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 45 tokens",
+    "score": 0.759,
+    "summary": "Australia, led by Prime Minister Anthony Albanese, has announced it will recognize a Palestinian state at the upcoming UN General Assembly. This decision aligns with actions by France, Canada, and the UK, and comes amid international concerns over the humanitarian situation in Gaza. Albanese highlighted that a two-state solution offers the best hope for ending the conflict and suffering in the region. New Zealand is also considering a similar stance, with a decision expected soon.",
+    "constructiveness_score": 0.053,
+    "constructiveness_reason": "1 constructive keywords out of 76 tokens",
     "image": {
       "src": "icons/newspaper.svg",
       "thumbnail": "icons/newspaper.svg",
@@ -564,56 +588,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
-    }
-  },
-  {
-    "title": "Ryker Evans Signs 2-Year Extension with Seattle Kraken",
-    "domain": "sports",
-    "source_domain": "www.nbcsports.com",
-    "location": "national",
-    "published": "Tue, 12 Aug 2025 02:08:14 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sportsnet",
-      "Yahoo Sports",
-      "NHL"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "news.google.com",
-      "www.nbcsports.com"
-    ],
-    "snippets": [
-      "Evans, 23, recorded 25 points on five goals and 20 assists in 73 games during his first full season with the Kraken.",
-      "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQWlRjbml3b0Z5TG9BcUp6ZS1JTndSVm5QQk14S256SHJnblh3YTRBc1JxRE5ERjBkZUtQNWZ3c3RIYjdtZ1dUTTh3eWxGM0xFWThDSlRtUVRjOFV0dWx3N2NGZ3RwUUtCMVphZDZ1ZUFPRXcybEZGSkZQR1dpZXpnY3ZNc2JtaThTUlNFdg?oc=5\" target=\"_blank\">Ryker Evans Agrees To 2-Year Extensio",
-      "<p>The Seattle Kraken have locked up their lone remaining unsigned player from last season.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Defenseman Ryker Evans agrees to 2-year extension with Seattle Kraken",
-      "Ryker Evans Agrees To 2-Year Extension - NHL.com",
-      "Kraken sign defenceman Ryker Evans to two-year, $4.1M contract"
-    ],
-    "score_components": {
-      "magnitude": 0.8,
-      "recency": 0.994,
-      "consensus": 0.897,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.753,
-    "summary": "Ryker Evans, 23, signed a 2-year extension with the Seattle Kraken after a successful first full season where he tallied 25 points from 5 goals and 20 assists in 73 games. This deal secures the last unsigned player from the team's previous season roster.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 46 tokens",
-    "image": {
-      "src": "icons/trophy.svg",
-      "thumbnail": "icons/trophy.svg",
-      "alt": "sports",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -624,14 +601,14 @@
     "published": "Mon, 11 Aug 2025 17:46:39 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Fortune",
       "Business Insider",
+      "Fortune",
       "Al Jazeera"
     ],
     "domains": [
+      "www.businessinsider.com",
       "fortune.com",
-      "www.aljazeera.com",
-      "www.businessinsider.com"
+      "www.aljazeera.com"
     ],
     "snippets": [
       "US President Trump said last week that Intel’s CEO Lip-Bu Tan was &#039;highly conflicted&#039; due to ties with Chinese firms.",
@@ -646,12 +623,12 @@
     ],
     "score_components": {
       "magnitude": 0.82,
-      "recency": 0.835,
+      "recency": 0.817,
       "consensus": 0.897,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.728,
+    "score": 0.725,
     "summary": "Last week, US President Donald Trump labeled Intel CEO Lip-Bu Tan as \"highly conflicted\" due to connections with Chinese companies, expressing his concerns on Truth Social. However, Trump later referred to Tan as a \"success\" and announced plans for Tan and Cabinet members to collaborate and bring forward suggestions to him in the coming week.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 56 tokens",
@@ -662,56 +639,60 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
-    "title": "Paramount Secures Exclusive Rights to UFC Broadcasts in $7.7B Deal",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Mon, 11 Aug 2025 15:50:50 GMT",
-    "source": "Axios",
+    "title": "La Liga Approves First-Ever US Game: Villarreal vs Barcelona in Miami",
+    "domain": "sports",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Mon, 11 Aug 2025 17:31:31 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "Axios",
-      "CNBC",
-      "Forbes"
+      "Sportsnet",
+      "Al Jazeera",
+      "Yahoo Sports"
     ],
     "domains": [
-      "www.cnbc.com",
-      "news.google.com",
-      "www.forbes.com"
+      "www.sportsnet.ca",
+      "www.aljazeera.com",
+      "onefootball.com"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5hR3hXUnpTRnJhVTRWTFhmRURjT0VPM1JabUNaYkZRako4ZVFEZkV1YVRlRGhoc0JWUmxVdVRFLXZmSjR1Z0dBWnpHTUg1aHRSd0VWNVdFR01SX0stYWoxT0hNOXFBNmNPQnRfTHREMl84cEtRVEE3V0YtSQ?oc=5\" target=\"_blank\">UFC, Paramount strike new deal for $7.7 billion over 7 years<",
-      "The Paramount deal will eliminate the pay-per-view model used by ESPN in its current UFC deal, making all events available for no extra charge on Paramount+.",
-      "UFC's CEO reveals why he wanted David Ellison's muscle behind his MMA giant, why pay-per-view events no longer work, and what a potential UFC fight at the White House would look like on CBS."
+      "Spain&#039;s football federation has approved a request for Villarreal&#039;s home La Liga game with Barcelona to move to Miami.",
+      "La Liga eyes first ever official match in the United StatesHistoric Move on the Horizon: Villarreal vs Barcelona Could Be Played in MiamiSpanish football could witness landmark moment as La Liga's pus...",
+      "<p>The Spanish league is closer to playing a regular-season game in the United States.</p>\n<p>The Spanish soccer federation on Monday approved a request for the match between Villarreal and Barcelona to be played in Miami on Dec. 20.</p>"
     ],
     "image_url": "",
     "titles": [
-      "UFC, Paramount strike new deal for $7.7 billion over 7 years - Axios",
-      "Paramount buys UFC rights in $7.7 billion, 7-year deal in first major move post-Skydance merger",
-      "Dana White On How UFC Landed Its Blockbuster $7.7 Billion Streaming Deal With Paramount"
+      "Barcelona and Villarreal set for La Liga game at Messi’s Miami",
+      "Historic Move on the Horizon: Villarreal vs Barcelona Could Be Played in Miami",
+      "Spanish league proposes Barcelona and Villarreal play regular-season game in Miami"
     ],
     "score_components": {
       "magnitude": 0.8,
-      "recency": 0.785,
+      "recency": 0.813,
       "consensus": 0.897,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.711,
-    "summary": "Paramount has entered a seven-year, $7.7 billion agreement to become the exclusive U.S. broadcaster of Ultimate Fighting Championship (UFC) events, starting in 2026. This deal, the first major agreement following Paramount's merger with Skydance, will see UFC events move from ESPN to Paramount+, eliminating the current pay-per-view model and making all events available at no additional cost to subscribers.",
+    "score": 0.717,
+    "summary": "The Spanish football federation has approved Villarreal and Barcelona's La Liga match to be played in Miami on December 20. This decision marks a significant step towards hosting the first-ever official La Liga game in the United States, potentially setting a historic milestone for Spanish football.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 65 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 48 tokens",
     "image": {
-      "src": "icons/briefcase.svg",
-      "thumbnail": "icons/briefcase.svg",
-      "alt": "business",
+      "src": "icons/trophy.svg",
+      "thumbnail": "icons/trophy.svg",
+      "alt": "sports",
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -719,17 +700,17 @@
     "domain": "technology",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Mon, 11 Aug 2025 15:37:29 GMT",
+    "published": "Mon, 11 Aug 2025 18:07:32 GMT",
     "source": "Axios",
     "sources": [
+      "Ars Technica",
       "Axios",
-      "TechCrunch",
-      "Ars Technica"
+      "TechCrunch"
     ],
     "domains": [
-      "arstechnica.com",
       "techcrunch.com",
-      "news.google.com"
+      "news.google.com",
+      "arstechnica.com"
     ],
     "snippets": [
       "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1EeklEczZkc1JFa1BWRjZGbmF5ZG1QbGFHWDJEQkxWWTQ3MVpxeDluMnFFbVE3b2dtcHJFaXZUUUE3d3VoUWRtMXdIUEtjVXBlbmJEN21WX2pVa180QU1ydkQyS0NoTFN5bzJDcA?oc=5\" target=\"_blank\">Exclusive: GitHub CEO to step down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</fo",
@@ -744,12 +725,12 @@
     ],
     "score_components": {
       "magnitude": 0.8,
-      "recency": 0.782,
+      "recency": 0.806,
       "consensus": 0.897,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.711,
+    "score": 0.715,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 7 tokens",
     "image": {
@@ -759,7 +740,60 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Paramount Secures Exclusive Rights to UFC Broadcasts in $7.7B Deal",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Mon, 11 Aug 2025 15:50:50 GMT",
+    "source": "Axios",
+    "sources": [
+      "Forbes",
+      "CNBC",
+      "Axios"
+    ],
+    "domains": [
+      "www.forbes.com",
+      "news.google.com",
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5hR3hXUnpTRnJhVTRWTFhmRURjT0VPM1JabUNaYkZRako4ZVFEZkV1YVRlRGhoc0JWUmxVdVRFLXZmSjR1Z0dBWnpHTUg1aHRSd0VWNVdFR01SX0stYWoxT0hNOXFBNmNPQnRfTHREMl84cEtRVEE3V0YtSQ?oc=5\" target=\"_blank\">UFC, Paramount strike new deal for $7.7 billion over 7 years<",
+      "The Paramount deal will eliminate the pay-per-view model used by ESPN in its current UFC deal, making all events available for no extra charge on Paramount+.",
+      "UFC's CEO reveals why he wanted David Ellison's muscle behind his MMA giant, why pay-per-view events no longer work, and what a potential UFC fight at the White House would look like on CBS."
+    ],
+    "image_url": "",
+    "titles": [
+      "UFC, Paramount strike new deal for $7.7 billion over 7 years - Axios",
+      "Paramount buys UFC rights in $7.7 billion, 7-year deal in first major move post-Skydance merger",
+      "Dana White On How UFC Landed Its Blockbuster $7.7 Billion Streaming Deal With Paramount"
+    ],
+    "score_components": {
+      "magnitude": 0.8,
+      "recency": 0.769,
+      "consensus": 0.897,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.708,
+    "summary": "Paramount has entered a seven-year, $7.7 billion agreement to become the exclusive U.S. broadcaster of Ultimate Fighting Championship (UFC) events, starting in 2026. This deal, the first major agreement following Paramount's merger with Skydance, will see UFC events move from ESPN to Paramount+, eliminating the current pay-per-view model and making all events available at no additional cost to subscribers.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 65 tokens",
+    "image": {
+      "src": "icons/briefcase.svg",
+      "thumbnail": "icons/briefcase.svg",
+      "alt": "business",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -770,12 +804,12 @@
     "published": "Mon, 11 Aug 2025 21:47:58 EST",
     "source": "ESPN",
     "sources": [
-      "ESPN",
-      "CBS Sports"
+      "CBS Sports",
+      "ESPN"
     ],
     "domains": [
-      "www.espn.com",
-      "www.cbssports.com"
+      "www.cbssports.com",
+      "www.espn.com"
     ],
     "snippets": [
       "Alabama players were informed that Ty Simpson would be the team's starting quarterback on Monday, sources said.",
@@ -788,12 +822,12 @@
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.987,
+      "recency": 0.966,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.688,
+    "score": 0.684,
     "summary": "Ty Simpson has been officially named Alabama's starting quarterback for the 2025 season, winning the position for the first time in his career. After a competitive process, Head Coach Kalen DeBoer announced the decision, choosing Simpson over Austin Mack and Keelon Russe. The Alabama football team was informed of Simpson's new role on Monday, Aug. 11, ahead of their game against FSU.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 64 tokens",
@@ -804,7 +838,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -815,12 +851,12 @@
     "published": "Mon, 11 Aug 2025 20:55:06 EST",
     "source": "ESPN",
     "sources": [
-      "ESPN",
-      "Sports Illustrated"
+      "Sports Illustrated",
+      "ESPN"
     ],
     "domains": [
-      "www.espn.com",
-      "news.google.com"
+      "news.google.com",
+      "www.espn.com"
     ],
     "snippets": [
       "How did rookies and top free agent acquisitions fare in the NFL's first full preseason week?",
@@ -833,12 +869,12 @@
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.969,
+      "recency": 0.948,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.684,
+    "score": 0.68,
     "summary": "In the NFL's first full preseason week, rookies and top free agent acquisitions showcased their talents, with varying degrees of success. Specific performances, such as that of Tyler Shough, were highlighted, indicating a focus on individual achievements and potential impacts on their teams. The overall assessment of these players' performances provides insights into their readiness for the regular season and their potential contribution to their teams' successes.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 68 tokens",
@@ -849,7 +885,9 @@
       "credit": "Twemoji",
       "license": "CC-BY-4.0",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -860,12 +898,12 @@
     "published": "Mon, 11 Aug 2025 19:51:38 EDT",
     "source": "Sportsnet",
     "sources": [
-      "Sportsnet",
-      "CityNews"
+      "CityNews",
+      "Sportsnet"
     ],
     "domains": [
-      "ottawa.citynews.ca",
-      "www.sportsnet.ca"
+      "www.sportsnet.ca",
+      "ottawa.citynews.ca"
     ],
     "snippets": [
       "<p>A new downtown arena for the Ottawa Senators has sometimes seemed like a more distant hope than a Stanley Cup. On Monday, one of those dreams took a leap forward. </p>",
@@ -878,12 +916,12 @@
     ],
     "score_components": {
       "magnitude": 0.72,
-      "recency": 0.948,
+      "recency": 0.928,
       "consensus": 0.682,
       "constructiveness": 0.123,
       "proximity": 0.5
     },
-    "score": 0.674,
+    "score": 0.67,
     "summary": "The Ottawa Senators have made significant progress toward building a new arena in Ottawa's downtown area by agreeing with the National Capital Commission on the purchase of 4.5 hectares (11 acres) of land at LeBreton Flats. This development moves the team closer to realizing the long-discussed project, marking a key milestone in the efforts to secure a new venue for the team.",
     "constructiveness_score": 0.123,
     "constructiveness_reason": "2 constructive keywords out of 65 tokens",
@@ -894,44 +932,93 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
-    "title": "U.S.-China Trade Truce Deadline Looms, Tariffs May Rise on Consumer Goods",
-    "domain": "business",
-    "source_domain": "abcnews.go.com",
+    "title": "Astros Beat Red Sox 7-6, Urías and McCormick Shine",
+    "domain": "sports",
+    "source_domain": "sports.yahoo.com",
     "location": "national",
-    "published": "Mon, 11 Aug 2025 20:26:04 -0400",
-    "source": "ABC News",
+    "published": "Tue, 12 Aug 2025 03:06:18 +0000",
+    "source": "Yahoo Sports",
     "sources": [
-      "MarketWatch",
-      "ABC News"
+      "Sportsnet",
+      "Yahoo Sports"
     ],
     "domains": [
-      "www.marketwatch.com",
-      "abcnews.go.com"
+      "sports.yahoo.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
-      "Ahead of the trade truce, the current tariff rate on Chinese imports was 145%.",
-      "U.S. levies on Chinese goods like toys, footwear and furniture could rise sharply if a deal is not approved by Tuesday’s deadline."
+      "Ramón Urías had three hits with a two-run homer and Chas McCormick hit his first homer this season as the Houston Astros built a big lead and held on for a 7-6 win over the Boston Red Sox on Monday night.  Carlos Correa hit an RBI single to help the Astros to the victory after they were swept in Bos",
+      "<p>Ramón Urías had three hits with a two-run homer and Chas McCormick hit his first homer this season as the Houston Astros built a big lead and held on for a 7-6 win over the Boston Red Sox on Monday night.</p>"
     ],
-    "image_url": "https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-250811_1754923283197_hpMain_4x3t_384.jpg",
+    "image_url": "",
     "titles": [
-      "Trump admin live updates: Trump signs 90-day extension for trade truce with China",
-      "Trump extends trade truce with China. What it means for tariffs."
+      "Astros hold off Red Sox rally for 7-6 win, Urías and McCormick homer",
+      "Astros hold off Red Sox in Bregman’s return to Houston"
     ],
     "score_components": {
-      "magnitude": 0.74,
-      "recency": 0.959,
+      "magnitude": 0.7,
+      "recency": 0.992,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.671,
-    "summary": "Before the trade truce, the U.S. had a 145% tariff rate on Chinese imports. If a deal isn't approved by Tuesday, tariffs on items like toys, footwear, and furniture could increase significantly.",
+    "score": 0.664,
+    "summary": "The Houston Astros secured a 7-6 victory over the Boston Red Sox, with notable performances from Ramón Urías, who had three hits including a two-run homer, and Chas McCormick, who hit his first homer of the season. Carlos Correa also contributed with an RBI single. This win comes after the Astros were previously swept by the Red Sox.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 34 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 60 tokens",
+    "image": {
+      "src": "icons/trophy.svg",
+      "thumbnail": "icons/trophy.svg",
+      "alt": "sports",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Apple Integrates ChatGPT Amid Musk's Antitrust Criticism",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Tue, 12 Aug 2025 03:22:03 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC",
+      "Business Insider"
+    ],
+    "domains": [
+      "www.businessinsider.com",
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "Apple has tied up with OpenAI to integrate ChatGPT into its iPhone, iPad and Mac laptop and desktop products.",
+      "Musk said in an X post that Apple's actions were an \"unequivocal antitrust violation.\""
+    ],
+    "image_url": "",
+    "titles": [
+      "Musk threatens 'immediate' legal action against Apple over alleged antitrust violations",
+      "Elon Musk is threatening to sue Apple for what he says are antitrust violations related to Grok's rankings"
+    ],
+    "score_components": {
+      "magnitude": 0.7,
+      "recency": 0.977,
+      "consensus": 0.682,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.661,
+    "summary": "Apple has partnered with OpenAI to incorporate ChatGPT into its iPhone, iPad, and Mac devices. Elon Musk criticized Apple, alleging it committed an \"unequivocal antitrust violation.\" The outcome of this situation is ongoing, with Apple's integration of ChatGPT being the current focus.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 43 tokens",
     "image": {
       "src": "icons/briefcase.svg",
       "thumbnail": "icons/briefcase.svg",
@@ -939,44 +1026,46 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
-    "title": "Gerrit Cole Advances in Recovery, Completes 20 Throws Post-Surgery",
+    "title": "Detroit Lions' Norris Back, Enters Concussion Protocol After Injury",
     "domain": "sports",
-    "source_domain": "www.nbcsports.com",
+    "source_domain": "www.cbssports.com",
     "location": "national",
-    "published": "Tue, 12 Aug 2025 01:54:54 +0000",
-    "source": "Yahoo Sports",
+    "published": "Mon, 11 Aug 2025 23:36:07 +0000",
+    "source": "CBS Sports",
     "sources": [
       "Sportsnet",
-      "Yahoo Sports"
+      "CBS Sports"
     ],
     "domains": [
-      "www.sportsnet.ca",
-      "www.nbcsports.com"
+      "www.cbssports.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
-      "Cole began his throwing program five months after getting an internal brace inserted into his elbow.",
-      "<p>Yankees ace Gerrit Cole took another step in his recovery from Tommy John surgery on his right elbow by making 20 throws off flat ground on Monday.</p>"
+      "The team plans to ease Norris back into football activities",
+      "<p>Detroit Lions safety Morice Norris, who was taken off the field in an ambulance late in a pre-season game last week, is in concussion protocol and doing well, coach Dan Campbell said Monday.</p>"
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/10/5fa947d2-998e-48bf-a595-d3c5ab4a8ede/norris.jpg",
     "titles": [
-      "Yankees ace Gerrit Cole throws off flat ground as he recovers from Tommy John surgery",
-      "Yankees’ Gerrit Cole throws off flat ground as he recovers from Tommy John surgery"
+      "Morice Norris injury: Lions safety in concussion protocol but 'doing well' after scary hit vs. Falcons",
+      "Lions’ Norris, who left game in ambulance, in concussion protocol"
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.989,
+      "recency": 0.923,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.663,
-    "summary": "Five months after receiving an internal brace for his elbow, Yankees pitcher Gerrit Cole has progressed in his recovery from Tommy John surgery. On Monday, he completed 20 throws off flat ground, marking a significant step forward in his rehabilitation process.",
+    "score": 0.65,
+    "summary": "Detroit Lions safety Morice Norris, who suffered a serious injury during a preseason game and was taken off the field in an ambulance, is now back with the team and has entered concussion protocol. According to Coach Dan Campbell, Norris is \"doing well\" following the incident.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 41 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 46 tokens",
     "image": {
       "src": "icons/trophy.svg",
       "thumbnail": "icons/trophy.svg",
@@ -984,97 +1073,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
-    }
-  },
-  {
-    "title": "Yankees' Warren Pitches 6 2/3 Innings in 6-2 Win Over Twins",
-    "domain": "sports",
-    "source_domain": "sports.yahoo.com",
-    "location": "national",
-    "published": "Tue, 12 Aug 2025 01:44:06 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sportsnet",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "sports.yahoo.com"
-    ],
-    "snippets": [
-      "Will Warren gave up three hits and two runs in 6 2/3 innings to become the first New York Yankees starting pitcher to get an out in the seventh inning in a month in a 6-2 win over the Minnesota Twins on Monday night.  Warren (7-5), who allowed homers to Byron Buxton and Trevor Larnach, struck out se",
-      "<p>Will Warren gave up three hits and two runs in 6 2/3 innings to become the first New York Yankees starting pitcher to get an out in the seventh inning in a month in a 6-2 win over the Minnesota Twins on Monday night.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Warren pitches 6 2/3 innings to lead the Yankees to 6-2 win over the Twins",
-      "Warren pitches Yankees to win over Twins"
-    ],
-    "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.985,
-      "consensus": 0.682,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.662,
-    "summary": "Will Warren of the New York Yankees pitched 6 2/3 innings, allowing three hits and two runs in a 6-2 victory against the Minnesota Twins. This performance marked the first time in a month a Yankees starter lasted into the seventh inning. Warren, with a record of 7-5, conceded home runs to Byron Buxton and Trevor Larnach during the game.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 63 tokens",
-    "image": {
-      "src": "icons/trophy.svg",
-      "thumbnail": "icons/trophy.svg",
-      "alt": "sports",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local"
-    }
-  },
-  {
-    "title": "Byron Buxton Returns to Twins After 13-Game Absence, Boosts Team Unity",
-    "domain": "sports",
-    "source_domain": "www.twincities.com",
-    "location": "national",
-    "published": "Tue, 12 Aug 2025 01:41:00 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sportsnet",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "www.twincities.com"
-    ],
-    "snippets": [
-      "NEW YORK — Two days after the trade deadline had passed, Byron Buxton and Christian Vázquez, two of the most veteran players remaining in the Twins’ clubhouse, convened a team dinner. The group dined at Morton’s steakhouse in downtown Cleveland. Over the course of the previous few days, nearly 40 pe",
-      "<p>The Minnesota Twins reinstated centre fielder Byron Buxton from the 10-day injured list on Monday before beginning a three-game series against the New York Yankees, after the All-Star missed 13 games with inflammation in his left rib cage.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Byron Buxton returns from injured list but Twins fall to Yankees",
-      "Twins reinstate Byron Buxton from injured list to begin series vs. Yankees"
-    ],
-    "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.984,
-      "consensus": 0.682,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.662,
-    "summary": "Byron Buxton was reinstated by the Minnesota Twins from the 10-day injured list after missing 13 games due to inflammation in his left rib cage. This move came just before the team started a three-game series against the New York Yankees. Additionally, Buxton, along with Christian Vázquez, organized a team dinner at Morton’s steakhouse in downtown Cleveland, following the trade deadline, emphasizing team unity amidst the season's challenges.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 72 tokens",
-    "image": {
-      "src": "icons/trophy.svg",
-      "thumbnail": "icons/trophy.svg",
-      "alt": "sports",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1103,23 +1104,72 @@
     ],
     "score_components": {
       "magnitude": 0.72,
-      "recency": 0.897,
+      "recency": 0.878,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.652,
+    "score": 0.648,
     "summary": "President Trump met with Intel CEO Lip-Bu Tan to discuss the company's struggles in chip manufacturing. During the meeting, Tan offered suggestions on how the government could assist the industry. This comes shortly after Trump publicly called for Tan's resignation.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 43 tokens",
     "image": {
-      "src": "icons/briefcase.svg",
-      "thumbnail": "icons/briefcase.svg",
-      "alt": "business",
+      "src": "icons/cpu.svg",
+      "thumbnail": "icons/cpu.svg",
+      "alt": "chip",
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Dolphins' Mattison Out for Season, Team Signs Replacement RB",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Mon, 11 Aug 2025 22:48:43 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Sports Illustrated",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.cbssports.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "Miami's running back suffered a season-ending injury in the first preseason game",
+      "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHJ0X0NsenlmUlFid3lab3pDbU5LT2FST3pDSHNlVFBJUHFqYTJSQ1FwOEdJbzFMVFk3NFRMeXJHSTQwN0JaTklQYmRXNlVibnM1b3Q0cmJoeVcwU2xRYVlKazhxaDFpSnhxZFJVNjZEMWlMUkZDSC1ZR1ZfWVdmZ0FlRGVZVE9DelBtOEpR?oc=5\" target=\"_blank\">Dolphins Lose RB Alexander Mattison"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/11/b0b21f66-49fe-4b5e-8436-80ba5ebb978c/mattison.jpg",
+    "titles": [
+      "Dolphins RB Alexander Mattison placed on season-ending injured reserve after neck surgery",
+      "Dolphins Lose RB Alexander Mattison for 2025 After He Suffered Preseason Neck Injury - Sports Illustrated"
+    ],
+    "score_components": {
+      "magnitude": 0.7,
+      "recency": 0.908,
+      "consensus": 0.682,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.647,
+    "summary": "Miami Dolphins' running back Alexander Mattison suffered a season-ending injury during the team's first preseason game. As a result, the Dolphins have found a new running back to replace him. The team is making adjustments to cope with the loss as they prepare for the upcoming season.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 49 tokens",
+    "image": {
+      "src": "icons/trophy.svg",
+      "thumbnail": "icons/trophy.svg",
+      "alt": "sports",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1134,8 +1184,8 @@
       "TechCrunch"
     ],
     "domains": [
-      "www.theverge.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "www.theverge.com"
     ],
     "snippets": [
       "Revel is shutting down its ridehail business, citing heightened competition from rideshare leaders like Uber and Lyft. The company, which began as an electric moped business before shifting to rideshare, plans to pivot to electric vehicle charging. “At the end of the day, rideshare is a very competi",
@@ -1148,12 +1198,12 @@
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.858,
+      "recency": 0.84,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.637,
+    "score": 0.634,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 8 tokens",
     "image": {
@@ -1163,7 +1213,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1192,12 +1244,12 @@
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.832,
+      "recency": 0.814,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.632,
+    "score": 0.628,
     "summary": "Starting in October, ESPN and Fox will provide a bundled direct-to-consumer streaming service. This bundle will allow subscribers to save $10 monthly compared to signing up for the separate stand-alone services, which are set to launch in August.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 41 tokens",
@@ -1208,7 +1260,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1237,23 +1291,25 @@
     ],
     "score_components": {
       "magnitude": 0.72,
-      "recency": 0.787,
+      "recency": 0.771,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.63,
+    "score": 0.627,
     "summary": "NASA's Lunar Trailblazer mission, aimed at mapping water on the Moon, was declared lost a day after its launch. Despite initial success, contact with the spacecraft was unexpectedly lost, and recovery efforts have since failed, marking an early end to the mission.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 43 tokens",
     "image": {
-      "src": "icons/beaker.svg",
-      "thumbnail": "icons/beaker.svg",
-      "alt": "science",
+      "src": "icons/telescope.svg",
+      "thumbnail": "icons/telescope.svg",
+      "alt": "nasa",
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1264,8 +1320,8 @@
     "published": "2025-08-11T13:00:00-04:00",
     "source": "The Verge",
     "sources": [
-      "The Verge",
-      "Ars Technica"
+      "Ars Technica",
+      "The Verge"
     ],
     "domains": [
       "www.theverge.com",
@@ -1282,12 +1338,12 @@
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.822,
+      "recency": 0.804,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.63,
+    "score": 0.626,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 6 tokens",
     "image": {
@@ -1297,44 +1353,42 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
-    "title": "Trump Proposes \"MAGA\" Stock Listing for Fannie Mae, Freddie Mac",
+    "title": "Lee Jae Myung to Meet Trump in Washington for Trade, Defense Talks",
     "domain": "business",
-    "source_domain": "news.google.com",
+    "source_domain": "financialpost.com",
     "location": "national",
-    "published": "Mon, 11 Aug 2025 13:37:13 GMT",
-    "source": "Axios",
+    "published": "Tue, 12 Aug 2025 02:52:40 +0000",
+    "source": "Financial Post",
     "sources": [
-      "Axios",
-      "Forbes"
+      "Financial Post"
     ],
     "domains": [
-      "news.google.com",
-      "www.forbes.com"
+      "financialpost.com"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE85QWpkZmFvRVd1MERTeDcyRm11b0l3XzBIU0JxYWk4Rk9raUpHYXB0eDlyRldwWmkxbTRoOW1VWWpxNVNVbk1MMHRSUFFieHpHZHQ1NTBJU0FwZEdSNFFQSGwzQTRMc1VYYVhJcVhBWmZDdW9i?oc=5\" target=\"_blank\">Trump suggests \"MAGA\" stock listing for mortgage giants Fannie, Freddie",
-      "Trump has said he wants to take government backed mortgage giants Fannie Mae and Freddie Mac public. But it remains unclear if they will remain under conservatorship or how their shares will be valued."
+      "SEOUL, South Korea (AP) &#8212; South Korea&#8217;s new President Lee Jae Myung will travel to Washington later this month to meet with U.S. President Donald Trump, Lee&#8217;s office said Tuesday, for talks on trade and defense cooperation in the face of nuclear-armed North Korea and other threats."
     ],
     "image_url": "",
     "titles": [
-      "Trump suggests \"MAGA\" stock listing for mortgage giants Fannie, Freddie - Axios",
-      "Why The Trump Administration’s MAGA Stock Dreams For Fannie And Freddie Could Be A Windfall For Wall Street"
+      "South Korean President Lee will travel to Washington for Aug. 25 meeting with Trump"
     ],
     "score_components": {
-      "magnitude": 0.72,
-      "recency": 0.75,
-      "consensus": 0.682,
+      "magnitude": 0.42,
+      "recency": 0.988,
+      "consensus": 0.393,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.623,
-    "summary": "Former President Trump has proposed taking the government-backed mortgage entities Fannie Mae and Freddie Mac public through a \"MAGA\" stock listing. The details regarding whether they will continue under federal conservatorship or how their shares will be valued remain unspecified.",
+    "score": 0.518,
+    "summary": "South Korea's President Lee Jae Myung is set to meet U.S. President Donald Trump in Washington later this month, as announced by Lee's office. The talks will focus on trade and defense cooperation, addressing concerns over North Korea's nuclear capabilities and other threats.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 41 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 47 tokens",
     "image": {
       "src": "icons/briefcase.svg",
       "thumbnail": "icons/briefcase.svg",
@@ -1342,52 +1396,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
-    }
-  },
-  {
-    "title": "Bone Fragments Solve 1959 Mystery of Meteorologist's Disappearance",
-    "domain": "science",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Mon, 11 Aug 2025 09:05:51 GMT",
-    "source": "BBC",
-    "sources": [
-      "New Scientist",
-      "BBC"
-    ],
-    "domains": [
-      "www.newscientist.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "His brother tells BBC News that he had lost hope he would ever be found.",
-      "Bone fragments found on King George Island have been identified as Dennis \"Tink\" Bell, a British meteorologist who fell into a crevasse in 1959"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2179/live/854f9a60-763b-11f0-a975-cb151ca452f4.jpg",
-    "titles": [
-      "British man who perished in Antarctic glacier found 65 years later",
-      "Lost researcher's remains found on Antarctic glacier after 66 years"
-    ],
-    "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.682,
-      "consensus": 0.682,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.602,
-    "summary": "In 1959, British meteorologist Dennis \"Tink\" Bell fell into a crevasse on King George Island. For decades, his fate remained unknown. Recently, bone fragments discovered on the island have been conclusively identified as Bell's, according to his brother's statement to BBC News. This discovery finally resolves the long-standing mystery of Bell's disappearance, providing closure to his family.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 61 tokens",
-    "image": {
-      "src": "icons/beaker.svg",
-      "thumbnail": "icons/beaker.svg",
-      "alt": "science",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1412,23 +1423,25 @@
     ],
     "score_components": {
       "magnitude": 0.44,
-      "recency": 0.988,
+      "recency": 0.967,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.5,
+    "score": 0.496,
     "summary": "As of day 1,265 of the conflict, detailed updates from Ukraine continue to be reported. The situation remains dynamic, with ongoing military and civilian impacts. Specific events or outcomes from this particular day were not provided, indicating the conflict's persistent and evolving nature.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 45 tokens",
     "image": {
       "src": "icons/ukraine.svg",
       "thumbnail": "icons/ukraine.svg",
-      "alt": "ukraine",
+      "alt": "ukraine flag",
       "credit": "Twemoji",
       "license": "CC-BY-4.0",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": true
     }
   },
   {
@@ -1453,12 +1466,12 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.972,
+      "recency": 0.951,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.483,
+    "score": 0.478,
     "summary": "Mineros has agreed to purchase an additional 80% stake in the La Pepa Project for $40 million, adding to its existing holdings. As of October 31, 2021, the La Pepa Project's estimated mineral resources include 58,816 thousand tonnes of measured resources with an average of 0.61 g/t Au, totaling 1,150 thousand ounces of gold.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 59 tokens",
@@ -1469,7 +1482,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1494,22 +1509,24 @@
     ],
     "score_components": {
       "magnitude": 0.42,
-      "recency": 0.931,
+      "recency": 0.911,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.481,
+    "score": 0.477,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 14 tokens",
     "image": {
-      "src": "icons/light-bulb.svg",
-      "thumbnail": "icons/light-bulb.svg",
-      "alt": "technology",
+      "src": "icons/robot.svg",
+      "thumbnail": "icons/robot.svg",
+      "alt": "ai",
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1534,12 +1551,12 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.96,
+      "recency": 0.94,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.48,
+    "score": 0.476,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 17 tokens",
     "image": {
@@ -1549,7 +1566,52 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "US Movement to Introduce Chaplains in Public Schools",
+    "domain": "science",
+    "source_domain": "phys.org",
+    "location": "global",
+    "published": "Mon, 11 Aug 2025 15:29:26 EDT",
+    "source": "Phys.org",
+    "sources": [
+      "Phys.org"
+    ],
+    "domains": [
+      "phys.org"
+    ],
+    "snippets": [
+      "There is an ongoing push to make chaplains available in public schools across the United States. Chaplains, also called spiritual caregivers, are religious professionals who work in secular institutions and can be of any tradition or none at all."
+    ],
+    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/chaplain.jpg",
+    "titles": [
+      "Schools are looking for chaplains, but the understanding of who and what chaplains are varies widely"
+    ],
+    "score_components": {
+      "magnitude": 0.42,
+      "recency": 0.847,
+      "consensus": 0.393,
+      "constructiveness": 0.103,
+      "proximity": 0.5
+    },
+    "score": 0.475,
+    "summary": "There is a movement in the United States to introduce chaplains, or spiritual caregivers, into public schools. These professionals, who may belong to any religious tradition or none, aim to work within these secular institutions to provide spiritual support.",
+    "constructiveness_score": 0.103,
+    "constructiveness_reason": "1 constructive keywords out of 39 tokens",
+    "image": {
+      "src": "icons/beaker.svg",
+      "thumbnail": "icons/beaker.svg",
+      "alt": "science",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1574,12 +1636,12 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.955,
+      "recency": 0.935,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.479,
+    "score": 0.475,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 11 tokens",
     "image": {
@@ -1589,7 +1651,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1614,23 +1678,25 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.894,
+      "recency": 0.875,
       "consensus": 0.393,
       "constructiveness": 0.073,
       "proximity": 0.5
     },
-    "score": 0.474,
+    "score": 0.471,
     "summary": "A Canadian carbon dioxide removal company is conducting experiments on treating mining waste to enhance CO2 capture and storage. This initiative aims to reduce atmospheric carbon levels by leveraging the byproducts of mining operations. The current status of this innovative approach is in the experimental phase, focusing on practical applications and effectiveness in carbon sequestration.",
     "constructiveness_score": 0.073,
     "constructiveness_reason": "1 constructive keywords out of 55 tokens",
     "image": {
-      "src": "icons/beaker.svg",
-      "thumbnail": "icons/beaker.svg",
-      "alt": "science",
-      "credit": "Heroicons",
-      "license": "MIT",
+      "src": "icons/canada.svg",
+      "thumbnail": "icons/canada.svg",
+      "alt": "canadian flag",
+      "credit": "Twemoji",
+      "license": "CC-BY-4.0",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": true
     }
   },
   {
@@ -1655,12 +1721,12 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.931,
+      "recency": 0.911,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.474,
+    "score": 0.47,
     "summary": "Archaeologists studying over 200 coins from the first millennium AD in mainland Southeast Asia have discovered evidence of long-distance economic connections. This finding indicates that extensive trade and cultural interactions were facilitated across the region during this period.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 39 tokens",
@@ -1671,7 +1737,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1696,23 +1764,25 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.873,
+      "recency": 0.854,
       "consensus": 0.393,
       "constructiveness": 0.098,
       "proximity": 0.5
     },
-    "score": 0.473,
+    "score": 0.469,
     "summary": "NASA is advancing U.S. space capabilities by testing technology to elevate spacecraft orbits, partnering with Cambrian Works from Reston, Virginia, and Katalyst Space Technologies from Flagstaff. This initiative aims to enhance the operational range and efficiency of future space missions.",
     "constructiveness_score": 0.098,
     "constructiveness_reason": "1 constructive keywords out of 41 tokens",
     "image": {
-      "src": "icons/beaker.svg",
-      "thumbnail": "icons/beaker.svg",
-      "alt": "science",
+      "src": "icons/telescope.svg",
+      "thumbnail": "icons/telescope.svg",
+      "alt": "nasa",
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1737,12 +1807,12 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.92,
+      "recency": 0.9,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.472,
+    "score": 0.468,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 9 tokens",
     "image": {
@@ -1752,7 +1822,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1777,12 +1849,12 @@
     ],
     "score_components": {
       "magnitude": 0.42,
-      "recency": 0.875,
+      "recency": 0.857,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.47,
+    "score": 0.467,
     "summary": "At 7:30 am at Charles de Gaulle airport's Terminal 2E, passengers, including an executive, a mother, and a tourist, are preparing for security checks by removing belts, taking baby bottles out of bags, and untying shoes, respectively. The scene depicts a typical morning at the airport as travelers comply with security protocols.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 54 tokens",
@@ -1793,7 +1865,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1818,12 +1892,12 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.868,
+      "recency": 0.849,
       "consensus": 0.393,
       "constructiveness": 0.066,
       "proximity": 0.5
     },
-    "score": 0.468,
+    "score": 0.465,
     "summary": "Dr. Enav Friedmann from Ben-Gurion University conducted a study on the long-term consumer reactions of discriminated groups to offensive ads. The research highlights the significant impact of time on purchasing patterns among these vulnerable groups, revealing that such ads can deeply affect consumer behavior. This study underscores the importance of understanding the consequences of discriminatory advertising on affected communities.",
     "constructiveness_score": 0.066,
     "constructiveness_reason": "1 constructive keywords out of 61 tokens",
@@ -1834,7 +1908,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1859,12 +1935,12 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.869,
+      "recency": 0.851,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.462,
+    "score": 0.458,
     "summary": "Scientists have long believed that water is crucial for life on Earth and likely a requirement for life on other planets. This assumption has guided the definition of habitability on other worlds for many years.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 35 tokens",
@@ -1875,7 +1951,9 @@
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
-      "source": "local"
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   }
 ]
