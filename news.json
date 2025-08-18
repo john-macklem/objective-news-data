@@ -1,5 +1,60 @@
 [
   {
+    "title": "Bolivia Heads to First Run-Off as Centrist Paz Leads Presidential Vote",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Mon, 18 Aug 2025 01:06:35 -0400",
+    "source": "NPR",
+    "sources": [
+      "Deutsche Welle",
+      "The Guardian",
+      "Al Jazeera",
+      "NPR"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.theguardian.com",
+      "www.npr.org",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "A dark horse centrist, Sen. Rodrigo Paz, drew more votes than the right-wing front-runners, although not enough to secure an outright victory, early results showed.",
+      "Early results show centrist Rodrigo Paz in the lead, with 32.8 percent of the vote.",
+      "Bolivians voted in elections overshadowed by the worst economic crisis in four decades. Early exit polls show that the first round ended 20 years of leftist rule in the country.",
+      "<p>First-round result marks the end of nearly 20 years of dominance by the leftist Movimiento al Socialismo as economic crisis grips the country</p><p>Bolivia’s presidential election will go to a run-off for the first time, with <a href=\"https://www.theguardian.com/world/2025/aug/15/bolivia-presiden"
+    ],
+    "image_url": "",
+    "titles": [
+      "Bolivia's presidential vote goes to runoff between centrist and right-wing candidates",
+      "Bolivia to hold presidential run-off between centrist and right-winger",
+      "Bolivia's elections headed for first presidential runoff",
+      "Bolivia presidential election: preliminary results put two rightwing candidates in run-off vote"
+    ],
+    "score_components": {
+      "magnitude": 0.9,
+      "recency": 0.939,
+      "consensus": 0.985,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.824,
+    "summary": "In Bolivia's presidential election, centrist Senator Rodrigo Paz led with 32.8% of the vote, signaling a potential end to nearly 20 years of leftist governance amid the country's worst economic crisis in decades. However, Paz did not secure enough votes for an outright victory, necessitating a run-off. This election marks the first time Bolivia will go to a run-off, indicating a significant political shift as the Movimiento al Socialismo's long-standing dominance is challenged.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 80 tokens",
+    "image": {
+      "src": "icons/newspaper.svg",
+      "thumbnail": "icons/newspaper.svg",
+      "alt": "general",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
     "title": "Air Canada to Resume Flights Amid Ongoing Strike, 100K+ Passengers Stranded",
     "domain": "general",
     "source_domain": "www.npr.org",
@@ -7,27 +62,24 @@
     "published": "Sun, 17 Aug 2025 14:38:41 -0400",
     "source": "NPR",
     "sources": [
-      "Global News",
-      "New York Times",
       "Deutsche Welle",
-      "NPR",
+      "New York Times",
+      "The Guardian",
       "Fortune",
-      "The Guardian"
+      "NPR"
     ],
     "domains": [
-      "globalnews.ca",
       "www.dw.com",
-      "www.nytimes.com",
-      "www.npr.org",
+      "www.theguardian.com",
       "fortune.com",
-      "www.theguardian.com"
+      "www.nytimes.com",
+      "www.npr.org"
     ],
     "snippets": [
       "Air Canada will resume flights Monday evening, claiming the union illegally directed flight attendants to defy a return-to-work order.",
       "Air Canada said it would delay its plans to restart operations to Monday evening. Some 100,000 people have been stranded amid flight cancellations.",
       "<p>Union to challenge order issued less than 12 hours after start of action that has left more than 100,000 travellers stranded</p><p>Air Canada’s flight attendants plan to remain on strike, their union has said, defying government efforts to force them back to work and into binding arbitration over",
       "The decision by the union representing the 10,000 workers means that travel chaos will continue for at least a second day. Air Canada said it had suspended its reopening plan until Monday evening.",
-      "Air Canada flight attendants vow to defy a federal back-to-work order, as CUPE challenges the ruling and holds protests at major airports, demanding fair wages.",
       "The shutdown of Canada’s largest airline early Saturday was impacting about 130,000 people a day. Air Canada operates around 700 flights per day."
     ],
     "image_url": "",
@@ -36,17 +88,16 @@
       "Air Canada strike: Cabin crew defy return to work order",
       "Air Canada flight attendants to defy back-to-work order and remain on strike",
       "Air Canada Flight Attendants Say They Will Defy Back-to-Work Order",
-      "Air Canada cancels plans to resume flights Sunday as union defies back-to-work order",
       "Air Canada flight attendants defy return-to-work order, forcing airline to delay plans to resume flights"
     ],
     "score_components": {
       "magnitude": 0.94,
-      "recency": 0.893,
+      "recency": 0.755,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.833,
+    "score": 0.805,
     "summary": "Air Canada announced plans to resume flights on Monday evening after a strike by flight attendants, represented by CUPE, led to widespread cancellations, affecting around 130,000 passengers daily. The union has defied a federal back-to-work order, challenging its legality and continuing strikes for better wages, causing significant travel disruptions. This defiance comes despite Air Canada’s attempt to restart operations, leaving over 100,000 people stranded. The situation remains unresolved as the union and Air Canada navigate the ongoing dispute.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 83 tokens",
@@ -63,65 +114,6 @@
     }
   },
   {
-    "title": "Trump and Putin Discuss Ukraine Peace, Agree on NATO-Style Guarantees",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 19:13:51 GMT",
-    "source": "BBC",
-    "sources": [
-      "Washington Post",
-      "New York Times",
-      "BBC",
-      "CNBC",
-      "CityNews"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.washingtonpost.com",
-      "www.nytimes.com",
-      "www.cnbc.com",
-      "ottawa.citynews.ca"
-    ],
-    "snippets": [
-      "Steve Witkoff said Russia agreed in Alaska that the US and Europe could provide Ukraine with a Nato-style guarantee.",
-      "Special Envoy Steve Witkoff's remarks come just days after President Donald Trump met in Alaska with the Russian president to discuss ending the war in Ukraine.",
-      "European leaders, including from Britain, France and Germany, will join as Trump meets Zelensky in Washington after his Alaska summit with Putin.",
-      "President Trump offered security guarantees to deter future Russian aggression. But the offer was vague, prompting Kyiv to seek clarity.",
-      "NEW YORK (AP) — Russian leader Vladimir Putin agreed at his summit with President Donald Trump that the United States and its European allies could offer Ukraine a security guarantee resembling NATO’s collective defense mandate as part of an eventual deal to end the war, a U.S. official said Sunday."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5989/live/128bb3f0-7bc3-11f0-ab3e-bd52082cd0ae.jpg",
-    "titles": [
-      "Putin agreed to 'robust' security guarantees for Ukraine, US envoy says",
-      "White House envoy claims Russia agreed to 'Article 5-like' security guarantees for Ukraine",
-      "U.S. ready to give Ukraine security guarantees when Trump meets Zelensky",
-      "Ukraine Weighs Trump’s Offer of Security Guarantees With Caution",
-      "Putin agrees that US, Europe could offer NATO-style security guarantees to Ukraine, Trump envoy says"
-    ],
-    "score_components": {
-      "magnitude": 0.98,
-      "recency": 0.885,
-      "consensus": 1.0,
-      "constructiveness": 0.049,
-      "proximity": 0.5
-    },
-    "score": 0.825,
-    "summary": "During a summit in Alaska, President Donald Trump and Russian President Vladimir Putin discussed ending the war in Ukraine. Putin agreed to let the U.S. and EU offer Ukraine NATO-style security guarantees, a significant move toward a potential peace deal. However, Trump's national security adviser, Rubio, expressed skepticism about the effectiveness of new sanctions on Russia to promote a ceasefire. This development marks a major step in diplomatic efforts to resolve the 3 1/2-year conflict in Ukraine.",
-    "constructiveness_score": 0.049,
-    "constructiveness_reason": "1 constructive keywords out of 82 tokens",
-    "image": {
-      "src": "icons/ukraine.svg",
-      "thumbnail": "icons/ukraine.svg",
-      "alt": "ukraine flag",
-      "credit": "Twemoji",
-      "license": "CC-BY-4.0",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": true
-    }
-  },
-  {
     "title": "EU, NATO Leaders to Meet Trump, Zelenskyy in Washington for Ukraine Peace Talks",
     "domain": "general",
     "source_domain": "www.npr.org",
@@ -129,21 +121,25 @@
     "published": "Sun, 17 Aug 2025 08:26:28 -0400",
     "source": "NPR",
     "sources": [
-      "Axios",
       "CityNews",
+      "Deutsche Welle",
       "Al Jazeera",
+      "Axios",
       "NPR"
     ],
     "domains": [
-      "www.npr.org",
       "news.google.com",
       "ottawa.citynews.ca",
-      "www.aljazeera.com"
+      "www.dw.com",
+      "www.aljazeera.com",
+      "www.npr.org"
     ],
     "snippets": [
       "European Commission President Ursula von der Leyen and NATO Secretary-General Mark Rutte are among those expected to attend.",
       "US envoy says Putin agreed at summit for Ukraine to have security guarantee from allies similar to NATO’s Article 5.",
+      "Trump tells Zelenskyy on the eve of the meeting to give up Crimea and on the notion of joining NATO. European leaders will join Zelenskyy in Washington to shore up his position. DW has the latest.",
       "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZaUVBd2ZUTnd5TlJzT0hhcGxjUHRYSXhmX29uX0E5RG40SUlxc1JjVjhybnRmUEJ4QTRLaTlpZzZyenpnSDVPTlhTSmMyNnNMR0RHZVVaZ0tOblF6dmE3YVEyYmFWZWlmdUVKempWWUt6UDZ0MDFHQ0U5Mmo?oc=5\" target=\"_blank\">These European leaders will accompany Zelensky to meet with ",
+      "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQN3h2enZWSGIzZlo1VkhETWxwNjZweGtpbmZic18yRnlXem5YY1lyRTkwUnZhRkdQOXB0WlZfX1VTNFZocl9OVUZraElGZ1NBUmk2cVRkeWdqNHFLY29XczdYQ2l4bEdUV3A1aEJYWnJ2a3gtRHJLZUJFaHRHZ2JyeTJVUEpMUQ?oc=5\" target=\"_blank\">Photos: Scenes from Ukraine on eve of Zelensk",
       "OTTAWA — Ukraine and its allies held a virtual meeting Sunday as President Volodymyr Zelenskyy prepares for a high-stakes discussion with U.S. President Donald Trump in Washington, D.C., on Monday. Prime Minister Mark Carney&#8217;s office said in a Sunday afternoon statement that he took part in th",
       "KYIV, Ukraine (AP) — European and NATO leaders announced Sunday they will join President Volodymyr Zelenskyy in Washington to present a united front in talks with President Donald Trump on ending Russia’s war in Ukraine and firming up U.S. security guarantees now on the negotiating table. Leaders fr"
     ],
@@ -151,18 +147,20 @@
     "titles": [
       "European leaders to join Ukraine's Zelenskyy for White House meeting with Trump",
       "European leaders to shore up Ukraine’s Zelenskyy for DC talks with Trump",
+      "Ukraine: European allies to back Zelenskyy in Trump meeting",
       "These European leaders will accompany Zelensky to meet with Trump - Axios",
+      "Photos: Scenes from Ukraine on eve of Zelensky talks with Trump, European leaders - Axios",
       "Ukraine’s allies meet as Zelenskyy travels to Washington to meet with Trump",
       "European leaders to join Ukraine’s Zelenskyy for meeting with Trump"
     ],
     "score_components": {
       "magnitude": 0.98,
-      "recency": 0.784,
-      "consensus": 0.985,
+      "recency": 0.664,
+      "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.821,
+    "score": 0.801,
     "summary": "European and NATO leaders, including European Commission President Ursula von der Leyen and NATO Secretary-General Mark Rutte, are set to join Ukrainian President Volodymyr Zelenskyy in Washington for discussions with President Donald Trump aimed at ending the war in Ukraine. The talks, prompted by a recent summit between Trump and Russian President Vladimir Putin in Alaska, will explore U.S. security guarantees for Ukraine. The meeting comes amid criticisms of Putin's refusal to agree to a ceasefire, with Zelenskyy noting this stance complicates peace efforts. European allies, notably Emmanue",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 91 tokens",
@@ -179,201 +177,48 @@
     }
   },
   {
-    "title": "States Deploy National Guard to D.C. Amid Crime Concerns, Sparking Protests",
-    "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Sun, 17 Aug 2025 03:34:37 -0400",
-    "source": "NPR",
-    "sources": [
-      "Deutsche Welle",
-      "Axios",
-      "NPR",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.npr.org",
-      "news.google.com",
-      "www.dw.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "West Virginia said it was deploying 300 to 400 Guard troops, while South Carolina pledged 200 and Ohio says it will send 150 in the coming days, marking a significant escalation of the federal intervention.",
-      "Three Republican-led states are sending their National Guard troops to aid President Donald Trump's effort to combat an \"out of control\" crime wave in the US capital.",
-      "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVVpjVFRlQk1weTZOcDZUbHp4TkJhVk51OE84X2hGRjZpU2hqcUpsclJrOW85RnNOMkZ6RFA5VER1ZlpBVC1jaHRKdzU3MUdyTmo5djZLejV2bjNuZGtsWjQ4Z0x2VTJJbzJ4MlhxVDVzcTNUZzc1VV8xNA?oc=5\" target=\"_blank\">GOP-led states sending National Guard troops to D.C.</a>&nbsp",
-      "<p>South Carolina and Ohio join West Virginia in pledging troops, fueling protests that<strong> </strong>national guard should not be used for ‘a political policing mission’</p><p>Three states have moved to deploy hundreds of members of their national guard to the nation’s capital as part of the <a "
-    ],
-    "image_url": "",
-    "titles": [
-      "Three Republican-led states to send hundreds of National Guard troops to Washington",
-      "US states to deploy National Guard troops to Washington, DC",
-      "GOP-led states sending National Guard troops to D.C. - Axios",
-      "Three states to deploy hundreds of national guard troops to Washington DC"
-    ],
-    "score_components": {
-      "magnitude": 0.9,
-      "recency": 0.709,
-      "consensus": 0.985,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.778,
-    "summary": "Three Republican-led states, West Virginia, South Carolina, and Ohio, are deploying a total of 650 to 750 National Guard troops to Washington, D.C., in response to President Donald Trump's call to address what he describes as an \"out of control\" crime wave. This move has sparked protests and criticism regarding the use of the National Guard for what some see as a political policing mission.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 68 tokens",
-    "image": {
-      "src": "icons/newspaper.svg",
-      "thumbnail": "icons/newspaper.svg",
-      "alt": "general",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "Houston Texans Trade John Metchie III to Philadelphia Eagles",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Sun, 17 Aug 2025 19:32:23 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "CBS Sports",
-      "Sportsnet"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "www.espn.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "The Houston Texans are trading wide receiver John Metchie III to the Philadelphia Eagles, sources told ESPN's Adam Schefter.",
-      "The Eagles-Texans trade grade is a draw",
-      "<p>The Houston Texans are trading the Canadian wide receiver to the Philadelphia Eagles, ESPN&#8217;s Adam Schefter reports. </p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Sources: Eagles trade for Texans WR Metchie",
-      "John Metchie trade grades: Eagles add depth at wide receiver, Texans part ways with player not making roster",
-      "Report: Texans trade Canadian WR John Metchie III to Eagles"
-    ],
-    "score_components": {
-      "magnitude": 0.8,
-      "recency": 0.989,
-      "consensus": 0.897,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.777,
-    "summary": "The Houston Texans are trading wide receiver John Metchie III to the Philadelphia Eagles, as reported by ESPN's Adam Schefter. The trade has resulted in a draw in terms of grade between the two teams.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 36 tokens",
-    "image": {
-      "src": "icons/trophy.svg",
-      "thumbnail": "icons/trophy.svg",
-      "alt": "sports",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
     "title": "Scheffler Wins BMW Championship, Overcoming MacIntyre's Lead",
-    "domain": "general",
+    "domain": "sports",
     "source_domain": "www.bbc.com",
     "location": "global",
     "published": "Sun, 17 Aug 2025 23:53:27 GMT",
     "source": "BBC",
     "sources": [
+      "BBC",
+      "Yahoo Sports",
       "The Guardian",
-      "Sky Sports",
-      "BBC"
+      "Sky Sports"
     ],
     "domains": [
       "www.skysports.com",
-      "www.bbc.com",
-      "www.theguardian.com"
+      "www.independent.co.uk",
+      "www.theguardian.com",
+      "www.bbc.com"
     ],
     "snippets": [
       "World number one Scottie Scheffler eats up Robert MacIntyre's overnight lead of four shots to win the BMW Championship.",
+      "The Scot shot three-over par in the final round which allowed Scheffler to come through for victory",
       "<ul><li><p>MacIntyre never recovers after bogeys on first two holes</p></li><li><p>Scheffler has five PGA titles for second year in a row</p></li></ul><p>Bob MacIntyre blew a four-shot lead in the final round as the world No 1, Scottie Scheffler, produced a moment of magic to clinch victory at the B",
       "Scottie Scheffler claimed a fifth victory of the PGA Tour season after Robert MacIntyre squandered a four-shot lead during the final round of the BMW Championship."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb58/live/94313f60-7bc3-11f0-9ba0-cb1cdc075b66.jpg",
     "titles": [
       "MacIntyre 'wants to smash up clubs' as Scheffler wins",
+      "Robert MacIntyre blows four-shot lead as Scottie Scheffler wins BMW Championship",
       "Bob MacIntyre blows four-shot lead as Scheffler wins BMW Championship",
       "MacIntyre blows big lead as Scheffler snatches impressive PGA Tour win"
     ],
     "score_components": {
-      "magnitude": 0.8,
-      "recency": 0.975,
-      "consensus": 0.897,
+      "magnitude": 0.9,
+      "recency": 0.825,
+      "consensus": 0.985,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.749,
+    "score": 0.776,
     "summary": "Scottie Scheffler, the world number one golfer, overcame Robert MacIntyre's four-shot lead to win the BMW Championship. MacIntyre's early bogeys in the final round contributed to his inability to maintain the lead. This victory marks Scheffler's fifth PGA Tour win of the season, achieving this feat for the second consecutive year.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 55 tokens",
-    "image": {
-      "src": "icons/newspaper.svg",
-      "thumbnail": "icons/newspaper.svg",
-      "alt": "general",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "Jon Rahm Retains LIV Golf Points Title Despite No Event Wins",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 22:10:19 GMT",
-    "source": "BBC",
-    "sources": [
-      "CBS Sports",
-      "Yahoo Sports",
-      "BBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.cbssports.com",
-      "www.nbcsports.com"
-    ],
-    "snippets": [
-      "Jon Rahm is crowned as the LIV Golf individual champion for the second consecutive year, despite losing in a play-off to Sebastian Munoz in Indiana.",
-      "For the second year in a row, Rahm reigned supreme on LIV Golf by season's end",
-      "Jon Rahm successfully defended his LIV Golf season points title Sunday without winning an event all year, closing with an 11-under 60 before losing a playoff to Sebastian Munoz on the first extra hole in the Indianapolis event."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5548/live/676f74a0-7bb5-11f0-94dc-ebdbafe0fd2d.jpg",
-    "titles": [
-      "Rahm wins LIV Golf individual title for second year",
-      "Jon Rahm claims LIV Golf's individual crown for second straight season, sneaking past Joaquin Niemann",
-      "Winless Jon Rahm successfully defends LIV Golf individual title"
-    ],
-    "score_components": {
-      "magnitude": 0.82,
-      "recency": 0.941,
-      "consensus": 0.897,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.749,
-    "summary": "Jon Rahm retained his LIV Golf season points title for the second consecutive year, despite not winning any event throughout the year. He concluded the season with an impressive 11-under 60 in Indianapolis, ultimately losing to Sebastian Munoz in a playoff on the first extra hole. Rahm's consistent performance throughout the season ensured his championship status, marking him as the LIV Golf individual champion once again.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 68 tokens",
     "image": {
       "src": "icons/trophy.svg",
       "thumbnail": "icons/trophy.svg",
@@ -387,44 +232,95 @@
     }
   },
   {
-    "title": "Hurricane Erin Downgraded to Category 3, Threatens Caribbean with Heavy Rain",
+    "title": "European Leaders to Discuss Ukraine Security with Zelensky in Washington",
     "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Sun, 17 Aug 2025 08:39:42 -0400",
-    "source": "NPR",
+    "source_domain": "www.ft.com",
+    "location": "global",
+    "published": "Mon, 18 Aug 2025 07:29:34 GMT",
+    "source": "Financial Times",
     "sources": [
-      "Phys.org",
-      "NPR",
-      "The Guardian"
+      "Washington Post",
+      "New York Times",
+      "Financial Times"
     ],
     "domains": [
-      "www.npr.org",
-      "phys.org",
-      "www.theguardian.com"
+      "www.nytimes.com",
+      "www.ft.com",
+      "www.washingtonpost.com"
     ],
     "snippets": [
-      "Heavy rain is still expected across the Virgin Islands and Puerto Rico, with rainfall of up to 8 inches in some areas.",
-      "<p>First Atlantic hurricane of 2025 diminishes but tropical storm warnings issued for Turks and Caicos</p><p><a href=\"https://www.theguardian.com/world/2025/aug/16/hurricane-erin-gathers-force-as-it-nears-north-east-caribbean-leeward-islands\">Hurricane Erin</a> was downgraded to a category 3 hurrica",
-      "Offshore Hurricane Erin was downgraded to a Category 3 storm early Sunday, as rain lashed Caribbean islands and weather officials warned of possible flash floods and landslides."
+      "European leaders will join Ukraine’s president in US as he comes under pressure to concede territory to Russia",
+      "European leaders, including from Britain, France and Germany, will join as Trump meets Zelensky in Washington after his Alaska summit with Putin.",
+      "President Trump offered security guarantees to deter future Russian aggression. But the offer was vague, prompting Kyiv to seek clarity."
     ],
-    "image_url": "",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08c02e83-d635-48aa-9429-6321196d6c05.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "titles": [
-      "Hurricane Erin downgraded to Category 3 storm",
-      "Hurricane Erin weakens to category 3 as storm lashes Puerto Rico and Virgin Islands",
-      "Downgraded Hurricane Erin lashes Caribbean with rain"
+      "Zelenskyy and allies to press Trump on security guarantees",
+      "Amid pressure on Zelensky to make deal, U.S. to offer some security guarantees",
+      "Ukraine Weighs Trump’s Offer of Security Guarantees With Caution"
     ],
     "score_components": {
-      "magnitude": 0.82,
-      "recency": 0.788,
+      "magnitude": 0.84,
+      "recency": 0.967,
       "consensus": 0.897,
       "constructiveness": 0.0,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.744,
-    "summary": "Hurricane Erin, the first Atlantic hurricane of 2025, was downgraded to a Category 3 storm as it approached the Caribbean. Despite the downgrade, heavy rain is expected in the Virgin Islands and Puerto Rico, with up to 8 inches forecasted in some areas. Tropical storm warnings have been issued for Turks and Caicos. Weather officials have warned of potential flash floods and landslides due to the storm's impact.",
+    "score": 0.762,
+    "summary": "European leaders from Britain, France, and Germany will meet with Ukraine's President Zelensky in Washington during his visit, following President Trump's summit with Putin in Alaska. Trump has offered Ukraine security guarantees to prevent future Russian aggression, but the specifics of these guarantees remain unclear, leading Kyiv to request further details. This meeting comes as Zelensky faces pressure to cede territory to Russia.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 69 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 65 tokens",
+    "image": {
+      "src": "icons/ukraine.svg",
+      "thumbnail": "icons/ukraine.svg",
+      "alt": "ukraine flag",
+      "credit": "Twemoji",
+      "license": "CC-BY-4.0",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": true
+    }
+  },
+  {
+    "title": "Cambridge Dictionary Adds 6,000 New Words, Showcasing TikTok Influence",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sun, 17 Aug 2025 23:53:34 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "The Guardian",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.bbc.com",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "More than 6,000 new terms feature, including some relating to remote working and rich tech giants.",
+      "The latest additions to the world's largest online dictionary, among 6,000 others, show how much internet culture is changing the English language.",
+      "<p>Lexicographers give nod to TikTok generation’s enduring influence on English language with latest additions</p><p>“Skibidi”, “tradwife” and “delulu” are among the new words to have made this year’s Cambridge Dictionary in a selection that confirms the increasing influence of the TikTok generation"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd65/live/c1c05320-7bfb-11f0-83cc-c5da98c419b8.jpg",
+    "titles": [
+      "'Skibidi' and 'tradwife' among words added to Cambridge Dictionary",
+      "'Skibidi', 'delulu', and 'tradwife' make their way into Cambridge Dictionary",
+      "‘Skibidi’, ‘delulu’ and ‘tradwife’ among words added to Cambridge Dictionary"
+    ],
+    "score_components": {
+      "magnitude": 0.8,
+      "recency": 0.825,
+      "consensus": 0.897,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.719,
+    "summary": "The Cambridge Dictionary has added over 6,000 new terms, reflecting the significant influence of the TikTok generation on the English language. Among the new entries are words related to remote working, tech giants, and terms like \"skibidi\", \"tradwife\", and \"delulu\". This update highlights the evolving nature of language and the impact of digital culture.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 55 tokens",
     "image": {
       "src": "icons/newspaper.svg",
       "thumbnail": "icons/newspaper.svg",
@@ -445,21 +341,21 @@
     "published": "Sun, 17 Aug 2025 21:21:43 GMT",
     "source": "BBC",
     "sources": [
-      "Deutsche Welle",
+      "BBC",
       "The Guardian",
-      "BBC"
+      "Deutsche Welle"
     ],
     "domains": [
+      "www.theguardian.com",
       "www.bbc.com",
-      "www.dw.com",
-      "www.theguardian.com"
+      "www.dw.com"
     ],
     "snippets": [
       "Large crowds fill 'Hostages Square' in Tel Aviv to call for fighting to cease and the release of all remaining hostages by Hamas.",
       "Protests have been held across Israel as the government continues its war against Hamas. The US says it is suspending visas for \"individuals from Gaza.\"",
       "<p>One of largest rallies in Israel since start of conflict follows general strike to press government to stop military action</p><p>Tens of thousands of demonstrators have gathered in Tel Aviv to call for an end to the war in Gaza and the release of hostages, one of the largest demonstrations in Is"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a720/live/081cdeb0-7ba7-11f0-a9b6-dd70e83eb452.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e84b/live/960077f0-7c01-11f0-ab3e-bd52082cd0ae.jpg",
     "titles": [
       "Huge crowds gather in Israel calling for hostage deal and end to Gaza war",
       "Middle East: Israel protests call for hostage deal, end to war",
@@ -467,12 +363,12 @@
     ],
     "score_components": {
       "magnitude": 0.8,
-      "recency": 0.925,
+      "recency": 0.783,
       "consensus": 0.897,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.739,
+    "score": 0.711,
     "summary": "Tens of thousands of demonstrators filled Hostages Square in Tel Aviv, one of the largest rallies in Israel since the start of the conflict, calling for an end to the war against Hamas and the release of all remaining hostages. The protest, which followed a general strike, is part of wider protests across Israel against the government's military action in Gaza. Meanwhile, the US has responded to the situation by suspending visas for individuals from Gaza.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 77 tokens",
@@ -489,38 +385,132 @@
     }
   },
   {
-    "title": "Scottie Scheffler Wins BMW Championship, Secures Fifth PGA Title of Year",
+    "title": "Jaguars Trade Fortner to Saints for DT Saunders",
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Sun, 17 Aug 2025 19:32:23 EST",
+    "published": "Mon, 18 Aug 2025 02:16:40 EST",
     "source": "ESPN",
     "sources": [
-      "ESPN",
-      "Yahoo Sports"
+      "CBS Sports",
+      "ESPN"
     ],
     "domains": [
-      "www.espn.com",
-      "sports.yahoo.com"
+      "www.cbssports.com",
+      "www.espn.com"
     ],
     "snippets": [
-      "Scottie Scheffler erased a four-shot deficit in five holes and then delivered a haymaker on the daunting par-3 17th by chipping in from 82 feet for birdie that carried him to victory Sunday in the BMW Championship for his fifth PGA Tour title of the year.",
-      "Scottie Scheffler erased a four-shot deficit in five holes and then delivered a haymaker on the daunting par-3 17th by chipping in from 82 feet for birdie that carried him to victory Sunday in the BMW Championship for his fifth PGA Tour title of the year.  Scheffler closed with a 3-under 67 for a tw"
+      "The Jaguars have acquired veteran defensive tackle Khalen Saunders from the New Orleans Saints for veteran center Luke Fortner, sources confirmed.",
+      "Saunders produced one of the best highlights of 2024"
     ],
     "image_url": "",
     "titles": [
-      "Scheffler wins BMW, fifth PGA Tour crown of '25",
-      "Scheffler rallies to win BMW for 5th PGA Tour victory of year. Rahm takes LIV points title"
+      "Sources: Jaguars acquire DT Saunders from Saints",
+      "Saints trade DT Khalen Saunders to Jaguars in exchange for center Luke Fortner, per report"
     ],
     "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.989,
+      "magnitude": 0.72,
+      "recency": 0.963,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.688,
-    "summary": "Scottie Scheffler won the BMW Championship, overcoming a four-shot deficit in just five holes and securing his fifth PGA Tour title of the year. His victory was highlighted by a remarkable 82-foot chip-in for birdie on the 17th hole. Scheffler finished with a 3-under 67.",
+    "score": 0.69,
+    "summary": "The Jacksonville Jaguars have traded veteran center Luke Fortner to the New Orleans Saints in exchange for veteran defensive tackle Khalen Saunders. This player exchange was confirmed by multiple sources. Saunders, noted for creating one of the top highlights of 2024, will now be contributing to the Jaguars' defensive lineup.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 50 tokens",
+    "image": {
+      "src": "icons/trophy.svg",
+      "thumbnail": "icons/trophy.svg",
+      "alt": "sports",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Monsoon Rains in Country Claim 600 Lives; More Rain, Landslides Expected",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Mon, 18 Aug 2025 01:17:29 -0400",
+    "source": "NPR",
+    "sources": [
+      "Al Jazeera",
+      "NPR"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.npr.org"
+    ],
+    "snippets": [
+      "Authorities have warned of more deluges and possible landslides between now and Tuesday. Heavy monsoon rains have lashed the country since June and killed more than 600.",
+      "Residents accuse officials of not warning them to evacuate as torrential rain and cloudbursts trigger deadly flooding."
+    ],
+    "image_url": "",
+    "titles": [
+      "Pakistan defends flood response after over 270 people killed in northwestern district",
+      "At least 337 killed in Pakistan floods, gov’t defends emergency response"
+    ],
+    "score_components": {
+      "magnitude": 0.72,
+      "recency": 0.943,
+      "consensus": 0.682,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.686,
+    "summary": "Heavy monsoon rains have struck the country since June, causing over 600 deaths. Authorities now warn of further heavy rainfall and potential landslides through Tuesday. Amidst the devastation, residents have criticized officials for failing to issue evacuation warnings in response to the torrential rain and sudden cloudbursts that have led to deadly flooding.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 53 tokens",
+    "image": {
+      "src": "icons/newspaper.svg",
+      "thumbnail": "icons/newspaper.svg",
+      "alt": "general",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Joey Aguilar Named Tennessee's Starting QB After Multiple Transfers",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Mon, 18 Aug 2025 02:16:40 EST",
+    "source": "ESPN",
+    "sources": [
+      "CBS Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "www.cbssports.com",
+      "www.espn.com"
+    ],
+    "snippets": [
+      "Joey Aguilar was named Tennessee's starting quarterback Sunday, beating out redshirt freshman Jake Merklinger for the job.",
+      "Aguilar transferred from App State to UCLA in the winter and then from UCLA to Tennessee in the spring"
+    ],
+    "image_url": "",
+    "titles": [
+      "Vols name Aguilar starting QB after Iamaleava exit",
+      "Joey Aguilar named Tennessee's starting QB: UCLA transfer takes over after departure of Nico Iamaleava"
+    ],
+    "score_components": {
+      "magnitude": 0.7,
+      "recency": 0.963,
+      "consensus": 0.682,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.683,
+    "summary": "Joey Aguilar has been named Tennessee's starting quarterback, securing the position over redshirt freshman Jake Merklinger. Aguilar's journey to this role involved transfers from App State to UCLA in the winter, and then from UCLA to Tennessee in the spring, before ultimately winning the starting quarterback job.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 49 tokens",
     "image": {
@@ -536,40 +526,40 @@
     }
   },
   {
-    "title": "Reds End Brewers' 14-Game Winning Streak with 3-2 Victory",
+    "title": "Omaha Mavericks' Deng Mayar Dies in Drowning Incident",
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Sun, 17 Aug 2025 19:32:23 EST",
+    "published": "Mon, 18 Aug 2025 02:16:40 EST",
     "source": "ESPN",
     "sources": [
-      "ESPN",
-      "Sportsnet"
+      "CBS Sports",
+      "ESPN"
     ],
     "domains": [
-      "www.espn.com",
-      "www.sportsnet.ca"
+      "www.cbssports.com",
+      "www.espn.com"
     ],
     "snippets": [
-      "The Reds snapped the Brewers' franchise-record 14-game winning streak by turning the tables on Milwaukee with a 3-2 win in the 10th inning.",
-      "<p>Watch as Cincinnati Reds catcher Austin Hays puts the nail in the coffin of the Milwaukee Brewers&#8217; 14-game win streak, ripping a single down the third-base line to walk it off in the 10th inning.</p>"
+      "Omaha Mavericks forward Deng Mayar, who transferred from North Dakota this offseason, died Saturday in a drowning incident.",
+      "Mayar transferred to Omaha this offseason from North Dakota"
     ],
     "image_url": "",
     "titles": [
-      "Reds turn tables in extras, snap Brewers' streak",
-      "Hays delivers 10th-inning walk-off as Reds snap Brewers’ win streak"
+      "Omaha forward Mayar dies in drowning incident",
+      "Omaha basketball player Deng Mayar dies at 22 in drowning accident"
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.989,
+      "recency": 0.963,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.688,
-    "summary": "The Cincinnati Reds ended the Milwaukee Brewers' 14-game winning streak with a 3-2 victory in the 10th inning. Reds catcher Austin Hays delivered the game-winning hit with a single down the third-base line. This win halted the Brewers' record streak and marked a significant victory for the Reds.",
+    "score": 0.683,
+    "summary": "Omaha Mavericks forward Deng Mayar, who recently transferred from North Dakota, tragically passed away in a drowning incident on Saturday. Mayar had joined the Omaha team this offseason. The circumstances surrounding his death are under investigation, and the university and basketball community are mourning his loss.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 52 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 46 tokens",
     "image": {
       "src": "icons/trophy.svg",
       "thumbnail": "icons/trophy.svg",
@@ -587,11 +577,11 @@
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Sun, 17 Aug 2025 19:32:23 EST",
+    "published": "Mon, 18 Aug 2025 02:16:40 EST",
     "source": "ESPN",
     "sources": [
-      "ESPN",
-      "CBS Sports"
+      "CBS Sports",
+      "ESPN"
     ],
     "domains": [
       "www.cbssports.com",
@@ -610,12 +600,12 @@
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.989,
+      "recency": 0.963,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.688,
+    "score": 0.683,
     "summary": "Mike Clay released a 2025 fantasy football draft guide, detailing optimal round-by-round selections and strategies. Concurrently, SportsLine conducted 10,000 simulations of the upcoming NFL season, identifying potential busts and breakout players for 2025 fantasy football drafts. This comprehensive analysis provides enthusiasts with insights and recommendations to inform their draft preparations.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 53 tokens",
@@ -632,40 +622,87 @@
     }
   },
   {
-    "title": "Jung Hoo Lee's Unique Catch Helps Giants to 7-1 Win Over Rays",
-    "domain": "sports",
-    "source_domain": "sports.yahoo.com",
+    "title": "Oscar-Nominee Terence Stamp, Iconic Actor, Dies",
+    "domain": "general",
+    "source_domain": "www.npr.org",
     "location": "national",
-    "published": "Sun, 17 Aug 2025 23:56:52 +0000",
-    "source": "Yahoo Sports",
+    "published": "Mon, 18 Aug 2025 00:10:45 -0400",
+    "source": "NPR",
     "sources": [
-      "Sportsnet",
-      "Yahoo Sports"
+      "The Guardian",
+      "NPR"
     ],
     "domains": [
-      "www.sportsnet.ca",
-      "sports.yahoo.com"
+      "www.theguardian.com",
+      "www.npr.org"
     ],
     "snippets": [
-      "San Francisco Giants center fielder Jung Hoo Lee may have made the catch of the year — at least.  Tampa Bay's Yandy Díaz drove a pitch to deep right-center, known as Triples Alley at Oracle Park, and Lee made a play that created a buzz Sunday on social media as San Francisco beat the Rays 7-1.  Lee ",
-      "<p>Watch San Francisco Giants&#8217; Jung Hoo Lee make an incredible play to catch the ball between his legs after it came out of his glove, preventing a base hit from the Tampa Bay Rays.</p>"
+      "The English actor was best known for starring as the arch-villain in the original <em>Superman</em> films and for depicting the title character in <em>Billy Budd</em>.",
+      "<p>Family says actor who worked with William Wyler, Pier Paolo Pasolini and Steven Soderbergh, ‘leaves behind an extraordinary body of work’</p><ul><li><p><a href=\"https://www.theguardian.com/film/gallery/2025/aug/17/terence-stamp-a-life-in-pictures\">Terence Stamp: a life in pictures</a></p></li><li"
     ],
     "image_url": "",
     "titles": [
-      "Giants' Jung Hoo Lee makes catch off glove, thigh and calf before pinning baseball between knees",
-      "Giants’ Lee makes incredible grab between his knees"
+      "Terence Stamp, '60s British film legend and star of 'Superman,' dies at 87",
+      "Terence Stamp, face of 60s British cinema and star of The Limey and Superman, dies at 87"
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.997,
+      "recency": 0.921,
       "consensus": 0.682,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.665,
-    "summary": "San Francisco Giants center fielder Jung Hoo Lee made a remarkable catch during a game against the Tampa Bay Rays, generating significant attention on social media. Despite initially losing the ball from his glove, Lee managed to secure it between his legs, preventing a base hit. This play contributed to the Giants' 7-1 victory over the Rays.",
+    "score": 0.675,
+    "summary": "Terence Stamp, an Oscar-nominated actor renowned for his roles in the 1960s and his portrayal of General Zod in the \"Superman\" films, has passed away. With a career spanning six decades, Stamp collaborated with directors like William Wyler, Pier Paolo Pasolini, and Steven Soderbergh. His family highlighted his \"extraordinary body of work\" in their announcement, marking the loss of a significant figure in the film industry.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 58 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 67 tokens",
+    "image": {
+      "src": "icons/newspaper.svg",
+      "thumbnail": "icons/newspaper.svg",
+      "alt": "general",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Akie Iwai Wins First LPGA Tour at Portland Classic, Matches Twin's Achievement",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sun, 17 Aug 2025 19:58:02 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Sportsnet"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "www.espn.com"
+    ],
+    "snippets": [
+      "Akie Iwai joined twin sister Chisato as a rookie LPGA Tour winner Sunday at Columbia Edgewater, closing with a 6-under 66 for a four-stroke victory in The Standard Portland Classic.",
+      "<p>Akie Iwai joined twin sister Chisato as a rookie LPGA Tour winner Sunday at Columbia Edgewater, closing with a 6-under 66 for a four-stroke victory in The Standard Portland Classic.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Akie Iwai wins Portland Classic for first LPGA Tour title",
+      "Japanese rookie Akie Iwai captures LPGA Tour’s Portland Classic"
+    ],
+    "score_components": {
+      "magnitude": 0.72,
+      "recency": 0.844,
+      "consensus": 0.682,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.666,
+    "summary": "Akie Iwai secured her first LPGA Tour victory at the Standard Portland Classic, matching her twin sister Chisato's achievement. She finished with a 6-under 66, clinching a four-stroke win at Columbia Edgewater. This marks a significant milestone for the rookie golfer, highlighting her talent and potential in the professional golfing world.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 54 tokens",
     "image": {
       "src": "icons/trophy.svg",
       "thumbnail": "icons/trophy.svg",
@@ -679,19 +716,162 @@
     }
   },
   {
+    "title": "Navarro Criticizes India's Russian Oil Buys, Calls Them Corrosive",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Mon, 18 Aug 2025 07:53:59 GMT",
+    "source": "CNBC",
+    "sources": [
+      "Financial Post",
+      "CNBC"
+    ],
+    "domains": [
+      "www.cnbc.com",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "His comments come shortly after trade negotiations between the U.S. and India were reportedly called off.",
+      "The dramatic increase in India’s purchases of Russian oil since the invasion of Ukraine is “opportunistic and deeply corrosive” of a global effort to isolate the Kremlin and curb Vladimir Putin’s war machine, White House trade adviser Peter Navarro wrote in the Financial Times."
+    ],
+    "image_url": "",
+    "titles": [
+      "Trump advisor Peter Navarro slams India’s ‘opportunistic’ purchases of Russian crude",
+      "Trump Trade Adviser Navarro Slams India for Buying Russian Oil"
+    ],
+    "score_components": {
+      "magnitude": 0.7,
+      "recency": 0.975,
+      "consensus": 0.682,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.66,
+    "summary": "White House trade adviser Peter Navarro criticized India's significant rise in Russian oil purchases since the Ukraine invasion as \"opportunistic and deeply corrosive,\" undermining global efforts to isolate Russia. This statement followed the cancellation of U.S.-India trade negotiations.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 41 tokens",
+    "image": {
+      "src": "icons/russia.svg",
+      "thumbnail": "icons/russia.svg",
+      "alt": "russian flag",
+      "credit": "Twemoji",
+      "license": "CC-BY-4.0",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": true
+    }
+  },
+  {
+    "title": "Rahm Defends LIV Title; Munoz Wins in Playoff; Kim, Stenson Relegated",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sun, 17 Aug 2025 18:58:41 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Sports Illustrated"
+    ],
+    "domains": [
+      "news.google.com",
+      "www.espn.com"
+    ],
+    "snippets": [
+      "Jon Rahm successfully defended his LIV Golf season points title but still lost in a playoff to Sebastian Munoz in the Indianapolis event.",
+      "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZnpNeTFsUF9nRi1KRlRZWXZqNmVjYmpicDVhbVJEU3d4NFhYNmtMU29FYnV6ZG9lVmgwNWNLQWY0NDIxdHZ3M2RSS1RoOHU1am56M2o0T3o5WDAyRzA5X0NjYjVkOW1uUi1NU3Z6RV9wWW9icHlVcUgwdkFxN0ZvSzVCRlB4MzN5ZEp3?oc=5\" target=\"_blank\">Jon Rahm Repeats As LIV Golf League Cha",
+      "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3pKdTVnRmZPM3EycU9kc2ZVNFJrdWFVNDJyd3VVN0Y2RHJJVDY3ZkozUlF6RXh0a1RZQU13UFpmTnU1dnB4dXpyRFBMNFgyeFpGZ2oxdklTV0VlODhUeGVKQ3hZbHpsaWhWSEI5eldURC13YWxHVHdTeWZBYnA0cjhfZVNjZkE?oc=5\" target=\"_blank\">Anthony Kim, Henrik Stenson Relegated Out of"
+    ],
+    "image_url": "",
+    "titles": [
+      "Jon Rahm defends LIV points title but loses in playoff",
+      "Jon Rahm Repeats As LIV Golf League Champion, But the Title Is Bittersweet - Sports Illustrated",
+      "Anthony Kim, Henrik Stenson Relegated Out of LIV Golf League - Sports Illustrated"
+    ],
+    "score_components": {
+      "magnitude": 0.7,
+      "recency": 0.827,
+      "consensus": 0.682,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.656,
+    "summary": "Jon Rahm successfully defended his LIV Golf season points title but lost in a playoff to Sebastian Munoz in the Indianapolis event. Anthony Kim and Henrik Stenson were relegated out of the LIV Golf League. Rahm's repeat victory secured his title, while Kim and Stenson faced relegation due to their performance.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 52 tokens",
+    "image": {
+      "src": "icons/trophy.svg",
+      "thumbnail": "icons/trophy.svg",
+      "alt": "sports",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Trump and Putin Discuss Ukraine Peace, Agree on NATO-Style Guarantees",
+    "domain": "business",
+    "source_domain": "fortune.com",
+    "location": "global",
+    "published": "Sun, 17 Aug 2025 15:05:50 +0000",
+    "source": "Fortune",
+    "sources": [
+      "Fortune",
+      "CityNews"
+    ],
+    "domains": [
+      "fortune.com",
+      "ottawa.citynews.ca"
+    ],
+    "snippets": [
+      "Rubio, who is also Trump's national security adviser, said he did not believe issuing new sanctions on Russia would force Putin to accept a ceasefire.",
+      "NEW YORK (AP) — Russian leader Vladimir Putin agreed at his summit with President Donald Trump that the United States and its European allies could offer Ukraine a security guarantee resembling NATO’s collective defense mandate as part of an eventual deal to end the war, a U.S. official said Sunday."
+    ],
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/AP25227785522737-e1755442530404.jpg?w=2048",
+    "titles": [
+      "Putin agreed to let US, Europe offer NATO-style security protections for Ukraine, Trump envoy says",
+      "Putin agrees that US, Europe could offer NATO-style security guarantees to Ukraine, Trump envoy says"
+    ],
+    "score_components": {
+      "magnitude": 0.78,
+      "recency": 0.702,
+      "consensus": 0.682,
+      "constructiveness": 0.049,
+      "proximity": 0.5
+    },
+    "score": 0.639,
+    "summary": "During a summit in Alaska, President Donald Trump and Russian President Vladimir Putin discussed ending the war in Ukraine. Putin agreed to let the U.S. and EU offer Ukraine NATO-style security guarantees, a significant move toward a potential peace deal. However, Trump's national security adviser, Rubio, expressed skepticism about the effectiveness of new sanctions on Russia to promote a ceasefire. This development marks a major step in diplomatic efforts to resolve the 3 1/2-year conflict in Ukraine.",
+    "constructiveness_score": 0.049,
+    "constructiveness_reason": "1 constructive keywords out of 82 tokens",
+    "image": {
+      "src": "icons/ukraine.svg",
+      "thumbnail": "icons/ukraine.svg",
+      "alt": "ukraine flag",
+      "credit": "Twemoji",
+      "license": "CC-BY-4.0",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": true
+    }
+  },
+  {
     "title": "Scottie Scheffler Wins BMW Championship, Marks Fifth PGA Title of Year",
     "domain": "sports",
     "source_domain": "www.cbssports.com",
     "location": "national",
-    "published": "Sun, 17 Aug 2025 23:07:39 +0000",
+    "published": "Mon, 18 Aug 2025 00:09:59 +0000",
     "source": "CBS Sports",
     "sources": [
       "CBS Sports",
       "Sportsnet"
     ],
     "domains": [
-      "www.cbssports.com",
-      "www.sportsnet.ca"
+      "www.sportsnet.ca",
+      "www.cbssports.com"
     ],
     "snippets": [
       "Scheffler's latest remarkable shot resulted in a huge payday and some PGA Tour history, too",
@@ -704,12 +884,12 @@
     ],
     "score_components": {
       "magnitude": 0.7,
-      "recency": 0.98,
+      "recency": 0.847,
       "consensus": 0.682,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.661,
+    "score": 0.635,
     "summary": "Scottie Scheffler won the BMW Championship, overcoming a four-shot deficit in just five holes. His victory was highlighted by an 82-foot chip-in for birdie on the par-3 17th hole, marking his fifth PGA Tour title this year. This win not only secured a significant payday for Scheffler but also etched his name into PGA Tour history.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 60 tokens",
@@ -726,263 +906,36 @@
     }
   },
   {
-    "title": "Cambridge Dictionary Adds 6,000 New Words, Showcasing TikTok Influence",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 23:53:34 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "More than 6,000 new terms feature, including some relating to remote working and rich tech giants.",
-      "<p>Lexicographers give nod to TikTok generation’s enduring influence on English language with latest additions</p><p>“Skibidi”, “tradwife” and “delulu” are among the new words to have made this year’s Cambridge Dictionary in a selection that confirms the increasing influence of the TikTok generation"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6675/live/4a9fdd50-7bc5-11f0-83cc-c5da98c419b8.jpg",
-    "titles": [
-      "'Skibidi' and 'tradwife' among words added to Cambridge Dictionary",
-      "‘Skibidi’, ‘delulu’ and ‘tradwife’ among words added to Cambridge Dictionary"
-    ],
-    "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.975,
-      "consensus": 0.682,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.66,
-    "summary": "The Cambridge Dictionary has added over 6,000 new terms, reflecting the significant influence of the TikTok generation on the English language. Among the new entries are words related to remote working, tech giants, and terms like \"skibidi\", \"tradwife\", and \"delulu\". This update highlights the evolving nature of language and the impact of digital culture.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 55 tokens",
-    "image": {
-      "src": "icons/newspaper.svg",
-      "thumbnail": "icons/newspaper.svg",
-      "alt": "general",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "DeChambeau Qualifies for U.S. Ryder Cup Team, Second LIV Golfer to Return",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Sun, 17 Aug 2025 22:21:03 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "CBS Sports",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "sports.yahoo.com"
-    ],
-    "snippets": [
-      "A pair of rookies and four members of the 2021 squad make up the six automatic qualifiers for the United States",
-      "Bryson DeChambeau is returning to the Ryder Cup for the first time since 2021 as none of the Americans moved past him in the standings Sunday in the final week of qualifying for the six automatic spots on the U.S. team.  DeChambeau will be the second LIV Golf player in as many Ryder Cups for the Ame"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/17/6fa29914-a4ea-4578-9923-96fa301cba4d/scheffler-dechambeau-ryder-2021-g.jpg",
-    "titles": [
-      "2025 U.S. Ryder Cup team: Scottie Scheffler, Bryson DeChambeau headline six players to automatically qualify",
-      "Scottie Scheffler leads 6 qualifiers for US Ryder Cup team"
-    ],
-    "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.964,
-      "consensus": 0.682,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.658,
-    "summary": "Bryson DeChambeau has qualified for the U.S. Ryder Cup team, marking his return since 2021. He secured one of the six automatic spots without any Americans surpassing him in the standings during the final week of qualifying. DeChambeau will be the second LIV Golf player to participate in consecutive Ryder Cups for the U.S. team, joining a mix of rookies and veterans from the 2021 squad.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 68 tokens",
-    "image": {
-      "src": "icons/usa.svg",
-      "thumbnail": "icons/usa.svg",
-      "alt": "u s flag",
-      "credit": "Twemoji",
-      "license": "CC-BY-4.0",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": true
-    }
-  },
-  {
-    "title": "Hurricane Erin Downgraded, Yet Poses Threat to Puerto Rico",
+    "title": "Ukraine and Russia Advance Military Drones for Combat and Scouting",
     "domain": "business",
-    "source_domain": "www.bbc.com",
+    "source_domain": "www.businessinsider.com",
     "location": "global",
-    "published": "Sun, 17 Aug 2025 13:39:29 GMT",
-    "source": "BBC",
+    "published": "2025-08-18T06:25:43Z",
+    "source": "Business Insider",
     "sources": [
-      "Financial Post",
-      "BBC"
+      "Business Insider"
     ],
     "domains": [
-      "www.bbc.com",
-      "financialpost.com"
+      "www.businessinsider.com"
     ],
     "snippets": [
-      "The \"extremely powerful\" storm is downgraded in intensity but could still bring life-threatening effects.",
-      "Hurricane Erin’s winds are expected to intensify as the dangerous storm grows overnight while it moves past Puerto Rico, the US National Hurricane Center said."
+      "While Ukraine has been developing hundreds of \"iron soldiers\" for combat, evacuation, and scouting, Russia is testing its own ground-based drones too."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19dd/live/da4bd500-7b23-11f0-8f46-bb449e980cf1.jpg",
+    "image_url": "https://i.insider.com/68a2af60194a2d49b8aeb4ff?format=jpeg",
     "titles": [
-      "Hurricane Erin grows in size as it barrels towards Caribbean",
-      "Hurricane Erin’s Winds to Pick Up as Storm Leaves Caribbean Area"
+      "Russia is experimenting in Ukraine's robot war with uncrewed rocket launchers, hoverboards, and a box on wheels"
     ],
     "score_components": {
-      "magnitude": 0.7,
-      "recency": 0.788,
-      "consensus": 0.682,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.623,
-    "summary": "Hurricane Erin, previously described as \"extremely powerful,\" has been downgraded in intensity but remains a significant threat. Despite the downgrade, it is expected to intensify overnight as it passes Puerto Rico, according to the US National Hurricane Center. The storm still poses life-threatening risks.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 45 tokens",
-    "image": {
-      "src": "icons/briefcase.svg",
-      "thumbnail": "icons/briefcase.svg",
-      "alt": "business",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "Study Links Vitamin D in Pregnancy to Higher Child Cognitive Skills",
-    "domain": "science",
-    "source_domain": "scitechdaily.com",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 21:43:33 +0000",
-    "source": "SciTechDaily",
-    "sources": [
-      "SciTechDaily"
-    ],
-    "domains": [
-      "scitechdaily.com"
-    ],
-    "snippets": [
-      "<a href=\"https://scitechdaily.com/vitamin-d-in-pregnancy-linked-to-stronger-cognitive-skills-in-children-study-finds/\" rel=\"nofollow\" title=\"Vitamin D in Pregnancy Linked to Stronger Cognitive Skills in Children, Study Finds\"><img alt=\"Very Pregnant Belly\" class=\"webfeedsFeaturedVisual wp-post-image"
-    ],
-    "image_url": "",
-    "titles": [
-      "Vitamin D in Pregnancy Linked to Stronger Cognitive Skills in Children, Study Finds"
-    ],
-    "score_components": {
-      "magnitude": 0.4,
-      "recency": 0.952,
+      "magnitude": 0.44,
+      "recency": 0.966,
       "consensus": 0.393,
-      "constructiveness": 0.316,
+      "constructiveness": 0.186,
       "proximity": 0.5
     },
-    "score": 0.51,
-    "summary": "A study has found that vitamin D intake during pregnancy is associated with enhanced cognitive skills in children. This research highlights the potential benefits of vitamin D supplementation for pregnant individuals to support their child's cognitive development.",
-    "constructiveness_score": 0.316,
-    "constructiveness_reason": "3 constructive keywords out of 38 tokens",
-    "image": {
-      "src": "icons/beaker.svg",
-      "thumbnail": "icons/beaker.svg",
-      "alt": "science",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "Oil Prices Drop Post US-Russia Summit; Stocks Await Trump-Ukraine Talks",
-    "domain": "business",
-    "source_domain": "financialpost.com",
-    "location": "national",
-    "published": "Sun, 17 Aug 2025 23:07:28 +0000",
-    "source": "Financial Post",
-    "sources": [
-      "Financial Post"
-    ],
-    "domains": [
-      "financialpost.com"
-    ],
-    "snippets": [
-      "Oil dipped as the US-Russia summit ended without any geopolitical escalation, easing concerns of supply disruption. Stocks were set for a tepid start ahead of talks between Donald Trump and Ukraine’s president."
-    ],
-    "image_url": "",
-    "titles": [
-      "Oil Dips After US-Russia Meeting, Stocks Cautious: Markets Wrap"
-    ],
-    "score_components": {
-      "magnitude": 0.46,
-      "recency": 0.98,
-      "consensus": 0.393,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.505,
-    "summary": "Oil prices fell after the US-Russia summit concluded without any geopolitical escalation, reducing fears of supply disruptions. Meanwhile, stock markets were cautious, awaiting the outcome of upcoming discussions between US President Donald Trump and Ukraine's leader.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 38 tokens",
-    "image": {
-      "src": "icons/usa.svg",
-      "thumbnail": "icons/usa.svg",
-      "alt": "us flag",
-      "credit": "Twemoji",
-      "license": "CC-BY-4.0",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": true
-    }
-  },
-  {
-    "title": "Oil Prices Dip Ahead of Trump-Zelenskiy Meeting on Ukraine Peace Talks",
-    "domain": "business",
-    "source_domain": "financialpost.com",
-    "location": "national",
-    "published": "Sun, 17 Aug 2025 22:47:06 +0000",
-    "source": "Financial Post",
-    "sources": [
-      "Financial Post"
-    ],
-    "domains": [
-      "financialpost.com"
-    ],
-    "snippets": [
-      "Oil slipped as traders turned their attention to Donald Trump’s meeting with Volodymyr Zelenskiy on Monday, with the Ukrainian leader facing US pressure to reach a peace deal with Russia that involves ceding territory."
-    ],
-    "image_url": "",
-    "titles": [
-      "Oil Dips as Focus Shifts to Zelenskiy Meet After Putin Summit"
-    ],
-    "score_components": {
-      "magnitude": 0.46,
-      "recency": 0.973,
-      "consensus": 0.393,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.504,
-    "summary": "Oil prices decreased as traders focused on the upcoming meeting between Donald Trump and Volodymyr Zelenskiy. The Ukrainian leader is under pressure from the US to negotiate a peace agreement with Russia, potentially involving territorial concessions.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 36 tokens",
+    "score": 0.514,
+    "summary": "Ukraine is actively developing \"iron soldiers,\" which are drones for combat, evacuation, and scouting purposes. Simultaneously, Russia is also conducting tests on its ground-based drones. This development indicates an ongoing effort by both nations to enhance their military capabilities through unmanned systems.",
+    "constructiveness_score": 0.186,
+    "constructiveness_reason": "2 constructive keywords out of 43 tokens",
     "image": {
       "src": "icons/ukraine.svg",
       "thumbnail": "icons/ukraine.svg",
@@ -996,79 +949,36 @@
     }
   },
   {
-    "title": "Link Between Cholesterol Movement in Brain and Alzheimer's Found",
-    "domain": "science",
-    "source_domain": "scitechdaily.com",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 22:08:30 +0000",
-    "source": "SciTechDaily",
+    "title": "Gas Prices Drop Before Trump-Zelenskiy Meeting Amid Ukraine Peace Talks",
+    "domain": "business",
+    "source_domain": "financialpost.com",
+    "location": "national",
+    "published": "Mon, 18 Aug 2025 06:45:53 +0000",
+    "source": "Financial Post",
     "sources": [
-      "SciTechDaily"
+      "Financial Post"
     ],
     "domains": [
-      "scitechdaily.com"
+      "financialpost.com"
     ],
     "snippets": [
-      "<a href=\"https://scitechdaily.com/scientists-uncover-hidden-link-between-cholesterol-flow-and-alzheimers-disease/\" rel=\"nofollow\" title=\"Scientists Uncover Hidden Link Between Cholesterol Flow and Alzheimer’s Disease\"><img alt=\"Alzheimer&#039;s Losing Brain\" class=\"webfeedsFeaturedVisual wp-post-ima"
+      "European natural gas prices fell to a fresh 2025 low ahead of US President Donald Trump’s meeting with Ukraine’s Volodymyr Zelenskiy, who faces pressure to reach a peace deal with Russia that involves ceding territory."
     ],
     "image_url": "",
     "titles": [
-      "Scientists Uncover Hidden Link Between Cholesterol Flow and Alzheimer’s Disease"
-    ],
-    "score_components": {
-      "magnitude": 0.42,
-      "recency": 0.96,
-      "consensus": 0.393,
-      "constructiveness": 0.17,
-      "proximity": 0.5
-    },
-    "score": 0.504,
-    "summary": "Scientists have discovered a hidden connection between cholesterol movement in the brain and Alzheimer's disease. Research suggests that disruptions in cholesterol transport within brain cells may contribute to the development of Alzheimer's. This finding could lead to new treatments or prevention strategies for the disease.",
-    "constructiveness_score": 0.17,
-    "constructiveness_reason": "2 constructive keywords out of 47 tokens",
-    "image": {
-      "src": "icons/beaker.svg",
-      "thumbnail": "icons/beaker.svg",
-      "alt": "science",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "EU, NATO Leaders to Discuss Ukraine Issues with President at White House",
-    "domain": "business",
-    "source_domain": "www.forbes.com",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 16:52:11 -0400",
-    "source": "Forbes",
-    "sources": [
-      "Forbes"
-    ],
-    "domains": [
-      "www.forbes.com"
-    ],
-    "snippets": [
-      "Leaders from the EU and NATO will join the Ukrainian president at the White House."
-    ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68a240bec59f3c027f0496a1/0x0.jpg",
-    "titles": [
-      "Trump And Zelenskyy Set For High-Stakes White House Meeting Monday: Here’s What To Know"
+      "European Gas Falls to New 2025 Low Before Zelenskiy-Trump Talks"
     ],
     "score_components": {
       "magnitude": 0.46,
-      "recency": 0.935,
+      "recency": 0.972,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.496,
-    "summary": "Leaders from the European Union (EU) and the North Atlantic Treaty Organization (NATO) are set to meet with the Ukrainian president at the White House. This gathering signifies a high-level discussion involving key international figures and alliances, focusing on matters related to Ukraine.",
+    "score": 0.504,
+    "summary": "European natural gas prices dropped to their lowest level since 2025 before a scheduled meeting between US President Donald Trump and Ukraine's President Volodymyr Zelenskiy. The meeting comes as Zelenskiy is under pressure to negotiate a peace agreement with Russia, which may include giving up territory.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 44 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 47 tokens",
     "image": {
       "src": "icons/ukraine.svg",
       "thumbnail": "icons/ukraine.svg",
@@ -1082,54 +992,11 @@
     }
   },
   {
-    "title": "Fed Chair Powell's Speech, Reserve Minutes Highlight Upcoming Week",
-    "domain": "business",
-    "source_domain": "fortune.com",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 23:31:24 +0000",
-    "source": "Fortune",
-    "sources": [
-      "Fortune"
-    ],
-    "domains": [
-      "fortune.com"
-    ],
-    "snippets": [
-      "Fed minutes are due, and top retailers will report earnings in the coming week. But the main attraction will be Jerome Powell's speech on Friday."
-    ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2229156847-e1755467277622.jpg?w=2048",
-    "titles": [
-      "Dow futures rise as updates this week from the Fed and top retailers will test Wall Street’s big rally"
-    ],
-    "score_components": {
-      "magnitude": 0.42,
-      "recency": 0.988,
-      "consensus": 0.393,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.493,
-    "summary": "The upcoming week will see the release of Federal Reserve meeting minutes and earnings reports from major retailers. However, the highlight will be Federal Reserve Chair Jerome Powell's speech on Friday.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 32 tokens",
-    "image": {
-      "src": "icons/briefcase.svg",
-      "thumbnail": "icons/briefcase.svg",
-      "alt": "business",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "U.S. Equity Futures Rise on Hopes of Fed Rate Cuts",
+    "title": "European Stocks Mixed as Traders Eye Trump Meeting on Ukraine Situation",
     "domain": "business",
     "source_domain": "www.cnbc.com",
     "location": "national",
-    "published": "Sun, 17 Aug 2025 23:58:55 GMT",
+    "published": "Mon, 18 Aug 2025 07:25:01 GMT",
     "source": "CNBC",
     "sources": [
       "CNBC"
@@ -1138,27 +1005,27 @@
       "www.cnbc.com"
     ],
     "snippets": [
-      "U.S. equity futures ticked up in early Asia hours on hopes for rates cuts by the US. Federal Reserve fueled a winning week on Wall Street."
+      "European stocks opened in mixed territory on Monday as traders focus on a meeting between regional leaders and President Trump to discuss Ukraine."
     ],
     "image_url": "",
     "titles": [
-      "Asia-Pacific markets set to mostly open higher as investors await details of U.S.-Ukraine talks"
+      "European stocks trade mixed ahead of Trump-Ukraine crunch talks"
     ],
     "score_components": {
-      "magnitude": 0.4,
-      "recency": 0.977,
+      "magnitude": 0.46,
+      "recency": 0.965,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.484,
-    "summary": "U.S. equity futures rose in early Asia trading due to expectations of interest rate cuts by the Federal Reserve, leading to a positive week on Wall Street. This optimism reflects hopes for economic stimulus measures, indicating a positive sentiment among investors.",
+    "score": 0.502,
+    "summary": "European stocks showed mixed performance at the opening on Monday. Traders are closely watching a meeting between regional leaders and President Trump to address the situation in Ukraine. The outcome of the meeting and its impact on the markets remain uncertain.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 42 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 41 tokens",
     "image": {
-      "src": "icons/usa.svg",
-      "thumbnail": "icons/usa.svg",
-      "alt": "u s flag",
+      "src": "icons/ukraine.svg",
+      "thumbnail": "icons/ukraine.svg",
+      "alt": "ukraine flag",
       "credit": "Twemoji",
       "license": "CC-BY-4.0",
       "provider": "local",
@@ -1168,40 +1035,40 @@
     }
   },
   {
-    "title": "\"85% Rule Suggests Speed Limits Based on Actual Driving Behaviors\"",
+    "title": "Companies Return to Traditional Hiring Amid AI Concerns",
     "domain": "business",
-    "source_domain": "fortune.com",
+    "source_domain": "www.businessinsider.com",
     "location": "global",
-    "published": "Sun, 17 Aug 2025 23:11:16 +0000",
-    "source": "Fortune",
+    "published": "2025-08-18T07:56:02Z",
+    "source": "Business Insider",
     "sources": [
-      "Fortune"
+      "Business Insider"
     ],
     "domains": [
-      "fortune.com"
+      "www.businessinsider.com"
     ],
     "snippets": [
-      "The 85% rule suggests a road’s posted speed should be tied to the 15th-fastest vehicle out of every 100 traveling it in free-flowing traffic."
+      "In a hiring process exhausted by AI, it's time to apply to jobs like it's 1999. Old-school paper resumes and in-person interviews are back."
     ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/AP25224671225955-e1755471481295.jpg?w=2048",
+    "image_url": "https://i.insider.com/689f5da5194a2d49b8aea564?format=jpeg",
     "titles": [
-      "Today’s speed limits grew out of studies on rural roads from the 1930s and 1940s. Now states are looking to change guidelines"
+      "Paper résumés, trick questions, in-person job interviews: Hiring is going old school to escape AI slop"
     ],
     "score_components": {
-      "magnitude": 0.4,
-      "recency": 0.981,
+      "magnitude": 0.42,
+      "recency": 0.996,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.484,
-    "summary": "The 85% rule recommends setting a road's speed limit based on the speed at which 85% of vehicles are traveling under free-flowing conditions, specifically the speed not exceeded by the 15th-fastest vehicle out of 100. This approach aims to create a realistic and enforceable speed limit that reflects actual driving behaviors.",
+    "score": 0.494,
+    "summary": "In response to challenges posed by AI in hiring processes, there has been a shift back towards traditional methods. Companies are increasingly valuing paper resumes and in-person interviews, reminiscent of practices common in 1999. This change aims to enhance the recruitment experience by focusing on more personal and direct methods of assessment.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 54 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 53 tokens",
     "image": {
-      "src": "icons/briefcase.svg",
-      "thumbnail": "icons/briefcase.svg",
-      "alt": "business",
+      "src": "icons/robot.svg",
+      "thumbnail": "icons/robot.svg",
+      "alt": "ai",
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
@@ -1211,36 +1078,122 @@
     }
   },
   {
-    "title": "Study Finds Dogs' Drinking Water May Contain Harmful Metals",
-    "domain": "science",
-    "source_domain": "scitechdaily.com",
+    "title": "\"Quiet Cracking\" Trend Sees Workers Turning to AI for Career Advice",
+    "domain": "business",
+    "source_domain": "www.forbes.com",
     "location": "global",
-    "published": "Sun, 17 Aug 2025 21:18:32 +0000",
-    "source": "SciTechDaily",
+    "published": "Mon, 18 Aug 2025 03:15:00 -0400",
+    "source": "Forbes",
     "sources": [
-      "SciTechDaily"
+      "Forbes"
     ],
     "domains": [
-      "scitechdaily.com"
+      "www.forbes.com"
     ],
     "snippets": [
-      "<a href=\"https://scitechdaily.com/study-warns-your-dogs-drinking-water-could-be-laced-with-dangerous-metals/\" rel=\"nofollow\" title=\"Study Warns: Your Dogs’ Drinking Water Could Be Laced With Dangerous Metals\"><img alt=\"Dog Drinking Water Bowl\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518"
+      "A new trend is quiet cracking. People at work are silently feeling stuck. What are they to do? One path involves getting advice from AI. Here's the AI Insider scoop."
     ],
-    "image_url": "",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68a1601e2e7d19d8f185a905/0x0.jpg?width=960",
     "titles": [
-      "Study Warns: Your Dogs’ Drinking Water Could Be Laced With Dangerous Metals"
+      "New Quiet Cracking Trend About People In The Workplace Gets Uncracked By AI Providing Mental Health Support"
     ],
     "score_components": {
       "magnitude": 0.42,
-      "recency": 0.944,
+      "recency": 0.982,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.484,
-    "summary": "A study has found that dogs' drinking water may contain dangerous metals, posing a health risk. Researchers have discovered that water intended for canine consumption can be contaminated with harmful substances, highlighting the need for owners to be vigilant about the water quality their pets consume.",
+    "score": 0.492,
+    "summary": "A growing trend, termed \"quiet cracking,\" involves individuals feeling stagnated in their careers but not openly discussing these challenges. To navigate this, some are turning to AI for guidance, seeking insights on potential solutions. This approach represents a modern strategy for addressing professional dissatisfaction.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 46 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 44 tokens",
+    "image": {
+      "src": "icons/robot.svg",
+      "thumbnail": "icons/robot.svg",
+      "alt": "ai",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "OpenAI CEO Sam Altman Says AI Market in a Bubble, Echoes Dotcom Era",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Mon, 18 Aug 2025 07:51:41 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "domains": [
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, similar to the dotcom bubble, he recently told reporters."
+    ],
+    "image_url": "",
+    "titles": [
+      "OpenAI's Sam Altman sees AI bubble forming as industry spending surges"
+    ],
+    "score_components": {
+      "magnitude": 0.42,
+      "recency": 0.974,
+      "consensus": 0.393,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.49,
+    "summary": "OpenAI CEO Sam Altman recently stated that he believes the artificial intelligence market is currently experiencing a bubble, drawing parallels to the dotcom bubble. This viewpoint was shared with reporters, indicating Altman's perspective on the state of the AI industry.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 41 tokens",
+    "image": {
+      "src": "icons/robot.svg",
+      "thumbnail": "icons/robot.svg",
+      "alt": "ai",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Deforestation Threatens Anjouan's Ecosystem and Biodiversity",
+    "domain": "science",
+    "source_domain": "phys.org",
+    "location": "global",
+    "published": "Mon, 18 Aug 2025 03:21:06 EDT",
+    "source": "Phys.org",
+    "sources": [
+      "Phys.org"
+    ],
+    "domains": [
+      "phys.org"
+    ],
+    "snippets": [
+      "Strips of bare land scar the lush and green mountainsides towering above Mutsamudu, the capital of the Indian Ocean island of Anjouan."
+    ],
+    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/comoros-lost-80-percen.jpg",
+    "titles": [
+      "Fight to save last forests of the Comoros unites farmers, NGOs"
+    ],
+    "score_components": {
+      "magnitude": 0.4,
+      "recency": 0.984,
+      "consensus": 0.393,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.485,
+    "summary": "Bare land patches are visible on the green mountains surrounding Mutsamudu, Anjouan's capital. This deforestation is a concern for the island's ecosystem and biodiversity. The impact on the environment and efforts to address deforestation are ongoing.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 38 tokens",
     "image": {
       "src": "icons/beaker.svg",
       "thumbnail": "icons/beaker.svg",
@@ -1254,46 +1207,346 @@
     }
   },
   {
-    "title": "U.S. Stock Futures Rise Post U.S.-Russia Summit; Eyes on Fed Meeting",
-    "domain": "business",
-    "source_domain": "www.marketwatch.com",
+    "title": "NASA Team Explores Bedrock in Hollow for Geological Insights",
+    "domain": "science",
+    "source_domain": "science.nasa.gov",
     "location": "global",
-    "published": "Sun, 17 Aug 2025 23:55:00 GMT",
-    "source": "MarketWatch",
+    "published": "Mon, 18 Aug 2025 07:03:09 +0000",
+    "source": "NASA",
     "sources": [
-      "MarketWatch"
+      "NASA"
     ],
     "domains": [
-      "www.marketwatch.com"
+      "science.nasa.gov"
     ],
     "snippets": [
-      "U.S. stock-market futures rose slightly Sunday, after Friday’s summit between U.S. and Russian leaders ended without a major breakthrough and as investors await this week’s Fed gathering in Jackson Hole, Wyo."
+      "Written by Elena Amador-French, Science Operations Coordinator at NASA’s Jet Propulsion Laboratory Earth planning date: Wednesday, Aug. 13, 2025 Today’s team investigated the texture and chemistry of the bedrock within a topographic low, or hollow, found within the greater boxwork area. We will plac"
     ],
-    "image_url": "https://images.mktw.net/im-26706517",
+    "image_url": "",
     "titles": [
-      "U.S. stock futures inch higher following Trump-Putin summit; Wall Street awaits Fed’s Jackson Hole meeting"
+      "Curiosity Blog, Sols 4629-4630: Feeling Hollow"
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.976,
+      "recency": 0.978,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.483,
-    "summary": "U.S. stock-market futures experienced a slight increase on Sunday following the conclusion of a summit between U.S. and Russian leaders, which did not result in a significant breakthrough. Investors are now looking forward to the Federal Reserve's meeting in Jackson Hole, Wyoming, later this week.",
+    "score": 0.484,
+    "summary": "NASA's Jet Propulsion Laboratory team, led by Science Operations Coordinator Elena Amador-French, explored the texture and chemistry of bedrock in a hollow within the greater boxwork area on August 13, 2025. The investigation aims to understand the geological features of the site.",
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 49 tokens",
+    "constructiveness_reason": "0 constructive keywords out of 44 tokens",
     "image": {
-      "src": "icons/usa.svg",
-      "thumbnail": "icons/usa.svg",
-      "alt": "u s flag",
-      "credit": "Twemoji",
-      "license": "CC-BY-4.0",
+      "src": "icons/telescope.svg",
+      "thumbnail": "icons/telescope.svg",
+      "alt": "nasa",
+      "credit": "Heroicons",
+      "license": "MIT",
       "provider": "local",
       "source": "local",
       "inlineRight": true,
-      "noDesaturate": true
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Dr. Johnson Publishes Pet Safety Tips in Veterinary Journal",
+    "domain": "science",
+    "source_domain": "phys.org",
+    "location": "global",
+    "published": "Mon, 18 Aug 2025 00:00:01 EDT",
+    "source": "Phys.org",
+    "sources": [
+      "Phys.org"
+    ],
+    "domains": [
+      "phys.org"
+    ],
+    "snippets": [
+      "Dr. Jake Johnson, cardiology resident at North Carolina State University's College of Veterinary Medicine, is the author of a recent article published in Frontiers in Veterinary Science. Here, he discusses his findings and how to protect pets from future accidents."
+    ],
+    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/dog-1.jpg",
+    "titles": [
+      "Q&A: What do you do if your dog ingests cocaine?"
+    ],
+    "score_components": {
+      "magnitude": 0.4,
+      "recency": 0.918,
+      "consensus": 0.393,
+      "constructiveness": 0.068,
+      "proximity": 0.5
+    },
+    "score": 0.479,
+    "summary": "Dr. Jake Johnson, a cardiology resident at North Carolina State University's College of Veterinary Medicine, authored an article in Frontiers in Veterinary Science on protecting pets from accidents. His research offers insights and preventative measures for pet owners to safeguard their animals. The article is a contribution to veterinary science with a focus on accident prevention for pets.",
+    "constructiveness_score": 0.068,
+    "constructiveness_reason": "1 constructive keywords out of 59 tokens",
+    "image": {
+      "src": "icons/beaker.svg",
+      "thumbnail": "icons/beaker.svg",
+      "alt": "science",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "UC Berkeley Advances Methane Tracking with CRISPR Technology",
+    "domain": "science",
+    "source_domain": "www.sciencedaily.com",
+    "location": "global",
+    "published": "Sun, 17 Aug 2025 23:27:32 EDT",
+    "source": "ScienceDaily",
+    "sources": [
+      "ScienceDaily"
+    ],
+    "domains": [
+      "www.sciencedaily.com"
+    ],
+    "snippets": [
+      "Roughly two-thirds of all atmospheric methane, a potent greenhouse gas, comes from methanogens. Tracking down which methanogens in which environment produce methane with a specific isotope signature is difficult, however. UC Berkeley researchers have for the first time CRISPRed the key enzyme involv"
+    ],
+    "image_url": "",
+    "titles": [
+      "Scientists just found a hidden factor behind Earth’s methane surge"
+    ],
+    "score_components": {
+      "magnitude": 0.4,
+      "recency": 0.908,
+      "consensus": 0.393,
+      "constructiveness": 0.068,
+      "proximity": 0.5
+    },
+    "score": 0.477,
+    "summary": "UC Berkeley researchers have successfully used CRISPR technology on the key enzyme of methanogens, organisms responsible for producing about two-thirds of atmospheric methane, a significant greenhouse gas. This breakthrough allows for the first-time identification of specific methanogens in various environments based on their methane's isotope signature. This advancement could improve understanding and tracking of methane emissions.",
+    "constructiveness_score": 0.068,
+    "constructiveness_reason": "1 constructive keywords out of 59 tokens",
+    "image": {
+      "src": "icons/dna.svg",
+      "thumbnail": "icons/dna.svg",
+      "alt": "crispr",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Study Reveals Herbivores Eat More Than Just Grass",
+    "domain": "science",
+    "source_domain": "scitechdaily.com",
+    "location": "global",
+    "published": "Mon, 18 Aug 2025 03:06:37 +0000",
+    "source": "SciTechDaily",
+    "sources": [
+      "SciTechDaily"
+    ],
+    "domains": [
+      "scitechdaily.com"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/dna-evidence-reveals-herbivores-eat-far-more-than-just-grass/\" rel=\"nofollow\" title=\"DNA Evidence Reveals Herbivores Eat Far More Than Just Grass\"><img alt=\"Bison Grazing on Flowers\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"583\" src=\"https://scitechdaily"
+    ],
+    "image_url": "",
+    "titles": [
+      "DNA Evidence Reveals Herbivores Eat Far More Than Just Grass"
+    ],
+    "score_components": {
+      "magnitude": 0.4,
+      "recency": 0.901,
+      "consensus": 0.393,
+      "constructiveness": 0.07,
+      "proximity": 0.5
+    },
+    "score": 0.475,
+    "summary": "DNA evidence has shown that herbivores consume a broader range of foods than previously thought, not just grass. This new understanding comes from a study analyzing the diet of animals like bison, revealing they also eat flowers and other plants. This research provides insights into the dietary habits of herbivores, expanding our knowledge of their feeding behaviors.",
+    "constructiveness_score": 0.07,
+    "constructiveness_reason": "1 constructive keywords out of 57 tokens",
+    "image": {
+      "src": "icons/beaker.svg",
+      "thumbnail": "icons/beaker.svg",
+      "alt": "science",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "The case of the coke-snorting Chihuahua",
+    "domain": "technology",
+    "source_domain": "arstechnica.com",
+    "location": "global",
+    "published": "Mon, 18 Aug 2025 04:01:55 +0000",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "domains": [
+      "arstechnica.com"
+    ],
+    "snippets": [
+      "Cocaine normally makes the heart race, but in this case the dog was lethargic, with a slower heart rate."
+    ],
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/doggy1-1152x648-1755445566.jpg",
+    "titles": [
+      "The case of the coke-snorting Chihuahua"
+    ],
+    "score_components": {
+      "magnitude": 0.4,
+      "recency": 0.919,
+      "consensus": 0.393,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.472,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 7 tokens",
+    "image": {
+      "src": "icons/light-bulb.svg",
+      "thumbnail": "icons/light-bulb.svg",
+      "alt": "technology",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Exploring the Path to Self-Forgiveness: Strategies and Benefits",
+    "domain": "science",
+    "source_domain": "scitechdaily.com",
+    "location": "global",
+    "published": "Mon, 18 Aug 2025 03:31:40 +0000",
+    "source": "SciTechDaily",
+    "sources": [
+      "SciTechDaily"
+    ],
+    "domains": [
+      "scitechdaily.com"
+    ],
+    "snippets": [
+      "<a href=\"https://scitechdaily.com/why-forgiving-yourself-is-so-hard-and-how-to-finally-do-it/\" rel=\"nofollow\" title=\"Why Forgiving Yourself Is So Hard and How to Finally Do It\"><img alt=\"Depressed Sad Woman Sitting\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"437\" src=\"https://scitechdaily."
+    ],
+    "image_url": "",
+    "titles": [
+      "Why Forgiving Yourself Is So Hard and How to Finally Do It"
+    ],
+    "score_components": {
+      "magnitude": 0.4,
+      "recency": 0.909,
+      "consensus": 0.393,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.47,
+    "summary": "A recent article on SciTechDaily discusses the challenges of self-forgiveness and offers insights into overcoming them. It explains why many people find it hard to forgive themselves, attributing the difficulty to internalized guilt and high personal standards. The article provides strategies for self-forgiveness, emphasizing the importance of acknowledging mistakes, understanding one's own humanity, and the process of healing. This piece aims to guide individuals on a path to forgiving themselves, highlighting the mental health benefits of doing so.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 81 tokens",
+    "image": {
+      "src": "icons/beaker.svg",
+      "thumbnail": "icons/beaker.svg",
+      "alt": "science",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Extinct Shelduck Species Discovered on Chatham Islands",
+    "domain": "science",
+    "source_domain": "www.sciencedaily.com",
+    "location": "global",
+    "published": "Sun, 17 Aug 2025 23:16:48 EDT",
+    "source": "ScienceDaily",
+    "sources": [
+      "ScienceDaily"
+    ],
+    "domains": [
+      "www.sciencedaily.com"
+    ],
+    "snippets": [
+      "Scientists have uncovered an extinct shelduck from the Chatham Islands that evolved shorter wings and stronger legs, adapting to a predator-free, windy environment. It vanished before the 19th century, likely due to hunting and predation."
+    ],
+    "image_url": "",
+    "titles": [
+      "Scientists uncover the lost shelduck that chose walking over flight"
+    ],
+    "score_components": {
+      "magnitude": 0.4,
+      "recency": 0.904,
+      "consensus": 0.393,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.469,
+    "summary": "Scientists discovered an extinct species of shelduck on the Chatham Islands, which evolved with shorter wings and stronger legs to adapt to a windy, predator-free habitat. This bird species disappeared before the 19th century, likely as a result of human hunting and new predators introduced to the islands.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 49 tokens",
+    "image": {
+      "src": "icons/beaker.svg",
+      "thumbnail": "icons/beaker.svg",
+      "alt": "science",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Rising CO₂ May Intensify Satellite Drag During Geomagnetic Storms",
+    "domain": "science",
+    "source_domain": "www.sciencedaily.com",
+    "location": "global",
+    "published": "Sun, 17 Aug 2025 23:04:56 EDT",
+    "source": "ScienceDaily",
+    "sources": [
+      "ScienceDaily"
+    ],
+    "domains": [
+      "www.sciencedaily.com"
+    ],
+    "snippets": [
+      "Rising CO₂ levels will make the upper atmosphere colder and thinner, altering how geomagnetic storms impact satellites. Future storms could cause sharper density spikes despite lower overall density, increasing drag-related challenges."
+    ],
+    "image_url": "",
+    "titles": [
+      "The surprising way rising CO2 could supercharge space storms"
+    ],
+    "score_components": {
+      "magnitude": 0.4,
+      "recency": 0.901,
+      "consensus": 0.393,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.468,
+    "summary": "Increasing CO₂ levels are expected to cool and thin the upper atmosphere, affecting geomagnetic storm interactions with satellites. This change may lead to more pronounced density spikes during storms, despite a general decrease in atmospheric density, potentially heightening drag-related issues for satellites.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "0 constructive keywords out of 43 tokens",
+    "image": {
+      "src": "icons/beaker.svg",
+      "thumbnail": "icons/beaker.svg",
+      "alt": "science",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -1318,61 +1571,18 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.94,
+      "recency": 0.796,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.476,
+    "score": 0.447,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 8 tokens",
     "image": {
       "src": "icons/light-bulb.svg",
       "thumbnail": "icons/light-bulb.svg",
       "alt": "technology",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "8.8 Magnitude Earthquake Triggers Tsunami, SWOT Satellite Captures Details",
-    "domain": "science",
-    "source_domain": "www.sciencedaily.com",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 12:13:39 EDT",
-    "source": "ScienceDaily",
-    "sources": [
-      "ScienceDaily"
-    ],
-    "domains": [
-      "www.sciencedaily.com"
-    ],
-    "snippets": [
-      "When a massive 8.8 magnitude earthquake struck off Russia’s Kamchatka Peninsula, NASA and CNES’s SWOT satellite captured a rare and detailed picture of the tsunami that followed. Recorded just over an hour after the quake, the satellite revealed the wave’s height, shape, and path, offering scientist"
-    ],
-    "image_url": "",
-    "titles": [
-      "NASA’s SWOT satellite captures Kamchatka megaquake tsunami in striking detail"
-    ],
-    "score_components": {
-      "magnitude": 0.42,
-      "recency": 0.849,
-      "consensus": 0.393,
-      "constructiveness": 0.077,
-      "proximity": 0.5
-    },
-    "score": 0.473,
-    "summary": "A massive 8.8 magnitude earthquake off Russia's Kamchatka Peninsula led to a tsunami, which was captured in detail by NASA and CNES's SWOT satellite over an hour after the event. The satellite data provided unprecedented insights into the tsunami's height, shape, and path, aiding scientists in their research.",
-    "constructiveness_score": 0.077,
-    "constructiveness_reason": "1 constructive keywords out of 52 tokens",
-    "image": {
-      "src": "icons/beaker.svg",
-      "thumbnail": "icons/beaker.svg",
-      "alt": "science",
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
@@ -1403,12 +1613,12 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.921,
+      "recency": 0.779,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.472,
+    "score": 0.444,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 7 tokens",
     "image": {
@@ -1421,178 +1631,6 @@
       "source": "local",
       "inlineRight": true,
       "noDesaturate": false
-    }
-  },
-  {
-    "title": "Rediscovered Particle Key to Quantum Computing Breakthrough",
-    "domain": "science",
-    "source_domain": "scitechdaily.com",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 16:28:51 +0000",
-    "source": "SciTechDaily",
-    "sources": [
-      "SciTechDaily"
-    ],
-    "domains": [
-      "scitechdaily.com"
-    ],
-    "snippets": [
-      "<a href=\"https://scitechdaily.com/lost-particle-resurfaces-as-the-key-to-universal-quantum-computing/\" rel=\"nofollow\" title=\"Lost Particle Resurfaces As the Key to Universal Quantum Computing\"><img alt=\"Quantum Computing Particle Physics Art\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\""
-    ],
-    "image_url": "",
-    "titles": [
-      "Lost Particle Resurfaces As the Key to Universal Quantum Computing"
-    ],
-    "score_components": {
-      "magnitude": 0.4,
-      "recency": 0.853,
-      "consensus": 0.393,
-      "constructiveness": 0.125,
-      "proximity": 0.5
-    },
-    "score": 0.471,
-    "summary": "Researchers have rediscovered a previously overlooked particle, now deemed crucial for the advancement of universal quantum computing. This breakthrough is expected to significantly impact the development and efficiency of quantum computing technologies.",
-    "constructiveness_score": 0.125,
-    "constructiveness_reason": "1 constructive keywords out of 32 tokens",
-    "image": {
-      "src": "icons/atom.svg",
-      "thumbnail": "icons/atom.svg",
-      "alt": "quantum",
-      "credit": "Tabler",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "New Method Uses Sound Waves to Advance Quantum Computing",
-    "domain": "science",
-    "source_domain": "scitechdaily.com",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 16:53:19 +0000",
-    "source": "SciTechDaily",
-    "sources": [
-      "SciTechDaily"
-    ],
-    "domains": [
-      "scitechdaily.com"
-    ],
-    "snippets": [
-      "<a href=\"https://scitechdaily.com/sound-waves-unlock-a-new-path-to-practical-quantum-computing/\" rel=\"nofollow\" title=\"Sound Waves Unlock a New Path to Practical Quantum Computing\"><img alt=\"Sound Waves Quantum Information Art Concept\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"h"
-    ],
-    "image_url": "",
-    "titles": [
-      "Sound Waves Unlock a New Path to Practical Quantum Computing"
-    ],
-    "score_components": {
-      "magnitude": 0.4,
-      "recency": 0.861,
-      "consensus": 0.393,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.46,
-    "summary": "Researchers have developed a new method for advancing quantum computing by using sound waves. This innovative approach could significantly simplify the design and operation of quantum computers, potentially overcoming some of the major challenges in creating practical and scalable quantum computing systems. This breakthrough, detailed in a recent study, opens up new possibilities for the field by offering a more efficient way to process quantum information.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 66 tokens",
-    "image": {
-      "src": "icons/atom.svg",
-      "thumbnail": "icons/atom.svg",
-      "alt": "quantum",
-      "credit": "Tabler",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "New Geometric Structure Found, May Unlock Universe's Secrets",
-    "domain": "science",
-    "source_domain": "scitechdaily.com",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 16:03:23 +0000",
-    "source": "SciTechDaily",
-    "sources": [
-      "SciTechDaily"
-    ],
-    "domains": [
-      "scitechdaily.com"
-    ],
-    "snippets": [
-      "<a href=\"https://scitechdaily.com/the-hidden-geometry-that-could-explain-the-universe/\" rel=\"nofollow\" title=\"The Hidden Geometry That Could Explain the Universe\"><img alt=\"Shape Universe Algebraic Geometry\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"437\" src=\"https://scitechdaily.com/imag"
-    ],
-    "image_url": "",
-    "titles": [
-      "The Hidden Geometry That Could Explain the Universe"
-    ],
-    "score_components": {
-      "magnitude": 0.4,
-      "recency": 0.846,
-      "consensus": 0.393,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.457,
-    "summary": "Researchers have discovered a hidden geometric structure that could potentially explain the fundamental nature of the universe. This structure, rooted in algebraic geometry, offers new insights into the fabric of space-time and could lead to significant advancements in our understanding of the cosmos. The study, highlighting the importance of geometry in physics, suggests that this complex geometry might be key to unifying general relativity with quantum mechanics, a long-sought goal in physics.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 74 tokens",
-    "image": {
-      "src": "icons/beaker.svg",
-      "thumbnail": "icons/beaker.svg",
-      "alt": "science",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "US Restoration Projects Revive Natural Landscapes Nationwide",
-    "domain": "science",
-    "source_domain": "phys.org",
-    "location": "global",
-    "published": "Sun, 17 Aug 2025 11:18:51 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Phys.org"
-    ],
-    "domains": [
-      "phys.org"
-    ],
-    "snippets": [
-      "In San Francisco Bay, salt ponds created more than a century ago are reverting to marshland. Along the New York and New Jersey coasts, beaches ravaged by Superstorm Sandy underwent extensive restoration. In Alabama, a rebuilt spit of land is shielding a historic town and providing wildlife habitat."
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/coastal-communities-re.jpg",
-    "titles": [
-      "Coastal communities restoring marshes, dunes, reefs to protect against rising seas and storm surges"
-    ],
-    "score_components": {
-      "magnitude": 0.4,
-      "recency": 0.833,
-      "consensus": 0.393,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.455,
-    "summary": "Across the United States, efforts to restore natural landscapes are underway. In San Francisco Bay, century-old salt ponds are being transformed back into marshland. The coasts of New York and New Jersey, previously damaged by Superstorm Sandy, have seen extensive beach restoration. Meanwhile, in Alabama, a reconstructed spit of land now protects a historic town and serves as a habitat for wildlife. These projects aim to rejuvenate and safeguard natural environments and communities.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "0 constructive keywords out of 74 tokens",
-    "image": {
-      "src": "icons/usa.svg",
-      "thumbnail": "icons/usa.svg",
-      "alt": "us flag",
-      "credit": "Twemoji",
-      "license": "CC-BY-4.0",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": true
     }
   },
   {
@@ -1617,12 +1655,12 @@
     ],
     "score_components": {
       "magnitude": 0.42,
-      "recency": 0.777,
+      "recency": 0.658,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.451,
+    "score": 0.427,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 5 tokens",
     "image": {
@@ -1659,12 +1697,12 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.785,
+      "recency": 0.665,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.445,
+    "score": 0.421,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 13 tokens",
     "image": {
@@ -1701,12 +1739,12 @@
     ],
     "score_components": {
       "magnitude": 0.4,
-      "recency": 0.777,
+      "recency": 0.658,
       "consensus": 0.393,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.444,
+    "score": 0.42,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "0 constructive keywords out of 10 tokens",
     "image": {
