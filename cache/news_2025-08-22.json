@@ -1,57 +1,113 @@
 [
   {
-    "title": "Court Overturns $464M Fine Against Trump in Fraud Case, Upholds Other Sanctions",
+    "title": "Supreme Court Backs Trump Admin in Cutting DEI-Linked Grants",
     "domain": "general",
     "source_domain": "www.npr.org",
     "location": "national",
-    "published": "Thu, 21 Aug 2025 12:52:34 -0400",
+    "published": "Thu, 21 Aug 2025 17:41:09 -0400",
     "source": "NPR",
     "sources": [
-      "Financial Times",
+      "Al Jazeera",
+      "NPR",
       "The Guardian",
       "Axios",
-      "ABC News",
-      "Deutsche Welle",
-      "BBC",
-      "NPR"
+      "Forbes",
+      "LA Times"
     ],
     "domains": [
-      "www.npr.org",
-      "www.ft.com",
       "news.google.com",
+      "www.forbes.com",
+      "www.latimes.com",
+      "www.npr.org",
       "www.theguardian.com",
-      "www.bbc.com",
-      "abcnews.go.com",
-      "www.dw.com"
+      "www.aljazeera.com"
     ],
     "snippets": [
-      "Trump, in a social media post, claimed \"total victory\" after the ruling, which spares him from a potential half-billion-dollar fine for decades of exaggerating his wealth.",
-      "In its 323-page ruling, the New York judges stated that the fine was excessive, and likely violated the US Constitution.",
-      "A New York appeals court has ruled that US President Donald Trump will not be required to pay a $515 million (around €443 million) civil fraud penalty, eliminating one of his biggest financial liabilities.",
-      "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ24xSk9ONUdRVGh4T1NlNXdWUFVta3R2YWdlalExb2Z4SWpNOXJvN2FvbEdocjBSeElPc0J5Vm5VRGpqWEhTeDlrallRakI1LUVJbG50X2J6UC0tR1R1M0ZoUnRVZzMwaXFRZ3Zwc2JVeGZOUGZsbW56RVpQeVpNR3dIRQ?oc=5\" target=\"_blank\">President Trump's massive civil fraud penalty jus",
-      "A New York appeals court has thrown out the half billion-dollar civil fraud judgment handed down last year against President Trump, his family and his company.",
-      "Ruling marks a victory for the president in one of his remaining legal headaches after return to the White House",
-      "<p>Divided decision by New York appeals judges dismisses ‘excessive’ penalty but leaves room for further appeals</p><p>A <a href=\"https://www.theguardian.com/us-news/new-york\">New York</a> appeals court has thrown out the massive civil fraud penalty against <a href=\"https://apnews.com/hub/donald-tru"
+      "But the court, in its emergency-docket order, left in place by a 5-4 order a lower court ruling that threw out National Institutes of Health memos that enforced the administration's policies.",
+      "SCOTUS decision impacts DEI programmes that include breast cancer research and HIV prevention.",
+      "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9feldhZHR4UC1xdVh1dkNuaEVKYzJMWDRTZkxlZ2ozNFdZV2NtS0p4NjdNOEQwUFdxSHZkSDhSalVtYTFpdVF4NUxaWGFoVk10RGs1VEtDRW94dzYzNFFHQmhvS1RybTF3Z0tnN0hFN0pEZHptcjlGbGxveTJPalU?oc=5\" target=\"_blank\">Supreme Court lets Trump slash DEI grants at NIH</a>&nbs",
+      "<p>Supreme Court sides with Trump on cutting government grant programs involving diversity, equity and inclusion.</p>",
+      "The decision could result in the loss of National Institutes of Health grants worth hundreds of millions of dollars.",
+      "<p>Court, in 5-4 split, lifts judge’s order blocking $783m in cuts made by NIH to align with president’s priorities</p><p>The Trump administration can slash hundreds of millions of dollars’ worth of research funding in its push to cut federal diversity, equity and inclusion efforts, the supreme cour"
     ],
     "image_url": "",
     "titles": [
-      "An appeals court throws out a massive civil fraud penalty against President Trump",
-      "Appeals court throws out Trump's $500m civil fraud penalty",
-      "US court throws out massive fraud penalty against Trump",
-      "President Trump's massive civil fraud penalty just got tossed out - Axios",
-      "WATCH:  NY appeals court throws out civil fraud judgment against Trump",
-      "New York appeals court overturns $500mn penalty in Trump fraud case",
-      "Court throws out $500m civil fraud penalty against Donald Trump"
+      "Supreme Court allows NIH to stop making nearly $800M in research grants for now",
+      "US Supreme Court rules Trump admin can cut nearly $800m in health funding",
+      "Supreme Court lets Trump slash DEI grants at NIH - Axios",
+      "Supreme Court says Trump may cancel DEI-related health research grants",
+      "Supreme Court Allows Trump To Cut Millions In DEI-Related Health Grants",
+      "Supreme court allows Trump officials to cut research millions in anti-DEI push"
     ],
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.858,
+      "recency": 0.804,
       "consensus": 1.0,
+      "constructiveness": 0.1,
+      "proximity": 0.75
+    },
+    "score": 0.846,
+    "summary": "The Supreme Court, in a 5-4 decision, sided with the Trump administration to cut government grant programs that involve diversity, equity, and inclusion (DEI), impacting areas such as breast cancer research and HIV prevention. This ruling upheld a lower court's decision to invalidate National Institutes of Health (NIH) memos enforcing these policies, potentially leading to the loss of NIH grants worth hundreds of millions of dollars.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: research",
+    "constructiveness_source": "heuristic",
+    "image": {
+      "src": "icons/newspaper.svg",
+      "thumbnail": "icons/newspaper.svg",
+      "alt": "general",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Judge Orders Closure of \"Alligator Alcatraz\" Detention Center in 60 Days",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Fri, 22 Aug 2025 00:39:18 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "ABC News",
+      "The Guardian",
+      "Forbes",
+      "BBC"
+    ],
+    "domains": [
+      "www.forbes.com",
+      "www.bbc.com",
+      "abcnews.go.com",
+      "www.npr.org",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "A federal judge issued a preliminary injunction Thursday halting further expansion and ordering the winding down of an immigration detention center built in the middle of the Florida Everglades.",
+      "The order gave the Trump administration 60 days to wind down operations at the site, with no new detainees allowed.",
+      "A federal judge is ordering the Trump administration and Florida to effectively wind down operations at the immigrant detention center known as “Alligator Alcatraz.\"",
+      "<p>Judge’s order finds jail, which has attracted waves of criticism, was causing severe harm to Florida Everglades</p><p>A federal judge in Miami late on Thursday ordered the closure of the Trump administration’s notorious “<a href=\"https://www.theguardian.com/us-news/2025/jul/26/alligator-alcatraz-",
+      "The ruling sided with environmental groups and the Miccosukee Tribe, who had filed a suit alleging that the facility built in the Florida Everglades violated federal environmental laws."
+    ],
+    "image_url": "",
+    "titles": [
+      "Florida must stop expanding 'Alligator Alcatraz' immigration center, judge says",
+      "US judge orders shutdown of Trump's 'Alligator Alcatraz' detention centre",
+      "Judge blocks transfers to 'Alligator Alcatraz,' effectively winding down operations",
+      "Federal judge orders closure of Trump’s ‘Alligator Alcatraz’ immigration jail",
+      "Federal Judge Orders ‘Alligator Alcatraz’ To Be Shut Down Within 60 Days—No New Detainees"
+    ],
+    "score_components": {
+      "magnitude": 0.944,
+      "recency": 0.93,
+      "consensus": 0.995,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.847,
-    "summary": "A New York appeals court has overturned a $464 million fine against President Donald Trump in a civil fraud case, deeming it excessive and likely a violation of the US Constitution. The case, filed by New York State Attorney General Letitia James, accused Trump of inflating his assets to secure favorable terms from lenders and insurers. While the court dismissed the financial penalty, it upheld other sanctions against Trump, his family, and his company. This decision represents a significant legal victory for the President amidst ongoing legal challenges.",
+    "score": 0.84,
+    "summary": "A federal judge has ordered the closure of the immigration detention center known as \"Alligator Alcatraz\" located in the Florida Everglades, giving the Trump administration 60 days to cease operations. The decision comes after environmental groups and the Miccosukee Tribe sued, arguing the facility violated federal environmental laws and caused severe harm to the ecosystem. The judge's ruling prohibits any new detainees and mandates the winding down of the center.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic",
@@ -68,48 +124,52 @@
     }
   },
   {
-    "title": "Supreme Court Backs Trump Admin in Cutting DEI-Linked Grants",
+    "title": "Court Overturns $464M Fine Against Trump in Fraud Case, Upholds Other Sanctions",
     "domain": "general",
     "source_domain": "www.npr.org",
     "location": "national",
-    "published": "Thu, 21 Aug 2025 17:41:09 -0400",
+    "published": "Thu, 21 Aug 2025 12:52:34 -0400",
     "source": "NPR",
     "sources": [
-      "LA Times",
-      "Forbes",
-      "Al Jazeera",
-      "NPR"
+      "NPR",
+      "ABC News",
+      "Deutsche Welle",
+      "The Guardian",
+      "Axios"
     ],
     "domains": [
-      "www.forbes.com",
-      "www.latimes.com",
+      "news.google.com",
+      "abcnews.go.com",
       "www.npr.org",
-      "www.aljazeera.com"
+      "www.theguardian.com",
+      "www.dw.com"
     ],
     "snippets": [
-      "But the court, in its emergency docket order, also left in place by a 5-4 order a lower court ruling that threw out NIH memos that enforced the administration's policies.",
-      "SCOTUS decision impacts DEI programmes that include breast cancer research and HIV prevention.",
-      "<p>Supreme Court sides with Trump on cutting government grant programs involving diversity, equity and inclusion.</p>",
-      "The decision could result in the loss of National Institutes of Health grants worth hundreds of millions of dollars."
+      "Trump, in a social media post, claimed \"total victory\" after the ruling, which spares him from a potential half-billion-dollar fine for decades of exaggerating his wealth.",
+      "A New York appeals court has ruled that US President Donald Trump will not be required to pay a $515 million (around €443 million) civil fraud penalty, eliminating one of his biggest financial liabilities.",
+      "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ24xSk9ONUdRVGh4T1NlNXdWUFVta3R2YWdlalExb2Z4SWpNOXJvN2FvbEdocjBSeElPc0J5Vm5VRGpqWEhTeDlrallRakI1LUVJbG50X2J6UC0tR1R1M0ZoUnRVZzMwaXFRZ3Zwc2JVeGZOUGZsbW56RVpQeVpNR3dIRQ?oc=5\" target=\"_blank\">President Trump's massive civil fraud penalty jus",
+      "A New York appeals court has thrown out the half billion-dollar civil fraud judgment handed down last year against President Trump, his family and his company.",
+      "<p>Divided decision by New York appeals judges dismisses ‘excessive’ penalty but leaves room for further appeals</p><p>A <a href=\"https://www.theguardian.com/us-news/new-york\">New York</a> appeals court has thrown out the massive civil fraud penalty against <a href=\"https://apnews.com/hub/donald-tru"
     ],
     "image_url": "",
     "titles": [
-      "Supreme Court allows NIH to stop making nearly $800M in research grants for now",
-      "US Supreme Court rules Trump admin can cut nearly $800m in health funding",
-      "Supreme Court says Trump may cancel DEI-related health research grants",
-      "Supreme Court Allows Trump To Cut Millions In DEI-Related Health Grants"
+      "An appeals court throws out a massive civil fraud penalty against President Trump",
+      "US court throws out massive fraud penalty against Trump",
+      "President Trump's massive civil fraud penalty just got tossed out - Axios",
+      "WATCH:  NY appeals court throws out civil fraud judgment against Trump",
+      "Court throws out $500m civil fraud penalty against Donald Trump"
     ],
     "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.949,
-      "consensus": 0.908,
-      "constructiveness": 0.1,
+      "magnitude": 0.984,
+      "recency": 0.728,
+      "consensus": 0.995,
+      "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.821,
-    "summary": "The Supreme Court, in a 5-4 decision, sided with the Trump administration to cut government grant programs that involve diversity, equity, and inclusion (DEI), impacting areas such as breast cancer research and HIV prevention. This ruling upheld a lower court's decision to invalidate National Institutes of Health (NIH) memos enforcing these policies, potentially leading to the loss of NIH grants worth hundreds of millions of dollars.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: research",
+    "score": 0.814,
+    "summary": "A New York appeals court has overturned a $464 million fine against President Donald Trump in a civil fraud case, deeming it excessive and likely a violation of the US Constitution. The case, filed by New York State Attorney General Letitia James, accused Trump of inflating his assets to secure favorable terms from lenders and insurers. While the court dismissed the financial penalty, it upheld other sanctions against Trump, his family, and his company. This decision represents a significant legal victory for the President amidst ongoing legal challenges.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic",
     "image": {
       "src": "icons/newspaper.svg",
@@ -128,41 +188,37 @@
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Thu, 21 Aug 2025 19:25:07 EST",
+    "published": "Fri, 22 Aug 2025 00:58:07 EST",
     "source": "ESPN",
     "sources": [
-      "CBS Sports",
       "ESPN",
       "Sports Illustrated",
       "Sportsnet"
     ],
     "domains": [
-      "www.cbssports.com",
-      "www.sportsnet.ca",
+      "www.espn.com",
       "news.google.com",
-      "www.espn.com"
+      "www.sportsnet.ca"
     ],
     "snippets": [
       "The father of Boston Celtics star Jaylen Brown was accused of attempted murder in connection with a stabbing Wednesday night in Las Vegas.",
-      "Quenton M. Brown allegedly stabbed a youth football coach after arguing over a parking incident",
       "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1IOGF5T1Ywai04d2s1YTRZZkZ2QXJTVE42OUlpVklhYlZNcEluNW1nanhXdU5mTDVEdjhVYTRWbEJsd1hXTXF4MFVIdlZHVTJCbmJrYlluMWQ0Wm5YTEt5U0FYN1dZMjE4S19wMTAzNXhqOWpocDZn?oc=5\" target=\"_blank\">Marselles Brown, Father of Celtics Star Jaylen Brown, Arrested for ",
       "<p>The father of Boston Celtics All-Star Jaylen Brown was arrested in Las Vegas and charged with attempted murder after reportedly stabbing another man in a parking lot.</p>"
     ],
     "image_url": "",
     "titles": [
       "Father of Celtics' Brown arrested after stabbing",
-      "Father of Celtics' Jaylen Brown arrested for attempted murder following alleged stabbing in Las Vegas",
       "Marselles Brown, Father of Celtics Star Jaylen Brown, Arrested for Attempted Murder - Sports Illustrated",
       "AP Source: Father of Celtics’ Jaylen Brown arrested in Las Vegas"
     ],
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.984,
-      "consensus": 0.908,
+      "magnitude": 0.827,
+      "recency": 0.936,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.811,
+    "score": 0.749,
     "summary": "Quenton M. Brown, the father of Boston Celtics star Jaylen Brown, was arrested and charged with attempted murder in Las Vegas. The charge stems from an incident where he allegedly stabbed a youth football coach following an argument over a parking situation.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
@@ -180,206 +236,42 @@
     }
   },
   {
-    "title": "Judge Disqualifies Trump Lawyer Alina Habba from Case Over Appointment Issue",
-    "domain": "business",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Thu, 21 Aug 2025 23:28:38 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "CNBC",
-      "Forbes",
-      "Al Jazeera",
-      "Axios"
-    ],
-    "domains": [
-      "www.forbes.com",
-      "www.cnbc.com",
-      "news.google.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "The Trump administration has ignored a July decision from a panel of judges replacing Habba as interim US attorney.",
-      "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRDg5TlZvRjFPV0tfQWJmVFZFSDRub09JX045QV92bzN3WHFUZlJMWW9Fa2R5SXFnQ0FGd1BJYWZrUlFaLVdsZmpiaTNvUHZlalVmQjhIRVowREFmWmFZUXpkSHFvNGpLbEJ2eGVEVnY4VmQxU0FpM29wcnpObVJwanNEaTlBckRrbWVv?oc=5\" target=\"_blank\">Alina Habba \"unlawfully appointed\" New ",
-      "Alina Habba, who has served as the acting U.S. Attorney for New Jersey, is a former lawyer for President Donald Trump.",
-      "The judge disqualified the former Trump lawyer from overseeing a case against criminal defendants who challenged her authority."
-    ],
-    "image_url": "",
-    "titles": [
-      "Judge rules Trump lawyer Alina Habba is unlawfully serving as US attorney",
-      "Alina Habba \"unlawfully appointed\" New Jersey AG, federal judge rules - Axios",
-      "Judge says Alina Habba, Trump's top federal prosecutor in New Jersey, not lawfully appointed",
-      "Judge Strikes Down Alina Habba’s Authority As U.S. Attorney"
-    ],
-    "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.985,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.793,
-    "summary": "Alina Habba, previously a lawyer for Donald Trump and acting as the U.S. Attorney for New Jersey, was disqualified by a judge from overseeing a case. This decision came after criminal defendants challenged her authority, citing her appointment as \"unlawful.\" The Trump administration has not adhered to a July ruling from a panel of judges that mandated replacing Habba as the interim U.S. attorney.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic",
-    "image": {
-      "src": "icons/briefcase.svg",
-      "thumbnail": "icons/briefcase.svg",
-      "alt": "business",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "Henley Leads Tour Championship Opening, Scheffler Close Behind",
-    "domain": "sports",
-    "source_domain": "www.nbcsports.com",
-    "location": "national",
-    "published": "Thu, 21 Aug 2025 23:33:13 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sky Sports",
-      "Yahoo Sports",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.nbcsports.com",
-      "www.theguardian.com",
-      "www.skysports.com"
-    ],
-    "snippets": [
-      "Russell Henley hardly missed a putt. Scottie Scheffler hardly missed a fairway. They led a parade of players who seized on the soft conditions at East Lake to begin the race for the Tour Championship and the season-ending FedExCup title.",
-      "<ul><li><p>Northern Irishman five off lead after opening 66</p></li><li><p>Scheffler hits 63, Fleetwood and MacIntyre 64</p></li></ul><p>More Rory McIlroy drama in ­Georgia. Events at the final hole of the ­opening round of the Tour Championship barely compared with what played out&nbsp;<a href=\"htt",
-      "Scottie Scheffler sits second, two shots off the Tour Championship lead, after a stunning nine-under 61 from Russell Henley in the race for the FedExCup."
-    ],
-    "image_url": "",
-    "titles": [
-      "Russell Henley fires 61 to lead Scottie Scheffler and field at Tour Championship",
-      "McIlroy provides thrills but Henley leads Tour Championship after 61",
-      "Scheffler two off Tour Championship lead as Henley cards opening 61"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.987,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.734,
-    "summary": "Russell Henley and Scottie Scheffler led the opening round of the Tour Championship, taking advantage of soft conditions at East Lake. Henley leads after a remarkable nine-under 61, with Scheffler two shots behind following a 63. Other notable performances included Fleetwood and MacIntyre each shooting a 64. The event marks the final race for the season-ending FedExCup title, with players like Rory McIlroy also in contention, despite being five shots off the lead after an opening 66.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic",
-    "image": {
-      "src": "icons/trophy.svg",
-      "thumbnail": "icons/trophy.svg",
-      "alt": "sports",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "Israeli Troops Begin Preliminary Assault on Gaza City Outskirts",
-    "domain": "general",
-    "source_domain": "www.bbc.co.uk",
-    "location": "global",
-    "published": "Thu, 21 Aug 2025 17:46:00 GMT",
-    "source": "BBC",
-    "sources": [
-      "Al Jazeera",
-      "BBC",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.bbc.co.uk",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "Palestinians flee Gaza City districts as Israel says first stages of offensive have begun",
-      "Israel pushes into Gaza City as Hamas accepts a ceasefire. What does this reveal about Israel’s broader Gaza plan?",
-      "<p>Netanyahu tells soldiers he has approved takeover plan as aid groups advised to prepare for forced displacement</p><p>The International Red Cross and UN have warned of an impending catastrophe in the Gaza Strip if Israel launches an offensive to take over Gaza City, as the Israeli military told m",
-      "<p>Netanyahu is latest to ‘approve’ plan that has had daily announcements and that Israel knows will have serious consequences</p><p>Has Israel begun its expanded offensive in Gaza City, or is it hype?</p><p>After several weeks of threats of a new large-scale offensive, strongly opposed by most of t",
-      "<p>This blog is now closed, you can read more on this story <a href=\"https://www.theguardian.com/world/2025/aug/21/gaza-city-offensive-would-be-death-sentence-for-israeli-hostages-say-relatives\">here</a></p><p>Iran was seeking to reassert an image of strength on Thursday after suffering heavy losses"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
-    "titles": [
-      "Israel begins ground offensive in Gaza City",
-      "What’s behind Israel’s ground push into Gaza City?",
-      "UN and Red Cross warn of catastrophe if Israel launches Gaza City offensive",
-      "Has Israel begun its Gaza City offensive or will there be yet more ‘approvals’?",
-      "Israel keeps up military pressure on Gaza City ahead of planned offensive – as it happened"
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.856,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.715,
-    "summary": "Israeli troops have started moving towards Gaza City, initiating the \"preliminary\" phase of a military assault aimed at besieging and occupying the area. This action comes amid warnings from the UN about the potential exacerbation of the humanitarian crisis in Gaza. The operation's current phase focuses on the city's outskirts. Further details and implications of this military action are being closely monitored.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic",
-    "image": {
-      "src": "icons/uk.svg",
-      "thumbnail": "icons/uk.svg",
-      "alt": "uk flag",
-      "credit": "Twemoji",
-      "license": "CC-BY-4.0",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": true
-    }
-  },
-  {
-    "title": "Millie Bobby Brown and Jake Bongiovi Adopt Baby Girl",
+    "title": "Lil Nas X Arrested, Hospitalized After LA Altercation with Police",
     "domain": "general",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Thu, 21 Aug 2025 16:53:06 GMT",
+    "published": "Fri, 22 Aug 2025 06:16:02 GMT",
     "source": "BBC",
     "sources": [
-      "BBC",
-      "Business Insider",
-      "The Guardian"
+      "Deutsche Welle",
+      "The Guardian",
+      "BBC"
     ],
     "domains": [
       "www.bbc.com",
       "www.theguardian.com",
-      "www.businessinsider.com"
+      "www.dw.com"
     ],
     "snippets": [
-      "The Stranger Things star and Jake Bongiovi say they're are \"beyond excited to embark on this beautiful next chapter\".",
-      "<p>Netflix star and model husband Jake Bongiovi, 21 and 23, say they are ‘beyond excited’ to become parents</p><p>The Stranger Things actor Millie Bobby Brown and her husband, Jake Bongiovi, have announced they have become parents after adopting a “sweet baby girl”.</p><p>Brown, 21, and Bongiovi, 23",
-      "\"Stranger Things\" star Millie Bobby Brown and her husband, Jake Bongiovi, announced they adopted a baby girl. The young couple got married in 2024."
+      "The LAPD allege the singer \"charged\" at them and was placed under arrest on suspicion of battery.",
+      "The Grammy Award-winning rapper was taken to hospital for a suspected overdose after a brief struggle with police. He was held in jail and booked on suspicion of obstructing an officer.",
+      "<p>The 26-year-old rapper and singer was seen walking down the street in his underwear Thursday morning in LA</p><p>Lil Nas X has been arrested and briefly hospitalized after an altercation with police in the early hours of Thursday morning, according to authorities in Los Angeles.</p><p>Officers fo"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/546d/live/36a70490-7eae-11f0-a5e2-236e16f99597.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af5/live/3d5ca7c0-7edd-11f0-9f8a-81f8e371e1d1.jpg",
     "titles": [
-      "Millie Bobby Brown and husband Jake Bongiovi adopt a baby girl",
-      "Stranger Things actor Millie Bobby Brown adopts ‘sweet baby girl’",
-      "Millie Bobby Brown and Jake Bongiovi's relationship timeline, from meeting on Instagram to adopting a baby girl"
+      "Lil Nas X arrested and taken to hospital after wandering LA streets in underwear",
+      "Lil Nas X arrested after being found nearly naked in LA",
+      "Lil Nas X arrested and hospitalized after altercation with police"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.841,
+      "recency": 0.942,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.705,
-    "summary": "\"Stranger Things\" actress Millie Bobby Brown and her husband, Jake Bongiovi, have shared their joy in becoming parents after adopting a baby girl. The couple, aged 21 and 23, tied the knot in 2024.",
+    "score": 0.725,
+    "summary": "Lil Nas X, a 26-year-old rapper and singer, was arrested and briefly hospitalized following an altercation with police in Los Angeles early Thursday morning. He was seen walking down the street in his underwear before the incident. Authorities expect to charge him with misdemeanor battery on a police officer, as reported by NBC Los Angeles.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic",
@@ -396,55 +288,315 @@
     }
   },
   {
-    "title": "Ukrainian Arrested in Italy for 2022 Nord Stream Pipeline Attack",
+    "title": "California Gov Targets Texas Gerrymandering, Calls for November Vote",
     "domain": "general",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-08-21T10:15:00Z",
-    "source": "Deutsche Welle",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Fri, 22 Aug 2025 06:00:00 GMT",
+    "source": "Axios",
     "sources": [
-      "Deutsche Welle",
-      "Washington Post",
+      "Axios",
+      "Forbes",
       "The Guardian"
     ],
     "domains": [
-      "www.theguardian.com",
-      "www.washingtonpost.com",
-      "www.dw.com"
+      "news.google.com",
+      "www.forbes.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "The Russian-European gas pipeline was the target of a deliberate attack in September 2022.",
-      "<p>Serhiy K is believed to have been onboard boat from where 2022 attack on gas pipelines was carried out</p><p>A Ukrainian man alleged to have been involved in the 2022 detonation of the Nord Stream pipelines carrying gas from Russia to Germanyhas been arrested in Italy, according to German authori",
-      "The suspect is accused of being part of group that placed explosives on the pipelines after hiring a yacht that departed from Germany’s Baltic coast."
+      "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONDZ0NXNMS1Z5aF9DM0hIN0ZIVnBxZWg5bjE0WjlST0I3SGljQVhuM0M5TXFtRGhUaTliLV9MUUFSUU0xRGFfNHpVcE1RdzVTQTVXUS02RFdJQjJoNzl3SWtrbWpJT3hycG9LUE52YTJWeGotWXF4U0toemNUU1Q0aGpTNG90eVJvV0tBUHR0NTIzZ2pDRmFv?oc=5\" target=\"_blank\">Newsom signs California",
+      "<p>Retaliatory strike against gerrymandered maps in Texas now heads to voters in a special election this November</p><p><a href=\"https://www.theguardian.com/us-news/california\">California</a> governor <a href=\"https://www.theguardian.com/us-news/gavin-newsom\">Gavin Newsom</a> on Thursday signed a sw",
+      "If approved by voters, the California redistricting could nullify five new U.S. House seats Republicans are expected to gain from a new redistricting map in Texas."
     ],
     "image_url": "",
     "titles": [
-      "Germany: Arrest made over Nord Stream pipeline explosions",
-      "Italian police arrest Ukrainian man over Nord Stream pipelines blast",
-      "Ukrainian suspect arrested 3 years after alleged Nord Stream pipelines sabotage"
+      "Newsom signs California redistricting measures in response to Texas bill - Axios",
+      "Newsom signs redistricting proposal to reshape congressional map in favor of Democrats",
+      "Newsom Sends Redistricting Proposal To California Voters To Counter GOP’s Texas Redistricting"
     ],
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.748,
+      "magnitude": 0.827,
+      "recency": 0.937,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.693,
-    "summary": "A Ukrainian man, Serhii K, has been arrested in Italy for his alleged involvement in the September 2022 attack on the Nord Stream gas pipelines, which transport gas from Russia to Europe. German prosecutors claim he was part of a group that planted explosives on the pipelines, using a sailing yacht hired from Rostock, Germany. This deliberate act targeted the Russian-European gas infrastructure.",
+    "score": 0.724,
+    "summary": "California Governor Gavin Newsom signed legislation targeting gerrymandered maps in Texas, setting up a special election in November for voters to decide. If passed, this measure could counteract the expected gain of five U.S. House seats by Republicans under a new Texas redistricting map.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic",
     "image": {
-      "src": "icons/ukraine.svg",
-      "thumbnail": "icons/ukraine.svg",
-      "alt": "ukrainian flag",
-      "credit": "Twemoji",
-      "license": "CC-BY-4.0",
+      "src": "icons/newspaper.svg",
+      "thumbnail": "icons/newspaper.svg",
+      "alt": "general",
+      "credit": "Heroicons",
+      "license": "MIT",
       "provider": "local",
       "source": "local",
       "inlineRight": true,
-      "noDesaturate": true
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Musk Sought Zuckerberg's Help for $97.4B OpenAI Buy, Court Docs Reveal",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Fri, 22 Aug 2025 03:06:15 GMT",
+    "source": "CNBC",
+    "sources": [
+      "Business Insider",
+      "CNBC",
+      "Financial Times"
+    ],
+    "domains": [
+      "www.cnbc.com",
+      "www.businessinsider.com",
+      "www.ft.com"
+    ],
+    "snippets": [
+      "In early 2025, xAI CEO Elon Musk asked Meta's Mark Zuckerberg to help him finance a $97.4 billion takeover of OpenAI, new court filings revealed.",
+      "Tesla billionaire made offer for ChatGPT maker’s core business in February",
+      "Elon Musk wanted Mark Zuckerberg to join him in his bid to buy OpenAI, the startup said in a court filing on Thursday."
+    ],
+    "image_url": "",
+    "titles": [
+      "Elon Musk asked Meta CEO Mark Zuckerberg to join xAI bid to buy OpenAI, filing shows",
+      "Musk tried to enlist Zuckerberg in $100bn bid for OpenAI",
+      "Musk tried to get Zuckerberg on board to buy OpenAI, says the AI company"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.882,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.72,
+    "summary": "In early 2025, Tesla CEO Elon Musk sought financial assistance from Meta's CEO Mark Zuckerberg for a $97.4 billion acquisition of OpenAI, the creator of ChatGPT. This information was disclosed in recent court documents. Musk's proposal to Zuckerberg aimed at purchasing OpenAI's main operations was made in February, as stated in a court filing.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic",
+    "image": {
+      "src": "icons/briefcase.svg",
+      "thumbnail": "icons/briefcase.svg",
+      "alt": "business",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Colombia's President Petro Terms Dissidents, Cartels as 'Terrorists'",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Fri, 22 Aug 2025 03:27:08 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Washington Post",
+      "Deutsche Welle",
+      "Al Jazeera"
+    ],
+    "domains": [
+      "www.washingtonpost.com",
+      "www.dw.com",
+      "www.aljazeera.com"
+    ],
+    "snippets": [
+      "Colombian President Gustavo Petro says armed dissidents, drug trafficking cartels should be considered &#039;terrorists&#039;.",
+      "Colombian authorities have blamed the two incidents on separate dissident factions of FARC, the disbanded leftist guerrilla group.",
+      "A wave of attacks by armed groups across Colombia this year has left Colombians fearing a return to the country’s more violent past."
+    ],
+    "image_url": "",
+    "titles": [
+      "At least 18 killed in Colombia in drone attack on helicopter, car bombing",
+      "Colombia: truck bomb, helicopter downing kill at least 17",
+      "Truck bomb and helicopter downing in Colombia leave at least 13 dead"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.907,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.718,
+    "summary": "Colombian President Gustavo Petro has labeled armed dissidents and drug trafficking cartels as 'terrorists,' attributing recent violence, including two incidents, to factions of the disbanded FARC guerrilla group. This surge in attacks has sparked concerns among Colombians of a potential return to the nation's historically violent periods.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic",
+    "image": {
+      "src": "icons/newspaper.svg",
+      "thumbnail": "icons/newspaper.svg",
+      "alt": "general",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Steelers Beat Panthers 19-10 in Preseason Finale; Key Players Shine",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Fri, 22 Aug 2025 02:20:48 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Yahoo Sports",
+      "CBS Sports",
+      "Sportsnet"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "steelerswire.usatoday.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Harmon, the No. 21 pick, appears to have avoided a serious injury based on initial feedback",
+      "Skylar Thompson, Yahya Black, Scotty Miller, and three more Steelers highlight the top performances in the Week 3 preseason win over the Panthers.",
+      "<p>Skylar Thompson completed 11 of 13 passes for 152 yards, including a 24-yard touchdown strike to Lance McCutcheon, rookie Ben Sauls kicked four field goals, and the Pittsburgh Steelers beat the Carolina Panthers 19-10 on Thursday night in the preseason finale.</p>"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/22/486a6aac-da57-42da-8ef2-296c7904740e/harmon.jpg",
+    "titles": [
+      "Derrick Harmon injury: Steelers first-round pick carted off with knee sprain in preseason game vs. Panthers",
+      "6 Steelers standouts from preseason Week 3 win over Panthers",
+      "Steelers top Panthers in pre-season finale, lose Harmon to knee injury"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.886,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.714,
+    "summary": "In the preseason finale, the Pittsburgh Steelers secured a 19-10 victory over the Carolina Panthers, with notable performances from Skylar Thompson, Yahya Black, Scotty Miller, and three other Steelers. Thompson completed 11 of 13 passes for 152 yards and a touchdown, while rookie Ben Sauls contributed with four field goals. Additionally, Harmon, the No. 21 draft pick, has reportedly avoided a serious injury according to initial feedback.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic",
+    "image": {
+      "src": "icons/trophy.svg",
+      "thumbnail": "icons/trophy.svg",
+      "alt": "sports",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Erik Menendez Denied Parole 36 Years After Parents' Murder",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Fri, 22 Aug 2025 02:36:58 GMT",
+    "source": "BBC",
+    "sources": [
+      "ABC News",
+      "Deutsche Welle",
+      "BBC"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "abcnews.go.com",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "The younger of the Menendez brothers, who killed their parents in their Beverly Hills mansion, can try again for parole in three years.",
+      "Erik and his brother Lyle were convicted of the killings and sentenced to life without parole in 1996. Lyle's parole hearing is set for Friday.",
+      "Erik Menendez was denied parole during his first-ever parole hearing on Thursday, 36 years and one day after he and his brother killed their parents."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe29/live/7cfe6290-7eb2-11f0-a5e2-236e16f99597.jpg",
+    "titles": [
+      "Erik Menendez denied parole three decades after killing his parents",
+      "US: Erik Menendez denied parole after parents' murder",
+      "Erik Menendez denied parole 36 years after murdering his parents"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.873,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.711,
+    "summary": "Erik Menendez, convicted alongside his brother Lyle for the murder of their parents in their Beverly Hills home in 1989, was denied parole at his first hearing since their sentencing to life without parole in 1996. The decision came 36 years and one day after the crime. Erik is eligible to reapply for parole in three years, while Lyle's parole hearing is scheduled for Friday.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic",
+    "image": {
+      "src": "icons/newspaper.svg",
+      "thumbnail": "icons/newspaper.svg",
+      "alt": "general",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Judge Disqualifies Trump Lawyer Alina Habba from Case Over Appointment Issue",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Thu, 21 Aug 2025 23:28:38 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Axios",
+      "CNBC",
+      "Al Jazeera"
+    ],
+    "domains": [
+      "www.cnbc.com",
+      "news.google.com",
+      "www.aljazeera.com"
+    ],
+    "snippets": [
+      "The Trump administration has ignored a July decision from a panel of judges replacing Habba as interim US attorney.",
+      "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRDg5TlZvRjFPV0tfQWJmVFZFSDRub09JX045QV92bzN3WHFUZlJMWW9Fa2R5SXFnQ0FGd1BJYWZrUlFaLVdsZmpiaTNvUHZlalVmQjhIRVowREFmWmFZUXpkSHFvNGpLbEJ2eGVEVnY4VmQxU0FpM29wcnpObVJwanNEaTlBckRrbWVv?oc=5\" target=\"_blank\">Alina Habba \"unlawfully appointed\" New ",
+      "Alina Habba, who has served as the acting U.S. Attorney for New Jersey, is a former lawyer for President Donald Trump."
+    ],
+    "image_url": "",
+    "titles": [
+      "Judge rules Trump lawyer Alina Habba is unlawfully serving as US attorney",
+      "Alina Habba \"unlawfully appointed\" New Jersey AG, federal judge rules - Axios",
+      "Judge says Alina Habba, Trump's top federal prosecutor in New Jersey, not lawfully appointed"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.835,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.711,
+    "summary": "Alina Habba, previously a lawyer for Donald Trump and acting as the U.S. Attorney for New Jersey, was disqualified by a judge from overseeing a case. This decision came after criminal defendants challenged her authority, citing her appointment as \"unlawful.\" The Trump administration has not adhered to a July ruling from a panel of judges that mandated replacing Habba as the interim U.S. attorney.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic",
+    "image": {
+      "src": "icons/newspaper.svg",
+      "thumbnail": "icons/newspaper.svg",
+      "alt": "general",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
     }
   },
   {
@@ -452,15 +604,15 @@
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Thu, 21 Aug 2025 19:25:07 EST",
+    "published": "Fri, 22 Aug 2025 00:58:06 EST",
     "source": "ESPN",
     "sources": [
-      "CBS Sports",
-      "ESPN"
+      "ESPN",
+      "CBS Sports"
     ],
     "domains": [
-      "www.cbssports.com",
-      "www.espn.com"
+      "www.espn.com",
+      "www.cbssports.com"
     ],
     "snippets": [
       "The SEC said Thursday that it will go with a nine-game conference football schedule starting in 2026.",
@@ -473,12 +625,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.984,
+      "recency": 0.936,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.677,
+    "score": 0.667,
     "summary": "The SEC announced a shift to a nine-game conference football schedule beginning in 2026. This decision follows the College Football Playoff committee's update on metrics. The change aims to enhance competition within the conference.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
@@ -496,134 +648,89 @@
     }
   },
   {
-    "title": "Hurricane Erin Causes Major Flooding in North Carolina, Outer Banks Hit Hard",
-    "domain": "general",
-    "source_domain": "www.npr.org",
+    "title": "West Ham Hosts Chelsea, Potter Under Pressure for Positive Result",
+    "domain": "sports",
+    "source_domain": "www.independent.co.uk",
     "location": "national",
-    "published": "Thu, 21 Aug 2025 12:28:57 -0400",
-    "source": "NPR",
+    "published": "Fri, 22 Aug 2025 07:00:00 +0000",
+    "source": "Yahoo Sports",
     "sources": [
-      "NPR",
-      "ABC News"
-    ],
-    "domains": [
-      "abcnews.go.com",
-      "www.npr.org"
-    ],
-    "snippets": [
-      "The storm flooded parts of North Carolina's Outer Banks, including a section of the main highway. Another round of overwash was happening during the evening's high tide.",
-      "Hurricane Erin caused massive coastal flooding in North Carolina on Tuesday as the storm continued its northward march up the East Coast."
-    ],
-    "image_url": "",
-    "titles": [
-      "Hurricane Erin brings flooding to parts of Outer Banks as it pivots from East Coast",
-      "WATCH:  Hurricane Erin brings coastal flooding to North Carolina"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.851,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.75
-    },
-    "score": 0.66,
-    "summary": "Hurricane Erin led to significant coastal flooding in North Carolina, particularly affecting the Outer Banks, where parts of the main highway were submerged. The flooding intensified during the evening's high tide on Tuesday, as the storm progressed northward along the East Coast.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: progress",
-    "constructiveness_source": "heuristic",
-    "image": {
-      "src": "icons/newspaper.svg",
-      "thumbnail": "icons/newspaper.svg",
-      "alt": "general",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "Trump's Redistricting Push Sparks Battle Affecting Midterms",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Thu, 21 Aug 2025 22:45:25 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Axios"
+      "Yahoo Sports",
+      "Sports Illustrated"
     ],
     "domains": [
       "news.google.com",
-      "www.aljazeera.com"
+      "www.independent.co.uk",
+      "onefootball.com"
     ],
     "snippets": [
-      "Trump&#039;s demand for new district maps in Republican-led states sparked a redistricting fight of the midterm elections.",
-      "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQNmIweUp6dm02aXJVYldncW5rRXRRUFdBRFotSTVaZkhsQVFmcFFhNkpKU1VHeExaTmI2eTVtSHE5OERBMXF0bm1mVnN1eFZrWEpwMFpSbTVqaW0yaENlbXRnWk94Vm5Zc2Q1MjkyTlVXMWhUc2NnendPT01GVlBubXNR?oc=5\" target=\"_blank\">What's next in the redistricting war after Texas' m"
+      "Follow our football betting tips as West Ham host Chelsea on Friday night",
+      "Graham Potter is under immediate pressure to get a response from his West Ham side as they prepare for their first home game of the season against Chelsea on Friday.The Hammers are looking to bounce b...",
+      "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEk2SGR6R3NjZHhJZ0hoR0JhTmN3WG5sWjZhUjR3NmlaZmhUWEM0R09nZk5mel9BZGMxNmZzOFViMnpPUmdZTmtUNDdOQVpOYTJyUXFOLXdOek5xYU1TbDdfbWctQ0JPbC1rMkpKZ3RSWVdwcGJkVVA0NWpCSTFIU1licm9jbEFwb2gwTUNQRjJEc3RqVjlFcA?oc=5\" target=\"_blank\">Chelsea Predicted Lin"
     ],
     "image_url": "",
     "titles": [
-      "What’s the Texas redistricting fight about, and how has California reacted?",
-      "What's next in the redistricting war after Texas' map cleared the state House - Axios"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.97,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.656,
-    "summary": "Donald Trump's call for new district maps in Republican-led states has escalated into a significant redistricting battle impacting the midterm elections. This move has led to a contentious debate over the drawing of district boundaries, with implications for future electoral contests. The current status of this redistricting fight remains a key issue as states navigate the legal and political challenges involved.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic",
-    "image": {
-      "src": "icons/newspaper.svg",
-      "thumbnail": "icons/newspaper.svg",
-      "alt": "general",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "Lil Nas X Arrested, Hospitalized After LA Altercation with Police",
-    "domain": "business",
-    "source_domain": "www.theguardian.com",
-    "location": "global",
-    "published": "Thu, 21 Aug 2025 22:25:38 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "Forbes",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.forbes.com"
-    ],
-    "snippets": [
-      "<p>The 26-year-old rapper and singer was seen walking down the street in his underwear Thursday morning in LA</p><p>Lil Nas X has been arrested and briefly hospitalized after an altercation with police in the early hours of Thursday morning, according to authorities in Los Angeles.</p><p>.</p> <a hr",
-      "The rapper was hospitalized after his arrest and is expected to be charged with misdemeanor battery on a police officer, NBC Los Angeles reported."
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/9ee57f16d52d91341bff9da41675b4fa795ae56c/490_0_6647_5318/master/6647.jpg?width=140&quality=85&auto=format&fit=max&s=59acc884e1e3ce47bd7545a2a5a1b7fe",
-    "titles": [
-      "Lil Nas X arrested and hospitalized after altercation with police",
-      "Lil Nas X Reportedly Arrested Following LAPD Altercation, Possible Drug Overdose"
+      "West Ham vs Chelsea prediction, team news & odds",
+      "West Ham United vs Chelsea – Predicted lineup and team news",
+      "Chelsea Predicted Lineup vs. West Ham: Estevao Ready for First Premier League Start - Sports Illustrated"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.944,
+      "recency": 0.976,
+      "consensus": 0.611,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.665,
+    "summary": "West Ham is set to host Chelsea in their first home game of the season on Friday night, with manager Graham Potter facing pressure to deliver a positive result. This match is significant for West Ham as they seek to bounce back and gain momentum early in the season. The outcome of this game could be crucial for Potter's efforts to stabilize his team and build confidence.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: effort",
+    "constructiveness_source": "heuristic",
+    "image": {
+      "src": "icons/uk.svg",
+      "thumbnail": "icons/uk.svg",
+      "alt": "uk flag",
+      "credit": "Twemoji",
+      "license": "CC-BY-4.0",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": true
+    }
+  },
+  {
+    "title": "OpenAI Chief People Officer Julia Villagra to Depart Friday",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Fri, 22 Aug 2025 01:43:12 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC",
+      "Business Insider"
+    ],
+    "domains": [
+      "www.cnbc.com",
+      "www.businessinsider.com"
+    ],
+    "snippets": [
+      "OpenAI confirmed on Thursday that Julia Villagra, the company's chief people officer, is leaving at the end of the week.",
+      "Julia Villagra, OpenAI's chief people officer, is leaving the company on Friday."
+    ],
+    "image_url": "",
+    "titles": [
+      "OpenAI says HR chief Julia Villagra is leaving company",
+      "OpenAI's chief people officer is leaving the company"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.857,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.644,
-    "summary": "Lil Nas X, a 26-year-old rapper and singer, was arrested and briefly hospitalized following an altercation with police in Los Angeles early Thursday morning. He was seen walking down the street in his underwear before the incident. Authorities expect to charge him with misdemeanor battery on a police officer, as reported by NBC Los Angeles.",
+    "score": 0.633,
+    "summary": "Julia Villagra, the chief people officer at OpenAI, is departing from the company at the end of the week. OpenAI confirmed her departure, stating that she will be leaving on Friday.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic",
@@ -640,134 +747,38 @@
     }
   },
   {
-    "title": "Israel Expands Gaza Military Operation Amid Cease-Fire Talks, UN Criticism",
-    "domain": "general",
-    "source_domain": "www.washingtonpost.com",
-    "location": "global",
-    "published": "Thu, 21 Aug 2025 19:23:21 +0000",
-    "source": "Washington Post",
-    "sources": [
-      "New York Times",
-      "Washington Post"
-    ],
-    "domains": [
-      "www.nytimes.com",
-      "www.washingtonpost.com"
-    ],
-    "snippets": [
-      "The planned offensive has drawn condemnation from the United Nations, which warned it would lead to the forced displacement of about a million Palestinians.",
-      "The Israeli government is widening its operation in Gaza despite its generals’ advice and as it deliberates on a new cease-fire proposal."
-    ],
-    "image_url": "",
-    "titles": [
-      "Israel pounds neighborhoods as operation to take Gaza City underway",
-      "Israel Is Expanding Its Gaza City Operation, but Where Does It Stand?"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.905,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.643,
-    "summary": "The Israeli government is expanding its military operation in Gaza, ignoring the advice of its generals and while considering a new cease-fire proposal. This move has been condemned by the United Nations, which has warned that it could result in the forced displacement of approximately one million Palestinians.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic",
-    "image": {
-      "src": "icons/israel.svg",
-      "thumbnail": "icons/israel.svg",
-      "alt": "israel flag",
-      "credit": "Twemoji",
-      "license": "CC-BY-4.0",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": true
-    }
-  },
-  {
-    "title": "Cox, Curran Propel Invincibles to Win Over Rockets in The Hundred Clash",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Thu, 21 Aug 2025 20:39:10 GMT",
-    "source": "BBC",
-    "sources": [
-      "Sky Sports",
-      "BBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.skysports.com"
-    ],
-    "snippets": [
-      "Spectacular fifties from Jordan Cox and Sam Cox fire Oval Invincibles to a thrilling six-wicket victory over Trent Rockets in a table-topping clash in the Hundred.",
-      "A remarkable 10-ball hitting barrage from Sam Curran and Jordan Cox turned the game on its head and drove Oval Invincibles towards a crucial win against table-topping rivals Trent Rockets in The Hundred."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d6/live/82cc3770-7ed9-11f0-a34f-318be3fb0481.jpg",
-    "titles": [
-      "Cox and Curran blast Invincibles to staggering win",
-      "Curran and Cox drive Invincibles to crucial win over Rockets"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.91,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.637,
-    "summary": "Jordan Cox and Sam Curran's explosive batting performances, including a 10-ball hitting spree, propelled Oval Invincibles to a six-wicket win over Trent Rockets in a critical match of The Hundred. This victory came in a high-stakes clash between table leaders, with both Cox and Curran playing pivotal roles in turning the game in favor of the Invincibles.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic",
-    "image": {
-      "src": "icons/trophy.svg",
-      "thumbnail": "icons/trophy.svg",
-      "alt": "sports",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "Sean Strickland Suspended 6 Months for Fighter Altercation",
+    "title": "Bill Belichick Experiences Reduced Duties, Family Roles in North Carolina",
     "domain": "sports",
     "source_domain": "www.cbssports.com",
     "location": "national",
-    "published": "Thu, 21 Aug 2025 19:13:22 +0000",
+    "published": "Fri, 22 Aug 2025 02:10:00 +0000",
     "source": "CBS Sports",
     "sources": [
       "CBS Sports",
-      "Sportsnet"
+      "Sports Illustrated"
     ],
     "domains": [
-      "www.cbssports.com",
-      "www.sportsnet.ca"
+      "news.google.com",
+      "www.cbssports.com"
     ],
     "snippets": [
-      "Strickland can reduce his suspension by taking an anger management course",
-      "<p>Former 185-pound champion Sean Strickland has received a six-month ban from the Nevada State Athletic Commission for a physical altercation with another fighter at an event in June. </p>"
+      "At North Carolina, Belichick has fewer people -- and offspring -- to answer to than with the Patriots",
+      "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNajRDNnQ2MkRJRWdBdFAzVzI5TUVoN3RURHB0M0ZlNWZVQ0hORmxZQlB2cEVJQm02TU41VXlQR0NCQjd0SXkzdnNVUExqMC05YVhjMDZHOU1rTklMdW1pbGJuWmFhLVJBNkVlN1VKQUdzaWtHSlk2Q3ZnYXREZmRmNTdkZndNZTlJeXFJZGFDNENqeThpMlBZZGxhRzU?oc=5\" target=\"_blank\">Bill Belichick R"
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/21/35ed89a2-f5f7-41b0-b6d3-fd29a44b26ce/sean-strickland-tuff-n-uff.jpg",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/22/2cda9fd8-251f-41d8-a8fb-f08648d5c1c1/gettyimages-2210133758-2.jpg",
     "titles": [
-      "Sean Strickland suspended six months after attacking fighter in post-fight brawl while serving as cornerman",
-      "Sean Strickland suspended six months for altercation with another fighter"
+      "Bill Belichick on difference between coaching in college vs. NFL: 'There's no owner, there's no owner's son'",
+      "Bill Belichick Reveals Major Difference Between Coaching College and Pro Football - Sports Illustrated"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.901,
+      "recency": 0.883,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.635,
-    "summary": "Former 185-pound champion Sean Strickland has been suspended for six months by the Nevada State Athletic Commission due to a physical altercation with another fighter in June. Strickland has the option to reduce his suspension by completing an anger management course.",
+    "score": 0.632,
+    "summary": "Bill Belichick, in North Carolina, has fewer responsibilities and family members to manage compared to his duties with the New England Patriots. This change in his personal and professional environment is highlighted, indicating a shift in his daily obligations and interactions.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic",
@@ -784,184 +795,40 @@
     }
   },
   {
-    "title": "Nick Kyrgios Withdraws from US Open for Third Straight Year",
+    "title": "Houston Astros Sign Former All-Star Pitcher Craig Kimbrel",
     "domain": "sports",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Thu, 21 Aug 2025 17:33:31 GMT",
+    "published": "Thu, 21 Aug 2025 23:31:30 GMT",
     "source": "Sports Illustrated",
     "sources": [
       "Sports Illustrated",
       "Sportsnet"
     ],
     "domains": [
-      "www.sportsnet.ca",
-      "news.google.com"
+      "news.google.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOMm1pb0xDRm1NUDBTSjJYMHhfWDZwaVJiMXJkT2lQT3NTRnJWbFFqME51X2NaTFJza05xdUFVaVltN3Bkek5BVE44b0ZRVTZBVGlTZ2laeTBRMWN3d1BCcWdtMllmU0V2VTAzOWxiRzliMndBaFlNUTBoYTRBYUpObklB?oc=5\" target=\"_blank\">Nick Kyrgios Withdraws From Third-Straight U.S. Ope",
-      "<p>Nick Kyrgios withdrew from the US Open on Thursday, the third straight year the Australian has missed the last Grand Slam tournament of the season.</p>"
+      "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQNUZfX09sRTBDc0hFcXluLVFiY3Y3T3lwY0xzZ1QxZS1WWHFoUEhwbHI5NUQxWm44TFU3SEZzZlhHblJEQVJVdnZuSTJZZEZiZnI1TWFPcmpnTjA3SHdaZ3FMQ0lrR3JOcnNJLTdLTTFySWI1TUphaThoQVFCbDQwcXY5bDJDZw?oc=5\" target=\"_blank\">Astros Sign Former All-Star Relief Pitcher Cr",
+      "<p>Craig Kimbrel has found his next landing spot. The veteran reliever is reportedly signing with the Houston Astros and will be joining the major-league roster, per ESPN&#8217;s Jeff Passan on Thursday.</p>"
     ],
     "image_url": "",
     "titles": [
-      "Nick Kyrgios Withdraws From Third-Straight U.S. Open Days Before Tournament - Sports Illustrated",
-      "Nick Kyrgios withdraws from US Open, will miss another major tournament"
+      "Astros Sign Former All-Star Relief Pitcher Craig Kimbrel - Sports Illustrated",
+      "Report: Astros signing veteran reliever, nine-time all-star Craig Kimbrel"
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.853,
+      "recency": 0.818,
       "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.633,
-    "summary": "Australian tennis player Nick Kyrgios has withdrawn from the US Open for the third consecutive year. This decision marks his absence from the last Grand Slam tournament of the season.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic",
-    "image": {
-      "src": "icons/usa.svg",
-      "thumbnail": "icons/usa.svg",
-      "alt": "us flag",
-      "credit": "Twemoji",
-      "license": "CC-BY-4.0",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": true
-    }
-  },
-  {
-    "title": "Chipotle Tests Drone Delivery with Zipline in Dallas",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Thu, 21 Aug 2025 18:33:17 GMT",
-    "source": "Axios",
-    "sources": [
-      "CNBC",
-      "Axios"
-    ],
-    "domains": [
-      "www.cnbc.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBvWjdZWmoya1B0bk8wcUFRZG43clBzLU1WMEpVdFBXcEdpZ25KbGhLVHQ4Y3N4WHg2LVZKMjhnbmVCZVlmcWY4X3dZbG9GT2FVVHhXdGp2YWl5bmpVX0JwVElUVi1kSDBfNHBPbzBZeWpIZw?oc=5\" target=\"_blank\">New on the menu at Chipotle: drone delivery with Zipline</a>&nbsp;&nbsp;<",
-      "Chipotle said it could consider expanding the drone delivery test with Zipline based on how the Dallas area rollout performs."
-    ],
-    "image_url": "",
-    "titles": [
-      "New on the menu at Chipotle: drone delivery with Zipline - Axios",
-      "Chipotle teams up with Zipline to test drone food delivery"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.871,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.629,
-    "summary": "Chipotle is testing drone delivery with Zipline in the Dallas area. The company may expand the service based on the test's performance.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic",
-    "image": {
-      "src": "icons/briefcase.svg",
-      "thumbnail": "icons/briefcase.svg",
-      "alt": "business",
-      "credit": "Heroicons",
-      "license": "MIT",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": false
-    }
-  },
-  {
-    "title": "US Open: Sinner, Sabalenka to Face Kopriva, Masarova in Openers",
-    "domain": "sports",
-    "source_domain": "www.theguardian.com",
-    "location": "global",
-    "published": "Thu, 21 Aug 2025 18:13:35 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "Sky Sports",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.skysports.com"
-    ],
-    "snippets": [
-      "<ul><li><p>Men’s champion Sinner opens against No 87 Vit Kopriva</p></li><li><p>Women’s title holder Sabalenka draws Rebeka Masarova</p></li></ul><p>Emma Raducanu has avoided the top seeds in the first two rounds of the US Open but still faces a challenging path as she tries to convert her recent po",
-      "British stars Emma Raducanu and Jack Draper will both play qualifiers in their opening matches at this year's US Open."
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/f4d032c61e1222c92ef7b73279fb9e3a71bfd98a/328_0_2950_2360/master/2950.jpg?width=140&quality=85&auto=format&fit=max&s=0d3c2e7d09f60485a0323b674fd3e859",
-    "titles": [
-      "US Open draw: Emma Raducanu faces tough route if she can beat qualifier in first round",
-      "Raducanu and Draper to play qualifiers in US Open first round"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.865,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.628,
-    "summary": "At the US Open, men's champion Sinner will start against the 87th-ranked Vit Kopriva, while women's champion Sabalenka faces Rebeka Masarova in their opening matches. British players Emma Raducanu and Jack Draper are set to play against qualifiers in their first rounds. Raducanu, avoiding top seeds early on, still anticipates a challenging path ahead in the tournament.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic",
-    "image": {
-      "src": "icons/usa.svg",
-      "thumbnail": "icons/usa.svg",
-      "alt": "us flag",
-      "credit": "Twemoji",
-      "license": "CC-BY-4.0",
-      "provider": "local",
-      "source": "local",
-      "inlineRight": true,
-      "noDesaturate": true
-    }
-  },
-  {
-    "title": "Leah Williamson to Miss WSL Start Due to Injury",
-    "domain": "sports",
-    "source_domain": "www.theguardian.com",
-    "location": "global",
-    "published": "Thu, 21 Aug 2025 14:51:09 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "Sky Sports",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.skysports.com"
-    ],
-    "snippets": [
-      "<ul><li><p>England captain sustained injury in final of Euro 2025</p></li><li><p>Defender likely to be sidelined for several weeks</p></li></ul><p>Arsenal have been dealt a blow before the start of the new Women’s Super League season with Leah Williamson ruled out for several weeks after a procedure",
-      "England captain Leah Williamson will miss the start of the new Women's Super League season with a knee injury."
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/c0250ceafa46c53b56da8f7c48a0debeec5151fd/0_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=15f38983ad6cffa72bf1d791e730625a",
-    "titles": [
-      "Leah Williamson to miss start of Arsenal’s WSL season due to knee injury",
-      "England captain Williamson to miss start of WSL season with knee injury"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.806,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
       "proximity": 0.5
     },
     "score": 0.626,
-    "summary": "England captain and Arsenal defender Leah Williamson is set to miss the beginning of the Women's Super League season due to a knee injury sustained during the Euro 2025 final. She is expected to be sidelined for several weeks, impacting her club's start to the season.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: sustain",
+    "summary": "The Houston Astros have signed former All-Star relief pitcher Craig Kimbrel. Kimbrel will be joining the team's major-league roster, as reported by ESPN's Jeff Passan. This move marks a significant addition to the Astros' bullpen and provides them with an experienced and talented pitcher.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic",
     "image": {
       "src": "icons/trophy.svg",
@@ -976,36 +843,86 @@
     }
   },
   {
-    "title": "Premier Health Files Q3 2025 Financials, Advances Strategic Transformation",
-    "domain": "business",
-    "source_domain": "financialpost.com",
-    "location": "national",
-    "published": "Thu, 21 Aug 2025 23:55:49 +0000",
-    "source": "Financial Post",
+    "title": "Henley Leads Tour Championship Opening, Scheffler Close Behind",
+    "domain": "sports",
+    "source_domain": "www.skysports.com",
+    "location": "global",
+    "published": "Thu, 21 Aug 2025 23:55:00 BST",
+    "source": "Sky Sports",
     "sources": [
-      "Financial Post"
+      "Sky Sports",
+      "Sportsnet"
     ],
     "domains": [
-      "financialpost.com"
+      "www.skysports.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
-      "NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES OR FOR RELEASE, PUBLICATION, DISTRIBUTION OR DISSEMINATION DIRECTLY, OR INDIRECTLY, IN WHOLE OR IN PART, IN OR INTO THE UNITED STATES. Implementation of strategic transformation underway following closing of CC Capital transaction Ceres products receive",
-      "MONTRÉAL, Aug. 21, 2025 (GLOBE NEWSWIRE) &#8212; Premier Health of America Inc. (TSXV: PHA) (the “Company”), a leading Canadian Healthtech company, announces it has filed its unaudited Quarterly Consolidated Financial Statements and MD&#38;A for its third quarter ended on June 30, 2025. Highlights ("
+      "Scottie Scheffler sits second, two shots off the Tour Championship lead, after a stunning nine-under 61 from Russell Henley in the race for the FedExCup.",
+      "<p>ussell Henley hardly missed a putt. Scottie Scheffler hardly missed a fairway. They led a parade of players who seized on the soft conditions at East Lake to begin the race for the Tour Championship and the season-ending FedEx Cup title.</p>"
     ],
-    "image_url": "",
+    "image_url": "https://e0.365dm.com/25/08/1920x1080/skysports-scottie-scheffler_6997288.jpg?20250821232457",
     "titles": [
-      "Westaim Reports Q2 2025 Results for the Quarter Ended June 30, 2025",
-      "Premier Health Reports 2025 Third Quarter Results"
+      "Scheffler two off Tour Championship lead as Henley cards opening 61",
+      "Russell Henley birdies last 3 holes for 61 to lead Tour Championship over Scheffler"
     ],
     "score_components": {
-      "magnitude": 0.373,
-      "recency": 0.994,
-      "consensus": 0.35,
+      "magnitude": 0.735,
+      "recency": 0.825,
+      "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.467,
-    "summary": "Premier Health of America Inc., a Canadian Healthtech company, has filed its unaudited Quarterly Consolidated Financial Statements and MD&A for the third quarter ending June 30, 2025. This follows the completion of the CC Capital transaction, marking a significant step in the company's strategic transformation. The update was announced on August 21, 2025, but details on the financial outcomes or the specifics of the strategic transformation were not disclosed.",
+    "score": 0.62,
+    "summary": "Russell Henley and Scottie Scheffler led the opening round of the Tour Championship, taking advantage of soft conditions at East Lake. Henley leads after a remarkable nine-under 61, with Scheffler two shots behind following a 63. Other notable performances included Fleetwood and MacIntyre each shooting a 64. The event marks the final race for the season-ending FedExCup title, with players like Rory McIlroy also in contention, despite being five shots off the lead after an opening 66.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic",
+    "image": {
+      "src": "icons/trophy.svg",
+      "thumbnail": "icons/trophy.svg",
+      "alt": "sports",
+      "credit": "Heroicons",
+      "license": "MIT",
+      "provider": "local",
+      "source": "local",
+      "inlineRight": true,
+      "noDesaturate": false
+    }
+  },
+  {
+    "title": "Millie Bobby Brown and Jake Bongiovi Adopt Baby Girl",
+    "domain": "business",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Thu, 21 Aug 2025 16:53:06 GMT",
+    "source": "BBC",
+    "sources": [
+      "Business Insider",
+      "BBC"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "www.businessinsider.com"
+    ],
+    "snippets": [
+      "The Stranger Things star and Jake Bongiovi say they are \"beyond excited to embark on this beautiful next chapter\".",
+      "\"Stranger Things\" star Millie Bobby Brown and her husband, Jake Bongiovi, announced they adopted a baby girl. The young couple got married in 2024."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/546d/live/36a70490-7eae-11f0-a5e2-236e16f99597.jpg",
+    "titles": [
+      "Millie Bobby Brown and husband adopt a baby girl",
+      "Millie Bobby Brown and Jake Bongiovi's relationship timeline, from meeting on Instagram to adopting a baby girl"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.713,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.598,
+    "summary": "\"Stranger Things\" actress Millie Bobby Brown and her husband, Jake Bongiovi, have shared their joy in becoming parents after adopting a baby girl. The couple, aged 21 and 23, tied the knot in 2024.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic",
@@ -1022,43 +939,43 @@
     }
   },
   {
-    "title": "Trade Tensions Trigger Market Slide, Stocks and Bonds Fall",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Thu, 21 Aug 2025 23:39:34 GMT",
-    "source": "Bloomberg",
+    "title": "Bulinews Offers Budget-Friendly Bundesliga Fantasy Tips and Squad Picks",
+    "domain": "sports",
+    "source_domain": "onefootball.com",
+    "location": "national",
+    "published": "Fri, 22 Aug 2025 07:18:00 +0000",
+    "source": "Yahoo Sports",
     "sources": [
-      "Bloomberg"
+      "Yahoo Sports"
     ],
     "domains": [
-      "news.google.com"
+      "onefootball.com"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQZGZHTEl5MnE5SVVBSk1mbHhNbkRtU0l3OVQ5akt0UmhRUzUzSU9TOUZxYkJSMWFub3N0M1BFZHctVzZ6VXBHRGxEcXkyZmdvUEd6dDdScUNqd3FBU0dfbGVXV0VpRjhMT2hRWkYzTFZDNG5ndEZDcEZQNmpxS21OenNXSkR1eEtLMUR3azlMXzJ5WjZU?oc=5\" target=\"_blank\">Stocks, Bonds Fall as Trade",
-      "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnpVZWtrVDV0LTRsVDB4aEJOenNFZDRsZ1JwWDVRX2JYUGU3c0o4X2sxSUgtQ3gwSTdPY1lGeXFtQmsxcDMtU2JGLVFTVFY5V1BVX2d2SktGeHdOVDhJM0hHcW5xVVlNSndwMGVsbDk4T2toRHhlNXNmai1faUs5d3didWxpMkxId001VzE5UjJsUHc4?oc=5\" target=\"_blank\">Stock Slide Deepens Before "
+      "When building your Fantasy Bundesliga squad, budget picks can be crucial in freeing up funds for premium stars.In this article, we spotlight one budget-friendly option from each club to help you shape...",
+      "Bulinews' Fantasy Bundesliga writers have each put together a squad of 10 outfield players for the opening matchday of the new season.Managers have full freedom with formations, but squads can’t exc..."
     ],
     "image_url": "",
     "titles": [
-      "Stocks, Bonds Fall as Traders Trim Rate Cut Bets: Markets Wrap - Bloomberg.com",
-      "Stock Slide Deepens Before Powell as Yields Rise: Markets Wrap - Bloomberg.com"
+      "Fantasy Bundesliga: Budget picks to consider",
+      "Fantasy Bundesliga: Scout squads for Matchday 1"
     ],
     "score_components": {
       "magnitude": 0.373,
-      "recency": 0.968,
+      "recency": 0.983,
       "consensus": 0.35,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.462,
-    "summary": "Stocks and bonds fell as trade tensions escalated, leading to a deepening slide in the market. Investors are concerned about the impact of the ongoing trade disputes on the global economy. The situation remains uncertain as markets continue to react to trade-related news.",
+    "score": 0.465,
+    "summary": "Bulinews' Fantasy Bundesliga coverage includes budget-friendly player options from each club to help managers assemble their squads while saving funds for premium stars. Additionally, their writers have created squads of 10 outfield players for the new season's opening matchday, showcasing diverse formations but adhering to a budget constraint. This approach aids fantasy managers in making strategic choices for their teams.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic",
     "image": {
-      "src": "icons/chart-up.svg",
-      "thumbnail": "icons/chart-up.svg",
-      "alt": "market",
+      "src": "icons/trophy.svg",
+      "thumbnail": "icons/trophy.svg",
+      "alt": "sports",
       "credit": "Heroicons",
       "license": "MIT",
       "provider": "local",
