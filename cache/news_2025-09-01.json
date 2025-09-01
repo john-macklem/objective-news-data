@@ -7,57 +7,65 @@
     "published": "Mon, 01 Sep 2025 02:52:38 -0400",
     "source": "NPR",
     "sources": [
+      "Axios",
+      "ABC News",
+      "Washington Post",
+      "New York Times",
+      "Phys.org",
+      "NPR",
+      "The Guardian",
       "Al Jazeera",
       "Global News",
-      "ABC News",
-      "Deutsche Welle",
-      "New York Times",
-      "Axios",
-      "Washington Post",
-      "NPR"
+      "CityNews"
     ],
     "domains": [
-      "www.npr.org",
+      "globalnews.ca",
+      "www.nytimes.com",
       "www.aljazeera.com",
       "abcnews.go.com",
-      "www.nytimes.com",
-      "www.washingtonpost.com",
       "news.google.com",
-      "www.dw.com",
-      "globalnews.ca"
+      "ottawa.citynews.ca",
+      "phys.org",
+      "www.theguardian.com",
+      "www.npr.org",
+      "www.washingtonpost.com"
     ],
     "snippets": [
       "The 6.0 magnitude quake late Sunday hit a series of towns in the province of Kunar, near the city of Jalalabad in neighboring Nangahar province, causing extensive damage.",
-      "More than 600 people have been killed after a magnitude 6 earthquake struck just before midnight in Afghanistan.",
-      "Toll likely to rise, with significant damage reported across mountainous provinces of Kunar and Nangahar, sources say.",
-      "The shallow earthquake in eastern Afghanistan has destroyed several of villages, causing widespread damage.",
+      "Magnitude 6.1 tremor hits eastern provinces of Kunar and Nangarhar, and government spokesman warns toll could rise.",
       "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQc05iRnZ2aGFBbVQ2aTJPZ05wNkd2U2VVbTUtV1Q2QWZYZ09xVkNncXhMWVIwNzRlWklZaUVWcEFuSDA0a2Y0aTdJX2xJaFpYbUFlSlpwSnFnR2UxRmQzYmJIUVg5Wnh1blFrVF9lN1V2VVZteHczVExCdnVoZDJ4OGdn?oc=5\" target=\"_blank\">Hundreds killed after 6.0-magnitude earthquake stri",
       "The strong earthquake struck about 17 miles east of Jalalabad, near the border with Pakistan, according to preliminary data from the U.S. Geological Survey.",
-      "The 6.0-magnitude earthquake that hit Jalalabad injured 1,500 others, the Taliban-run Interior Ministry said. The quake was felt as far as neighboring Pakistan.",
-      "The quake, near the border with Pakistan, injured more than 1,300 people, the authorities said. The death toll was expected to rise further.",
-      "A magnitude 6.0 earthquake shook eastern Afghanistan near the Pakistan border late Sunday, according to the U.S. Geological Survey."
+      "<p>Rescuers try to reach people trapped under mud and debris while hampered by destroyed roads and steep terrain</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/sep/01/afghanistan-earthquake-live-hundreds-after-shallow-quake-strikes-countrys-east-state-media-reports\">Afghanistan e",
+      "The 6.0-magnitude earthquake that hit Jalalabad injured 2,800 others, the Taliban-run government said. The quake was felt as far as neighboring Pakistan.",
+      "The quake, near the border with Pakistan, injured more than 2,500 people in mountainous areas that rescue workers took hours to reach.",
+      "Hundreds of people were killed and more than 2,500 were injured, according to the Taliban government, and the death toll was expected to rise.",
+      "The quake at 11:47 p.m. local time was centered 27 kilometers (17 miles) east-northeast of Jalalabad, the U.S. Geological Survey said.",
+      "Desperate Afghans clawed through rubble in search of missing loved ones after a strong earthquake killed some 800 people and injured more than 2,500 in eastern Afghanistan, according to figures provided Monday by the Taliban government.",
+      "KABUL, Afghanistan (AP) — Desperate Afghans clawed through rubble in search of missing loved ones after a strong earthquake killed some 800 people and injured more than 2,500 in eastern Afghanistan, according to figures provided Monday by the Taliban government. The 6.0 magnitude quake late Sunday h"
     ],
     "image_url": "",
     "titles": [
-      "Earthquake devastates eastern Afghanistan, killing hundreds and destroying villages",
-      "Hundreds feared dead after earthquake in Afghanistan",
-      "At least 600 killed as powerful earthquake rocks eastern Afghanistan",
-      "Afghanistan: Hundreds killed after strong earthquake",
+      "An earthquake devastates eastern Afghanistan, killing more than 800 people",
+      "At least 800 people killed as earthquake hits eastern Afghanistan",
       "Hundreds killed after 6.0-magnitude earthquake strikes Afghanistan - Axios",
       "Hundreds killed as 6.0 magnitude earthquake strikes Afghanistan, officials say",
-      "More than 600 dead after earthquake hits eastern Afghanistan",
-      "Hundreds Dead After 6.0-Magnitude Earthquake Hits Afghanistan",
-      "A 6.0 magnitude earthquake shakes eastern Afghanistan near the Pakistan border"
+      "Magnitude-6 earthquake in eastern Afghanistan kills more than 800",
+      "More than 800 dead after earthquake hits eastern Afghanistan, Taliban say",
+      "Afghanistan Earthquake Leaves More Than 800 Dead",
+      "What to Know About the Earthquake in Afghanistan",
+      "Earthquake in eastern Afghanistan kills 800, injures 2,500",
+      "An earthquake destroys villages in eastern Afghanistan and kills 800 people, with 2,500 injured",
+      "Earthquake in eastern Afghanistan destroys villages and kills 800 people, with 2,500 injured"
     ],
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.974,
+      "recency": 0.823,
       "consensus": 1.0,
       "constructiveness": 0.1,
       "proximity": 0.75
     },
-    "score": 0.88,
-    "summary_source": "gpt",
+    "score": 0.85,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "A magnitude 6.0 earthquake struck eastern Afghanistan near Jalalabad and the Pakistan border late Sunday, killing over 600 people and injuring more than 1,300, as reported by the Taliban-run Interior Ministry. The quake caused extensive damage across the mountainous provinces of Kunar and Nangahar, destroying several villages. The death toll is expected to rise as rescue efforts continue.",
     "constructiveness_score": 0.1,
@@ -65,52 +73,455 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Rudy Giuliani Hospitalized After Car Accident in New Hampshire",
+    "title": "EU Commission Plane Lands with Maps Amid Suspected Russian GPS Jamming",
     "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Sun, 31 Aug 2025 16:32:47 -0400",
-    "source": "NPR",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Mon, 01 Sep 2025 12:16:54 GMT",
+    "source": "BBC",
     "sources": [
-      "Global News",
-      "The Guardian",
+      "BBC",
       "Deutsche Welle",
-      "CNBC",
-      "NPR"
+      "New York Times",
+      "Financial Times",
+      "CNBC"
     ],
     "domains": [
-      "www.theguardian.com",
-      "www.npr.org",
+      "www.nytimes.com",
+      "www.cnbc.com",
       "www.dw.com",
-      "globalnews.ca",
-      "www.cnbc.com"
+      "www.bbc.com",
+      "www.ft.com"
     ],
     "snippets": [
-      "Former New York City Mayor Rudy Giuliani has been hospitalized with a broken vertebra after a car accident in New Hampshire, according to his spokesperson.",
-      "Former New York Mayor Rudy Giuliani's vehicle was \"struck from behind at high speed,\" his team said. The ex-Trump lawyer is reportedly in good spirits but will remain hospitalized.",
-      "The former New York City mayor was taken to a trauma center with a fractured thoracic vertebrae, as well as lacerations and contusions, from a car accident.",
-      "<p>New York City’s ex-mayor, 81, in ‘good spirits’ after being treated for fractured thoracic vertebrae, cuts and bruises</p><p>New York City’s former mayor <a href=\"https://www.theguardian.com/us-news/rudygiuliani\">Rudy Giuliani</a> has been hospitalized after getting injured in a car wreck in <a h",
-      "Rudy Giuliani is recovering from a fractured vertebra and other injuries following a car crash in New Hampshire, a spokesperson for the former New York City mayor said Sunday."
+      "The European Commission said the plane's navigation was disrupted in Bulgaria on Sunday.",
+      "Ursula von der Leyen's flight en route to Bulgaria was targeted with navigation interference, which the EU says was possibly deliberately done by Russia.",
+      "The European Union said Russia was suspected of jamming the GPS system of a plane carrying European Commission President Ursula von der Leyen to Bulgaria.",
+      "Officials suspect jamming operation forced jet carrying European Commission president to land in Bulgaria using paper maps",
+      "The Bulgarian authorities believe that Russia disrupted navigation signals that would have been used by a plane carrying Ursula von der Leyen, European officials said."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30c8/live/b0bf99f0-8722-11f0-95ce-ab02c3c61297.jpg",
     "titles": [
-      "Rudy Giuliani hospitalized with broken vertebra after car accident, spokesperson says",
-      "Rudy Giuliani seriously injured in car accident",
-      "Rudy Giuliani hospitalized with serious injuries after New Hampshire car accident",
-      "Rudy Giuliani hospitalized after car accident in New Hampshire",
-      "Rudy Giuliani injured in New Hampshire car crash, his spokesperson says"
+      "EU chief von der Leyen's plane hit by suspected Russian GPS jamming",
+      "EU chief plane hit by suspected Russian GPS jamming",
+      "Plane carrying EU leader hit with suspected Russian GPS interference",
+      "Von der Leyen’s plane hit by suspected Russian GPS interference",
+      "Russia Suspected of Jamming GPS for E.U. Leader’s Plane, Officials Say"
     ],
     "score_components": {
       "magnitude": 0.944,
-      "recency": 0.786,
+      "recency": 0.903,
       "consensus": 0.995,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.81,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The European Commission reported that a plane carrying President Ursula von der Leyen to Bulgaria experienced navigation disruption due to suspected GPS jamming on Sunday. The EU and Bulgarian authorities suspect Russia was behind the interference, which forced the aircraft to land using paper maps. The situation is under investigation.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Erik ten Hag Sacked by Bayer Leverkusen After Just 62 Days",
+    "domain": "sports",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Mon, 01 Sep 2025 11:52:02 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "ESPN",
+      "Sportsnet",
+      "Deutsche Welle",
+      "Al Jazeera"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "www.aljazeera.com",
+      "www.dw.com",
+      "www.espn.com"
+    ],
+    "snippets": [
+      "Erik ten Hag now holds the unwanted record of breaking the previous mark for a coach of five matches before dismissal.",
+      "Former Manchester United head coach Erik ten Hag has been sacked by Bayer Leverkusen after only 62 days in charge and one defeat.",
+      "Former Manchester United manager Erik ten Hag has been sacked by Bayer Leverkusen after just two games in charge, the club has confirmed.",
+      "<p>Erik ten Hag lasted three games at Bayer Leverkusen.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Ten Hag sacked by Bayer Leverkusen after two Bundesliga games in charge",
+      "Bundesliga: Leverkusen sack coach ten Hag after two games",
+      "Ten Hag fired by Leverkusen after just 3 games",
+      "Leverkusen fires Erik ten Hag as coach after three games"
+    ],
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.914,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.772,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Erik ten Hag was sacked by Bayer Leverkusen after a brief tenure, lasting between two to three games, marking one of the shortest managerial stints at the club. This follows his departure from Manchester United, with his time at Leverkusen spanning only 62 days before his dismissal.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "China Pledges $280M in Aid to SCO Members at Tianjin Summit",
+    "domain": "business",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Mon, 01 Sep 2025 04:57:10 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "New York Times",
+      "CNBC"
+    ],
+    "domains": [
+      "www.cnbc.com",
+      "www.nytimes.com",
+      "www.npr.org"
+    ],
+    "snippets": [
+      "Chinese President Xi Jinping is hosting a high-profile summit with leaders from Russia, North Korea and India gathering among others in a challenge to U.S. influence.",
+      "A viral photo of Modi, Xi and Putin at the SCO summit highlights shifting power, unresolved tensions and the limits of global alliances.",
+      "It is unclear if the SCO summit will pave the way for any breakthroughs in easing tensions, though Beijing has sought to cast itself as a global peacemaker.",
+      "Their display of friendship in China was aimed at projecting an alternative to U.S. global leadership, even as serious differences among them remain."
+    ],
+    "image_url": "",
+    "titles": [
+      "China's Xi hosts Putin and Modi at Shanghai Cooperation Organization summit",
+      "Behind the smiles with Putin, Modi and Xi at China summit",
+      "China's Xi urges AI cooperation, rejects ‘Cold War mentality’ at SCO summit",
+      "Xi, Putin and Modi Try to Signal Unity at China Summit"
+    ],
+    "score_components": {
+      "magnitude": 0.867,
+      "recency": 0.86,
+      "consensus": 0.789,
+      "constructiveness": 0.1,
+      "proximity": 0.75
+    },
+    "score": 0.758,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "At a summit in Tianjin, the Chinese leader pledged $280 million in aid to members of the Shanghai Cooperation Organisation (SCO). The contribution aims to support the SCO, but it remains uncertain if this will lead to significant breakthroughs in reducing tensions among member states. Beijing is positioning itself as a global peacemaker through this gesture.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: support",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Florida State Linebacker Critically Injured in Shooting in Havana, Florida",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Mon, 1 Sep 2025 10:11:46 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "CBS Sports",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.espn.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Florida State freshman linebacker Ethan Pritchard is hospitalized in critical but stable condition after suffering a gunshot wound Sunday night in Havana, Florida.",
+      "Pritchard is a freshman linebacker for the Seminoles",
+      "<ul><li><p>Player was shot inside car while visiting family</p></li><li><p>Freshman listed as in critical but stable condition </p></li></ul><p>A Florida State linebacker is in critical but stable condition after being shot while visiting family, the Seminoles said on Monday.</p><p>Ethan Pritchard, "
+    ],
+    "image_url": "",
+    "titles": [
+      "FSU freshman shot, in critical but stable condition",
+      "Florida State LB Ethan Pritchard injured in shooting, hospitalized in critical but stable condition",
+      "Florida State linebacker Ethan Pritchard in intensive care after being shot"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.959,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.811,
+    "score": 0.754,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Florida State freshman linebacker Ethan Pritchard is in critical but stable condition after being shot Sunday night in Havana, Florida, while visiting family. He was inside a car at the time of the incident.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "2025 NFL Fantasy Insights: Breakouts, Busts, and Draft Strategy Revealed",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Mon, 1 Sep 2025 10:11:17 EST",
+    "source": "ESPN",
+    "sources": [
+      "Yahoo Sports",
+      "ESPN",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.on3.com",
+      "www.espn.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Weekly individual and composite rankings for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+      "SportsLine simulated the NFL season 10,000 times and revealed its 2025 Fantasy football breakouts for 2025 Fantasy football draft prep",
+      "SportsLine simulated the new NFL season 10,000 times and identified Fantasy football busts 2025 to fade during your Fantasy football draft prep",
+      "Another week of Kentucky high school football means a fresh batch of statewide rankings. We’re now officially two weeks into the 2025 season. The Trinity Shamrocks continue to hold down the number one spot as the unanimous top team in the Bluegrass. For the second straight week, all 10 of KSR’s vote"
+    ],
+    "image_url": "",
+    "titles": [
+      "🏈 Fantasy football PPR rankings for Week 1",
+      "Fantasy football rankings 2025: Breakouts, top picks from model that nailed Jayden Daniels' big season",
+      "Fantasy football rankings 2025: Busts from model that was all over Raheem Mostert's tough season",
+      "KSR’s 2025 Kentucky High School Football Top 25 Rankings: Week 2"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.959,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.754,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Former New York City Mayor Rudy Giuliani, 81, was hospitalized after his car was struck from behind in a high-speed accident in New Hampshire. He suffered a fractured thoracic vertebra, along with lacerations and contusions. Giuliani, who was assisting a domestic violence victim at the time, is in good spirits but will remain hospitalized for his injuries.",
+    "summary": "SportsLine conducted 10,000 simulations of the new NFL season, providing insights for 2025 Fantasy football including breakouts, busts, and overall draft strategy. Additionally, weekly rankings for both PPR and IDP formats, along with Eric Karabell's superflex ranks, are available to assist with draft preparation and season planning.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Afghanistan Earthquake Kills 600, Injures 1,300 Near Pakistan Border",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Mon, 01 Sep 2025 15:49:43 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "Deutsche Welle",
+      "Al Jazeera"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.bbc.com",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "Hundreds of people are thought to have died in the quake, which struck in a mountainous eastern region.",
+      "Entire villages have been destroyed by an earthquake in Afghanistan that has killed more than 800 people.",
+      "“This is one of the most remote and also one of the most  poor parts of Afghanistan.”",
+      "Authorities say more than 800 people have died as floods and rubble hinder rescue efforts.",
+      "The shallow earthquake in eastern Afghanistan has destroyed several villages, causing widespread damage."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b1/live/b09a6ca0-874c-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "titles": [
+      "What we know about Afghanistan earthquake - and what we don't",
+      "Video: What we know about Afghanistan’s earthquake",
+      "“Access is difficult” to areas in Afghanistan affected by earthquake",
+      "Deadly earthquake hits Afghanistan: What we know so far",
+      "Afghanistan: Hundreds killed after strong earthquake"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.972,
+      "consensus": 0.789,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.741,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "A magnitude 6.0 earthquake struck eastern Afghanistan near Jalalabad and the Pakistan border late Sunday, killing over 600 people and injuring more than 1,300, as reported by the Taliban-run Interior Ministry. The quake caused extensive damage across the mountainous provinces of Kunar and Nangahar, destroying several villages. The death toll is expected to rise as rescue efforts continue.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: effort",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Liverpool, Newcastle Agree on Record British Transfer for Isak",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Mon, 01 Sep 2025 00:04:11 GMT",
+    "source": "BBC",
+    "sources": [
+      "The Guardian",
+      "BBC",
+      "Sportsnet",
+      "Al Jazeera"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.bbc.com",
+      "www.sportsnet.ca",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "Liverpool agree British transfer record fee of £125m to sign striker Alexander Isak from Newcastle United.",
+      "The Premier League champions&#039; signing of the Swedish international closes the summer&#039;s most drawn-out transfer saga.",
+      "<ul><li><p>Striker to undergo medical after British record fee agreed</p></li><li><p>Loyalty payment could take deal to as high as £130m </p></li></ul><p>Alexander Isak is close to joining Liverpool after Newcastle accepted a British-record £125m fee for the striker.</p><p>The Sweden international w",
+      "<p>One of the more dramatic and long-winded transfer sagas in recent memory appears to have finally come to an end. </p>"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/237f/live/06632f90-8712-11f0-8539-299a7a7c0d9c.jpg",
+    "titles": [
+      "Liverpool agree British record £125m fee for Isak",
+      "Isak signs with Liverpool from Newcastle for record British fee: Report",
+      "Liverpool agree £125m deal to sign Alexander Isak from Newcastle on deadline day",
+      "Reports: Liverpool land Alexander Isak after Newcastle accept record fee"
+    ],
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.7,
+      "consensus": 0.908,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.739,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Alexander Isak's transfer saga concludes as Liverpool and Newcastle United reach a British-record agreement for his move. This deal, finalizing before the transfer deadline, marks the end of Isak's recent efforts to leave Newcastle.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: effort",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Warren Anticipated to Play Key Role for Pittsburgh This Season",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Mon, 01 Sep 2025 15:36:44 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Yahoo Sports",
+      "Sportsnet",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "www.behindthesteelcurtain.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Warren is expected to have a significant role for Pittsburgh this season",
+      "The Pittsburgh Steelers have locked down their starting running back",
+      "<p>The Pittsburgh Steelers are committing to their starting running back.</p>"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/01/acf8aca3-c178-4a53-8796-1855f2bd228b/jaylen-warren-getty.jpg",
+    "titles": [
+      "Jaylen Warren contract: Steelers RB agrees to two-year extension, eyes more touches in new-look backfield",
+      "Steelers RB Jaylen Warren contract extension details emerge",
+      "Steelers sign running back Jaylen Warren to two-year extension, per agent"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.988,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.734,
+    "summary_source": "snippet",
+    "summary_reason": "retry_exhausted",
+    "summary": "Warren is expected to have a significant role for Pittsburgh this season",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "UK Records Warmest Summer Ever, Joins Japan and South Korea",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Mon, 01 Sep 2025 15:22:19 GMT",
+    "source": "BBC",
+    "sources": [
+      "Phys.org",
+      "BBC",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "phys.org",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "Provisional Met Office figures show that it has been the warmest summer on record - meaning the UK's five hottest summers have all occurred since 2000.",
+      "<p>Mean temperature over June, July and August was 16.1C as country endured four heatwaves</p><p>The UK has seen its hottest summer on record, the Met Office has said, after the country sweltered under four heatwaves in a single season.</p><p>The mean temperature for meteorological summer, which enc",
+      "Japan and South Korea sweltered this year through the hottest summers since records began, their weather agencies said Monday."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2186/live/96ee8ab0-8734-11f0-9ea1-07d888221746.jpg",
+    "titles": [
+      "Summer 2025 confirmed as UK's hottest on record",
+      "UK experienced its hottest summer on record in 2025, Met Office says",
+      "Japan, South Korea endure hottest summer on record"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.963,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.729,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The UK experienced its warmest summer on record with a mean temperature of 16.1C, marked by four heatwaves, according to the Met Office. This summer joins the UK's five hottest summers, all occurring since 2000. Similarly, Japan and South Korea reported their hottest summers ever, as confirmed by their respective weather agencies.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "September Entertainment: New Books, TV Series, and Netflix Classics",
+    "domain": "business",
+    "source_domain": "www.newscientist.com",
+    "location": "global",
+    "published": "Mon, 01 Sep 2025 11:00:27 +0100",
+    "source": "New Scientist",
+    "sources": [
+      "Business Insider",
+      "New Scientist",
+      "Forbes"
+    ],
+    "domains": [
+      "www.forbes.com",
+      "www.newscientist.com",
+      "www.businessinsider.com"
+    ],
+    "snippets": [
+      "Authors including literary heavyweight Ian McEwan and big hitters John Scalzi, Yume Kitasei and Cixin Liu have new sci-fi novels out this month",
+      "September is packed with new and returning TV shows, from \"Tulsa King\" and \"Beauty in Black\" to \"Wednesday,\" \"Only Murders in the Building\" and more. Here’s what to stream this month.",
+      "Some of the best movies coming to Netflix in September are classics like \"Idiocracy\" and \"E.T.\" You can also stream the whole \"Shrek\" series."
+    ],
+    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/09/01094251/sei263477766.jpg",
+    "titles": [
+      "The best new science fiction books of September 2025",
+      "The Best New TV Shows Streaming In September 2025 On Netflix, Hulu And More",
+      "The 10 best movies to stream on Netflix in September"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.879,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.72,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "September brings a wave of new entertainment options. Notable authors Ian McEwan, John Scalzi, Yume Kitasei, and Cixin Liu are releasing new sci-fi novels. TV enthusiasts can look forward to new and returning series including \"Tulsa King,\" \"Beauty in Black,\" \"Wednesday,\" and \"Only Murders in the Building.\" Netflix is adding classics to its lineup, with \"Idiocracy,\" \"E.T.,\" and the entire \"Shrek\" series available for streaming.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -123,40 +534,36 @@
     "published": "Sun, 31 Aug 2025 21:20:53 -0400",
     "source": "NPR",
     "sources": [
-      "New York Times",
-      "Al Jazeera",
       "NPR",
-      "The Guardian"
+      "Axios",
+      "New York Times"
     ],
     "domains": [
-      "www.theguardian.com",
-      "www.npr.org",
-      "www.aljazeera.com",
-      "www.nytimes.com"
+      "www.nytimes.com",
+      "news.google.com",
+      "www.npr.org"
     ],
     "snippets": [
       "As a U.S. federal judge blocked the deportation of unaccompanied Guatemalan children, the government of Guatemala says in a statement it suggested the U.S. return its children to their home country.",
       "A federal district judge issued a temporary restraining order after the U.S. attempted to deport hundreds of unaccompanied Guatemalan children without proper immigration proceedings.",
-      "District Judge Sparkle Sooknanan&#039;s emergency order follows a legal complaint brought on behalf of 10 children.",
-      "<p>Washington judge says unaccompanied children cannot be deported for at least 14 days as legal process unfolds</p><p>A US judge on Sunday ordered an emergency halt to a plan by the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> to deport a group of near",
+      "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQTjhWc3lTc0cwU09qZDl0WWxENWFtbXlwdUwxVEZWeWk3dW5CemVJTjhfQXRjNllNeFBGb1lrTlhIM3VCbU9rbkNaNXVTeEZwYXlyTTJYWFlESUY2WVE1SndXVGpiZTdQeEpHVldKdHQyLVBmUGFhVGs5cTkybkh2Wjd6czdBYlBSZHc0RjUtbkk?oc=5\" target=\"_blank\">Judge halts deportation of hundr",
       "The temporary block ended another last-minute flurry of legal action over the Trump administration’s immigration crackdown."
     ],
     "image_url": "",
     "titles": [
       "Guatemala says it suggested that U.S. send its unaccompanied migrant children home",
       "Hundreds of unaccompanied Guatemalan children can stay in the U.S. for now, judge says",
-      "US judge blocks government from deporting unaccompanied Guatemalan minors",
-      "Judge orders US to halt deportation of hundreds of Guatemalan children",
+      "Judge halts deportation of hundreds of Guatemalan children - Axios",
       "Judge Halts U.S. Effort to Deport Guatemalan Children as Planes Sit on Tarmac"
     ],
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.868,
-      "consensus": 0.908,
+      "magnitude": 0.827,
+      "recency": 0.734,
+      "consensus": 0.789,
       "constructiveness": 0.1,
       "proximity": 0.75
     },
-    "score": 0.798,
+    "score": 0.719,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "A federal judge issued a temporary restraining order, halting the U.S. government's attempt to deport hundreds of unaccompanied Guatemalan children without proper immigration proceedings. This decision, made by District Judge Sparkle Sooknanan, comes after a legal complaint on behalf of 10 children, temporarily preventing these deportations for at least 14 days as the legal process continues. This move interrupts the Trump administration's broader immigration crackdown efforts.",
@@ -165,418 +572,110 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Man Arrested After Crashing Through Gates in Sydney, Officer Injured",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Mon, 01 Sep 2025 02:05:42 GMT",
-    "source": "BBC",
+    "title": "Blue Jays Add Kiner-Falefa, Tate to Roster for Reds Series",
+    "domain": "sports",
+    "source_domain": "globalnews.ca",
+    "location": "national",
+    "published": "Mon, 01 Sep 2025 15:47:51 +0000",
+    "source": "Global News",
     "sources": [
-      "Deutsche Welle",
-      "Al Jazeera",
-      "BBC",
-      "The Guardian"
+      "Global News",
+      "Sportsnet"
     ],
     "domains": [
-      "www.theguardian.com",
-      "www.aljazeera.com",
-      "www.dw.com",
-      "www.bbc.com"
+      "globalnews.ca",
+      "www.sportsnet.ca"
     ],
     "snippets": [
-      "Police say an officer injured their hand but no other injuries were reported.",
-      "Police say a 39-year-old man has been taken into custody over the incident in Sydney&#039;s Woollahra suburb.",
-      "A 39-year-old man has been arrested following the incident, New South Wales police said in a statement.",
-      "<p>Police called to Woollahra following reports of ‘unauthorised vehicle’ parked in driveway, with 39-year-old then crashing through gates, police allege</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.co"
+      "Infielder Isiah Kiner-Falefa and right-hander Dillon Tate will both be active for Monday's opener against the Cincinnati Reds, the Toronto Blue Jays announced.",
+      "<p>Infielder Isiah Kiner-Falefa and right-handed pitcher Dillon Tate have been added to the team&#8217;s major league roster and will be active for the series opener against the Cincinnati Reds, the team announced Monday. </p>"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638f/live/5f498000-86f4-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/b8c928045fbb9b31f6780e777b52e1a65dc5505573024615a89001b29364b321.jpg?quality=65&strip=all",
     "titles": [
-      "Man arrested after crashing car into Russian consulate in Australia",
-      "Car crashes into Russian consulate in Australia’s Sydney",
-      "Car plows into Russian consulate gate in Sydney",
-      "Man arrested after allegedly ramming car through front gates of Russian consulate in Sydney"
+      "Jays use extra roster spots on Kiner-Falefa, Tate",
+      "Blue Jays use September roster spots on Isiah Kiner-Falefa, Dillon Tate"
     ],
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.864,
-      "consensus": 0.908,
-      "constructiveness": 0.1,
-      "proximity": 0.5
+      "magnitude": 0.735,
+      "recency": 0.992,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 1.0
     },
-    "score": 0.772,
+    "score": 0.703,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "In Sydney's Woollahra suburb, a 39-year-old man was arrested after crashing an unauthorized vehicle through gates, according to New South Wales police. During the incident, an officer sustained a hand injury, but no other injuries were reported. The man is currently in custody.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: sustain",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Israel Kills Hamas Spokesperson in Gaza Airstrike; Tensions Escalate",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sun, 31 Aug 2025 20:32:56 GMT",
-    "source": "BBC",
-    "sources": [
-      "New York Times",
-      "Deutsche Welle",
-      "Washington Post",
-      "BBC"
-    ],
-    "domains": [
-      "www.nytimes.com",
-      "www.dw.com",
-      "www.washingtonpost.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "The military spokesman was killed in strikes on Saturday, Israel says - Hamas has not confirmed the death.",
-      "Israel announced that prominent Hamas spokesperson Abu Obeida was killed by an Israeli strike. It comes as Israel's major Gaza City offensive is underway. DW has more.",
-      "For nearly two decades, Abu Obaida was the face of Hamas’s military operations. Israel says it killed him in a strike Saturday in Gaza City.",
-      "Hamas did not immediately comment on the Israeli military’s claim that Abu Obeida, one of the armed group’s best-known officials in the Arab world, had been killed."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a00/live/a20c7f00-867c-11f0-b391-6936825093bd.jpg",
-    "titles": [
-      "Hamas spokesman Abu Obeida killed in Gaza, Israel says",
-      "Israel says Hamas spokesman killed in Gaza airstrike",
-      "Israel says it killed longtime spokesman of Hamas’s military wing",
-      "Israel Says It Killed Abu Obeida, Spokesman for Hamas’s Armed Wing"
-    ],
-    "score_components": {
-      "magnitude": 0.952,
-      "recency": 0.769,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.764,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Israel announced the death of Hamas spokesperson Abu Obeida in an airstrike in Gaza City, amid a significant offensive. This action coincides with a weekend that saw at least 43 Palestinian fatalities, escalating hunger, and widespread displacement. The Israeli military has warned of further strikes against Hamas if operations in the region continue as planned.",
+    "summary": "The Toronto Blue Jays announced that infielder Isiah Kiner-Falefa and right-handed pitcher Dillon Tate have been added to the major league roster. Both will be active for the team's series opener against the Cincinnati Reds on Monday.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Charlie Woods Scores Hole in One at Junior Players Championship",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
+    "title": "Rudy Giuliani Hospitalized After Car Accident in New Hampshire",
+    "domain": "general",
+    "source_domain": "www.npr.org",
     "location": "national",
-    "published": "Sun, 31 Aug 2025 23:29:58 EST",
-    "source": "ESPN",
+    "published": "Sun, 31 Aug 2025 16:32:47 -0400",
+    "source": "NPR",
     "sources": [
-      "ESPN",
-      "Sportsnet",
-      "Sports Illustrated"
+      "NPR",
+      "Deutsche Welle",
+      "CNBC"
     ],
     "domains": [
-      "www.espn.com",
-      "news.google.com",
-      "www.sportsnet.ca"
+      "www.cnbc.com",
+      "www.dw.com",
+      "www.npr.org"
     ],
     "snippets": [
-      "Charlie Woods made an ace on the third hole at TPC Sawgrass in the final round of the Junior Players Championship.",
-      "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5UbUE3T1JiczI3VE9ia18zc29udGIwbEVoWE10eS1LM1hjX3hRUDFoME1aV0V3N3FpR2F0NEFVVVE3QjlJazloa3l1aVh4clFJMlBPYnN5d2tRTlVReGo4NkcwbVlLTnFSaW1LMFpOTQ?oc=5\" target=\"_blank\">Charlie Woods Gets Hole in One in Junior Players Championship at TPC Sawgrass",
-      "<p>Charlie Woods has authored a moment to remember at an iconic golf course.</p>"
+      "Former New York City Mayor Rudy Giuliani has been hospitalized with a broken vertebra after a car accident in New Hampshire, according to his spokesperson.",
+      "Former New York Mayor Rudy Giuliani's vehicle was \"struck from behind at high speed,\" his team said. The ex-Trump lawyer is reportedly in good spirits but will remain hospitalized.",
+      "The former New York City mayor was taken to a trauma center with a fractured thoracic vertebrae, as well as lacerations and contusions, from a car accident."
     ],
     "image_url": "",
     "titles": [
-      "Charlie Woods makes ace during Junior Players",
-      "Charlie Woods Gets Hole in One in Junior Players Championship at TPC Sawgrass - Sports Illustrated",
-      "Charlie Woods fires hole-in-one at TPC Sawgrass"
+      "Rudy Giuliani hospitalized with broken vertebra after car accident, spokesperson says",
+      "Rudy Giuliani seriously injured in car accident",
+      "Rudy Giuliani hospitalized with serious injuries after New Hampshire car accident"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.908,
+      "recency": 0.664,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.743,
+    "score": 0.695,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Charlie Woods achieved a hole in one on the third hole at TPC Sawgrass during the final round of the Junior Players Championship. This notable accomplishment highlighted his performance in the tournament.",
+    "summary": "Former New York City Mayor Rudy Giuliani, 81, was hospitalized after his car was struck from behind in a high-speed accident in New Hampshire. He suffered a fractured thoracic vertebra, along with lacerations and contusions. Giuliani, who was assisting a domestic violence victim at the time, is in good spirits but will remain hospitalized for his injuries.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Aston Villa Eyes Deadline Day Deal for Man Utd's Jadon Sancho",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Mon, 01 Sep 2025 07:43:55 GMT",
-    "source": "BBC",
-    "sources": [
-      "Yahoo Sports",
-      "BBC",
-      "Sky Sports"
-    ],
-    "domains": [
-      "www.skysports.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "Aston Villa are exploring a move for Manchester United's out-of-favour winger Jadon Sancho.",
-      "Aston Villa are exploring a move for Manchester United's out-of-favour winger Jadon Sancho.",
-      "Aston Villa are exploring a Deadline Day deal for Manchester United forward Jadon Sancho."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3da3/live/aa838b30-8701-11f0-b357-dba5095f4b72.jpg",
-    "titles": [
-      "Villa exploring move for Man Utd winger Sancho",
-      "Villa exploring move for Man Utd winger Sancho",
-      "Villa exploring deal to sign Man Utd's Sancho on loan"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.971,
-      "consensus": 0.769,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.726,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Aston Villa is considering signing Manchester United's winger Jadon Sancho, who is currently out of favor at his club. They are looking into securing a deal for him on Deadline Day.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Sounders Beat Inter Miami 3-0; Suarez Faces Possible Suspension for Spitting",
-    "domain": "sports",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Mon, 01 Sep 2025 05:28:14 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "CBS Sports",
-      "Al Jazeera",
-      "Sportsnet"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "www.aljazeera.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "Seattle record an emphatic win in a match where Miami&#039;s Luis Suarez appeared to spit on a Sounders staffer post-game.",
-      "Suarez lost his cool big time, and a long suspension could be coming",
-      "<p>Osaze De Rosario scored in the 26th minute, and the Seattle Sounders blanked Lionel Messi and Inter Miami 3-0 on Sunday night to win the Leagues Cup.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Suarez, Messi, Inter Miami lose to Seattle Sounders in Leagues Cup final",
-      "Inter Miami's Luis Suarez spits on Seattle Sounders staff member as Leagues Cup final ends in a fight",
-      "Osaze De Rosario helps Sounders blank Messi, Inter Miami in Leagues Cup final"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.946,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.726,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Seattle Sounders defeated Inter Miami 3-0 in the Leagues Cup, with Osaze De Rosario scoring in the 26th minute. Post-game, Luis Suarez of Miami was seen spitting on a Sounders staffer, an action that might lead to a significant suspension for him.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "6.0 Earthquake Hits Eastern Afghanistan, Over 250 Dead",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Mon, 01 Sep 2025 05:18:26 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Forbes",
-      "Al Jazeera",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.forbes.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "US Geological Survey says magnitude 6 quake struck just before midnight in eastern Afghanistan.",
-      "<p>Several villages in Kunar province ‘completely destroyed’, says ministry for public health, as rescue operations take place</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/sep/01/afghanistan-earthquake-near-jalalabad-magnitude-6-quake-pakistan-border\">At least 250 dead after 6.0 mag",
-      "The epicenter of the 6.0 magnitude temblor struck near the Afghan-Pakistan border, and the death toll is expected to rise."
-    ],
-    "image_url": "",
-    "titles": [
-      "Afghanistan earthquake live: More than 600 people killed, 1,500 injured",
-      "Afghanistan earthquake live: more than 600 dead after shallow quake strikes country’s east, state media reports",
-      "Powerful Earthquake In Afghanistan Kills At Least 610 People—Thousands Injured"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.943,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.725,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "A magnitude 6.0 earthquake struck eastern Afghanistan just before midnight, with its epicenter near the Afghan-Pakistan border. The quake led to the complete destruction of several villages in Kunar province. According to the ministry for public health, at least 250 people have died, and rescue operations are ongoing. The death toll is expected to rise.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Liverpool, Newcastle Agree on Record British Transfer for Isak",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Mon, 01 Sep 2025 00:04:11 GMT",
-    "source": "BBC",
-    "sources": [
-      "Sky Sports",
-      "Sportsnet",
-      "BBC"
-    ],
-    "domains": [
-      "www.skysports.com",
-      "www.bbc.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "Liverpool agree British transfer record fee of £125m to sign striker Alexander Isak from Newcastle United.",
-      "Liverpool&#160;and&#160;Newcastle&#160;have agreed a British-record transfer for Alexander Isak.",
-      "<p>One of the more dramatic and long-winded transfer sagas in recent memory appears to have finally come to an end. </p>"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e7/live/8d30fb80-8701-11f0-84c8-99de564f0440.jpg",
-    "titles": [
-      "Liverpool agree British record £125m fee for Isak",
-      "Liverpool agree British-record deal with Newcastle to sign Isak",
-      "Reports: Liverpool land Alexander Isak after Newcastle accept record fee"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.828,
-      "consensus": 0.789,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.712,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Alexander Isak's transfer saga concludes as Liverpool and Newcastle United reach a British-record agreement for his move. This deal, finalizing before the transfer deadline, marks the end of Isak's recent efforts to leave Newcastle.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: effort",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Buffalo Bills' DeWayne Carter Out for Season with Torn Achilles",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Sun, 31 Aug 2025 22:30:13 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "CBS Sports",
-      "Sportsnet",
-      "Sports Illustrated"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "news.google.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "Carter, 24, appeared in 11 games as a rookie",
-      "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEc3bjFjZjViRm1XVVV1QURtbUxOQVNHdmoyVjBuQ1FuaXdYVTZsZkg0alpLbDdhdmlBVW5OdkFNMENjNzFXUFQ2OVp4MElLYU83bHNrem9yMmVBeWMtR2pRZ09JUDJTYWNfSWJnV2p3cnE3NzVrUm9HR2pNVWNVZHlkQ3VCUQ?oc=5\" target=\"_blank\">Bills Lose Key Defensive Lineman to Season-En",
-      "<p>Buffalo Bills backup defensive tackle DeWayne Carter will miss the season after tearing his Achilles tendon, two people with knowledge of the injury confirmed to The Associated Press on Sunday.</p>"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/31/d11e99d2-1e16-4d0e-bdf9-2fc49d012b34/carter.jpg",
-    "titles": [
-      "DeWayne Carter injury: Bills lose key defensive lineman for season due to torn Achilles, per report",
-      "Bills Lose Key Defensive Lineman to Season-Ending Injury Ahead of Week 1 - Sports Illustrated",
-      "AP Source: Bills defensive tackle Carter to miss season after tearing Achilles tendon"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.818,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.7,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "DeWayne Carter, a 24-year-old defensive tackle for the Buffalo Bills, will miss the rest of the season due to a torn Achilles tendon. This was confirmed by two sources to The Associated Press. Carter appeared in 11 games during his rookie year.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "EU Plans Troop Deployment to Ukraine for Post-Conflict Security",
-    "domain": "business",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-09-01T03:53:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "Deutsche Welle",
-      "Financial Times"
-    ],
-    "domains": [
-      "www.dw.com",
-      "www.ft.com"
-    ],
-    "snippets": [
-      "Europe is drawing up \"precise plans\" to send troops to Ukraine once fighting there ends, EU chief Ursula von der Leyen has said. Meanwhile, Putin has again blamed Ukraine and the West for starting the war. DW has more.",
-      "Post-conflict security guarantees will be fully backed by US commitments, commission president tells FT"
-    ],
-    "image_url": "",
-    "titles": [
-      "Ukraine live: Europe drafting 'precise' plans to send troops",
-      "Europe has ‘pretty precise’ plan to send troops to Ukraine, von der Leyen says"
-    ],
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.915,
-      "consensus": 0.591,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.682,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The EU, led by Ursula von der Leyen, is preparing detailed plans to deploy troops to Ukraine after hostilities cease, aiming to ensure post-conflict security. This initiative is supported by US commitments. Concurrently, Russian President Putin continues to attribute the initiation of the conflict to Ukraine and Western countries.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "keywords: initiative, plan, support",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Premier League Transfer Window Closes; Liverpool Signs Isak for £125M",
+    "title": "Premier League Clubs Rush for Last-Minute Deals as Transfer Window Closes",
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Mon, 1 Sep 2025 03:41:35 EST",
+    "published": "Mon, 1 Sep 2025 11:45:26 EST",
     "source": "ESPN",
     "sources": [
       "ESPN",
       "The Guardian"
     ],
     "domains": [
-      "www.espn.com",
-      "www.theguardian.com"
+      "www.theguardian.com",
+      "www.espn.com"
     ],
     "snippets": [
       "The summer transfer window closes today and all the big Premier League clubs will be busy in some way. Transfer Talk has the latest news, gossip and rumors.",
-      "<ul><li><p>All the latest news and moves | <a href=\"https://www.theguardian.com/football/2025/sep/01/liverpool-agree-125m-deal-to-sign-alexander-isak-from-newcastle-on-deadline-day\">Liverpool agree Isak fee</a></p></li><li><p><a href=\"mailto:niall.mcveigh@theguardian.com\">Mail Niall</a> | <a href=\"h"
+      "<ul><li><p><a href=\"https://www.theguardian.com/football/2025/sep/01/manchester-city-to-sell-ederson-to-fenerbahce-if-they-land-gianluca-donnarumma-psg\">City chase Donnarumma</a> | <a href=\"https://www.theguardian.com/football/2025/sep/01/liverpool-agree-125m-deal-to-sign-alexander-isak-from-newcast"
     ],
     "image_url": "",
     "titles": [
-      "LIVE Transfer deadline day news, updates: Isak to Liverpool agreed",
-      "Transfer deadline day: Isak deal agreed, Guéhi, Wissa, Ederson latest and more – live"
+      "LIVE: Transfer deadline day news, updates: Liverpool close on Isak, Guéhi",
+      "Transfer deadline day: Guéhi move hits snag; Isak, Jackson and Wissa deals agreed – live"
     ],
     "score_components": {
       "magnitude": 0.735,
@@ -588,321 +687,241 @@
     "score": 0.678,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The summer transfer window for the Premier League closes today, with significant activity expected from major clubs. Notably, Liverpool has agreed to a £125 million deal to sign Alexander Isak from Newcastle, highlighting the day's major moves.",
+    "summary": "The summer transfer window is closing today, with major Premier League clubs making last-minute deals. Manchester City is pursuing Gianluca Donnarumma and may sell Ederson to Fenerbahce if successful. Meanwhile, Liverpool has agreed to a £125 million deal to sign Alexander Isak from Newcastle. These moves highlight the active participation of top clubs in the transfer market as the deadline approaches.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Atwood Pens Satire in Response to Alberta's Book Ban Policy",
-    "domain": "general",
-    "source_domain": "globalnews.ca",
+    "title": "Donald Picks Six from Winning Team for Ryder Cup Roster",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Sun, 31 Aug 2025 22:18:07 +0000",
-    "source": "Global News",
+    "published": "Mon, 1 Sep 2025 10:11:17 EST",
+    "source": "ESPN",
     "sources": [
-      "Global News",
-      "CityNews"
+      "ESPN",
+      "Sky Sports"
     ],
     "domains": [
-      "ottawa.citynews.ca",
-      "globalnews.ca"
+      "www.espn.com",
+      "www.skysports.com"
     ],
     "snippets": [
-      "Margaret Atwood is taking aim at Alberta's controversial ban on school library books containing sexual content with a new, satirical short story.",
-      "EDMONTON — Margaret Atwood is taking aim at Alberta&#8217;s controversial ban on school library books containing sexual content with a new, satirical short story after the famed author&#8217;s novel &#8220;The Handmaid&#8217;s Tale&#8221; was yanked from some shelves due to the province&#8217;s swee"
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/08/8beeff529abe9e38ba214e0ddfb261f08a0ea1469a4fcd1df3c00df4ddc3a6c7.jpg?quality=65&strip=all",
-    "titles": [
-      "Margaret Atwood takes aim at Alberta’s school library books ban with satirical story",
-      "Margaret Atwood takes aim at Alberta’s school library books ban with satirical story"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.815,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.668,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Margaret Atwood has written a satirical short story in response to Alberta's ban on school library books with sexual content. This action comes after her novel \"The Handmaid's Tale\" was removed from some school shelves in the province due to the controversial policy.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Putin Defends Ukraine Actions, Xi Criticizes West at SCO Summit",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Mon, 01 Sep 2025 07:37:46 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "Russia’s president defends the military campaign in Ukraine, blaming NATO and Western policies for the conflict.",
-      "<p>China’s leader urges attendees to oppose ‘cold war mentality’ while Russian president claims Ukraine war was ‘provoked by the west’</p><p>Xi Jinping has criticised the “bullying behaviour” of other countries while Vladimir Putin has blamed the west for his war on Ukraine, on the second day of a m",
-      "<p>Russian president and his Chinese counterpart shake hands as more than 20 world leaders attend Shanghai Cooperation Organisation summit in Tianjin</p><p>Following a meeting with Ukraine’s top general, <strong>Oleksandr Syrsky</strong>, Ukrainian President <strong>Volodymyr Zelenskyy</strong> said"
+      "Europe captain Luke Donald filled out his 12-man roster for this month's Ryder Cup with six players who helped the team win back the trophy in Rome two years ago.",
+      "Luke Donald has named six of Europe's victorious 2023 Ryder Cup team as his captain's picks to complete his line-up for this year's contest in New York."
     ],
     "image_url": "",
     "titles": [
-      "Putin blames West for Ukraine war at China-led SCO summit",
-      "Xi Jinping criticises ‘bullying behaviour’ and Putin blames west for Ukraine war at Shanghai summit",
-      "Vladimir Putin meets Xi Jinping arrives in China for security summit – Ukraine war live"
+      "Donald picks familiar names for Ryder Cup team",
+      "Donald selects experience as Europe's six Ryder Cup picks revealed"
     ],
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.99,
+      "magnitude": 0.735,
+      "recency": 0.959,
       "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.667,
+    "score": 0.672,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "At the Shanghai Cooperation Organisation summit in Tianjin, Russian President Vladimir Putin defended the military campaign in Ukraine, attributing its cause to NATO and Western policies. Concurrently, China's President Xi Jinping criticized the \"cold war mentality\" and \"bullying behavior\" of some countries, aligning with Putin's stance that the West provoked the conflict. The summit saw the attendance of over 20 world leaders, highlighting international divisions on the issue. Ukrainian President Volodymyr Zelenskyy, following a meeting with Ukraine's top general, Oleksandr Syrsky, also made ",
+    "summary": "Europe captain Luke Donald has selected six players from the 2023 Ryder Cup-winning team to complete his 12-man roster for this year's tournament in New York. The picks aim to replicate the success of the previous victory in Rome.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "China Pledges $280M in Aid to SCO Members at Tianjin Summit",
-    "domain": "business",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Mon, 01 Sep 2025 04:37:34 +0000",
-    "source": "Al Jazeera",
+    "title": "Chiefs, All-Pro McDuffie Unlikely to Agree on Extension Before Season",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Mon, 1 Sep 2025 10:11:17 EST",
+    "source": "ESPN",
     "sources": [
-      "Al Jazeera",
-      "CNBC"
+      "ESPN",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "The Chiefs and Trent McDuffie, their top cornerback, are not expected to agree to a multiyear contract extension before the start of the season.",
+      "The one-time All-Pro cornerback is set to earn just $2.6 million this year"
+    ],
+    "image_url": "",
+    "titles": [
+      "Sources: Chiefs, McDuffie don't reach extension",
+      "Chiefs top CB Trent McDuffie not expected to sign contract extension ahead of 2025 season, per report"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.959,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.672,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Kansas City Chiefs and cornerback Trent McDuffie are unlikely to reach a multiyear contract extension before the season begins. McDuffie, an All-Pro, is slated to earn $2.6 million this year.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Global News Outlets Demand Protection for Gaza Journalists",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Mon, 01 Sep 2025 04:58:57 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "Al Jazeera"
     ],
     "domains": [
       "www.aljazeera.com",
-      "www.cnbc.com"
+      "www.npr.org"
     ],
     "snippets": [
-      "Chinese leader pledges $280m in aid to members of the Shanghai Cooperation Organisation at summit in Tianjin.",
-      "It is unclear if the SCO summit will pave the way for any breakthroughs in easing tensions, though Beijing has sought to cast itself as a global peacemaker."
+      "More than 250 news outlets around the world have signed onto an appeal that calls for the protection of Palestinian journalists in Gaza, and for press to have independent access to the territory.",
+      "Media outlets have staged a front page protest to highlight the killings of more than 200 journalists in 22 months."
     ],
     "image_url": "",
     "titles": [
-      "China’s Xi urges regional leaders to oppose ‘Cold War mentality’ at summit",
-      "China's Xi urges AI cooperation, rejects ‘Cold War mentality’ at SCO summit"
-    ],
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.93,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.665,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "At a summit in Tianjin, the Chinese leader pledged $280 million in aid to members of the Shanghai Cooperation Organisation (SCO). The contribution aims to support the SCO, but it remains uncertain if this will lead to significant breakthroughs in reducing tensions among member states. Beijing is positioning itself as a global peacemaker through this gesture.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: support",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Week 1 College Football: Projections for Top Teams",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Mon, 1 Sep 2025 00:03:32 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Sports Illustrated"
-    ],
-    "domains": [
-      "www.espn.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "We assess how the committee could stack the top teams in the country after Week 1.",
-      "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUmRRWnZzcDgzX001cnA4VksyV09WQUlaQWNmSHVMV21HQjU4bS1vbWxUak1jMXRXSWhZN1JpeVc0NkJWT1lja1k4UG13MnBDR09wOWVGbWhMVUgyZk82LU5DeGRKc0toeUVOeHlaMUl1SnJlbXBTeWZNOXZMZDhyempSeFFtZHc2TWljYnRid3JUUQ?oc=5\" target=\"_blank\">Projecting the College Footba"
-    ],
-    "image_url": "",
-    "titles": [
-      "Projecting the CFP top 12 after Week 1",
-      "Projecting the College Football AP Top 25 for Week 2 - Sports Illustrated"
+      "Media outlets demand Israel grant access to Gaza, halt attacks on journalists there",
+      "More than 250 media outlets protest over Israel murdering Gaza journalists"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.919,
+      "recency": 0.86,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.664,
+    "score": 0.652,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The article discusses projections for the top college football teams after Week 1. It assesses how the committee might rank these teams based on their performances. The current status or outcome of these projections was not provided in the content shared.",
+    "summary": "Over 250 global news outlets have united in a call for the protection of Palestinian journalists in Gaza and for independent press access to the area. This movement also protests the deaths of over 200 journalists in 22 months, emphasizing the need for safety and freedom for the press in conflict zones.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Briscoe Wins Southern 500, Advances in NASCAR Playoffs",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Sun, 31 Aug 2025 23:29:59 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Sportsnet"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "Chase Briscoe held off Tyler Reddick at Darlington Raceway on Sunday night and advanced to the second round of the NACAR Cup Series playoffs.",
-      "<p>Chase Briscoe held off Tyler Reddick at Darlington Raceway on Sunday night to win the Southern 500 for the second straight year and advance to the second round of the NACAR Cup Series playoffs.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Briscoe captures second straight Southern 500",
-      "Briscoe wins 2nd straight Southern 500, advance to 2nd round of playoffs"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.908,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.662,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Chase Briscoe won the Southern 500 at Darlington Raceway, defeating Tyler Reddick. This victory marks his second consecutive win at this event and secures his advancement to the second round of the NASCAR Cup Series playoffs.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Labor Day Spotlights Worker Contributions Amid Immigration Policy Concerns",
+    "title": "Trump Quiet on Labor Day; Kennedy Jr. Reforms Health Policies",
     "domain": "business",
     "source_domain": "abcnews.go.com",
     "location": "national",
-    "published": "Mon, 01 Sep 2025 01:27:36 -0400",
+    "published": "Mon, 01 Sep 2025 09:44:17 -0400",
     "source": "ABC News",
     "sources": [
       "ABC News",
-      "Financial Post"
+      "CNBC"
     ],
     "domains": [
       "abcnews.go.com",
-      "financialpost.com"
+      "www.cnbc.com"
     ],
     "snippets": [
-      "As parades and other events celebrating the contributions of workers in the U.S. are being held for the Labor Day holiday, experts say President Donald Trump&rsquo;s stepped-up immigration policies are impacting the nation&rsquo;s labor force",
-      "It&#8217;s tomato season and Lidia is harvesting on farms in California&#8217;s Central Valley. She is also anxious. Attention from U.S. Immigration Control and Enforcement could upend her life more than 23 years after she illegally crossed the U.S.-Mexico border as a teenager. &#8220;The worry is t"
+      "President Donald Trump begins the week with a clear public schedule on Labor Day.",
+      "Health and Human Services Secretary Robert F. Kennedy Jr. has taken measures to overhaul federal health agencies and change U.S. immunization policies."
     ],
-    "image_url": "https://s.abcnews.com/images/US/wirestory_9a40f9e371209cc1d145e4a7f157a499_4x3_384.jpg",
+    "image_url": "https://s.abcnews.com/images/US/trump-blog-main_1756718429529_hpMain_4x3t_384.jpg",
     "titles": [
-      "1.2M immigrants are gone from the US labor force under Trump, preliminary data shows",
-      "1.2M immigrants are gone from the US labor force under Trump, preliminary data shows"
+      "Trump admin live updates: Trump urges companies to 'justify' success of COVID drugs",
+      "Trump tells drugmakers to 'justify the success' of Covid meds after FDA limits vaccine approval"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.946,
+      "magnitude": 0.755,
+      "recency": 0.95,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.644,
+    "score": 0.652,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Labor Day celebrations across the U.S. highlight the contributions of workers, amidst concerns over President Donald Trump's immigration policies affecting the labor force. In California's Central Valley, workers like Lidia, who crossed the U.S.-Mexico border illegally over 23 years ago, face increased anxiety due to potential attention from U.S. Immigration Control and Enforcement during peak seasons like tomato harvest.",
+    "summary": "President Donald Trump had no public events scheduled on Labor Day. Meanwhile, Health and Human Services Secretary Robert F. Kennedy Jr. is implementing reforms in federal health agencies and altering U.S. immunization policies.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Rudy Giuliani Unharmed in Highway Car Accident After Assisting Victim",
+    "title": "EU Commission President's Plane Jammed Over Bulgaria, Lands Safely",
     "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Mon, 01 Sep 2025 00:34:30 GMT",
-    "source": "Axios",
+    "source_domain": "fortune.com",
+    "location": "global",
+    "published": "Mon, 01 Sep 2025 12:42:33 +0000",
+    "source": "Fortune",
     "sources": [
       "Fortune",
-      "Axios"
+      "CityNews"
     ],
     "domains": [
       "fortune.com",
-      "news.google.com"
+      "ottawa.citynews.ca"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTZW42TmFmY3pfcFp5T1dRUW1wUmt2QzZLZ0liaDdqZmphclhoSWYtSVRBbHNFSERCTjZvRTRFS05OY3NCUTVDMlpJWHZJQVNHS0FjeExNbUJDMGhtY2Vsb2hwcHo4dw?oc=5\" target=\"_blank\">Giuliani hurt in crash after helping domestic violence victim, spokesperson says</a>&nbsp",
-      "His vehicle was hit shortly after pulling onto the highway in a crash that was “entirely unrelated” to the domestic violence incident, Giuliani’s head of security said."
+      "The plane landed safely and Ursula von der Leyen will continue her planned tour of the European Union’s nations bordering Russia and Belarus, a spokesperson said.",
+      "SOFIA, Bulgaria (AP) — A plane carrying European Commission President Ursula von der Leyen was hit by GPS jamming over Bulgaria in a suspected Russian operation, a spokesperson said Monday. The plane landed safely at Plovdiv airport in central Bulgaria and von der Leyen will continue her planned tou"
     ],
-    "image_url": "",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2221570523-e1753191822130.jpg?w=2048",
     "titles": [
-      "Giuliani hurt in crash after helping domestic violence victim, spokesperson says - Axios",
-      "Rudy Giuliani suffers fractured vertebra in car crash after being ‘flagged down’ by domestic violence victim"
+      "Russia suspected of jamming navigation on European Commission president’s plane, official says",
+      "Russia is suspected of jamming navigation on EU leader’s plane above Bulgaria, official says"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.837,
+      "recency": 0.93,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.622,
+    "score": 0.641,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Rudy Giuliani was involved in a car accident shortly after assisting a domestic violence victim. According to his security head, the crash occurred as Giuliani's vehicle entered the highway and was unrelated to the earlier incident.",
+    "summary": "A plane carrying European Commission President Ursula von der Leyen experienced GPS jamming over Bulgaria, suspected to be a Russian operation. Despite this, the plane safely landed at Plovdiv airport. Von der Leyen will proceed with her tour of EU nations bordering Russia and Belarus, as planned.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Xi and Modi Strengthen Ties with Putin at SCO Summit in Tianjin",
+    "title": "Jones Moves to No. 10 in Reshuffle, Tim Allan Joins Team",
     "domain": "business",
-    "source_domain": "www.theguardian.com",
+    "source_domain": "www.ft.com",
     "location": "global",
-    "published": "Sun, 31 Aug 2025 15:18:31 GMT",
-    "source": "The Guardian",
+    "published": "Mon, 01 Sep 2025 10:57:17 GMT",
+    "source": "Financial Times",
     "sources": [
-      "Financial Post",
+      "Financial Times",
       "The Guardian"
     ],
     "domains": [
       "www.theguardian.com",
-      "financialpost.com"
+      "www.ft.com"
     ],
     "snippets": [
-      "<p>Chinese president hosts bilateral meetings on sidelines of Shanghai Cooperation Organisation summit in Tianjin</p><p>Xi Jinping and Vladimir Putin have met on the sidelines of a showpiece summit in China that seeks to challenge US-led, western-dominated blocs and is being attended by the leaders ",
-      "Indian Prime Minister Narendra Modi embraced Russian President Vladimir Putin at a regional summit in China before riding with him to their bilateral meeting, underscoring their deep ties even as Washington criticizes New Delhi over oil purchases."
+      "Treasury minister Darren Jones to move to Number 10 role, while Blair-era media adviser Tim Allan brought in",
+      "<p>Departures and new hires expected to give PM more direct oversight on delivery of key government priorities</p><p>A reshuffle on the Monday morning before parliament returned from recess had been long rumoured, but many in Westminster had expected a shake-up of junior ministers rather than Downin"
     ],
-    "image_url": "https://i.guim.co.uk/img/media/19e906af07f6662bacc1afaee9b204a6e7d1538a/215_0_1814_1452/master/1814.jpg?width=140&quality=85&auto=format&fit=max&s=20cca57f8b60258c3748ebb02af76c63",
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3adbac77-7112-4653-89ef-c02199258ff2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
     "titles": [
-      "Putin, Modi and Erdoğan among leaders in China for talks with Xi",
-      "Putin and Modi Showcase Bond With Hug, Car Ride in China"
+      "Starmer announces major Downing Street shake-up",
+      "Downing Street shake-up: who’s in and who’s out at No 10"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.69,
+      "recency": 0.878,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.593,
+    "score": 0.631,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "At the Shanghai Cooperation Organisation summit in Tianjin, China, Chinese President Xi Jinping held bilateral meetings, including with Russian President Vladimir Putin. The summit aimed to present an alternative to US-led Western blocs. Indian Prime Minister Narendra Modi also showcased strong relations with Putin, emphasizing the deep ties between India and Russia, despite US criticism of India's oil purchases from Russia.",
+    "summary": "Darren Jones, a Treasury minister, is transitioning to a role at Number 10, and Tim Allan, a media adviser from the Blair era, is being brought into the team. This move is part of a reshuffle aimed at providing the Prime Minister with more direct oversight of key government priorities. The reshuffle occurred on the Monday morning as Parliament returned from recess, surprising many who anticipated changes among junior ministers rather than Downing Street's senior positions.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
