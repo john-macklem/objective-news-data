@@ -1,142 +1,348 @@
 [
   {
-    "title": "Anthropic Settles for $1.5B in AI Piracy Lawsuit with Authors",
-    "domain": "business",
+    "title": "Sinner to Face Alcaraz in US Open Final, Trump to Attend",
+    "domain": "sports",
     "source_domain": "www.npr.org",
     "location": "national",
-    "published": "Fri, 05 Sep 2025 16:33:18 -0400",
+    "published": "Sat, 06 Sep 2025 01:16:32 -0400",
     "source": "NPR",
     "sources": [
-      "Ars Technica",
-      "The Verge",
-      "Business Insider",
-      "CNBC",
+      "Al Jazeera",
+      "BBC",
       "NPR",
-      "The Guardian",
-      "Forbes"
+      "CityNews",
+      "ESPN",
+      "Sky Sports",
+      "Yahoo Sports",
+      "Sports Illustrated",
+      "The Guardian"
     ],
     "domains": [
-      "www.theverge.com",
-      "www.cnbc.com",
-      "www.theguardian.com",
+      "www.aljazeera.com",
+      "dpa-international.com",
+      "www.espn.com",
+      "ottawa.citynews.ca",
       "www.npr.org",
-      "arstechnica.com",
-      "www.businessinsider.com",
-      "www.forbes.com"
+      "news.google.com",
+      "www.theguardian.com",
+      "www.bbc.com",
+      "www.skysports.com"
     ],
     "snippets": [
-      "The artificial intelligence company Anthropic has agreed to pay authors $3,000 per book in a landmark settlement over pirated chatbot training material.",
+      "Sinner is trying to become the first repeat men's champion in New York since Roger Federer won the tournament five years in a row. Alcaraz hasn't dropped a set as he pursues his second U.S. Open title.",
+      "Jannik Sinner comes through an injury scare to win his US Open semi-final against Felix Auger-Aliassime and set up another tantalising Grand Slam final with Carlos Alcaraz.",
+      "Jannik Sinner overcame Felix Auger-Aliassime to set up another final with Carlos Alcaraz, who defeated Novak Djokovic.",
+      "Carlos Alcaraz and Jannik Sinner will meet for the third Grand Slam final in a row when they play for the US Open title.",
+      "US President Donald Trump plans to watch the men's final of the US Open tennis tournament in person in New York on Sunday, organizers have confirmed. Trump will attend as the guest of a client at the Arthur Ashe Stadium and will watch from their suite as Spain's Carlos Alcaraz takes on Italy's Janni",
+      "<ul><li><p>Sinner defeats Auger-Aliassime 6-1, 3-6, 6-3, 6-4</p></li><li><p>Italian joins Laver, Federer, Djokovic with slam feat</p></li><li><p>Alcaraz showdown will decide world No 1 ranking</p></li></ul><p>Jannik Sinner will meet Carlos Alcaraz for the US Open title after the defending champion s",
+      "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObkhOZERaa2RoRnAwcEJTRjVhWlp5S2w3QWxNUlU4d2hlZm5ZMkZwMVd2cFNtdTNtQXpVcUxsMm0zMDVkUW12dFZVOFV5Y2RrRlh1YmJfdVBkRUtkWEZrTkRzdF8xdlR6aDAzWnpfcktEcnJ2TnVUMFUwTlNDejNTdHZnNWpCZ2VpZHhjeGlOMzFKYklIb1ZrTFkwMA?oc=5\" target=\"_blank\">Jannik Sinner Rea",
+      "Carlos Alcaraz soaked up everything Novak Djokovic could throw at him before marching into his second US Open final and denying the 38-year-old a shot at a record-breaking 25th Grand Slam title.",
+      "NEW YORK (AP) — Jannik Sinner beats Felix Auger-Aliassime at U.S. Open, will face Carlos Alcaraz in 3rd Grand Slam final in a row. The Associated Press",
+      "Novak Djokovic has said he will not give up up on Grand Slams and will 'keep fighting' after he was knocked out of the US Open by Carlos Alcaraz in the semi-finals."
+    ],
+    "image_url": "",
+    "titles": [
+      "Alcaraz beats Djokovic at the U.S. Open and will meet Sinner for Grand Slam final",
+      "Sinner wins to set up Alcaraz final at US Open",
+      "US Open final: Alcaraz to play Sinner after ousting Djokovic",
+      "Alcaraz vs. Sinner showdown set for US Open final",
+      "Trump set to watch US Open final",
+      "Sinner sees off Auger-Aliassime to reach historic US Open final with Alcaraz",
+      "Jannik Sinner Reaches U.S. Open Final, Match With Carlos Alcaraz to Decide World No. 1 - Sports Illustrated",
+      "Alcaraz and Sinner to renew rivalry in blockbuster US Open final",
+      "Jannik Sinner beats Felix Auger-Aliassime at U.S. Open, will face Carlos Alcaraz in 3rd Grand Slam final in a row",
+      "Djokovic will 'keep fighting' at majors but Alcaraz and Sinner 'too good'"
+    ],
+    "score_components": {
+      "magnitude": 1.0,
+      "recency": 0.942,
+      "consensus": 1.0,
+      "constructiveness": 0.1,
+      "proximity": 0.75
+    },
+    "score": 0.873,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Jannik Sinner defeated Felix Auger-Aliassime to reach the US Open final, where he will face Carlos Alcaraz, who beat Novak Djokovic in the semi-finals. This marks the third consecutive Grand Slam final between Sinner and Alcaraz. The winner will decide the world No. 1 ranking. US President Donald Trump plans to attend the final in New York.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: plan",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Anthropic Agrees to $1.5B AI Copyright Settlement, Pays Authors $3,000/Book",
+    "domain": "business",
+    "source_domain": "www.dw.com",
+    "location": "global",
+    "published": "2025-09-06T00:51:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "CNBC",
+      "Ars Technica",
+      "The Verge",
+      "Fortune",
+      "Business Insider",
+      "Deutsche Welle",
+      "Axios"
+    ],
+    "domains": [
+      "arstechnica.com",
+      "www.theverge.com",
+      "www.businessinsider.com",
+      "fortune.com",
+      "news.google.com",
+      "www.dw.com",
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "If the court approves the deal, it will be the largest in the history of US copyright cases, according to lawyers for the authors.",
+      "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBERV9wVGlXZHdncG8tbnV1aVEwcHpxaGxZZzlSTHdQUkpkMHJkMGpkNG0wbGlFaDhMUUtWT2FxZGVrWjRrVTJYeGxKS2xxZTRVLXdmTmF0djVwZzFqckdka1VIOEFkam93dVFzN1drbmp3dkdR?oc=5\" target=\"_blank\">Anthropic to pay $3,000 per book in $1.5 billion AI copyright settlemen",
       "Authors had sued Anthropic, claiming the artificial intelligence startup had illegally used their books to train its models.",
-      "<p>Settlement could be pivotal after authors claimed company took pirated copies of their work to train chatbots</p><p><a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">The artificial intelligence</a> company Anthropic has agreed to pay $1.5bn to settle a class-action lawsuit",
-      "The AI firm will pay $3,000 for each of about 500,000 books under the settlement agreement.",
       "Anthropic agreed to pay over $1.5 billion to settle a lawsuit brought by authors who say the company used their pirated books to train its AI.",
+      "Anthropic’s deal with authors may accelerate a shift toward licensing copyrighted material needed to train AI models, legal experts say",
       "In what’s potentially the first major payout to creatives whose work was used to train AI systems, Anthropic has reached an agreement to pay “at least” a staggering $1.5 billion, plus interest, to authors to settle its class-action lawsuit. The amount breaks down to smaller payouts expected to be ap",
       "Settlement shows AI companies can face consequences for pirated training data."
     ],
     "image_url": "",
     "titles": [
-      "Anthropic to pay authors $1.5B to settle lawsuit over pirated chatbot training material",
+      "US: Anthropic to pay $1.5 billion in AI lawsuit settlement",
+      "Anthropic to pay $3,000 per book in $1.5 billion AI copyright settlement - Axios",
       "Anthropic agrees to pay $1.5 billion to settle authors' copyright lawsuit",
-      "AI startup Anthropic agrees to pay $1.5bn to settle book piracy lawsuit",
-      "Anthropic Will Pay $1.5 Billion To Settle Copyright Lawsuit From Book Authors",
       "Anthropic agrees to pay authors over $1.5 billion for using their work to train AI, totaling around $3,000 a book",
+      "Anthropic reaches $1.5 Billion settlement with authors in landmark copyright case",
       "Anthropic to pay $1.5 billion to authors in landmark AI settlement",
       "“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion"
     ],
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.927,
-      "consensus": 1.0,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.86,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Anthropic, an artificial intelligence company, has agreed to a $1.5 billion settlement in a class-action lawsuit with authors. The lawsuit accused Anthropic of using pirated copies of about 500,000 books to train its AI models. Under the agreement, the company will pay each author $3,000 per book. This settlement marks a significant moment, showing that AI firms can be held accountable for using pirated training data.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Alcaraz Beats Djokovic to Reach US Open Final, Eyes Second Grand Slam Win",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Fri, 05 Sep 2025 23:07:09 GMT",
-    "source": "BBC",
-    "sources": [
-      "Sky Sports",
-      "Sportsnet",
-      "BBC",
-      "CBS Sports",
-      "Yahoo Sports",
-      "ESPN"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.bbc.com",
-      "www.cbssports.com",
-      "www.sportsnet.ca",
-      "www.skysports.com"
-    ],
-    "snippets": [
-      "World number two Carlos Alcaraz makes his youth count as he powers past 38-year-old Novak Djokovic to reach another US Open final.",
-      "Carlos Alcaraz has defeated Novak Djokovic 6-4, 7-6 (4), 6-2 at the US Open to reach his third consecutive Grand Slam final.",
-      "Alcaraz will compete for the final Grand Slam title of the year for the first time since winning it back in 2022",
-      "World number two Carlos Alcaraz makes his youth count as he powers past 38-year-old Novak Djokovic to reach another US Open final.",
-      "Carlos Alcaraz soaked up everything Novak Djokovic could throw at him before marching into his second US Open final and denying the 38-year-old a shot at a record-breaking 25th Grand Slam title.",
-      "<p>Carlos Alcaraz used his youth, athleticism and creativity to assert himself against the much more accomplished, but also much older, Novak Djokovic and beat the 24-time major champion 6-4, 7-6 (4), 6-2 at the US Open on Friday for a berth in his third consecutive Grand Slam final.</p>"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66d2/live/d2e0daf0-8a9f-11f0-aec2-e98cb6019532.jpg",
-    "titles": [
-      "Alcaraz powers past Djokovic to reach US Open final",
-      "Alcaraz dominates Djokovic to make US Open final",
-      "US Open 2025 results: Carlos Alcaraz sweeps Novak Djokovic to return to final for first time in four years",
-      "Alcaraz powers past Djokovic to reach US Open final",
-      "Clinical Alcaraz denies ailing Djokovic to reach second US Open final",
-      "Carlos Alcaraz beats Novak Djokovic in US Open semifinal"
-    ],
-    "score_components": {
-      "magnitude": 0.986,
-      "recency": 0.958,
+      "recency": 0.859,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.837,
-    "summary_source": "gpt",
+    "score": 0.822,
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Carlos Alcaraz defeated Novak Djokovic 6-4, 7-6 (4), 6-2 at the US Open, securing his spot in the final. This victory marks Alcaraz's third consecutive Grand Slam final appearance and denies Djokovic a chance at a 25th Grand Slam title. Alcaraz will compete for the final Grand Slam title of the year, aiming to replicate his 2022 success.",
+    "summary": "Anthropic has agreed to a $1.5 billion AI copyright settlement, under which it will pay authors $3,000 per book. This deal is seen by legal experts as potentially accelerating the trend towards licensing copyrighted material for AI model training.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump to Sign Order Renaming Defense Department to Department of War",
+    "title": "Chargers Beat Chiefs 27-21 in NFL Opener in Brazil, Ending Losing Streak",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sat, 6 Sep 2025 02:47:40 EST",
+    "source": "ESPN",
+    "sources": [
+      "Yahoo Sports",
+      "ESPN",
+      "Sportsnet",
+      "Sky Sports"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "www.espn.com",
+      "www.skysports.com",
+      "www.sportsnet.ca"
+    ],
+    "snippets": [
+      "Chargers hold on for win at Corinthians Arena in São Paulo in the potentially critical AFC West battle.",
+      "Justin Herbert stars for the Los Angeles Chargers as they beat the Kansas City Chiefs 27-21 in their NFL opener in Sao Paulo, Brazil.",
+      "Justin Herbert finished off the Los Angeles Chargers' season-opening victory in style, sliding for a first down that effectively ended the game.",
+      "<p>Justin Herbert threw for 318 yards and three touchdowns in outdueling Patrick Mahomes, and the Los Angeles Chargers beat Kansas City 27-21 on Friday night in Sao Paulo, snapping a seven-game skid to the Chiefs.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Herbert shines as Chargers earn AFC West win over Chiefs in Brazil",
+      "Herbert inspires Chargers to win against Chiefs",
+      "Chargers stun Chiefs with 'monumental' win in Brazil",
+      "Herbert outduels Mahomes to help Chargers beat Chiefs in Brazil"
+    ],
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.972,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.809,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Los Angeles Chargers defeated the Kansas City Chiefs 27-21 in their NFL season opener in São Paulo, Brazil. Justin Herbert led the Chargers with 318 passing yards and three touchdowns, outperforming Patrick Mahomes. This victory ended the Chargers' seven-game losing streak against the Chiefs and took place at the Corinthians Arena. Herbert's late-game slide for a first down sealed the win for the Chargers.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Tesla Unveils $1T Potential Compensation Plan for Musk, Targets $8.5T Valuation",
+    "domain": "business",
+    "source_domain": "www.dw.com",
+    "location": "global",
+    "published": "2025-09-06T07:55:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "ABC News",
+      "Business Insider",
+      "TechCrunch",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "www.businessinsider.com",
+      "abcnews.go.com",
+      "www.dw.com",
+      "techcrunch.com"
+    ],
+    "snippets": [
+      "Tesla's board said the controversial CEO has threatened to leave the company more than once. The staggering pay package is designed to make him stay.",
+      "Elon Musk is already the wealthiest person in the world.",
+      "Elon Musk's $1 trillion Tesla pay package requires finding a successor, which could be a tall order for a brand so tied to its CEO.",
+      "Tesla Chair Robyn Denholm said the proposed pay package for Elon Musk is meant to keep his \"focus and attention\" on the EV maker.",
+      "Tesla has proposed a new 10-year compensation plan for CEO Elon Musk that could be worth as much as $1 trillion even as the EV maker's car business stumbles and it sets its sights on humanoid robotics and AI."
+    ],
+    "image_url": "",
+    "titles": [
+      "Tesla board proposes $1 trillion pay package for Elon Musk",
+      "Tesla's proposed pay package could make Elon Musk a trillionaire",
+      "Elon Musk could get a $1 trillion pay package &mdash; but he has to find his successor first",
+      "Tesla's $1 trillion pay package for Elon Musk boils down to one thing: Keeping the attention of the world's richest man",
+      "Tesla proposes new pay package for Elon Musk worth up to $1T"
+    ],
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.995,
+      "consensus": 0.908,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.798,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Tesla has introduced a new 10-year compensation plan for CEO Elon Musk, potentially worth up to $1 trillion. This plan requires Musk to increase Tesla's value from just over $1tn to $8.5tn. The proposal is notable for its ambitious growth target and the significant potential payout, amidst Tesla's focus on expanding into humanoid robotics and AI, despite challenges in its electric vehicle business.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: plan",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "16 Killed in Lisbon Funicular Derailment; Mechanical Fault Suspected",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sat, 06 Sep 2025 00:58:15 GMT",
+    "source": "BBC",
+    "sources": [
+      "CityNews",
+      "New York Times",
+      "The Guardian",
+      "BBC"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.bbc.com",
+      "www.nytimes.com",
+      "ottawa.citynews.ca"
+    ],
+    "snippets": [
+      "Authorities have confirmed three Brits are among 16 people who were killed in Wednesday's accident.",
+      "<p>Kayleigh Smith, 36, and William Nelson, 44, among passengers who died when the Elevador da Glória derailed </p><p>A British couple killed in Lisbon after a <a href=\"https://www.theguardian.com/world/2025/sep/03/at-least-three-people-killed-many-injured-in-lisbon-funicular-crash\">funicular streetc",
+      "The crash, at a popular tourist site, killed at least 16 people. The authorities were working to identify the victims, who included an American citizen.",
+      "At least 16 people were killed after the Glória funicular, one of the city’s most popular tourist attractions, crashed.",
+      "Two Quebec archeologists were among 16 people killed in Wednesday&#8217;s funicular crash in Lisbon, the Quebec government has confirmed. André Bergeron and Blandine Daux were a couple and had worked as part of a specialized team of archeologists in Quebec&#8217;s Culture Department, restoring histo"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5855/live/ae84b1f0-8a3f-11f0-a107-b1e54fc8eabd.jpg",
+    "titles": [
+      "Three British nationals among 16 killed in Lisbon crash",
+      "British couple killed in Lisbon funicular crash named",
+      "Portugal Searches for Cause of Lisbon Funicular Crash as Death Toll Rises",
+      "Lisbon Funicular Crash: What to Know About the Cause and Victims",
+      "Two Quebecers identified among 16 dead in Lisbon funicular crash"
+    ],
+    "score_components": {
+      "magnitude": 0.912,
+      "recency": 0.843,
+      "consensus": 0.908,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.775,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Sixteen people, including three Brits, two Canadians, five Portuguese, two South Koreans, one American, one French, one Swiss, and one Ukrainian, were killed in a funicular derailment in Lisbon. Portuguese investigators have ruled out sabotage, focusing on mechanical or maintenance issues as the likely cause. Recovery efforts have highlighted damage to a cable connecting the funicular's cars.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: effort",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Sabalenka to Face Anisimova in US Open Final",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Fri, 5 Sep 2025 16:00:35 EST",
+    "source": "ESPN",
+    "sources": [
+      "Yahoo Sports",
+      "ESPN",
+      "Sky Sports",
+      "Forbes"
+    ],
+    "domains": [
+      "www.forbes.com",
+      "sports.yahoo.com",
+      "www.espn.com",
+      "www.skysports.com"
+    ],
+    "snippets": [
+      "No. 1 Sabalenka will take on No. 8 Anisimova in the US Open final Saturday. Who will prevail? It's not as straightforward as it seems on paper.",
+      "Aryna Sabalenka will be seeking her fourth Grand Slam title overall and second straight at the U.S. Open when she faces Amanda Anisimova in the women's final at Arthur Ashe Stadium on Saturday.  The No. 1-seeded Sabalenka is a 27-year-old from Belarus who will be playing in her third major title mat",
+      "Aryna Sabalenka and Amanda Anisimova meet in the U.S. Open final on Saturday. Both have suffered traumatic slam experiences this season which could make it very nervy.",
+      "Latest tennis scores from the US Open at Flushing Meadows, New York.",
+      "The stage for the US Open women's final is set as defending champion Aryna Sabalenka takes on home favourite Amanda Anisimova from 9pm on Saturday, live on <em>Sky Sports.</em>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Sabalenka vs. Anisimova: Who will win the US Open title?",
+      "Aryna Sabalenka eyes a 2nd consecutive US Open title when she plays Amanda Anisimova in the final",
+      "Sabalenka And Anisimova Must Face Their Fears In U.S. Open Final",
+      "Latest US Open scores: Women's finals day with Sabalenka vs Anisimova from 9pm",
+      "Anisimova bids for first Grand Slam as Sabalenka looks to continue US Open reign"
+    ],
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.776,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.769,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Aryna Sabalenka, the defending champion and world No. 1, is set to compete against No. 8 seed Amanda Anisimova in the US Open women's final on Saturday. Both players have faced challenges in Grand Slam tournaments this season, adding a layer of anticipation to the match. The event will be broadcast live on Sky Sports starting at 9pm.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Trump Signs Order for \"Department of War\" as Secondary Title",
     "domain": "general",
     "source_domain": "www.aljazeera.com",
     "location": "global",
     "published": "Fri, 05 Sep 2025 21:14:35 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Al Jazeera",
-      "Axios",
-      "Deutsche Welle",
       "ABC News",
-      "The Guardian"
+      "Al Jazeera",
+      "The Guardian",
+      "Deutsche Welle"
     ],
     "domains": [
-      "news.google.com",
-      "abcnews.go.com",
       "www.theguardian.com",
-      "www.dw.com",
-      "www.aljazeera.com"
+      "www.aljazeera.com",
+      "abcnews.go.com",
+      "www.dw.com"
     ],
     "snippets": [
       "Pentagon chief Pete Hegseth says the name change signals a more offensive approach for the US military under Trump.",
       "US President Donald Trump signed an executive order to change the name of the Department of Defense to the \"Department of War.\" This move revives a name that was abandoned over seven decades ago.",
-      "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENDJYTUxaT3Y3VXNfdWxGXzM0VlF0dnlubDdzbGtXTi1VWlVSdmtKYl9TV3o3WGpXc0JUOXozV2c4VWFZbDhYY3pUeHYyYW01Z3RzeUVMNk04MkJ3Ni1obkhGOWtCS3ZCekpZVEdwd0U3XzZTQVIw?oc=5\" target=\"_blank\">Trump seeks to rename Department of Defense to Department of War</a",
       "President Trump signed an executive order renaming the Department of Defense the Department of War, though a formal name change would require Congress to act.",
       "<p>Directive will make Department of War secondary title and is way to get around need for congressional approval</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> signed an executive order on Friday to rebrand the Department of Defense as the Department of War, a call"
     ],
@@ -144,68 +350,20 @@
     "titles": [
       "Trump changes the Department of Defense’s name to ‘Department of War’",
       "US: Trump signs order renaming Pentagon 'Department of War'",
-      "Trump seeks to rename Department of Defense to Department of War - Axios",
       "Trump signs order renaming Pentagon 'Department of War'",
       "Trump signs executive order rebranding Pentagon as Department of War"
     ],
     "score_components": {
-      "magnitude": 0.964,
-      "recency": 0.941,
-      "consensus": 0.995,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.834,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "President Trump plans to sign an executive order renaming the Department of Defense to the Department of War, emphasizing a focus on \"warfighting\" and a \"warrior ethos.\" The change, which can be used in official correspondence and ceremonial contexts, requires Congressional approval for full implementation.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Sabalenka to Face Anisimova in US Open Final",
-    "domain": "sports",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Fri, 05 Sep 2025 17:04:50 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "ESPN",
-      "Al Jazeera",
-      "Forbes",
-      "Sky Sports"
-    ],
-    "domains": [
-      "www.skysports.com",
-      "www.espn.com",
-      "www.forbes.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "Will Sabalenka overcome her two Grand Slam final losses in 2025 to beat Anisimova, a woman carving a comeback trail?",
-      "No. 1 Sabalenka will take on No. 8 Anisimova in the US Open final Saturday. Who will prevail? It's not as straightforward as it seems on paper.",
-      "Aryna Sabalenka and Amanda Anisimova meet in the U.S. Open final on Saturday. Both have suffered traumatic slam experiences this season which could make it very nervy.",
-      "The stage for the US Open women's final is set as defending champion Aryna Sabalenka takes on home favourite Amanda Anisimova from 9pm on Saturday, live on <em>Sky Sports.</em>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Sabalenka vs Anisimova – US Open women’s final: Match start time, stats",
-      "Sabalenka vs. Anisimova: Who will win the US Open title?",
-      "Sabalenka And Anisimova Are Full Of Hopes And Fears In U.S. Open Final",
-      "Anisimova bids for first Grand Slam as Sabalenka looks to continue US Open reign"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.863,
+      "magnitude": 0.912,
+      "recency": 0.797,
       "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.762,
+    "score": 0.756,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Aryna Sabalenka, the defending champion and world No. 1, is set to compete against No. 8 seed Amanda Anisimova in the US Open women's final on Saturday. Both players have faced challenges in Grand Slam tournaments this season, adding a layer of anticipation to the match. The event will be broadcast live on Sky Sports starting at 9pm.",
+    "summary": "US President Donald Trump signed an executive order to rename the Department of Defense as the \"Department of War,\" a title last used over 70 years ago. While the change signals a more offensive military posture, a formal name change requires Congressional approval. The executive order makes \"Department of War\" a secondary title to circumvent the need for Congress's approval.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -215,17 +373,17 @@
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Fri, 5 Sep 2025 19:39:16 EST",
+    "published": "Sat, 6 Sep 2025 01:26:37 EST",
     "source": "ESPN",
     "sources": [
+      "CBS Sports",
       "ESPN",
-      "Sports Illustrated",
-      "CBS Sports"
+      "Sports Illustrated"
     ],
     "domains": [
       "www.cbssports.com",
-      "news.google.com",
-      "www.espn.com"
+      "www.espn.com",
+      "news.google.com"
     ],
     "snippets": [
       "Angel Reese was suspended by the Chicago Sky for the first half of Sunday's matchup against the Las Vegas Aces for comments she made that were \"detrimental to the team.\"",
@@ -240,13 +398,13 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.989,
+      "recency": 0.945,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.76,
-    "summary_source": "gpt",
+    "score": 0.751,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Angel Reese, a player for the Chicago Sky, has been suspended for the first half of a game against the Las Vegas Aces and will face additional suspensions in the next two games. The suspension is due to comments she made that were considered detrimental to the team.",
     "constructiveness_score": 0.0,
@@ -254,132 +412,44 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Thunder Rookie Sorber Out for Season with ACL Tear",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Fri, 5 Sep 2025 19:39:16 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Yahoo Sports",
-      "CBS Sports"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "sports.yahoo.com",
-      "www.espn.com"
-    ],
-    "snippets": [
-      "Thunder rookie big man Thomas Sorber tore the ACL in his right knee and will miss the 2025-26 season, the team announced.",
-      "Sorber is the latest in a string of bad luck for Thunder draft picks in their rookie years",
-      "Thomas Sorber will miss the entirety of what was to be his rookie season with the NBA champion Oklahoma City Thunder, the team said Friday.  This is the second consecutive year that the Thunder have seen a first-round pick be sidelined for the entire season because of an ACL injury; it also happened"
-    ],
-    "image_url": "",
-    "titles": [
-      "OKC rookie Sorber out for season with torn ACL",
-      "Thunder 2025 first-round pick Thomas Sorber suffers torn ACL, expected to miss entire 2025-2026 season",
-      "Thunder lose rookie big man Thomas Sorber for season after ACL tear in right knee"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.989,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.76,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Thomas Sorber, a rookie for the Oklahoma City Thunder, has torn the ACL in his right knee and will miss the entire 2025-26 NBA season, the team confirmed. This marks the second year in a row that a Thunder first-round draft pick has been sidelined for an entire season due to an ACL injury.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "HHS Report to Explore Possible Tylenol-Autism Link, Kenvue Denies Claims",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Fri, 05 Sep 2025 20:03:45 GMT",
-    "source": "Axios",
-    "sources": [
-      "CNBC",
-      "Axios",
-      "Forbes"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.cnbc.com",
-      "www.forbes.com"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBJOTNyNW83bjNKYkZZU1Q1eXU2cmhBalV3bTZCeFlHakM4bWh3SWVWNUlPeUVSclJUSnVNZVZhUUN2T0QxWk9LVFJTem02eDRpOUZ6UEVodUJmaGMzYkV3NUpuWkJtSnY3Um44Yk1VbURqX2ZjMV9TcFFUTXVBaDQ?oc=5\" target=\"_blank\">RFK Jr. to draw link between Tylenol and autism: Report<",
-      "HHS will release the report that could draw that link between the pain medication and autism this month, according to the Wall Street Journal.",
-      "Tylenol maker Kenvue denies the connection allegedly made in the report, which is expected to be published by the Department of Health and Human Services this month."
-    ],
-    "image_url": "",
-    "titles": [
-      "RFK Jr. to draw link between Tylenol and autism: Report - Axios",
-      "Kenvue stock drops 10% on report RFK Jr. will link autism to Tylenol use during pregnancy",
-      "RFK Jr. Report Will Link Autism To Tylenol Use During Pregnancy, Report Says"
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.899,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.724,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Department of Health and Human Services (HHS) is set to release a report this month that may suggest a link between Tylenol and autism, as reported by the Wall Street Journal. Kenvue, the manufacturer of Tylenol, denies any connection as alleged in the upcoming report.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Russia Threatens Western Troops in Ukraine as \"Legitimate Targets\"",
+    "title": "Surfer Dies in Shark Attack off Australian Coast; Beaches Closed",
     "domain": "general",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Fri, 05 Sep 2025 18:02:40 GMT",
+    "published": "Sat, 06 Sep 2025 05:06:06 GMT",
     "source": "BBC",
     "sources": [
+      "Al Jazeera",
       "The Guardian",
-      "BBC",
-      "New York Times"
+      "BBC"
     ],
     "domains": [
+      "www.theguardian.com",
       "www.bbc.com",
-      "www.nytimes.com",
-      "www.theguardian.com"
+      "www.aljazeera.com"
     ],
     "snippets": [
-      "The Russian leader's refusal comes after 26 countries pledged to deploy troops to Ukraine in the event of a ceasefire.",
-      "<p>This blog is now closed. You can read all our coverage of the conflict in Ukraine <a href=\"https://www.theguardian.com/world/ukraine\">here</a>.</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/sep/04/european-leaders-pressure-trump-to-reveal-how-much-support-us-will-give-ukraine\">Mac",
-      "<p>Russian president’s threat follows French proposal for postwar support for Kyiv that would include presence of Nato countries’ forces</p><p>Vladimir Putin has said any western troops placed in Ukraine would be “legitimate targets” for Russian strikes, upping the stakes as Kyiv’s allies scramble t",
-      "The Russian leader made the threat a day after European leaders said they were willing to deploy forces on the ground to secure an agreement to end the war."
+      "A morning surfer \"died at the scene\" after being pulled out of the water, Australian police say.",
+      "Middle-aged victim reportedly lost both his legs in the attack while his surfboard was cut in half.",
+      "<p>Beaches from Manly to Narrabeen closed after death of 57-year-old who leaves behind wife and child</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theg"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f69c/live/b4477700-8a29-11f0-b917-03bcebef22ec.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1f9/live/3a6d1d00-8ad2-11f0-aac3-89eb0eb0ce4d.jpg",
     "titles": [
-      "Putin rejects Western security in Ukraine, warning troops would be target",
-      "Putin says western troops in Ukraine would be ‘legitimate targets’ as European countries pledge security support – as it happened",
-      "Western troops in Ukraine would be ‘legitimate targets’, Putin says",
-      "Western Troops in Ukraine Before a Peace Deal Would Be ‘Targets’, Putin Says"
+      "Man dies after suspected shark attack in Sydney",
+      "Shark attack kills surfer off Sydney beach in Australia",
+      "‘A great tragedy’: man dies in shark attack near Dee Why on Sydney’s northern beaches"
     ],
     "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.862,
+      "magnitude": 0.827,
+      "recency": 0.919,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.723,
-    "summary_source": "cache",
+    "score": 0.721,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The Russian president has declared that any Western troops deployed in Ukraine, following a proposal involving 26 nations offering security guarantees to Kyiv, would be considered \"legitimate targets\" by Russia. This statement escalates tensions as it comes after European leaders expressed willingness to send forces to Ukraine to help secure a ceasefire. Concurrently, Ukraine has conducted an attack on a Russian oil refinery.",
+    "summary": "A 57-year-old surfer died after a shark attack off the coast of Australia, resulting in the loss of both his legs. The incident led to the closure of beaches from Manly to Narrabeen. The victim, who was attacked while surfing, died at the scene and is survived by a wife and child.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -389,7 +459,7 @@
     "domain": "business",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Fri, 05 Sep 2025 18:00:34 GMT",
+    "published": "Sat, 06 Sep 2025 00:00:34 GMT",
     "source": "Axios",
     "sources": [
       "CNBC",
@@ -397,9 +467,9 @@
       "Business Insider"
     ],
     "domains": [
-      "news.google.com",
+      "www.businessinsider.com",
       "www.cnbc.com",
-      "www.businessinsider.com"
+      "news.google.com"
     ],
     "snippets": [
       "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Na0hrUmtnQmFmQWpvUzhPTUhXVDNjcThxOU5MMkkyWFRJanNweU0wTTdNOVQzaXZRTGN1TGxLSkMwZzE0dGUwbTQ2TFVFVDV6ZnJYbHpUMTkxUGplVjFhWEVqcHZpY1pqZ3JUVU9lVmU0QzAzU09DXw?oc=5\" target=\"_blank\">Judge dismisses Newsmax's antitrust lawsuit against Fox</a>&nbsp;",
@@ -414,101 +484,15 @@
     ],
     "score_components": {
       "magnitude": 0.867,
-      "recency": 0.861,
+      "recency": 0.827,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.723,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "US District Judge Aileen Cannon dismissed Newsmax's antitrust lawsuit against Fox News and its parent company, just two days after it was filed. Judge Cannon is known for overseeing a criminal case against President Trump related to classified records.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Tesla Unveils $1T Potential Compensation Plan for Musk, Targets $8.5T Valuation",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Fri, 05 Sep 2025 16:55:47 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "TechCrunch",
-      "The Guardian",
-      "Al Jazeera"
-    ],
-    "domains": [
-      "techcrunch.com",
-      "www.theguardian.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "The compensation would be delivered in shares and tied to performance milestones set by the Tesla board over 10 years.",
-      "<p>CEO will have to increase the value of his electric car company from just over $1tn to $8.5tn over 10 years</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/sep/05/ons-crisis-retail-sales-error-uk-house-prices-record-high-us-jobs-report-business-live-news-updates\">Business li",
-      "Tesla has proposed a new 10-year compensation plan for CEO Elon Musk that could be worth as much as $1 trillion even as the EV maker's car business stumbles and it sets its sights on humanoid robotics and AI."
-    ],
-    "image_url": "",
-    "titles": [
-      "Tesla proposes trillion-dollar compensation package for CEO Elon Musk",
-      "Tesla offers Elon Musk a trillion-dollar pay package",
-      "Tesla proposes new pay package for Elon Musk worth up to $1T"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.86,
-      "consensus": 0.789,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.719,
+    "score": 0.716,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Tesla has introduced a new 10-year compensation plan for CEO Elon Musk, potentially worth up to $1 trillion. This plan requires Musk to increase Tesla's value from just over $1tn to $8.5tn. The proposal is notable for its ambitious growth target and the significant potential payout, amidst Tesla's focus on expanding into humanoid robotics and AI, despite challenges in its electric vehicle business.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "EU Fines Google €2.95B for Ad Tech Abuse",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Fri, 05 Sep 2025 19:42:04 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC",
-      "The Verge"
-    ],
-    "domains": [
-      "www.theverge.com",
-      "www.bbc.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "The Commission said competitors faced higher costs and reduced revenues as a result.",
-      "<p>Regulators ordered the tech giant to end ‘self-preferencing practices’ in advertising services but declined to force sale</p><p><a href=\"https://www.theguardian.com/world/eu\">European Union</a> regulators on Friday hit <a href=\"https://www.theguardian.com/technology/google\">Google</a> with a €2.9",
-      "The European Commission has waged a €2.95 billion (~$3.5 billion) fine against Google for “abusing its dominant position” in advertising technology. In its announcement, the Commission claims that Google’s alleged anticompetitive practices have increased costs for advertisers and publishers, potenti"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882a/live/9a70c0a0-8a76-11f0-8ba8-9d1af6a803b3.jpg",
-    "titles": [
-      "Google fined €2.95bn by EU for abusing advertising dominance",
-      "EU fines Google nearly €3bn for ‘abusing’ dominant position in ad tech",
-      "Google fined $3.5 billion by EU for ad tech abuse"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.892,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.715,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The European Commission fined Google €2.95 billion (~$3.5 billion) for abusing its dominant position in advertising technology, leading to higher costs and reduced revenues for competitors. Regulators have ordered Google to stop its self-preferencing practices in advertising services but did not require the company to sell any assets.",
+    "summary": "US District Judge Aileen Cannon dismissed Newsmax's antitrust lawsuit against Fox News and its parent company, just two days after it was filed. Judge Cannon is known for overseeing a criminal case against President Trump related to classified records.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -521,34 +505,37 @@
     "published": "Fri, 05 Sep 2025 16:46:05 GMT",
     "source": "BBC",
     "sources": [
+      "New York Times",
       "The Guardian",
-      "BBC",
-      "New York Times"
+      "BBC"
     ],
     "domains": [
-      "www.bbc.com",
       "www.nytimes.com",
-      "www.theguardian.com"
+      "www.bbc.com",
+      "www.theguardian.com",
+      "www.bbc.co.uk"
     ],
     "snippets": [
       "Her departure comes after the PM's ethics adviser concludes that she breached ministerial rules.",
       "In a blow to Prime Minister Keir Starmer, Ms. Rayner said she would step down after an ethics adviser found she had breached a code of conduct for government ministers.",
-      "<p>Guardian columnist Gaby Hinsliff talks through the tax row that brought down the now former deputy prime minister</p><p>Angela Rayner’s political stock had never been higher.</p><p>After a difficult summer for the government, Rayner was more popular than ever with Labour’s backbench MPs. She was "
+      "<p>Guardian columnist Gaby Hinsliff talks through the tax row that brought down the now former deputy prime minister</p><p>Angela Rayner’s political stock had never been higher.</p><p>After a difficult summer for the government, Rayner was more popular than ever with Labour’s backbench MPs. She was ",
+      "Keir Starmer rearranges his top team after losing his deputy."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82ab/live/8a7bc150-8a48-11f0-94f4-77b666520245.jpg",
     "titles": [
       "Angela Rayner resigns after underpaying tax on Hove flat",
       "Angela Rayner, UK Deputy Prime Minister, Resigns After Underpaying Tax",
-      "Angela Rayner resigns – Today in Focus Extra"
+      "Angela Rayner resigns – Today in Focus Extra",
+      "Angela Rayner: Resignationcast AND a Reshuffle!"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.839,
-      "consensus": 0.789,
+      "recency": 0.711,
+      "consensus": 0.809,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.715,
+    "score": 0.694,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Angela Rayner resigned following a breach of ministerial rules, as determined by the Prime Minister's ethics adviser. This decision comes amid Keir Starmer's refusal to discuss her potential dismissal and has led to turmoil within his administration. Rayner's resignation is seen as a significant setback for Starmer, who had previously supported her.",
@@ -557,170 +544,40 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Israeli Forces Seize 40% of Gaza City, Escalate Crisis with Tower Demolition",
+    "title": "Judge Halts Trump Effort to End Protections for Haitian, Venezuelan Immigrants",
     "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Fri, 05 Sep 2025 14:25:09 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "Axios",
-      "New York Times"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.nytimes.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "The images come as the Israeli military says it has established control over 40% of Gaza City.",
-      "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15bUQwZHI3YmlpNTZ3UXpXQ3JIR2dBUVpEbWlIVkx2Q2lvZHdKYzV1S1NFSk9BUVhkU0dMM0FzTVVaSVlfQ0l6Q3NIRDUybTZIa2x1UHBTVlRXRS12VnhfcXZjMU5lRlN3NGZUaWxZRW4wQXBXa3YxTE0wZzRHQQ?oc=5\" target=\"_blank\">Israel bombs high-rise buildings in Gaza City ahead of ma",
-      "The Israeli military destroyed a landmark building after saying it had taken control of almost half of the city, where hundreds of thousands of civilians are sheltering amid a worsening humanitarian crisis."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b8/live/9ff5e5d0-8a73-11f0-84c8-99de564f0440.png",
-    "titles": [
-      "Israel destroys dozens of buildings in Gaza City as new offensive intensifies",
-      "Israel bombs high-rise buildings in Gaza City ahead of massive offensive - Axios",
-      "Israel Steps Up Attacks on Gaza City Ahead of a Planned Wider Offensive"
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.799,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.704,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The Israeli military has taken control of approximately 40% of Gaza City, escalating tensions and causing widespread panic among civilians. The Israeli Defence Minister described the situation as \"the gates of hell are opening\" in Gaza. In a significant move, Israeli forces demolished the 12-storey Mushtaha tower in Gaza City. This action is part of a broader offensive that has seen the destruction of key infrastructure, leading to a severe humanitarian crisis for the city's residents.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "16 Killed in Lisbon Funicular Derailment; Mechanical Fault Suspected",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Fri, 05 Sep 2025 11:03:40 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC",
-      "CityNews"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "ottawa.citynews.ca",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "Authorities have confirmed three Brits are among 16 people who were killed in Wednesday's accident.",
-      "<p>Portuguese investigators find no evidence of sabotage, with mechanical or maintenance issues among possible causes</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/sep/04/someone-needs-to-answer-for-what-happened-lisbon-reacts-to-streetcar-crash-that-killed-16\">‘Someone needs to answ",
-      "Two Quebec archeologists were among 16 people killed in Wednesday&#8217;s funicular crash in Lisbon, the Quebec government has confirmed. André Bergeron and Blandine Daux were a couple and had worked as part of a specialized team of archeologists in Quebec&#8217;s Culture Department, restoring histo"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5855/live/ae84b1f0-8a3f-11f0-a107-b1e54fc8eabd.jpg",
-    "titles": [
-      "Three British nationals among 16 killed in Lisbon crash",
-      "Three Britons among 16 people killed in Lisbon funicular crash, police confirm",
-      "Two Quebecers identified among 16 dead in Lisbon funicular crash"
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.745,
-      "consensus": 0.789,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.703,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Sixteen people, including three Brits, two Canadians, five Portuguese, two South Koreans, one American, one French, one Swiss, and one Ukrainian, were killed in a funicular derailment in Lisbon. Portuguese investigators have ruled out sabotage, focusing on mechanical or maintenance issues as the likely cause. Recovery efforts have highlighted damage to a cable connecting the funicular's cars.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: effort",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Canadiens Trade Carey Price to Sharks, Including 2026 Fifth-Round Pick",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
+    "source_domain": "www.npr.org",
     "location": "national",
-    "published": "Fri, 05 Sep 2025 21:58:16 +0000",
-    "source": "Global News",
+    "published": "Sat, 06 Sep 2025 01:40:53 -0400",
+    "source": "NPR",
     "sources": [
-      "Sportsnet",
-      "Global News"
+      "NPR",
+      "The Guardian"
     ],
     "domains": [
-      "globalnews.ca",
-      "www.sportsnet.ca"
+      "www.theguardian.com",
+      "www.npr.org"
     ],
     "snippets": [
-      "The Canadiens will also send a fifth-round draft pick in 2026 to San Jose in the deal announced Friday.",
-      "<p>In a just world, Carey Price would’ve finished his career as a Canadien.</p>\n<p>But after allowing his contract to be traded to the Sharks, Price came up huge for the franchise once again. </p>",
-      "<p>A legend is being traded from the only team he&#8217;s ever know. Well, at least his contract.</p>"
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/f70ea8753b1d2a42f2100931c9a2597a8587de257fb005444dc775955bcdfca1.jpg?quality=65&strip=all",
-    "titles": [
-      "Montreal Canadiens trade Carey Price’s contract to San Jose Sharks",
-      "Canadiens’ trade with Sharks one last huge save from Carey Price",
-      "Canadiens trade Carey Price’s contract to Sharks for D Gannon Laroque"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.955,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.696,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Montreal Canadiens have traded Carey Price's contract to the San Jose Sharks, along with a fifth-round draft pick in 2026. This move ends Price's tenure with the Canadiens, the only team he has played for in his career.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Dylan Harper Undergoes Surgery, Expected to Play in Spurs' Opener",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Fri, 5 Sep 2025 19:39:16 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "www.poundingtherock.com",
-      "www.nbcsports.com",
-      "www.espn.com"
-    ],
-    "snippets": [
-      "Dylan Harper, the No. 2 pick in this year's draft, might recover in time for the Spurs' Oct. 22 opener after having surgery to repair a partially torn collateral ligament in his left thumb.",
-      "Harper is likely to miss all of his rookie training camp recovering from this surgery, a setback to open his career.",
-      "The injury was suffered in practice, but he is expected back by the start of the season."
+      "A federal judge on Friday blocked the Trump administration from ending temporary legal protections for more than 1 million people from Haiti and Venezuela who live in the United States.",
+      "<p>Homeland security had tried to end temporary protected status granted by the Biden administration</p><p>A federal judge on Friday ruled against the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> from ending temporary legal protections that have granted"
     ],
     "image_url": "",
     "titles": [
-      "Spurs' Harper has thumb surgery; opener possible",
-      "Spurs No. 2 pick Dylan Harper undergoes surgery to repair torn ligament in left thumb",
-      "Dylan Harper undergoes surgery to repair torn ligament in thumb"
+      "Judge blocks Trump administration's ending of protections for Venezuelans and Haitians",
+      "Judge blocks ending of legal protections for 1m Venezuelans and Haitians in US"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.989,
-      "consensus": 0.611,
+      "magnitude": 0.775,
+      "recency": 0.95,
+      "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.683,
+    "score": 0.684,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Dylan Harper, the No. 2 pick in this year's draft, underwent surgery for a partially torn collateral ligament in his left thumb. Despite missing rookie training camp, he is expected to recover in time for the Spurs' season opener on Oct. 22. The injury occurred during practice.",
+    "summary": "A federal judge blocked the Trump administration's attempt to end temporary legal protections for over 1 million Haitian and Venezuelan immigrants in the U.S. This decision preserves the temporary protected status granted by the Biden administration, ensuring these individuals maintain their legal status in the country.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -728,40 +585,40 @@
   {
     "title": "Rare \"Blood Moon\" Eclipse Visible in UK Sunday Evening",
     "domain": "general",
-    "source_domain": "www.bbc.com",
+    "source_domain": "www.dw.com",
     "location": "global",
-    "published": "Fri, 05 Sep 2025 07:36:36 GMT",
-    "source": "BBC",
+    "published": "2025-09-05T12:22:00Z",
+    "source": "Deutsche Welle",
     "sources": [
-      "Deutsche Welle",
+      "Phys.org",
       "The Guardian",
-      "BBC"
+      "Deutsche Welle"
     ],
     "domains": [
+      "www.theguardian.com",
       "www.dw.com",
-      "www.bbc.com",
-      "www.theguardian.com"
+      "phys.org"
     ],
     "snippets": [
-      "A total lunar eclipse will be visible from parts of the UK on Sunday evening, weather permitting.",
       "A total lunar eclipse makes the moon shine with all the sunrises and sunsets on Earth — at the same time. But how? The moon is in Earth's shadow! Here's what’s going on.",
-      "<p>The satellite will turn deep red as the Earth passes between the sun and the moon at about 7.30pm on Sunday</p><p>A rare total lunar eclipse “blood moon” will be visible from the UK on Sunday night for the first time since 2022.</p><p>The moon is expected to turn a deep, dark red as the Earth pas"
+      "<p>The satellite will turn deep red as the Earth passes between the sun and the moon at about 7.30pm on Sunday</p><p>A rare total lunar eclipse “blood moon” will be visible from the UK on Sunday night for the first time since 2022.</p><p>The moon is expected to turn a deep, dark red as the Earth pas",
+      "The year's second total lunar eclipse is coming up fast, and this time Asia will have the best seats in the cosmos."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e02e/live/5274e560-67cb-11f0-bdb3-2fec70b719ae.jpg",
+    "image_url": "",
     "titles": [
-      "How to see Sunday's 'Blood Moon' total lunar eclipse",
       "Blood Moon this Sunday: What makes a total lunar eclipse",
-      "Rare total lunar eclipse ‘blood moon’ to be visible from UK"
+      "Rare total lunar eclipse ‘blood moon’ to be visible from UK",
+      "Asia will get a prime view of this weekend's total lunar eclipse"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.694,
+      "recency": 0.662,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.676,
-    "summary_source": "gpt",
+    "score": 0.669,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "A rare total lunar eclipse, known as a \"blood moon,\" will be visible from parts of the UK on Sunday evening, weather permitting. This phenomenon, where the moon turns deep red, occurs when the Earth passes between the sun and the moon. This will be the first such event visible from the UK since 2022, expected to start around 7:30 pm.",
     "constructiveness_score": 0.0,
@@ -769,157 +626,315 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump to Host G20 Summit at Doral Resort, Focus on Economy",
+    "title": "Thunder Rookie Sorber Out for Season with ACL Tear",
     "domain": "sports",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-09-05T22:50:00Z",
-    "source": "Deutsche Welle",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sat, 6 Sep 2025 01:26:37 EST",
+    "source": "ESPN",
     "sources": [
-      "Deutsche Welle",
-      "Financial Post"
+      "CBS Sports",
+      "ESPN"
     ],
     "domains": [
-      "www.dw.com",
-      "financialpost.com"
+      "www.cbssports.com",
+      "www.espn.com"
     ],
     "snippets": [
-      "The United States hasn't hosted a G20 summit in nearly two decades. This is not the first time President Donald Trump has proposed to hold the event at his golf course in Florida.",
-      "US President Donald Trump made official his intention to host next year’s Group of 20 summit at his Doral resort in south Florida, with plans to curtail the attendee list and focus talks on the economy."
+      "Thunder rookie big man Thomas Sorber tore the ACL in his right knee and will miss the 2025-26 season, the team announced.",
+      "Sorber is the latest in a string of bad luck for Thunder draft picks in their rookie years"
     ],
     "image_url": "",
     "titles": [
-      "Trump says US will host G20 summit in 2026",
-      "Trump Says He’ll Host 2026 G-20 Summit at His Doral Resort"
+      "OKC rookie Sorber out for season with torn ACL",
+      "Thunder 2025 first-round pick Thomas Sorber suffers torn ACL, expected to miss entire 2025-2026 season"
     ],
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.973,
+      "magnitude": 0.735,
+      "recency": 0.945,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.669,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Thomas Sorber, a rookie for the Oklahoma City Thunder, has torn the ACL in his right knee and will miss the entire 2025-26 NBA season, the team confirmed. This marks the second year in a row that a Thunder first-round draft pick has been sidelined for an entire season due to an ACL injury.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Phillies Resolve Dispute, Young Fan Meets Bader After Win",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sat, 6 Sep 2025 01:26:37 EST",
+    "source": "ESPN",
+    "sources": [
+      "Yahoo Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.sportingnews.com"
+    ],
+    "snippets": [
+      "The Philadelphia Phillies invited a young fan to meet center fielder Harrison Bader after a home run ball dispute during their 9-3 win over the Miami Marlins on Friday night.",
+      "Find the &quot;Karen&quot; says Phillies fan."
+    ],
+    "image_url": "",
+    "titles": [
+      "Young fan meets Bader after HR ball taken away",
+      "Phillies fan labeled 'Karen' goes viral after taking Harrison Bader HR ball from young fan"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.945,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.669,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Philadelphia Phillies resolved a dispute over a home run ball by inviting a young fan to meet center fielder Harrison Bader following their 9-3 victory against the Miami Marlins on Friday night.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Mike Clay's Playbook Adds Shadow Report for Week 1 NFL Fantasy Insights",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sat, 6 Sep 2025 01:26:37 EST",
+    "source": "ESPN",
+    "sources": [
+      "CBS Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "www.cbssports.com",
+      "www.espn.com"
+    ],
+    "snippets": [
+      "Mike Clay's Playbook now includes Shadow Reports, providing an all-encompassing look at Week 1's matchups to exploit and avoid in fantasy.",
+      "Matchup ratings for every player in Week 1 for PPR leagues",
+      "Matchup ratings for every player in Week 1 for non-PPR leagues"
+    ],
+    "image_url": "",
+    "titles": [
+      "🏈 The Playbook: Week 1 fantasy football guide",
+      "Fantasy Football 2025 Week 1 PPR Cheat Sheet: Player ratings to guide your toughest lineup calls",
+      "Fantasy Football 2025 Week 1 Non-PPR Cheat Sheet: Player ratings to guide your toughest lineup calls"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.945,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.669,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Mike Clay's Playbook has expanded to include the Shadow Report, offering detailed insights on Week 1 NFL matchups for fantasy football players. This comprehensive guide aims to help users make informed decisions on starting or sitting players based on matchups and weather forecasts, among other factors. All relevant fantasy football content for Week 1 is now accessible in one location to assist players in dominating their matchups.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "James Madison vs. Louisville Week 2: SportsLine Releases Best Bets",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Fri, 5 Sep 2025 23:59:53 EST",
+    "source": "ESPN",
+    "sources": [
+      "CBS Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "www.cbssports.com",
+      "www.espn.com"
+    ],
+    "snippets": [
+      "James Madison will look to make a statement on the road against Louisville wearing a slick all-white look.",
+      "SportsLine's computer model simulated James Madison Dukes vs. Louisville Cardinals 10,000 times and released its college football best bets for Week 2"
+    ],
+    "image_url": "",
+    "titles": [
+      "James Madison's icy white look headlines best Week 2 college football uniforms",
+      "Louisville vs. James Madison prediction, odds: Model reveals free Week 2 college football picks for Friday"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.917,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.663,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "James Madison Dukes will face Louisville Cardinals in Week 2 of college football, aiming to impress with an all-white uniform. SportsLine's computer model, after simulating the game 10,000 times, has released its best bets for this matchup.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "New Method Converts PET Waste into CO2-Capturing Material",
+    "domain": "science",
+    "source_domain": "www.sciencedaily.com",
+    "location": "global",
+    "published": "Fri, 05 Sep 2025 22:22:50 EDT",
+    "source": "ScienceDaily",
+    "sources": [
+      "Phys.org",
+      "ScienceDaily"
+    ],
+    "domains": [
+      "www.sciencedaily.com",
+      "phys.org"
+    ],
+    "snippets": [
+      "A team of chemists has discovered how to transform PET plastic waste into BAETA, a material that captures CO2 with remarkable efficiency. Instead of ending up as microplastics in the environment, discarded bottles and textiles could become tools to combat climate change. The method is energy-friendl",
+      "Chemists at the University of Copenhagen have developed a method to convert plastic waste into a climate solution for efficient and sustainable CO2 capture. This is killing two birds with one stone as they address two of the world's biggest challenges: plastic pollution and the climate crisis."
+    ],
+    "image_url": "",
+    "titles": [
+      "Scientists made plastic that eats carbon",
+      "Scientists transform plastic waste into efficient CO₂ capture materials"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.887,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.667,
+    "score": 0.642,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "President Donald Trump announced plans to host the next G20 summit at his Doral resort in Florida, marking the first time the US will host the event in nearly two decades. The summit will have a reduced attendee list and will focus on economic discussions.",
+    "summary": "Chemists at the University of Copenhagen have developed a method to convert PET plastic waste into BAETA, a material that efficiently captures CO2, addressing plastic pollution and climate change simultaneously. This innovative, energy-friendly process offers a dual solution to major environmental challenges.",
     "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
+    "constructiveness_reason": "keywords: solution",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Anthropic Agrees to $1.5B AI Copyright Settlement, Pays Authors $3,000/Book",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Fri, 05 Sep 2025 23:24:38 GMT",
-    "source": "Axios",
+    "title": "US Special Forces Accidentally Kill North Korean Fishermen in Covert Mission",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Sat, 06 Sep 2025 02:41:39 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "Fortune",
-      "Axios"
+      "Al Jazeera",
+      "The Guardian"
     ],
     "domains": [
-      "news.google.com",
-      "fortune.com"
+      "www.theguardian.com",
+      "www.aljazeera.com"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBERV9wVGlXZHdncG8tbnV1aVEwcHpxaGxZZzlSTHdQUkpkMHJkMGpkNG0wbGlFaDhMUUtWT2FxZGVrWjRrVTJYeGxKS2xxZTRVLXdmTmF0djVwZzFqckdka1VIOEFkam93dVFzN1drbmp3dkdR?oc=5\" target=\"_blank\">Anthropic to pay $3,000 per book in $1.5 billion AI copyright settlemen",
-      "Anthropic’s deal with authors may accelerate a shift toward licensing copyrighted material needed to train AI models, legal experts say"
+      "US special forces killed several North Korean fishermen diving for shellfish after encountering them by accident.",
+      "<p>New York Times says Trump authorized mission to plant listening device; team killed fishers they encountered</p><p>US Navy Seals shot and killed a number of <a href=\"https://www.theguardian.com/world/north-korea\">North Korean</a> civilians during a botched covert mission to plant a listening devi"
     ],
     "image_url": "",
     "titles": [
-      "Anthropic to pay $3,000 per book in $1.5 billion AI copyright settlement - Axios",
-      "Anthropic reaches $1.5 Billion settlement with authors in landmark copyright case"
+      "US Navy SEALs killed North Korean civilians during botched mission: Report",
+      "US Navy Seals killed North Korean civilians in botched 2019 mission, report says"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.893,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.634,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "US special forces, on a covert mission authorized by Trump to plant a listening device, accidentally encountered and killed several North Korean fishermen diving for shellfish. The operation, involving US Navy Seals, resulted in the unintended deaths of these civilians.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "South Korea Protests ICE Raid at Hyundai Plant, 475 Arrested",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Fri, 05 Sep 2025 10:58:37 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "www.dw.com",
+      "www.npr.org"
+    ],
+    "snippets": [
+      "\"The business activities of our investors and the rights of our nationals must not be unjustly infringed,\" a foreign ministry spokesman said after about 300 South Koreans were detained.",
+      "Most of the 475 people arrested in a raid on a Hyundai-LG battery factory under construction in the state of Georgia were from South Korea. Relations between Washington and Seoul have become strained of late."
+    ],
+    "image_url": "",
+    "titles": [
+      "Hundreds of South Koreans are among 475 detained in a Georgia immigration raid",
+      "US: South Koreans detained in ICE raid on Hyundai plant"
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.964,
+      "recency": 0.699,
       "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.655,
-    "summary_source": "gpt",
+    "score": 0.627,
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Anthropic has agreed to a $1.5 billion AI copyright settlement, under which it will pay authors $3,000 per book. This deal is seen by legal experts as potentially accelerating the trend towards licensing copyrighted material for AI model training.",
+    "summary": "In a recent ICE raid at a Georgia-based Hyundai plant, approximately 475 individuals were arrested, with a significant number being South Korean nationals. This action prompted South Korea to demand protection for its nationals and investors, labeling the raid as an unjust infringement of rights. The foreign ministry emphasized the importance of not unjustly infringing on the business activities and rights of their nationals.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Dabrowski and Routliffe Clinch Second US Open Women's Doubles Title",
-    "domain": "sports",
-    "source_domain": "sports.yahoo.com",
-    "location": "national",
-    "published": "Fri, 05 Sep 2025 23:42:16 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "CityNews",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "ottawa.citynews.ca",
-      "sports.yahoo.com"
-    ],
-    "snippets": [
-      "Gabriela Dabrowski won her second US Open women's doubles title alongside Erin Routliffe on Friday, the culmination of a &quot;wild ride&quot; that began with a breast cancer diagnosis last year.&quot;Yeah, wild ride.",
-      "Canada&#8217;s Gabriela&#160;Dabrowski&#160;and Erin Routliffe are U.S. Open women&#8217;s doubles champions for the second time in three years. They defeated top-seeded American Taylor Townsend and Czechia&#8217;s Katerina Siniakova 6-4, 6-4 in Friday&#8217;s final. Dabrowski is an Ottawa native, w"
-    ],
-    "image_url": "",
-    "titles": [
-      "Dabrowski takes 'wild ride' from cancer diagnosis to US Open doubles crown",
-      "Ottawa’s Gabriela Dabrowski wins U.S. Open women’s doubles title"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.99,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.653,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Gabriela Dabrowski and Erin Routliffe won their second US Open women's doubles title, defeating Taylor Townsend and Katerina Siniakova 6-4, 6-4. This victory marks a significant achievement for Dabrowski, an Ottawa native, especially after a challenging year due to a breast cancer diagnosis.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Robinhood Joins S&P 500 in Latest Quarterly Rebalance",
+    "title": "HHS Report to Explore Possible Tylenol-Autism Link, Kenvue Denies Claims",
     "domain": "business",
-    "source_domain": "www.cnbc.com",
+    "source_domain": "news.google.com",
     "location": "national",
-    "published": "Fri, 05 Sep 2025 23:02:13 GMT",
-    "source": "CNBC",
+    "published": "Fri, 05 Sep 2025 21:00:48 GMT",
+    "source": "Axios",
     "sources": [
       "CNBC",
-      "Financial Post"
+      "Axios"
     ],
     "domains": [
       "www.cnbc.com",
-      "financialpost.com"
+      "news.google.com"
     ],
     "snippets": [
-      "The S&amp;P 500 already has a heavy concentration of large technology companies. Datadog and DoorDash entered earlier this year.",
-      "Robinhood Markets Inc. has been added to the S&#038;P 500, marking a new phase for the retail trading platform that helped define the pandemic-era boom in individual investing. The company will join the benchmark in the latest quarterly rebalance, S&#038;P Dow Jones Indices said Friday."
+      "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBJOTNyNW83bjNKYkZZU1Q1eXU2cmhBalV3bTZCeFlHakM4bWh3SWVWNUlPeUVSclJUSnVNZVZhUUN2T0QxWk9LVFJTem02eDRpOUZ6UEVodUJmaGMzYkV3NUpuWkJtSnY3Um44Yk1VbURqX2ZjMV9TcFFUTXVBaDQ?oc=5\" target=\"_blank\">RFK Jr. to draw link between Tylenol and autism, new rep",
+      "HHS will release the report that could draw that link between the pain medication and autism this month, according to the Wall Street Journal."
     ],
     "image_url": "",
     "titles": [
-      "AppLovin and Robinhood added to S&P 500",
-      "Robinhood, AppLovin, Emcor to Join S&P 500 in Rebalancing"
+      "RFK Jr. to draw link between Tylenol and autism, new report says - Axios",
+      "Kenvue stock drops 10% on report RFK Jr. will link autism to Tylenol use during pregnancy"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.957,
+      "magnitude": 0.755,
+      "recency": 0.777,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.646,
-    "summary_source": "gpt",
+    "score": 0.617,
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Robinhood Markets Inc. has been added to the S&P 500, joining other large technology companies in the index. This inclusion marks a significant milestone for the retail trading platform, highlighting its influence on the pandemic-era investing boom. The update was announced by S&P Dow Jones Indices during their latest quarterly rebalance.",
+    "summary": "The Department of Health and Human Services (HHS) is set to release a report this month that may suggest a link between Tylenol and autism, as reported by the Wall Street Journal. Kenvue, the manufacturer of Tylenol, denies any connection as alleged in the upcoming report.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -932,8 +947,8 @@
     "published": "Fri, 05 Sep 2025 22:09:09 GMT",
     "source": "Financial Times",
     "sources": [
-      "Washington Post",
-      "Financial Times"
+      "Financial Times",
+      "Washington Post"
     ],
     "domains": [
       "www.washingtonpost.com",
@@ -950,13 +965,13 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.939,
+      "recency": 0.795,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.643,
-    "summary_source": "gpt",
+    "score": 0.614,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The U.S. administration's recent action could lead to barring certain foreign leaders from the UN General Assembly. This move allows the State Department to apply sanctions against governments detaining Americans without valid reasons.",
     "constructiveness_score": 0.0,
@@ -971,8 +986,8 @@
     "published": "Fri, 05 Sep 2025 16:56:38 +0000",
     "source": "TechCrunch",
     "sources": [
-      "TechCrunch",
-      "Ars Technica"
+      "Ars Technica",
+      "TechCrunch"
     ],
     "domains": [
       "arstechnica.com",
@@ -989,13 +1004,13 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.86,
+      "recency": 0.728,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.634,
-    "summary_source": "gpt",
+    "score": 0.608,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Warner Bros. accuses Midjourney of intentionally allowing users to generate content from copyrighted images after lifting previous restrictions. This case follows similar legal arguments made in a Disney/Universal lawsuit against Midjourney.",
     "constructiveness_score": 0.0,
@@ -1028,54 +1043,15 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.86,
+      "recency": 0.728,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.627,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Prime Minister Keir Starmer has reshuffled his cabinet, assigning new roles and challenges to both seasoned ministers and rapidly advancing members of the Labour Party. This move aims to strengthen the team's effectiveness and address current political demands.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Tesla Proposes Pay Package for Musk, Aiming for Trillionaire Status",
-    "domain": "business",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Fri, 05 Sep 2025 15:36:41 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC",
-      "Business Insider"
-    ],
-    "domains": [
-      "www.cnbc.com",
-      "www.businessinsider.com"
-    ],
-    "snippets": [
-      "Tesla will also ask shareholders to vote on whether the automaker should invest in Musk's artificial intelligence company, xAI.",
-      "Tesla Chair Robyn Denholm said the proposed pay package for Elon Musk is meant to keep his \"focus and attention\" on the EV maker."
-    ],
-    "image_url": "",
-    "titles": [
-      "Tesla's nearly $1 trillion new pay plan for Musk would expand his voting power",
-      "Tesla's $1 trillion pay package for Elon Musk boils down to one thing: Keeping the attention of the world's richest man"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.819,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.626,
+    "score": 0.601,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Tesla's board proposed a new pay package for Elon Musk, which could make him the world's first trillionaire if shareholders approve. The package requires Musk to achieve milestones like producing 1 million robotaxis and 1 million homes. Additionally, shareholders will vote on Tesla investing in Musk's AI company, xAI.",
+    "summary": "Prime Minister Keir Starmer has reshuffled his cabinet, assigning new roles and challenges to both seasoned ministers and rapidly advancing members of the Labour Party. This move aims to strengthen the team's effectiveness and address current political demands.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
