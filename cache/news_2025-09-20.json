@@ -1,55 +1,67 @@
 [
   {
-    "title": "Trump Signs Proclamation Hiking H-1B Visa Fees to $100,000",
+    "title": "Cyberattack Hits Major European Airports, Causes Delays and Cancellations",
     "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sat, 20 Sep 2025 06:42:15 GMT",
-    "source": "BBC",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Sat, 20 Sep 2025 06:00:16 -0400",
+    "source": "NPR",
     "sources": [
-      "Financial Times",
+      "The Guardian",
       "Global News",
-      "Al Jazeera",
-      "Axios",
-      "Deutsche Welle",
-      "BBC"
+      "Financial Post",
+      "BBC",
+      "Business Insider",
+      "NPR",
+      "CityNews",
+      "ABC News",
+      "Al Jazeera"
     ],
     "domains": [
-      "www.ft.com",
+      "www.npr.org",
+      "www.theguardian.com",
+      "www.aljazeera.com",
+      "abcnews.go.com",
       "globalnews.ca",
-      "www.bbc.com",
-      "news.google.com",
-      "www.dw.com",
-      "www.aljazeera.com"
+      "financialpost.com",
+      "ottawa.citynews.ca",
+      "www.businessinsider.com",
+      "www.bbc.com"
     ],
     "snippets": [
-      "\"Train Americans,\" the US commerce secretary told big companies, some of which have relied on foreign high-skilled workers for years.",
-      "Fee paid by companies set to transform high-skill work visa system, upon which technology sector relies heavily.",
-      "The H-1B visa program is used extensively by tech companies to attract skilled foreign workers. India and China account for the vast majority of workers under the program.",
-      "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUdUbC1GSDA0ZlYtM1VQRkQzLUsxSW1PWnBpQ3k0WlU2Q1FzUWJ2alhSU1ZMU09zSF9yOVJ3Qmh3enBFRTVRODQ3RDFldUozVjBnUXBETHY5OXRjWTRDeWxYNl94UFFVQXpfS1M0d0JKYTVNcklGMDdVZUJkZ2RqSzFBNVZrOGFqay00eVNkcks1d2F3?oc=5\" target=\"_blank\">Trump seeks $100,000 visa f",
-      "Shares in IT consulting groups drop on news of changes to scheme popular with Silicon Valley",
-      "H-1B visas are meant to bring in foreigners for high-skilled jobs that tech companies find difficult to fill with qualified U.S. citizens and permanent residents."
+      "A cyberattack targeting check-in and boarding systems has disrupted air traffic and caused delays at several of Europe's major airports, officials said Saturday.",
+      "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
+      "Heathrow, Brussels and Berlin airports among major European hubs confirming disruptions as a result of the attack.",
+      "A cyberattack targeting check-in and boarding systems has disrupted air traffic at several major European airports",
+      "<p>Attack raises questions over security as Brussels and Berlin airports’ check-in and boarding systems also affected</p><p>Flights have been delayed and cancelled at three major European airports – including London’s largest, Heathrow – after the company behind the software used for check-in and bo",
+      "The disruptions to electronic systems initially reported at Brussels, Berlin’s Brandenburg and London’s Heathrow airports meant that only manual check-in and boarding was possible.",
+      "Brussels Airport said a \"cyberattack\" had targeted a service provider for check-in and boarding systems.",
+      "LONDON (AP) &#8212; A cyberattack targeting check-in and boarding systems disrupted air traffic and caused delays at several of Europe&#8217;s major airports on Saturday. While the impact on travelers appeared to be limited, experts said the intrusion exposed vulnerabilities in security systems. The",
+      "LONDON (AP) — A cyberattack targeting check-in and boarding systems disrupted air traffic and caused delays at several of Europe’s major airports on Saturday. While the impact on travelers appeared to be limited, experts said the intrusion exposed vulnerabilities in security systems. The disruptions"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa5f/live/38c3b210-95af-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "image_url": "",
     "titles": [
-      "Trump adds $100,000 fee for skilled worker visa applicants",
-      "Trump imposes $100,000 fee per year for H-1B visas",
-      "Trump announces $100,000 fee for H-1B visa applications",
-      "Trump seeks $100,000 visa fee for temporary skilled workers - Axios",
-      "Trump to add $100,000 application fee to H-1B foreign worker visas",
-      "Trump sets $100K fee for skilled foreign worker visas, $1M for ‘gold card’"
+      "Cyberattack disrupts check-in systems at major European airports",
+      "Cyber-attack causes delays at Heathrow and other European airports",
+      "Cyberattack hits check-in systems at some of Europe’s busiest airports",
+      "Cyberattack disrupts check-in systems at major European airports",
+      "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
+      "Cyberattack causes disruption at major European airports, including Heathrow",
+      "Travel chaos as 'cyberattack' disrupts European airports, including London's Heathrow",
+      "Cyberattack disrupts check-in systems at major European airports",
+      "Cyberattack disrupts check-in systems at major European airports"
     ],
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.948,
+      "recency": 0.879,
       "consensus": 1.0,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.84,
-    "summary_source": "cache",
+    "score": 0.851,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "US President Donald Trump signed a proclamation requiring companies to pay $100,000 for each H-1B visa application, significantly increasing costs from the current total of $995. This move is set to transform the high-skill work visa system, heavily relied upon by the technology sector.",
+    "summary": "A cyberattack disrupted check-in and boarding systems at several major European airports, including Heathrow, Brussels, and Berlin's Brandenburg, causing delays and cancellations. The attack targeted a service provider used by these airports, leading to a reliance on manual processes. Despite the disruptions, the impact on travelers was described as limited, but the incident highlighted security vulnerabilities in airport systems.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -59,23 +71,23 @@
     "domain": "general",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Sat, 20 Sep 2025 05:57:11 GMT",
+    "published": "Sat, 20 Sep 2025 10:47:20 GMT",
     "source": "BBC",
     "sources": [
-      "New York Times",
-      "ABC News",
       "The Guardian",
-      "Washington Post",
       "Deutsche Welle",
-      "BBC"
+      "BBC",
+      "New York Times",
+      "Washington Post",
+      "ABC News"
     ],
     "domains": [
-      "abcnews.go.com",
-      "www.washingtonpost.com",
-      "www.bbc.com",
-      "www.nytimes.com",
       "www.theguardian.com",
-      "www.dw.com"
+      "abcnews.go.com",
+      "www.nytimes.com",
+      "www.dw.com",
+      "www.bbc.com",
+      "www.washingtonpost.com"
     ],
     "snippets": [
       "Russia denies jets entered Estonian airspace in the same month as its drones violated the airspace of two other Nato members.",
@@ -96,15 +108,191 @@
     ],
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.933,
+      "recency": 0.875,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.837,
+    "score": 0.825,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "NATO intercepted three Russian MiG-31 fighter jets that entered Estonian airspace for 12 minutes, marking a significant breach. Estonia condemned the act as an \"unprecedentedly brazen\" intrusion and summoned a Russian diplomat in response. NATO highlighted its quick response as evidence of its capability to counter such actions. Russia, however, denied the allegations, which the EU labeled a \"dangerous provocation.\" This incident is part of a series of recent airspace violations by Russia in the EU, including drone incursions into Poland and Romania.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Russia Attacks Ukraine with 600+ Drones, Missiles; Casualties Reported",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sat, 20 Sep 2025 15:30:15 GMT",
+    "source": "BBC",
+    "sources": [
+      "Global News",
+      "CityNews",
+      "ABC News",
+      "BBC"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "abcnews.go.com",
+      "globalnews.ca",
+      "ottawa.citynews.ca"
+    ],
+    "snippets": [
+      "President Zelensky says Moscow seeks to \"intimidate civilians\", while Russia reports four deaths in a Ukrainian strike.",
+      "Russia carried out a “massive” attack across Ukraine Friday night into Saturday morning, using more than 600 drones and missiles, according to the Ukrainian Air Force.",
+      "'The enemy’s target was our infrastructure, residential areas and civilian enterprises,' said Ukrainian President Volodymyr Zelenskyy.",
+      "KYIV, Ukraine (AP) — Russia launched a large-scale missile and drone attack targeting regions across Ukraine early Saturday, killing at least three people and wounding dozens more, Ukrainian officials said. Ukrainian President Volodymyr Zelenskyy said the attacks took place across nine regions, incl"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a28a/live/11237600-961d-11f0-b5f9-bf23d14527d7.png",
+    "titles": [
+      "Ukraine says three killed in 'massive' Russian aerial attack",
+      "Russia carries out 'massive' attack across Ukraine",
+      "Russia launches attack on Ukraine, killing 3 and wounding dozens",
+      "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens"
+    ],
+    "score_components": {
+      "magnitude": 0.932,
+      "recency": 0.965,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.796,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Russia launched a large-scale attack on Ukraine, using over 600 drones and missiles, targeting infrastructure, residential areas, and civilian enterprises. Ukrainian President Zelensky reported the attack aimed to \"intimidate civilians\" and resulted in at least three deaths and multiple injuries across nine regions. Concurrently, Russia reported four deaths from a Ukrainian strike.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Chiefs' Xavier Worthy Out for Sunday's Game Against Giants Due to Injury",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sat, 20 Sep 2025 11:51:04 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Yahoo Sports",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.nbcsports.com",
+      "www.espn.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Chiefs WR Xavier Worthy been ruled out for Sunday night's game against the Giants and is not traveling with the team.",
+      "Worthy will miss a second straight game after dislocating his shoulder in Kansas City's season-opening loss",
+      "The Kansas City receiver is not ready to return from a shoulder injury suffered in the season opener."
+    ],
+    "image_url": "",
+    "titles": [
+      "Chiefs WR Worthy (shoulder) ruled out vs. Giants",
+      "Xavier Worthy injury update: Chiefs WR ruled out for Week 3 game vs. Giants despite returning to practice",
+      "Xavier Worthy downgraded to out for Week 3"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.993,
+      "consensus": 0.789,
+      "constructiveness": 0.1,
+      "proximity": 0.75
+    },
+    "score": 0.777,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Chiefs WR Xavier Worthy will miss his second consecutive game due to a shoulder dislocation sustained in the season opener. He has been ruled out for Sunday night's game against the Giants and will not travel with the team.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: sustain",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Verstappen Takes Pole in Chaotic Azerbaijan GP Qualifying with 6 Red Flags",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sat, 20 Sep 2025 10:26:51 EST",
+    "source": "ESPN",
+    "sources": [
+      "The Guardian",
+      "ESPN",
+      "Sky Sports"
+    ],
+    "domains": [
+      "www.skysports.com",
+      "www.espn.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "Max Verstappen denied Carlos Sainz and Williams a shock pole position in one of the great Formula 1 qualifying sessions, featuring six red flags.",
+      "<ul><li><p>Session marred by driver mishaps, rain and six red flags</p></li><li><p>McLaren drivers make big errors in marathon session</p></li></ul><p>Misjudgement and error left Formula One’s leading lights flailing on the streets of Baku, but Max Verstappen delivered pole position for the Azerbaij",
+      "Max Verstappen took pole position in a thrilling Qualifying for the Azerbaijan Grand Prix which featured a record six red flags after several crashes, including a shunt for championship leader Oscar Piastri."
+    ],
+    "image_url": "",
+    "titles": [
+      "F1 chaos! Verstappen on pole, Piastri 1 of 6 crashes",
+      "Verstappen grabs pole for Azerbaijan GP as Piastri crashes out in F1 qualifying chaos",
+      "Verstappen on pole as Piastri one of six to crash in thrilling Qualifying"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.964,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.762,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Max Verstappen secured pole position in a dramatic Azerbaijan Grand Prix qualifying session, overshadowed by six red flags due to multiple crashes and driver errors, including those from McLaren drivers and championship leader Oscar Piastri. The session was further complicated by adverse weather conditions, making it a challenging day for teams and drivers alike.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "U.S. Attorney Erik Siebert Resigns Amid Pressure from President Trump",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Sat, 20 Sep 2025 08:01:59 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "ABC News",
+      "Fortune"
+    ],
+    "domains": [
+      "fortune.com",
+      "abcnews.go.com",
+      "www.npr.org"
+    ],
+    "snippets": [
+      "Erik Siebert resigned after President Trump said he wanted him \"out\" after a monthslong mortgage fraud investigation into New York Attorney General Letitia James failed to result in criminal charges.",
+      "U.S. Attorney Erik Siebert resigned his position Friday amid pressure from President Trump after sources said he refused to bring charges against NY AG Letitia James.",
+      "Erik Siebert's monthslong mortgage fraud investigation into New York Attorney General Letitia James has not resulted in criminal charges."
+    ],
+    "image_url": "",
+    "titles": [
+      "U.S. attorney resigns under pressure from Trump to charge N.Y. AG Letitia James",
+      "US attorney resigns amid pressure from Trump over NY AG probe: Sources",
+      "U.S. attorney who failed to charge Trump adversary resigns under pressure from administration"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.917,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.752,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Erik Siebert, a U.S. Attorney, resigned on Friday following pressure from President Trump, who expressed a desire for Siebert's removal after a monthslong mortgage fraud investigation led by Siebert into New York Attorney General Letitia James concluded without resulting in any criminal charges.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -117,23 +305,20 @@
     "published": "2025-09-19T21:21:00Z",
     "source": "Deutsche Welle",
     "sources": [
-      "New York Times",
-      "Financial Times",
-      "CNBC",
       "The Guardian",
+      "CNBC",
+      "New York Times",
       "Deutsche Welle"
     ],
     "domains": [
-      "www.ft.com",
-      "www.nytimes.com",
       "www.theguardian.com",
-      "www.cnbc.com",
-      "www.dw.com"
+      "www.dw.com",
+      "www.nytimes.com",
+      "www.cnbc.com"
     ],
     "snippets": [
       "US President Donald Trump said Chinese President Xi Jinping had approved a framework agreement to keep TikTok operating in the US after a phone call. But specifics are still unclear.",
       "President Donald Trump and Chinese leader Xi Jinping held a much-anticipated call aimed at finalizing a deal to keep TikTok from going dark in the U.S.",
-      "American leader says Chinese counterpart approved sale of video app’s American operations",
       "<p>Trump’s statement suggests preliminary agreement between leaders in the first direct contact between them since June</p><p>Donald Trump said on Friday that he and Xi Jinping had agreed to approve a deal over TikTok.</p><p>“He approved the TikTok deal,” Trump said about Xi to reporters in the Oval",
       "President Trump said he would meet with President Xi Jinping next month in South Korea. Mr. Xi said he welcomes a TikTok deal that would benefit both sides."
     ],
@@ -141,18 +326,17 @@
     "titles": [
       "Trump says Xi approved a deal to keep TikTok operating in US",
       "Trump, Xi make progress on TikTok deal, but more work remains, White House says",
-      "Trump and Xi to meet in South Korea as US president hails TikTok deal",
       "Trump says Xi Jinping has agreed to approve TikTok deal, but details unclear",
       "Trump Hails Progress on TikTok Deal After Call With Xi"
     ],
     "score_components": {
-      "magnitude": 0.984,
-      "recency": 0.797,
-      "consensus": 0.995,
+      "magnitude": 0.932,
+      "recency": 0.675,
+      "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.803,
+    "score": 0.738,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "US President Donald Trump announced that after a phone call with Chinese President Xi Jinping, a preliminary agreement has been reached to keep TikTok operating in the US. This marks the first direct contact between the two leaders since June, moving towards finalizing a deal. However, the specifics of the agreement remain unclear.",
@@ -161,237 +345,126 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Week 3 Fantasy Football: Start/Sit Advice, Including Jared Goff Highlight",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Sat, 20 Sep 2025 00:42:32 EST",
-    "source": "ESPN",
-    "sources": [
-      "CBS Sports",
-      "Sports Illustrated",
-      "ESPN",
-      "Bleacher Report"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.cbssports.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Do injuries have you seeking a late-week pickup? Need a defense to stream? These options have favorable setups.",
-      "Matchup ratings for every player in Week 3 for Non-PPR leagues",
-      "Matchup ratings for every player in Week 3 for PPR leagues",
-      "Dig into the players who might be tough start/sit calls in your lineup based on game film notes, stats, more",
-      "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFNzZ05nVDNEMVprNlVmU3Nkd1VMLUI4STdWX0xRVXBVVTZmeFk0UEFCTnR0YVA2TmFxSHlMT3pyS2pkNjl6VlZLek14UmMzY2FzaXVuUllXOHktR25mNy1QV3d0SHlWcmFzS2lCdHloT3BZbzVJT0FuMjFwR0U0ZHlwVjNxcG5NTWpyZzFxNjlWN0pjeWN0cg?oc=5\" target=\"_blank\">NFL Week 3 Fantasy Fo",
-      "Under-the-radar players who could give your lineup an edge in Week 3",
-      "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFJtUmN3ekswSW5jVzdxYURpeldRZUdFT21rUV9raXhlc1l5UGhxbXhydUtmU2FfbjRLclktczRSa2JueEJfZGlOVWotb182RFBqTFNwVFF6SklwekNtZEFzZldpQ0RRRFg0WUZHWGExWC12QS1JNG5fanNMdXc3VWV0OHBieTVhdEtyY1hqRmh5S3p4YmhVenlsd18?oc=5\" target=\"_blank\">Fab's Five Fanta"
-    ],
-    "image_url": "",
-    "titles": [
-      "🏈 Fantasy football: Week 3 last-minute pickups",
-      "Fantasy Football 2025 Week 3 Non-PPR Cheat Sheet: Player ratings to guide your toughest lineup calls",
-      "Fantasy Football 2025 Week 3 PPR Cheat Sheet: Player ratings to guide your toughest lineup calls",
-      "Fantasy Football Week 3 Lineup Decisions: Who to start, who to sit, must-start plays, flex plays and more",
-      "NFL Week 3 Fantasy Football 2025 Start 'Em, Sit 'Em - Bleacher Report",
-      "Fantasy Football Week 3 Sleepers: Marcus Mariota steps in for Jayden Daniels and emerges as a sleeper QB",
-      "Fab's Five Fantasy Football Defenses Streamers For Week 3 - Sports Illustrated"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.929,
-      "consensus": 0.888,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.795,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "This week's fantasy football advice focuses on players with challenging start/sit decisions based on game film, stats, and more. Specifically, it's suggested that quarterback Jared Goff is expected to perform well in week 3. For more detailed insights, links to articles on running backs and tight ends to start or sit are provided.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "British Couple Released from Detention in Afghanistan After 8 Months",
+    "title": "Liverpool Wins Merseyside Derby 2-1, Extends Perfect Season Start",
     "domain": "general",
-    "source_domain": "www.bbc.com",
+    "source_domain": "www.aljazeera.com",
     "location": "global",
-    "published": "Sat, 20 Sep 2025 06:02:19 GMT",
-    "source": "BBC",
+    "published": "Sat, 20 Sep 2025 14:11:17 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "New York Times",
-      "Deutsche Welle",
       "The Guardian",
-      "BBC"
+      "Sky Sports",
+      "Al Jazeera"
     ],
     "domains": [
-      "www.bbc.com",
-      "www.nytimes.com",
-      "www.dw.com",
+      "www.aljazeera.com",
+      "www.skysports.com",
       "www.theguardian.com"
     ],
     "snippets": [
-      "Jonathan Reynolds tells the BBC he is \"overwhelmed\" by release after nearly eight months in prison.",
-      "Relatives of Peter Reynolds, 80, and his wife Barbara, 76, had made repeated pleas about their deteriorating health since their arrest in February.",
-      "Peter and Barbara Reynolds, 80 and 76, ran an education and training company in the country for years, and chose to remain after the Taliban took over in 2021.",
-      "<p>Peter and Barbie Reynolds were arrested and held without charge for eight months, raising fears for their health</p><p>A British couple have been freed from months of detention in Afghanistan, to the “immense joy” of their family.</p><p>The Taliban released Barbie Reynolds, 76, and her husband, P"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8658/live/2f0ef280-95ea-11f0-90f2-5f87cb020b24.jpg",
-    "titles": [
-      "Son of British couple held by Taliban 'ecstatic' as they return to UK",
-      "Taliban release British couple after seven-month ordeal",
-      "Taliban Releases British Couple, Peter and Barbie Reynolds, Detained for Months in Afghanistan",
-      "Family tell of ‘immense joy’ at release of British couple detained in Afghanistan"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.935,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.776,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Peter and Barbara Reynolds, a British couple aged 80 and 76, were released from detention in Afghanistan after eight months. Their arrest in February had caused concern over their health. The UK acknowledged Qatar's role in negotiating their release. The couple, who ran an education and training company in Afghanistan and stayed after the Taliban's 2021 takeover, were freed to their family's immense joy.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "US Strikes Target Boats in Caribbean for Drug Trafficking, Sparking Controversy",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sat, 20 Sep 2025 01:30:13 GMT",
-    "source": "BBC",
-    "sources": [
-      "Financial Times",
-      "Washington Post",
-      "ABC News",
-      "BBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "abcnews.go.com",
-      "www.washingtonpost.com",
-      "www.ft.com"
-    ],
-    "snippets": [
-      "Venezuela has condemned a series of strikes by US forces in the Caribbean targeting alleged drug traffickers.",
-      "President Donald Trump said Friday he ordered another strike against a boat in international waters that he said was \"trafficking illicit narcotics.\"",
-      "Earlier attacks targeted alleged Venezuelan cartels that Trump claims were trafficking narcotics",
-      "The strike marks the third such attack on boats alleged to be carrying illicit drugs this month. Experts have questioned the legality of the strikes."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fb0/live/8519c9b0-95be-11f0-91c6-1b7e88174a1b.jpg",
-    "titles": [
-      "US forces strike third alleged drug vessel killing three, Trump says",
-      "3 killed in 3rd US strike on alleged drug boat in international waters, Trump says",
-      "US military conducts third fatal strike on alleged drug smuggling vessel",
-      "U.S. kills 3 in another strike on ‘narcoterrorists’ vessel, Trump says"
-    ],
-    "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.851,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.766,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The US conducted a series of strikes in the Caribbean against boats accused of drug trafficking, targeting alleged Venezuelan cartels. President Trump confirmed ordering a strike on a boat in international waters for carrying narcotics, marking the third attack this month. Venezuela condemned these actions. Legal experts have raised questions about the strikes' legality.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Robert Griffin III Backs Commanders' Decision to Bench Daniels for Health",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Sat, 20 Sep 2025 01:56:14 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "Sportsnet",
-      "Sports Illustrated",
-      "Yahoo Sports",
-      "CBS Sports"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "commanderswire.usatoday.com",
-      "www.cbssports.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Griffin III, who battled his own injury problems while playing for Washington, was happy to see the decision taken out of the players' hands",
-      "Robert Griffin III on Commanders' decision to sit Jayden Daniels in Week 3.",
-      "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5NUnZfekFjcU5lRTh6eW5PYlp2M2ZvWG1UMl9ndy1Ia3BSLXlTRVpvQnpUWE1kNHNXYzNNckRvbm91cDhzQjFNWFl3SkVWM29mSVNNS00wcjBSOUhGRm14ZzRHOHY5LVQ2Q1ZoT0RQMk4?oc=5\" target=\"_blank\">Commanders Make Starting Quarterback Decision Amid Jayden Daniels Injury</a>",
-      "<p>Washington Commanders quarterback Jayden Daniels will miss Sunday&#8217;s game against the Las Vegas Raiders because of an injured left knee.</p>"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/20/069aaf89-cc21-4cf1-aec3-9c5f95531eee/robert-griffin-iii-washington.jpg",
-    "titles": [
-      "Robert Griffin III applauds the Commanders' handling of injury to star QB Jayden Daniels: 'Bravo'",
-      "Ex-Washington quarterback Robert Griffin III weighs in on Jayden Daniels' injury",
-      "Commanders Make Starting Quarterback Decision Amid Jayden Daniels Injury - Sports Illustrated",
-      "Commanders’ Jayden Daniels ruled out vs. Raiders"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.877,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.765,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Robert Griffin III expressed approval of the Washington Commanders' decision to bench quarterback Jayden Daniels for the upcoming game against the Las Vegas Raiders due to a knee injury. This move prioritizes player health by not risking further injury.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "49ers to Start Mac Jones as QB Against Cardinals, Purdy Out Again",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Sat, 20 Sep 2025 00:42:32 EST",
-    "source": "ESPN",
-    "sources": [
-      "CBS Sports",
-      "Sports Illustrated",
-      "ESPN"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.cbssports.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Barring a significant last-minute change, the San Francisco 49ers will start Mac Jones at quarterback for a second consecutive week Sunday against the Arizona Cardinals.",
-      "Purdy has made progress but likely won't be back on the field Sunday",
-      "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZRmNEWDZFYm9Sc2RCRG5SWDlWLVFqeG9vUG1pbHdoNTVvLWVUNkJES242WUI1dXZuanZWSGlPQVpUZUFWNHdKcUxxaHpLdUNHN25FTFFEdjE1YXhhY2x3aDdYQ3dWdw?oc=5\" target=\"_blank\">Brock Purdy Shares Hopeful Injury Update Ahead of 49ers' Week 3 Game vs. Cardinals</a>&nb"
+      "Ryan Gravenberch&#039;s 10th-minute stunner set Liverpool on their way to a 2-1 win against Everton in the Merseyside derby.",
+      "<p>On paper, at least, Liverpool have thus far achieved perfection with a fifth win in five Premier League games to keep them looking down on everyone else, but they are yet to find their best form. There was a rare lack of late drama in their Merseyside derby triumph over Everton, instead having to",
+      "Liverpool stay perfect in the Premier League after beating Everton 2-1 in a tense Merseyside derby to extend David Moyes' miserable record at Anfield."
     ],
     "image_url": "",
     "titles": [
-      "49ers to start Jones at QB in place of ailing Purdy",
-      "Brock Purdy injury update: 49ers QB 'highly unlikely' to play vs. Cardinals, Mac Jones set to start again",
-      "Brock Purdy Shares Hopeful Injury Update Ahead of 49ers' Week 3 Game vs. Cardinals - Sports Illustrated"
+      "Liverpool hold on against Everton after Gravenberch stunner opened derby",
+      "Gravenberch and Ekitiké on target as Liverpool stay perfect against Everton",
+      "Gravenberch stars as Liverpool edge tense Merseyside derby"
     ],
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.929,
+      "magnitude": 0.827,
+      "recency": 0.959,
       "consensus": 0.789,
       "constructiveness": 0.0,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.754,
+    "score": 0.729,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Liverpool secured a 2-1 victory over Everton in the Merseyside derby, with Ryan Gravenberch scoring in the 10th minute. This win marks Liverpool's fifth consecutive victory in the Premier League, maintaining their perfect start to the season. Despite the win, the team is still seeking to reach its best form.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "RFK Jr.'s Vaccine Panel Revises COVID, MMRV Advice; Hep B Vote Delayed",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Sat, 20 Sep 2025 11:52:54 GMT",
+    "source": "Axios",
+    "sources": [
+      "Wired",
+      "Axios",
+      "CNBC"
+    ],
+    "domains": [
+      "news.google.com",
+      "www.wired.com",
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9OS2ZUejZlT1JsZmNJeVJMZ2hIdmg1blhDOGMyUkZVVUdJajNtWWFheGJtUkE1bHBCelRPWTBZSTNnZDQzX3drYkZBX3VzbmJjT2EwT0VpWHdCVVBkaks0ZkEyZE1iMWlIdGxnTXdtMld0WmJoSHVGVXdRRQ?oc=5\" target=\"_blank\">RFK Jr.'s vaccine panel drops broad COVID shot recommendation",
+      "The group also voted to emphasize that the Covid vaccine is beneficial for those at high risk of severe illness from the disease.",
+      "In a chaotic meeting, ACIP voted not to recommend a prescription requirement for Covid-19 vaccines. Some panelists seemed unaware of the point of the meeting, while others went on strange tangents."
+    ],
+    "image_url": "",
+    "titles": [
+      "RFK Jr.'s vaccine panel drops broad COVID shot recommendation - Axios",
+      "RFK Jr.'s vaccine panel weakens Covid shot recommendations, calling it an individual decision",
+      "RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.895,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.716,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "The San Francisco 49ers will start Mac Jones as quarterback for the second consecutive week in their upcoming game against the Arizona Cardinals. Despite showing progress, Brock Purdy is not expected to play in Sunday's game.",
+    "summary": "RFK Jr.'s vaccine panel has revised its stance, no longer broadly recommending the COVID vaccine and altering its advice on the MMRV vaccine. The decision to postpone the hepatitis B vaccine vote comes as concerns are raised about a potential decline in scientific standards under RFK Jr.'s leadership as HHS secretary.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Mangione's Lawyers Seek to Block Death Penalty Over Pretrial Publicity Concerns",
+    "domain": "general",
+    "source_domain": "globalnews.ca",
+    "location": "national",
+    "published": "Sat, 20 Sep 2025 15:09:53 +0000",
+    "source": "Global News",
+    "sources": [
+      "Global News",
+      "CityNews"
+    ],
+    "domains": [
+      "globalnews.ca",
+      "ottawa.citynews.ca"
+    ],
+    "snippets": [
+      "'There is a high bar to dismissing an indictment due to pretrial publicity,' Luigi Mangione’s lawyers wrote in their 114-page filing.",
+      "NEW YORK (AP) — Luigi Mangione’s lawyers urged a judge on Saturday to bar federal prosecutors from seeking the death penalty in the killing of UnitedHealthcare CEO Brian Thompson, arguing that authorities prejudiced his case by turning his arrest into a “Marvel movie” spectacle and by publicly decla"
+    ],
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/6e4cf002fd6ea803ba93d03bf4cc31119aa2c22bd857acef582e31960e6ac90c.jpg?quality=65&strip=all",
+    "titles": [
+      "Luigi Mangione’s lawyers want death penalty case dismissed",
+      "Luigi Mangione’s lawyers want death penalty off the table in UnitedHealthcare CEO murder case"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.979,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 1.0
+    },
+    "score": 0.701,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Luigi Mangione's legal team requested a judge to prevent federal prosecutors from pursuing the death penalty against him for the murder of UnitedHealthcare CEO Brian Thompson. They argued that excessive pretrial publicity and the dramatization of his arrest have biased his case. The request was detailed in a 114-page filing, highlighting concerns about the impact of public and media attention on the fairness of the legal proceedings.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -399,43 +472,39 @@
   {
     "title": "Federal Judge Dismisses Trump's Defamation Suit Against NYT, Allows Revision",
     "domain": "general",
-    "source_domain": "www.aljazeera.com",
+    "source_domain": "www.dw.com",
     "location": "global",
-    "published": "Fri, 19 Sep 2025 18:09:50 +0000",
-    "source": "Al Jazeera",
+    "published": "2025-09-19T23:49:00Z",
+    "source": "Deutsche Welle",
     "sources": [
-      "Deutsche Welle",
       "Axios",
-      "Al Jazeera",
-      "Business Insider"
+      "CNBC",
+      "Deutsche Welle"
     ],
     "domains": [
-      "www.businessinsider.com",
+      "news.google.com",
       "www.dw.com",
-      "www.aljazeera.com",
-      "news.google.com"
+      "www.cnbc.com"
     ],
     "snippets": [
-      "Complaint not a &#039;megaphone for PR’, says Judge Merryday, who deemed long-winded content &#039;tedious and burdensome&#039;.",
       "A judge in Florida said the US president's defamation complaint against the newspaper was too long and full of personal invective. Trump has 28 days to file a new complaint.",
       "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE43NWRlLXFTU1hON0Z5T21JVEF6OVpJVlRwUy1yRnJFMlZVMWxQYkd6RGZqS3B5bDlVY2UtR3lyRXZuN1Q5c0piV1JGSmIxWUxYX3djTVBjaUlVdHN5RXl4MGVXQ2lpYzFOVFRsalE0d0ZZLVhuZTg3NUhZSQ?oc=5\" target=\"_blank\">Trump told to refile New York Times lawsuit judge dismissed a",
-      "Trump's defamation lawsuit against the New York Times was \"tedious\" and could be 45 pages shorter, a federal judge ruled."
+      "Judge Steven Merryday noted that Trump's defamation lawsuit against The New York Times \"consumes\" 85 pages."
     ],
     "image_url": "",
     "titles": [
-      "Federal judge dismisses Trump’s $15bn defamation lawsuit against NYT",
       "US judge tosses Trump's $15 billion New York Times lawsuit",
       "Trump told to refile New York Times lawsuit judge dismissed as too wordy - Axios",
-      "Judge tosses Trump's $15 billion lawsuit against The New York Times, saying it's too long"
+      "Trump says 'I'm winning' after judge tosses his $15 billion NY Times lawsuit"
     ],
     "score_components": {
-      "magnitude": 0.932,
-      "recency": 0.745,
-      "consensus": 0.908,
+      "magnitude": 0.867,
+      "recency": 0.711,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.752,
+    "score": 0.693,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "A US federal judge ruled that Donald Trump's defamation lawsuit against the New York Times was excessively long and filled with unnecessary personal attacks. The judge dismissed the complaint but gave Trump 28 days to submit a revised version that addresses these issues.",
@@ -444,255 +513,40 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "France, UK Among 11 Nations to Recognize Palestinian Statehood at UN Assembly",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sat, 20 Sep 2025 07:46:16 GMT",
-    "source": "BBC",
-    "sources": [
-      "Deutsche Welle",
-      "Al Jazeera",
-      "BBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.dw.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "A host of countries, including France and the UK, are expected to do the same when world leaders gather at the UN General Assembly next week.",
-      "Nine other countries, including France and the UK, also plan to recognise Palestinian statehood next week.",
-      "Despite widespread international recognition of Palestine as a state, some Western nations say they will only endorse Palestinian statehood as part of a comprehensive peace agreement with Israel. But the tide's changing."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a396/live/a223bb00-95e7-11f0-9cf6-cbf3e73ce2b9.png",
-    "titles": [
-      "Portugal confirms it will recognise Palestinian state",
-      "Portugal to recognise a Palestinian state",
-      "Which countries recognize Palestinian statehood?"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.969,
-      "consensus": 0.789,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.741,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "At the upcoming UN General Assembly, France, the UK, and nine other countries plan to recognize Palestinian statehood. This move comes despite some Western nations' stance of only endorsing Palestinian statehood within a comprehensive peace agreement with Israel, indicating a shift in international policy towards Palestine.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Phoenix Mercury Beats NY Liberty, Advances to WNBA Second Round",
+    "title": "Week 3 Fantasy Football Projections & Advice Released by SportsLine",
     "domain": "sports",
-    "source_domain": "www.cbssports.com",
+    "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Sat, 20 Sep 2025 05:54:56 +0000",
-    "source": "CBS Sports",
+    "published": "Sat, 20 Sep 2025 11:51:04 EST",
+    "source": "ESPN",
     "sources": [
-      "Forbes",
-      "CBS Sports",
-      "Sportsnet"
+      "ESPN",
+      "CBS Sports"
     ],
     "domains": [
-      "www.sportsnet.ca",
-      "www.forbes.com",
+      "www.espn.com",
       "www.cbssports.com"
     ],
     "snippets": [
-      "Phoenix overcame a heroic effort from New York's Breanna Stewart to advance to the semifinals",
-      "Phoenix Mercury edged the New York Liberty 79-73 in a physical Game 3, surviving late runs to advance in the WNBA playoffs. Here’s how they pulled it off.",
-      "<p>Alyssa Thomas had 20 points, 11 rebounds and 11 assists in her fifth career playoff triple-double, and the Phoenix Mercury advanced to the second round of the WNBA playoffs by eliminating the defending champion New York Liberty 79-73 in Game 3 on Friday night.</p>"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/20/5ae0ea7f-e2d9-4d48-b158-51b9709ecba3/091925-alyssathomas.jpg",
-    "titles": [
-      "Alyssa Thomas makes WNBA playoff history as Mercury eliminate defending champion Liberty",
-      "Mercury Eliminate Defending Champs Liberty With Gritty Game 3 Win",
-      "Thomas has triple-double as Mercury eliminate defending champion Liberty"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.952,
-      "consensus": 0.789,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.737,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Phoenix Mercury advanced to the second round of the WNBA playoffs by defeating the New York Liberty 79-73 in Game 3, eliminating the defending champions. Alyssa Thomas led Phoenix with a triple-double, scoring 20 points, grabbing 11 rebounds, and distributing 11 assists, marking her fifth career playoff triple-double. This victory came despite a strong effort from New York's Breanna Stewart.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: effort",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Sen. Cruz Compares FCC Chair's Comments on Kimmel to Mafia Threat",
-    "domain": "general",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Sat, 20 Sep 2025 02:47:33 GMT",
-    "source": "Axios",
-    "sources": [
-      "The Guardian",
-      "CNBC",
-      "Axios"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.cnbc.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5CMEVPcFd5TjZpeTJuM2NKc1lja29rZnU1Tl9qTVA4aVhWYlF0TzFacWdKWVc5bGdCV05Qcjc2M2dteVBOZ0lKNV9JazhXdzZzXzNuQlJKdHV4cmdUWW04eEVtYmViNmZVM3BqUi1UUFpTNldORUE2VFF0VQ?oc=5\" target=\"_blank\">Ted Cruz: MAGA \"will regret\" what it did to Jimmy Kimmel</a>&",
-      "Republican Sen. Ted Cruz of Texas sharply criticized Federal Communications Commission Chairman Brendan Carr over his comments related to Jimmy Kimmel.",
-      "<p>Texas senator says Brendan Carr’s threats to revoke licenses amid Jimmy Kimmel suspension ‘right out of Goodfellas’ </p><p>Senator Ted Cruz, a Texas Republican, compared Federal Communications Commission chair Brendan Carr’s threats to revoke the broadcast licenses of ABC stations over late-night"
+      "Do injuries have you seeking a late-week pickup? Need a defense to stream? These options have favorable setups.",
+      "SportsLine's model reveals its Week 3 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo"
     ],
     "image_url": "",
     "titles": [
-      "Ted Cruz: MAGA \"will regret\" what it did to Jimmy Kimmel - Axios",
-      "Ted Cruz compares FCC Chair Carr to Mafia boss in Jimmy Kimmel warnings",
-      "Ted Cruz compares threats to ABC by FCC chair to those of mob boss"
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.874,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.719,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Republican Senator Ted Cruz criticized FCC Chairman Brendan Carr for comments about Jimmy Kimmel, likening them to a threat reminiscent of a mafia movie. Cruz expressed concern over the implications of Carr's remarks, highlighting a serious disagreement within political circles.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Microsoft Raises Xbox Prices in US Due to Tariffs",
-    "domain": "technology",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Fri, 19 Sep 2025 19:37:08 GMT",
-    "source": "CNBC",
-    "sources": [
-      "Ars Technica",
-      "The Verge",
-      "CNBC"
-    ],
-    "domains": [
-      "arstechnica.com",
-      "www.theverge.com",
-      "www.cnbc.com"
-    ],
-    "snippets": [
-      "Many consumer companies have been warning for months that higher prices are on the way following President Trump's tariffs.",
-      "Microsoft is raising the prices of its Xbox Series S / X consoles in the US next month. The Xbox Series X will be priced at $649.99 in the US starting October 3rd, up from its existing $599.99 price. The Xbox Series S will move to $399.99, up from $379.99. Microsoft blames the price hikes [&#8230;]",
-      "Asking prices for some models are up 33 percent in less than a year."
-    ],
-    "image_url": "",
-    "titles": [
-      "Microsoft raises Xbox prices in U.S. due to economic environment",
-      "Microsoft is raising prices on Xbox consoles in the US again",
-      "Microsoft raises Xbox console prices for the second time this year"
-    ],
-    "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.753,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.701,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Following President Trump's tariffs, consumer companies warned of rising prices. Microsoft is increasing Xbox Series S / X prices in the US starting October 3rd, citing these tariffs. The Xbox Series X will go from $599.99 to $649.99, and the Series S from $379.99 to $399.99. This is part of a broader trend, with some product prices rising by up to 33% in less than a year.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Blue Jays' Berrios Moved to Bullpen After 20-1 Loss to Royals",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Sat, 20 Sep 2025 04:48:32 +0000",
-    "source": "Global News",
-    "sources": [
-      "Sportsnet",
-      "Global News"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "globalnews.ca"
-    ],
-    "snippets": [
-      "Toronto Blue Jays right-hander Jose Berrios is moving to the bullpen, manager John Schneider told reporters following Friday's 20-1 loss to the Kansas City Royals.",
-      "<p>Jose Berrios’ appearance in the Blue Jays’ bullpen on Friday wasn’t merely circumstantial, as John Schneider said the righty will be a relief option through the weekend and “going forward.”</p>"
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/bc489d5c8aea80fa26a4b42644ca8beefc90f3d2691d2df0d6c00f3fc162e83a.jpg?quality=65&strip=all",
-    "titles": [
-      "Blue Jays to move pitcher Jose Berrios to bullpen",
-      "Blue Jays moving Jose Berrios to bullpen going forward"
+      "🏈 Fantasy football: Week 3 last-minute pickups",
+      "Fantasy Football Rankings, sleepers, streamers, model cheat sheets for NFL Week 3, 2025 in PPR and standard"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.931,
+      "recency": 0.993,
       "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 1.0
+      "proximity": 0.75
     },
-    "score": 0.691,
+    "score": 0.679,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Following a 20-1 loss to the Kansas City Royals, Toronto Blue Jays manager John Schneider announced that right-hander Jose Berrios will be transitioning to the bullpen. Berrios, previously a starter, will serve as a relief option throughout the weekend and into the foreseeable future.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Canada Ends New Zealand's Reign with World Cup Semifinal Win",
-    "domain": "sports",
-    "source_domain": "www.theguardian.com",
-    "location": "global",
-    "published": "Fri, 19 Sep 2025 20:11:33 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "The Guardian",
-      "Sky Sports",
-      "Sportsnet"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "www.skysports.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "<ul><li><p>Semi-final: New Zealand 19-34 Canada</p></li><li><p>Six-times champions out after consecutive title wins</p></li></ul><p>Canada always had a good chance of beating New Zealand in their Rugby World Cup semi-final but no one anticipated the manner of the win as they dominated the defending ",
-      "Canada upset the odds to beat New Zealand 34-19 and secure their place in the Women's Rugby World Cup final.",
-      "<p>The Women&#8217;s Rugby World Cup will have a new queen. New Zealand&#8217;s eight-year reign as world champion was terminated by Canada in a stunning 34-19 semifinal victory in Bristol, England, on Friday.</p>"
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/f0e6bff4f703faa74bf0d6ab7174d7678e226b14/462_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4a967f72e786850b0c0fe116d59120a3",
-    "titles": [
-      "Clinical Canada end Black Ferns’ reign and book place in Rugby World Cup final",
-      "Canada stun New Zealand to reach Women's Rugby World Cup final",
-      "Canada stuns New Zealand, advances to first women’s Rugby World Cup final since 2014"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.762,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.689,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Canada defeated New Zealand 34-19 in the Women's Rugby World Cup semifinal, ending New Zealand's eight-year championship reign. This victory in Bristol, England, secures Canada's place in the Twickenham final, marking New Zealand's first loss in the tournament in 11 years.",
+    "summary": "SportsLine's model released Week 3 Fantasy football projections, PPR rankings, and start-sit advice for platforms including CBS Sports, ESPN, and Yahoo. It provides recommendations for late-week pickups and defensive streams based on favorable setups.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -705,8 +559,8 @@
     "published": "Sat, 20 Sep 2025 02:16:00 EST",
     "source": "ESPN",
     "sources": [
-      "Sportsnet",
-      "ESPN"
+      "ESPN",
+      "Sportsnet"
     ],
     "domains": [
       "www.sportsnet.ca",
@@ -723,13 +577,13 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.959,
+      "recency": 0.813,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 0.75
     },
-    "score": 0.682,
-    "summary_source": "gpt",
+    "score": 0.653,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The 2025 WNBA postseason has progressed to the semifinals, starting Sunday. With the completion of the opening round, all four remaining teams have faced significant challenges, ensuring that a new champion will be crowned this season.",
     "constructiveness_score": 0.1,
@@ -737,354 +591,352 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Lesnar Defeats Graves, Sets Stage for Wrestlepalooza 2025 Main Event",
+    "title": "CBS Experts Offer Predictions for Maryland vs. Wisconsin Game",
     "domain": "sports",
-    "source_domain": "www.espn.com",
+    "source_domain": "www.cbssports.com",
     "location": "national",
-    "published": "Fri, 19 Sep 2025 23:54:22 EST",
-    "source": "ESPN",
+    "published": "Sat, 20 Sep 2025 15:05:00 +0000",
+    "source": "CBS Sports",
     "sources": [
-      "Forbes",
-      "ESPN"
+      "Yahoo Sports",
+      "CBS Sports"
     ],
     "domains": [
-      "www.forbes.com",
-      "www.espn.com"
+      "www.behindthesteelcurtain.com",
+      "www.cbssports.com"
     ],
     "snippets": [
-      "SmackDown's go-home show sets up a perfect main event for Saturday's Wrestlepalooza in Indianapolis.",
-      "WWE SmackDown results, winners and grades on the go-home show for WWE Wrestlepalooza 2025 as Brock Lesnar destroys Corey Graves."
+      "Find best bets and props for the biggest games in sports on Saturday from the SportsLine Projection Model and top CBS Sports experts",
+      "The Maryland Terrapins take on the Wisconsin Badgers in Week 4 of the college football season on Saturday",
+      "Hang out at BTSC for another college football Saturday."
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/06/beb067e8-5ad7-4a1e-bb8f-88d2bc0445ec/john-mateer-cbs.jpg",
     "titles": [
-      "WWE SmackDown takeaways: Contracts for Wrestlepalooza signed",
-      "WWE SmackDown Results, Winners And Grades Ahead Of Wrestlepalooza 2025"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.913,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.67,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "On the final SmackDown episode before WWE Wrestlepalooza 2025 in Indianapolis, Brock Lesnar defeated Corey Graves, setting up a highly anticipated main event for the upcoming Saturday's Wrestlepalooza.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Global Ocean Protection Treaty to Take Effect in 2026",
-    "domain": "science",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Sat, 20 Sep 2025 07:28:35 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Phys.org",
-      "Al Jazeera"
-    ],
-    "domains": [
-      "phys.org",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "World&#039;s first-ever pact aims to fight threats like climate change, over-fishing and deep-sea mining.",
-      "A multinational treaty to protect vast expanses of the world's oceans is finally set to become law in January 2026, with environmentalists hailing its enactment Friday as crucial to safeguarding the marine ecosystems."
-    ],
-    "image_url": "",
-    "titles": [
-      "First treaty to protect marine life in high seas to take effect in January",
-      "International treaty protecting world's oceans to take effect"
+      "Today's top games to watch, best bets, odds: College football Week 4, Astros-Mariners and more",
+      "Wisconsin vs. Maryland: Where to watch college football Week 4, betting odds, picks, promos for Saturday",
+      "Saturday college football open thread: Week 4"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.984,
+      "recency": 0.977,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.652,
+    "score": 0.65,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "A historic multinational treaty designed to combat climate change, over-fishing, and deep-sea mining, aimed at protecting the world's oceans, will officially become law in January 2026. Environmentalists have praised its enactment as a vital step in preserving marine ecosystems.",
+    "summary": "The SportsLine Projection Model and top CBS Sports experts are offering predictions for the biggest games in sports on Saturday, including the Week 4 college football matchup between the Maryland Terrapins and the Wisconsin Badgers. Fans are invited to follow the event at BTSC for a comprehensive college football Saturday experience.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Reforms Legal Migration, Prioritizes Wealthy Workers",
-    "domain": "business",
-    "source_domain": "www.ft.com",
-    "location": "global",
-    "published": "Sat, 20 Sep 2025 04:00:09 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times",
-      "Financial Post"
-    ],
-    "domains": [
-      "www.ft.com",
-      "financialpost.com"
-    ],
-    "snippets": [
-      "Ageing societies seeking to preserve living standards will continue to rely on new arrivals — but governments can be clearer about the trade-offs",
-      "President Donald Trump took his most extensive step yet toward overhauling the US legal migration system, with a pair of proclamations that explicitly favor the wealthiest of the world’s prospective expat workers."
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76018def-6cdb-46ba-8d23-f987b6595864.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "The truth about immigration",
-      "Trump Shapes Gilded Age of US Immigration With $100,000 H-1B Fee"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.896,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.641,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "President Donald Trump has significantly moved towards reforming the US legal migration system with two proclamations that prioritize wealthy expat workers. This approach underscores the ongoing reliance of ageing societies on new arrivals to maintain living standards, highlighting the need for governments to be transparent about the implications of such policies.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "FCC Chair's Actions Spark Free Speech Concerns Among Late-Night Hosts",
-    "domain": "business",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Fri, 19 Sep 2025 13:27:58 -0400",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "Business Insider"
-    ],
-    "domains": [
-      "www.businessinsider.com",
-      "www.npr.org"
-    ],
-    "snippets": [
-      "In the eight months since becoming chair of the Federal Communications Commission, Brendan Carr has waged war against the free speech of those who have reported on, criticized, or satirized the president.",
-      "Jimmy Kimmel's suspension has provoked dread in the late-night world. Hollywood writers rallied against Disney and Trump.",
-      "Stephen Colbert, Jon Stewart, Seth Meyers, Jimmy Fallon, and Conan O'Brien have all weighed in on Kimmel's suspension."
-    ],
-    "image_url": "",
-    "titles": [
-      "Jimmy Kimmel's suspension shows power of FCC's Brendan Carr",
-      "Jimmy Kimmel's suspension spreads fear through late-night TV about more targets",
-      "Late-night hosts reacted to Jimmy Kimmel's suspension with the sharpest tools in their kit: comedy and defiance"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.735,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.634,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Since becoming FCC chair 8 months ago, Brendan Carr has taken actions perceived as limiting free speech, particularly targeting critics of the president. This has led to the suspension of Jimmy Kimmel, causing concern among late-night hosts and Hollywood writers. Figures like Stephen Colbert, Jon Stewart, Seth Meyers, Jimmy Fallon, and Conan O'Brien have publicly addressed the issue.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Trump Administration Strikes Deal to Keep TikTok Operating in U.S.",
-    "domain": "business",
-    "source_domain": "www.marketwatch.com",
-    "location": "global",
-    "published": "Fri, 19 Sep 2025 21:08:00 GMT",
-    "source": "MarketWatch",
-    "sources": [
-      "MarketWatch",
-      "TechCrunch"
-    ],
-    "domains": [
-      "techcrunch.com",
-      "www.marketwatch.com"
-    ],
-    "snippets": [
-      "Here’s the latest on the Trump administration’s agreement with China on TikTok.",
-      "The two countries have been working on a way to save TikTok's U.S. business, after TikTok was banned in January over national security concerns."
-    ],
-    "image_url": "https://images.mktw.net/im-23387648",
-    "titles": [
-      "Trump touts TikTok deal but doesn’t address fear that China ‘retains a veto’",
-      "Trump and ByteDance tout TikTok deal approval, but no official details yet"
-    ],
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.777,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.624,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The Trump administration reached an agreement with China to preserve TikTok's operations in the U.S. This deal comes after the app was banned in January due to national security concerns.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "ACIP Votes Against Prescription Requirement for Covid-19 Vaccines",
-    "domain": "science",
-    "source_domain": "www.wired.com",
-    "location": "global",
-    "published": "Fri, 19 Sep 2025 21:39:56 +0000",
-    "source": "Wired",
-    "sources": [
-      "MarketWatch",
-      "Wired"
-    ],
-    "domains": [
-      "www.wired.com",
-      "www.marketwatch.com"
-    ],
-    "snippets": [
-      "In a chaotic meeting, ACIP voted not to recommend a prescription requirement for Covid-19 vaccines. Some panelists seemed unaware of the point of the meeting, while others went on strange tangents.",
-      "The government declined to provide a recommendation, saying individuals should decide whether to get the vaccine."
-    ],
-    "image_url": "https://media.wired.com/photos/68ca927739bdb01e906d623c/master/pass/GettyImages-2233024834.jpg",
-    "titles": [
-      "RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots",
-      "COVID-19 vaccine recommendations dropped by panel, shots won’t require a prescription"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.802,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.622,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "During a disorganized ACIP meeting, the panel voted against recommending a prescription requirement for Covid-19 vaccines. Confusion and off-topic discussions marked the session. The government stated that the decision to get vaccinated should be left to individuals, effectively not issuing a formal recommendation.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Disney, ABC Criticized for Benching Kimmel After FCC Pressure",
-    "domain": "business",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Fri, 19 Sep 2025 21:43:12 GMT",
-    "source": "CNBC",
-    "sources": [
-      "Fortune",
-      "CNBC"
-    ],
-    "domains": [
-      "fortune.com",
-      "www.cnbc.com"
-    ],
-    "snippets": [
-      "Disney and ABC have faced criticism for bowing to pressure from Federal Communications Commission Chairman Brendan Carr in benching Jimmy Kimmel.",
-      "\"If not for university presidents, law firm managing partners and corporate chief executives standing up to bullies, then who will step up for the First Amendment?”"
-    ],
-    "image_url": "",
-    "titles": [
-      "Former Disney CEO Eisner backs Jimmy Kimmel, blasts FCC 'intimidation' of ABC",
-      "‘Where has all the leadership gone?’: Former Disney CEO Michael Eisner blasts Kimmel suspension"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.786,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.612,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Disney and ABC received criticism for succumbing to pressure from FCC Chairman Brendan Carr, leading to the benching of Jimmy Kimmel. Critics argue this move undermines First Amendment rights, questioning who will defend free speech if not influential leaders.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "ABC Suspends \"Jimmy Kimmel Live!\" Amid Controversy, Criticism from Eisner",
-    "domain": "business",
-    "source_domain": "www.forbes.com",
-    "location": "global",
-    "published": "Fri, 19 Sep 2025 16:08:48 -0400",
-    "source": "Forbes",
-    "sources": [
-      "Forbes",
-      "The Verge"
-    ],
-    "domains": [
-      "www.theverge.com",
-      "www.forbes.com"
-    ],
-    "snippets": [
-      "“Jimmy Kimmel Live!” was removed from the air by ABC and broadcasters this week after Kimmel made comments about conservative activist Charlie Kirk and Trump supporters in a show monologue.",
-      "Michael Eisner, Disney's former CEO who ran the company for 21 years and oversaw its acquisition of ABC in 1995, does not think his successor, Bob Iger, made the right decision in moving to put Jimmy Kimmel Live! on indefinite pause following threats from Trump-appointed FCC chairman Brendan Carr. I"
-    ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68cdb8074c95d39f532fa0f5/0x0.jpg?width=960&precrop=3140%2C2094%2Cx0%2Cy0",
-    "titles": [
-      "Ex-Disney Chief Blasts Current Leadership And FCC For ‘Out-Of-Control Intimidation’ After Kimmel’s Removal",
-      "Ex-Disney CEO Michael Eisner calls the FCC’s threats ‘out-of-control intimidation’"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.777,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.61,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "ABC pulled \"Jimmy Kimmel Live!\" off the air after Jimmy Kimmel made remarks about Charlie Kirk and Trump supporters in a monologue. Former Disney CEO Michael Eisner criticized current CEO Bob Iger's decision to indefinitely pause the show following threats from Trump-appointed FCC chairman Brendan Carr.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Cardi B Drops 'Am I the Drama?' Album, Addresses Divorce and Feuds",
-    "domain": "business",
+    "title": "Verstappen Secures Pole in Record Six-Red-Flag Azerbaijan GP Qualifying",
+    "domain": "sports",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Fri, 19 Sep 2025 16:30:26 GMT",
+    "published": "Sat, 20 Sep 2025 15:01:36 GMT",
     "source": "BBC",
     "sources": [
-      "Forbes",
+      "Yahoo Sports",
       "BBC"
     ],
     "domains": [
-      "www.bbc.com",
-      "www.forbes.com"
+      "www.bbc.com"
     ],
     "snippets": [
-      "The US rapper references her 2024 divorce and a beef with another female rapper on Am I The Drama?",
-      "After seven years, Cardi B has returned with her long-awaited sophomore album, 'Am I the Drama?'"
+      "Max Verstappen takes pole position after an extraordinary qualifying session featuring a record six red flags at the Azerbaijan Grand Prix.",
+      "Max Verstappen takes pole position after an extraordinary qualifying session featuring a record six red flags at the Azerbaijan Grand Prix."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cad/live/cbc39870-9549-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c37/live/e61bc970-9631-11f0-baf3-df7955adb839.jpg",
     "titles": [
-      "Settling old scores and creating new drama - Cardi B releases first album in seven years",
-      "Cardi B Asks ‘Am I The Drama?’ On New Album"
+      "Verstappen takes Baku pole after record six red flags",
+      "Verstappen takes pole after record six red flags"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.705,
+      "magnitude": 0.755,
+      "recency": 0.956,
+      "consensus": 0.571,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.648,
+    "summary_source": "snippet",
+    "summary_reason": "retry_exhausted",
+    "summary": "Max Verstappen takes pole position after an extraordinary qualifying session featuring a record six red flags at the Azerbaijan Grand Prix.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Ukraine Targets Russian Refineries in Drone Strikes, Aims to Curb Oil Exports",
+    "domain": "business",
+    "source_domain": "www.forbes.com",
+    "location": "global",
+    "published": "Sat, 20 Sep 2025 04:49:00 -0400",
+    "source": "Forbes",
+    "sources": [
+      "Financial Post",
+      "Forbes"
+    ],
+    "domains": [
+      "www.forbes.com",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "Ukraine’s strikes on Russian refineries coupled with Russia’s costly, ineffective offensive give Kyiv leverage for future peace negotiations.",
+      "Ukraine claimed drone strikes that damaged energy infrastructure deep within Russian territory on Saturday, the latest of a series of attacks aimed at denting export revenues and stemming the flow of oil."
+    ],
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68ce6a2e6683c37554d5dee0/0x0.jpg?width=960",
+    "titles": [
+      "Ukraine Gains Leverage With Strikes On Russian Refineries",
+      "Ukraine’s Drones Target Russian Refineries, Pumping Stations"
+    ],
+    "score_components": {
+      "magnitude": 0.795,
+      "recency": 0.858,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.596,
+    "score": 0.648,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Cardi B released her second album, 'Am I the Drama?', marking her return to music after seven years. In it, she discusses her 2024 divorce and conflicts with another female rapper.",
+    "summary": "Ukraine conducted drone strikes on Russian refineries, damaging energy infrastructure. This action is part of a series of attacks targeting Russia's oil exports and revenue. Coupled with Russia's expensive, ineffective offensive, these strikes provide Kyiv with leverage for potential future peace negotiations.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "WWE Wrestlepalooza 2025 Debuts on ESPN, Features AJ Lee's Return",
+    "domain": "business",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Sat, 20 Sep 2025 14:00:50 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Forbes",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.forbes.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "WWE kicks off a new era on Saturday night with a massive slate on tap in Indiana",
+      "WWE is set for its first PPV event on ESPN later this month",
+      "What time does WWE Wrestlepalooza start? Where can you stream Wrestlepalooza through ESPN with or without a cable provider?",
+      "WWE WrestlePalooza 2025 match card, start time and betting odds as AJ Lee returns to the ring and Brock Lesnar faces John Cena.",
+      "AEW All Out 2025 start time, match card, odds and where to stream the early Toronto PPV as AEW goes head-to-head with Wrestlepalooza."
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/16/a249d9b4-25bd-4231-9b46-045a10836b8c/john-cena-getty.jpg",
+    "titles": [
+      "WWE Wrestlepalooza 2025 predictions, card, start time, matches, expert picks, date for event in Indianapolis",
+      "WWE Wrestlepalooza 2025: Card, date, matches, rumors, start time, location as John Cena headlines debut event",
+      "WWE Wrestlepalooza 2025 Start Time, Match Card And Where To Stream",
+      "WWE WrestlePalooza 2025 Match Card, Start Time And Odds",
+      "AEW All Out 2025 Start Time, Match Card, Odds And Where To Stream"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.956,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.646,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "WWE is launching a new era with Wrestlepalooza 2025, featuring AJ Lee's return and a match between Brock Lesnar and John Cena. The event starts on Saturday night in Indiana and will be the first WWE PPV available on ESPN. Fans can stream it with or without a cable provider. Concurrently, AEW All Out 2025 will also take place, presenting a competitive lineup in Toronto, available for streaming on specified platforms.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Microsoft Raises Xbox Prices in US Due to Tariffs",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Fri, 19 Sep 2025 19:37:08 GMT",
+    "source": "CNBC",
+    "sources": [
+      "Ars Technica",
+      "CNBC"
+    ],
+    "domains": [
+      "arstechnica.com",
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "Many consumer companies have been warning for months that higher prices are on the way following President Trump's tariffs.",
+      "Asking prices for some models are up 33 percent in less than a year."
+    ],
+    "image_url": "",
+    "titles": [
+      "Microsoft raises Xbox prices in U.S. due to economic environment",
+      "Microsoft raises Xbox console prices for the second time this year"
+    ],
+    "score_components": {
+      "magnitude": 0.775,
+      "recency": 0.638,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.597,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Following President Trump's tariffs, consumer companies warned of rising prices. Microsoft is increasing Xbox Series S / X prices in the US starting October 3rd, citing these tariffs. The Xbox Series X will go from $599.99 to $649.99, and the Series S from $379.99 to $399.99. This is part of a broader trend, with some product prices rising by up to 33% in less than a year.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Kane's Hat-Trick Powers Bayern to 4-1 Win Over Hoffenheim",
+    "domain": "sports",
+    "source_domain": "www.bbc.com",
+    "location": "national",
+    "published": "Sat, 20 Sep 2025 15:46:22 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "Yahoo Sports"
+    ],
+    "domains": [
+      "onefootball.com",
+      "www.bbc.com"
+    ],
+    "snippets": [
+      "Harry Kane scores his second hat-trick of the season as Bayern Munich overcome a shaky start to win at Hoffenheim.",
+      "Harry Kane was the star of the show as Bayern Munich ran out 4-1 winners at Hoffenheim, the English forward scoring a hat-trick to maintain Bayern’s perfect start in the Bundesliga.Vincent Kompany m..."
+    ],
+    "image_url": "",
+    "titles": [
+      "Kane scores hat-trick as Bayern win at Hoffenheim",
+      "Harry Kane’s hat-trick fires Bayern to 4-1 win"
+    ],
+    "score_components": {
+      "magnitude": 0.373,
+      "recency": 0.991,
+      "consensus": 0.37,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.471,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Harry Kane scored a hat-trick, leading Bayern Munich to a 4-1 victory over Hoffenheim. This marks Kane's second hat-trick of the season, contributing to Bayern's continued perfect start in the Bundesliga.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "\"Tulsa King\" Season 3 Premieres; Farm Aid 40 Concert This Weekend",
+    "domain": "business",
+    "source_domain": "www.forbes.com",
+    "location": "global",
+    "published": "Sat, 20 Sep 2025 08:00:02 -0400",
+    "source": "Forbes",
+    "sources": [
+      "Forbes"
+    ],
+    "domains": [
+      "www.forbes.com"
+    ],
+    "snippets": [
+      "\"Tulsa King,\" Sylvester Stallone’s crime drama created by Taylor Sheridan, returns this weekend with Season 3. What time does the new season begin streaming on Paramount+?",
+      "Farm Aid 40, featuring such music icons as Willie Nelson, Bob Dylan, Neil Young and John Mellencamp in a fundraising concert for America’s farmers, is Saturday. What time does the event get underway and where can you watch it on TV and streaming?"
+    ],
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68ce53c17e9e7840755afd3b/0x0.jpg?width=960",
+    "titles": [
+      "What Time Does Sylvester Stallone’s ‘Tulsa King’ Season 3 Begin? How To Watch",
+      "What Time Does Farm Aid 40 Begin? How To Watch On Streaming And TV"
+    ],
+    "score_components": {
+      "magnitude": 0.393,
+      "recency": 0.916,
+      "consensus": 0.35,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.468,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "\"Tulsa King,\" starring Sylvester Stallone, debuts its third season on Paramount+ this weekend. Meanwhile, Farm Aid 40, with Willie Nelson, Bob Dylan, Neil Young, and John Mellencamp, will support American farmers in a concert on Saturday. Both events' specific start times and streaming details were not provided.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: support",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "SportsLine Releases College Football Picks for Sept 20 at FanDuel",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Sat, 20 Sep 2025 15:47:02 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "SportsLine's model reveals its top college football picks and predictions on Saturday at FanDuel Sportsbook",
+      "SportsLine's model reveals its top college football best bets for Saturday, September 20"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/20/8a2f42ba-f4ee-4619-91a0-4473c9eede08/jackson-arnold-cbs-5.jpg",
+    "titles": [
+      "Use FanDuel promo code on Saturday: Get $300 bonus bets by backing Michigan vs. Nebraska, Illinois vs. Indiana",
+      "Use DraftKings promo code for Saturday best bets: Get $200 in bonus bets by backing Notre Dame, Michigan"
+    ],
+    "score_components": {
+      "magnitude": 0.373,
+      "recency": 0.992,
+      "consensus": 0.35,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.466,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "SportsLine's model has released its top college football picks and predictions for Saturday, September 20, available at FanDuel Sportsbook. These selections are based on the model's analysis for the day's games.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Shopper Finds Savings at Aldi; Costly Mistakes Ruin Vienna Trip",
+    "domain": "business",
+    "source_domain": "www.businessinsider.com",
+    "location": "global",
+    "published": "2025-09-20T12:37:02Z",
+    "source": "Business Insider",
+    "sources": [
+      "Business Insider"
+    ],
+    "domains": [
+      "www.businessinsider.com"
+    ],
+    "snippets": [
+      "My first trip to Aldi in decades surprised me. I loved the savings on groceries like eggs and milk, and it's become my new go-to grocery store.",
+      "During my 48-hour trip to Vienna, I made mistakes that cost me time, money, and sleep. It started with an overnight train ride."
+    ],
+    "image_url": "https://i.insider.com/68c04e1e57d362d375e7ced9?format=jpeg",
+    "titles": [
+      "I went to Aldi for the first time in 40 years. I was impressed by how far my money could go.",
+      "I went to Vienna for the first time. 4 mistakes drained my energy and bank account."
+    ],
+    "score_components": {
+      "magnitude": 0.373,
+      "recency": 0.928,
+      "consensus": 0.35,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.454,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A shopper revisited Aldi after decades and was pleasantly surprised by the savings on groceries, making it their preferred store. Meanwhile, another person's 48-hour trip to Vienna was marred by costly mistakes, including a problematic overnight train ride, leading to lost time, money, and sleep.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
