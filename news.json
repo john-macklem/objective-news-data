@@ -1,5 +1,60 @@
 [
   {
+    "title": "Dallas ICE Facility Shooting Leaves One Dead, Several Injured",
+    "domain": "business",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Wed, 24 Sep 2025 09:17:59 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "ABC News",
+      "Deutsche Welle",
+      "Axios",
+      "Forbes",
+      "Global News"
+    ],
+    "domains": [
+      "www.dw.com",
+      "www.forbes.com",
+      "abcnews.go.com",
+      "news.google.com",
+      "globalnews.ca",
+      "www.npr.org"
+    ],
+    "snippets": [
+      "Authorities are investigating a shooting Wednesday at an immigration detention facility in Dallas. The Department of Homeland Security says there is at least one fatality, and a suspect has died.",
+      "US Homeland Security Secretary Kristi Noem said that the shooter is dead from a self-inflicted gunshot wound. The motive of the attack is still unclear.",
+      "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE54X1N4YjVLWDZFT3AtdW43eWlfY1Y2dHR3Q2trUk02S0t5TE1NYjB3VC1UdFJOTVBXRzU3MF9raUJqNC13WEszQ2R6NkhXX3daM0NZM3hnQS1laTI0ODA4aGFVU185clZ3Y0toOFBtSUc0Ymp6RXgwT3hB?oc=5\" target=\"_blank\">Multiple injured in shooting at Dallas ICE facility</a>&nbsp;&n",
+      "At least three people were shot at the Dallas Immigration and Customs Enforcement field office on Wednesday morning.",
+      "A shooting has been reported by officials at an ICE detention facility in Dallas, with \"multiple\" people shot and the alleged shooter is dead.",
+      "The suspected shooter died from  a self-inflicted gunshot wound, Homeland Security Sec. Kristi Noem said."
+    ],
+    "image_url": "",
+    "titles": [
+      "Shooting at ICE detention facility in Dallas kills 1, injures 2 others",
+      "Texas: Several wounded in shooting at ICE facility in Dallas",
+      "Multiple injured in shooting at Dallas ICE facility - Axios",
+      "3 detainees shot, 1 fatally, at Dallas ICE facility; FBI says shooting was targeted",
+      "‘Multiple’ people shot, shooter dead at ICE facility in Dallas, official says",
+      "One Killed, Two Injured After Shooting At Dallas ICE Facility"
+    ],
+    "score_components": {
+      "magnitude": 0.986,
+      "recency": 0.94,
+      "consensus": 1.0,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.858,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A shooting at a Dallas ICE detention facility on Wednesday resulted in at least one fatality and multiple injuries. The Department of Homeland Security confirmed the incident, stating the suspected shooter is dead from a self-inflicted gunshot wound. Homeland Security Secretary Kristi Noem announced the outcome, but the motive behind the attack remains unclear.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
     "title": "Super Typhoon Ragasa Kills 21, Causes Widespread Damage in Asia",
     "domain": "general",
     "source_domain": "www.npr.org",
@@ -7,49 +62,43 @@
     "published": "Wed, 24 Sep 2025 04:57:28 -0400",
     "source": "NPR",
     "sources": [
-      "Al Jazeera",
+      "NPR",
       "The Guardian",
-      "New York Times",
+      "Al Jazeera",
       "Washington Post",
-      "BBC",
-      "NPR"
+      "New York Times"
     ],
     "domains": [
-      "www.theguardian.com",
-      "www.aljazeera.com",
-      "www.washingtonpost.com",
-      "www.bbc.com",
       "www.nytimes.com",
+      "www.theguardian.com",
+      "www.washingtonpost.com",
+      "www.aljazeera.com",
       "www.npr.org"
     ],
     "snippets": [
       "Typhoon Ragasa whipped waves taller than lampposts onto Hong Kong promenades and turned seas rough on the southern Chinese coast after leaving deadly destruction in Taiwan and the Philippines.",
-      "A person was swept off their feet as water burst into the building.",
       "At least 14 people were killed in Taiwan after landslides and floods triggered by Super Typhoon Ragasa.",
-      "<p>Nearly 2m people have been evacuated in southern powerhouse of Guangdong as it braces for storm</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/sep/24/super-typhoon-ragasa-update-path-hong-kong-taiwan-china\">Ragasa: 17 killed in Taiwan as storm batters Hong Kong</a></p></li><li><p><",
-      "<p>Chinese businesses and schools shut and residents in high-rises ordered to evacuate as storm forecast to make landfall along Guangdong coast</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/sep/24/typhoon-ragasa-live-china-hong-kong-taiwan-philippines-latest-storm-news-updates\">",
+      "<p>Chinese businesses and schools shut and residents in high-rises ordered to evacuate as storm makes landfall on Guangdong coast</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/sep/24/typhoon-ragasa-live-china-hong-kong-taiwan-philippines-latest-storm-news-updates\">Super Typhoon ",
       "Almost 2 million people were evacuated across southern China as the world’s strongest typhoon this year continued its deadly rampage in Asia.",
       "One million residents of Guangdong, in southern China, were evacuated before the powerful storm made landfall on Wednesday. At least 21 people have been killed along its path this week."
     ],
     "image_url": "",
     "titles": [
       "Typhoon Ragasa batters Hong Kong and southern China",
-      "Watch: Water shatters doors of Hong Kong hotel as typhoon batters region",
       "Super Typhoon Ragasa leaves destruction in Taiwan, Hong Kong, China",
-      "Typhoon Ragasa live: deadly cyclone makes landfall in China after devastating Hong Kong, Taiwan and Philippines",
-      "Super Typhoon Ragasa: 17 killed in Taiwan and Hong Kong battered as storm moves towards China",
-      "Super Typhoon Ragasa kills 14 in Taiwan, causes mayhem in southern China",
+      "Super Typhoon Ragasa: 17 killed in Taiwan and Hong Kong battered as storm hits China",
+      "Super Typhoon Ragasa kills 17 in Taiwan, causes mayhem in southern China",
       "Typhoon Ragasa Slams Into China After Deaths in Taiwan and the Philippines"
     ],
     "score_components": {
-      "magnitude": 0.986,
-      "recency": 0.935,
-      "consensus": 1.0,
+      "magnitude": 0.944,
+      "recency": 0.859,
+      "consensus": 0.995,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.857,
-    "summary_source": "gpt",
+    "score": 0.826,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Super Typhoon Ragasa caused deadly destruction across Asia, including Taiwan, the Philippines, and southern China. In Taiwan, at least 17 people were killed due to landslides and floods. Nearly 2 million people were evacuated in Guangdong, China, in anticipation of the storm, which also led to the closure of businesses and schools. The typhoon, described as the world's strongest this year, has resulted in at least 21 deaths along its path.",
     "constructiveness_score": 0.0,
@@ -57,53 +106,137 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Revises Stance on Ukraine, Backs Territory Reclaim with NATO Support",
-    "domain": "business",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Tue, 23 Sep 2025 16:57:42 -0400",
-    "source": "NPR",
+    "title": "Flotilla to Gaza Reports Drone Attacks, Continues Mission Despite Threats",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 15:42:31 GMT",
+    "source": "BBC",
     "sources": [
+      "BBC",
       "Deutsche Welle",
-      "The Guardian",
       "New York Times",
-      "Axios",
-      "CNBC",
-      "NPR"
+      "The Guardian"
     ],
     "domains": [
-      "news.google.com",
-      "www.theguardian.com",
-      "www.nytimes.com",
-      "www.cnbc.com",
       "www.dw.com",
-      "www.npr.org"
+      "www.bbc.com",
+      "www.nytimes.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "Last month, President Trump said Ukraine needed to be open to giving up some of its territory in peace talks with Russia. But those talks haven't happened. Now, he says Ukraine could win it all back.",
-      "US President Donald Trump said that with \"time, patience, and the financial support of Europe and, in particular, NATO,\" Ukraine could regain its territory from Russia, who he said had been fighting \"aimlessly.\"",
-      "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9ISERQbzZDaV96TXlsaXZ6NG1keUdBMnU2OTY2Rmw0SHVpdWxBZUoySUszSF9XWmFmSEdTYXdLMVRDM3p1RENCSjJyX1RQdkxQNjV3OTNnTW5EZEFSdUZxQU5UU0c1bERMSTJBd3REQlJxLW9mWWswbm1n?oc=5\" target=\"_blank\">In extraordinary shift, Trump says Ukraine can win war with Rus",
+      "Italy's defence minister directs a navy vessel to assist the flotilla's boats after what he says was a drone attack by unidentified perpetrators off Crete.",
+      "Italy has sent a naval frigate to a flotilla of boats attempting to bring aid to the Gaza Strip. Activists, lawmakers and journalists in the convoy said drones attacked some of their boats.",
+      "The vessels were aiming to deliver humanitarian aid to Gaza. The Israelis have asked that the aid be given to them to distribute.",
+      "<p>The Global Sumud Flotilla said they would ‘not be intimidated’, after third report of drone attacks this month</p><p>Organisers of a Gaza-bound flotilla carrying aid and pro-Palestinian activists have reported explosions and multiple drones that targeted some of their boats, currently situated ne"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f062/live/594bd320-9945-11f0-b42e-f379dfea869d.jpg",
+    "titles": [
+      "Italy condemns 'drone attack' on Gaza aid flotilla and deploys frigate",
+      "Italy sends naval vessel to help Gaza aid flotilla",
+      "Aid Flotilla Headed for Gaza Says It’s Under Drone Attack",
+      "Explosions and drones targeting Gaza aid flotilla boats, activists say"
+    ],
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.968,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.783,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Activists aboard the Global Sumud Flotilla, heading to Gaza with humanitarian aid, reported experiencing drone attacks and hearing explosions late Tuesday. This marks the third such incident this month. Despite these events, the organizers have stated they will not be intimidated. The Israeli authorities have requested that the aid intended for Gaza be handed over to them for distribution. The current status of the flotilla and its mission remains unchanged, continuing towards its destination.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Man Arrested in West Sussex Over Airport Delays Incident",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 11:53:42 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "Deutsche Welle",
+      "Global News",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.dw.com",
+      "www.bbc.com",
+      "www.theguardian.com",
+      "globalnews.ca"
+    ],
+    "snippets": [
+      "The National Crime Agency (NCA) said a man in his forties was arrested in West Sussex.",
+      "British authorities detained a man in his 40s over a series of cyberattacks that grounded flights at major European airports. Such attacks against transport hubs are on the rise.",
+      "<p>Man in West Sussex was held as part of investigation into last weekend’s incident affecting Collins Aerospace</p><p>A man has been arrested in the UK in connection with the <a href=\"https://www.theguardian.com/business/2025/sep/21/delays-continue-at-heathrow-brussels-and-berlin-airports-after-all",
+      "The cyberattack affected the software of Collins Aerospace at several European airports, as passengers faced dozens of cancelled and delayed flights."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a132/live/f7b9e9a0-9938-11f0-869a-3fa4ad43e8ee.jpg",
+    "titles": [
+      "Man arrested in connection with cyber-attack on airports",
+      "Suspect arrested in the UK over airport cyberattacks",
+      "UK arrest over cyberattack that hit Heathrow and European airports",
+      "Man arrested in connection with cyberattack that affected European airports"
+    ],
+    "score_components": {
+      "magnitude": 0.912,
+      "recency": 0.894,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.775,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "A man in his forties was arrested in West Sussex by the National Crime Agency as part of an investigation into an incident last weekend that impacted Collins Aerospace, causing delays at Heathrow, Brussels, and Berlin airports.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Trump Revises Stance on Ukraine, Backs Territory Reclaim with NATO Support",
+    "domain": "business",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 13:03:12 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "New York Times",
+      "CNBC"
+    ],
+    "domains": [
+      "www.cnbc.com",
+      "www.nytimes.com",
+      "www.aljazeera.com"
+    ],
+    "snippets": [
+      "US President Donald Trump has said he believes Ukraine can reclaim all the territory lost to Russia.",
       "Ukrainian President Volodymyr Zelenskyy has welcomed U.S. President Donald Trump's latest comments.",
-      "<p>US president claims Russia is in ‘big economic trouble’ as he calls for Nato countries to stop imports of Russian oil</p><p>Donald Trump has said he believes Ukraine can regain all the land that it has lost since the 2022 Russian invasion in one of the strongest statements of support he has given",
+      "At the United Nations, Trump lectured world leaders — then later abandoned his insistence that Ukraine give up land for a peace deal.",
       "President Trump’s pivot could give him room to distance himself from a conflict that he once promised to solve in days or weeks."
     ],
     "image_url": "",
     "titles": [
-      "Trump, in major shift, suggests Ukraine can win back territory long held by Russia",
-      "Trump says Ukraine can regain territory lost to Russia since 2022",
-      "In extraordinary shift, Trump says Ukraine can win war with Russia - Axios",
+      "Trump signals major shift on Ukraine war and taking back territory",
       "Defense stocks rally as Trump, in a major shift, says Ukraine can win back territory from Russia",
-      "Trump says he believes Ukraine can regain all land lost to Russia since 2022 invasion",
+      "A Speech and a Shift on Ukraine",
       "In a Sudden Shift, Trump Says Ukraine Can Win the War With Russia"
     ],
     "score_components": {
-      "magnitude": 1.0,
-      "recency": 0.728,
-      "consensus": 1.0,
+      "magnitude": 0.907,
+      "recency": 0.936,
+      "consensus": 0.789,
       "constructiveness": 0.2,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.841,
+    "score": 0.772,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "President Trump has shifted his stance on the conflict between Ukraine and Russia, now stating that Ukraine can reclaim its territory with support from NATO and Europe. This marks a significant change from his previous position, where he suggested both Kyiv and Moscow might need to cede land to end the conflict. Trump's updated view aligns with increased assistance for Ukraine and suggests a strategic distance from the conflict, which he once claimed he could resolve quickly. Ukrainian President Zelenskyy has expressed gratitude towards Trump for his efforts to end the war.",
@@ -112,96 +245,88 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "\"Jimmy Kimmel Addresses Show's Suspension, Thanks Supporters on Return\"",
-    "domain": "business",
+    "title": "Kremlin: Little Progress in US-Russia Relations; Trump Suggests NATO Aid for Ukr",
+    "domain": "general",
     "source_domain": "www.aljazeera.com",
     "location": "global",
-    "published": "Wed, 24 Sep 2025 07:03:29 +0000",
+    "published": "Wed, 24 Sep 2025 13:17:33 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Forbes",
       "Al Jazeera",
-      "The Guardian",
-      "Financial Times",
-      "CNBC"
+      "Washington Post",
+      "ABC News"
     ],
     "domains": [
-      "www.forbes.com",
-      "www.theguardian.com",
+      "www.washingtonpost.com",
       "www.aljazeera.com",
-      "www.cnbc.com",
-      "www.ft.com"
+      "abcnews.go.com"
     ],
     "snippets": [
-      "US TV host Jimmy Kimmel said it was ‘never his intention’ to make light of the killing of Charlie Kirk.",
-      "\"Jimmy Kimmel Live!\" returned to air Tuesday night, roughly one week after the late night show was suspended by Disney's ABC broadcast network.",
-      "Donald Trump threatens to sue ABC as comedian returns from suspension after Charlie Kirk comments",
-      "<p>The host’s monologue noted that the suspension of his late night programme had ignited a national debate over free speech</p><p><a href=\"https://www.theguardian.com/tv-and-radio/jimmy-kimmel\">Jimmy Kimmel</a> returned to air on Tuesday night, calling government threats to silence comedians “anti-",
-      "The late-night host thanked his audience and others who spoke up against his late-night show’s suspension."
+      "Trump&#039;s most recent flip-flop comes after a meeting with Ukrainian President Volodymyr Zelenskyy on the UNGA sidelines.",
+      "Ukrainian President Volodymyr Zelenskyy praised his “productive meeting” with U.S. President Donald Trump on the sidelines of the United Nations General Assembly.",
+      "Trump’s statement that Ukraine could retake all of its territory lost to Russia with NATO’s help was a dramatic change in U.S. rhetoric on the war."
     ],
     "image_url": "",
     "titles": [
-      "Jimmy Kimmel addresses Charlie Kirk row as show returns",
-      "Jimmy Kimmel returns after ABC suspension: 'Never my intention to make light' of Charlie Kirk's murder",
-      "Jimmy Kimmel hits out at ‘anti-American’ threats to free speech as show returns",
-      "Jimmy Kimmel says silencing comedians is ‘anti-American’, as his show returns to air after suspension",
-      "Jimmy Kimmel Returns: Says Charlie Kirk’s Killer Doesn’t ‘Represent Anyone’ As He Calls Out FCC Chair And Trump"
+      "Russia a ‘paper tiger’: How Trump changed his position on Ukraine, NATO",
+      "Kremlin says Russia is not a 'paper tiger' after Trump criticism",
+      "Russia hits back at Trump after his abrupt swing toward Ukraine"
     ],
     "score_components": {
-      "magnitude": 0.944,
-      "recency": 0.898,
-      "consensus": 0.995,
-      "constructiveness": 0.0,
+      "magnitude": 0.887,
+      "recency": 0.94,
+      "consensus": 0.789,
+      "constructiveness": 0.2,
       "proximity": 0.5
     },
-    "score": 0.809,
+    "score": 0.766,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Jimmy Kimmel, host of \"Jimmy Kimmel Live!\", stated it was not his intention to trivialize the killing of Charlie Kirk. The show was suspended by ABC but resumed airing one week later. Upon return, Kimmel expressed gratitude towards his audience and supporters who opposed the suspension.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
+    "summary": "The Kremlin stated that efforts to improve US-Russia relations have produced minimal results, amid concerns in Europe about the conflict in Ukraine spreading. Additionally, former U.S. President Trump suggested that Ukraine could reclaim all territories lost to Russia with NATO's assistance, marking a significant shift in the U.S. stance on the conflict.",
+    "constructiveness_score": 0.2,
+    "constructiveness_reason": "keywords: effort, improve",
     "constructiveness_source": "heuristic"
   },
   {
     "title": "Italian Cinema Icon Claudia Cardinale Dies at 87",
-    "domain": "business",
+    "domain": "general",
     "source_domain": "www.bbc.com",
     "location": "global",
     "published": "Wed, 24 Sep 2025 10:25:04 GMT",
     "source": "BBC",
     "sources": [
-      "Forbes",
+      "Washington Post",
       "BBC",
-      "The Guardian",
-      "Deutsche Welle"
+      "Deutsche Welle",
+      "The Guardian"
     ],
     "domains": [
-      "www.theguardian.com",
-      "www.forbes.com",
+      "www.dw.com",
       "www.bbc.com",
-      "www.dw.com"
+      "www.washingtonpost.com",
+      "www.theguardian.com"
     ],
     "snippets": [
       "The actress, who starred in Fellini's 8 1/2, is synonymous with the golden age of Italian cinema.",
       "Best known for her role in Federico Fellini's \"8½,\" Cardinale has passed away after starring in over 100 productions.",
-      "<p>The husky-voiced, chain-smoking actor had a reputation as a fiercely independent, free-spirited woman</p><ul><li><p><a href=\"https://www.theguardian.com/film/gallery/2025/sep/23/claudia-cardinale-a-life-in-pictures\">Claudia Cardinale: a life in pictures</a></p></li></ul><p></p><p>Claudia Cardinal",
-      "One of the great, spirited European beauties to come out of the 1960s, Claudia Cardinale died surrounded by family in France on September 24. Here, an appreciation."
+      "She had major early roles in Federico Fellini’s “8 1/2,” Blake Edwards’s “The Pink Panther” and Sergio Leone’s “Once Upon a Time in the West.”",
+      "<p>The husky-voiced, chain-smoking actor had a reputation as a fiercely independent, free-spirited woman</p><ul><li><p><a href=\"https://www.theguardian.com/film/gallery/2025/sep/23/claudia-cardinale-a-life-in-pictures\">Claudia Cardinale: a life in pictures</a></p></li></ul><p></p><p>Claudia Cardinal"
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf74/live/3dba72e0-992e-11f0-afaa-7fca54876f7d.jpg",
     "titles": [
       "Italian actress and star of The Pink Panther Claudia Cardinale dies aged 87",
       "Italian movie star Claudia Cardinale dies at age of 87",
-      "Claudia Cardinale, glamorous star of The Leopard and Once Upon a Time in the West, dies aged 87",
-      "Claudia Cardinale, Star Of “8½” And “The Pink Panther,” Dies At 87"
+      "Claudia Cardinale, alluring star of 1960s cinema, dies at 87",
+      "Claudia Cardinale, glamorous star of The Leopard and Once Upon a Time in the West, dies aged 87"
     ],
     "score_components": {
       "magnitude": 0.892,
-      "recency": 0.944,
+      "recency": 0.867,
       "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.778,
+    "score": 0.763,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Claudia Cardinale, celebrated for her role in Federico Fellini's \"8½\" and a symbol of the golden age of Italian cinema, has died at 87. With a career spanning over 100 productions, Cardinale was known for her husky voice, independent spirit, and significant impact on post-war cinema.",
@@ -210,97 +335,89 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Week 4 Fantasy Football: Improved Prospects for Robinson, Skattebo",
+    "title": "Sister Jean, 106, Retires from Loyola Chicago Duties Due to Health",
     "domain": "sports",
-    "source_domain": "www.cbssports.com",
+    "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Wed, 24 Sep 2025 06:56:21 +0000",
-    "source": "CBS Sports",
+    "published": "Wed, 24 Sep 2025 11:27:10 EST",
+    "source": "ESPN",
     "sources": [
-      "Forbes",
-      "Yahoo Sports",
-      "CBS Sports",
-      "Sports Illustrated"
+      "Sports Illustrated",
+      "ESPN",
+      "CBS Sports"
     ],
     "domains": [
-      "news.google.com",
-      "www.sbnation.com",
-      "www.forbes.com",
-      "www.cbssports.com"
+      "www.espn.com",
+      "www.cbssports.com",
+      "news.google.com"
     ],
     "snippets": [
-      "Wan'Dale Robinson and Cam Skattebo could also see an increase in performance",
-      "Chet Gresham takes us through the top 32 kickers for Week 4",
-      "Chet Gresham takes us through the top 32 D/STs for Week 4",
-      "Week 4 fantasy football start or sit picks, including Kenneth Walker, Jameson Williams, and more tough decisions for your fantasy team",
-      "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHVrVVVzaU1hWG52Y3NucFFHSE1uVmZtbE5fd0VCbmpMQmJ6NDRsVUJEOEZuaTFJdEE3U25idkVBOXloVGdRU3gyaXVWTy03UThXVDdlNE05aUxXTm5FdXhXZWljeWd6TXFJT1NKTW52aXR0dlk0TjdGbjJQc3M5TVRwTVFickc2UFRuMFZSWlRSd21EMWc4WEdpTkw?oc=5\" target=\"_blank\">Running Back Sta",
-      "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeEVya2lWdDRodHRXQW16WWlOWTBpZS11VDl3eHVSbWpEZnNVUnRUeVRubGFPeTh1cG92LVI4eW43MnVVYmh1aXJfTGRVVnplQjROekNpNTRiejZESGdmMFYzZEJjR25ERUxjTUdqQndITGJ0VWxUT3B1S3RNanpCb21udllab3Q5c2dGTEh3MWFnaHR3UU1Beg?oc=5\" target=\"_blank\">Tight End Start 'Em, "
+      "106-year-old Jean Dolores Schmidt rose to prominence during Loyola Chicago's epic 2018 NCAA tournament Final Four run.",
+      "The beloved chaplain and mentor stepped down after health concerns forced her to scale back on-campus duties",
+      "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE13blZvaTEtM3A2Y2h6M1FCU1NxYmxrSDhmNjMzM0pYQkhaVVMyUFZPM2VFZGZabFRKZEdqZmdFUDNfRzk3MXRLNWczaFZvdUFhcjkySFcxaFppVTh0Q1k2QTZaYnlsMHhKLXk2WWVqMVJ0ZmtVVFE?oc=5\" target=\"_blank\">Sister Jean, Loyola's Iconic Chaplain, Retires From On-Campus Duties"
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/21/0747c4b8-9698-4eca-ab15-6afea4f7aa7c/jaxson-dart-cbs-5.jpg",
+    "image_url": "",
     "titles": [
-      "Fantasy football: Jaxson Dart named starter for Week 4, potentially boosting Malik Nabers' value",
-      "Top 32 fantasy football kickers for Week 4",
-      "Top 32 fantasy football D/STs for Week 4",
-      "Fantasy Football Start Or Sit Week 4: Kenneth Walker, Jameson Williams And More",
-      "Running Back Start ‘Em, Sit ‘Em For Fantasy Football Week 4 - Sports Illustrated",
-      "Tight End Start 'Em, Sit 'Em For Fantasy Football Week 4 - Sports Illustrated"
+      "Sister Jean, 106, retires over health concerns",
+      "Sister Jean, iconic March Madness figure, retires from Loyola Chicago at 106",
+      "Sister Jean, Loyola's Iconic Chaplain, Retires From On-Campus Duties - Sports Illustrated"
     ],
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.896,
-      "consensus": 0.908,
+      "magnitude": 0.827,
+      "recency": 0.983,
+      "consensus": 0.789,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.768,
+    "score": 0.758,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "In Week 4 fantasy football updates, Wan'Dale Robinson and Cam Skattebo are expected to see improved performances. Chet Gresham has provided rankings for the top 32 kickers and top 32 D/STs. Additionally, advice on whether to start or sit players such as Kenneth Walker, Jameson Williams, and others is available, helping fantasy team owners make informed decisions.",
+    "summary": "106-year-old Sister Jean, known for her role during Loyola Chicago's 2018 NCAA Final Four run, has retired from on-campus duties due to health concerns. As a beloved chaplain and mentor, her step down marks the end of an era for the university community.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump-Epstein Statue Installed on National Mall Sparks Reactions",
+    "title": "Kremlin: Little Progress in US-Russia Relations; Trump Suggests NATO Aid for Ukr",
     "domain": "general",
     "source_domain": "www.aljazeera.com",
     "location": "global",
-    "published": "Wed, 24 Sep 2025 09:39:39 +0000",
+    "published": "Wed, 24 Sep 2025 11:04:53 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "The Guardian",
       "Al Jazeera",
+      "Deutsche Welle",
       "Axios"
     ],
     "domains": [
-      "www.theguardian.com",
+      "www.dw.com",
       "news.google.com",
       "www.aljazeera.com"
     ],
     "snippets": [
-      "A pop-up statue showing Donald Trump holding hands with sex offender Jeffrey Epstein appeared near the US Capitol.",
-      "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE05dXcza3hWam52VE5DbndEN21YR2IxYzVLZVBDUko0TVdKRTJTUkFHSVhGLXdKS1kyR1dselB3RG9Yd3VrUVpvVWptelFmcDVzdjdLSVZOTWc2S3QzaFhsNnpFekdWZXFYWGU3eVlhM3gyaWhsc2pNU2pn?oc=5\" target=\"_blank\">Statue of Trump and Epstein holding hands appears on the Nation",
-      "<p>Bronze statue by an anonymous creator shows the two men frolicking and holding hands with a foot kicked back in joy</p><p>There’s a new statue on the east end of the National Mall for Washington DC residents and tourists to enjoy. The bronze statue shows two men frolicking, grinning wide and hold"
+      "Kremlin also says US-Russia rapprochement yields &#039;close to zero&#039; results, as fears grow in Europe of Ukraine spillover.",
+      "The Kremlin said that Russia has no choice but to continue the war in Ukraine following the US president's remarks about Kyiv regaining lost territory. Follow DW for the latest.",
+      "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9ISERQbzZDaV96TXlsaXZ6NG1keUdBMnU2OTY2Rmw0SHVpdWxBZUoySUszSF9XWmFmSEdTYXdLMVRDM3p1RENCSjJyX1RQdkxQNjV3OTNnTW5EZEFSdUZxQU5UU0c1bERMSTJBd3REQlJxLW9mWWswbm1n?oc=5\" target=\"_blank\">In extraordinary shift, Trump says Ukraine can win war with Rus"
     ],
     "image_url": "",
     "titles": [
-      "Statue of Donald Trump and Jeffrey Epstein appears in US capital",
-      "Statue of Trump and Epstein holding hands appears on the National Mall - Axios",
-      "New statue on National Mall celebrates ‘long-lasting bond’ between Trump and Epstein"
+      "Russia says no choice but war after Trump U-turn on Ukraine",
+      "Ukraine updates: Russia sees 'no alternative' to war",
+      "In extraordinary shift, Trump says Ukraine can win war with Russia - Axios"
     ],
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.949,
+      "magnitude": 0.887,
+      "recency": 0.898,
       "consensus": 0.789,
-      "constructiveness": 0.0,
+      "constructiveness": 0.2,
       "proximity": 0.5
     },
-    "score": 0.734,
+    "score": 0.757,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "A bronze statue depicting Donald Trump and Jeffrey Epstein holding hands and frolicking has been installed on the east end of the National Mall in Washington DC. Created by an anonymous artist, the statue features both men with wide grins and a foot kicked back in joy, sparking reactions among residents and tourists.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
+    "summary": "The Kremlin stated that efforts to improve US-Russia relations have produced minimal results, amid concerns in Europe about the conflict in Ukraine spreading. Additionally, former U.S. President Trump suggested that Ukraine could reclaim all territories lost to Russia with NATO's assistance, marking a significant shift in the U.S. stance on the conflict.",
+    "constructiveness_score": 0.2,
+    "constructiveness_reason": "keywords: effort, improve",
     "constructiveness_source": "heuristic"
   },
   {
@@ -308,17 +425,17 @@
     "domain": "business",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Tue, 23 Sep 2025 21:01:02 GMT",
+    "published": "Wed, 24 Sep 2025 12:34:41 GMT",
     "source": "Axios",
     "sources": [
       "TechCrunch",
-      "CNBC",
-      "Axios"
+      "Axios",
+      "CNBC"
     ],
     "domains": [
+      "techcrunch.com",
       "news.google.com",
-      "www.cnbc.com",
-      "techcrunch.com"
+      "www.cnbc.com"
     ],
     "snippets": [
       "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE10cjBrMDkxZWZWbU1jekZrN3RrVklkTldxWGJSMG44eEdOcmVicXhSTTgzNU4wNmIxdS1zSVNiN1JsbTRiSjFsNjktX19GMFdkdk1XQmdwWFprQ3kybUZzOGZhN3h0VGw3UmNJU3pfUi13ZTlfeEctbEZB?oc=5\" target=\"_blank\">OpenAI announces five new sites for Stargate data center projec",
@@ -333,12 +450,12 @@
     ],
     "score_components": {
       "magnitude": 0.847,
-      "recency": 0.714,
+      "recency": 0.907,
       "consensus": 0.789,
       "constructiveness": 0.2,
       "proximity": 0.5
     },
-    "score": 0.707,
+    "score": 0.745,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "OpenAI, in partnership with Oracle, has launched the flagship site of the $500 billion Stargate project in Abilene, Texas, marking a significant investment in the future of American AI. This initiative, which aims to expand AI data centers for training and deploying advanced AI models, will see its costs rise to $400 billion as it progresses.",
@@ -347,132 +464,85 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Criticizes EU Immigration Policy, Global Institutions at UN Assembly",
+    "title": "Ragasa Storm Kills 17 in Taiwan, Affects South China Sea Region",
     "domain": "general",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 02:40:33 GMT",
-    "source": "Axios",
-    "sources": [
-      "New York Times",
-      "ABC News",
-      "Axios"
-    ],
-    "domains": [
-      "abcnews.go.com",
-      "news.google.com",
-      "www.nytimes.com"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB1cFA1NVE4VGczTUtWeFlsa3ZMYzR6bmtWLWpjQWlHTWUwcUMxUTE0bFpNdmZUc1czSGludmxSQWthOVJqUkNXY0FwMFNRbkFsTXEzR3djN25RR3FweEQyV1p3TVFXMHRsb0NUX1gyc1dlekRsQnVTVA?oc=5\" target=\"_blank\">Trump's middle finger to the UN: \"Your countries are going to hel",
-      "President Donald Trump criticized the European Union's immigration policies while speaking at the United Nations General Assembly on Tuesday.",
-      "In a meandering address, President Trump rebuked global institutions and complained about immigration, environmentalists, windmills and more."
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump's middle finger to the UN: \"Your countries are going to hell\" - Axios",
-      "WATCH:  Trump tells European Union nations: 'Your countries are going to hell'",
-      "‘Your Countries Are Going to Hell’: Trump Airs His Grievances at the U.N."
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.803,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.704,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "During his speech at the United Nations General Assembly, President Donald Trump criticized the European Union's immigration policies and expressed disdain for global institutions, environmentalists, and windmills. His address was wide-ranging and included various complaints.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Oklahoma State Fires Coach Mike Gundy After 21 Years Amid Poor Season Start",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Tue, 23 Sep 2025 14:56:39 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Sportsnet",
-      "Sports Illustrated"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.sportsnet.ca",
-      "www.espn.com"
-    ],
-    "snippets": [
-      "Gundy's long tenure in Stillwater is over. Who replaces the Pokes legend and who are the key players on the roster?",
-      "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2ZGS19VN2xZbGNTTGNiUXExUEhyNVZnbldkTjhEQUpOU0RkN01PUTYtLVZQR2ZjS0RILVZqdW43YXNBaFhrMENjTURNWUxmR1Q5RHE1YThoMnVMNExRcE5PR2JCaXZOQ05rUF90M001aFZBVWRuWTFRX3NLeGFxUjVYV0V0N2Q0bHlIUFZhQ1ZHMDZWRTJiLUln?oc=5\" target=\"_blank\">Mike Gundy Fired: T",
-      "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkdPVFdlWlNDemkwOHBCNUJndGVfekM5dWo4Wm8zUTFqazJCSGVUWV9yN1c1bjZQTUx3UUh1bWU1TTNCa2VrcDc5OEpHSGxONVhpalB1ekZWdjVPYVU2cUdtZnRweTJlTHZsT0w0ajhiV1lmeWRhOUV6b0F0emxpNzhYSFhybm9RT3BZZng5ZlJzaGRCdHl3?oc=5\" target=\"_blank\">Mike Gundy Exited Oklah",
-      "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1PaUxHa1lHbklxNjM0c1hPUGJqTDhxMkhKaXdOaTl5YVlVaGVoWTBTNW9mRWE4ZGQ4eUF3THF4RGZOVUJia29FMnlMdWVpcF93Sl9PVmNvSHZ0TVk5WnRDd2tCZFBnaGdZaU9pbWR5aGZkRnA3NVE?oc=5\" target=\"_blank\">Oklahoma State Fires Mike Gundy, Program's Winningest Coach</a>&nbsp",
-      "<p>Mike Gundy, one of college football’s most colourful coaches over the last two decades, has been fired at Oklahoma State, according to multiple media reports.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Mike Gundy is out at Oklahoma State: Top candidates, transfers, recruits to watch",
-      "Mike Gundy Fired: Ten Candidates for Oklahoma State Football Coaching Search - Sports Illustrated",
-      "Mike Gundy Exited Oklahoma State Exactly How You’d Expect - Sports Illustrated",
-      "Oklahoma State Fires Mike Gundy, Program's Winningest Coach - Sports Illustrated",
-      "Oklahoma State fires football coach Mike Gundy after 20-plus years"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.698,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.701,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Oklahoma State has dismissed head coach Mike Gundy after a disappointing start to the 2024 season, ending his 21-year tenure with the team. The Cowboys have struggled, losing 11 of their last 12 games. The search for Gundy's replacement is underway, with the future direction of the program and its key players now a primary focus.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Kremlin: Little Progress in US-Russia Relations; Trump Suggests NATO Aid for Ukr",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Wed, 24 Sep 2025 11:04:53 +0000",
-    "source": "Al Jazeera",
+    "published": "Wed, 24 Sep 2025 12:19:49 GMT",
+    "source": "BBC",
     "sources": [
-      "Washington Post",
-      "Al Jazeera"
+      "BBC",
+      "New York Times",
+      "The Guardian"
     ],
     "domains": [
-      "www.washingtonpost.com",
-      "www.aljazeera.com"
+      "www.nytimes.com",
+      "www.bbc.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "Kremlin also says US-Russia rapprochement yields &#039;close to zero&#039; results, as fears grow in Europe of Ukraine spillover.",
-      "Trump’s statement that Ukraine could retake all of its territory lost to Russia with NATO’s help was a dramatic change in U.S. rhetoric on the war."
+      "Ragasa is the world's strongest storm this year and has been roaring over the South China Sea for days.",
+      "<p>This blog is now closed, you can read more on this story here:</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/sep/24/super-typhoon-ragasa-update-path-hong-kong-taiwan-china\">Ragasa: 17 killed in Taiwan as storm batters Hong Kong</a></p></li><li><p><a href=\"https://www.theguardian.c",
+      "Hundreds of firefighters and soldiers dispatched to Guangfu have gone door to door to check for trapped residents."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7bf/live/4b4fc860-993d-11f0-928c-71dbb8619e94.jpg",
     "titles": [
-      "Russia says no choice but war after Trump U-turn on Ukraine",
-      "Russia hits back at Trump after his abrupt swing toward Ukraine"
+      "Typhoon Ragasa makes landfall in China after 17 killed in Taiwan",
+      "As it happened – deadly cyclone makes landfall in China after devastating Hong Kong, Taiwan and Philippines",
+      "Typhoon Ragasa Tears Through Guangfu in Taiwan, Killing at Least 17"
     ],
     "score_components": {
-      "magnitude": 0.795,
-      "recency": 0.977,
-      "consensus": 0.591,
-      "constructiveness": 0.2,
+      "magnitude": 0.867,
+      "recency": 0.903,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.691,
+    "score": 0.731,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The Kremlin stated that efforts to improve US-Russia relations have produced minimal results, amid concerns in Europe about the conflict in Ukraine spreading. Additionally, former U.S. President Trump suggested that Ukraine could reclaim all territories lost to Russia with NATO's assistance, marking a significant shift in the U.S. stance on the conflict.",
-    "constructiveness_score": 0.2,
-    "constructiveness_reason": "keywords: effort, improve",
+    "summary": "Ragasa, the strongest storm of the year, has caused significant damage across the South China Sea region, resulting in at least 17 deaths in Taiwan. It has also affected Hong Kong, with the aftermath prompting hundreds of firefighters and soldiers to conduct door-to-door checks in Guangfu for trapped residents.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Jimmy Kimmel Returns, Addresses Remarks on Kirk's Killing in Comeback Show",
+    "domain": "general",
+    "source_domain": "globalnews.ca",
+    "location": "national",
+    "published": "Wed, 24 Sep 2025 15:35:05 +0000",
+    "source": "Global News",
+    "sources": [
+      "Global News",
+      "CityNews"
+    ],
+    "domains": [
+      "ottawa.citynews.ca",
+      "globalnews.ca"
+    ],
+    "snippets": [
+      "Addressing his remarks about Kirk's shooting, Kimmel said he never intended to blame any specific group for the actions of what is 'obviously a deeply disturbed individual.'",
+      "LOS ANGELES (AP) — Jimmy Kimmel made an emotional return to his late-night show Tuesday night after a nearly weeklong suspension for remarks he made after conservative activist Charlie Kirk&#8217;s killing. For 16 minutes, Kimmel mixed humour, pointed messages and emotion to talk about his suspensio"
+    ],
+    "image_url": "https://globalnews.ca/wp-content/uploads/2022/09/20220920150936-632a16250e4c200aa59311fdjpeg.jpg?quality=65&strip=all",
+    "titles": [
+      "What Jimmy Kimmel said on his 1st night back after show suspension",
+      "In Jimmy Kimmel’s words: What the late-night host said upon his return from suspension"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.986,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 1.0
+    },
+    "score": 0.702,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Jimmy Kimmel returned to his late-night show after a suspension, addressing his previous remarks on Charlie Kirk's killing. He clarified he did not intend to blame any specific group, attributing the actions to a \"deeply disturbed individual.\" His 16-minute segment blended humor, emotion, and pointed messages, marking his comeback following the controversy.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
@@ -488,9 +558,9 @@
       "New York Times"
     ],
     "domains": [
+      "techcrunch.com",
       "www.washingtonpost.com",
-      "www.nytimes.com",
-      "techcrunch.com"
+      "www.nytimes.com"
     ],
     "snippets": [
       "In Trump’s speech before the U.N. General Assembly, he said he had ended a growing list of conflicts. In some of them, his role remains contested.",
@@ -505,12 +575,12 @@
     ],
     "score_components": {
       "magnitude": 0.867,
-      "recency": 0.678,
+      "recency": 0.624,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.686,
+    "score": 0.676,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "During his speech at the U.N. General Assembly, President Trump claimed to have ended a list of conflicts, though his involvement in some remains disputed. He also criticized global institutions. The specifics of the conflicts or the nature of the criticism were not detailed in the provided content.",
@@ -519,44 +589,362 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Man Convicted for Attempted Assassination of Trump, Faces Life Sentence",
+    "title": "Precious Achiuwa Returns to Miami Heat with One-Year Deal",
     "domain": "sports",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-09-23T19:02:00Z",
-    "source": "Deutsche Welle",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Wed, 24 Sep 2025 10:12:15 EST",
+    "source": "ESPN",
     "sources": [
-      "Axios",
-      "ABC News",
-      "Deutsche Welle"
+      "ESPN",
+      "Sportsnet"
     ],
     "domains": [
-      "abcnews.go.com",
-      "news.google.com",
-      "www.dw.com"
+      "www.espn.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
-      "The man was accused of plotting to shoot Donald Trump at the US president's Florida golf course last year. He faces life in prison.",
-      "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdEpTbnphd2daQU16UVd1Qzg3dWpNakFRS3dldEg3LVJWbFdITUd2dVNBT3FtM1oxbGEzM25tRlI5OWtyUG1HaFgwTzB2NVZHVFVXLWNHbl9ieGhJbXNWVG9ybTU5ZXVQd1BoUVBjbVJpZVZNM1BTQXJLRlNCekpfc0lxSkc?oc=5\" target=\"_blank\">Ryan Routh found guilty in Trump assassination a",
-      "Ryan Routh, the man accused of trying to assassinate President Donald Trump on his West Palm Beach golf course last year, has been found guilty on all five counts."
+      "Free agent center/forward Precious Achiuwa has agreed to a one-year deal with the Miami Heat, sources told ESPN.",
+      "<p>Precious Achiuwa is making a return to the 305.</p>"
     ],
     "image_url": "",
     "titles": [
-      "US: Man convicted of Trump assassination attempt",
-      "Ryan Routh found guilty in Trump assassination attempt - Axios",
-      "WATCH:  Ryan Routh guilty on all counts in Trump golf course assassination attempt"
+      "Sources: Achiuwa agrees to 1-year deal with Heat",
+      "Report: Precious Achiuwa signs one-year deal with Heat"
     ],
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.699,
-      "consensus": 0.789,
+      "magnitude": 0.735,
+      "recency": 0.958,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.672,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Free agent center/forward Precious Achiuwa has signed a one-year deal with the Miami Heat, according to ESPN sources. This marks Achiuwa's return to Miami, where he previously played.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "White House Eyes Stake in Lithium Americas to Secure Mineral Supply Chain",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Wed, 24 Sep 2025 15:51:25 GMT",
+    "source": "CNBC",
+    "sources": [
+      "MarketWatch",
+      "CNBC"
+    ],
+    "domains": [
+      "www.marketwatch.com",
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "It is the latest move by the White House to take direct ownership in the U.S. critical mineral supply chain.",
+      "A Trump administration stake in Lithium Americas would follow stakes in Intel and MP Materials."
+    ],
+    "image_url": "",
+    "titles": [
+      "Lithium Americas soars 100% as Trump administration seeks equity stake in Canadian miner",
+      "Lithium Americas could be the Trump administration’s next investment, after chips and rare earths"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.971,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.666,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The White House has taken a new step in securing the U.S. critical mineral supply chain by considering a stake in Lithium Americas. This follows previous investments in Intel and MP Materials during the Trump administration, marking a continued effort to strengthen national control over essential resources.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: effort",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Week 4 Fantasy Football: PPR, Dynasty Rankings, and Start-Sit Advice Released",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Wed, 24 Sep 2025 08:04:09 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Weekly individual and composite rankings for each position in PPR, as well as Eric Karabell's superflex ranks.",
+      "Updated Dynasty rankings for quarterback, running back, wide receiver, and tight end positions",
+      "SportsLine's model reveals its Week 4 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo"
+    ],
+    "image_url": "",
+    "titles": [
+      "Rankings for Week 4",
+      "Fantasy Football Dynasty Rankings Update for Week 4: Jaxson Dart and Trey Benson starting, Tre Tucker rising",
+      "Fantasy Football Rankings, sleepers, streamers, cheat sheets for NFL Week 4, 2025 in PPR, standard leagues"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.917,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.663,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "This week's fantasy football updates include individual and composite PPR rankings for various positions and Eric Karabell's superflex rankings. Additionally, updated Dynasty rankings are available for quarterbacks, running backs, wide receivers, and tight ends. SportsLine has also released Week 4 Fantasy football projections, PPR rankings, and start-sit advice applicable to CBS Sports, ESPN, and Yahoo platforms.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "2025-26 Carabao Cup Fourth Round Fixtures Announced",
+    "domain": "sports",
+    "source_domain": "www.independent.co.uk",
+    "location": "national",
+    "published": "Wed, 24 Sep 2025 15:49:49 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "Yahoo Sports",
+      "Sports Illustrated"
+    ],
+    "domains": [
+      "news.google.com",
+      "www.independent.co.uk"
+    ],
+    "snippets": [
+      "Everything you need to know as the fixtures are decided for the last 16",
+      "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPcTQ0d1VJTmN3X0NuRHVzTEpVVmIxbGZkZW1Gd2RrLUpYTWd6WDJILTZoRVRtcmpxYllXd3JmamswbzB4WUp5Q2hzM2tzeUJSZFFvTmY0eW1aSmd3UXRNaFlsTlZKcDhNMmZwdTgtQW5hNDU1RjJwamNkRE5YclBadXRCQnFUYlZpZFR6Y0RINA?oc=5\" target=\"_blank\">2025–26 Carabao Cup Fourth Round "
+    ],
+    "image_url": "",
+    "titles": [
+      "Carabao Cup fourth-round draw: Start time, ball numbers and how to watch on TV",
+      "2025–26 Carabao Cup Fourth Round Draw: Date, Time, Ball Numbers - Sports Illustrated"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.991,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.663,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The fixtures for the 2025-26 Carabao Cup Fourth Round have been decided, marking a key development in the tournament. This progression brings the competition closer to its concluding stages, with teams now knowing their next opponents as they vie for the cup.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: development",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Liverpool's Giovanni Leoni Out for Months with Knee Injury",
+    "domain": "sports",
+    "source_domain": "onefootball.com",
+    "location": "national",
+    "published": "Wed, 24 Sep 2025 15:40:00 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "Yahoo Sports",
+      "Sky Sports"
+    ],
+    "domains": [
+      "onefootball.com",
+      "www.skysports.com"
+    ],
+    "snippets": [
+      "Giovanni Leoni has had confirmation of a terrible injury. Two Liverpool stars do offer hope, though.Giovanni Leoni had a fantastic debut for Liverpool on Tuesday evening as he ran the defence against ...",
+      "Liverpool have been dealt a significant blow after teenage defender Giovanni Leoni was ruled out for several months with a torn cruciate ligament in his left knee.The 18-year-old centre-back, a £26m ...",
+      "Liverpool defender Giovanni Leoni faces months out with a torn cruciate ligament in his left knee, according to Sky in Italy."
+    ],
+    "image_url": "",
+    "titles": [
+      "Liverpool pair offer HOPE as Giovanni Leoni injury nightmare confirmed",
+      "Liverpool&#8217;s Giovanni Leoni suffers ACL injury",
+      "Liverpool's Leoni suffers torn cruciate ligament"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.988,
+      "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.684,
+    "score": 0.653,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Liverpool's teenage defender Giovanni Leoni is set to miss several months due to a torn cruciate ligament in his left knee. The 18-year-old, who had an impressive debut recently, was injured during a match. This is considered a significant setback for the team.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Guardians' David Fry Hit in Face by Pitch, Carted Off Field",
+    "domain": "sports",
+    "source_domain": "www.nbcsports.com",
+    "location": "national",
+    "published": "Wed, 24 Sep 2025 15:44:18 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "Yahoo Sports",
+      "Sportsnet"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "www.nbcsports.com"
+    ],
+    "snippets": [
+      "For a frightening moment, the AL Central race hardly mattered.",
+      "<p>Guardians designated hitter David Fry was carted off the field in the sixth inning Tuesday night after being hit in the face by a pitch as he tried to bunt.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Guardians’ David Fry hospitalized after being hit in face by pitch during crucial win over Tigers",
+      "Guardians’ Fry hospitalized after being hit in face by pitch during bunt"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.989,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.653,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Ryan Routh was convicted on five charges, including the attempted assassination of Donald Trump at a South Florida golf course last year. Representing himself in court, Routh now faces a life sentence. The jury concluded Routh intended to kill Trump during the incident. After the verdict, Routh attempted to stab himself in the neck with a pen.",
+    "summary": "David Fry, the Guardians' designated hitter, was hit in the face by a Tarik Skubal fastball while attempting to bunt during the sixth inning of Tuesday night's game. Following the incident, he was carted off the field for medical attention.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "New Plant Species Mimics Ant Scent to Attract Pollinators, Study Finds",
+    "domain": "science",
+    "source_domain": "www.theguardian.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 15:00:12 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "Phys.org",
+      "The Guardian"
+    ],
+    "domains": [
+      "phys.org",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "<p>Botanist says new Japanese species of dogbane is first evidence of plants copying ants</p><p>It’s a stark demonstration of nature at its most devious: researchers have discovered a plant that attracts pollinating flies by mimicking the odour of half-eaten ants.</p><p>The species of dogbane is the",
+      "Ko Mochizuki of the University of Tokyo has discovered that Vincetoxicum nakaianum (a dogbane species native to Japan described for the first time by Mochizuki and his collaborators only a year ago) mimics the smell of ants attacked by spiders. This scent attracts flies that feed on these injured in"
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/3a00cb625b0569e0c5ba266e707110bb722dd812/60_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=5fe944f66db2cb3e82e777d350aca34a",
+    "titles": [
+      "Plant that mimics odour of half-eaten ants to attract pollinators discovered",
+      "First-ever documented case of a plant mimicking ants to attract pollinators"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.954,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.653,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Researchers, led by Ko Mochizuki from the University of Tokyo, discovered a new species of dogbane in Japan, Vincetoxicum nakaianum, that mimics the scent of ants attacked by spiders to attract pollinating flies. This finding, described as the first evidence of plants copying ants, highlights a unique evolutionary strategy for attracting pollinators.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Week 4 Fantasy Football: Improved Prospects for Robinson, Skattebo",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Wed, 24 Sep 2025 15:32:01 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Sports Illustrated",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.cbssports.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "Running backs you want in Week 4 lineups and those you should avoid",
+      "Quarterbacks you want in Week 4 lineups, and those you should avoid",
+      "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHVrVVVzaU1hWG52Y3NucFFHSE1uVmZtbE5fd0VCbmpMQmJ6NDRsVUJEOEZuaTFJdEE3U25idkVBOXloVGdRU3gyaXVWTy03UThXVDdlNE05aUxXTm5FdXhXZWljeWd6TXFJT1NKTW52aXR0dlk0TjdGbjJQc3M5TVRwTVFickc2UFRuMFZSWlRSd21EMWc4WEdpTkw?oc=5\" target=\"_blank\">Running Back Sta",
+      "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjltUUg4dWNodlpaWl9temU1aG1aZGo4WXhZcDJ4Y0hESF8yZW5VX3NFZ0poMHdyOW01Wm5vVXl2LW1iTm02MFhQRnVscUJTUzREWmEwLVkwdDJnclpLS1JzQmM2bXg2OXRaY3NsTjRUMGxyeWstaDBJS1hGRGFzdTc1eHNXTkIxdWhGZWVjUlB4Y3RLbTZWMlRoX2w4UEE?oc=5\" target=\"_blank\">Defense & Ki",
+      "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeEVya2lWdDRodHRXQW16WWlOWTBpZS11VDl3eHVSbWpEZnNVUnRUeVRubGFPeTh1cG92LVI4eW43MnVVYmh1aXJfTGRVVnplQjROekNpNTRiejZESGdmMFYzZEJjR25ERUxjTUdqQndITGJ0VWxUT3B1S3RNanpCb21udllab3Q5c2dGTEh3MWFnaHR3UU1Beg?oc=5\" target=\"_blank\">Tight End Start 'Em, "
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/08/15/70505c1c-90f2-43d0-8fd8-6fb6fae8f713/usatsi-26593625-1.jpg",
+    "titles": [
+      "Fantasy Football Week 4 Start 'Em & Sit 'Em Running Backs: Rookie RBs Judkins and Skattebo on the rise",
+      "Fantasy Football Week 4 Start 'Em & Sit 'Em Quarterbacks: Caleb Williams looks to stay hot vs. Raiders",
+      "Running Back Start ‘Em, Sit ‘Em for Fantasy Football Week 4 - Sports Illustrated",
+      "Defense & Kicker Start 'Em, Sit 'Em For Fantasy Football Week 4 - Sports Illustrated",
+      "Tight End Start 'Em, Sit 'Em For Fantasy Football Week 4 - Sports Illustrated"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.985,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.652,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "In Week 4 fantasy football updates, Wan'Dale Robinson and Cam Skattebo are expected to see improved performances. Chet Gresham has provided rankings for the top 32 kickers and top 32 D/STs. Additionally, advice on whether to start or sit players such as Kenneth Walker, Jameson Williams, and others is available, helping fantasy team owners make informed decisions.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Cruz Calls Dallas Immigration Center Attack 'Politically Motivated'",
+    "domain": "business",
+    "source_domain": "www.ft.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 15:59:54 GMT",
+    "source": "Financial Times",
+    "sources": [
+      "Financial Times",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.ft.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "US Senator Ted Cruz says incident is another ‘politically motivated’ attack",
+      "<p>Dallas police chief says early evidence shows ‘anti-Ice’ messages on rounds found near shooter; DHS official confirms Ice detainees among victims</p><ul><li><p>Full report – <a href=\"https://www.theguardian.com/us-news/2025/sep/24/dallas-ice-shooting-texas-immigration-center-latest\">Three people "
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7ab9053a-4f63-4225-bfd6-89caf19c6957.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "FBI investigating deadly Dallas ICE shooting as ‘targeted violence’",
+      "FBI investigating shooting at Dallas immigration facility as ‘act of targeted violence’ – live"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.974,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.65,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "US Senator Ted Cruz labeled an attack at a Dallas immigration center as 'politically motivated,' citing anti-ICE messages on ammunition found at the scene. Dallas police and a DHS official confirmed that ICE detainees were among the three victims.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -564,39 +952,35 @@
   {
     "title": "YouTube to Allow Banned Misinformation Channels to Seek Reinstatement",
     "domain": "technology",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Tue, 23 Sep 2025 20:54:25 GMT",
-    "source": "CNBC",
+    "source_domain": "techcrunch.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 14:51:40 +0000",
+    "source": "TechCrunch",
     "sources": [
       "Ars Technica",
-      "CNBC",
-      "The Verge"
+      "TechCrunch"
     ],
     "domains": [
-      "www.theverge.com",
-      "arstechnica.com",
-      "www.cnbc.com"
+      "techcrunch.com",
+      "arstechnica.com"
     ],
     "snippets": [
-      "YouTube on Tuesday said it will allow previously banned accounts to apply for reinstatement, rolling back a policy that had treated violations as permanent.",
-      "Google has announced it will reverse a major content moderation decision: YouTube will offer channels that were banned for spreading covid and election misinformation in 2020 a pathway back onto the platform. In a letter sent to the House Judiciary Committee, Alphabet's lawyers claimed that the Bide",
+      "\"YouTube values conservative voices on its platform and recognizes that these creators have extensive reach and play an important role in civic discourse,\" the company's legal counsel wrote.",
       "Alphabet blames the Biden administration for its moderation decisions."
     ],
     "image_url": "",
     "titles": [
-      "YouTube to allow creators banned for Covid-19, election misinformation to apply for reinstatement",
-      "YouTube will let creators who spread covid misinformation back on the site",
+      "YouTube will reinstate accounts banned for spreading misinformation",
       "YouTube will restore channels banned for COVID and election misinformation"
     ],
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.712,
-      "consensus": 0.789,
+      "magnitude": 0.735,
+      "recency": 0.971,
+      "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.679,
+    "score": 0.649,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "YouTube, owned by Alphabet, announced it will enable channels banned for spreading COVID-19 and election misinformation in 2020 to apply for reinstatement. This marks a reversal of its prior policy treating such violations as permanent. The decision was disclosed in a letter to the House Judiciary Committee, where Alphabet suggested the Biden administration influenced its moderation policies.",
@@ -605,159 +989,40 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Jonathan Toews Returns to NHL, Jets Fall 3-2 to Oilers in Preseason Game",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 02:44:22 +0000",
-    "source": "Global News",
-    "sources": [
-      "Sportsnet",
-      "Global News"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "globalnews.ca"
-    ],
-    "snippets": [
-      "Colin Miller and Colby Barlow scored the goals while Jonathan Toews played 18:36, winning just over half of his faceoffs.",
-      "<p>Even though his Winnipeg Jets side lost 3-1 in pre-season action, Jonathan Toews got his first taste of NHL action in two-and-a-half years.</p>",
-      "<p>Ty Emberson, Isaac Howard and Quinn Hutson each scored and Matt Tomkins made 13 saves as the Edmonton Oilers narrowly beat the Winnipeg Jets, winning 3-2.</p>"
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/TOEWS.jpg?quality=65&strip=all",
-    "titles": [
-      "Jonathan Toews makes preseason debut as Winnipeg Jets fall to Oilers 3-2",
-      "Jonathan Toews has quiet Jets pre-season debut",
-      "NHL Pre-Season Highlights: Oilers 3, Jets 2"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.821,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.669,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Jonathan Toews returned to NHL action after a two-and-a-half-year hiatus, playing 18:36 and winning just over half of his faceoffs in a preseason game where his team, the Winnipeg Jets, lost 3-2 to the Edmonton Oilers. Despite goals from Colin Miller and Colby Barlow for the Jets, the Oilers secured the win with goals from Ty Emberson, Isaac Howard, and Quinn Hutson, alongside 13 saves from Matt Tomkins.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Jimmy Kimmel Back on TV, Defends Free Speech Amid Trump Criticism",
-    "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 02:01:06 -0400",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "Deutsche Welle"
-    ],
-    "domains": [
-      "www.dw.com",
-      "www.npr.org"
-    ],
-    "snippets": [
-      "The comedian was suspended for nearly a week by ABC's parent company, Disney, before returning to airwaves on Tuesday night.",
-      "Jimmy Kimmel was back on TV after a six-day suspension with a defense of free speech and criticism of \"bullying\" from the US president. Donald Trump said ABC's decision to reinstate Kimmel \"puts the network in jeopardy.\""
-    ],
-    "image_url": "",
-    "titles": [
-      "'We have to speak out,' Jimmy Kimmel says in his late-night return",
-      "Jimmy Kimmel returns to late night amid Trump criticism"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.879,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.663,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Jimmy Kimmel returned to television on Tuesday night after a six-day suspension by Disney, ABC's parent company. In his comeback, Kimmel defended free speech and criticized \"bullying\" from US President Donald Trump, who questioned ABC's decision to reinstate him, suggesting it jeopardized the network. Prior to Trump's remarks, two major station owners had announced they would not broadcast Kimmel's show on their local stations.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Man Arrested in West Sussex Over Airport Delays Incident",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Wed, 24 Sep 2025 11:53:42 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "The National Crime Agency (NCA) said a man in his forties was arrested in West Sussex.",
-      "<p>Man in West Sussex was held as part of investigation into last weekend’s incident affecting Collins Aerospace</p><p>A man has been arrested in the UK in connection with the <a href=\"https://www.theguardian.com/business/2025/sep/21/delays-continue-at-heathrow-brussels-and-berlin-airports-after-all"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a132/live/f7b9e9a0-9938-11f0-869a-3fa4ad43e8ee.jpg",
-    "titles": [
-      "Man arrested in connection with cyber-attack on airports",
-      "UK arrest over cyberattack that hit Heathrow and European airports"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.973,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.657,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "A man in his forties was arrested in West Sussex by the National Crime Agency as part of an investigation into an incident last weekend that impacted Collins Aerospace, causing delays at Heathrow, Brussels, and Berlin airports.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Trump's H-1B Visa Changes May Deter Foreign Talent, Startups Warn",
+    "title": "Disney+ to Hike Prices on Some Subscriptions Starting October 21",
     "domain": "business",
     "source_domain": "www.cnbc.com",
     "location": "national",
-    "published": "Wed, 24 Sep 2025 11:44:39 GMT",
+    "published": "Wed, 24 Sep 2025 15:31:13 GMT",
     "source": "CNBC",
     "sources": [
-      "Business Insider",
+      "The Verge",
       "CNBC"
     ],
     "domains": [
-      "www.businessinsider.com",
+      "www.theverge.com",
       "www.cnbc.com"
     ],
     "snippets": [
-      "Experts say President Donald Trump's changes to the H-1B program could deter startups from securing top foreign talent and drive those workers elsewhere.",
-      "Startup founders are worried that changes to the H-1B visa program could make it even harder to compete with bigger companies in the talent wars."
+      "Disney announced price hikes of roughly $2 to $3 for its subscription packages on Tuesday.",
+      "Disney is in a tangled web of its own making. In just one week, the entertainment giant managed to anger both sides of the political spectrum, and then topped it all off with a Disney Plus price hike that made just about everyone mad. Now, Disney's facing criticism from all sides, and it may struggl"
     ],
     "image_url": "",
     "titles": [
-      "Trump's H-1B visa changes could 'kneecap startups,' drive talent elsewhere, experts say",
-      "Trump's H-1B overhaul could kneecap startups in the talent wars."
+      "Disney raises prices for streaming packages",
+      "Disney sure picked a terrible time to raise prices"
     ],
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.97,
+      "magnitude": 0.735,
+      "recency": 0.965,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.656,
-    "summary_source": "gpt",
+    "score": 0.648,
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Experts and startup founders express concerns that President Donald Trump's modifications to the H-1B visa program may discourage top foreign talent from joining U.S. startups, potentially driving these workers to seek opportunities in other countries. This could exacerbate the challenges startups face in competing with larger companies for skilled employees.",
+    "summary": "Disney announced it will raise prices for select Disney+ subscription packages, including entry-level subscriptions and bundle deals, by approximately $2 to $3. The price increases will take effect on October 21.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -774,8 +1039,8 @@
       "Sportsnet"
     ],
     "domains": [
-      "www.sportsnet.ca",
-      "www.espn.com"
+      "www.espn.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
       "Ace Tarik Skubal fell apart on the mound in Cleveland on Tuesday night and Detroit lost its seventh straight game, allowing the Guardians to catch the Tigers in the standings and secure the tiebreaker.",
@@ -788,134 +1053,15 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.839,
+      "recency": 0.771,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.655,
+    "score": 0.641,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "On Tuesday night, Detroit Tigers' ace Tarik Skubal struggled on the mound, leading to a 5-2 loss against the Cleveland Guardians. This defeat marked the Tigers' seventh consecutive loss. During a pivotal sixth inning, José Ramírez's swinging bunt drove in a run, contributing to the Guardians' rally. The victory allowed the Guardians to tie with the Tigers for first place in the AL Central and secure the tiebreaker.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Phoenix Wins Overtime Thriller Against Minnesota in WNBA Semifinals",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Tue, 23 Sep 2025 23:38:00 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "CBS Sports"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.cbssports.com"
-    ],
-    "snippets": [
-      "The 2025 WNBA semifinals are underway, and Phoenix beat Minnesota in OT in an instant classic Tuesday.",
-      "We're down to the final four in the 2025 WNBA playoffs",
-      "The Lynx will try to take a commanding 2-0 series lead on Tuesday night"
-    ],
-    "image_url": "",
-    "titles": [
-      "WNBA playoff schedule: Fever, Lynx take 1-0 leads in semifinals",
-      "WNBA playoff bracket, where to watch: Schedule, scores, TV channel for Fever vs. Aces, Mercury vs. Lynx",
-      "Lynx vs. Mercury schedule: Game times, where to watch and what to know about WNBA playoff semifinals"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.837,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.654,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "In the 2025 WNBA semifinals, Phoenix defeated Minnesota in an overtime match that was hailed as an instant classic. Despite this loss, Minnesota aims to secure a 2-0 series lead in their next game on Tuesday night.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Yankees Secure Postseason Berth with 3-2 Win Over White Sox",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 01:08:55 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Sportsnet"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "www.espn.com"
-    ],
-    "snippets": [
-      "José Caballero, acquired at the trade deadline to provide a versatile spark off the bench, swatted a two-out, walk-off single in the ninth inning Tuesday night against the White Sox to secure the Yankees their 60th postseason berth in franchise history.",
-      "<p>Watch as New York Yankees infielder Jose Caballero hits a walk-off single against the Chicago white Sox to clinch a post-season berth for his team.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Caballero's walk-off seals Yanks' 60th playoff berth",
-      "Yankees’ Caballero hits single to walk off White Sox and clinch playoff berth"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.863,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.653,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Jose Caballero's walk-off single scored Aaron Judge, leading the New York Yankees to a 3-2 victory over the Chicago White Sox, securing their postseason berth for the eighth time in nine seasons. This win marks the Yankees' 60th postseason appearance in team history.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Guardians' David Fry Hit in Face by Pitch, Carted Off Field",
-    "domain": "sports",
-    "source_domain": "ftw.usatoday.com",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 11:36:51 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sportsnet",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "ftw.usatoday.com"
-    ],
-    "snippets": [
-      "Is David Fry OK after he got hit in the face with a Tarik Skubal fastball?",
-      "<p>Guardians designated hitter David Fry was carted off the field in the sixth inning Tuesday night after being hit in the face by a pitch as he tried to bunt.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "David Fry injury update after Guardians DH hit in the face with pitch",
-      "Guardians’ Fry hospitalized after being hit in face by pitch during bunt"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.988,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.653,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "David Fry, the Guardians' designated hitter, was hit in the face by a Tarik Skubal fastball while attempting to bunt during the sixth inning of Tuesday night's game. Following the incident, he was carted off the field for medical attention.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -946,327 +1092,15 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.901,
+      "recency": 0.828,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.642,
+    "score": 0.628,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Super Typhoon Ragasa caused significant destruction across Taiwan, the Philippines, Hong Kong, and Macau, resulting in at least 14 deaths in Taiwan. The storm led to widespread flooding, and disruptions to flights, prompting schools and businesses in Hong Kong and Guangdong to close.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Super Typhoon Ragasa Hits Hong Kong; 14 Dead in Taiwan, 1M Evacuate in China",
-    "domain": "science",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-09-24T04:13:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "Phys.org",
-      "Deutsche Welle"
-    ],
-    "domains": [
-      "www.dw.com",
-      "phys.org"
-    ],
-    "snippets": [
-      "Ragasa, one of the strongest storms in years, also caused major damage and injuries in Hong Kong. In southern China, more than a million people evacuated their homes before it made landfall.",
-      "Fierce winds, pounding rain and high seas battered Hong Kong on Wednesday as Super Typhoon Ragasa headed into southern China after causing a lake burst that killed at least 14 people in Taiwan."
-    ],
-    "image_url": "",
-    "titles": [
-      "Super Typhoon Ragasa leaves several dead in Taiwan",
-      "14 killed by lake burst in Taiwan as Super Typhoon Ragasa wreaks havoc"
-    ],
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.847,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.638,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Super Typhoon Ragasa, one of the most powerful storms in years, struck Hong Kong with fierce winds and heavy rain, causing significant damage and injuries. Prior to hitting Hong Kong, it led to a lake burst in Taiwan, resulting in at least 14 deaths. In southern China, over a million people evacuated their homes in anticipation of the storm's landfall.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Colombia's Petro Seeks UN Probe into Trump Over Caribbean Strikes",
-    "domain": "general",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-09-24T03:37:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "The Guardian",
-      "Deutsche Welle"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.dw.com"
-    ],
-    "snippets": [
-      "Gustavo Petro has called for a criminal investigation against Donald Trump over deadly strikes on boats in the Caribbean. Earlier, the US president said all drug smugglers will be blown \"out of existence.\" DW has more.",
-      "<p>At UN, Gustavo Petro says ‘poor young people’ died in US strikes on alleged drug trafficking boats off Caribbean coast</p><p><a href=\"https://www.theguardian.com/world/colombia\">Colombia</a>’s president Gustavo Petro addressed the UN general assembly Tuesday to call for a “criminal process” to be"
-    ],
-    "image_url": "",
-    "titles": [
-      "UNGA: Colombia's Petro wants Trump to face criminal process",
-      "Colombia’s Petro urges ‘criminal process’ against Trump for Venezuelan strikes"
-    ],
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.836,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.636,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Colombian President Gustavo Petro called for a criminal investigation against Donald Trump at the UN, citing deadly strikes on boats in the Caribbean targeting alleged drug smugglers. Petro highlighted the death of \"poor young people\" in these strikes. The call for legal action follows Trump's declaration to eliminate drug trafficking threats.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Trump Cancels Meeting on Gov Shutdown, Blames Democrats",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Tue, 23 Sep 2025 21:36:08 GMT",
-    "source": "Axios",
-    "sources": [
-      "CNBC",
-      "Axios"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.cnbc.com"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOWDlTYlFqNlNRRTZVT294VTFRVGhrYlpoV3l5TDdnT0x3N1laNU5nTWFJUXlUOTFnRUpldHVFQ3NHNE1pYms4NXdjeWlWdFU3X3JySjBId3NXVVFFNzU0NTJRbkhBbjRfYnNTWHdoMEdvM2Y4eDlITlI3UEFKLUpCQ2I2OG5DSDJVR0VHblppMkREZw?oc=5\" target=\"_blank\">Trump cancels meeting with to",
-      "New York Democrats Sen. Chuck Schumer and Rep. Hakeem Jeffries say Trump will take the blame for a federal government shutdown if a deal can't be reached."
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump cancels meeting with top Democrats as shutdown looms - Axios",
-      "Trump cancels meeting with top Democrats as government shutdown looms"
-    ],
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.723,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.614,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Former President Donald Trump canceled a meeting aimed at preventing a federal government shutdown, blaming Congressional Democrats for the impasse. He accused them of losing their way in a post on Truth Social. New York Democrats Senator Chuck Schumer and Representative Hakeem Jeffries countered by stating Trump would be blamed for the shutdown, criticizing him for avoiding negotiations. The potential shutdown threatens federal workers' pay, air travel, and food stamp distribution.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Study on Apple Cider Vinegar for Weight Loss Retracted Due to Errors",
-    "domain": "science",
-    "source_domain": "scitechdaily.com",
-    "location": "global",
-    "published": "Tue, 23 Sep 2025 22:55:14 +0000",
-    "source": "SciTechDaily",
-    "sources": [
-      "SciTechDaily",
-      "Phys.org"
-    ],
-    "domains": [
-      "scitechdaily.com",
-      "phys.org"
-    ],
-    "snippets": [
-      "<a href=\"https://scitechdaily.com/viral-apple-cider-vinegar-weight-loss-breakthrough-turns-out-to-be-flawed-science/\" rel=\"nofollow\" title=\"Viral Apple Cider Vinegar Weight Loss Breakthrough Turns Out To Be Flawed Science\"><img alt=\"Apple Cider Vinegar\" class=\"webfeedsFeaturedVisual wp-post-image\" h",
-      "An influential study claiming that drinking a small amount of apple cider vinegar every day helps people lose weight was retracted on Wednesday after an investigation found it contained multiple errors."
-    ],
-    "image_url": "",
-    "titles": [
-      "Viral Apple Cider Vinegar Weight Loss Breakthrough Turns Out To Be Flawed Science",
-      "Journal retracts study linking apple cider vinegar to weight loss"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.758,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.607,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "An influential study promoting apple cider vinegar for weight loss was retracted due to multiple errors found in its methodology. The investigation revealed the science behind the claim was flawed, overturning previous conclusions about its effectiveness for weight loss.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "NASA Eyes Crewed Artemis Moon Flight Within 20 Weeks",
-    "domain": "science",
-    "source_domain": "phys.org",
-    "location": "global",
-    "published": "Tue, 23 Sep 2025 15:42:03 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Ars Technica",
-      "Phys.org"
-    ],
-    "domains": [
-      "arstechnica.com",
-      "phys.org"
-    ],
-    "snippets": [
-      "After multiple delays, the first crewed Artemis flight around the moon could be less than 20 weeks away, NASA officials said Tuesday, putting the space program one step closer to returning to the moon itself in its \"second space race\" with China.",
-      "\"There is a desire for us to be the first to return to the surface of the Moon.\""
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/moon-orbit.jpg",
-    "titles": [
-      "NASA officials say Artemis II moon flight could come in early February",
-      "NASA targeting early February for Artemis II mission to the Moon"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.709,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.607,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "NASA officials announced that the first crewed Artemis flight around the moon could occur in less than 20 weeks, advancing the space agency's goal to return to the lunar surface and stay ahead in the space race with China. This development brings NASA one step closer to its objective of returning humans to the moon.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: development",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Fed Chair Powell Warns of High Asset Prices, Echoes Greenspan's Caution",
-    "domain": "business",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Tue, 23 Sep 2025 18:12:02 GMT",
-    "source": "CNBC",
-    "sources": [
-      "Fortune",
-      "CNBC"
-    ],
-    "domains": [
-      "www.cnbc.com",
-      "fortune.com"
-    ],
-    "snippets": [
-      "Powell on Tuesday noted that asset prices, a category that typically includes stocks and other risk instruments, are at elevated levels.",
-      "Investors are wary of any sign that the Fed thinks “irrational exuberance”—as former Fed chair Alan Greenspan once called it—has kicked in."
-    ],
-    "image_url": "",
-    "titles": [
-      "Fed Chief Powell says stock prices appear 'fairly highly valued'",
-      "Markets are selling off after Powell said six words investors don’t want to hear: ‘Equity prices are fairly highly valued’"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.673,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.597,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "On Tuesday, Federal Reserve Chair Powell remarked that asset prices, which generally encompass stocks and similar risk assets, are currently high. This observation has made investors cautious, recalling former Fed Chair Alan Greenspan's warning against \"irrational exuberance\" in the market.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Ex-Philippine President Duterte Arrested on ICC Warrant, Detained in Netherlands",
-    "domain": "general",
-    "source_domain": "www.theguardian.com",
-    "location": "global",
-    "published": "Tue, 23 Sep 2025 13:21:33 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "Washington Post",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.washingtonpost.com"
-    ],
-    "snippets": [
-      "<p>Three charges against Duterte stem from his years-long campaign against drug users and dealers that rights groups say killed thousands</p><p>International criminal court prosecutors have charged the former president of the Philippines Rodrigo Duterte with three counts of crimes against humanity o",
-      "International Criminal Court prosecutors allege that Rodrigo Duterte carried out crimes against humanity while in office, in pursuit of a brutal war on drugs."
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/36e46b6c2bd64ad14e7d3135a25053510f503491/1346_478_3779_3023/master/3779.jpg?width=140&quality=85&auto=format&fit=max&s=6ce7f7712298e3295b9a652f5ff3f00f",
-    "titles": [
-      "Rodrigo Duterte, former Philippines president, charged with crimes against humanity at ICC",
-      "Duterte, former Philippine president, charged with murder at ICC"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.609,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.584,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Former Philippine President Rodrigo Duterte was arrested in March by local authorities on an International Criminal Court (ICC) warrant and is currently detained in the Netherlands. The ICC has charged Duterte with three counts of crimes against humanity related to his aggressive anti-drug campaign, which rights groups claim resulted in thousands of deaths.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "NASA Picks 10 Astronauts for 2025 Class, Eyes Moon and Mars Missions",
-    "domain": "science",
-    "source_domain": "www.sciencedaily.com",
-    "location": "global",
-    "published": "Tue, 23 Sep 2025 10:10:07 EDT",
-    "source": "ScienceDaily",
-    "sources": [
-      "NASA",
-      "ScienceDaily"
-    ],
-    "domains": [
-      "www.nasa.gov",
-      "www.sciencedaily.com"
-    ],
-    "snippets": [
-      "NASA has chosen 10 new astronaut candidates who will train for missions to the Moon and Mars. Their selection represents a powerful blend of talent and ambition, fueling humanity’s next great leaps into space.",
-      "NASA’s 2025 astronaut candidate class greets the crowd in this Sept. 22, 2025, image. The group was introduced Monday following a competitive selection process of more than 8,000 applicants from across the United States. The class now will complete nearly two years of training before becoming eligib"
-    ],
-    "image_url": "",
-    "titles": [
-      "10 people who beat 8,000 others to become NASA astronaut candidates",
-      "NASA’s New Astronaut Candidates"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.632,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.581,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "NASA selected 10 astronaut candidates from over 8,000 applicants for its 2025 class, introduced on Sept. 22, 2025. These candidates will undergo nearly two years of training for future Moon and Mars missions, marking a significant step in human space exploration.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1276,7 +1110,7 @@
     "domain": "technology",
     "source_domain": "techcrunch.com",
     "location": "global",
-    "published": "Tue, 23 Sep 2025 22:00:00 +0000",
+    "published": "Wed, 24 Sep 2025 15:00:00 +0000",
     "source": "TechCrunch",
     "sources": [
       "TechCrunch"
@@ -1285,24 +1119,24 @@
       "techcrunch.com"
     ],
     "snippets": [
-      "At TechCrunch Disrupt 2025, True Anomaly’s Even Rogers and Vast’s Max Haot will join the Space Stage to explore what’s needed to unlock a sustainable and scalable space economy.",
-      "On the AI Stage at TechCrunch Disrupt 2025, Mercor co-founder and CEO Brendan Foody will break down how artificial intelligence is transforming not just how we work, but also who gets to work in the first place.",
-      "Vinod Khosla, founder of Khosla Ventures, takes the Disrupt Stage for a candid fireside chat on AI, climate, healthcare, and transformational startups. Hear blunt, big-picture advice from one of tech’s most legendary investors, and learn what founders truly need to succeed in turbulent times."
+      "Kevin Rose, Digg founder and True Ventures partner, returns to the Disrupt Stage at TechCrunch Disrupt 2025 to talk pivots, reinvention, and spotting the next wave of breakout startups.",
+      "The AI Stage at TechCrunch Disrupt 2025, happening October 27–29 in San Francisco, is officially locked and loaded, featuring the powerhouses shaping the future of artificial intelligence. Explore the full agenda and grab your pass with savings of up to $668.",
+      "At TechCrunch Disrupt 2025, True Anomaly’s Even Rogers and Vast’s Max Haot will join the Space Stage to explore what’s needed to unlock a sustainable and scalable space economy."
     ],
     "image_url": "",
     "titles": [
-      "Building the new backbone of space at TechCrunch Disrupt 2025",
-      "Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025",
-      "Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025"
+      "From Digg to deals: Kevin Rose on reinvention and investing at TechCrunch Disrupt 2025",
+      "Step into the future: The full AI Stage at TechCrunch Disrupt 2025",
+      "Building the new backbone of space at TechCrunch Disrupt 2025"
     ],
     "score_components": {
       "magnitude": 0.393,
-      "recency": 0.744,
+      "recency": 0.974,
       "consensus": 0.35,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.434,
+    "score": 0.48,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "At TechCrunch Disrupt 2025, leaders in technology and investment, including Even Rogers, Max Haot, Brendan Foody, and Vinod Khosla, will discuss key topics shaping the future. They'll cover the development of a sustainable space economy, the impact of AI on employment, and the role of startups in addressing major global challenges such as climate change and healthcare. The event aims to provide insights into creating successful ventures in a rapidly changing world.",
