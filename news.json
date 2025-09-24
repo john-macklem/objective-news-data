@@ -7,24 +7,24 @@
     "published": "Tue, 23 Sep 2025 16:57:42 -0400",
     "source": "NPR",
     "sources": [
-      "BBC",
-      "The Guardian",
-      "Financial Times",
-      "Axios",
-      "Al Jazeera",
-      "NPR",
       "Deutsche Welle",
-      "New York Times"
+      "Al Jazeera",
+      "BBC",
+      "Axios",
+      "Financial Times",
+      "The Guardian",
+      "New York Times",
+      "NPR"
     ],
     "domains": [
-      "www.npr.org",
-      "news.google.com",
       "www.aljazeera.com",
-      "www.theguardian.com",
-      "www.ft.com",
       "www.dw.com",
+      "www.ft.com",
+      "news.google.com",
+      "www.theguardian.com",
+      "www.nytimes.com",
       "www.bbc.com",
-      "www.nytimes.com"
+      "www.npr.org"
     ],
     "snippets": [
       "Last month, President Trump said Ukraine needed to be open to giving up some of its territory in peace talks with Russia. But those talks haven't happened. Now, he says Ukraine could win it all back.",
@@ -33,8 +33,8 @@
       "US President Donald Trump said that with \"time, patience, and the financial support of Europe and, in particular, NATO,\" Ukraine could regain its territory from Russia, who he said had been fighting \"aimlessly.\"",
       "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9ISERQbzZDaV96TXlsaXZ6NG1keUdBMnU2OTY2Rmw0SHVpdWxBZUoySUszSF9XWmFmSEdTYXdLMVRDM3p1RENCSjJyX1RQdkxQNjV3OTNnTW5EZEFSdUZxQU5UU0c1bERMSTJBd3REQlJxLW9mWWswbm1n?oc=5\" target=\"_blank\">In extraordinary shift, Trump says Ukraine can win war with Rus",
       "US president signals change of stance and suggests Kyiv, with support from Europe and Nato, can restore its old borders",
-      "<p>US president claims Russia is in ‘big economic trouble’ as he calls for Nato countries to stop imports of Russian oil</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/sep/23/donald-trump-unga-autism-tylenol-us-politics-live-news-updates\">US politics live – latest updates</a></",
-      "President Trump’s pivot could give him room to distance himself from a conflict that he once promised to solve in days or weeks."
+      "President Trump’s pivot could give him room to distance himself from a conflict that he once promised to solve in days or weeks.",
+      "<p>US president claims Russia is in ‘big economic trouble’ as he calls for Nato countries to stop imports of Russian oil</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/sep/23/donald-trump-unga-autism-tylenol-us-politics-live-news-updates\">US politics live – latest updates</a></"
     ],
     "image_url": "",
     "titles": [
@@ -44,22 +44,73 @@
       "Trump says Ukraine can regain territory lost to Russia since 2022",
       "In extraordinary shift, Trump says Ukraine can win war with Russia - Axios",
       "Trump says Ukraine can win back all of its territory seized by Russia",
-      "Trump says he believes Ukraine can regain all land lost to Russia since 2022 invasion",
-      "In a Sudden Shift, Trump Says Ukraine Can Win the War With Russia"
+      "In a Sudden Shift, Trump Says Ukraine Can Win the War With Russia",
+      "Trump says he believes Ukraine can regain all land lost to Russia since 2022 invasion"
     ],
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.858,
+      "recency": 0.791,
       "consensus": 1.0,
       "constructiveness": 0.2,
       "proximity": 0.75
     },
-    "score": 0.867,
+    "score": 0.853,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "President Trump has shifted his stance on the conflict between Ukraine and Russia, now stating that Ukraine can reclaim its territory with support from NATO and Europe. This marks a significant change from his previous position, where he suggested both Kyiv and Moscow might need to cede land to end the conflict. Trump's updated view aligns with increased assistance for Ukraine and suggests a strategic distance from the conflict, which he once claimed he could resolve quickly. Ukrainian President Zelenskyy has expressed gratitude towards Trump for his efforts to end the war.",
     "constructiveness_score": 0.2,
     "constructiveness_reason": "keywords: effort, support",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Super Typhoon Ragas Causes Barrier Lake Burst in Taiwan, 14 Dead, 124 Missing",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 04:36:43 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Deutsche Welle",
+      "Al Jazeera",
+      "The Guardian",
+      "ABC News",
+      "New York Times"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.dw.com",
+      "www.theguardian.com",
+      "abcnews.go.com",
+      "www.nytimes.com"
+    ],
+    "snippets": [
+      "Taiwanese authorities say 124 people are missing after barrier lake burst its banks in rural township.",
+      "Ragasa, one of the strongest storms in years, also caused major damage and injuries in Hong Kong. In southern China, more than a million people evacuated their homes ahead of its landfall.",
+      "Huge waves from Super Typhoon Ragasa — the world's most powerful tropical typhoon this year — slam into Taiwan’s remote Orchid Island.",
+      "<p>Strong winds, rain and flooding in Hong Kong after typhoon causes lake to burst in Taiwan’s Hualien county</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/sep/24/typhoon-ragasa-live-china-hong-kong-taiwan-philippines-latest-storm-news-updates\">Super Typhoon Ragasa – latest upda",
+      "One million residents of Guangdong, in southern China, were evacuated. The storm left 14 dead in Taiwan."
+    ],
+    "image_url": "",
+    "titles": [
+      "Super Typhoon Ragasa kills 14 in Taiwan, hits Hong Kong with fierce winds",
+      "Super Typhoon Ragasa leaves several dead in Taiwan",
+      "WATCH:  Huge waves from Super Typhoon Ragasa lash Taiwanese Island",
+      "Super Typhoon Ragasa: at least 14 killed in Taiwan as Hong Kong and southern China brace for impact",
+      "Typhoon Ragasa Kills 14 in Taiwan as Hong Kong Faces Strong Winds"
+    ],
+    "score_components": {
+      "magnitude": 0.964,
+      "recency": 0.928,
+      "consensus": 0.995,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.822,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "A barrier lake in Taiwan's Hualien county burst due to Super Typhoon Ragas, resulting in at least 14 deaths and 124 people missing. The typhoon also caused flooding in Hong Kong and Macau, leading to disrupted flights.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
@@ -70,18 +121,18 @@
     "published": "Tue, 23 Sep 2025 14:43:17 -0400",
     "source": "NPR",
     "sources": [
+      "Al Jazeera",
+      "Axios",
       "The Guardian",
       "ABC News",
-      "Axios",
-      "NPR",
-      "Al Jazeera"
+      "NPR"
     ],
     "domains": [
-      "www.npr.org",
       "www.aljazeera.com",
-      "www.theguardian.com",
       "news.google.com",
-      "abcnews.go.com"
+      "www.theguardian.com",
+      "abcnews.go.com",
+      "www.npr.org"
     ],
     "snippets": [
       "Jurors convicted Routh on five charges, including last year's attempted assassination of Trump as he golfed at his South Florida course. Routh represented himself in court and faces life in prison.",
@@ -100,64 +151,17 @@
     ],
     "score_components": {
       "magnitude": 0.964,
-      "recency": 0.819,
+      "recency": 0.755,
       "consensus": 0.995,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.825,
+    "score": 0.812,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Ryan Routh was convicted on five charges, including the attempted assassination of Donald Trump at a South Florida golf course last year. Representing himself in court, Routh now faces a life sentence. The jury concluded Routh intended to kill Trump during the incident. After the verdict, Routh attempted to stab himself in the neck with a pen.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "OpenAI and Oracle Launch $500B Stargate AI Project in Texas",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 00:27:36 GMT",
-    "source": "Axios",
-    "sources": [
-      "Financial Times",
-      "Axios",
-      "TechCrunch",
-      "CNBC"
-    ],
-    "domains": [
-      "www.ft.com",
-      "news.google.com",
-      "techcrunch.com",
-      "www.cnbc.com"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE10cjBrMDkxZWZWbU1jekZrN3RrVklkTldxWGJSMG44eEdOcmVicXhSTTgzNU4wNmIxdS1zSVNiN1JsbTRiSjFsNjktX19GMFdkdk1XQmdwWFprQ3kybUZzOGZhN3h0VGw3UmNJU3pfUi13ZTlfeEctbEZB?oc=5\" target=\"_blank\">OpenAI announces five new sites for Stargate data center projec",
-      "OpenAI and Oracle are betting big on America's AI future, bringing online the flagship site of the $500 billion Stargate program in Abilene, Texas.",
-      "The agreements will take the cost of the high-profile data centre initiative to $400bn",
-      "OpenAI is continuing to build out massive AI data centers to train and serve increasingly powerful AI models."
-    ],
-    "image_url": "",
-    "titles": [
-      "OpenAI announces five new sites for Stargate data center project - Axios",
-      "OpenAI's first data center in $500B Stargate project is open in Texas, with sites coming in New Mexico and Ohio",
-      "OpenAI expands Stargate AI project with five US sites",
-      "OpenAI is building five new Stargate data centers with Oracle and SoftBank"
-    ],
-    "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.904,
-      "consensus": 0.908,
-      "constructiveness": 0.2,
-      "proximity": 0.5
-    },
-    "score": 0.797,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "OpenAI, in partnership with Oracle, has launched the flagship site of the $500 billion Stargate project in Abilene, Texas, marking a significant investment in the future of American AI. This initiative, which aims to expand AI data centers for training and deploying advanced AI models, will see its costs rise to $400 billion as it progresses.",
-    "constructiveness_score": 0.2,
-    "constructiveness_reason": "keywords: initiative, progress",
     "constructiveness_source": "heuristic"
   },
   {
@@ -168,21 +172,21 @@
     "published": "Wed, 24 Sep 2025 02:16:26 GMT",
     "source": "BBC",
     "sources": [
-      "The Guardian",
+      "Deutsche Welle",
       "BBC",
       "Fortune",
-      "Deutsche Welle"
+      "The Guardian"
     ],
     "domains": [
-      "fortune.com",
       "www.dw.com",
-      "www.bbc.com",
-      "www.theguardian.com"
+      "fortune.com",
+      "www.theguardian.com",
+      "www.bbc.com"
     ],
     "snippets": [
       "The actress, who starred in Fellini's 8 1/2, is synonymous with the golden age of Italian cinema.",
       "Best known for her role in Federico Fellini's \"8½,\" Cardinale has passed away after starring in over 100 productions.",
-      "<p>The husky-voiced, chain-smoking actor had a reputation as a fiercely independent, free-spirited woman</p><p>Claudia Cardinale, a glamorous symbol of post-war Italian cinema who enjoyed a long and varied acting career on film and in the theatre, has died at age 87, according to AFP and other Frenc",
+      "<p>The husky-voiced, chain-smoking actor had a reputation as a fiercely independent, free-spirited woman</p><ul><li><p><a href=\"https://www.theguardian.com/film/gallery/2025/sep/23/claudia-cardinale-a-life-in-pictures\">Claudia Cardinale: a life in pictures</a></p></li></ul><p></p><p>Claudia Cardinal",
       "“It’s marvelous to live so many lives,\" Cardinale said. \"I’ve been living more than 150 lives, totally different women.”"
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4639/live/d8a17ff0-98e9-11f0-8370-cbf41ac97b25.jpg",
@@ -194,13 +198,13 @@
     ],
     "score_components": {
       "magnitude": 0.892,
-      "recency": 0.939,
+      "recency": 0.866,
       "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.777,
-    "summary_source": "gpt",
+    "score": 0.762,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Claudia Cardinale, celebrated for her role in Federico Fellini's \"8½\" and a symbol of the golden age of Italian cinema, has died at 87. With a career spanning over 100 productions, Cardinale was known for her husky voice, independent spirit, and significant impact on post-war cinema.",
     "constructiveness_score": 0.0,
@@ -208,49 +212,175 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Yankees Secure Postseason Berth with 3-2 Win Over White Sox",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
+    "title": "Jimmy Kimmel Back on TV, Defends Free Speech Amid Trump Criticism",
+    "domain": "business",
+    "source_domain": "www.npr.org",
     "location": "national",
-    "published": "Wed, 24 Sep 2025 02:14:59 +0000",
-    "source": "CBS Sports",
+    "published": "Wed, 24 Sep 2025 02:01:06 -0400",
+    "source": "NPR",
     "sources": [
-      "Yahoo Sports",
-      "CBS Sports",
-      "Sportsnet"
+      "Deutsche Welle",
+      "Business Insider",
+      "NPR"
     ],
     "domains": [
-      "www.nbcsports.com",
-      "sports.yahoo.com",
-      "www.sportsnet.ca",
-      "www.cbssports.com"
+      "www.dw.com",
+      "www.npr.org",
+      "www.businessinsider.com"
     ],
     "snippets": [
-      "This marks the Yankees' eighth postseason appearance in the last nine seasons",
-      "Jose Caballero hit a walk-off single as the New York Yankees clinched a Major League Baseball post-season berth on Tuesday with a 3-2 come-from-behind victory over the Chicago White Sox.He then had a balk before Jose Ramirez scored on a groundout to put Cleveland up 3-2.",
-      "With the win, the Yankees reached the postseason for the 60th time in team history.",
-      "<p>Watch as New York Yankees infielder Jose Caballero hits a walk-off single against the Chicago white Sox to clinch a post-season berth for his team.</p>",
-      "<p>José Caballero&#8217;s RBI single with two out in the ninth inning scored Aaron Judge and the New York Yankees rallied to beat the Chicago White Sox 3-2 Tuesday night, securing their eighth playoff appearance in nine seasons.</p>"
+      "The comedian was suspended for nearly a week by ABC's parent company, Disney, before returning to airwaves on Tuesday night.",
+      "Jimmy Kimmel was back on TV after a six-day suspension with a defense of free speech and criticism of \"bullying\" from the US president. Donald Trump said ABC's decision to reinstate Kimmel \"puts the network in jeopardy.\"",
+      "Jimmy Kimmel returned to some airwaves on Tuesday night. Here's what he said.",
+      "Before Donald Trump's comments, two of the nation's largest station owners said they would not air Kimmel's show on their local stations."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/24/34bde306-1a5e-480a-8f62-4758e3a9ed94/caballero-imagn.png",
+    "image_url": "",
     "titles": [
-      "Yankees clinch MLB playoff berth: Bombers, led by MVP favorite Aaron Judge, still eyeing AL East title",
-      "Yankees clinch MLB playoff berth with walk-off win over White Sox",
-      "Yankees rally past White Sox 3-2, clinch playoff berth and close within 1 game of Toronto in AL East",
-      "Yankees’ Caballero hits single to walk off White Sox and clinch playoff berth",
-      "Yankees clinch playoff berth, move within one of AL East-leading Blue Jays"
+      "'We have to speak out,' Jimmy Kimmel says in his late night return",
+      "Jimmy Kimmel returns to late night amid Trump criticism",
+      "Jimmy Kimmel took aim at Trump and the FCC chair in his emotional return to late-night",
+      "Trump railed against Jimmy Kimmel ahead of the comedian's return to late-night"
     ],
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.958,
-      "consensus": 0.809,
+      "magnitude": 0.847,
+      "recency": 0.956,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.76,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Jimmy Kimmel returned to television on Tuesday night after a six-day suspension by Disney, ABC's parent company. In his comeback, Kimmel defended free speech and criticized \"bullying\" from US President Donald Trump, who questioned ABC's decision to reinstate him, suggesting it jeopardized the network. Prior to Trump's remarks, two major station owners had announced they would not broadcast Kimmel's show on their local stations.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Jimmy Kimmel Back on Air; Sparks Free Speech Debate Amid Trump Lawsuit Hint",
+    "domain": "business",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 07:17:49 GMT",
+    "source": "BBC",
+    "sources": [
+      "Financial Times",
+      "BBC",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.ft.com",
+      "www.theguardian.com",
+      "www.bbc.com"
+    ],
+    "snippets": [
+      "The comedian returned from a brief suspension after comments he made about the killing of conservative activist Charlie Kirk.",
+      "Donald Trump makes veiled threat to sue ABC as comedian returns from suspension after Charlie Kirk comments",
+      "<p>The host’s monologue noted that the suspension of his late night programme had ignited a national debate over free speech</p><p><a href=\"https://www.theguardian.com/tv-and-radio/jimmy-kimmel\">Jimmy Kimmel</a> returned to air on Tuesday night, calling government threats to silence comedians “anti "
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eda/live/fe33ab00-9914-11f0-928c-71dbb8619e94.jpg",
+    "titles": [
+      "Jimmy Kimmel calls out 'anti-American' threats to free speech in tearful TV return",
+      "Jimmy Kimmel hits out at ‘anti-American’ threats to free speech as show returns",
+      "Jimmy Kimmel says silencing comedians is ‘anti American’, as his show returns to air after suspension"
+    ],
+    "score_components": {
+      "magnitude": 0.887,
+      "recency": 0.961,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.733,
+    "score": 0.75,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Jose Caballero's walk-off single scored Aaron Judge, leading the New York Yankees to a 3-2 victory over the Chicago White Sox, securing their postseason berth for the eighth time in nine seasons. This win marks the Yankees' 60th postseason appearance in team history.",
+    "summary": "Comedian Jimmy Kimmel returned to his late-night show after a brief suspension due to comments made about the killing of conservative activist Charlie Kirk. His return sparked a national debate on free speech, highlighted by his monologue. Concurrently, Donald Trump hinted at possibly suing ABC in relation to the incident. Kimmel's comeback has ignited discussions on the boundaries of free speech and the role of comedians in political discourse.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "\"Jimmy Kimmel Addresses Show's Suspension, Thanks Supporters on Return\"",
+    "domain": "business",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 07:03:29 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Forbes",
+      "Al Jazeera",
+      "CNBC"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.cnbc.com",
+      "www.forbes.com"
+    ],
+    "snippets": [
+      "US TV host Jimmy Kimmel said it was ‘never his intention’ to make light of the killing of Charlie Kirk.",
+      "\"Jimmy Kimmel Live!\" returned to air Tuesday night, roughly one week after the late night show was suspended by Disney's ABC broadcast network.",
+      "The late-night host thanked his audience and others who spoke up against his late-night show’s suspension."
+    ],
+    "image_url": "",
+    "titles": [
+      "Jimmy Kimmel addresses Charlie Kirk row as show returns",
+      "Jimmy Kimmel returns after ABC suspension: 'Never my intention to make light' of Charlie Kirk's murder",
+      "Jimmy Kimmel Returns: Says Charlie Kirk’s Killer Doesn’t ‘Represent Anyone’ As He Calls Out FCC Chair And Trump"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.977,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.732,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Jimmy Kimmel, host of \"Jimmy Kimmel Live!\", stated it was not his intention to trivialize the killing of Charlie Kirk. The show was suspended by ABC but resumed airing one week later. Upon return, Kimmel expressed gratitude towards his audience and supporters who opposed the suspension.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Flotilla to Gaza Reports Drone Attacks, Continues Mission Despite Threats",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 04:56:53 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "New York Times",
+      "Al Jazeera",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.nytimes.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "Activists on board the Global Sumud Flotilla said they heard explosions and saw drone attacks late on Tuesday.",
+      "<p>The Global Sumud Flotilla said they would ‘not be intimidated’, after third report of drone attacks this month</p><p>Organisers of a Gaza-bound flotilla carrying aid and pro-Palestinian activists have reported explosions and multiple drones that targeted some of their boats, currently situated ne",
+      "The vessels were aiming to deliver humanitarian aid to Gaza. The Israelis have asked that the aid be given to them to distribute."
+    ],
+    "image_url": "",
+    "titles": [
+      "Gaza aid flotilla hit by drone attacks and explosions, activists say",
+      "Explosions and drones targeting Gaza aid flotilla boats, activists say",
+      "Aid Flotilla Headed for Gaza Says It’s Under Drone Attack"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.935,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.724,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Activists aboard the Global Sumud Flotilla, heading to Gaza with humanitarian aid, reported experiencing drone attacks and hearing explosions late Tuesday. This marks the third such incident this month. Despite these events, the organizers have stated they will not be intimidated. The Israeli authorities have requested that the aid intended for Gaza be handed over to them for distribution. The current status of the flotilla and its mission remains unchanged, continuing towards its destination.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -268,9 +398,9 @@
       "CNBC"
     ],
     "domains": [
-      "news.google.com",
+      "www.cnbc.com",
       "www.npr.org",
-      "www.cnbc.com"
+      "news.google.com"
     ],
     "snippets": [
       "President Trump called off a planned Thursday meeting with top Hill Democrats to discuss a possible deal to avoid a shutdown. He called Democrats' demands \"unserious.\" Democrats say he chickened out.",
@@ -285,17 +415,60 @@
     ],
     "score_components": {
       "magnitude": 0.867,
-      "recency": 0.782,
+      "recency": 0.721,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.732,
+    "score": 0.72,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Former President Donald Trump canceled a meeting aimed at preventing a federal government shutdown, blaming Congressional Democrats for the impasse. He accused them of losing their way in a post on Truth Social. New York Democrats Senator Chuck Schumer and Representative Hakeem Jeffries countered by stating Trump would be blamed for the shutdown, criticizing him for avoiding negotiations. The potential shutdown threatens federal workers' pay, air travel, and food stamp distribution.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "OpenAI and Oracle Launch $500B Stargate AI Project in Texas",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Tue, 23 Sep 2025 20:31:14 GMT",
+    "source": "Axios",
+    "sources": [
+      "TechCrunch",
+      "Axios",
+      "CNBC"
+    ],
+    "domains": [
+      "www.cnbc.com",
+      "techcrunch.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE10cjBrMDkxZWZWbU1jekZrN3RrVklkTldxWGJSMG44eEdOcmVicXhSTTgzNU4wNmIxdS1zSVNiN1JsbTRiSjFsNjktX19GMFdkdk1XQmdwWFprQ3kybUZzOGZhN3h0VGw3UmNJU3pfUi13ZTlfeEctbEZB?oc=5\" target=\"_blank\">OpenAI announces five new sites for Stargate data center projec",
+      "OpenAI and Oracle are betting big on America's AI future, bringing online the flagship site of the $500 billion Stargate program in Abilene, Texas.",
+      "OpenAI is continuing to build out massive AI data centers to train and serve increasingly powerful AI models."
+    ],
+    "image_url": "",
+    "titles": [
+      "OpenAI announces five new sites for Stargate data center project - Axios",
+      "OpenAI's first data center in $500B Stargate project is open in Texas, with sites coming in New Mexico and Ohio",
+      "OpenAI is building five new Stargate data centers with Oracle and SoftBank"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.768,
+      "consensus": 0.789,
+      "constructiveness": 0.2,
+      "proximity": 0.5
+    },
+    "score": 0.717,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "OpenAI, in partnership with Oracle, has launched the flagship site of the $500 billion Stargate project in Abilene, Texas, marking a significant investment in the future of American AI. This initiative, which aims to expand AI data centers for training and deploying advanced AI models, will see its costs rise to $400 billion as it progresses.",
+    "constructiveness_score": 0.2,
+    "constructiveness_reason": "keywords: initiative, progress",
     "constructiveness_source": "heuristic"
   },
   {
@@ -306,14 +479,14 @@
     "published": "Tue, 23 Sep 2025 14:56:39 EST",
     "source": "ESPN",
     "sources": [
-      "Sports Illustrated",
+      "Sportsnet",
       "ESPN",
-      "Sportsnet"
+      "Sports Illustrated"
     ],
     "domains": [
-      "news.google.com",
       "www.sportsnet.ca",
-      "www.espn.com"
+      "www.espn.com",
+      "news.google.com"
     ],
     "snippets": [
       "Gundy's long tenure in Stillwater is over. Who replaces the Pokes legend and who are the key players on the roster?",
@@ -332,17 +505,60 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.823,
+      "recency": 0.759,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.726,
+    "score": 0.714,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Oklahoma State has dismissed head coach Mike Gundy after a disappointing start to the 2024 season, ending his 21-year tenure with the team. The Cowboys have struggled, losing 11 of their last 12 games. The search for Gundy's replacement is underway, with the future direction of the program and its key players now a primary focus.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "NASA's Artemis II to Orbit Moon in 2026, Eyes Lunar Landing in 2027",
+    "domain": "science",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Tue, 23 Sep 2025 22:56:01 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Ars Technica",
+      "Al Jazeera",
+      "Phys.org"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "arstechnica.com",
+      "phys.org"
+    ],
+    "snippets": [
+      "The crew of Artemis II will not land on the moon but will lay the groundwork for the first crewed missions to Mars.",
+      "NASA on Tuesday said it was on track to send astronauts to orbit the moon in early 2026, as the United States races China to return to the lunar surface.",
+      "\"There is a desire for us to be the first to return to the surface of the Moon.\""
+    ],
+    "image_url": "",
+    "titles": [
+      "NASA plans to send manned Moon mission by February 2026",
+      "NASA says on track to send astronauts around the Moon in 2026",
+      "NASA targeting early February for Artemis II mission to the Moon"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.824,
+      "consensus": 0.789,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.712,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "NASA announced plans for the Artemis II mission to orbit the Moon in early 2026, setting the stage for a lunar landing in 2027 and future crewed missions to Mars. This mission aims to establish groundwork for further space exploration as the US competes with China in returning to the lunar surface.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: plan",
     "constructiveness_source": "heuristic"
   },
   {
@@ -353,14 +569,14 @@
     "published": "Tue, 23 Sep 2025 17:34:40 +0000",
     "source": "Washington Post",
     "sources": [
+      "New York Times",
       "Washington Post",
-      "NHL",
-      "New York Times"
+      "NHL"
     ],
     "domains": [
-      "www.washingtonpost.com",
+      "www.nytimes.com",
       "news.google.com",
-      "www.nytimes.com"
+      "www.washingtonpost.com"
     ],
     "snippets": [
       "In Trump’s speech before the U.N. General Assembly, he said he had ended a growing list of conflicts. In some of them, his role remains contested.",
@@ -375,56 +591,15 @@
     ],
     "score_components": {
       "magnitude": 0.867,
-      "recency": 0.799,
+      "recency": 0.737,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.711,
+    "score": 0.698,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "During his speech at the U.N. General Assembly, President Trump claimed to have ended a list of conflicts, though his involvement in some remains disputed. He also criticized global institutions. The specifics of the conflicts or the nature of the criticism were not detailed in the provided content.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Shane Pinto Scores OT Winner, Senators Beat Maple Leafs 3-2 in Pre-Season",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 02:35:33 +0000",
-    "source": "Global News",
-    "sources": [
-      "Global News",
-      "Sportsnet"
-    ],
-    "domains": [
-      "globalnews.ca",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "Shane Pinto scored a power-play goal with two minutes left in the third period to tie the game, then scored 16 seconds into overtime to win it as the visiting Ottawa Senators rallied to edge the Toronto Maple Leafs 3-2 in NHL pre-season action at Scotiabank Arena on Tuesday.",
-      "<p>Shane Pinto scored a power-play goal with two minutes left in the third period to tie the game, then scored 16 seconds into overtime to win it as the visiting Ottawa Senators rallied to edge the Toronto Maple Leafs 3-2 in NHL pre-season action at Scotiabank Arena on Tuesday.</p>",
-      "<p>Shane Pinto scored the game-tying goal with just over two minutes remaining in the third period and buried the overtime winner to lead the Ottawa Senators to a 3-2 victory over the Toronto Maple Leafs.</p>"
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/878631a059e0ae0c38f905ce1f57922110daa5d761e81892393ca6a42de92dec.jpg?quality=65&strip=all",
-    "titles": [
-      "Pinto paces Senators to 3-2 win over Leafs in OT",
-      "Pinto paces Senators to overtime win over Maple Leafs",
-      "NHL Pre-Season Highlights: Senators 3, Maple Leafs 2 (OT)"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.965,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.705,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Shane Pinto led the Ottawa Senators to a 3-2 victory over the Toronto Maple Leafs by scoring a power-play goal to tie the game with two minutes left in the third period and then netting the winning goal 16 seconds into overtime. The match took place at Scotiabank Arena during an NHL pre-season game on Tuesday.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -442,9 +617,9 @@
       "CNBC"
     ],
     "domains": [
+      "www.cnbc.com",
       "arstechnica.com",
-      "www.theverge.com",
-      "www.cnbc.com"
+      "www.theverge.com"
     ],
     "snippets": [
       "YouTube on Tuesday said it will allow previously banned accounts to apply for reinstatement, rolling back a policy that had treated violations as permanent.",
@@ -459,15 +634,99 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.839,
+      "recency": 0.774,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.705,
+    "score": 0.692,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "YouTube, owned by Alphabet, announced it will enable channels banned for spreading COVID-19 and election misinformation in 2020 to apply for reinstatement. This marks a reversal of its prior policy treating such violations as permanent. The decision was disclosed in a letter to the House Judiciary Committee, where Alphabet suggested the Biden administration influenced its moderation policies.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Shane Pinto Scores OT Winner, Senators Beat Maple Leafs 3-2 in Pre-Season",
+    "domain": "sports",
+    "source_domain": "globalnews.ca",
+    "location": "national",
+    "published": "Wed, 24 Sep 2025 02:35:33 +0000",
+    "source": "Global News",
+    "sources": [
+      "Global News",
+      "Sportsnet"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "globalnews.ca"
+    ],
+    "snippets": [
+      "Shane Pinto scored a power-play goal with two minutes left in the third period to tie the game, then scored 16 seconds into overtime to win it as the visiting Ottawa Senators rallied to edge the Toronto Maple Leafs 3-2 in NHL pre-season action at Scotiabank Arena on Tuesday.",
+      "<p>Shane Pinto scored a power-play goal with two minutes left in the third period to tie the game, then scored 16 seconds into overtime to win it as the visiting Ottawa Senators rallied to edge the Toronto Maple Leafs 3-2 in NHL pre-season action at Scotiabank Arena on Tuesday.</p>",
+      "<p>Shane Pinto scored the game-tying goal with just over two minutes remaining in the third period and buried the overtime winner to lead the Ottawa Senators to a 3-2 victory over the Toronto Maple Leafs.</p>"
+    ],
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/878631a059e0ae0c38f905ce1f57922110daa5d761e81892393ca6a42de92dec.jpg?quality=65&strip=all",
+    "titles": [
+      "Pinto paces Senators to 3-2 win over Leafs in OT",
+      "Pinto paces Senators to overtime win over Maple Leafs",
+      "NHL Pre-Season Highlights: Senators 3, Maple Leafs 2 (OT)"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.89,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 1.0
+    },
+    "score": 0.69,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Shane Pinto led the Ottawa Senators to a 3-2 victory over the Toronto Maple Leafs by scoring a power-play goal to tie the game with two minutes left in the third period and then netting the winning goal 16 seconds into overtime. The match took place at Scotiabank Arena during an NHL pre-season game on Tuesday.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Trump Criticizes EU Immigration Policy, Global Institutions at UN Assembly",
+    "domain": "general",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Tue, 23 Sep 2025 16:38:56 GMT",
+    "source": "Axios",
+    "sources": [
+      "ABC News",
+      "New York Times",
+      "Axios"
+    ],
+    "domains": [
+      "abcnews.go.com",
+      "news.google.com",
+      "www.nytimes.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB1cFA1NVE4VGczTUtWeFlsa3ZMYzR6bmtWLWpjQWlHTWUwcUMxUTE0bFpNdmZUc1czSGludmxSQWthOVJqUkNXY0FwMFNRbkFsTXEzR3djN25RR3FweEQyV1p3TVFXMHRsb0NUX1gyc1dlekRsQnVTVA?oc=5\" target=\"_blank\">Trump's middle finger to the UN: \"Your countries are going to hel",
+      "President Donald Trump criticized the European Union's immigration policies while speaking at the United Nations General Assembly on Tuesday.",
+      "In a meandering address, President Trump rebuked global institutions and complained about immigration, environmentalists, windmills and more."
+    ],
+    "image_url": "",
+    "titles": [
+      "Trump's middle finger to the UN: \"Your countries are going to hell\" - Axios",
+      "WATCH:  Trump tells European Union nations: 'Your countries are going to hell'",
+      "‘Your Countries Are Going to Hell’: Trump Airs His Grievances at the U.N."
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.708,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.685,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "During his speech at the United Nations General Assembly, President Donald Trump criticized the European Union's immigration policies and expressed disdain for global institutions, environmentalists, and windmills. His address was wide-ranging and included various complaints.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -484,8 +743,8 @@
       "Sportsnet"
     ],
     "domains": [
-      "globalnews.ca",
-      "www.sportsnet.ca"
+      "www.sportsnet.ca",
+      "globalnews.ca"
     ],
     "snippets": [
       "Colin Miller and Colby Barlow scored the goals while Jonathan Toews played 18:36, winning just over half of his faceoffs.",
@@ -500,13 +759,13 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.968,
+      "recency": 0.892,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.699,
-    "summary_source": "gpt",
+    "score": 0.683,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Jonathan Toews returned to NHL action after a two-and-a-half-year hiatus, playing 18:36 and winning just over half of his faceoffs in a preseason game where his team, the Winnipeg Jets, lost 3-2 to the Edmonton Oilers. Despite goals from Colin Miller and Colby Barlow for the Jets, the Oilers secured the win with goals from Ty Emberson, Isaac Howard, and Quinn Hutson, alongside 13 saves from Matt Tomkins.",
     "constructiveness_score": 0.0,
@@ -514,89 +773,54 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Criticizes EU Immigration Policy, Global Institutions at UN Assembly",
-    "domain": "general",
-    "source_domain": "news.google.com",
+    "title": "Lowe Powers Red Sox to 4-1 Win Over Blue Jays; MLB Roundup",
+    "domain": "sports",
+    "source_domain": "globalnews.ca",
     "location": "national",
-    "published": "Tue, 23 Sep 2025 16:34:31 GMT",
-    "source": "Axios",
+    "published": "Wed, 24 Sep 2025 02:13:34 +0000",
+    "source": "Global News",
     "sources": [
-      "Axios",
-      "New York Times",
-      "ABC News"
+      "Global News",
+      "Sportsnet"
     ],
     "domains": [
-      "news.google.com",
-      "abcnews.go.com",
-      "www.nytimes.com"
+      "www.sportsnet.ca",
+      "globalnews.ca"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB1cFA1NVE4VGczTUtWeFlsa3ZMYzR6bmtWLWpjQWlHTWUwcUMxUTE0bFpNdmZUc1czSGludmxSQWthOVJqUkNXY0FwMFNRbkFsTXEzR3djN25RR3FweEQyV1p3TVFXMHRsb0NUX1gyc1dlekRsQnVTVA?oc=5\" target=\"_blank\">Trump's middle finger to the UN: \"Your countries are going to hel",
-      "President Donald Trump criticized the European Union's immigration policies while speaking at the United Nations General Assembly on Tuesday.",
-      "In a meandering address, President Trump rebuked global institutions and complained about immigration, environmentalists, windmills and more."
+      "Nathaniel Lowe had RBI singles in the second and sixth innings as the Boston Red Sox earned a 4-1 win over the Toronto Blue Jays on Tuesday.",
+      "<p>Nathaniel Lowe finished with two hits and two RBIs and Carlos Narváez hit a pivotal two-run double in the sixth inning to lead the Boston Red Sox to a 4-1 win over the Toronto Blue Jays.</p>",
+      "<p>Dominic Canzone hit a solo homer in the fifth and Josh Naylor hit a clutch three-run double in the eighth inning to elevate the Seattle Mariners to a 4-3 win over the Colorado Rockies.</p>",
+      "<p>Jeffery Springs pitched five innings of one-run ball and Jacob Wilson reached base four times as the Athletics handled the Houston Astros 5-1.</p>",
+      "<p>Francisco Lindor and Brandon Nimmo both drove in three runners on two hits as the New York Mets edged the Chicago Cubs 9-7. Nico Hoerner scored four runs on three hits in the loss. </p>",
+      "<p>Oneil Cruz blasted his 20th home run of the season to lift the Pittsburgh Pirates to a 4-2 victory over the Cincinnati Reds. Rookie Nick Yorke aided on offence, tallying two hits and an RBI in the win. </p>",
+      "<p>Heriberto Hernandez knocked a game-tying homer in the ninth and Xavier Edwards drove in the winning run as the Miami Marlins knocked off the Philadelphia Phillies 6-5 in extra innings.</p>",
+      "<p>Geraldo Perdomo hit a two-out, game-winning single in the ninth inning and the Arizona Diamondbacks recovered from an early four-run deficit to beat the Los Angeles Dodgers 5-4.</p>"
     ],
-    "image_url": "",
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/8956a40488775e568fefa4de9fb097f3f17dc401272e827645f038229bd02d4e.jpg?quality=65&strip=all",
     "titles": [
-      "Trump's middle finger to the UN: \"Your countries are going to hell\" - Axios",
-      "WATCH:  Trump tells European Union nations: 'Your countries are going to hell'",
-      "‘Your Countries Are Going to Hell’: Trump Airs His Grievances at the U.N."
+      "Lowe lifts Red Sox over Blue Jays 4-1",
+      "MLB Highlights: Red Sox 4, Blue Jays 1",
+      "MLB Highlights: Mariners 4, Rockies 3",
+      "MLB Highlights: Athletics 5, Astros 1",
+      "MLB Highlights: Mets 9, Cubs 7",
+      "MLB Highlights: Pirates 4, Reds 2",
+      "MLB Highlights: Marlins 6, Phillies 5 (F/11)",
+      "MLB Highlights: Diamondbacks 5, Dodgers 4"
     ],
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.767,
-      "consensus": 0.789,
+      "magnitude": 0.735,
+      "recency": 0.883,
+      "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 1.0
     },
-    "score": 0.697,
-    "summary_source": "cache",
+    "score": 0.682,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "During his speech at the United Nations General Assembly, President Donald Trump criticized the European Union's immigration policies and expressed disdain for global institutions, environmentalists, and windmills. His address was wide-ranging and included various complaints.",
+    "summary": "Nathaniel Lowe contributed with two RBI singles, leading the Boston Red Sox to a 4-1 victory over the Toronto Blue Jays. In other games, the Seattle Mariners edged out the Colorado Rockies 4-3, the Athletics defeated the Houston Astros 5-1, the New York Mets won against the Chicago Cubs 9-7, the Pittsburgh Pirates overcame the Cincinnati Reds 4-2, the Miami Marlins triumphed over the Philadelphia Phillies 6-5 in extra innings, and the Arizona Diamondbacks rallied to beat the Los Angeles Dodgers 5-4.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "NASA's Artemis II to Orbit Moon in 2026, Eyes Lunar Landing in 2027",
-    "domain": "science",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Tue, 23 Sep 2025 15:29:27 GMT",
-    "source": "BBC",
-    "sources": [
-      "Phys.org",
-      "BBC",
-      "Al Jazeera"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "www.bbc.com",
-      "phys.org"
-    ],
-    "snippets": [
-      "The mission around the Moon will pave the way for a lunar landing as soon as 2027.",
-      "The crew of Artemis II will not land on the moon but will lay the groundwork for the first crewed missions to Mars.",
-      "NASA on Tuesday said it was on track to send astronauts to orbit the moon in early 2026, as the United States races China to return to the lunar surface."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e57/live/d786ec00-9898-11f0-9b4d-3db5bd560027.png",
-    "titles": [
-      "Nasa to send first crewed mission around Moon in 50 years",
-      "NASA plans to send manned Moon mission by February 2026",
-      "NASA says on track to send astronauts around the Moon in 2026"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.75,
-      "consensus": 0.789,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.697,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "NASA announced plans for the Artemis II mission to orbit the Moon in early 2026, setting the stage for a lunar landing in 2027 and future crewed missions to Mars. This mission aims to establish groundwork for further space exploration as the US competes with China in returning to the lunar surface.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
     "constructiveness_source": "heuristic"
   },
   {
@@ -615,7 +839,7 @@
       "www.espn.com"
     ],
     "snippets": [
-      "Ace Tarik Skubal fell apart on the mound in Cleveland on Tuesday night and Detroit fell to its seventh straight loss, allowing the Guardians to catch the Tigers in the standings and secure the tiebreaker.",
+      "Ace Tarik Skubal fell apart on the mound in Cleveland on Tuesday night and Detroit lost its seventh straight game, allowing the Guardians to catch the Tigers in the standings and secure the tiebreaker.",
       "<p>José Ramírez drove in a run with a swinging bunt when Cleveland rallied in a strange sixth inning against Detroit ace Tarik Skubal, and the Guardians beat the Tigers 5-2 on Tuesday night to move into a tie for first place in the AL Central.</p>"
     ],
     "image_url": "",
@@ -625,13 +849,13 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.989,
+      "recency": 0.912,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.685,
-    "summary_source": "gpt",
+    "score": 0.669,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "On Tuesday night, Detroit Tigers' ace Tarik Skubal struggled on the mound, leading to a 5-2 loss against the Cleveland Guardians. This defeat marked the Tigers' seventh consecutive loss. During a pivotal sixth inning, José Ramírez's swinging bunt drove in a run, contributing to the Guardians' rally. The victory allowed the Guardians to tie with the Tigers for first place in the AL Central and secure the tiebreaker.",
     "constructiveness_score": 0.0,
@@ -639,122 +863,157 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Phoenix Wins Overtime Thriller Against Minnesota in WNBA Semifinals",
+    "title": "Yankees Secure Postseason Berth with 3-2 Win Over White Sox",
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Tue, 23 Sep 2025 23:38:00 EST",
+    "published": "Wed, 24 Sep 2025 01:08:55 EST",
     "source": "ESPN",
     "sources": [
-      "CBS Sports",
-      "ESPN"
+      "ESPN",
+      "Sportsnet"
     ],
     "domains": [
-      "www.cbssports.com",
+      "www.sportsnet.ca",
       "www.espn.com"
     ],
     "snippets": [
-      "The 2025 WNBA semifinals are underway, and Phoenix beat Minnesota in OT in an instant classic Tuesday.",
-      "The Lynx will try to take a commanding 2-0 series lead on Tuesday night"
+      "José Caballero, acquired at the trade deadline to provide a versatile spark off the bench, swatted a two-out, walk-off single in the ninth inning Tuesday night against the White Sox to secure the Yankees their 60th postseason berth in franchise history.",
+      "<p>Watch as New York Yankees infielder Jose Caballero hits a walk-off single against the Chicago white Sox to clinch a post-season berth for his team.</p>"
     ],
     "image_url": "",
     "titles": [
-      "WNBA playoff schedule: Fever, Lynx take 1-0 leads in semifinals",
-      "Lynx vs. Mercury schedule: Game times, where to watch and what to know about WNBA playoff semifinals"
+      "Caballero's walk-off seals Yanks' 60th playoff berth",
+      "Yankees’ Caballero hits single to walk off White Sox and clinch playoff berth"
     ],
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.986,
+      "magnitude": 0.735,
+      "recency": 0.938,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.684,
-    "summary_source": "gpt",
+    "score": 0.668,
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "In the 2025 WNBA semifinals, Phoenix defeated Minnesota in an overtime match that was hailed as an instant classic. Despite this loss, Minnesota aims to secure a 2-0 series lead in their next game on Tuesday night.",
+    "summary": "Jose Caballero's walk-off single scored Aaron Judge, leading the New York Yankees to a 3-2 victory over the Chicago White Sox, securing their postseason berth for the eighth time in nine seasons. This win marks the Yankees' 60th postseason appearance in team history.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Ex-Philippine President Duterte Arrested on ICC Warrant, Detained in Netherlands",
+    "title": "Trump-Epstein Statue Installed on National Mall Sparks Reactions",
     "domain": "general",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Tue, 23 Sep 2025 05:37:30 GMT",
-    "source": "Axios",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 06:54:00 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "Axios",
-      "Washington Post",
+      "Al Jazeera",
       "The Guardian"
     ],
     "domains": [
-      "www.washingtonpost.com",
-      "news.google.com",
+      "www.aljazeera.com",
       "www.theguardian.com"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUNTc2RXTkRmTEYxd0J3R3dLM28xbXhNWHJ2M2NZUHZRX0UxQm45eW1qNUxPek1JSU1fa3RWdlBSbktCbW5FNWZ6RXVZMy1JbzVXSGhIbllhcmJaQTZpQUJycmxBVU9QZWVxU29fMG8zMmRiSWtEVFhCRi1OeURIc0IxT2tmTVp3dFRRUEFCaTBMUQ?oc=5\" target=\"_blank\">ICC charges ex-Philippine Pre",
-      "<p>Three charges against Duterte stem from his years-long campaign against drug users and dealers that rights groups say killed thousands</p><p>International criminal court prosecutors have charged the former president of the Philippines Rodrigo Duterte with three counts of crimes against humanity o",
-      "International Criminal Court prosecutors allege that Rodrigo Duterte carried out crimes against humanity while in office, in pursuit of a brutal war on drugs."
+      "On a plaque, unknown artists said it was displayed &#039;in honour of friendship month&#039; for the two men.",
+      "<p>Bronze statue by an anonymous creator shows the two men frolicking and holding hands with a foot kicked back in joy</p><p>There’s a new statue on the east end of the National Mall for Washington DC residents and tourists to enjoy. The bronze statue shows two men frolicking, grinning wide and hold"
     ],
     "image_url": "",
     "titles": [
-      "ICC charges ex-Philippine President Duterte with crimes against humanity - Axios",
-      "Rodrigo Duterte, former Philippines president, charged with crimes against humanity at ICC",
-      "Duterte, former Philippine president, charged with murder at ICC"
+      "Satirical statue in DC notes ‘long-lasting bond’ between Trump, Epstein",
+      "New statue on National Mall celebrates ‘long-lasting bond’ between Trump and Epstein"
     ],
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.61,
-      "consensus": 0.789,
+      "magnitude": 0.755,
+      "recency": 0.973,
+      "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.666,
+    "score": 0.657,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Former Philippine President Rodrigo Duterte was arrested in March by local authorities on an International Criminal Court (ICC) warrant and is currently detained in the Netherlands. The ICC has charged Duterte with three counts of crimes against humanity related to his aggressive anti-drug campaign, which rights groups claim resulted in thousands of deaths.",
+    "summary": "A bronze statue depicting Donald Trump and Jeffrey Epstein holding hands and frolicking has been installed on the east end of the National Mall in Washington DC. Created by an anonymous artist, the statue features both men with wide grins and a foot kicked back in joy, sparking reactions among residents and tourists.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Drone Strike at Haiti Party Kills 8 Children, Mistargets Gang Leader",
+    "title": "Super Typhoon Ragasa Hits Taiwan, Philippines, Hong Kong, Macau; 14 Dead",
     "domain": "general",
-    "source_domain": "www.nytimes.com",
+    "source_domain": "www.theguardian.com",
     "location": "global",
-    "published": "Wed, 24 Sep 2025 03:40:30 +0000",
-    "source": "New York Times",
+    "published": "Wed, 24 Sep 2025 07:40:25 GMT",
+    "source": "The Guardian",
     "sources": [
       "New York Times",
       "The Guardian"
     ],
     "domains": [
-      "www.theguardian.com",
-      "www.nytimes.com"
+      "www.nytimes.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "A drone meant to strike a gang leader hit a celebration where children had gathered. Haiti is using drones to repel gangs that control much of the capital.",
-      "<p>Six others were injured after drone explosions in Cité Soleil, where an alleged gang leader was distributing gifts</p><p>At least eight children were killed and six others seriously injured in a drone attack on a birthday party in <a href=\"https://www.theguardian.com/world/haiti\">Haiti</a>’s capi"
+      "<p>Schools and businesses closed in Hong Kong and Guangdong as powerful winds and rain set to hit after destruction across Taiwan and Philippines</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/sep/24/super-typhoon-ragasa-update-path-hong-kong-taiwan-china\">Ragasa: at least 14 killed i",
+      "The storm left 14 dead in Taiwan, and flooded Hong Kong and Macau, disrupting flights."
     ],
-    "image_url": "https://static01.nyt.com/images/2025/09/23/multimedia/23int-haiti-drones-qtkw/23int-haiti-drones-qtkw-mediumSquareAt3X.jpg",
+    "image_url": "https://i.guim.co.uk/img/media/08e97b9bdc83bc743cba156fd6a74772f9b88251/295_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f0ab1ae65c323dadd006e789c454f400",
     "titles": [
-      "Drone Strike in Haiti Kills 8 Children at a Birthday Party",
-      "Haiti: at least eight children among 13 killed in drone attack on birthday party"
+      "Typhoon Ragasa live: Two million people evacuated in southern China after deaths in Taiwan and Philippines",
+      "One Million Evacuated in China as Typhoon Ragasa Barrels Toward Coast"
     ],
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.987,
+      "magnitude": 0.755,
+      "recency": 0.969,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.666,
-    "summary_source": "cache",
+    "score": 0.656,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "In Haiti, a drone attack intended to target a gang leader mistakenly struck a birthday party in Cité Soleil, resulting in the death of at least eight children and serious injuries to six others. The incident occurred as the country employs drones to combat gangs dominating the capital.",
+    "summary": "Super Typhoon Ragasa caused significant destruction across Taiwan, the Philippines, Hong Kong, and Macau, resulting in at least 14 deaths in Taiwan. The storm led to widespread flooding, and disruptions to flights, prompting schools and businesses in Hong Kong and Guangdong to close.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "U.N. Reports Trump's Stair Incident Tied to Safety Mechanism Activation",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Wed, 24 Sep 2025 04:27:55 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "New York Times",
+      "Al Jazeera"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.nytimes.com"
+    ],
+    "snippets": [
+      "International body says mishap appears to have been caused by accidental triggering of built-in safety mechanism.",
+      "A sudden stop just as President Trump stepped on the stairs may have been caused by the triggering of a safety mechanism, the U.N. said."
+    ],
+    "image_url": "",
+    "titles": [
+      "UN denies sabotage after escalator malfunctions as Trump steps on",
+      "Escalator at U.N. Stops When Trump Steps On, Setting Off Conspiracy Theories"
+    ],
+    "score_components": {
+      "magnitude": 0.775,
+      "recency": 0.925,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.654,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "An international body, identified as the U.N., reported that a sudden stop experienced by President Trump as he stepped on the stairs was likely due to the accidental activation of a built-in safety mechanism.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -767,8 +1026,8 @@
     "published": "2025-09-24T03:37:00Z",
     "source": "Deutsche Welle",
     "sources": [
-      "The Guardian",
-      "Deutsche Welle"
+      "Deutsche Welle",
+      "The Guardian"
     ],
     "domains": [
       "www.dw.com",
@@ -785,132 +1044,15 @@
     ],
     "score_components": {
       "magnitude": 0.775,
-      "recency": 0.985,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.666,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Colombian President Gustavo Petro called for a criminal investigation against Donald Trump at the UN, citing deadly strikes on boats in the Caribbean targeting alleged drug smugglers. Petro highlighted the death of \"poor young people\" in these strikes. The call for legal action follows Trump's declaration to eliminate drug trafficking threats.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "ABC Suspends Kimmel, Affiliates Drop Show Over Remarks on Kirk's Death",
-    "domain": "business",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-09-24T03:19:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "Business Insider",
-      "Deutsche Welle"
-    ],
-    "domains": [
-      "www.dw.com",
-      "www.businessinsider.com"
-    ],
-    "snippets": [
-      "Jimmy Kimmel was suspended by ABC network for six days following comments he made about Charlie Kirk's death. Two companies that own ABC affiliates have refused to air the return of his late night show.",
-      "Before Donald Trump's comments, two of the nation's largest station owners said they would not air Kimmel's show on their local stations."
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump taken aback over Jimmy Kimmel reinstatement by ABC",
-      "Trump is railing against Jimmy Kimmel ahead of the comedian's return to late-night"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.979,
+      "recency": 0.909,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
     "score": 0.651,
-    "summary_source": "gpt",
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "ABC suspended Jimmy Kimmel for six days due to remarks about Charlie Kirk's death. Upon his return, two major ABC affiliate owners refused to broadcast his late-night show, a decision made before Donald Trump's comments on the matter.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Tether Negotiates $20B Stake Sale to Become Top Valued Crypto Firm",
-    "domain": "business",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 03:07:31 GMT",
-    "source": "CNBC",
-    "sources": [
-      "Financial Post",
-      "CNBC"
-    ],
-    "domains": [
-      "financialpost.com",
-      "www.cnbc.com"
-    ],
-    "snippets": [
-      "The crypto company is looking to raise between $15 billion and $20 billion in exchange for a roughly 3% stake through a private placement, the report said.",
-      "Tether Holdings SA, issuer of the world’s largest stablecoin, is in talks with investors to raise as much as $20 billion, a deal that could propel the crypto firm into the highest ranks of the world’s most valuable private companies."
-    ],
-    "image_url": "",
-    "titles": [
-      "Tether CEO confirms major capital raise at a reported $500 billion valuation",
-      "Crypto Giant Tether Seeks Funding at $500 Billion Valuation"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.955,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.646,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Tether Holdings SA, the issuer of the world's largest stablecoin, is negotiating with investors to raise up to $20 billion by selling about a 3% stake through a private placement. This funding could elevate the crypto company among the most valuable private firms globally.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Super Typhoon Ragas Causes Barrier Lake Burst in Taiwan, 14 Dead, 124 Missing",
-    "domain": "general",
-    "source_domain": "www.theguardian.com",
-    "location": "global",
-    "published": "Wed, 24 Sep 2025 00:30:47 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "New York Times",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.nytimes.com"
-    ],
-    "snippets": [
-      "<p>Deadly flood crashes through Taiwan’s Hualien county as barrier lake bursts banks, leaving 124 people missing as typhoon continues its path</p><p>The bursting of a barrier lake in Taiwan has killed at least 14 people and left 124 people missing, officials have announced, after Super Typhoon Ragas",
-      "The storm left 14 dead in Taiwan, and flooded Hong Kong and Macau, disrupting flights."
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/d90cc30530a06c46ac53a34fc01162238121cdb5/50_0_3747_2999/master/3747.jpg?width=140&quality=85&auto=format&fit=max&s=32e7a58980e56c72a858d8ce05841156",
-    "titles": [
-      "Super Typhoon Ragasa: at least 14 killed in Taiwan as Hong Kong and southern China brace for impact",
-      "Typhoon Ragasa Kills 14 in Taiwan as Hong Kong Braces for Powerful Storm"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.905,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.643,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "A barrier lake in Taiwan's Hualien county burst due to Super Typhoon Ragas, resulting in at least 14 deaths and 124 people missing. The typhoon also caused flooding in Hong Kong and Macau, leading to disrupted flights.",
+    "summary": "Colombian President Gustavo Petro called for a criminal investigation against Donald Trump at the UN, citing deadly strikes on boats in the Caribbean targeting alleged drug smugglers. Petro highlighted the death of \"poor young people\" in these strikes. The call for legal action follows Trump's declaration to eliminate drug trafficking threats.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -923,8 +1065,8 @@
     "published": "Tue, 23 Sep 2025 21:30:38 +0100",
     "source": "New Scientist",
     "sources": [
-      "New Scientist",
-      "CityNews"
+      "CityNews",
+      "New Scientist"
     ],
     "domains": [
       "ottawa.citynews.ca",
@@ -941,12 +1083,12 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.85,
+      "recency": 0.784,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.642,
+    "score": 0.629,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "President Donald Trump's statements on TV advising against the use of Tylenol by pregnant women and reviving debunked theories about vaccines and autism have sparked controversy. These statements go beyond the FDA's more cautious advice, leading to confusion and concern among doctors and scientists. There is a lack of scientific evidence to support the U.S. government's caution against Tylenol in pregnancy and the fast-tracking of an experimental autism medication.",
@@ -955,198 +1097,40 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Urges NATO to Shoot Down Russian Jets After Poland Incident",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Tue, 23 Sep 2025 20:54:20 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "ABC News",
-      "Al Jazeera"
-    ],
-    "domains": [
-      "abcnews.go.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "US President Donald Trump says NATO countries should shoot down Russian aircraft that violate their airspace.",
-      "Trump also pressured European countries to stop buying Russian oil."
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump: NATO countries should shoot down Russian aircraft violating airspace",
-      "Trump says NATO countries should shoot down Russian aircraft that violate airspace"
-    ],
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.857,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.64,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "US President Donald Trump suggested that NATO countries should shoot down Russian aircraft entering their airspace, following an incident where Poland, a NATO member, fired at a Russian aircraft. This marks the first such action by a NATO country against Russia since the onset of the Russia-Ukraine conflict.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Trump-Epstein Statue Installed on National Mall Sparks Reactions",
-    "domain": "general",
-    "source_domain": "news.google.com",
+    "title": "Trump Labels Migration, Climate Change \"Con Jobs\" in UN Speech Amid Malfunctions",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
     "location": "national",
-    "published": "Tue, 23 Sep 2025 23:34:38 GMT",
-    "source": "Axios",
+    "published": "Tue, 23 Sep 2025 23:09:07 GMT",
+    "source": "CNBC",
     "sources": [
-      "Axios",
-      "The Guardian"
+      "The Guardian",
+      "CNBC"
     ],
     "domains": [
-      "news.google.com",
+      "www.cnbc.com",
       "www.theguardian.com"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE05dXcza3hWam52VE5DbndEN21YR2IxYzVLZVBDUko0TVdKRTJTUkFHSVhGLXdKS1kyR1dselB3RG9Yd3VrUVpvVWptelFmcDVzdjdLSVZOTWc2S3QzaFhsNnpFekdWZXFYWGU3eVlhM3gyaWhsc2pNU2pn?oc=5\" target=\"_blank\">Statue of Trump and Epstein holding hands appears on the Nation",
-      "<p>Bronze statue by an anonymous creator shows the two men frolicking and holding hands with a foot kicked back in joy</p><p>There’s a new statue on the east end of the National Mall for Washington DC residents and tourists to enjoy. The bronze statue shows two men frolicking, grinning wide and hold"
+      "President Donald Trump, in a United Nations speech that lasted nearly an hour, criticized member nations on migration and called climate change a \"con job.\"",
+      "<p>Press secretary speculates the escalator stopped on purpose to humiliate president, but UN says safety function may have been ‘inadvertently triggered’</p><p>Donald Trump appeared to laugh it off Tuesday when an escalator and a teleprompter both malfunctioned during his United Nations visit – but"
     ],
     "image_url": "",
     "titles": [
-      "Statue of Trump and Epstein holding hands appears on the National Mall - Axios",
-      "New statue on National Mall celebrates ‘long-lasting bond’ between Trump and Epstein"
+      "Trump UN escalator snafu: White House wants investigation of sudden stop",
+      "Trump angered by ‘bad escalator’ at UN as White House vows to investigate malfunction"
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.887,
+      "recency": 0.811,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.639,
+    "score": 0.624,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "A bronze statue depicting Donald Trump and Jeffrey Epstein holding hands and frolicking has been installed on the east end of the National Mall in Washington DC. Created by an anonymous artist, the statue features both men with wide grins and a foot kicked back in joy, sparking reactions among residents and tourists.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Fed Chair Prioritizes Labor Market Concerns Over Inflation",
-    "domain": "business",
-    "source_domain": "abcnews.go.com",
-    "location": "national",
-    "published": "Tue, 23 Sep 2025 15:10:54 -0400",
-    "source": "ABC News",
-    "sources": [
-      "CNBC",
-      "ABC News"
-    ],
-    "domains": [
-      "abcnews.go.com",
-      "www.cnbc.com"
-    ],
-    "snippets": [
-      "The remarks came less than a week after the Fed cut interest rates.",
-      "Powell said Tuesday that weakness in the labor market is outweighing concerns about stubborn inflation."
-    ],
-    "image_url": "https://s.abcnews.com/images/Business/fed-ap-er-250923_1758643994446_hpMain_4x3t_384.jpg",
-    "titles": [
-      "Fed Chair Powell says rising inflation and slow hiring pose 'challenging situation'",
-      "Powell says slowing labor market prompted rate cut, sees 'challenging situation' ahead"
-    ],
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.827,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.634,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Federal Reserve Chair Jerome Powell stated on Tuesday that the current weakness in the labor market is a more significant concern than persistent inflation. This comment came shortly after the Fed decided to cut interest rates less than a week ago.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "NASA Eyes Crewed Artemis Moon Flight Within 20 Weeks",
-    "domain": "science",
-    "source_domain": "phys.org",
-    "location": "global",
-    "published": "Tue, 23 Sep 2025 15:42:03 EDT",
-    "source": "Phys.org",
-    "sources": [
-      "Ars Technica",
-      "Phys.org"
-    ],
-    "domains": [
-      "arstechnica.com",
-      "phys.org"
-    ],
-    "snippets": [
-      "After multiple delays, the first crewed Artemis flight around the moon could be less than 20 weeks away, NASA officials said Tuesday, putting the space program one step closer to returning to the moon itself in its \"second space race\" with China.",
-      "\"There is a desire for us to be the first to return to the surface of the Moon.\""
-    ],
-    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/moon-orbit.jpg",
-    "titles": [
-      "NASA officials say Artemis II moon flight could come in early February",
-      "NASA targeting early February for Artemis II mission to the Moon"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.836,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.632,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "NASA officials announced that the first crewed Artemis flight around the moon could occur in less than 20 weeks, advancing the space agency's goal to return to the lunar surface and stay ahead in the space race with China. This development brings NASA one step closer to its objective of returning humans to the moon.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: development",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Trump Airs Grievances in U.N. Speech Amid Funding Cuts",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Tue, 23 Sep 2025 17:41:33 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "New York Times",
-      "Al Jazeera"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "www.nytimes.com"
-    ],
-    "snippets": [
-      "The US president meets Arab and Muslim leaders on the sidelines of the UNGA, hoping to end the war in Gaza.",
-      "The president made inaccurate claims about the economy, renewable energy and the mayor of London.",
-      "The leaders of Ukraine and the United States will hold talks weeks after President Trump agreed to participate in postwar security guarantees for Ukraine."
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump urges Gaza war to end ‘immediately’ in UN General Assembly speech",
-      "Fact-Checking Trump’s Speech at the U.N. General Assembly",
-      "Zelensky to Meet With Trump on Sidelines of U.N. General Assembly"
-    ],
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.801,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.629,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "At the United Nations General Assembly's 80th session in New York, President Donald Trump delivered a speech marked by grievances and inaccuracies, amid the U.S. withdrawing funding for U.N. programs. Trump's address, which included warnings about immigration and green energy policies affecting western Europe, coincided with the U.N. Secretary General's statement on the organization's principles being under threat. Additionally, Trump's participation in talks with Ukraine for postwar security guarantees was noted, alongside the U.S. refusal to pay certain UN dues and a $1 billion cut in U.N. f",
+    "summary": "President Donald Trump criticized migration and climate change as a \"con job\" in a nearly hour-long UN speech. An escalator and teleprompter malfunctioned during his visit, speculated by the press secretary as intentional to humiliate him. However, the UN suggested a safety function might have been inadvertently triggered. Trump appeared to laugh off the incidents.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1177,56 +1161,17 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.834,
+      "recency": 0.769,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.629,
+    "score": 0.616,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Savant, a thriller series led by Jessica Chastain and focused on preventing domestic terrorism, was scheduled to premiere on Apple TV+ on September 26. However, after careful consideration, the show has been removed from the release schedule, and it is currently unclear if or when it will debut.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Online Retail Giant to Close 19 Shops, 5 to Become Whole Foods",
-    "domain": "business",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Tue, 23 Sep 2025 17:11:29 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "CNBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.cnbc.com"
-    ],
-    "snippets": [
-      "The online retail giant says it would convert five of the 19 shops into Whole Foods stores.",
-      "The company's grocery business has undergone significant changes over the past few years, including trimming its brick-and-mortar store footprint."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc2e/live/a738bca0-987e-11f0-b146-278281693603.jpg",
-    "titles": [
-      "Amazon to close its UK grocery stores",
-      "Amazon to close all of its Fresh grocery stores in UK"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.777,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.627,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "An online retail giant announced plans to close 19 shops, with five being converted into Whole Foods stores, as part of a strategy adjustment following the unsuccessful adoption of its till-less store concept. This move reflects significant changes in the company's approach to its grocery business, which has seen a reduction in its physical store presence recently.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
     "constructiveness_source": "heuristic"
   },
   {
@@ -1237,12 +1182,12 @@
     "published": "Tue, 23 Sep 2025 14:02:30 GMT",
     "source": "Axios",
     "sources": [
-      "Axios",
-      "TechCrunch"
+      "TechCrunch",
+      "Axios"
     ],
     "domains": [
-      "news.google.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "news.google.com"
     ],
     "snippets": [
       "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUTlOMkprWjVvMFZDRkRHekpselFfUkczV05DbXpPY09DZ3hHTl9LV0UtSG5LUVo5dkp3d3djVGVNRC1RWm5iTGFYYWtYMUxqeVVCWXl1VXlDZEZDTXZJVjZoLV9SbzNIYjBDcA?oc=5\" target=\"_blank\">Exclusive: Meta launches super PAC to fight AI regulation</a>&nbsp;&nbsp;<font co",
@@ -1255,15 +1200,54 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.727,
+      "recency": 0.671,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.607,
+    "score": 0.596,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Meta has launched the American Technology Excellence Project, a super PAC, with an investment of 'tens of millions'. The purpose is to oppose state-level policies aimed at regulating AI technology.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Ex-Philippine President Duterte Arrested on ICC Warrant, Detained in Netherlands",
+    "domain": "general",
+    "source_domain": "www.theguardian.com",
+    "location": "global",
+    "published": "Tue, 23 Sep 2025 13:21:33 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "Washington Post",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.washingtonpost.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "<p>Three charges against Duterte stem from his years-long campaign against drug users and dealers that rights groups say killed thousands</p><p>International criminal court prosecutors have charged the former president of the Philippines Rodrigo Duterte with three counts of crimes against humanity o",
+      "International Criminal Court prosecutors allege that Rodrigo Duterte carried out crimes against humanity while in office, in pursuit of a brutal war on drugs."
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/36e46b6c2bd64ad14e7d3135a25053510f503491/1346_478_3779_3023/master/3779.jpg?width=140&quality=85&auto=format&fit=max&s=6ce7f7712298e3295b9a652f5ff3f00f",
+    "titles": [
+      "Rodrigo Duterte, former Philippines president, charged with crimes against humanity at ICC",
+      "Duterte, former Philippine president, charged with murder at ICC"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.661,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.594,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Former Philippine President Rodrigo Duterte was arrested in March by local authorities on an International Criminal Court (ICC) warrant and is currently detained in the Netherlands. The ICC has charged Duterte with three counts of crimes against humanity related to his aggressive anti-drug campaign, which rights groups claim resulted in thousands of deaths.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1276,12 +1260,12 @@
     "published": "Tue, 23 Sep 2025 10:10:07 EDT",
     "source": "ScienceDaily",
     "sources": [
-      "NASA",
-      "ScienceDaily"
+      "ScienceDaily",
+      "NASA"
     ],
     "domains": [
-      "www.sciencedaily.com",
-      "www.nasa.gov"
+      "www.nasa.gov",
+      "www.sciencedaily.com"
     ],
     "snippets": [
       "NASA has chosen 10 new astronaut candidates who will train for missions to the Moon and Mars. Their selection represents a powerful blend of talent and ambition, fueling humanity’s next great leaps into space.",
@@ -1294,12 +1278,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.745,
+      "recency": 0.687,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.604,
+    "score": 0.592,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "NASA selected 10 astronaut candidates from over 8,000 applicants for its 2025 class, introduced on Sept. 22, 2025. These candidates will undergo nearly two years of training for future Moon and Mars missions, marking a significant step in human space exploration.",
@@ -1333,12 +1317,12 @@
     ],
     "score_components": {
       "magnitude": 0.393,
-      "recency": 0.877,
+      "recency": 0.809,
       "consensus": 0.35,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.46,
+    "score": 0.447,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "At TechCrunch Disrupt 2025, leaders in technology and investment, including Even Rogers, Max Haot, Brendan Foody, and Vinod Khosla, will discuss key topics shaping the future. They'll cover the development of a sustainable space economy, the impact of AI on employment, and the role of startups in addressing major global challenges such as climate change and healthcare. The event aims to provide insights into creating successful ventures in a rapidly changing world.",
