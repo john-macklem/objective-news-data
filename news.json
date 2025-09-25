@@ -1,127 +1,188 @@
 [
   {
-    "title": "Sarkozy Convicted of Taking Gaddafi Funds, Sentenced to 5 Years",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Thu, 25 Sep 2025 12:00:14 GMT",
-    "source": "BBC",
+    "title": "Starbucks Unveils $1B Restructuring, to Close 1% of Stores, Lay Off 900",
+    "domain": "business",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 11:51:03 -0400",
+    "source": "NPR",
     "sources": [
+      "ABC News",
+      "NPR",
       "The Guardian",
-      "Al Jazeera",
-      "Deutsche Welle",
+      "CNBC",
+      "Axios",
+      "Business Insider",
+      "Forbes",
       "BBC"
     ],
     "domains": [
+      "www.businessinsider.com",
+      "news.google.com",
+      "www.cnbc.com",
       "www.theguardian.com",
+      "www.forbes.com",
       "www.bbc.com",
-      "www.aljazeera.com",
-      "www.dw.com"
+      "www.npr.org",
+      "abcnews.go.com"
     ],
     "snippets": [
-      "The former French president was found guilty of criminal conspiracy but cleared of other charges.",
-      "Paris criminal court finds Nicolas Sarkozy partly guilty in trial related to alleged campaign funds from Libya.",
-      "Former President Nicolas Sarkozy was convicted and sentenced to five years in prison on some charges in a case tied to the late Libyan dictator Moammar Gadhafi.",
-      "<p>Sarkozy found guilty of criminal conspiracy for receiving millions of euros from late Libyan dictator Muammar Gaddafi and will spend time in custody even if he appeals</p><p>Here is a bit more on that from Reuters:</p><p><em>Sarkozy, who has always denied the charges, <strong>was accused of makin"
+      "The coffee giant plans to cut 900 corporate jobs and shut down about 1% of its stores as the chain's turnaround plan approaches a one-year mark.",
+      "The coffee chain is restructuring to save money by closing its worst performing stores.",
+      "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1WeUNnZ0xCQ3d2cGI5Zk5HbTI3VlhfWlFfMndWVmpDUWp5dTBfT25sNDI1TlVpSnlNclh0ZkdkZEdqU09teC1ad3NGVjBSVHI0TWdIbDhEVlozVnA2a3hYQU00c1F1RGlUbWpLVWFmeXJSZU9fdnhBYzM3XzBwdw?oc=5\" target=\"_blank\">Starbucks to close stores, cut 900 jobs in $1B restructur",
+      "Coffee giant Starbucks will lay off workers and close stores as part of a $1 billion restructuring plan, CEO Brian Niccol said in a memo to employees on Thursday.",
+      "Starbucks announced a $1 billion restructuring plan Thursday that involves closing some of its North American coffeehouses and laying off about 900 workers.",
+      "<p>Restructuring comes after six quarters of falling sales and growing pressure from unions over working conditions</p><p><a href=\"https://www.theguardian.com/business/starbucks\">Starbucks</a> will lay off around 900 staff and pull down the shutters on some 100 cafes across North America as part of ",
+      "The company will also renovate more than 1,000 stores over the next year, CEO Brian Niccol said.",
+      "Starbucks on Thursday announced it would close 1% of its corporately owned stores in North America, and lay off 900 non-retail staff."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c1/live/c9d39070-99f8-11f0-88dc-4bebfe637e18.jpg",
+    "image_url": "",
     "titles": [
-      "Former French president Sarkozy sentenced to five years in Libya campaign financing case",
-      "French ex-president Sarkozy gets 5-year jail term in Libya campaign case",
-      "Paris court convicts former French President Sarkozy of criminal conspiracy in Libya trial",
-      "Former French president Sarkozy says five year sentence for criminal conspiracy will have ‘extreme consequences’ – Europe live"
+      "Starbucks is closing more stores and laying off 900 workers",
+      "Starbucks to close some US and UK stores",
+      "Starbucks to close stores, cut 900 jobs in $1B restructuring - Axios",
+      "Starbucks to lay off hundreds of workers, close stores in North America",
+      "Starbucks to close stores, lay off workers in $1 billion restructuring plan",
+      "Starbucks to cut 900 jobs and close dozens of North American stores as sales struggle",
+      "Starbucks Will Close Stores And Cut 900 Jobs In $1 Billion Restructuring",
+      "Starbucks to close some North American stores, lay off 900 non-retail employees"
+    ],
+    "score_components": {
+      "magnitude": 1.0,
+      "recency": 0.993,
+      "consensus": 1.0,
+      "constructiveness": 0.1,
+      "proximity": 0.75
+    },
+    "score": 0.884,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Starbucks announced a $1 billion restructuring plan, which includes closing 1% of its North American corporately owned stores and laying off 900 non-retail staff. This move is part of a turnaround strategy led by new CEO Brian Niccol.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: plan",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Amazon Pays $2.5B to Settle FTC Lawsuit on Prime Enrollment Practices",
+    "domain": "technology",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 11:23:41 -0400",
+    "source": "NPR",
+    "sources": [
+      "The Verge",
+      "The Guardian",
+      "NPR"
+    ],
+    "domains": [
+      "www.theverge.com",
+      "www.theguardian.com",
+      "www.npr.org"
+    ],
+    "snippets": [
+      "Federal regulators say Amazon has settled their lawsuit over whether its web designs have manipulated millions of people into paying for Prime subscriptions that were purposefully hard to cancel.<br />",
+      "<p>FTC said company enrolled millions of customers into its service without consent and made it difficult to cancel</p><p>Amazon has agreed to pay $2.5bn in fines and redress to Prime subscribers to settle a lawsuit by the US Federal Trade Commission (FTC), which accused the retail giant of signing ",
+      "Amazon has agreed to pay $2.5 billion to settle a lawsuit from the Federal Trade Commission, which claimed it tricked millions of customers into subscribing to Prime and made it hard to cancel. Under the agreement, Amazon will pay a $1 billion civil penalty, along with $1.5 billion that it will pay "
+    ],
+    "image_url": "",
+    "titles": [
+      "Amazon agrees to settle U.S. lawsuit that it 'tricked' people into Prime",
+      "Amazon to pay $2.5bn to settle lawsuit over its Prime subscription service",
+      "Amazon will pay $2.5 billion to settle the FTC&#8217;s Prime lawsuit"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.983,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.765,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Amazon has settled a lawsuit with the Federal Trade Commission for $2.5 billion over accusations of enrolling customers into Prime without consent and making cancellation difficult. The settlement includes a $1 billion civil penalty and $1.5 billion for redress to affected Prime subscribers.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "White House Warns of Mass Firings if Government Shuts Down",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 04:43:21 GMT",
+    "source": "Axios",
+    "sources": [
+      "Business Insider",
+      "The Guardian",
+      "CNBC",
+      "Axios"
+    ],
+    "domains": [
+      "www.businessinsider.com",
+      "news.google.com",
+      "www.cnbc.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYU10ZHRhYVBMbWtpOW53UzJPc1dwY2dIMUZWT0RJZlNUSV9VSnRUVlM2NG5jZWdIYlNmUlNyTFVHRzhSTDdiRk80OWx6ZGthOG5nMkJyMVJKX3ItR1BXTU52OU9qaVdpcHVlenA4d1dvWmFCX2VheWpER1RSTWxrRWZRMjN6N0pfaHNr?oc=5\" target=\"_blank\">White House threatens mass firings if g",
+      "The warning could ratchet up pressure on Congress to strike a deal to avert a government shutdown.",
+      "<p>Democrats accuse Trump of intimidation tactics after memo outlines much more aggressive step than previous shutdowns</p><p>The White House is telling federal agencies to prepare large-scale firings of workers if the <a href=\"https://www.theguardian.com/us-news/2025/sep/23/trump-democrats-meeting-",
+      "The Trump administration is signaling that a government shutdown on Wednesday could lead to more firings. Democrats say its an intimidation tactic."
+    ],
+    "image_url": "",
+    "titles": [
+      "White House threatens mass firings if government shuts down - Axios",
+      "Trump OMB orders preparation for mass firings of federal workers if government shuts down",
+      "White House tells agencies to prepare for firings if government shuts down",
+      "Trump administration signals more mass firings of federal workers if government shuts down"
     ],
     "score_components": {
       "magnitude": 0.892,
-      "recency": 0.974,
+      "recency": 0.771,
       "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.784,
+    "score": 0.743,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Nicolas Sarkozy, the former French president, was convicted by a Paris criminal court of criminal conspiracy for accepting millions of euros in campaign funds from the late Libyan dictator Muammar Gaddafi. He was sentenced to five years in prison and will remain in custody even if he appeals. Sarkozy has consistently denied the charges.",
+    "summary": "The White House has warned of mass firings in the event of a government shutdown, pressuring Congress to reach a deal. This move, criticized by Democrats as an intimidation tactic, marks a more aggressive approach than previous shutdowns.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Morrison, Meyers Lead Kraken to 4-1 Pre-Season Win Over Oilers",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 05:30:41 +0000",
-    "source": "Global News",
-    "sources": [
-      "NHL",
-      "Global News",
-      "Sportsnet"
-    ],
-    "domains": [
-      "news.google.com",
-      "globalnews.ca",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "Vancouver Canucks forward Nils Hoglander scored the opener but later exited in a 3-1 pre-season win over the Calgary Flames on Wednesday.",
-      "Luke Morrison and Ben Meyers had a goal and an assist each as the Seattle Kraken defeated the Edmonton Oilers 4-1 in NHL pre-season play Wednesday.",
-      "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVmFkZm5DeFEwUzJ1RTAtbWxjcjBTVFlqbVZGNllHNThUTHNuRW5BU0xPaDVwNHp1RkY1MHNzYzhwOTU5dXplQ2VNbXl2ZEZBWGROMWRMdDh2U3NJWXY4SUx4WE9oMHNHaHoxQUVqMWhHdjdrQkxSZVB3dVdldWhQeTVnaUlreERvX1FKOQ?oc=5\" target=\"_blank\">PROJECTED LINEUP: Oilers vs. Kraken (",
-      "<p>The Vancouver Canucks had to finish their second pre-season game without Nils Hoglander.</p>"
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/0c6b8ea5aacf8e9a5e0aa84cafa4907207379c8f7878cb21058da2cd2017b5fb.jpg?quality=65&strip=all",
-    "titles": [
-      "Canucks beat Flames 3-1 in NHL pre-season game",
-      "Kraken defeat Oilers 4-1 in NHL pre-season",
-      "PROJECTED LINEUP: Oilers vs. Kraken (Preseason) - NHL.com",
-      "Canucks’ Nils Hoglander exits pre-season win vs. Flames with lower-body injury"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.869,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.76,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Luke Morrison and Ben Meyers each scored a goal and provided an assist, leading the Seattle Kraken to a 4-1 victory over the Edmonton Oilers in an NHL pre-season game on Wednesday.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Starbucks Unveils $1B Restructuring, to Close 1% of Stores, Lay Off 900",
+    "title": "UK PM Plans Stricter Measures on Irregular Migrants to Curb Illegal Work",
     "domain": "business",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 11:59:31 GMT",
-    "source": "CNBC",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Thu, 25 Sep 2025 15:58:51 GMT",
+    "source": "BBC",
     "sources": [
-      "CNBC",
-      "Business Insider",
-      "Financial Post"
+      "Financial Times",
+      "The Guardian",
+      "BBC"
     ],
     "domains": [
-      "www.businessinsider.com",
-      "financialpost.com",
-      "www.cnbc.com"
+      "www.bbc.com",
+      "www.ft.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "Starbucks announced a $1 billion restructuring plan Thursday that involves closing some of its North American coffeehouses and laying off more workers.",
-      "Starbucks on Thursday announced it would close 1% of its corporately owned stores in North America, and lay off 900 non-retail staff.",
-      "Starbucks Corp. said it will close stores and eliminate 900 jobs in a $1 billion restructuring effort as the company amps up a turnaround plan under new Chief Executive Officer Brian Niccol."
+      "The prime minister believes a new scheme would help crack down on illegal working in the UK.",
+      "Plans to toughen measures against irregular migrants come despite concerns over civil liberties",
+      "<p>Measure could be announced as soon as Friday as government looks for ways to tackle illegal immigration to the UK</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2025/sep/25/andy-burnham-steve-reed-keir-starmer-labour-news-updates-uk-politics-live\">UK politics – latest updates</a"
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3651/live/f0ba5230-9a27-11f0-92db-77261a15b9d2.jpg",
     "titles": [
-      "Starbucks to close stores, lay off workers in $1 billion restructuring plan",
-      "Starbucks to close some North American stores, lay off 900 non-retail employees",
-      "Starbucks to Close Stores, Cut Jobs in $1 Billion Restructuring"
+      "Digital ID cards to be compulsory for all UK adults under government plans",
+      "Starmer set to announce digital ID cards for all UK adults",
+      "Keir Starmer expected to announce plans for digital ID cards"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.974,
+      "recency": 0.975,
       "consensus": 0.789,
       "constructiveness": 0.1,
       "proximity": 0.5
@@ -129,9 +190,95 @@
     "score": 0.742,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Starbucks announced a $1 billion restructuring plan, which includes closing 1% of its North American corporately owned stores and laying off 900 non-retail staff. This move is part of a turnaround strategy led by new CEO Brian Niccol.",
+    "summary": "The UK Prime Minister is considering a new scheme aimed at reducing illegal working by introducing stricter measures against irregular migrants. This proposal, which has raised concerns regarding civil liberties, could be officially announced by Friday as part of the government's efforts to address illegal immigration in the UK.",
     "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
+    "constructiveness_reason": "keywords: effort",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Biden's Portrait on Trump's Wall Replaced with 'Autopen' Signed Photo",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Thu, 25 Sep 2025 11:16:30 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Global News",
+      "Axios"
+    ],
+    "domains": [
+      "globalnews.ca",
+      "www.aljazeera.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "Trump&#039;s ‘Walk of Fame’ wall in the White House has Joe Biden’s portrait replaced by a photo of an ‘autopen’.",
+      "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE44NHp1S2ZpTmNnYWdzN0NfMzlJbUx5ZFh6cWRXX0NrdlFpY1g1bEtLd082NjRHd2ItaGpLdTR5ZHd6aVI4SERtMFFSYjFxcENZZUVLdWp5RUtqVHhhQ1hqclo5c3A3elhVQVEyYkhpWFByaWNkLXdJbG85bG1nUQ?oc=5\" target=\"_blank\">Trump \"Walk of Fame\" trolls Biden with autopen signature ",
+      "The White House installed the presidential portrait gallery along the West Wing Colonnade and unveiled the wall of photos — minus Joe Biden's."
+    ],
+    "image_url": "",
+    "titles": [
+      "Trump puts photo of Biden autopen in White House ‘Walk of Fame’",
+      "Trump \"Walk of Fame\" trolls Biden with autopen signature in place of portrait - Axios",
+      "Trump hangs Biden autopen photo instead of portrait in new presidential gallery"
+    ],
+    "score_components": {
+      "magnitude": 0.887,
+      "recency": 0.902,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.738,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "In the White House, a portrait of Joe Biden on Trump's \"Walk of Fame\" wall was replaced with a photo featuring an 'autopen' signature. This change reflects a direct alteration of the display involving portraits of political figures.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Sarkozy Convicted of Taking Gaddafi Funds, Sentenced to 5 Years",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Thu, 25 Sep 2025 13:09:54 GMT",
+    "source": "BBC",
+    "sources": [
+      "Deutsche Welle",
+      "Al Jazeera",
+      "BBC"
+    ],
+    "domains": [
+      "www.dw.com",
+      "www.bbc.com",
+      "www.aljazeera.com"
+    ],
+    "snippets": [
+      "Nicolas Sarkozy, president from 2007-12, was found guilty of criminal conspiracy but cleared of other charges.",
+      "Former French President Nicolas Sarkozy has been jailed for 5 years after being found guilty of criminal conspiracy.",
+      "Former President Nicolas Sarkozy was convicted and sentenced to five years in prison on some charges in a case tied to the late Libyan dictator Moammar Gadhafi."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c1/live/c9d39070-99f8-11f0-88dc-4bebfe637e18.jpg",
+    "titles": [
+      "Former French president Sarkozy given five-year sentence after Libya case",
+      "Ex-French president Sarkozy gets 5-year jail term",
+      "Paris court convicts former French President Sarkozy of criminal conspiracy in Libya trial"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.919,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.721,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Nicolas Sarkozy, the former French president, was convicted by a Paris criminal court of criminal conspiracy for accepting millions of euros in campaign funds from the late Libyan dictator Muammar Gaddafi. He was sentenced to five years in prison and will remain in custody even if he appeals. Sarkozy has consistently denied the charges.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
@@ -142,14 +289,14 @@
     "published": "Thu, 25 Sep 2025 11:30:17 GMT",
     "source": "BBC",
     "sources": [
-      "The Guardian",
       "Deutsche Welle",
+      "The Guardian",
       "BBC"
     ],
     "domains": [
-      "www.theguardian.com",
+      "www.dw.com",
       "www.bbc.com",
-      "www.dw.com"
+      "www.theguardian.com"
     ],
     "snippets": [
       "But the defence minister says there is no evidence of Russian involvement after the latest incident.",
@@ -164,13 +311,13 @@
     ],
     "score_components": {
       "magnitude": 0.847,
-      "recency": 0.964,
+      "recency": 0.888,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.737,
-    "summary_source": "gpt",
+    "score": 0.721,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Drones caused disruptions at several Danish airports, including a temporary shutdown of Aalborg Airport. Danish Defense Minister Troels Lund Poulsen suggested a professional actor likely orchestrated these incidents as part of a hybrid attack. However, there is no evidence to suggest Russian involvement in the latest drone sightings.",
     "constructiveness_score": 0.0,
@@ -185,18 +332,17 @@
     "published": "Thu, 25 Sep 2025 11:53:56 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "New York Times",
+      "Al Jazeera",
       "The Guardian",
-      "Al Jazeera"
+      "New York Times"
     ],
     "domains": [
-      "www.theguardian.com",
       "www.aljazeera.com",
-      "www.nytimes.com"
+      "www.nytimes.com",
+      "www.theguardian.com"
     ],
     "snippets": [
       "Southern China evacuates millions as Ragasa unleashes devastating floods, disrupting lives and critical infrastructure.",
-      "The weakened storm remains a rain threat to Vietnam and other parts of Southeast Asia.",
       "One million residents of Guangdong, in southern China, were evacuated before the powerful storm made landfall on Wednesday. At least 18 people have been killed along its path this week.",
       "Hundreds of firefighters and soldiers dispatched to Guangfu have gone door to door to check for trapped residents.",
       "<p>Huge clear-up efforts start after storm leaves trail of destruction, with 25 reported dead in Taiwan and the Philippines </p><p>Huge clear-up operations were under way in southern China and Hong Kong on Thursday, after <a href=\"https://www.theguardian.com/world/2025/sep/24/super-typhoon-ragasa-up"
@@ -204,426 +350,21 @@
     "image_url": "",
     "titles": [
       "Super Typhoon Ragasa leaves devastation across China, Taiwan, Philippines",
-      "Taiwan lowers Typhoon Ragasa death toll to 14; China starts cleanup",
       "Typhoon Ragasa Slams Into China After Deaths in Taiwan and the Philippines",
       "Typhoon Ragasa Tears Through a Taiwan Town, Killing 14",
       "Weakened Super Typhoon Ragasa heads towards Vietnam after battering China and Hong Kong"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.992,
+      "recency": 0.914,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.735,
+    "score": 0.72,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Super Typhoon Ragasa caused deadly destruction across Asia, including Taiwan, the Philippines, and southern China. In Taiwan, at least 17 people were killed due to landslides and floods. Nearly 2 million people were evacuated in Guangdong, China, in anticipation of the storm, which also led to the closure of businesses and schools. The typhoon, described as the world's strongest this year, has resulted in at least 21 deaths along its path.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Trump White House Plans Permanent Budget Cuts, Memo Reveals",
-    "domain": "business",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 23:28:19 -0400",
-    "source": "NPR",
-    "sources": [
-      "Forbes",
-      "NPR",
-      "Axios"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.forbes.com",
-      "www.npr.org"
-    ],
-    "snippets": [
-      "In past government shutdowns, workers have been put on temporary furloughs until funding resumes. This time, the Trump White House is looking for bigger and more permanent cuts, a new memo shows.",
-      "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYU10ZHRhYVBMbWtpOW53UzJPc1dwY2dIMUZWT0RJZlNUSV9VSnRUVlM2NG5jZWdIYlNmUlNyTFVHRzhSTDdiRk80OWx6ZGthOG5nMkJyMVJKX3ItR1BXTU52OU9qaVdpcHVlenA4d1dvWmFCX2VheWpER1RSTWxrRWZRMjN6N0pfaHNr?oc=5\" target=\"_blank\">White House threatens mass firings if g",
-      "Democratic leaders have pushed back against the reported memo, saying they will not be intimidated by the threat of mass firings."
-    ],
-    "image_url": "",
-    "titles": [
-      "White House threatens layoffs — not furloughs — if the government shuts down",
-      "White House threatens mass firings if government shuts down - Axios",
-      "White House Budget Office Threatens Mass Firings If Government Shutdown Happens"
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.833,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.735,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The Trump White House is exploring significant and permanent budget cuts, diverging from past practices of temporary furloughs during government shutdowns. A new memo indicates this strategic shift, suggesting a move towards more substantial reductions in government spending.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Aalborg Airport Shut Temporarily Over Drone Activity; Flights Disrupted",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Thu, 25 Sep 2025 07:15:35 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "New York Times",
-      "Al Jazeera",
-      "Deutsche Welle"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "www.nytimes.com",
-      "www.dw.com"
-    ],
-    "snippets": [
-      "Video shows a low-flying object near Denmark’s Aalborg airport which was closed to civilian and military flights.",
-      "Police are investigating the appearance of drones over the airspace in Aalborg, a city in the north of Denmark. It comes on the heels of the temporary closure of Copenhagen Airport over a similar drone sighting.",
-      "Authorities acted for the second time in days. European governments are on alert after Russian incursions into NATO airspace, but Danish authorities said they could not say who was behind the latest incident."
-    ],
-    "image_url": "",
-    "titles": [
-      "Video: Drone activity shuts down Denmark’s Aalborg airport",
-      "Denmark: Aalborg Airport closed due to drone sightings",
-      "Denmark Briefly Closes More Airports After Unexplained Drone Sightings"
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.901,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.724,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Aalborg airport in Denmark was temporarily closed due to unauthorized drone activity in its airspace, affecting flights from Scandinavian Airlines, Norwegian airlines, and KLM. This incident follows a similar disruption at Copenhagen airport days earlier. Police are investigating the occurrences.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Inmate to Plead Guilty to Murdering Serial Killer Robert Pickton",
-    "domain": "general",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 10:46:39 +0000",
-    "source": "Global News",
-    "sources": [
-      "Global News",
-      "CityNews"
-    ],
-    "domains": [
-      "ottawa.citynews.ca",
-      "globalnews.ca"
-    ],
-    "snippets": [
-      "Charest's lawyer confirms her client will plead guilty to the charge at a court appearance in Sept-Îles, northeast of Quebec City.",
-      "MONTREAL — An inmate accused of killing notorious serial killer Robert Pickton in a prison attack last year is expected to plead guilty today. Martin Charest was charged with first-degree murder in July, more than a year after Pickton died following a May 2024 assault at the Port-Cartier federal pen"
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/8ffaa3d1ec63c63db607f0196e06868d69175142eebe899f6401a88583bf115b_0c7a9a.jpg?quality=65&strip=all",
-    "titles": [
-      "Federal inmate expected to plead guilty to killing serial killer Robert Pickton",
-      "Federal inmate expected to plead guilty today to killing serial killer Robert Pickton"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.969,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.699,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Martin Charest, an inmate charged with the first-degree murder of serial killer Robert Pickton, is expected to plead guilty to the charge. The plea is set to occur during a court appearance in Sept-Îles, northeast of Quebec City. Pickton died in May 2024 following an assault at the Port-Cartier federal penitentiary, leading to Charest's charge in July.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Biden's Portrait on Trump's Wall Replaced with 'Autopen' Signed Photo",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Thu, 25 Sep 2025 11:16:30 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Axios"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "Trump&#039;s ‘Walk of Fame’ wall in the White House has Joe Biden’s portrait replaced by a photo of an ‘autopen’.",
-      "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE44NHp1S2ZpTmNnYWdzN0NfMzlJbUx5ZFh6cWRXX0NrdlFpY1g1bEtLd082NjRHd2ItaGpLdTR5ZHd6aVI4SERtMFFSYjFxcENZZUVLdWp5RUtqVHhhQ1hqclo5c3A3elhVQVEyYkhpWFByaWNkLXdJbG85bG1nUQ?oc=5\" target=\"_blank\">Trump \"Walk of Fame\" trolls Biden with autopen signature "
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump puts photo of Biden autopen in White House ‘Walk of Fame’",
-      "Trump \"Walk of Fame\" trolls Biden with autopen signature in place of portrait - Axios"
-    ],
-    "score_components": {
-      "magnitude": 0.795,
-      "recency": 0.98,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.672,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "In the White House, a portrait of Joe Biden on Trump's \"Walk of Fame\" wall was replaced with a photo featuring an 'autopen' signature. This change reflects a direct alteration of the display involving portraits of political figures.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Kimmel's Show Hits Record Viewership After FCC Shutdown Attempt",
-    "domain": "technology",
-    "source_domain": "www.theverge.com",
-    "location": "global",
-    "published": "2025-09-25T07:45:09-04:00",
-    "source": "The Verge",
-    "sources": [
-      "The Verge",
-      "Ars Technica"
-    ],
-    "domains": [
-      "www.theverge.com",
-      "arstechnica.com"
-    ],
-    "snippets": [
-      "The FCC’s efforts to shut down Jimmy Kimmel’s platform have seemingly blown up in its face, with the return of Kimmel’s talk show breaking viewership records on YouTube. Tuesday’s episode of Jimmy Kimmel Live! contained Kimmel’s most-watched monologue ever on the video platform, a 28-minute segment ",
-      "De Niro parodies FCC boss: Criticizing Trump will cost you \"a couple of fingers.\""
-    ],
-    "image_url": "",
-    "titles": [
-      "Jimmy Kimmel returns bigger than ever",
-      "Jimmy Kimmel returns, calls FCC chairman an embarrassment to Republicans"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.989,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.66,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The FCC's attempt to shut down Jimmy Kimmel's platform backfired as his talk show's return set a new viewership record on YouTube. The episode featured Kimmel's most-watched monologue, lasting 28 minutes. Additionally, it included a parody by De Niro, mocking the FCC's stance on criticizing Trump, suggesting such criticism could lead to severe consequences.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Galliani Exits Monza as Beckett Layne Ventures Completes Acquisition",
-    "domain": "business",
-    "source_domain": "sports.yahoo.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 11:53:25 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Yahoo Sports",
-      "Financial Post"
-    ],
-    "domains": [
-      "financialpost.com",
-      "sports.yahoo.com"
-    ],
-    "snippets": [
-      "Monza CEO and Vice President Adriano Galliani is leaving his boyhood club after American fund Beckett Layne Ventures completed the purchase of the Italian second-division club on Thursday.  The closing of the sale — which was agreed in July — also sees the Berlusconi family leave soccer again.  Monz",
-      "MONZA, Italy (AP) &#8212; Monza CEO and Vice President Adriano Galliani is leaving his boyhood club after American fund Beckett Layne Ventures completed the purchase of the Italian second-division club on Thursday. The closing of the sale &#8212; which was agreed in July &#8212; also sees the Berlus"
-    ],
-    "image_url": "",
-    "titles": [
-      "Galliani turns down Monza presidency as club is sold to US fund",
-      "Galliani turns down Monza presidency as club is sold to US fund"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.992,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.653,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Adriano Galliani, CEO and Vice President of Monza, is departing the club following its acquisition by American fund Beckett Layne Ventures. The sale, finalized on Thursday after an agreement in July, also marks the exit of the Berlusconi family from the Italian second-division soccer team.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "William Saliba Signs Five-Year Contract Extension with Arsenal",
-    "domain": "sports",
-    "source_domain": "theshortfuse.sbnation.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 11:35:22 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Yahoo Sports",
-      "Sky Sports"
-    ],
-    "domains": [
-      "theshortfuse.sbnation.com",
-      "www.skysports.com"
-    ],
-    "snippets": [
-      "William Saliba is expected to sign a five-year contract extension to remain at Arsenal in the coming days, reports David Ornstein. The French defender’s current deal ran through June 2027, so both sides had time to get a deal done. At the same time, it appears that the club are trying hard to avoid ",
-      "William Saliba has agreed terms on a new five-year contract at Arsenal."
-    ],
-    "image_url": "",
-    "titles": [
-      "Report: William Saliba agrees to Arsenal contract extension",
-      "Saliba agrees new five-year Arsenal deal"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.986,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.652,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "William Saliba has agreed to a new five-year contract extension with Arsenal, as reported by David Ornstein. His current deal was set to expire in June 2027, indicating both the player and the club had ample time to negotiate this extension. This agreement reaffirms Saliba's commitment to Arsenal for the foreseeable future.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Drone Sightings Close Aalborg Airport, Affect Three Others in Europe",
-    "domain": "business",
-    "source_domain": "www.ft.com",
-    "location": "global",
-    "published": "Thu, 25 Sep 2025 10:54:18 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Washington Post",
-      "Financial Times"
-    ],
-    "domains": [
-      "www.ft.com",
-      "www.washingtonpost.com"
-    ],
-    "snippets": [
-      "Airfield used by military shut down for several hours as Europe remains on alert over airspace violations",
-      "Drones forced Aalborg Airport to close, and others were spotted near three airports in the south. Days earlier, sightings closed Copenhagen and Oslo airports."
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbffa1ea2-2b6f-46cd-a020-d0a1424d8676.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Drones seen at 4 more Danish airports in ‘systematic’ attack",
-      "Denmark blames ‘systematic’ attack as mystery drones swarm more airports"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.952,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.652,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Aalborg Airport was shut down for several hours due to drone sightings, with additional drones observed near three southern airports. This incident follows recent closures of Copenhagen and Oslo airports for similar reasons, highlighting ongoing concerns over airspace violations in Europe.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Week 4 Fantasy Football: Improved Prospects for Robinson, Skattebo",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 10:59:14 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "Sports Illustrated",
-      "CBS Sports"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.cbssports.com"
-    ],
-    "snippets": [
-      "Dig into the players who might be tough start/sit calls in your lineup based on game film notes, stats, more",
-      "Plus your toughest start/sit decisions at every position",
-      "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHVrVVVzaU1hWG52Y3NucFFHSE1uVmZtbE5fd0VCbmpMQmJ6NDRsVUJEOEZuaTFJdEE3U25idkVBOXloVGdRU3gyaXVWTy03UThXVDdlNE05aUxXTm5FdXhXZWljeWd6TXFJT1NKTW52aXR0dlk0TjdGbjJQc3M5TVRwTVFickc2UFRuMFZSWlRSd21EMWc4WEdpTkw?oc=5\" target=\"_blank\">Running Back Sta",
-      "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjltUUg4dWNodlpaWl9temU1aG1aZGo4WXhZcDJ4Y0hESF8yZW5VX3NFZ0poMHdyOW01Wm5vVXl2LW1iTm02MFhQRnVscUJTUzREWmEwLVkwdDJnclpLS1JzQmM2bXg2OXRaY3NsTjRUMGxyeWstaDBJS1hGRGFzdTc1eHNXTkIxdWhGZWVjUlB4Y3RLbTZWMlRoX2w4UEE?oc=5\" target=\"_blank\">Defense & Ki",
-      "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeEVya2lWdDRodHRXQW16WWlOWTBpZS11VDl3eHVSbWpEZnNVUnRUeVRubGFPeTh1cG92LVI4eW43MnVVYmh1aXJfTGRVVnplQjROekNpNTRiejZESGdmMFYzZEJjR25ERUxjTUdqQndITGJ0VWxUT3B1S3RNanpCb21udllab3Q5c2dGTEh3MWFnaHR3UU1Beg?oc=5\" target=\"_blank\">Tight End Start 'Em, "
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/17/edc96354-a16d-4293-a93d-f624fe1d86ee/james-cook-buffalo-bills-imagn-images.jpg",
-    "titles": [
-      "Fantasy Football Week 4 Lineup Decisions: Who to start, who to sit, must-start plays, flex plays and more",
-      "Fantasy Football Week 4 Start 'Em & Sit 'Em: Get Geno Smith in your lineups, plus sleepers at every position",
-      "Running Back Start ‘Em, Sit ‘Em for Fantasy Football Week 4 - Sports Illustrated",
-      "Defense & Kicker Start 'Em, Sit 'Em For Fantasy Football Week 4 - Sports Illustrated",
-      "Tight End Start 'Em, Sit 'Em For Fantasy Football Week 4 - Sports Illustrated"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.974,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.65,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "In Week 4 fantasy football updates, Wan'Dale Robinson and Cam Skattebo are expected to see improved performances. Chet Gresham has provided rankings for the top 32 kickers and top 32 D/STs. Additionally, advice on whether to start or sit players such as Kenneth Walker, Jameson Williams, and others is available, helping fantasy team owners make informed decisions.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Cal Raleigh Ties Babe Ruth with 60th Home Run of Season",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 00:13:25 EST",
-    "source": "ESPN",
-    "sources": [
-      "Sportsnet",
-      "ESPN"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "The Mariners slugger just joined an elite club with his 60th homer. Here's a look back at the road that got him here.",
-      "<p>Seattle Mariners all-star Cal Raleigh hits his 60th home run of the year to tie Babe Ruth for the third most in a single season in American League history and his second of the night against the Colorado Rockies.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Raleigh joins the 60 home run club! A monthly breakdown of the historic campaign",
-      "Mariners’ Raleigh joins 60 home-run club with second of game"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.846,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.649,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Seattle Mariners all-star Cal Raleigh hit his 60th home run of the year, tying Babe Ruth for the third-highest single-season total in American League history. This milestone was achieved during a game against the Colorado Rockies, marking his second home run of the night.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -637,29 +378,35 @@
     "source": "ESPN",
     "sources": [
       "Sportsnet",
-      "ESPN"
+      "ESPN",
+      "Sports Illustrated"
     ],
     "domains": [
-      "www.espn.com",
-      "www.sportsnet.ca"
+      "news.google.com",
+      "www.sportsnet.ca",
+      "www.espn.com"
     ],
     "snippets": [
       "Mariners slugger Cal Raleigh is two shy of tying the AL record after becoming the seventh player in major league history to hit 60 home runs in a season.",
-      "<p>Cal Raleigh hit his MLB-leading 59th homer on Wednesday night, a solo shot for the Seattle Mariners in the first inning against the Colorado Rockies.</p>"
+      "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBCellUNmdOZFpZMXNQZzVLd2hndm9qMTg5ZWVKMm1PMXBpUEotQ3JOT0x0ak9YSnF1S1Z6M3JBcnFmWkJyOU5HZUczVDIxOW9UY3h1ZnRoQk9kNHN3VmJMbnQ1QkFCVUdvQVowbFFCa3c2ZG1WUmJN?oc=5\" target=\"_blank\">SI:AM | Cal Raleigh Hits 60th Homer as Mariners Clinch AL West</a>&",
+      "<p>Cal Raleigh hit his MLB-leading 59th homer on Wednesday night, a solo shot for the Seattle Mariners in the first inning against the Colorado Rockies.</p>",
+      "<p>A trip around the majors sees Cal Raleigh crush two more bombs and join the very exclusive 60-homer club, the M&#8217;s clinch the AL West, the Guardians knock off the Tigers to take the division lead, the Yankees keep rolling in the East, and much more. </p>"
     ],
     "image_url": "",
     "titles": [
       "Raleigh hits Nos. 59, 60 as M's clinch AL West",
-      "Cal Raleigh hits 60th HR, Mariners clinch AL West"
+      "SI:AM | Cal Raleigh Hits 60th Homer as Mariners Clinch AL West - Sports Illustrated",
+      "Cal Raleigh hits 60th HR, Mariners clinch AL West",
+      "Raleigh joins the exclusive 60-homer club and Mariners clinch AL West"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.832,
-      "consensus": 0.591,
+      "magnitude": 0.827,
+      "recency": 0.767,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.646,
+    "score": 0.715,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Cal Raleigh, playing for the Seattle Mariners, hit his 59th home run of the season, leading the MLB. This homer, achieved during a game against the Colorado Rockies, places him just two short of the American League's single-season record.",
@@ -668,71 +415,516 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Flotilla to Gaza Reports Drone Attacks, Continues Mission Despite Threats",
+    "title": "UEFA Considers Suspending Israel Federation Amid Gaza Conflict",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 09:43:40 EST",
+    "source": "ESPN",
+    "sources": [
+      "Sportsnet",
+      "ESPN"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "www.espn.com"
+    ],
+    "snippets": [
+      "European soccer body UEFA is moving toward a vote to suspend its member federation Israel over the war in Gaza, people familiar with the proposal told The Associated Press on Thursday.",
+      "<p>European soccer body UEFA is moving toward a vote to suspend its member federation Israel over the war in Gaza, people familiar with the proposal told The Associated Press on Thursday.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Report: UEFA expected to vote to suspend Israel",
+      "European soccer body UEFA moves toward vote to suspend Israel"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.95,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.677,
+    "summary_source": "snippet",
+    "summary_reason": "retry_exhausted",
+    "summary": "European soccer body UEFA is moving toward a vote to suspend its member federation Israel over the war in Gaza, people familiar with the proposal told The Associated Press on Thursday.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "2025 Ryder Cup at Bethpage Analyzed: Rahm, Scheffler Top Earners",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 09:31:06 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Yahoo Sports"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.elpasotimes.com"
+    ],
+    "snippets": [
+      "How will Bethpage Black play? Who is under the most pressure? We're breaking down the top storylines ahead of the 2025 Ryder Cup.",
+      "The 2025 Ryder Cup begins Friday at Bethpage Black Course in New York; here is how to watch."
+    ],
+    "image_url": "",
+    "titles": [
+      "Top storylines to watch at the 2025 Ryder Cup",
+      "When is the 2025 Ryder Cup and what is the format? How to watch the biannual event"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.946,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.669,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The 2025 Ryder Cup at Bethpage Black is under analysis, focusing on course challenges and player pressure. Forbes lists the highest-paid golfers participating, including Jon Rahm and Scottie Scheffler among the top earners, highlighting their significant earnings from both performances and endorsements.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "2025 NBA Rank Reveals Top 10 Superstars, Names No. 1 Player",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 08:24:51 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Bleacher Report"
+    ],
+    "domains": [
+      "news.google.com",
+      "www.espn.com"
+    ],
+    "snippets": [
+      "Which superstars made our 2025 NBA Rank top 10, and who is the No. 1 player in the league?",
+      "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPYnNLUDZwa3MtZWVQR2hURHdIY001RS1NYmU4MFh6VjVQS3hRSW1IWFg3d0N6QlltSVQ3Q3k3aGZyVU9VYmc2TUFaenc2dXQ5SDJ3QTFpaUJzUm5DWjZNcXdUMFZwNTBEbWRHSFZENGdEcU55QVc1SVNzREFVbFNqUEFJa3M5Z01rXzhndmVrUHpFWFJLQzNVV0V3?oc=5\" target=\"_blank\">Ranking the Best Yo"
+    ],
+    "image_url": "",
+    "titles": [
+      "Ranking the 10 best players in the NBA for this season",
+      "Ranking the Best Young Cores Ahead of 2025-26 NBA Season - Bleacher Report"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.924,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.665,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The 2025 NBA Rank top 10 list has been revealed, showcasing the league's top superstars. The ranking concludes with the identification of the No. 1 player in the NBA as of 2025, based on their performance and contributions to the game.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Denmark Reports Systematic Drone Flights by Unknown Actor, Plans Countermeasures",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 05:23:29 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "Global News"
+    ],
+    "domains": [
+      "globalnews.ca",
+      "www.npr.org"
+    ],
+    "snippets": [
+      "Defense Minister Troels Lund Poulsen said it appeared a \"professional actor\" was behind the \"systematic\" flights, without providing additional details during a news conference Thursday morning.",
+      "The goal of the flyovers was to sow fear and division, Danish Minister of Justice Peter Hummelgaard said, adding that the country will seek additional ways to neutralize drones."
+    ],
+    "image_url": "",
+    "titles": [
+      "Danish officials believe drone flyovers at 4 airports meant to sow fear",
+      "Danish officials warn drone flyovers at 4 airports aimed at stoking fear"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.868,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.75
+    },
+    "score": 0.664,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Danish Defense Minister Troels Lund Poulsen reported systematic drone flights over Denmark by a \"professional actor,\" details of which were not disclosed. Justice Minister Peter Hummelgaard stated the aim was to instill fear and division. Denmark plans to enhance measures to counteract drone activities, as announced in a news conference.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: plan",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Saliba Signs New 5-Year Arsenal Deal; Moldova Awaits Key Election Outcome",
+    "domain": "sports",
+    "source_domain": "www.bbc.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 15:38:11 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "The Guardian",
+      "Yahoo Sports"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "Arsenal fans will be thrilled to hear defender William Saliba has agreed a new five-year contract with the club.  Saliba's centre-back partnership with Gabriel has developed into one of the most formidable in the Premier League.  Saliba has won possession more often than any Arsenal player in the Pr",
+      "<p>The background, key players and likely outcome of a contest of crucial interest to both Europe and Russia</p><p>Moldova will vote this Sunday in parliamentary elections that its president has described as “the most important” in the history of the small country. The results will confirm if Moldov"
+    ],
+    "image_url": "",
+    "titles": [
+      "Why is Saliba so important to Arsenal?",
+      "Why are Moldova’s parliamentary elections on Sunday so important?"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.988,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.66,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Arsenal defender William Saliba has signed a new five-year contract, strengthening the club's defense. His partnership with Gabriel is among the Premier League's best. Meanwhile, Moldova's parliamentary elections, deemed crucial by its president, will determine the country's future relationship with Europe and Russia.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Sarkozy Sentenced to 5 Years for Illegal Campaign Financing",
     "domain": "general",
     "source_domain": "www.aljazeera.com",
     "location": "global",
-    "published": "Thu, 25 Sep 2025 09:43:56 +0000",
+    "published": "Thu, 25 Sep 2025 13:46:08 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "New York Times",
-      "Al Jazeera"
+      "Al Jazeera",
+      "New York Times"
     ],
     "domains": [
       "www.aljazeera.com",
       "www.nytimes.com"
     ],
     "snippets": [
-      "Greta Thunberg on the recent assault on the Gaza flotilla &amp; the activists’ determination to break Israel’s illegal siege",
-      "The vessels were aiming to deliver humanitarian aid to Gaza. The Israelis have asked that the aid be given to them to distribute."
+      "Sarkozy has been handed a five-year prison sentence after trial over finances from late Libyan leader Gaddafi.",
+      "Nicolas Sarkozy, former president of France, was found guilty of plotting to finance his 2007 election bid with help from the government of Col. Muammar el-Qaddafi."
     ],
     "image_url": "",
     "titles": [
-      "Gaza aid flotilla “undeterred” by Israel’s assault",
-      "Aid Flotilla Headed for Gaza Says It’s Under Drone Attack"
+      "Nicolas Sarkozy found guilty of criminal conspiracy: What we know",
+      "Sarkozy Found Guilty of Conspiracy to Seek Libyan Money and Sentenced to Prison"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.949,
+      "magnitude": 0.755,
+      "recency": 0.95,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.645,
-    "summary_source": "cache",
+    "score": 0.652,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Activists aboard the Global Sumud Flotilla, heading to Gaza with humanitarian aid, reported experiencing drone attacks and hearing explosions late Tuesday. This marks the third such incident this month. Despite these events, the organizers have stated they will not be intimidated. The Israeli authorities have requested that the aid intended for Gaza be handed over to them for distribution. The current status of the flotilla and its mission remains unchanged, continuing towards its destination.",
+    "summary": "Nicolas Sarkozy, the former French president, was sentenced to five years in prison for his involvement in a scheme to illegally finance his 2007 election campaign with funds from the government of late Libyan leader Muammar el-Qaddafi.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "NFL Week 4: Ravens vs. Chiefs Highlight; Dart's Debut Spotlighted",
-    "domain": "sports",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 10:00:01 GMT",
-    "source": "Sports Illustrated",
+    "title": "Ex-French President Guilty in Gaddafi Campaign Funds Case",
+    "domain": "business",
+    "source_domain": "www.ft.com",
+    "location": "global",
+    "published": "Thu, 25 Sep 2025 14:36:06 GMT",
+    "source": "Financial Times",
     "sources": [
-      "Sports Illustrated",
-      "Sportsnet"
+      "Financial Times",
+      "The Guardian"
     ],
     "domains": [
-      "news.google.com",
+      "www.ft.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "Former French president found guilty of conspiring to receive campaign contributions from Muammer Gaddafi",
+      "<p>Former French president found guilty of criminal conspiracy after being accused of pact with Gaddafi regime</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/sep/25/aalborg-airport-denmark-drones-oslo-sarkozy-meloni-news-updates-europe-live\">Europe – live updates</a></p></li></ul"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa2cea0d3-d7db-4d6e-ab4b-323b442d6e56.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Sarkozy sentenced to 5 years in prison in Libya corruption trial",
+      "Nicolas Sarkozy given five-year prison sentence after Libya trial"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.947,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.651,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A former French president has been found guilty of criminal conspiracy for receiving illegal campaign contributions from Muammer Gaddafi's regime. This verdict concludes the legal proceedings against him, establishing his involvement in a financial pact with the Gaddafi government.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Blue Jays' AL East Lead Weakens After 7-1 Loss to Red Sox",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 15:00:33 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Sportsnet",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.cbssports.com",
       "www.sportsnet.ca"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2NXZEZHelJNQWtkd3RCWWoteGpsS1ZkRW5VUDJHSkM0VDh3aWdIT3B6SUVMazNpLUNfdXpaY1M0UzlpRkdLNXRHMU1RUmtUb04wZVB2S3dhRXhWQ0VTSWtNVktvbnZNdlVRaThqVU14WTRCc3pxcUZyVkRoaGZWTzY5N1ZqN2o1cmRQRGx2enBCY2ExNDZ5ZG9TQnFvREk?oc=5\" target=\"_blank\">NFL Week 4 P",
-      "<p>Can the Ravens earn a win against the weaker Chiefs? How will Jaxson Dart fare in his first start? Richard Janvrin gets you prepared for Week 4 with his best bets. </p>"
+      "After simulating every MLB game 10,000 times, the SportsLine Projection Model has identified the three best pitcher strikeout props for Thursday's 12-game schedule",
+      "<p>Masataka Yoshida knocked in a pair of runs including a solo shot in the fifth inning as Garrett Crochet struck out six batters in a solid eight innings of work to lead the Red Sox to a 7-1 win over the Toronto Blue Jays.</p>",
+      "<p>Aaron Judge cranked two homers with four RBIs as Max Fried threw seven innings with seven strikeouts to help the New York Yankees defeat the Chicago White Sox 8-1.</p>",
+      "<p>Tanner Bibee pitched six innings picking up five strikeouts and George Valera hit a timely two-run homer as the Cleveland Guardians defeated the Detroit Tigers 5-1 to continue their historic run towards the post-season.</p>",
+      "<p>Cal Raleigh hit his major league-leading 59th and 60th home runs of the season and the Seattle Mariners clinched their fourth AL West title with a 9-2 win over the Colorado Rockies.</p>",
+      "<p>Athletics catcher Shea Langeliers went 4-for-4 with a home run and a double as Luis Severino hurled 6.1 innings of shutout ball to defeat the Houston Astros 6-0.</p>",
+      "<p>Pittsburgh Pirates ace Paul Skenes tossed six innings and collected seven strikeouts before Spencer Horwitz doubled home the go-ahead run in the 11th inning to sink the Cincinnati Reds 4-3.</p>",
+      "<p>Danny Jansen cranked a solo shot and Dylan Cease cruised for five innings with eight strikeouts to push the Milwaukee Brewers over the San Diego Padres 3-1.</p>",
+      "<p>Matt Shaw homered and had three hits, Michael Busch also went deep and the Chicago Cubs ended a season-high five-game losing streak with a 10-3 win over the New York Mets.</p>",
+      "<p>Edmundo Sosa hit three homers as part of a franchise-record eight to lead the Philadelphia Phillies over the Miami Marlins 11-1 and clinch a first-round bye.</p>"
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2024/03/05/7d5a654c-4d74-4267-a638-6063c21071ac/brayan-bello-boston-red-sox-usatsi.jpg",
     "titles": [
-      "NFL Week 4 Picks From the MMQB Staff: Chiefs Host Ravens in Must-Win Matchup - Sports Illustrated",
-      "NFL Week 4 Pick ‘Em: Can Ravens bounce back against Chiefs?"
+      "Today's best MLB pitcher strikeout props: Back Red Sox starter against Blue Jays",
+      "MLB Highlights: Red Sox 7, Blue Jays 1",
+      "MLB Highlights: Yankees 8, White Sox 1",
+      "MLB Highlights: Guardians 5, Tigers 1",
+      "MLB Highlights: Mariners 9, Rockies 2",
+      "MLB Highlights: Athletics 6, Astros 0",
+      "MLB Highlights: Pirates 4, Reds 3 (11)",
+      "MLB Highlights: Brewers 3, Padres 1",
+      "MLB Highlights: Cubs 10, Mets 3",
+      "MLB Highlights: Phillies 11, Marlins 1"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.934,
+      "recency": 0.975,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.65,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The Toronto Blue Jays' position at the top of the American League East Division was weakened following a 7-1 defeat to the Boston Red Sox. Despite needing a strong performance from Max Scherzer, the Blue Jays were outplayed, with Masataka Yoshida driving in two runs and Garrett Crochet delivering eight solid innings with six strikeouts for the Red Sox.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Seattle Trial Begins, Expected to Last a Month",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 16:01:52 GMT",
+    "source": "CNBC",
+    "sources": [
+      "Financial Times",
+      "CNBC"
+    ],
+    "domains": [
+      "www.ft.com",
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "Opening arguments for the trial in Seattle took place on Tuesday and the proceedings were expected to last a month.",
+      "Agreement includes largest ever penalty issued for breach of regulator’s rules"
+    ],
+    "image_url": "",
+    "titles": [
+      "Amazon reaches $2.5 billion settlement with FTC over 'deceptive' Prime program",
+      "Amazon settles FTC Prime case for $2.5bn"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.976,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.65,
+    "summary_source": "snippet",
+    "summary_reason": "retry_exhausted",
+    "summary": "Opening arguments for the trial in Seattle took place on Tuesday and the proceedings were expected to last a month.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "SportsLine's Eric Cohen Releases NFL Week 4 Score Predictions",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 14:30:54 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Bleacher Report",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.cbssports.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 4 of the NFL schedule",
+      "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB0VU1IV0diMVpReGM5QmZtMGEyb0ZFQkhtTm9nbU5HS19ZRVRHUmEzS3M5MDVJOWl0RUdXM1U0TTZ3d2hhU2JsMXcta1ZRaGJDQTBHWk8wWkpHRENuR1FpdDRaZF9PNVhDRkdoYjJyQURBcGFRT3A3THZnVWlHdw?oc=5\" target=\"_blank\">2025 NFL Week 4 Expert Picks</a>&nbsp;&nbsp;<font color=\""
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/04/7076f29a-1478-47bf-af95-2a6bc8ce3130/devonta-smith-vs-cowboys-cbs-imagn.jpg",
+    "titles": [
+      "2025 Week 4 NFL score predictions, bets, odds, top picks today: Expert unveils exact scores for all 16 games",
+      "2025 NFL Week 4 Expert Picks - Bleacher Report"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.965,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.648,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "SportsLine expert Eric Cohen has released his score predictions for every game of Week 4 in the NFL schedule. The predictions are available for viewers interested in Cohen's insights on the upcoming matchups.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "England vs. Canada: Top Teams Unchanged for Rugby World Cup Final",
+    "domain": "sports",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Thu, 25 Sep 2025 15:14:42 GMT",
+    "source": "BBC",
+    "sources": [
+      "Sportsnet",
+      "BBC"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "www.sportsnet.ca"
+    ],
+    "snippets": [
+      "England and Canada name unchanged teams for the Women's Rugby World Cup final on Saturday at Twickenham.",
+      "<p>No. 2 Canada and No. 1 England have named unchanged lineups for Saturday&#8217;s heavyweight clash in the final of the Women&#8217;s Rugby World Cup.</p>"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0479/live/dadd4170-99e1-11f0-92db-77261a15b9d2.jpg",
+    "titles": [
+      "'Trust what we've built' - England & Canada unchanged for final",
+      "Canada, England name unchanged lineups for heavyweight clash in Rugby World Cup final"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.96,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.647,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "For the Women's Rugby World Cup final at Twickenham on Saturday, both England (ranked No. 1) and Canada (ranked No. 2) have announced unchanged teams. This decision sets the stage for a highly anticipated match between the top-ranked teams.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Patriots' 8% Stake Sold at $9 Billion Valuation",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 14:38:25 GMT",
+    "source": "Axios",
+    "sources": [
+      "CNBC",
+      "Axios"
+    ],
+    "domains": [
+      "news.google.com",
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FeXBncGZ5X1RHSGh1a2U0cHhiY29ZSGhycFdld0QyT0ZWZUpTMWEtZUxZSWN1X0R3bUJYbWc5VVhJTU9NS2U0UGE4cGw0UFgtRnRJRXY0bjlGOWVrU1dTNGNKNllQcTA?oc=5\" target=\"_blank\">Bob Kraft to sell minority stake in New England Patriots at $9B valuation</a>&nbsp;&nbsp",
+      "Two buyers have cut a deal to buy an 8% stake in the New England Patriots."
+    ],
+    "image_url": "",
+    "titles": [
+      "Bob Kraft to sell minority stake in New England Patriots at $9B valuation - Axios",
+      "Robert Kraft agrees to sell New England Patriots minority stake in deal that values team at $9B"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.948,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.645,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Two buyers have agreed to purchase an 8% minority stake in the New England Patriots, owned by Bob Kraft, at a valuation of $9 billion. This sale marks a significant transaction in the sports industry.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Apple Blames EU's Digital Markets Act for Feature Delays",
+    "domain": "technology",
+    "source_domain": "techcrunch.com",
+    "location": "global",
+    "published": "Thu, 25 Sep 2025 13:02:50 +0000",
+    "source": "TechCrunch",
+    "sources": [
+      "Ars Technica",
+      "TechCrunch"
+    ],
+    "domains": [
+      "techcrunch.com",
+      "arstechnica.com"
+    ],
+    "snippets": [
+      "Apple is blaming the EU's enforcement of the DMA for delaying the launch of some features in the EU, saying the rules are \"leading to a worse experience\" for Apple customers in the bloc by exposing them to new risks and reducing choices.",
+      "\"DMA compliance is not optional, it's an obligation,\" the EU reminds Apple."
+    ],
+    "image_url": "",
+    "titles": [
+      "Apple blames EU’s Digital Markets Act for feature delays",
+      "Apple demands EU repeal the Digital Markets Act"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.936,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
@@ -740,438 +932,124 @@
     "score": 0.642,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "NFL Week 4 preview focuses on key matchups, including the Ravens aiming for a win against the Chiefs, considered weaker this season, and Jaxson Dart's performance in his first start. Richard Janvrin provides insights and predictions for these games.",
+    "summary": "Apple has attributed delays in launching certain features in the EU to the enforcement of the Digital Markets Act (DMA), claiming it degrades customer experience by increasing risks and limiting choices. The EU has responded by emphasizing that compliance with the DMA is mandatory, not optional.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Nothing Spins Off CMF Brand as Independent Subsidiary in India",
-    "domain": "technology",
-    "source_domain": "www.theverge.com",
+    "title": "45th Ryder Cup at Bethpage Black Challenges Teams with Tough Course",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
     "location": "global",
-    "published": "2025-09-25T03:58:09-04:00",
-    "source": "The Verge",
+    "published": "Thu, 25 Sep 2025 12:43:24 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "The Verge",
-      "TechCrunch"
+      "Al Jazeera",
+      "The Guardian"
     ],
     "domains": [
-      "techcrunch.com",
-      "www.theverge.com"
+      "www.aljazeera.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "Nothing has announced that it plans to spin off its sub-brand CMF, which focuses on cheaper smartphones, earbuds, and wearables, into a standalone subsidiary based in India. Founder and CEO Carl Pei announced the move on X, claiming he plans to build CMF into India’s “first truly global consumer tec",
-      "Nothing is making its affordable devices brand CMF into a separate entity with headquarters in India."
+      "The Ryder Cup returns with Bethpage Black hosting the prestigious competition",
+      "<p>Club-tangling rough, narrow fairways and a tough workout lie in wait for USA and Europe in the 45th Ryder Cup</p><p>How much of this hole players will actually see or remember is open to question. Ryder Cup nerves tend to trigger blurry sensations on the 1st tee. That area has been shortened slig"
     ],
     "image_url": "",
     "titles": [
-      "Nothing spins off its budget brand CMF",
-      "Smartphone maker Nothing to spin off its affordable CMF brand"
+      "Ryder Cup and the People’s Course",
+      "Bethpage Black: hole-by-hole course guide for the 2025 Ryder Cup"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.914,
+      "recency": 0.93,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.638,
-    "summary_source": "cache",
+    "score": 0.641,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Nothing is spinning off its affordable devices brand, CMF, into an independent subsidiary headquartered in India. The company, known for smartphones, earbuds, and wearables, aims to establish CMF as India's first globally recognized consumer tech brand, according to founder and CEO Carl Pei.",
+    "summary": "The 45th Ryder Cup is being hosted at Bethpage Black, presenting a challenging course with club-tangling rough, narrow fairways, and a tough layout for teams from the USA and Europe. The competition returns with modifications, including a slightly shortened 1st tee area, but the impact of Ryder Cup nerves on players' performance remains a significant factor.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Claims \"Triple Sabotage\" at UN, Kremlin Dismisses Comments",
-    "domain": "business",
+    "title": "One in Three Female Students Face Sexual Harassment at University: Survey",
+    "domain": "general",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Thu, 25 Sep 2025 03:15:40 GMT",
+    "published": "Thu, 25 Sep 2025 12:00:38 GMT",
     "source": "BBC",
     "sources": [
-      "CNBC",
+      "The Guardian",
       "BBC"
     ],
     "domains": [
       "www.bbc.com",
-      "www.cnbc.com"
+      "www.theguardian.com"
     ],
     "snippets": [
-      "The US president called the incidents that included an escalator and teleprompter mishap \"a real disgrace\".",
-      "Trump noted that The Times, a British newspaper, reported that U.N. employees \"joked about turning off an escalator\" before his appearance there."
+      "Women and LGBT students were more likely to report incidents than their male and heterosexual counterparts.",
+      "<p>Higher education regulator describes findings from survey of 50,000 final-year students as ‘national scandal’</p><p>One in three female students say they have endured sexual harassment during their time at university or college, with most of it taking place around campus, according to data publis"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9400/live/56734630-99de-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/221f/live/28904cd0-99f8-11f0-88dc-4bebfe637e18.png",
     "titles": [
-      "Trump demands inquiry over UN 'triple sabotage' after escalator and teleprompter mishaps",
-      "Trump claims ‘sabotage’ at U.N. from escalator, teleprompter and mic"
+      "Thousands of students report sexual violence at university",
+      "Third of women report facing sexual harassment at university in England, survey finds"
     ],
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.812,
+      "magnitude": 0.735,
+      "recency": 0.897,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.631,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Donald Trump alleged \"triple sabotage\" during his UN appearance, citing teleprompter and audio issues, and a stopped escalator, which he attributed to a deliberate act. The Times reported that U.N. employees joked about turning off the escalator, but the UN suggests the issue may have involved a US delegation staffer. The Kremlin dismissed Trump's separate comment about Russia being a \"paper tiger.\"",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Chery Automobile's Shares Surge in Hong Kong Debut, Raises HK$9.1B",
-    "domain": "business",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 03:35:47 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC",
-      "Fortune"
-    ],
-    "domains": [
-      "fortune.com",
-      "www.cnbc.com"
-    ],
-    "snippets": [
-      "China's largest vehicle exporter, Chery Automobile, saw its shares jump in its Hong Kong debut after raising 9.1 billion Hong Kong dollars through an initial public offering.",
-      "Chery has remained China’s top exporting brand every year since 2003. Russia, the Middle East and South America are among its top overseas sales markets."
-    ],
-    "image_url": "",
-    "titles": [
-      "Shares of China’s largest vehicle exporter Chery pop 11% in Hong Kong debut",
-      "China’s top car exporter Chery gains in Hong Kong debut"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.818,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.626,
+    "score": 0.634,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Chery Automobile, China's leading vehicle exporter since 2003, experienced a significant share price increase during its Hong Kong stock market debut. The company successfully raised 9.1 billion Hong Kong dollars through an initial public offering. Chery is well-known for its strong sales in Russia, the Middle East, and South America.",
+    "summary": "A survey of 50,000 final-year students revealed that one in three female students experienced sexual harassment during their time at university or college, primarily around campus. Women and LGBT students reported incidents more frequently than male and heterosexual students. The higher education regulator has labeled the findings a 'national scandal.'",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Guardians Overcome Record 15.5 Game Deficit to Lead Division",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 02:01:32 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "CBS Sports",
-      "Sportsnet"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "The Tigers led the division by 10 games in early September",
-      "<p>George Valera hit a two-run homer in the third inning, José Ramírez had a two-run double in the seventh and the Cleveland Guardians became the first major league team to overcome a deficit of 15 1/2 games and take the lead in either division or league play, beating the Detroit Tigers 5-1 on Wedne"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/25/68a28a5a-af5f-44de-8e79-c990a84497dc/092425-guardians.jpg",
-    "titles": [
-      "Guardians beat Tigers, take sole possession of first place in AL Central as Detroit's collapse continues",
-      "Guardians beat Tigers to take one-game lead in AL Central"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.808,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.617,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The Cleveland Guardians overcame a 15 1/2 game deficit, the largest in major league history, to lead their division. Key plays included George Valera's two-run homer and José Ramírez's two-run double, contributing to their 5-1 win over the Detroit Tigers.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Ex-FBI Director Comey Investigated for Allegedly Lying to Congress",
-    "domain": "business",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 03:09:58 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.cnbc.com"
-    ],
-    "snippets": [
-      "James Comey reportedly is being investigated for possibly lying to Congress during testimony in 2020 about whether he authorized a leak of information.",
-      "<p>Comey has long been focus of Donald Trump, who sacked him from FBI role in early months of presidency</p><p><strong>One element of the </strong><strong>possible indictment against the former FBI director James Comey </strong><strong>is expected to accuse him of lying to Congress during testimony."
-    ],
-    "image_url": "",
-    "titles": [
-      "Former FBI Director Comey expected to be indicted soon in Virginia federal court: MSNBC",
-      "Former FBI director James Comey expected to be indicted on criminal charges, reports say – US politics live"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.81,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.617,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "James Comey, former FBI director, is under investigation for allegedly lying to Congress in 2020 about authorizing a leak. This inquiry is part of a broader examination of Comey, who was dismissed by Donald Trump in the early stages of his presidency. The potential charges against Comey include accusations of misleading Congress during his testimony.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "R.J. White Reveals Week 4 NFL Survivor Pick for ESPN Challenge",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 13:39:13 EST",
-    "source": "ESPN",
-    "sources": [
-      "CBS Sports",
-      "ESPN"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.cbssports.com"
-    ],
-    "snippets": [
-      "NFL survivor pool strategy, predictions and picks for this week's ESPN Eliminator Challenge.",
-      "SportsLine's advanced computer model just locked in its top Week 4 NFL survivor picks"
-    ],
-    "image_url": "",
-    "titles": [
-      "Survivor pool strategy: The top teams to take in Week 4",
-      "NFL football knockout, survivor pool picks, advice, strategy for Week 4, 2025: Avoid the Patriots"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.679,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.616,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "R.J. White, SportsLine's top NFL expert, has made his Week 4 NFL survivor pick for ESPN's Eliminator Challenge. This selection is part of his strategy and predictions for this week's NFL games, aimed at guiding participants in making informed choices in their survivor pools.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Artemis II Mission to Orbit Moon with Canadian Astronaut in 2026",
-    "domain": "technology",
-    "source_domain": "arstechnica.com",
-    "location": "global",
-    "published": "Wed, 24 Sep 2025 22:35:11 +0000",
-    "source": "Ars Technica",
-    "sources": [
-      "CityNews",
-      "Ars Technica"
-    ],
-    "domains": [
-      "ottawa.citynews.ca",
-      "arstechnica.com"
-    ],
-    "snippets": [
-      "<em>Integrity</em>, this is Houston, you are go for the Moon...",
-      "LONGUEUIL — The crew of the Artemis II mission, including Canadian astronaut Jeremy Hansen, are heading around the moon in 2026, but the team said Wednesday they are most concerned about laying the groundwork for future missions. &#8220;We look through the lens of mission success, which is Artemis I"
-    ],
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-092425b-lg-1152x648.jpg",
-    "titles": [
-      "The crew of Artemis II will fly on Integrity during mission to the Moon",
-      "Artemis II crew and Canadian astronaut Jeremy Hansen ready for historic moon mission"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.752,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.615,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "In 2026, the Artemis II mission, featuring Canadian astronaut Jeremy Hansen, will orbit the moon. Announced in Longueuil, the crew emphasized their focus on preparing for subsequent missions to ensure long-term success. This marks a significant step in lunar exploration efforts.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: effort",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Countries Update 2035 Climate Goals; China Pledges 7-10% Emission Cut",
+    "title": "Ohio Marks Space Week, Highlights NASA Glenn's Achievements",
     "domain": "science",
-    "source_domain": "www.dw.com",
+    "source_domain": "www.nasa.gov",
     "location": "global",
-    "published": "2025-09-24T19:23:00Z",
-    "source": "Deutsche Welle",
+    "published": "Thu, 25 Sep 2025 12:58:40 +0000",
+    "source": "NASA",
     "sources": [
-      "Deutsche Welle",
-      "Phys.org"
+      "NASA"
     ],
     "domains": [
-      "phys.org",
-      "www.dw.com"
+      "www.nasa.gov"
     ],
     "snippets": [
-      "With just weeks to go until the international climate conference, nations are stepping up to submit new climate targets for 2035. But will they be enough to prevent a climate catastrophe?",
-      "China has for the first time made specific emission cut pledges, though its goal of reducing planet-warming greenhouse gases just 7-10% by 2035 is seen as far too modest."
+      "Ohio Space Week, Sept. 8–13, highlighted the state’s aerospace legacy and the role NASA’s Glenn Research Center has in advancing space technology.&#160; The week kicked off with the American Astronautical Society’s Glenn Space Technology Symposium, Sept. 8–10, hosted by Case Western Reserve Universi",
+      "Led by acting NASA Administrator Sean Duffy, an agency delegation will participate in the International Astronautical Congress (IAC) in Sydney, Australia, from Sunday, Sept. 28 to Friday, Oct. 3. The IAC, organized by the International Astronautical Federation (IAF), is hosted this year by the Space"
     ],
     "image_url": "",
     "titles": [
-      "Nations deliver new climate targets ahead of climate summit",
-      "Under promise, over deliver? China unveils new climate goals"
+      "NASA Glenn Reinforces Role in Aerospace Innovation During Ohio Space Week",
+      "NASA Highlights Space Innovation, Exploration at Space Conference"
     ],
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.703,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
+      "magnitude": 0.373,
+      "recency": 0.935,
+      "consensus": 0.35,
+      "constructiveness": 0.2,
       "proximity": 0.5
     },
-    "score": 0.603,
+    "score": 0.475,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Nations are updating their climate targets for 2035 ahead of an international climate conference. China announced its first specific emission reduction pledges, aiming to cut greenhouse gases by 7-10% by 2035, a goal criticized as insufficient to avert climate catastrophe.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Waymo Expands to Corporate Travel, Partners with Carvana",
-    "domain": "technology",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 22:15:49 GMT",
-    "source": "Axios",
-    "sources": [
-      "TechCrunch",
-      "Axios"
-    ],
-    "domains": [
-      "techcrunch.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NVjRDZVRMNUNzTnNuV1VGU0RqQlpJQm5zTk9GU0s3QTZiTUpSSi0zSjNUdzdLamRqSUxNUkJXUjdvdXNKNU9VcFEwTmlqRlUzQ0RMZF9ZUVB1cXk4NTJIMU1wcWpIUQ?oc=5\" target=\"_blank\">Waymo moves into the corporate travel business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios",
-      "One of Waymo's first enterprise customers is Carvana."
-    ],
-    "image_url": "",
-    "titles": [
-      "Waymo moves into the corporate travel business - Axios",
-      "Waymo is getting into the corporate travel business"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.732,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.601,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Waymo, a self-driving technology company, is expanding into the corporate travel sector. Carvana is among the first companies to partner with Waymo for its autonomous vehicle services.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Danish PM to Apologize for Forced Contraception in Greenland",
-    "domain": "general",
-    "source_domain": "www.washingtonpost.com",
-    "location": "global",
-    "published": "Wed, 24 Sep 2025 20:38:29 +0000",
-    "source": "Washington Post",
-    "sources": [
-      "Washington Post",
-      "New York Times"
-    ],
-    "domains": [
-      "www.washingtonpost.com",
-      "www.nytimes.com"
-    ],
-    "snippets": [
-      "In Greenland, Danish Prime Minister Mette Frederiksen will apologize formally for the mistreatment of thousands of Inuit girls and women who were given invasive contraception without consent.",
-      "Some Greenlanders asked why an apology had not come decades earlier, and chalked up the timing to tensions over President Trump’s aim of annexing the island."
-    ],
-    "image_url": "",
-    "titles": [
-      "Denmark, hoping to reconcile, apologizes for forced contraception in Greenland",
-      "With Sobs and Doubts, Greenlandic Women Receive Apology for Forced Contraception"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.722,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.599,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Danish Prime Minister Mette Frederiksen will issue a formal apology for the non-consensual invasive contraception given to Inuit women and girls in Greenland. This action comes amid questions about the delay in addressing the issue, which some attribute to recent political tensions following President Trump's expressed interest in annexing Greenland.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "White House Acts to Secure U.S. Critical Mineral Supply, Considers Equity in Lit",
-    "domain": "business",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Wed, 24 Sep 2025 20:19:18 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC",
-      "TechCrunch"
-    ],
-    "domains": [
-      "techcrunch.com",
-      "www.cnbc.com"
-    ],
-    "snippets": [
-      "It is the latest move by the White House to take direct ownership in the U.S. critical mineral supply chain.",
-      "Lithium Americas asked for a small change to the loan repayment period, which spurred the latest Trump administration request for equity."
-    ],
-    "image_url": "",
-    "titles": [
-      "Lithium Americas soars 95% as Trump administration seeks equity stake in Canadian miner",
-      "Trump administration wants 10% stake in American lithium miner that sells to GM"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.703,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.596,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The White House, aiming to strengthen U.S. control over its critical mineral supply chain, has taken action following a request from Lithium Americas to extend the loan repayment period. This request led to the Trump administration seeking equity in the company as part of its strategy to secure resources vital for technology and energy.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
+    "summary": "Ohio Space Week, celebrated from Sept. 8-13, underscored Ohio's significant contributions to aerospace, featuring NASA’s Glenn Research Center's advancements in space technology. The week began with the Glenn Space Technology Symposium, hosted by Case Western Reserve University. Furthermore, NASA, led by acting Administrator Sean Duffy, will attend the International Astronautical Congress in Sydney, Australia, from Sept. 28 to Oct. 3, showcasing global space collaboration.",
+    "constructiveness_score": 0.2,
+    "constructiveness_reason": "keywords: collaboration, research",
     "constructiveness_source": "heuristic"
   }
 ]
