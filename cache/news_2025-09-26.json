@@ -8,18 +8,18 @@
     "source": "NPR",
     "sources": [
       "Business Insider",
-      "Axios",
+      "The Guardian",
       "TechCrunch",
+      "Axios",
       "NPR",
-      "CNBC",
-      "The Guardian"
+      "CNBC"
     ],
     "domains": [
-      "www.npr.org",
-      "www.cnbc.com",
-      "techcrunch.com",
-      "www.businessinsider.com",
       "www.theguardian.com",
+      "www.cnbc.com",
+      "www.businessinsider.com",
+      "www.npr.org",
+      "techcrunch.com",
       "news.google.com"
     ],
     "snippets": [
@@ -41,12 +41,12 @@
     ],
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.875,
+      "recency": 0.805,
       "consensus": 1.0,
       "constructiveness": 0.1,
       "proximity": 0.75
     },
-    "score": 0.86,
+    "score": 0.846,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "President Donald Trump signed an executive order approving a deal for TikTok to transfer a majority stake to U.S. investors, allowing the app to continue operating in the U.S. The agreement involves separating TikTok from its Chinese owner ByteDance, with U.S. investors taking an 80% stake. Oracle will audit TikTok's algorithm and ensure data security. This move meets Congressional requirements and prevents the Department of Justice from enforcing any law that could shut down TikTok in the U.S. for 120 days while the plan is implemented.",
@@ -62,28 +62,31 @@
     "published": "Thu, 25 Sep 2025 19:09:26 -0400",
     "source": "NPR",
     "sources": [
-      "Axios",
-      "BBC",
-      "NPR",
+      "ABC News",
       "CNBC",
       "The Guardian",
       "Forbes",
-      "ABC News",
-      "Deutsche Welle"
+      "Axios",
+      "Deutsche Welle",
+      "NPR",
+      "BBC",
+      "Al Jazeera"
     ],
     "domains": [
-      "www.npr.org",
-      "www.cnbc.com",
-      "www.forbes.com",
-      "www.dw.com",
       "www.theguardian.com",
       "abcnews.go.com",
+      "www.forbes.com",
+      "www.dw.com",
       "www.bbc.com",
+      "www.cnbc.com",
+      "www.npr.org",
+      "www.aljazeera.com",
       "news.google.com"
     ],
     "snippets": [
       "Comey faces one count of making false statements and one count of obstruction of justice in connection.<br />",
       "James Comey says he is innocent after being accused of lying to Congress in 2020 while testifying about leaks to the media.",
+      "The former director of the US Federal Bureau of Investigations has been accused of lying to Congress.",
       "Comey is accused of making false statements and obstructing justice. Trump fired Comey in 2017, as he investigated the Trump 2016 presidential campaign's possible collusion with Russia.",
       "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5uWmNkeTh6bko1VlN5ejdWM255Q3cxajNQMFJKbDhCTkN0UnlBTXhHRHlvWWZvRWVqZEpjZVVMUGxxbEtSekF0UkdsYUtJSE9IVFNNeVBtUmFpVDJQMUdxTUVaNE1Sd0phVjk5RzFmekZQdndDaG9oN2pOOGc0Zw?oc=5\" target=\"_blank\">Read: Former FBI chief Comey indicted on two charges</a>&",
       "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbUxMdkxzOUNVRkF5UEtQU0hxb1p6UnJBTnVFLVZINGRRQjlHLVlBTkRlWEdOT2JucW1yZzdGcWFYUWp3REIyVUF5dEtVQV9vUi1RV2szNUxFT3lGenhhaHY3cVpVQVJXQmZ4bGZCMWFDYnZrVXAzWGh6dGZ2NlU?oc=5\" target=\"_blank\">Former FBI director James Comey indicted</a>&nbsp;&nbsp;",
@@ -96,6 +99,7 @@
     "titles": [
       "Ex-FBI Director James Comey indicted on criminal charges stemming from 2020 testimony",
       "Former FBI director James Comey indicted on two charges",
+      "Why ex-FBI Director James Comey has been indicted – what it means",
       "Former FBI Director James Comey indicted on two counts",
       "Read: Former FBI chief Comey indicted on two charges - Axios",
       "Former FBI director James Comey indicted - Axios",
@@ -106,12 +110,12 @@
     ],
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.9,
+      "recency": 0.828,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.855,
+    "score": 0.841,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Former FBI Director James Comey has been indicted by a federal grand jury on charges of making false statements and obstruction of justice. These charges are connected to his actions while investigating the Trump 2016 presidential campaign's potential collusion with Russia. President Donald Trump, who fired Comey in 2017, publicly expressed satisfaction over the indictment. The current status is that Comey faces legal proceedings for the accusations against him.",
@@ -127,30 +131,30 @@
     "published": "Fri, 26 Sep 2025 01:13:41 GMT",
     "source": "BBC",
     "sources": [
+      "The Guardian",
       "New York Times",
       "Axios",
+      "Deutsche Welle",
       "BBC",
-      "The Guardian",
-      "Al Jazeera",
-      "Deutsche Welle"
+      "Al Jazeera"
     ],
     "domains": [
-      "www.nytimes.com",
-      "www.aljazeera.com",
-      "www.dw.com",
       "www.theguardian.com",
+      "www.dw.com",
       "www.bbc.com",
-      "news.google.com"
+      "www.aljazeera.com",
+      "news.google.com",
+      "www.nytimes.com"
     ],
     "snippets": [
-      "The US president was speaking ahead the Israeli PM's address to the UN General Assembly on Friday.",
-      "Donald Trump ruling out Israel&#039;s annexation of the occupied West Bank will have repercussions for Israeli PM Netanyahu.",
+      "The US president spoke ahead the Israeli PM's address to the UN General Assembly on Friday.",
+      "US president rules out Israeli annexation of the occupied West Bank but analysts question whether he&#039;ll follow through.",
       "US President Donald Trump said an Israeli annexation of the West Bank is \"not going to happen.\" It comes as several Israeli ministers have pushed for the idea. DW has more.",
       "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5xZkgzaURWUUR4SzA0dVpWenFadHFkTWdFQ21UZ2xubmJ3eUFIY3Brc2VlcjlVeTVTRTFMTFJZYU03VDUyM1VLRElGU2VvYXpXS2RObHFsUmFDMWctVVp5YUZtWWpGRWlxZmFhSUo5aENoOTN4WWlsMjRiZw?oc=5\" target=\"_blank\">Trump says he won't let Netanyahu annex the West Bank</a>&nbs",
-      "<p>British officials said they feared Trump would recognise Israeli control over the West Bank in retaliation for the UK, Australia, France and other recognising Palestine</p><p>Donald Trump has said he will not allow Israel to annex the West Bank, rejecting calls from some far-right politicians in ",
+      "<p>British officials said they feared Trump would recognise Israeli control over the West Bank in retaliation for the UK, Australia, France and other recognising Palestine</p><p>Donald Trump has said he will not allow Israel to annex the occupied West Bank, rejecting calls from some far-right politi",
       "After more countries recognized a Palestinian state this week, President Trump said on Thursday that he would not permit Israel to take over the territory."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2266/live/67ee2e50-9a71-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4f7/live/6f935d70-9aa7-11f0-928c-71dbb8619e94.jpg",
     "titles": [
       "Trump says he 'will not allow' Netanyahu to annex West Bank",
       "Trump says he ‘will not allow’ Israel to annex occupied West Bank",
@@ -161,12 +165,12 @@
     ],
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.921,
+      "recency": 0.847,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.834,
+    "score": 0.819,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "US President Donald Trump announced he will not allow the annexation of the West Bank by Israel, despite several Israeli ministers advocating for it. This statement follows the recognition of a Palestinian state by more countries.",
@@ -179,45 +183,47 @@
     "domain": "business",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Fri, 26 Sep 2025 00:46:07 GMT",
+    "published": "Fri, 26 Sep 2025 00:46:04 GMT",
     "source": "Axios",
     "sources": [
-      "CNBC",
       "Business Insider",
+      "TechCrunch",
+      "Fortune",
       "Axios",
-      "TechCrunch"
+      "CNBC"
     ],
     "domains": [
+      "fortune.com",
       "www.cnbc.com",
       "www.businessinsider.com",
-      "news.google.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "news.google.com"
     ],
     "snippets": [
       "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOVHZfNFRhbnRJcUdkQUViQWlta041LWJOYVpnYjA1SUlhMU5yNVFaRl9tR09sSTkxXzZ3S1JqeGVkZlA5Y2tnTzVXZFdpNnFPV01iaFBEV1B2Vms2Smd1YUhjX085a3F1QVljQ0o5eGdrakt0cUJjQlFMMGNiYkk3bzBXdW1YUQ?oc=5\" target=\"_blank\">How and when you'll get a refund from the Ama",
       "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA1WXVkbk5XT0tOa2t6cUJkMHlUR1ZfVENEZmpkNWtVQ21QU19JRnRoYmFQdHRLNzFOaUxVdWRwaHNXUGZBcTZUZjUtODNCZzlMTzBrejZTdEVzRWxnSjZWWmV4b0I5RFVUNm5WRw?oc=5\" target=\"_blank\">Amazon reaches $2.5 billion settlement over FTC's Prime lawsuit</a>&nbsp;&nbsp;<f",
       "Opening arguments for the trial in Seattle took place on Tuesday and the proceedings were expected to last a month.",
       "The FTC's lawsuit stemmed from previous Business Insider reporting that found Amazon was aware users found the Prime cancellation process confusing.",
-      "Business Insider investigated Amazon Prime's practices in 2022, reigniting an FTC case",
+      "The surprise settlement between the online retail giant and the Trump administration happened just a few days into the trial over one of Amazon’s most important businesses. Amazon is paying a steep price—and taking a big win.",
       "The company will be required to pay a $1 billion civil penalty and provide $1.5 billion in refunds back to an estimated 35 million consumers harmed by the company's \"deceptive Prime enrollment practices,\" the FTC says."
     ],
     "image_url": "",
     "titles": [
-      "How and when you'll get a refund from the Amazon Prime settlement - Axios",
+      "How and when you'll get a refund from the Amazon Prime, FTC settlement - Axios",
       "Amazon reaches $2.5 billion settlement over FTC's Prime lawsuit - Axios",
       "Amazon reaches $2.5 billion settlement with FTC over 'deceptive' Prime program",
       "Amazon to pay $2.5 billion settlement over allegations it deceived Prime subscribers",
-      "How Business Insider's investigation into Amazon Prime led to a record $2.5 billion settlement with the US government",
+      "Why Amazon actually got off easy despite ‘historic’ $2.5 billion Prime deceptive practices settlement",
       "Amazon to pay $2.5B in FTC settlement over ‘deceptive’ Prime tactics"
     ],
     "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.912,
-      "consensus": 0.908,
+      "magnitude": 0.964,
+      "recency": 0.839,
+      "consensus": 0.995,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.779,
+    "score": 0.804,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Amazon has agreed to a $2.5 billion settlement with federal regulators over allegations of deceptive web designs that tricked millions into unwanted Prime subscriptions and made cancellation difficult. The settlement includes a $1 billion civil penalty and $1.5 billion in consumer refunds for the estimated 35 million affected. The FTC accused Amazon of using \"dark patterns\" for auto-renewals and a complex cancellation process. This resolution follows a lawsuit and a Business Insider investigation into Amazon Prime's practices.",
@@ -226,50 +232,138 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Ex-Arsenal Youth Player Billy Vigar Dies After Game Injury at 21",
-    "domain": "sports",
+    "title": "US President Imposes New Tariffs on Drugs, Trucks, Cabinets to Shield Manufactur",
+    "domain": "general",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Thu, 25 Sep 2025 18:13:13 GMT",
+    "published": "Fri, 26 Sep 2025 07:04:50 GMT",
     "source": "BBC",
     "sources": [
-      "Sky Sports",
-      "CBS Sports",
       "The Guardian",
-      "BBC"
+      "Deutsche Welle",
+      "BBC",
+      "Al Jazeera"
     ],
     "domains": [
-      "www.cbssports.com",
-      "www.theguardian.com",
+      "www.aljazeera.com",
       "www.bbc.com",
-      "www.skysports.com"
+      "www.theguardian.com",
+      "www.dw.com"
     ],
     "snippets": [
-      "Chichester City FC confirmed that Billy Vigar, 21, died on Thursday morning.",
-      "The former Gunner had just joined Chichester City FC last month",
-      "<ul><li><p>Vigar, 21, sustained injury in league game on Saturday</p></li><li><p>Arsenal pay tribute to ‘fiercely determined’ forward</p></li></ul><p>The Chichester City forward Billy Vigar has died at the age of 21 after sustaining a “significant brain injury” in a game last Saturday. The former Ar",
-      "Former Arsenal striker Billy Vigar has died aged 21 after suffering a 'significant brain injury' while playing for Chichester City."
+      "The US president said the move aims to help protect American manufacturers from foreign imports.",
+      "The 100% tariff on pharmaceuticals, 25% on trucks, and 30% on furniture will come into effect on October 1.",
+      "Asian stock markets fell after US President Donald Trump announced a new wave of tariffs. He said taxes on medicines, imported kitchen cabinets and sofas were needed \"for national security and other reasons.\"",
+      "<p>President announces 100% tariffs on imported branded drugs, 25% on heavy-duty trucks and 50% on cabinets</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> on Thursday announced a new round of punishing <a href=\"https://www.theguardian.com/us-news/trump-tariffs\">tari",
+      "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/sep/25/trump-tariffs-heavy-trucks-drugs-kitchen-cabinets\"><strong>Trump says US will impose new tariffs on heavy trucks, drugs and kitchen cabinets</strong></a></p></li><li><"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a276/live/49a63c90-9a39-11f0-8766-3f88e8be4733.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0c/live/0f72d480-9a6a-11f0-b39f-8faa1a82cdd5.jpg",
     "titles": [
-      "Former Arsenal striker dies after sustaining 'significant injury' during game",
-      "Former Arsenal academy player Billy Vigar dies at 21 after suffering 'significant brain injury'",
-      "Billy Vigar, Chichester and former Arsenal player, dies after sustaining brain injury",
-      "Ex-Arsenal striker Vigar dies aged 21 after suffering 'significant brain injury'"
+      "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
+      "Trump announces ‘national security’ tariffs on drugs, trucks, furniture",
+      "US: Trump's new tariffs to target drugs, furniture, trucks",
+      "Trump says US will impose new tariffs on heavy trucks, drugs and kitchen cabinets",
+      "Trump rattles investors with new tariffs on pharmaceuticals, trucks and kitchen cabinets – business live"
     ],
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.795,
+      "magnitude": 0.912,
+      "recency": 0.957,
       "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.748,
+    "score": 0.788,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Billy Vigar, a 21-year-old former Arsenal youth player and Chichester City FC forward, passed away after suffering a significant brain injury during a league game last Saturday. His death was confirmed on Thursday morning. Arsenal paid tribute to him, highlighting his determination.",
+    "summary": "The US President announced new tariffs, including 100% on imported branded drugs, 25% on heavy-duty trucks, and 50% on cabinets. This move aims to protect American manufacturers from foreign competition.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Seahawks Beat Cardinals 23-20 with Last-Second Field Goal, Move to 3-1",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 23:39:01 EST",
+    "source": "ESPN",
+    "sources": [
+      "Sportsnet",
+      "Sky Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "www.espn.com",
+      "www.skysports.com"
+    ],
+    "snippets": [
+      "Seattle moves to 3-1 with a win over division-rival Arizona on \"Thursday Night Football.\"",
+      "The Seattle Seahawks resisted a late rally by&#160;Kyler Murray and the Cardinals to beat&#160;Arizona 23-20 on Thursday night after&#160;Jason Myers made a 52-yard field goal as time expired and&#160;Sam Darnold threw for 242 yards and a touchdown.",
+      "<p>Watch as Jason Myers nails a game-winning 52-yard field goal to lift the Seattle Seahawks over the Arizona Cardinals 23-20.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Seahawks hold off feisty Cardinals' comeback attempt",
+      "Seahawks resist late rally to beat Cardinals",
+      "Seahawks’ Myers nails last-second 52-yard field goal to beat Cardinals"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.91,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.744,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Seattle Seahawks improved their record to 3-1 after defeating the Arizona Cardinals 23-20 on \"Thursday Night Football.\" The win was secured by a 52-yard field goal from Jason Myers as time expired, following a strong performance by Sam Darnold who threw for 242 yards and a touchdown. The Seahawks managed to hold off a late rally by Kyler Murray and the Cardinals to secure the victory.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Microsoft Fires Workers Protesting Cloud Service Use by Israeli Military",
+    "domain": "business",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Fri, 26 Sep 2025 04:37:31 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "CNBC",
+      "TechCrunch",
+      "Al Jazeera"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.cnbc.com",
+      "techcrunch.com"
+    ],
+    "snippets": [
+      "Microsoft said Israel&#039;s use of Azure to store data obtained through mass surveillance of Palestinians violated its terms",
+      "The decision comes after Microsoft fired employees for participating in protests over the use of its cloud services by the Israeli military.",
+      "The investigation was sparked by a story in The Guardian that reported that Unit 8200, the elite Israel military intelligence unit, was using Azure cloud storage to house data on phone calls obtained through the surveillance of Palestinians in Gaza and the West Bank."
+    ],
+    "image_url": "",
+    "titles": [
+      "Microsoft cuts Israeli military’s access to some cloud computing, AI",
+      "Microsoft cuts off cloud services to Israeli military unit after report of storing Palestinians' phone calls",
+      "Microsoft cuts cloud services to Israeli military unit over Palestinian surveillance"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.928,
+      "consensus": 0.789,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.739,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Microsoft terminated employees who protested against the company's cloud services being used by the Israeli military. This action followed an investigation revealing Israel's misuse of Microsoft products to surveil Palestinian civilians, violating service terms. Microsoft stated it does not support technology for mass civilian surveillance. The probe was initiated by a report on Israel's military intelligence unit using Azure cloud for storing surveilled Palestinian phone data.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: support",
     "constructiveness_source": "heuristic"
   },
   {
@@ -280,13 +374,13 @@
     "published": "Fri, 26 Sep 2025 00:46:37 +0000",
     "source": "New York Times",
     "sources": [
-      "New York Times",
       "CityNews",
-      "Ottawa Citizen"
+      "Ottawa Citizen",
+      "New York Times"
     ],
     "domains": [
-      "www.nytimes.com",
       "ottawacitizen.com",
+      "www.nytimes.com",
       "ottawa.citynews.ca"
     ],
     "snippets": [
@@ -302,58 +396,15 @@
     ],
     "score_components": {
       "magnitude": 0.867,
-      "recency": 0.931,
+      "recency": 0.857,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.737,
+    "score": 0.722,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Canada Post, facing financial difficulties, will decrease door-to-door letter mail delivery frequency. This decision follows previous unpopular postal service cuts. The Canadian Union of Postal Workers has initiated a nationwide strike, labeling the move as an attack on postal services and workers. Public Works and Procurement Minister Joël Lightbound announced the government's acceptance of all recommendations from the Industrial Inquiry to address the situation.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Dallas Stars' Jamie Benn Out 4 Weeks After Lung Surgery",
-    "domain": "sports",
-    "source_domain": "www.nbcsports.com",
-    "location": "national",
-    "published": "Fri, 26 Sep 2025 03:54:02 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sportsnet",
-      "NHL",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "www.nbcsports.com",
-      "www.sportsnet.ca",
-      "news.google.com"
-    ],
-    "snippets": [
-      "In an announcement by general manager Jim Nill, the Stars said Benn was diagnosed with the injury late in its preseason game Tuesday night against Minnesota.",
-      "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOeUFTWWRrdmMwOGhXWVZ6aERSNFJfZUw2UXItUExuNWRXZE9RbFljcVowVFZEbFpLc3ZPLVU0bDY3NUp3MjFLcnBCR016dVpOTUtyMUZzMUlBTklyUkI5VDJ1YktiTWs1UjVsSWRNYzYwR1dlY2tKV3BjUFlNRlBUTmNjNFByaVh4SFRQQ3JmZ1k3R0k?oc=5\" target=\"_blank\">Benn to miss start of season",
-      "<p>The Dallas Stars will be without their captain for the next four weeks. </p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Dallas Stars captain Jamie Benn to undergo surgery for a collapsed lung",
-      "Benn to miss start of season for Stars with collapsed lung - NHL.com",
-      "Stars captain Jamie Benn to undergo surgery for collapsed lung"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.994,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.736,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Dallas Stars captain and left winger Jamie Benn will be sidelined for at least four weeks following surgery for a collapsed lung, as announced by the team. This means Benn will miss the start of the season.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -375,26 +426,26 @@
     ],
     "snippets": [
       "Daulton Varsho's grand slam in the sixth inning lifted the Blue Jays over the Boston Red Sox 6-1 on Thursday night as Toronto moved one step closer to winning the American League East Division title.",
-      "<p>Watch as Toronto Blue Jays outfielder Daulton Varsho delivers the biggest hit of the series against the Boston Red Sox, smashing a grand slam to break open a scoreless tie in the sixth inning.</p>",
       "<p>The Blue Jays, in the deep end after surrendering their AL East lead, began doing the hard thing Thursday night, fighting through their frustrations at the plate until Daulton Varsho released them with a sixth-inning grand slam that keyed a 6-1 win over the Boston Red Sox.</p>",
+      "<p>Watch as Toronto Blue Jays outfielder Daulton Varsho delivers the biggest hit of the series against the Boston Red Sox, smashing a grand slam to break open a scoreless tie in the sixth inning.</p>",
       "<p>Toronto Blue Jays left-hander Eric Lauer discusses teammate Daulton Varsho&#8217;s go-ahead grand slam in the bottom of the sixth inning against the Boston Red Sox.</p>"
     ],
     "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/e30f4ab9f89791575fceda0a82af25c38ec981ebe191def0fe4da71c5ac0178c.jpg?quality=65&strip=all",
     "titles": [
       "Varsho’s grand slam helps Blue Jays to key win",
-      "Gotta See It: Varsho’s grand slam breaks game open for Blue Jays",
       "Varsho’s grand slam steadies Blue Jays in pivotal win over Red Sox",
+      "Gotta See It: Varsho’s grand slam breaks game open for Blue Jays",
       "Lauer on Varsho’s grand slam: ‘Majestic and beautiful’"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.955,
+      "recency": 0.879,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.696,
-    "summary_source": "gpt",
+    "score": 0.681,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Daulton Varsho hit a grand slam in the sixth inning, leading the Toronto Blue Jays to a 6-1 victory over the Boston Red Sox. This win moved Toronto closer to clinching the American League East Division title. Varsho's grand slam was pivotal in breaking a scoreless tie and overcoming the team's recent struggles.",
     "constructiveness_score": 0.0,
@@ -402,85 +453,81 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Red Roses to Face Canada in Rugby Final; Sciver-Brunt Leads England to Win",
-    "domain": "sports",
+    "title": "Ex-PM Proposes International Oversight for Gaza, Backed by White House",
+    "domain": "general",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Thu, 25 Sep 2025 15:05:50 GMT",
+    "published": "Fri, 26 Sep 2025 06:24:58 GMT",
     "source": "BBC",
     "sources": [
-      "Sky Sports",
       "The Guardian",
       "BBC"
     ],
     "domains": [
       "www.theguardian.com",
-      "www.bbc.com",
-      "www.skysports.com"
+      "www.bbc.com"
     ],
     "snippets": [
-      "What key battles do England need to win in order to beat Canada and lift the Women's Rugby World Cup at Twickenham on Saturday?",
-      "<ul><li><p>No changes in Red Roses 23 to face Canada on Saturday</p></li><li><p>Mitchell accepts men’s team failed to handle 2019 final</p></li></ul><p><br /><br />\n John Mitchell has learned from his experience of the men’s 2019 Rugby World Cup final and insists he has not made the same mistakes as",
-      "England captain Nat Sciver-Brunt hit 122 as the visitors secured a morale-boosting 152-run over tournament co-hosts India in their first of two warm-up matches for the Women's World Cup."
+      "The former prime minister has been in high-level planning talks over the territory's future, the BBC understands.",
+      "<p>Reported proposal for international body to oversee Gaza for up to five years counters UN-backed plan for faster transition to Palestinian rule</p><p>The White House is backing a plan that would see Tony Blair head a temporary administration of the Gaza Strip – initially without the direct involv"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/305d/live/e5754ac0-9a17-11f0-928c-71dbb8619e94.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0372/live/4e7a88b0-9a80-11f0-92db-77261a15b9d2.jpg",
     "titles": [
-      "The battles England need to win in World Cup final",
-      "Mitchell insists his previous final defeat can help England to Rugby World Cup glory",
-      "Sciver-Brunt hits 122 in big England win over India in World Cup warm-up"
+      "Tony Blair in discussions to run transitional Gaza authority",
+      "Washington backing plan for Tony Blair to head transitional Gaza authority"
     ],
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.745,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
+      "magnitude": 0.735,
+      "recency": 0.944,
+      "consensus": 0.591,
+      "constructiveness": 0.2,
       "proximity": 0.5
     },
-    "score": 0.686,
+    "score": 0.664,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "England's Women's Rugby team, the Red Roses, are set to face Canada in the Women's Rugby World Cup final at Twickenham on Saturday, with no changes announced in their 23-player lineup. John Mitchell, reflecting on past experiences from the men's 2019 Rugby World Cup, believes lessons have been learned to avoid previous mistakes. Concurrently, in cricket, England captain Nat Sciver-Brunt scored 122 runs, leading to a 152-run victory over India in a warm-up match for the Women's Cricket World Cup.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
+    "summary": "The BBC reports that the former Prime Minister is involved in planning the future of Gaza, proposing an international body to oversee the area for up to five years. This plan, supported by the White House but counter to a UN-backed proposal, suggests a slower transition to Palestinian rule with Tony Blair potentially leading a temporary administration without direct involvement initially.",
+    "constructiveness_score": 0.2,
+    "constructiveness_reason": "keywords: plan, support",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Florida Panthers' Barkov Injured in Training, Awaits Condition Update",
+    "title": "Barcelona Wins Against Real Oviedo, Credits Player Rotation by Coach Flick",
     "domain": "sports",
-    "source_domain": "www.nbcsports.com",
+    "source_domain": "onefootball.com",
     "location": "national",
-    "published": "Fri, 26 Sep 2025 03:56:06 +0000",
+    "published": "Fri, 26 Sep 2025 07:36:00 +0000",
     "source": "Yahoo Sports",
     "sources": [
-      "Sportsnet",
-      "Yahoo Sports"
+      "Yahoo Sports",
+      "Sports Illustrated"
     ],
     "domains": [
-      "www.nbcsports.com",
-      "www.sportsnet.ca"
+      "onefootball.com",
+      "news.google.com"
     ],
     "snippets": [
-      "Panthers coach Paul Maurice said Barkov was getting further evaluation Thursday.",
-      "<p>The Florida Panthers are awaiting word on the status of captain Aleksander Barkov</p>"
+      "Barcelona took all three points in a complicated outing against Real Oviedo last night as they were pushed to their limits quite unexpectedly.Hansi Flick rotated his troops effectively, but not many e...",
+      "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQVy13VHhkMTZsQWI1V0lYOTBYOTFxbjRQNklmMC1yT1RuaVhWYzdPb2Nwb1RWbFI1c2ZOVVlzU3Myd1dyY1FVazJiZ1ZPVmo5MjNvTUUtUFh6MlZYdzRtNTFzcC1qdnVxb2w3RklUZ094T2xYVV90NVlQWElmaEotcHlWbjNVQnNXbFRnN0Noaw?oc=5\" target=\"_blank\">How to Watch Real Oviedo vs. Barc"
     ],
     "image_url": "",
     "titles": [
-      "Florida captain Aleksander Barkov needs help getting off ice after apparent leg injury",
-      "Panthers captain Barkov helped off ice with leg injury"
+      "Three takeaways from Real Oviedo 1-3 Barcelona",
+      "How to Watch Real Oviedo vs. Barcelona on TV, Live Stream - Sports Illustrated"
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.994,
+      "recency": 0.988,
       "consensus": 0.591,
-      "constructiveness": 0.1,
+      "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.671,
-    "summary_source": "cache",
+    "score": 0.66,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "During the first full training camp practice of the season, Florida Panthers captain Aleksander Barkov sustained an apparent injury to his right leg and required assistance to leave the ice. The team is currently awaiting further updates on his condition.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: sustain",
+    "summary": "Barcelona secured a victory against Real Oviedo, overcoming a challenging match with effective rotation of players by coach Hansi Flick. The win awarded Barcelona three points, highlighting their ability to prevail in tough situations.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
@@ -491,8 +538,8 @@
     "published": "Thu, 25 Sep 2025 16:50:40 -0400",
     "source": "NPR",
     "sources": [
-      "Deutsche Welle",
-      "NPR"
+      "NPR",
+      "Deutsche Welle"
     ],
     "domains": [
       "www.npr.org",
@@ -509,12 +556,12 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.858,
+      "recency": 0.789,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 0.75
     },
-    "score": 0.669,
+    "score": 0.655,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "President Trump announced a deal for a U.S.-led consortium, with Oracle playing a significant role, to take over the video app, addressing security concerns over its Chinese ownership. Trump stated that Chinese leader Xi Jinping has approved the plan, though Beijing has yet to confirm this.",
@@ -523,83 +570,79 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Dodgers Win 12th NL West Title in 13 Years; Ohtani Hits 54th Home Run",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
+    "title": "Trump Announces 100% Tariffs on Imported Pharmaceuticals from Oct 1",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
     "location": "national",
-    "published": "Thu, 25 Sep 2025 19:21:43 EST",
-    "source": "ESPN",
+    "published": "Fri, 26 Sep 2025 04:39:20 GMT",
+    "source": "CNBC",
     "sources": [
-      "Sportsnet",
-      "ESPN"
+      "Forbes",
+      "CNBC"
     ],
     "domains": [
-      "www.sportsnet.ca",
-      "www.espn.com"
+      "www.cnbc.com",
+      "www.forbes.com"
     ],
     "snippets": [
-      "The Dodgers clinched their 12th NL West title in 13 years by beating the Diamondbacks.",
-      "<p>Shohei Ohtani tied his career high with his 54th home run, hitting a ball into the Chase Field swimming pool for the Los Angeles Dodgers on Thursday.</p>"
+      "The 100% duties apply to \"any branded or patented Pharmaceutical Product\" except for companies that build manufacturing plants in the U.S., Trump said Friday.",
+      "Trump said the tariffs will go into effect on October 1, but the levy won’t apply to companies that have started building manufacturing plants in the U.S."
     ],
     "image_url": "",
     "titles": [
-      "Ohtani blasts 54th HR as Dodgers clinch NL West",
-      "Ohtani hits 54th homer as Dodgers beat Diamondbacks for 12th NL West title in 13 years"
+      "Asian pharma stocks extend declines after Trump slaps 100% levies on branded drugs",
+      "Asian Pharmaceutical Stocks Slump As Trump Announces 100% Tariffs On Patented Drugs"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.904,
+      "magnitude": 0.775,
+      "recency": 0.91,
       "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.661,
-    "summary_source": "cache",
+    "score": 0.651,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The Los Angeles Dodgers secured their 12th NL West title in 13 years with an 8-0 victory over the Diamondbacks. During the game, Shohei Ohtani hit his 54th home run of the season, matching his career high, with the ball landing in the Chase Field swimming pool.",
+    "summary": "President Trump announced that starting October 1, there will be 100% tariffs on all branded or patented pharmaceutical products, except for companies that are constructing manufacturing plants in the U.S. This measure aims to encourage domestic production.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "DeChambeau, Thomas to Lead First Ryder Cup Foursomes Match",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 16:55:17 EST",
-    "source": "ESPN",
+    "title": "China Launches Visa for STEM Graduates; US Doctors Seek H-1B Fee Exemption",
+    "domain": "business",
+    "source_domain": "www.nytimes.com",
+    "location": "global",
+    "published": "Fri, 26 Sep 2025 04:34:59 +0000",
+    "source": "New York Times",
     "sources": [
-      "Sports Illustrated",
-      "ESPN"
+      "Forbes",
+      "New York Times"
     ],
     "domains": [
-      "news.google.com",
-      "www.espn.com"
+      "www.forbes.com",
+      "www.nytimes.com"
     ],
     "snippets": [
-      "Bryson DeChambeau and Justin Thomas will be paired in the the first match of foursomes (alternate-shot) at the Ryder Cup on Friday at Bethpage Black as captains for the respective teams unveiled their morning groups.",
-      "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQmNCeDRTdHlNMkR0VjBQaFl3NF9GdkR2U2VjWlBZRHM4cEtfN1NxVDg5X3FuTkMzLUlDS1JRaWVEaXotRzNRc0Y4cjZRbnF2TFBfb0x3bFJnZlpCNzJwRWw5eTZYVHV5RmNQSUtkcHI3UDRtYnZYTnU4M2ExWS1QOEY0aFNxTXRmaXFxV1N2Qkg0SFB4OG82bUxn?oc=5\" target=\"_blank\">Ryder Cup Friday Mo",
-      "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUs5eGh2R1ZpdnNqMEZhWC1kQ05Xc28wdmZkOFAtY2ZJSnNubEozRlVlWVB3T3hsb1NKVHhNMjBUbmFyRWVBdkNteXBYUWgzWjdiVnVTdEt6eHVrMXVxUVhRS05yNC1fcEI4eXVhdjhFUW16M185ZjhjVDhBd2tpdmg0VGVMVW8?oc=5\" target=\"_blank\">Why Bryson DeChambeau and Justin Thomas Are ",
-      "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9FMjN5RjlkY3VGX1VPSEdIek5DQUVyTThhc2ZqMUNQU19VWnV4RW9QVExSbjF6OVVoNVQ5Wm1DVzRpaDhQYi1Tb0w2M2owZUIwMURvSDdBSzR3bkpkT1BTbTVuWGsyTkhoNTlzd0J2dTlqSkxaaTBJSU9BbWRCUQ?oc=5\" target=\"_blank\">Why Bryson DeChambeau Keeps Drawing Critics at Ryder Cup<"
+      "A new visa for science and engineering graduates is part of China’s effort to establish itself as the world leader in science and technology.",
+      "The American Medical Association and 53 other medical societies asked the Trump administration to exempt physicians from the new $100,000 H-1B visa application fee."
     ],
-    "image_url": "",
+    "image_url": "https://static01.nyt.com/images/2025/09/26/multimedia/26china-stem-visa-jhqz/26china-stem-visa-jhqz-mediumSquareAt3X.jpg",
     "titles": [
-      "Bryson-Thomas to lead off U.S. team at Ryder Cup",
-      "Ryder Cup Friday Morning Pairings Announced: Bryson DeChambeau to Lead Off for U.S. Team - Sports Illustrated",
-      "Why Bryson DeChambeau and Justin Thomas Are Leading Off for the U.S. at the Ryder Cup - Sports Illustrated",
-      "Why Bryson DeChambeau Keeps Drawing Critics at Ryder Cup - Sports Illustrated"
+      "As Trump’s H-1B Visa Fee Targets Foreign Workers, China Woos Them",
+      "AMA: Trump’s $100,000 H-1B Visa Fee Worsens The U.S. Doctor Shortage"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.859,
+      "magnitude": 0.755,
+      "recency": 0.928,
       "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.652,
+    "score": 0.648,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Bryson DeChambeau and Justin Thomas are set to compete in the first match of foursomes at the Ryder Cup on Friday at Bethpage Black, following the announcement of morning groups by the team captains. This pairing is part of the event's strategic matchups.",
+    "summary": "China introduced a new visa for science and engineering graduates to bolster its position as a global leader in science and technology. Meanwhile, the American Medical Association and 53 other medical societies have requested the Trump administration to exempt physicians from a new $100,000 H-1B visa application fee.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -609,11 +652,11 @@
     "domain": "business",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Fri, 26 Sep 2025 00:42:17 GMT",
+    "published": "Fri, 26 Sep 2025 00:46:43 GMT",
     "source": "Axios",
     "sources": [
-      "Axios",
-      "MarketWatch"
+      "MarketWatch",
+      "Axios"
     ],
     "domains": [
       "www.marketwatch.com",
@@ -630,54 +673,15 @@
     ],
     "score_components": {
       "magnitude": 0.775,
-      "recency": 0.911,
+      "recency": 0.839,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.651,
+    "score": 0.637,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "President Donald Trump announced new tariffs, including a 100% levy on imported pharmaceuticals unless their manufacturers build factories in the U.S. The announcement, made late Thursday, also includes tariffs on heavy trucks, kitchen cabinets, and bathroom vanities.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "US President Imposes New Tariffs on Drugs, Trucks, Cabinets to Shield Manufactur",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Fri, 26 Sep 2025 02:12:46 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "The US president said the move aims to help protect American manufacturers from foreign imports.",
-      "<p>President announces 100% tariffs on imported branded drugs, 25% on heavy-duty trucks and 50% on cabinets</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> on Thursday announced a new round of punishing <a href=\"https://www.theguardian.com/us-news/trump-tariffs\">tari"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0c/live/0f72d480-9a6a-11f0-b39f-8faa1a82cdd5.jpg",
-    "titles": [
-      "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
-      "Trump says US will impose new tariffs on heavy trucks, drugs and kitchen cabinets"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.94,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.65,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The US President announced new tariffs, including 100% on imported branded drugs, 25% on heavy-duty trucks, and 50% on cabinets. This move aims to protect American manufacturers from foreign competition.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -690,12 +694,12 @@
     "published": "Fri, 26 Sep 2025 01:20:09 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Al Jazeera",
-      "The Guardian"
+      "The Guardian",
+      "Al Jazeera"
     ],
     "domains": [
-      "www.theguardian.com",
-      "www.aljazeera.com"
+      "www.aljazeera.com",
+      "www.theguardian.com"
     ],
     "snippets": [
       "Former FBI Director James Comey is a longtime critic of US President Donald Trump and testified against him in 2020.",
@@ -708,13 +712,13 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.942,
+      "recency": 0.867,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.65,
-    "summary_source": "gpt",
+    "score": 0.635,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Former FBI Director James Comey, known for his criticism of President Donald Trump and testifying against him in 2020, has been indicted. The news comes as dozens of House Democrats have expressed their stance on the matter, highlighting the ongoing tension between Comey and Trump.",
     "constructiveness_score": 0.0,
@@ -722,118 +726,42 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "PM to Accuse Populist Right, Faces Backlash Over 'Brit Card' Plan",
-    "domain": "business",
-    "source_domain": "www.ft.com",
-    "location": "global",
-    "published": "Thu, 25 Sep 2025 21:37:22 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.ft.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "Prime minister to accuse populist right of promoting a ‘politics of predatory grievance’",
-      "<p>‘Brit card’ already facing opposition from privacy campaigners as government looks for ways to tackle illegal immigration</p><p></p><p>All working adults will need digital ID cards under plans to be announced by Keir Starmer, in a move that will spark a battle with civil liberties campaigners.</p"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4ed09622-39f8-4f96-9201-292383cc385f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Starmer to attack Farage as he unveils digital ID cards plan for all UK adults",
-      "Starmer to unveil digital ID cards in plan set to ignite civil liberties row"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.854,
-      "consensus": 0.591,
-      "constructiveness": 0.2,
-      "proximity": 0.5
-    },
-    "score": 0.646,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Prime Minister plans to accuse the populist right of fostering a 'politics of predatory grievance.' Meanwhile, the proposed 'Brit card,' a digital ID card for all working adults aimed at addressing illegal immigration, is facing opposition from privacy advocates. This initiative, set to be announced by Keir Starmer, is expected to ignite a conflict with civil liberties campaigners.",
-    "constructiveness_score": 0.2,
-    "constructiveness_reason": "keywords: initiative, plan",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Spain, Italy Send Navy Ships to Aid Gaza Flotilla Amid Israeli Drone Reports",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Thu, 25 Sep 2025 17:59:34 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Deutsche Welle"
-    ],
-    "domains": [
-      "www.dw.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "Spanish, Italian decisions to send ships to assist Gaza flotilla sign of increased pro-Palestinian sentiment in Europe.",
-      "Spain is joining Italy in sending a navy ship to help an aid flotilla bound for Gaza, after activists said they were targeted by Israeli drones. Israel accuses them of being complicit with Hamas. DW has more."
-    ],
-    "image_url": "",
-    "titles": [
-      "Why have Spain and Italy sent ships to assist the Gaza Sumud flotilla?",
-      "Middle East updates: Spain sends navy ship to Gaza flotilla"
-    ],
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.808,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.641,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Spain and Italy are dispatching navy ships to support an aid flotilla heading to Gaza, following reports of the flotilla being targeted by Israeli drones. This move indicates a growing pro-Palestinian sentiment in Europe. Israel has accused the activists involved with the flotilla of complicity with Hamas, as reported by DW.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: support",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Dallas ICE Facility Gunman Sought to \"Cause Terror,\" Note Reveals",
-    "domain": "business",
-    "source_domain": "www.npr.org",
+    "title": "Phoenix Wins Overtime Thriller Against Minnesota in WNBA Semifinals",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Thu, 25 Sep 2025 13:17:32 -0400",
-    "source": "NPR",
+    "published": "Thu, 25 Sep 2025 11:53:00 EST",
+    "source": "ESPN",
     "sources": [
-      "CNBC",
-      "NPR"
+      "CBS Sports",
+      "ESPN"
     ],
     "domains": [
-      "www.cnbc.com",
-      "www.npr.org"
+      "www.espn.com",
+      "www.cbssports.com"
     ],
     "snippets": [
-      "\"I want to cause terror,\" the gunman behind Wednesday's deadly attack on a Dallas ICE immigration facility allegedly wrote in a note, according to authorities.",
-      "ICE shooting gunman Joshua Jahn's search for video about Charlie Kirk, the recently assassinated conservative activist, adds to the evidence about his motive."
+      "The 2025 WNBA semifinals are underway, and Phoenix beat Minnesota in OT in an instant classic Tuesday.",
+      "The series shifts to Phoenix for a pivotal Game 3 on Friday",
+      "The best-of-five series is all square at 1-1 heading into Friday night's Game 3"
     ],
     "image_url": "",
     "titles": [
-      "Dallas shooter sought to 'terrorize' ICE workers, official says",
-      "Dallas shooter wanted to 'kill ICE agents,' left notes, FBI says"
+      "WNBA playoff schedule: Fever, Lynx take 1-0 leads in semifinals",
+      "Lynx vs. Mercury schedule: Game times, where to watch and what to know about WNBA playoff semifinals",
+      "Aces vs. Fever schedule: Game times, where to watch and what to know about WNBA playoff semifinals"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.797,
+      "magnitude": 0.755,
+      "recency": 0.712,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.639,
-    "summary_source": "gpt",
+    "score": 0.629,
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Joshua Jahn, the gunman in the deadly attack on a Dallas ICE facility, allegedly aimed to \"cause terror,\" as stated in a note, authorities report. His search for videos about Charlie Kirk, a recently assassinated conservative activist, further suggests motive.",
+    "summary": "In the 2025 WNBA semifinals, Phoenix defeated Minnesota in an overtime match that was hailed as an instant classic. Despite this loss, Minnesota aims to secure a 2-0 series lead in their next game on Tuesday night.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -846,32 +774,30 @@
     "published": "Thu, 25 Sep 2025 23:42:26 +0000",
     "source": "CBS Sports",
     "sources": [
-      "Sportsnet",
-      "CBS Sports"
+      "CBS Sports",
+      "Sportsnet"
     ],
     "domains": [
-      "www.cbssports.com",
-      "www.sportsnet.ca"
+      "www.sportsnet.ca",
+      "www.cbssports.com"
     ],
     "snippets": [
       "SportsLine's model simulated the 2025 Ryder Cup 10,000 times and revealed its top longshot picks for Team USA vs. Team Europe",
-      "SportsLine's model simulated the 2025 Ryder Cup 10,000 times and revealed its golf picks for Team USA vs. Team Europe",
       "<p>The player who once referred to the Ryder Cup as an exhibition, as “not that important an event for me,” as a competition that wouldn&#8217;t make him run around throwing fists pumps, is now the strongest voice and the only European with the career Grand Slam.</p>"
     ],
     "image_url": "https://sportshub.cbsistatic.com/i/2025/09/25/7e07287a-c6d6-4dff-a09a-c059c3e038dc/rory-mcilroy-ryder-cup.jpg",
     "titles": [
       "2025 Ryder Cup longshot picks, Team USA vs. Team Europe odds, prediction, bets: Model backing Rory McIlroy",
-      "2025 Ryder Cup picks, odds, teams: Proven golf expert makes USA vs. Europe predictions at Bethpage Black",
       "How Rory McIlroy became cornerstone of Team Europe at Ryder Cup"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.911,
+      "recency": 0.838,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.637,
+    "score": 0.623,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "SportsLine simulated the 2025 Ryder Cup 10,000 times, identifying top longshot picks for Team USA vs. Team Europe. A player who previously downplayed the Ryder Cup's importance, now the only European with a career Grand Slam, has become its most vocal supporter.",
@@ -880,95 +806,15 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Seeks Supreme Court Help to Fire Fed's Cook Amid Fraud Claims",
-    "domain": "business",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 20:27:09 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC",
-      "Financial Times"
-    ],
-    "domains": [
-      "www.cnbc.com",
-      "www.ft.com"
-    ],
-    "snippets": [
-      "President Trump has asked the Supreme Court to lift a lower court order blocking him from removing Lisa Cook from the Federal Reserve Board of Governors.",
-      "President Donald Trump has said he wants to fire Fed Governor Lisa Cook because of allegations she committed mortgage fraud. She denies any wrongdoing.",
-      "Top officials from across political spectrum warn president’s move would jeopardise central bank’s independence"
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump would eviscerate Fed independence with Lisa Cook firing, her lawyers tell Supreme Court",
-      "Former Fed, Treasury chiefs urge Supreme Court to block Trump firing Lisa Cook",
-      "Ex-Fed chiefs urge Supreme Court to deny Trump’s bid to remove Cook"
-    ],
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.833,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.636,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "President Trump has requested the Supreme Court to remove a lower court's block on his attempt to fire Federal Reserve Board of Governors member Lisa Cook, citing allegations of mortgage fraud, which Cook denies. This move has prompted warnings from officials across the political spectrum about potential threats to the central bank's independence.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Microsoft Fires Workers Protesting Cloud Service Use by Israeli Military",
-    "domain": "business",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Thu, 25 Sep 2025 19:25:36 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC",
-      "TechCrunch"
-    ],
-    "domains": [
-      "www.cnbc.com",
-      "techcrunch.com"
-    ],
-    "snippets": [
-      "The decision comes after Microsoft fired employees for participating in protests over the use of its cloud services by the Israeli military.",
-      "The investigation was sparked by a story in The Guardian that reported that Unit 8200, the elite Israel military intelligence unit, was using Azure cloud storage to house data on phone calls obtained through the surveillance of Palestinians in Gaza and the West Bank."
-    ],
-    "image_url": "",
-    "titles": [
-      "Microsoft cuts off cloud services to Israeli military unit after report of storing Palestinians' phone calls",
-      "Microsoft cuts cloud services to Israeli military unit over Palestinian surveillance"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.816,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.635,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Microsoft terminated employees who protested against the company's cloud services being used by the Israeli military. This action followed an investigation revealing Israel's misuse of Microsoft products to surveil Palestinian civilians, violating service terms. Microsoft stated it does not support technology for mass civilian surveillance. The probe was initiated by a report on Israel's military intelligence unit using Azure cloud for storing surveilled Palestinian phone data.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: support",
-    "constructiveness_source": "heuristic"
-  },
-  {
     "title": "Trump Admin Partners with Musk's AI for Gov Operations",
     "domain": "technology",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Thu, 25 Sep 2025 16:33:35 GMT",
+    "published": "Thu, 25 Sep 2025 16:19:38 GMT",
     "source": "Axios",
     "sources": [
-      "Axios",
-      "TechCrunch"
+      "TechCrunch",
+      "Axios"
     ],
     "domains": [
       "techcrunch.com",
@@ -985,17 +831,136 @@
     ],
     "score_components": {
       "magnitude": 0.775,
-      "recency": 0.768,
+      "recency": 0.704,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.633,
+    "score": 0.62,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Trump administration plans to utilize Elon Musk's AI company's Grok chatbot for government operations, securing a deal through the U.S. General Services Administration (GSA). This agreement allows federal agencies to access \"Grok for Government\" at a cost of $0.42 for an 18-month period, offering a competitive price point against rivals like OpenAI and Anthropic.",
     "constructiveness_score": 0.1,
     "constructiveness_reason": "keywords: plan",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "SportsLine's Eric Cohen Releases NFL Week 4 Score Predictions",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 22:34:24 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "CBS Sports",
+      "Bleacher Report"
+    ],
+    "domains": [
+      "news.google.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 4 of the NFL schedule",
+      "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB0VU1IV0diMVpReGM5QmZtMGEyb0ZFQkhtTm9nbU5HS19ZRVRHUmEzS3M5MDVJOWl0RUdXM1U0TTZ3d2hhU2JsMXcta1ZRaGJDQTBHWk8wWkpHRENuR1FpdDRaZF9PNVhDRkdoYjJyQURBcGFRT3A3THZnVWlHdw?oc=5\" target=\"_blank\">2025 NFL Week 4 Expert Picks</a>&nbsp;&nbsp;<font color=\""
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/04/7076f29a-1478-47bf-af95-2a6bc8ce3130/devonta-smith-vs-cowboys-cbs-imagn.jpg",
+    "titles": [
+      "2025 Week 4 NFL score predictions, bets, odds, top picks today: Expert unveils exact scores for all 16 games",
+      "2025 NFL Week 4 Expert Picks - Bleacher Report"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.818,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.619,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "SportsLine expert Eric Cohen has released his score predictions for every game of Week 4 in the NFL schedule. The predictions are available for viewers interested in Cohen's insights on the upcoming matchups.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Dallas ICE Facility Gunman Sought to \"Cause Terror,\" Note Reveals",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 23:38:50 GMT",
+    "source": "Axios",
+    "sources": [
+      "Axios",
+      "CNBC"
+    ],
+    "domains": [
+      "news.google.com",
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPY01qZGJEeFlFQV9TeUNLZEoxUUR5N1VzRmVQUm1vd0hha0duNHpJcTAwWGdqV0lDMHFtMEdXUEFzNXpmSDlKajFqbFNRNW4tajUyc3VuXzBpUDZpX25LMmtJaEJTc3l1YzNJckNkaWxCMHVJZU43ckZHczB3a3lvRUw2VWdFQQ?oc=5\" target=\"_blank\">Dallas ICE facility shooter left notes detail",
+      "ICE shooting gunman Joshua Jahn's search for video about Charlie Kirk, the recently assassinated conservative activist, adds to the evidence about his motive."
+    ],
+    "image_url": "",
+    "titles": [
+      "Dallas ICE facility shooter left notes detailing \"terror\" plans, officials say - Axios",
+      "Dallas shooter wanted to 'kill ICE agents,' left notes, FBI says"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.82,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.619,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Joshua Jahn, the gunman in the deadly attack on a Dallas ICE facility, allegedly aimed to \"cause terror,\" as stated in a note, authorities report. His search for videos about Charlie Kirk, a recently assassinated conservative activist, further suggests motive.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Europe's Captain Picks Strong Pairings for Early Lead at Bethpage Black",
+    "domain": "sports",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Thu, 25 Sep 2025 20:11:06 GMT",
+    "source": "BBC",
+    "sources": [
+      "Yahoo Sports",
+      "BBC"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "www.independent.co.uk"
+    ],
+    "snippets": [
+      "European captain Luke Donald picks a series of heavyweight pairings as he looks for the visitors to make a fast start at Bethpage.",
+      "European captain Luke Donald picks a series of heavyweight pairings as he looks for the visitors to make a fast start at Bethpage.",
+      "Luke Donald’s team battle Keegan Bradley’s home favourites at Bethpage Black, with the morning foursomes kicking things off on Friday before President Donald Trump arrives"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be5/live/09cc0410-9a4d-11f0-97bc-a980e58f8f49.jpg",
+    "titles": [
+      "McIlroy & Fleetwood to reunite in foursomes on Ryder Cup's opening day",
+      "McIlroy & Fleetwood reunite in Ryder Cup foursomes",
+      "Ryder Cup Day 1 pairings for foursomes announced as Rory McIlroy and Tommy Fleetwood reunite"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.763,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.615,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "European captain Luke Donald selected strong pairings for his team to secure a quick lead at Bethpage Black. The competition begins with morning foursomes on Friday, ahead of President Donald Trump's arrival. This strategy aims to challenge Keegan Bradley's favored home team.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
@@ -1006,12 +971,12 @@
     "published": "Thu, 25 Sep 2025 19:45:04 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Al Jazeera",
-      "Axios"
+      "Axios",
+      "Al Jazeera"
     ],
     "domains": [
-      "news.google.com",
-      "www.aljazeera.com"
+      "www.aljazeera.com",
+      "news.google.com"
     ],
     "snippets": [
       "The cuts are expected to lead to hundreds of layoffs.",
@@ -1024,15 +989,93 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.839,
+      "recency": 0.772,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.623,
+    "score": 0.609,
     "summary_source": "snippet",
     "summary_reason": "retry_exhausted",
     "summary": "The cuts are expected to lead to hundreds of layoffs.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Glasgow Ash Wins UK Tree of the Year, Beats 'King of Limbs' Oak",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Thu, 25 Sep 2025 19:00:25 GMT",
+    "source": "BBC",
+    "sources": [
+      "The Guardian",
+      "BBC"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.bbc.com"
+    ],
+    "snippets": [
+      "The tree defeated nine other contenders in a public vote to win the annual prize.",
+      "<p>Beloved specimen triumphs in Woodland Trust contest over ‘King of Limbs’ oak in Wiltshire</p><p>A much-loved ash tree in the heart of Glasgow has won the annual tree of the year competition organised by the Woodland Trust.</p><p>While many trees that have featured in the competition are located i"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f938/live/75681980-5dac-11f0-960d-e9f1088a89fe.jpg",
+    "titles": [
+      "Tree of the Year honour for Glasgow's Argyle Street Ash",
+      "Argyle Street ash in Glasgow wins tree of the year competition"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.744,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.604,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A cherished ash tree in Glasgow has won the Woodland Trust's annual Tree of the Year competition, beating nine other contenders including the 'King of Limbs' oak in Wiltshire. This event highlights significant trees across the UK, showcasing the value and beauty of the country's natural heritage.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Dallas Stars' Jamie Benn Out 4 Weeks After Lung Surgery",
+    "domain": "sports",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Thu, 25 Sep 2025 18:00:00 GMT",
+    "source": "NHL",
+    "sources": [
+      "Sportsnet",
+      "NHL"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "news.google.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOeUFTWWRrdmMwOGhXWVZ6aERSNFJfZUw2UXItUExuNWRXZE9RbFljcVowVFZEbFpLc3ZPLVU0bDY3NUp3MjFLcnBCR016dVpOTUtyMUZzMUlBTklyUkI5VDJ1YktiTWs1UjVsSWRNYzYwR1dlY2tKV3BjUFlNRlBUTmNjNFByaVh4SFRQQ3JmZ1k3R0k?oc=5\" target=\"_blank\">Benn to miss start of season",
+      "<p>The Dallas Stars will be without their captain for the next four weeks. </p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Benn to miss start of season for Stars with collapsed lung - NHL.com",
+      "Stars captain Jamie Benn to undergo surgery for collapsed lung"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.729,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.601,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Dallas Stars captain and left winger Jamie Benn will be sidelined for at least four weeks following surgery for a collapsed lung, as announced by the team. This means Benn will miss the start of the season.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1042,11 +1085,11 @@
     "domain": "technology",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Thu, 25 Sep 2025 17:44:06 GMT",
+    "published": "Thu, 25 Sep 2025 17:44:04 GMT",
     "source": "Axios",
     "sources": [
-      "Axios",
-      "TechCrunch"
+      "TechCrunch",
+      "Axios"
     ],
     "domains": [
       "techcrunch.com",
@@ -1063,54 +1106,15 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.787,
+      "recency": 0.725,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.612,
+    "score": 0.6,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Tesla has urged the EPA not to dismantle the foundation for climate regulations, addressing a situation complicated by CEO Elon Musk's actions, which involved a $300 million expenditure. The company's regulatory policy team is actively working to mitigate the fallout from Musk's decisions.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Cybercriminals Hack Kido Nursery, Demand Ransom for Data on 8,000 Children",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Thu, 25 Sep 2025 17:00:38 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "Experts have condemned the hack as an \"absolute new low\" for cyber-crime.",
-      "<p>Firm, which has 18 sites around London and more in US, India and China, has received ransom demand, say reports</p><p>The names, pictures and addresses of about 8,000 children have reportedly been stolen from the Kido nursery chain by a gang of cybercriminals.</p><p>The criminals have demanded a "
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a8/live/472be100-9a29-11f0-97f5-bd38218a3641.jpg",
-    "titles": [
-      "Names, pictures and addresses of 8,000 children stolen in nursery chain hack",
-      "Hackers reportedly steal pictures of 8,000 children from Kido nursery chain"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.776,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.61,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Cybercriminals targeted the Kido nursery chain, stealing names, pictures, and addresses of approximately 8,000 children from its databases across 18 London sites and additional locations in the US, India, and China. Experts have labeled this incident as an \"absolute new low\" in cyber-crime. The hackers have issued a ransom demand to the firm, according to reports.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
