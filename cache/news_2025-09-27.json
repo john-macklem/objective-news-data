@@ -7,20 +7,20 @@
     "published": "Fri, 26 Sep 2025 18:26:35 -0400",
     "source": "NPR",
     "sources": [
+      "Al Jazeera",
       "Fortune",
-      "The Guardian",
+      "NPR",
       "Washington Post",
       "Deutsche Welle",
-      "Al Jazeera",
-      "NPR"
+      "The Guardian"
     ],
     "domains": [
-      "www.npr.org",
-      "www.washingtonpost.com",
-      "www.theguardian.com",
-      "fortune.com",
       "www.aljazeera.com",
-      "www.dw.com"
+      "fortune.com",
+      "www.dw.com",
+      "www.washingtonpost.com",
+      "www.npr.org",
+      "www.theguardian.com"
     ],
     "snippets": [
       "Assata Shakur, a Black liberation activist who was given political asylum in Cuba after her 1979 escape from a U.S. prison, has died. Officials in New Jersey, where Shakur had been arrested, convicted and imprisoned, said she was 78.",
@@ -41,74 +41,15 @@
     ],
     "score_components": {
       "magnitude": 0.986,
-      "recency": 0.965,
+      "recency": 0.886,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.863,
+    "score": 0.847,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Assata Shakur, a fugitive and former member of the Black Liberation Army who was convicted of killing a state trooper in 1977 and escaped from a US jail in 1979, has died at the age of 78 in Havana, Cuba. Shakur, also known by her legal name Chesimard and mentioned in Public Enemy's 1988 song \"Rebel Without a Pause,\" spent decades in exile after fleeing to Cuba.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Sinclair to Air \"Jimmy Kimmel Live!\" Again, Nexstar Holds Out",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Fri, 26 Sep 2025 21:33:45 GMT",
-    "source": "Axios",
-    "sources": [
-      "MarketWatch",
-      "The Guardian",
-      "Forbes",
-      "CNBC",
-      "Ars Technica",
-      "Business Insider",
-      "Axios"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.businessinsider.com",
-      "www.cnbc.com",
-      "news.google.com",
-      "www.marketwatch.com",
-      "arstechnica.com",
-      "www.forbes.com"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcS1vVldJUUsyYmtBTXdWS1FtQllsaWhPMHB1Z0lLc18zMGlvTzVGTVRXQlpGTlBlYmpIX1YyUEpRS01RRFBqbzNSTS1Qb3h2QXVnN2JkcUI3bUxNaTZwdXdHV3V4QTdITV9NUUFoRVJ5YVotQmZQVnR1RlczQzJXdUhRVQ?oc=5\" target=\"_blank\">Jimmy Kimmel to return to Nexstar and Sinclair's ",
-      "Broadcast station owners Sinclair and Nexstar will begin airing \"Jimmy Kimmel Live!\" after three days of preempting the program since its return.",
-      "<p>The two station owners’ preemption of the late-night show left about 25% of TV viewers in the US unable to watch it</p><p>Local TV conglomerate Sinclair Broadcast Group and Nexstar Media Group said their ABC-affiliate stations will start airing Jimmy Kimmy Live! again on Friday night, ending thei",
-      "The Sinclair suspension of Jimmy Kimmel’s late-night show prevented it from airing in Washington, D.C., Seattle and other popular markets.",
-      "Sinclair and Nexstar agreed to air \"Jimmy Kimmel Live!\" on its ABC stations again.",
-      "Local-television giants Sinclair Inc. and Nexstar Media Group Inc. said Friday that they were ending their boycott of late-night talk-show host Jimmy Kimmel’s program, returning “Jimmy Kimmel Live!” to the companies’ ABC affiliate stations.",
-      "Sorry, Brendan Carr: Sinclair and Nexstar stop preempting Kimmel on ABC affiliates."
-    ],
-    "image_url": "",
-    "titles": [
-      "Jimmy Kimmel to return to Nexstar and Sinclair's ABC affiliates Friday - Axios",
-      "Sinclair, Nexstar will bring 'Jimmy Kimmel Live' back to owned ABC stations on Friday",
-      "Sinclair and Nexstar end boycott of Jimmy Kimmel Live! and will air show again",
-      "Sinclair’s 38 Stations Will Air ‘Jimmy Kimmel Live!’ After Boycott After Charlie Kirk Monologue",
-      "Sinclair and Nexstar agree to bring back 'Jimmy Kimmel Live!' to their ABC stations",
-      "Sinclair, Nexstar end boycott of Jimmy Kimmel show",
-      "Sinclair gets nothing it asked for, puts Jimmy Kimmel back on anyway"
-    ],
-    "score_components": {
-      "magnitude": 1.0,
-      "recency": 0.928,
-      "consensus": 1.0,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.836,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Sinclair Broadcast Group will resume airing \"Jimmy Kimmel Live!\" on its 38 ABC affiliate stations after a three-day suspension, leaving Nexstar as the only broadcaster still not airing the show. This decision follows Disney's reinstatement of Kimmel earlier in the week. Sinclair's suspension had affected major markets including Washington, D.C., and Seattle.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -118,35 +59,39 @@
     "domain": "business",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Fri, 26 Sep 2025 21:15:39 GMT",
+    "published": "Sat, 27 Sep 2025 03:39:38 GMT",
     "source": "BBC",
     "sources": [
+      "Axios",
+      "Al Jazeera",
       "Fortune",
       "BBC",
-      "CNBC",
-      "The Guardian",
       "Business Insider",
-      "Axios"
+      "The Guardian",
+      "CNBC"
     ],
     "domains": [
-      "www.theguardian.com",
-      "fortune.com",
-      "www.businessinsider.com",
+      "www.aljazeera.com",
       "www.cnbc.com",
+      "fortune.com",
       "news.google.com",
-      "www.bbc.com"
+      "www.bbc.com",
+      "www.businessinsider.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "The documents by the estate of convicted paedophile financier Jeffrey Epstein were released by Congressional Democrats.",
+      "More documents related to the late convicted paedophile Jeffrey Epstein have been released by lawmakers in the US.",
+      "One calendar entry, dated December 6, 2014, reads: &#039;Reminder: Elon Musk to island Dec. 6 (is this still happening?)&#039;.",
       "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWnljQzJ2czNBZjBYNGtWTFdOd0c5N2QtSnpFZzVZNDZ2cDZ3dlhJTVllY3pQbHlCbktVaW43Y1ljQVA2VEhXNExOTVpjVkhtNkk5dU1HOWt1M2Q1WVJCVXBzVDFzM0tEaDNKZ2hkWGRJVEJQWXF0c1lPbFBCTEdCUnpEX3BDSHlG?oc=5\" target=\"_blank\">Elon Musk, Peter Thiel and Steve Bannon nam",
       "In partially redacted files released by House Democrats appeared the names of Elon Musk, Peter Thiel and Steve Bannon.",
       "<p>Prince Andrew and Steve Bannon also referenced in six-page batch of documents made public with redactions</p><p>Democratic lawmakers on Friday released documents from the investigation into Jeffrey Epstein that may show interactions between the disgraced financier and prominent conservatives, inc",
       "\"Reminder: Elon Musk to island Dec. 6 (is this still happening?)\" one scheduling note says. Musk previously said he declined island invites.",
       "The schedules show high-profile names penciled in for lunches, flights, and island trips."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d43/live/cb0dcc30-9b0b-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e42/live/89472f60-9b53-11f0-92db-77261a15b9d2.jpg",
     "titles": [
       "Elon Musk and Prince Andrew named in new Epstein files",
+      "Elon Musk, Peter Thiel, Steve Bannon among names in new Epstein documents",
       "Elon Musk, Peter Thiel and Steve Bannon named in Epstein files released by Democrats - Axios",
       "Musk, Thiel, Bannon named in partially redacted Epstein documents released by Democrats",
       "Elon Musk and Peter Thiel mentioned in Epstein documents released by Democrats",
@@ -154,13 +99,13 @@
       "Musk, Thiel, and Bannon appear in newly released Epstein records, years after sex-offender plea"
     ],
     "score_components": {
-      "magnitude": 0.986,
-      "recency": 0.922,
+      "magnitude": 1.0,
+      "recency": 0.968,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.83,
+    "score": 0.844,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Elon Musk, along with Peter Thiel and Steve Bannon, were named in a document related to a scheduled event on an island on December 6. However, Musk, the Tesla executive, has previously stated that he declined invitations to such events.",
@@ -169,144 +114,56 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Calls for Firing of Microsoft Exec Lisa Monaco Over Biden Ties",
+    "title": "Sinclair, Nexstar End Boycott of \"Jimmy Kimmel Live!\", Resume Airing",
     "domain": "business",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Fri, 26 Sep 2025 21:36:12 GMT",
+    "published": "Fri, 26 Sep 2025 21:43:17 GMT",
     "source": "Axios",
     "sources": [
-      "Business Insider",
-      "The Verge",
-      "CNBC",
-      "Axios"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.businessinsider.com",
-      "www.cnbc.com",
-      "www.theverge.com"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1RaVR3bjljR29POWhyZ1hONlY1XzB0RktWN1J3d1o1anE3ZHdhbDZXZ1VlbDV3VWFJTUMtdFRteFo4WDlqOHBMYmxoeWdtTzN3VkliRDlBYU91OWhOUGFmMlZzd0dVcE5ZNzlNRg?oc=5\" target=\"_blank\">Trump demands Microsoft oust president over Biden-era ties</a>&nbsp;&nbsp;<font c",
-      "Fox Business anchor Maria Bartiromo brought up Monaco's position at Microsoft during her show. The appointment happened in July.",
-      "President Donald Trump on Friday called for the firing of  Microsoft's president of global affairs, Lisa Monaco, on Truth Social.",
-      "After successfully manipulating Intel CEO Lip-Bu Tan and eventually failing to cancel Jimmy Kimmel, President Donald Trump has named his next target for retribution: Microsoft head of global affairs Lisa Monaco. He’s calling for her to be fired. On Truth Social, Trump claims that Monaco, who just to"
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump demands Microsoft oust president over Biden-era ties - Axios",
-      "Trump calls for the firing of Lisa Monaco, Microsoft president of global affairs",
-      "Trump calls for the firing of Microsoft's president of global affairs, Lisa Monaco",
-      "Trump’s new target: Microsoft head of global affairs Lisa Monaco"
-    ],
-    "score_components": {
-      "magnitude": 0.932,
-      "recency": 0.929,
-      "consensus": 0.908,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.799,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Former President Donald Trump called for the firing of Microsoft's President of Global Affairs, Lisa Monaco, on Truth Social. Trump's demand comes after Monaco's appointment in July, citing her ties to the Biden era. This move follows Trump's previous attempts to influence corporate leadership, including Intel CEO Lip-Bu Tan and a failed effort to cancel Jimmy Kimmel.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: effort",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Europe Leads USA 5.5-2.5 After Ryder Cup Day 1 at Bethpage Black",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Fri, 26 Sep 2025 23:27:57 GMT",
-    "source": "BBC",
-    "sources": [
-      "Yahoo Sports",
-      "BBC",
-      "ESPN",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.nbcsports.com",
-      "www.espn.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "Europe open up a three-point lead over USA after a dramatic first day of the Ryder Cup at Bethpage Black in New York.",
-      "Tommy Fleetwood, Rory McIlroy and Jon Rahm didn't lose a match in the first two sessions Friday, while Scottie Scheffler and Bryson DeChambeau failed to earn a point, allowing the Europeans to take a 5.5-2.5 lead on the U.S. at the Ryder Cup.",
-      "Europe leads 3-1 after the early matches on the first day. Can U.S. mount an afternoon comeback?",
-      "Europe leads by three points after the opening day of the Ryder Cup but a Rory McIlroy miss Friday evening gave the U.S. a bit of hope going into Day 2.",
-      "<ul><li><p>Europe lead 5½-2½ after first day at Bethpage Black</p></li><li><p>Visitors win both foursomes and fourballs sessions</p></li></ul><p>Bethpage Black became Bethpage blue. Europe had waited 21 years to lead at the end of a Ryder Cup’s opening day on American soil. In 2004, they romped to v"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29df/live/169e8b70-9b30-11f0-92db-77261a15b9d2.jpg",
-    "titles": [
-      "Europe take three-point lead on opening day of Ryder Cup",
-      "Europe quiets U.S., up 3 after Day 1 of Ryder Cup",
-      "Ryder Cup 2025 best moments: U.S. trails Europe after Day 1",
-      "Europe in command but U.S. with some hope as Day 1 concludes at Ryder Cup",
-      "Fleetwood and Rahm stun USA as Europe take three-point Ryder Cup lead on opening day"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.965,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.782,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Europe took a significant three-point lead over the USA, with a score of 5.5-2.5, after the first day of the Ryder Cup at Bethpage Black in New York. Key players for Europe, including Tommy Fleetwood, Rory McIlroy, and Jon Rahm, did not lose a match, contributing to their team's lead. Despite a missed shot by McIlroy in the evening, the European team ended the day ahead, having won both the foursomes and fourballs sessions, marking their first lead on American soil at the end of the opening day of the Ryder Cup in 21 years.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Netanyahu Vows to Continue Hamas War Amid Global Criticism at UN",
-    "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Fri, 26 Sep 2025 10:24:31 -0400",
-    "source": "NPR",
-    "sources": [
-      "NPR",
+      "Axios",
+      "MarketWatch",
       "The Guardian",
-      "CityNews",
-      "Al Jazeera"
+      "Business Insider",
+      "CNBC",
+      "Ars Technica"
     ],
     "domains": [
-      "www.npr.org",
-      "ottawa.citynews.ca",
-      "www.theguardian.com",
-      "www.aljazeera.com"
+      "www.cnbc.com",
+      "news.google.com",
+      "www.marketwatch.com",
+      "arstechnica.com",
+      "www.businessinsider.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "The Israeli prime minister's speech was defiant, despite his growing international isolation over his refusal to end the devastating war to eradicate Hamas.",
-      "The Israeli leader rails against critics and denounces Western allies for recognising Palestine in fiery UN address.",
-      "<p>Israeli prime minister said recognition of Palestinian state is ‘insane’ days after countries such as UK and France did so</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/sep/26/israeli-loudspeakers-broadcast-netanyahu-speech-to-un-gaza\">Israeli loudspeakers broadcast Netanyahu’s sp",
-      "UNITED NATIONS (AP) — Encircled by critics and protesters at the United Nations, Israeli Prime Minister Benjamin Netanyahu told fellow world leaders on Friday that his nation “must finish the job” against Hamas in Gaza, giving a defiant speech despite growing international isolation over his refusal"
+      "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcS1vVldJUUsyYmtBTXdWS1FtQllsaWhPMHB1Z0lLc18zMGlvTzVGTVRXQlpGTlBlYmpIX1YyUEpRS01RRFBqbzNSTS1Qb3h2QXVnN2JkcUI3bUxNaTZwdXdHV3V4QTdITV9NUUFoRVJ5YVotQmZQVnR1RlczQzJXdUhRVQ?oc=5\" target=\"_blank\">Jimmy Kimmel to return to Nexstar and Sinclair's ",
+      "Broadcast station owners Sinclair and Nexstar will begin airing \"Jimmy Kimmel Live!\" after three days of preempting the program since its return.",
+      "<p>The two station owners’ preemption of the late-night show left about 25% of TV viewers in the US unable to watch it</p><p>Local TV conglomerate Sinclair Broadcast Group and Nexstar Media Group said their ABC-affiliate stations will start airing Jimmy Kimmy Live! again on Friday night, ending thei",
+      "Sinclair and Nexstar agreed to air \"Jimmy Kimmel Live!\" on its ABC stations again.",
+      "Local-television giants Sinclair Inc. and Nexstar Media Group Inc. said Friday that they were ending their boycott of late-night talk-show host Jimmy Kimmel’s program, returning “Jimmy Kimmel Live!” to the companies’ ABC affiliate stations.",
+      "Sorry, Brendan Carr: Sinclair and Nexstar stop preempting Kimmel on ABC affiliates."
     ],
     "image_url": "",
     "titles": [
-      "At U.N., amid jeers and cheers, Netanyahu says Israel 'must finish the job' in Gaza",
-      "As delegates walk out, Netanyahu tells UN Israel must ‘finish job’ in Gaza",
-      "Netanyahu vows to ‘finish job’ in Gaza during UN speech as delegates walk out",
-      "Facing global isolation at UN, a defiant Netanyahu says Israel ‘must finish the job’ against Hamas"
+      "Jimmy Kimmel to return to Nexstar and Sinclair's ABC affiliates Friday - Axios",
+      "Sinclair, Nexstar will bring 'Jimmy Kimmel Live' back to owned ABC stations on Friday",
+      "Sinclair and Nexstar end boycott of Jimmy Kimmel Live! and will air show again",
+      "Sinclair and Nexstar agree to bring back 'Jimmy Kimmel Live!' to their ABC stations",
+      "Sinclair, Nexstar end boycott of Jimmy Kimmel show",
+      "Sinclair gets nothing it asked for, puts Jimmy Kimmel back on anyway"
     ],
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.816,
-      "consensus": 0.908,
+      "magnitude": 1.0,
+      "recency": 0.855,
+      "consensus": 1.0,
       "constructiveness": 0.0,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.777,
-    "summary_source": "cache",
+    "score": 0.821,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Israeli Prime Minister Benjamin Netanyahu delivered a defiant speech at the United Nations, insisting on continuing the war against Hamas despite international isolation and criticism, including from Western allies who have recognized Palestinian statehood. His remarks followed actions by countries like the UK and France in recognizing Palestine, which led to protests and walkouts during his address. Netanyahu's stance has drawn accusations of war crimes and increased pressure to end the conflict, amidst reports of Palestinians living in poverty.",
+    "summary": "Sinclair Broadcast Group and Nexstar Media Group have ended their boycott of \"Jimmy Kimmel Live!\", agreeing to resume airing the late-night show on their ABC affiliate stations starting Friday night. This decision comes after a three-day preemption that left approximately 25% of US TV viewers unable to watch the program.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -319,39 +176,325 @@
     "published": "Fri, 26 Sep 2025 19:06:30 -0400",
     "source": "NPR",
     "sources": [
-      "NPR",
+      "Deutsche Welle",
       "The Guardian",
-      "Al Jazeera"
+      "Al Jazeera",
+      "NPR"
     ],
     "domains": [
+      "www.aljazeera.com",
       "www.npr.org",
-      "www.theguardian.com",
-      "www.aljazeera.com"
+      "www.dw.com",
+      "www.theguardian.com"
     ],
     "snippets": [
       "The court's majority said Trump's foreign policy authority outweighed the harms claimed by the international aid groups suing.",
       "A lower court had previously ordered Trump to disburse the congressionally approved aid before its expiration date.",
+      "The $4 billion aid package was appropriated by the US Congress. The conservative-majority court said the freeze may continue, with the three liberal justices in dissent.",
       "<p>Justices rule in favour of administration, handing Trump another victory in dispute over presidential power</p><p>The supreme court on Friday extended an order that allows Donald Trump’s administration to keep frozen nearly $5bn in foreign aid, handing him another victory in a dispute over presid"
     ],
     "image_url": "",
     "titles": [
       "Supreme Court allows Trump to withhold $4 billion in foreign aid",
       "US Supreme Court sides with Trump on freezing $4bn in foreign aid",
+      "US Supreme Court allows Trump's massive foreign aid freeze",
       "US supreme court allows Trump to withhold nearly $5bn in foreign aid"
     ],
     "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.978,
-      "consensus": 0.789,
+      "magnitude": 0.932,
+      "recency": 0.899,
+      "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.771,
-    "summary_source": "gpt",
+    "score": 0.808,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Supreme Court ruled in favor of Donald Trump's administration, allowing it to keep nearly $5bn in foreign aid frozen, marking another victory for Trump in disputes over presidential power. The court decided Trump's foreign policy authority was more significant than the harms claimed by suing international aid groups. This decision overrides a lower court's order to disburse the congressionally approved aid before its expiration.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Trump Calls for Firing of Microsoft Exec Lisa Monaco Over Biden Ties",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Fri, 26 Sep 2025 23:48:47 GMT",
+    "source": "Axios",
+    "sources": [
+      "Business Insider",
+      "Axios",
+      "CNBC",
+      "The Verge"
+    ],
+    "domains": [
+      "www.cnbc.com",
+      "www.businessinsider.com",
+      "www.theverge.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1RaVR3bjljR29POWhyZ1hONlY1XzB0RktWN1J3d1o1anE3ZHdhbDZXZ1VlbDV3VWFJTUMtdFRteFo4WDlqOHBMYmxoeWdtTzN3VkliRDlBYU91OWhOUGFmMlZzd0dVcE5ZNzlNRg?oc=5\" target=\"_blank\">Trump demands Microsoft oust global affairs chief over Biden-era ties</a>&nbsp;&n",
+      "Fox Business anchor Maria Bartiromo brought up Monaco's position at Microsoft during her show. The appointment happened in July.",
+      "President Donald Trump on Friday called for the firing of  Microsoft's president of global affairs, Lisa Monaco, on Truth Social.",
+      "After successfully manipulating Intel CEO Lip-Bu Tan and eventually failing to cancel Jimmy Kimmel, President Donald Trump has named his next target for retribution: Microsoft head of global affairs Lisa Monaco. He’s calling for her to be fired. On Truth Social, Trump claims that Monaco, who just to"
+    ],
+    "image_url": "",
+    "titles": [
+      "Trump demands Microsoft oust global affairs chief over Biden-era ties - Axios",
+      "Trump calls for the firing of Lisa Monaco, Microsoft president of global affairs",
+      "Trump calls for the firing of Microsoft's president of global affairs, Lisa Monaco",
+      "Trump’s new target: Microsoft head of global affairs Lisa Monaco"
+    ],
+    "score_components": {
+      "magnitude": 0.932,
+      "recency": 0.893,
+      "consensus": 0.908,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.792,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Former President Donald Trump called for the firing of Microsoft's President of Global Affairs, Lisa Monaco, on Truth Social. Trump's demand comes after Monaco's appointment in July, citing her ties to the Biden era. This move follows Trump's previous attempts to influence corporate leadership, including Intel CEO Lip-Bu Tan and a failed effort to cancel Jimmy Kimmel.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: effort",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "UN Delegates Walk Out During Netanyahu's Speech, Canada's Rae Stays Seated",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Fri, 26 Sep 2025 16:41:44 GMT",
+    "source": "BBC",
+    "sources": [
+      "Axios",
+      "New York Times",
+      "BBC",
+      "Deutsche Welle",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.dw.com",
+      "www.nytimes.com",
+      "news.google.com",
+      "www.bbc.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "Officials and diplomats left the auditorium in protest as the Israeli leader took the stage, leaving large parts of the hall empty.",
+      "Israel's prime minister said it would be \"madness\" for Israel to allow a Palestinian state to be established. Many delegates left the room before Benjamin Netanyahu began his speech. DW has more.",
+      "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5wc3FGUWtTdktZTEg4SUxEX05uUnZJazdUTHdWLS1vVkRmOWgzbF9zV1lTNlFiU3dUbTk3bDU1WXFINnZlUzZMVXN0TjNlVDV0Smp1WGp2ZlQyRWdMOG1SVnVXV1p5WGJjN1lkaU1WRnROZ1ROZThRZA?oc=5\" target=\"_blank\">Netanyahu faces mass walk-out protest at UN speech</a>&nbsp;&nbsp",
+      "<p>Israeli prime minister said recognition of Palestinian state is ‘insane’ days after countries such as UK and France did so</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/sep/26/israeli-loudspeakers-broadcast-netanyahu-speech-to-un-gaza\">Israeli loudspeakers broadcast Netanyahu’s sp",
+      "A Palestinian state would be “national suicide” for Israel, Prime Minister Benjamin Netanyahu said, but many of the diplomats and leaders at the assembly boycotted his remarks."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/39823af0-9af0-11f0-b741-177e3e2c2fc7.jpg",
+    "titles": [
+      "Netanyahu attacks Palestinian recognition as dozens walk out of UN speech",
+      "UNGA: Netanyahu rejects Palestinian state in fiery speech",
+      "Netanyahu faces mass walk-out protest at UN speech - Axios",
+      "Netanyahu vows to ‘finish job’ in Gaza during UN speech as delegates walk out",
+      "Defiant Netanyahu Denounces Palestine Recognition, to a Mostly Empty U.N. Hall"
+    ],
+    "score_components": {
+      "magnitude": 0.944,
+      "recency": 0.77,
+      "consensus": 0.995,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.783,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "During Israeli Prime Minister Benjamin Netanyahu's speech at the UN General Assembly, a significant number of UN delegates walked out in protest. However, Canada's Ambassador Bob Rae did not participate in the walkout and remained seated throughout Netanyahu's address.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Europe Leads USA 5.5-2.5 After Ryder Cup Day 1 at Bethpage Black",
+    "domain": "sports",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Fri, 26 Sep 2025 23:27:57 GMT",
+    "source": "BBC",
+    "sources": [
+      "The Guardian",
+      "Sky Sports",
+      "BBC",
+      "ESPN"
+    ],
+    "domains": [
+      "www.skysports.com",
+      "www.bbc.com",
+      "www.espn.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "Europe open up a three-point lead over USA after a dramatic first day of the Ryder Cup at Bethpage Black in New York.",
+      "Tommy Fleetwood, Rory McIlroy and Jon Rahm didn't lose a match in the first two sessions Friday, while Scottie Scheffler and Bryson DeChambeau failed to earn a point, allowing the Europeans to take a 5.5-2.5 lead on the U.S. at the Ryder Cup.",
+      "Can Scottie Scheffler and Team USA turn things around? What can we expect from Saturday morning's matches. We breakdown the first day and look ahead to Day 2.",
+      "<ul><li><p>Europe lead 5½-2½ after first day at Bethpage Black</p></li><li><p>Visitors win both foursomes and fourballs sessions</p></li></ul><p>Bethpage Black became Bethpage blue. Europe had waited 21 years to lead at the end of a Ryder Cup’s opening day on American soil. In 2004, they romped to v",
+      "Highlights of the Friday foursomes from the Ryder Cup at Bethpage."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29df/live/169e8b70-9b30-11f0-92db-77261a15b9d2.jpg",
+    "titles": [
+      "Europe take three-point lead on opening day of Ryder Cup",
+      "Europe quiets U.S., up 3 after Day 1 of Ryder Cup",
+      "What happened on Day 1, and what it means for the rest of the Ryder Cup",
+      "Fleetwood and Rahm stun USA as Europe take three-point Ryder Cup lead on opening day",
+      "Europe take 3-1 lead! Friday foursomes Ryder Cup highlights"
+    ],
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.887,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.767,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Europe took a significant three-point lead over the USA, with a score of 5.5-2.5, after the first day of the Ryder Cup at Bethpage Black in New York. Key players for Europe, including Tommy Fleetwood, Rory McIlroy, and Jon Rahm, did not lose a match, contributing to their team's lead. Despite a missed shot by McIlroy in the evening, the European team ended the day ahead, having won both the foursomes and fourballs sessions, marking their first lead on American soil at the end of the opening day of the Ryder Cup in 21 years.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Phoenix Wins Overtime Thriller Against Minnesota in WNBA Semifinals",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Fri, 26 Sep 2025 23:51:00 EST",
+    "source": "ESPN",
+    "sources": [
+      "Yahoo Sports",
+      "CBS Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "sports.yahoo.com",
+      "www.espn.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "In the 2025 WNBA semifinals, Phoenix leads 1-seed Minnesota 2-1 while Las Vegas is up 2-1 over Indiana.",
+      "We're down to the final four in the 2025 WNBA playoffs",
+      "The series shifts to Phoenix for a pivotal Game 3 on Friday",
+      "The best-of-five series is all square at 1-1 heading into Friday night's Game 3",
+      "That was a bad, bad ending for the Lynx."
+    ],
+    "image_url": "",
+    "titles": [
+      "WNBA playoff schedule: Mercury take 2-1 lead over Lynx, Aces up 2-1 over Fever",
+      "WNBA playoff bracket, where to watch: Schedule, scores, TV channel for Fever vs. Aces, Mercury vs. Lynx",
+      "Lynx vs. Mercury schedule: Game times, where to watch and what to know about WNBA playoff semifinals",
+      "Aces vs. Fever schedule: Game times, where to watch and what to know about WNBA playoff semifinals",
+      "WNBA playoffs: Mercury surge to take 2-1 lead over Lynx as Napheesa Collier exits with injury in final minute"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.992,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.767,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "In the 2025 WNBA semifinals, Phoenix defeated Minnesota in an overtime match that was hailed as an instant classic. Despite this loss, Minnesota aims to secure a 2-0 series lead in their next game on Tuesday night.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Rafaela's Ninth-Inning Triple Seals Red Sox Postseason Spot with 4-3 Win",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Fri, 26 Sep 2025 22:31:14 EST",
+    "source": "ESPN",
+    "sources": [
+      "Yahoo Sports",
+      "Sportsnet",
+      "ESPN"
+    ],
+    "domains": [
+      "sports.yahoo.com",
+      "www.espn.com",
+      "www.sportsnet.ca"
+    ],
+    "snippets": [
+      "Ceddanne Rafaela tripled to drive in the game-ending run in the ninth inning Friday night, giving the Red Sox a 4-3 victory over the Tigers and clinching Boston's first postseason berth since 2021.",
+      "Ceddanne Rafaela tripled off the center field wall to drive in the game-ending run in the ninth inning on Friday night, giving the Red Sox a 4-3 victory over the Detroit Tigers and clinching Boston’s first postseason berth since 2021.  Boston rallied from a 3-0 deficit to move two games ahead of the",
+      "<p>Ceddanne Rafaela tripled off the centre field wall to drive in the game-ending run in the ninth inning on Friday night, giving the Red Sox a 4-3 victory over the Detroit Tigers and clinching Boston’s first post-season berth since 2021.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Rafaela's walk-off triple sends Red Sox to playoffs",
+      "Rafaela's walk-off triple sends Red Sox to playoffs",
+      "Red Sox clinch playoff berth on Rafaela’s walk-off triple to beat Tigers"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.965,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.755,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Ceddanne Rafaela hit a game-ending triple in the ninth inning, leading the Red Sox to a 4-3 win over the Tigers on Friday. This victory secured Boston's first postseason spot since 2021, after rallying from a 3-0 deficit.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "UN Sanctions on Iran to Be Reimposed After Russian-Chinese Bid Fails",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Fri, 26 Sep 2025 23:52:58 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "New York Times",
+      "Washington Post"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.washingtonpost.com",
+      "www.nytimes.com"
+    ],
+    "snippets": [
+      "All UN sanctions on Iran are set to be reimposed on Saturday after a Russian-Chinese bid to delay them failed.",
+      "Security Council votes against delaying reimposition of UN sanctions on Iran over its nuclear programme.",
+      "Rebuffed by the Trump administration, Iran failed Friday in a last-ditch effort to prevent the “snapback” of global sanctions that were lifted as part of the 2015 nuclear deal.",
+      "The unsuccessful bid to put off the sanctions for six months over Iran’s nuclear program means they would go into effect early Sunday in Iran."
+    ],
+    "image_url": "",
+    "titles": [
+      "UN sanctions on Iran set to return after failed delay bid",
+      "Sanctions against Iran set to snap back after UN Security Council vote",
+      "U.N. to reimpose sanctions on Iran after weeks of failed diplomacy",
+      "Russia and China Fail to Delay U.N. ‘Snapback’ Sanctions Against Iran Over Nuclear Program"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.913,
+      "consensus": 0.789,
+      "constructiveness": 0.2,
+      "proximity": 0.5
+    },
+    "score": 0.746,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "UN sanctions on Iran, lifted under the 2015 nuclear deal, are set to be reimposed early Sunday after a Russian-Chinese bid to delay them failed. The Security Council voted against the delay, and Iran's last-ditch effort to prevent the sanctions' \"snapback\" was unsuccessful. This development follows the Trump administration's rebuff of Iran's attempts to avoid these sanctions over its nuclear program.",
+    "constructiveness_score": 0.2,
+    "constructiveness_reason": "keywords: development, effort",
     "constructiveness_source": "heuristic"
   },
   {
@@ -367,12 +510,12 @@
       "ESPN"
     ],
     "domains": [
-      "news.google.com",
       "www.espn.com",
-      "www.sportsnet.ca"
+      "www.sportsnet.ca",
+      "news.google.com"
     ],
     "snippets": [
-      "Florida Panthers captain Aleksander Barkov is expected to miss seven to nine months after having surgery to address ACL and MCL injuries to his knee, the team announced Friday.",
+      "Florida Panthers captain Aleksander Barkov is expected to miss seven to nine months after having surgery to address ACL and MCL injuries to his right knee, the team announced Friday.",
       "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFJ3V25ndVNpZWxPSGQxVDF5c09kNTY5a2UwM0RlQ0l5RmVfTGlDMDFNVW1fUC1jWXVvVkJPbGxnRmVTWDRnNGtIanVSSUcxbmhMMlNKUFp6YXlYWWZtVHkyeW5QZUtlTU1jeGtxUVBkN2xuX1RhWWVScEttZERtYUwzbFNnN2s1LTR2SDluNkUwSGN0OEQ3WVFHUQ?oc=5\" target=\"_blank\">Barkov out 7-9 mo",
       "<p>The Florida Panthers could be without their captain for the entire season.</p>"
     ],
@@ -384,105 +527,15 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.986,
+      "recency": 0.906,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.759,
+    "score": 0.743,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Florida Panthers captain Aleksander Barkov underwent knee surgery and may miss the entire regular season. This leaves the team without their leader for potentially the whole season.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "UN Delegates Walk Out During Netanyahu's Speech, Canada's Rae Stays Seated",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Fri, 26 Sep 2025 16:41:44 GMT",
-    "source": "BBC",
-    "sources": [
-      "Deutsche Welle",
-      "BBC",
-      "New York Times",
-      "Axios"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.dw.com",
-      "www.bbc.com",
-      "www.nytimes.com"
-    ],
-    "snippets": [
-      "Officials and diplomats left the auditorium in protest as the Israeli leader took the stage, leaving large parts of the hall empty.",
-      "Israel's prime minister said it would be \"madness\" for Israel to allow a Palestinian state to be established. Many delegates left the room before Benjamin Netanyahu began his speech. DW has more.",
-      "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5wc3FGUWtTdktZTEg4SUxEX05uUnZJazdUTHdWLS1vVkRmOWgzbF9zV1lTNlFiU3dUbTk3bDU1WXFINnZlUzZMVXN0TjNlVDV0Smp1WGp2ZlQyRWdMOG1SVnVXV1p5WGJjN1lkaU1WRnROZ1ROZThRZA?oc=5\" target=\"_blank\">Netanyahu faces mass walk-out protest at UN speech</a>&nbsp;&nbsp",
-      "A Palestinian state would be “national suicide” for Israel, Prime Minister Benjamin Netanyahu said, but many of the diplomats and leaders at the assembly boycotted his remarks."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/39823af0-9af0-11f0-b741-177e3e2c2fc7.jpg",
-    "titles": [
-      "Netanyahu attacks Palestinian recognition as dozens walk out of UN speech",
-      "UNGA: Netanyahu rejects Palestinian state in fiery speech",
-      "Netanyahu faces mass walk-out protest at UN speech - Axios",
-      "Defiant Netanyahu Denounces Palestine Recognition, to a Mostly Empty U.N. Hall"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.838,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.757,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "During Israeli Prime Minister Benjamin Netanyahu's speech at the UN General Assembly, a significant number of UN delegates walked out in protest. However, Canada's Ambassador Bob Rae did not participate in the walkout and remained seated throughout Netanyahu's address.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Purdy Returns to 49ers After Jones Leads Team to Two Wins",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Fri, 26 Sep 2025 22:04:05 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "CBS Sports",
-      "Sportsnet",
-      "Sports Illustrated"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.cbssports.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "Mac Jones filled in and led the 49ers to two wins while Purdy was out",
-      "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0Jia1hWeE1tY0liS0hUZU9kRHd6UkN3N0xQUW4tSkVELXVad1N1amk2a25ha2ZuYnFDaGM3Tm5TckhWaUlUdVdPNjNfSUYyUnZBRGR1MWhwNmE5SHB6VGc4V0tkdWNqbV9nYVc2ajJzUWlEeDZJeWVDNmdzb2pWXzVnSXE?oc=5\" target=\"_blank\">Niners Issue Injury Update for Brock Purdy Ahead",
-      "<p>Quarterback Brock Purdy will return this week for the San Francisco 49ers after missing the past two games with a toe injury.</p>"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/26/5df51bbb-49e1-419d-ad51-9e5c9b326b7a/untitled-design-6.png",
-    "titles": [
-      "Brock Purdy injury update: 49ers QB to return in Week 4 vs. Jaguars after missing two games with turf toe",
-      "Niners Issue Injury Update for Brock Purdy Ahead of Sunday's Game vs. Jaguars - Sports Illustrated",
-      "49ers’ Brock Purdy to return as starting QB after toe injury"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.957,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.728,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Mac Jones led the 49ers to two victories while Brock Purdy was sidelined with a toe injury. Purdy is set to return to play for the San Francisco 49ers this week after missing two games.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -500,9 +553,9 @@
       "MarketWatch"
     ],
     "domains": [
+      "www.cnbc.com",
       "www.marketwatch.com",
-      "www.businessinsider.com",
-      "www.cnbc.com"
+      "www.businessinsider.com"
     ],
     "snippets": [
       "Howard Rubin, an infamous money manager, was sued in 2017 by Playboy models and another woman who claimed they were beaten, sexually abused and raped.",
@@ -517,13 +570,13 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.953,
+      "recency": 0.875,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.727,
-    "summary_source": "gpt",
+    "score": 0.712,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "In 2017, Howard Rubin, a New York financier, was sued by Playboy models and another woman for alleged beatings, sexual abuse, and rape. Recently, Rubin and his assistant Jennifer Powers were indicted on sex trafficking charges by federal prosecutors, related to an alleged $1 million sex scheme.",
     "constructiveness_score": 0.0,
@@ -538,14 +591,14 @@
     "published": "Fri, 26 Sep 2025 22:31:07 GMT",
     "source": "BBC",
     "sources": [
+      "The Guardian",
       "Sky Sports",
-      "BBC",
-      "The Guardian"
+      "BBC"
     ],
     "domains": [
-      "www.theguardian.com",
+      "www.bbc.com",
       "www.skysports.com",
-      "www.bbc.com"
+      "www.theguardian.com"
     ],
     "snippets": [
       "Leigh Leopards sweep aside Wakefield 26-10 in the first Super League play-off eliminator to book a semi-final place against Wigan.",
@@ -562,101 +615,15 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.946,
+      "recency": 0.869,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.726,
-    "summary_source": "gpt",
+    "score": 0.711,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Leigh Leopards defeated Wakefield Trinity 26-10 in the Super League play-off eliminator, securing a semi-final place against Wigan. The victory, highlighted by a strong first-half performance and three tries, marks Leigh's second consecutive semi-final appearance in the competition.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Canadian Postal Workers Strike Over Government's Cost-Cutting Measures",
-    "domain": "general",
-    "source_domain": "www.theguardian.com",
-    "location": "global",
-    "published": "Fri, 26 Sep 2025 16:49:57 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "Washington Post",
-      "The Guardian",
-      "New York Times"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.washingtonpost.com",
-      "www.nytimes.com"
-    ],
-    "snippets": [
-      "<p>Union says it’s ‘outraged and appalled’ by government’s order of sweeping changes to the national service</p><p>Postal workers in <a href=\"https://www.theguardian.com/world/canada\">Canada</a> have gone on strike after the government warned of an “existential crisis” and ordered sweeping changes t",
-      "Canada Post is on pace to lose $1 billion this year, officials say. The Canadian Union of Postal Workers says it was blindsided by cost-cutting measures.",
-      "The government’s previous attempts at postal service cuts were politically unpopular, but Canada Post’s dire financial situation has expedited them."
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/d2b176ab3d7d3994bc3ae61afc7ec2ed9ac9ad1f/174_0_2654_2124/master/2654.jpg?width=140&quality=85&auto=format&fit=max&s=a0ac1a369de36f1937a15e64fce6c14a",
-    "titles": [
-      "Canada postal workers strike after government orders end to door-to-door delivery",
-      "Canada Post to end home delivery; workers strike in protest",
-      "Canada Orders Postal Service to End Door-to-Door Mail Delivery"
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.841,
-      "consensus": 0.789,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.722,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Postal workers in Canada have gone on strike following the government's announcement of major changes to the national postal service, citing an \"existential crisis.\" The Canadian Union of Postal Workers expressed shock and outrage at the cost-cutting measures introduced in response to Canada Post's projected $1 billion loss this year. Previous efforts to reduce postal service costs were unpopular, but the current financial challenges have made such measures more urgent.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: effort",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Hackers Threaten to Leak Data of Nursery Children and Staff at Kido Internationa",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Fri, 26 Sep 2025 20:27:32 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "New York Times",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.bbc.com",
-      "www.nytimes.com"
-    ],
-    "snippets": [
-      "The criminals say they will share 30 more profiles along with 100 employees' data if a ransom is not paid.",
-      "<p>Criminals calling themselves Radiant say they will post additional private data online unless they are paid</p><p>Hackers with pictures and the private information of thousands of nursery children have threatened to publish more information online unless they are paid.</p><p>Criminals calling the",
-      "Kido International, which runs nursery schools, reported the incident to the authorities after hackers posted sensitive data on the dark web and demanded a ransom."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2273/live/808869a0-9abf-11f0-b832-7b9888705b9b.jpg",
-    "titles": [
-      "Nursery hackers threaten to publish more children's profiles online",
-      "Kido nursery hackers threaten to publish more children’s profiles",
-      "Hackers Steal Children’s Data and Photos from U.K. Nursery Chain"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.907,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.718,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Hackers, identifying as Radiant, have threatened to release private data of thousands of nursery children and 100 employees from Kido International unless a ransom is paid. The group has already posted sensitive information on the dark web. Kido International has reported the incident to the authorities.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -674,9 +641,9 @@
       "MarketWatch"
     ],
     "domains": [
-      "www.ft.com",
+      "www.cnbc.com",
       "www.marketwatch.com",
-      "www.cnbc.com"
+      "www.ft.com"
     ],
     "snippets": [
       "The deal would likely be the largest leverage buyout of all time, according to a report.",
@@ -691,15 +658,94 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.904,
+      "recency": 0.83,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.718,
-    "summary_source": "gpt",
+    "score": 0.703,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Electronic Arts, the company known for the 'Madden NFL' video game, is in discussions with investors, including Jared Kushner's Affinity Partners, for a potential transaction. This deal, if completed, could value Electronic Arts at $50 billion, making it possibly the largest leverage buyout in history.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Blue Jays Defeat Rays 4-2, Lukes and Springer Lead Victory",
+    "domain": "sports",
+    "source_domain": "globalnews.ca",
+    "location": "national",
+    "published": "Sat, 27 Sep 2025 01:58:42 +0000",
+    "source": "Global News",
+    "sources": [
+      "Global News",
+      "Sportsnet"
+    ],
+    "domains": [
+      "globalnews.ca",
+      "www.sportsnet.ca"
+    ],
+    "snippets": [
+      "Nathan Lukes hit a two-run homer and George Springer scored twice as the Toronto Blue Jays defeated the Tampa Bay Rays 4-2 on Friday night.",
+      "<p>Nathan Lukes hit a two-run homer and George Springer scored twice as the Toronto Blue Jays defeated the Tampa Bay Rays 4-2 on Friday night.</p>",
+      "<p>Watch as Toronto Blue Jays outfielder Nathan Lukes drills a changeup from Tampa Bay Rays starter Adrian Houser over the right-field fence for a two-run shot. </p>"
+    ],
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/dc204382ab1105b3828a0c711917859fcecc74840570e491d89eca375229fcfb.jpg?quality=65&strip=all",
+    "titles": [
+      "Lukes powers Blue Jays to 4-2 win over Rays",
+      "Lukes hits go-ahead homer as Blue Jays beat Rays, magic number down to two",
+      "Nathan Lukes belts two-run homer to give Blue Jays lead over Rays"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.954,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 1.0
+    },
+    "score": 0.696,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Toronto Blue Jays won against the Tampa Bay Rays with a score of 4-2 on Friday night, led by Nathan Lukes' two-run homer and George Springer scoring twice. Lukes' home run came from a changeup by Rays' starter Adrian Houser.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Ryder Cup Fans Sport American Flag Outfits, Ditching Traditional Golf Attire",
+    "domain": "business",
+    "source_domain": "www.businessinsider.com",
+    "location": "national",
+    "published": "Sat, 27 Sep 2025 03:41:28 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "Business Insider",
+      "Yahoo Sports"
+    ],
+    "domains": [
+      "www.businessinsider.com"
+    ],
+    "snippets": [
+      "Business Insider was at the Ryder Cup on Friday, where some full-body American flags outfits and group costumes instead of the typical golf polo.",
+      "Business Insider was at the Ryder Cup on Friday, where some full-body American flags outfits and group costumes instead of the typical golf polo."
+    ],
+    "image_url": "",
+    "titles": [
+      "Stars, stripes, and kilts: The wildest looks at the Ryder Cup",
+      "Stars, stripes, and kilts: The wildest looks at the Ryder Cup"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.989,
+      "consensus": 0.571,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.673,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "At the Ryder Cup on Friday, attendees were spotted wearing full-body American flag outfits and group costumes, a departure from the usual golf polo attire, as reported by Business Insider.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -712,8 +758,8 @@
     "published": "Fri, 26 Sep 2025 13:03:10 -0400",
     "source": "NPR",
     "sources": [
-      "NPR",
-      "The Guardian"
+      "The Guardian",
+      "NPR"
     ],
     "domains": [
       "www.npr.org",
@@ -730,12 +776,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.862,
+      "recency": 0.792,
       "consensus": 0.591,
       "constructiveness": 0.3,
       "proximity": 0.75
     },
-    "score": 0.682,
+    "score": 0.668,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Global health leaders were disappointed by Robert F. Kennedy Jr.'s opposition to a UN plan aimed at addressing noncommunicable diseases (NCDs) like cancer, diabetes, and heart disease. Despite his objection, the general assembly supported new targets for tackling these illnesses. The initiative will proceed without unanimous consensus.",
@@ -744,196 +790,46 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "LSU's Durham Doubtful for Ole Miss Game After Ankle Injury",
+    "title": "Blue Jays, Yankees Lead AL East; Red Sox Clinch Post-Season; Rangers Win",
     "domain": "sports",
-    "source_domain": "www.espn.com",
+    "source_domain": "www.draysbay.com",
     "location": "national",
-    "published": "Fri, 26 Sep 2025 18:23:14 EST",
-    "source": "ESPN",
-    "sources": [
-      "CBS Sports",
-      "ESPN"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.cbssports.com"
-    ],
-    "snippets": [
-      "LSU running back Caden Durham, who injured his ankle last week against SE Louisiana, is doubtful for Saturday's game against Ole Miss, sources told ESPN.",
-      "Durham left last week's win over Southeastern Louisiana with an ankle issue"
-    ],
-    "image_url": "",
-    "titles": [
-      "Sources: LSU RB Durham doubtful vs. Ole Miss",
-      "Caden Durham injury: LSU's top RB (ankle) 'doubtful' for showdown at No. 13 Ole Miss, per report"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.964,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.673,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "LSU running back Caden Durham, who suffered an ankle injury in last week's game against Southeastern Louisiana, is doubtful for the upcoming Saturday game against Ole Miss, according to ESPN sources.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Hezly Rivera Withdraws from Gymnastics Worlds Due to Ankle Injury",
-    "domain": "business",
-    "source_domain": "www.usatoday.com",
-    "location": "national",
-    "published": "Fri, 26 Sep 2025 23:43:11 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Yahoo Sports",
-      "Forbes"
-    ],
-    "domains": [
-      "www.usatoday.com",
-      "www.forbes.com"
-    ],
-    "snippets": [
-      "Hezly Rivera said on Instagram that she will miss the gymnastics world championships after rolling her ankle.",
-      "In a significant blow to Team USA, Olympic and U.S. Champion Hezly Rivera has withdrawn from the World Selection Event due to an ankle injury, putting her out of contention for the World Championships."
-    ],
-    "image_url": "",
-    "titles": [
-      "Paris Olympics gold medalist Hezly Rivera will miss gymnastics world championships",
-      "Olympic Champion Hezly Rivera Injured, Withdraws From World Championships Selection"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.991,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.663,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Olympic and U.S. Champion Hezly Rivera announced on Instagram that she will not compete in the gymnastics world championships due to an ankle injury sustained during the World Selection Event. This withdrawal marks a significant loss for Team USA.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: sustain",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Braves Claim Pitcher Manoah Off Waivers from Blue Jays",
-    "domain": "sports",
-    "source_domain": "www.nbcsports.com",
-    "location": "national",
-    "published": "Fri, 26 Sep 2025 23:51:40 +0000",
+    "published": "Sat, 27 Sep 2025 03:15:30 +0000",
     "source": "Yahoo Sports",
     "sources": [
       "Yahoo Sports",
       "Sportsnet"
     ],
     "domains": [
-      "www.nbcsports.com",
+      "www.draysbay.com",
       "www.sportsnet.ca"
     ],
     "snippets": [
-      "Manoah was designated for assignment by the Blue Jays to make room on Toronto’s 40-man roster for Anthony Santander to come off the 60-day injured list.",
-      "<p>Alek Manoah has a new home. The Atlanta Braves claimed the starter pitcher off waivers from the Toronto Blue Jays, the teams announced on Friday</p>"
+      "Caminero and Aranda went back-to-back in the second, and the Rays never scored again.",
+      "<p>Nathan Lukes drove in three runs and the Toronto Blue Jays&#8217; bullpen combined for four scoreless innings as they won a pivotal game 4-2 over the Tampa Bay Rays. </p>",
+      "<p>Giancarlo Stanton hit a two-run homer twice, while Aaron Judge also smashed a two-run bomb as the New York Yankees beat the Baltimore Orioles to remain tied with the Toronto Blue Jays for the top of the AL East</p>",
+      "<p>Ceddanne Rafaela had a walk-off triple to clinch the Boston Red Sox their first post-season berth since 2021, while Kyle Harrison recorded six strikeouts across three innings.</p>",
+      "<p>Alejandro Osuna had a three-run home run and Jack Leiter had 10 strikeouts to match his career high as the Texas Rangers beat the Cleveland Guardians 7-3.</p>"
     ],
     "image_url": "",
     "titles": [
-      "Braves claim Alek Manoah, transfer Ozzie Albies to 60-day injured list",
-      "Braves claim ex-Blue Jay Alek Manoah off waivers"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.994,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.661,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Atlanta Braves claimed starting pitcher Alek Manoah off waivers from the Toronto Blue Jays. This move was made to free up space on Toronto's 40-man roster, allowing Anthony Santander to be activated from the 60-day injured list.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Chiefs' Fastest Receiver Worthy Returns for Ravens Game After Injury",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Fri, 26 Sep 2025 15:13:47 EST",
-    "source": "ESPN",
-    "sources": [
-      "Sportsnet",
-      "ESPN"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "Xavier Worthy, the Chiefs' fastest receiver, is expected to play in Sunday's game against the Ravens after missing the past two games with a shoulder injury.",
-      "<p>The Kansas City Chiefs will get an ejection of energy for a big game in Week 4.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Chiefs WR Worthy set to return Sunday vs. Ravens",
-      "Chiefs’ Xavier Worthy expected to play vs. Ravens"
+      "Back-to-Back, Then Back to Reality: Rays 2, Blue Jays 4",
+      "MLB Highlights: Blue Jays 4, Rays 2",
+      "MLB Highlights: Yankees 8, Orioles 4",
+      "MLB Highlights: Red Sox 4, Tigers 3",
+      "MLB Highlights: Rangers 7, Guardians 3"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.902,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.66,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Xavier Worthy, the Kansas City Chiefs' fastest receiver, is set to return for Sunday's game against the Ravens after missing two games due to a shoulder injury. His comeback is expected to boost the team's performance in Week 4.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Ryder Cup Begins with Delays Amid Tight Security for Trump's Visit",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
-    "location": "national",
-    "published": "Fri, 26 Sep 2025 23:47:12 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Yahoo Sports",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "The latest scores and results from the 45th edition of the Ryder Cup at Bethpage will appear here once the contest gets under way on Friday, 26 September.",
-      "<ul><li><p>Spectators and staff experience huge queues</p></li><li><p>Trump is first sitting US president to attend the event</p></li></ul><p>Scores of Ryder Cup fans were denied glimpses of the opening tee shots at Bethpage Black due to stringent security measures put in place before the arrival of"
-    ],
-    "image_url": "",
-    "titles": [
-      "Ryder Cup scores and results",
-      "Donald Trump’s Ryder Cup visit results in fans missing early action due to tight security"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.992,
+      "recency": 0.98,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.66,
+    "score": 0.651,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The 45th Ryder Cup at Bethpage began on 26 September, marked by long queues for spectators and staff due to strict security for the first-ever attendance of a sitting US president, Donald Trump. The event experienced delays, with some fans missing opening shots.",
+    "summary": "The Toronto Blue Jays defeated the Tampa Bay Rays 4-2, with Nathan Lukes driving in three runs and their bullpen delivering four scoreless innings. The New York Yankees stayed tied atop the AL East with the Blue Jays after beating the Baltimore Orioles, thanks to two-run homers from Giancarlo Stanton and Aaron Judge. The Boston Red Sox secured a post-season spot with Ceddanne Rafaela's walk-off triple and Kyle Harrison's pitching. The Texas Rangers overcame the Cleveland Guardians 7-3, highlighted by Alejandro Osuna's three-run homer and Jack Leiter's 10 strikeouts.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -946,8 +842,8 @@
     "published": "Fri, 26 Sep 2025 22:39:31 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Deutsche Welle",
-      "Al Jazeera"
+      "Al Jazeera",
+      "Deutsche Welle"
     ],
     "domains": [
       "www.aljazeera.com",
@@ -964,13 +860,13 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.969,
+      "recency": 0.89,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.659,
-    "summary_source": "gpt",
+    "score": 0.643,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Moldova's election faced controversy as the pro-Russia Heart of Moldova party was banned from participating due to a court ruling. The court accused the party of voter bribery, illegal financing, and money laundering, restricting its activities for one year. This development has significant implications for Moldova's political direction and its potential path towards the EU.",
     "constructiveness_score": 0.1,
@@ -982,34 +878,34 @@
     "domain": "general",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Fri, 26 Sep 2025 23:27:19 GMT",
+    "published": "Fri, 26 Sep 2025 23:54:40 GMT",
     "source": "Axios",
     "sources": [
-      "The Guardian",
-      "Axios"
+      "Axios",
+      "The Guardian"
     ],
     "domains": [
-      "news.google.com",
-      "www.theguardian.com"
+      "www.theguardian.com",
+      "news.google.com"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzU2Ullqd0dabmFKNnZoaTZiWWh1UkY2ekJnZXoyMm40eE1Ic2FfRnd5czFOS1BLT2Q1WnFtcmJlM0lZUl9RV0EtRXVDb2NUY3RPRXlfandFVGM5ZHhqYWtNeF90RzJaZ0hOSTVEWWU2bGxhMWdOR003LWZQN1pMX29qdDFaY0d6?oc=5\" target=\"_blank\">Hegseth says soldiers in Wounded Knee Massa",
+      "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzU2Ullqd0dabmFKNnZoaTZiWWh1UkY2ekJnZXoyMm40eE1Ic2FfRnd5czFOS1BLT2Q1WnFtcmJlM0lZUl9RV0EtRXVDb2NUY3RPRXlfandFVGM5ZHhqYWtNeF90RzJaZ0hOSTVEWWU2bGxhMWdOR003LWZQN1pMX29qdDFaY0d6?oc=5\" target=\"_blank\">Hegseth: Soldiers in Wounded Knee Massacre ",
       "<p>Historical records say the US army killed about 250 Lakota Sioux people in the 1890 massacre in South Dakota </p><p>Defense secretary Pete Hegseth has announced that 20 US soldiers who took part in the 1890 massacre of hundreds of Lakota men, women and children at Wounded Knee will keep the Medal"
     ],
     "image_url": "",
     "titles": [
-      "Hegseth says soldiers in Wounded Knee Massacre of Lakota will keep their medals - Axios",
+      "Hegseth: Soldiers in Wounded Knee Massacre of Lakota to keep medals - Axios",
       "Hegseth says Wounded Knee massacre soldiers will keep Medals of Honor"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.965,
+      "recency": 0.895,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.648,
-    "summary_source": "gpt",
+    "score": 0.634,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Defense Secretary Pete Hegseth announced that 20 US soldiers who participated in the 1890 Wounded Knee Massacre, where approximately 250 Lakota Sioux were killed in South Dakota, will retain their Medals of Honor.",
     "constructiveness_score": 0.0,
@@ -1017,40 +913,157 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trail Blazers' Scoot Henderson Suffers Torn Hamstring, Return Unclear",
-    "domain": "business",
-    "source_domain": "www.forbes.com",
-    "location": "global",
-    "published": "Fri, 26 Sep 2025 15:25:35 -0400",
-    "source": "Forbes",
+    "title": "Red Sox Win Offers Key Fantasy Insights for Players",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Fri, 26 Sep 2025 11:03:39 EST",
+    "source": "ESPN",
     "sources": [
-      "Forbes",
-      "Sports Illustrated"
+      "Sports Illustrated",
+      "ESPN"
     ],
     "domains": [
-      "news.google.com",
-      "www.forbes.com"
+      "www.espn.com",
+      "news.google.com"
     ],
     "snippets": [
-      "Portland Trail Blazers guard Scoot Henderson has suffered a torn hamstring the team announced earlier today.",
-      "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEVxU1VSSmpqTXdEZ1NZSXBsM1pmX0R1ZV9qZk56UnZmSEN0QVdPT09RRTZpbUFscmVJV19WR0dqNUtXLXFMVkNLb1VYNUNPbEZ1NW9BVjJNSW9BczhjUU5UcmFUUjVmNUluTnNxZ1dYSnNCaVZmb3U5T3NHejdSXzFoekRGTzdLSTVCeHR4VGY?oc=5\" target=\"_blank\">Trail Blazers' Scoot Henderson S"
+      "All of the important fantasy spin and actionable takeaways resulting from the latest baseball news.",
+      "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDU3REVWeUxNcFExdGlQendhM0gyamVkTXFsaEFSN09CUlpXMHR1UWZBS1VRTENxQWNUTkhrV05HV1YtZE9rM2VnUkN0aHZCVnYydXVRNGkyWVR4anM1c01KZ09HZGdFVDV1aTU1RjEzQTRBMDVTQ2FLeFlVdWlwMWdQRWdJQzViUXlwZDZvWjhTX0hkWnNR?oc=5\" target=\"_blank\">How Red Sox' Win Over T"
     ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68d6e87928d06c16398436c3/0x0.jpg?width=960",
+    "image_url": "",
     "titles": [
-      "Portland Trail Blazers Scoot Henderson Suffers Hamstring Tear",
-      "Trail Blazers' Scoot Henderson Suffers Offseason Injury, Now Out for Weeks - Sports Illustrated"
+      "News: Red Sox, Guardians look to lock down playoff berths",
+      "How Red Sox' Win Over Tigers, Guardians' Loss Impacts AL Playoff Picture - Sports Illustrated"
     ],
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.906,
+      "magnitude": 0.735,
+      "recency": 0.76,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.632,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The latest baseball news offers key fantasy insights and actionable takeaways following the Red Sox's victory. The coverage provides detailed analysis and implications for fantasy baseball players, focusing on the performance impact of the game's outcome.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "King Charles III, Queen Camilla to Meet Pope Leo XIV at Vatican in October",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Fri, 26 Sep 2025 23:02:02 GMT",
+    "source": "BBC",
+    "sources": [
+      "The Guardian",
+      "BBC"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "Their previous official visit to the Vatican was postponed earlier this year due to the poor health of Pope Francis.",
+      "<p>King and Queen Camilla to join pontiff in late October amid jubilee year celebrations, says Buckingham Palace</p><p>King Charles III and Queen Camilla will make a state visit to meet Pope Leo XIV for the first time at the Vatican next month, Buckingham Palace has said.</p><p>The trip in late Octo"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb88/live/fa731210-9aec-11f0-89b4-1b2d09c610c7.jpg",
+    "titles": [
+      "King Charles to meet Pope Leo on rearranged Vatican visit",
+      "King Charles to visit Vatican and meet Pope Leo for first time"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.879,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.643,
+    "score": 0.631,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Portland Trail Blazers guard Scoot Henderson has suffered a torn hamstring, as announced by the team. The current status of his injury or a timeline for his return has not been provided.",
+    "summary": "King Charles III and Queen Camilla are scheduled to visit the Vatican to meet Pope Leo XIV for the first time in late October, as confirmed by Buckingham Palace. This visit comes after a previous postponement due to Pope Francis's poor health and will occur during the jubilee year celebrations.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Netanyahu Vows to Continue Hamas War Amid Global Criticism at UN",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Fri, 26 Sep 2025 10:24:31 -0400",
+    "source": "NPR",
+    "sources": [
+      "CityNews",
+      "NPR"
+    ],
+    "domains": [
+      "www.npr.org",
+      "ottawa.citynews.ca"
+    ],
+    "snippets": [
+      "The Israeli prime minister's speech was defiant, despite his growing international isolation over his refusal to end the devastating war to eradicate Hamas.",
+      "UNITED NATIONS (AP) — Encircled by critics and protesters at the United Nations, Israeli Prime Minister Benjamin Netanyahu told fellow world leaders on Friday that his nation “must finish the job” against Hamas in Gaza, giving a defiant speech despite growing international isolation over his refusal"
+    ],
+    "image_url": "",
+    "titles": [
+      "At U.N., amid jeers and cheers, Netanyahu says Israel 'must finish the job' in Gaza",
+      "Facing global isolation at UN, a defiant Netanyahu says Israel ‘must finish the job’ against Hamas"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.75,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.63,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Israeli Prime Minister Benjamin Netanyahu delivered a defiant speech at the United Nations, insisting on continuing the war against Hamas despite international isolation and criticism, including from Western allies who have recognized Palestinian statehood. His remarks followed actions by countries like the UK and France in recognizing Palestine, which led to protests and walkouts during his address. Netanyahu's stance has drawn accusations of war crimes and increased pressure to end the conflict, amidst reports of Palestinians living in poverty.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Ex-FBI Chief Comey Indicted for False Statement, Obstruction",
+    "domain": "business",
+    "source_domain": "abcnews.go.com",
+    "location": "national",
+    "published": "Fri, 26 Sep 2025 11:36:56 -0400",
+    "source": "ABC News",
+    "sources": [
+      "CNBC",
+      "ABC News"
+    ],
+    "domains": [
+      "www.cnbc.com",
+      "abcnews.go.com"
+    ],
+    "snippets": [
+      "The former FBI director has been indicted on charges of making a false statement and obstruction related to his testimony before the Senate Judiciary Committee in 2020.",
+      "President Donald Trump gloated about the filing of criminal charges against James Comey, whom he fired as FBI director in 2017, in his first White House term."
+    ],
+    "image_url": "https://s.abcnews.com/images/US/250926_abc_soc_comey_hpMain_4x3_384.jpg",
+    "titles": [
+      "WATCH:  Former FBI Director James Comey reacts to indictment",
+      "Former FBI Director James Comey indicted after Trump called for charges"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.769,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.609,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Former FBI Director James Comey was indicted for making a false statement and obstruction during his 2020 Senate Judiciary Committee testimony. This indictment was notably highlighted by President Donald Trump, who had previously dismissed Comey from his FBI position in 2017.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1081,12 +1094,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.767,
+      "recency": 0.705,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.608,
+    "score": 0.596,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Researchers have discovered that electrons can travel underground over long distances, connecting separate chemical zones through networks formed by minerals, organic molecules, and bacteria. This process, crucial for ecosystem sustainability, water quality, and pollutant degradation, suggests new methods for environmental cleanup.",
@@ -1118,12 +1131,12 @@
     ],
     "score_components": {
       "magnitude": 0.373,
-      "recency": 0.853,
+      "recency": 0.784,
       "consensus": 0.35,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.449,
+    "score": 0.435,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The 2025-2026 DWU High School and Middle School Challenges focus on engineering and aviation, respectively. The High School Engineering Challenge materials are pending release, urging early registration. The theme for the Middle School Aviation Challenge is \"AgAir: Integrating UAS into the Agriculture Industry,\" highlighting the significance of uncrewed aircraft systems (UAS) in agriculture for food, fuel, and economic development. Participants are encouraged to explore the impact of UAS technology in the agricultural sector.",
@@ -1155,12 +1168,12 @@
     ],
     "score_components": {
       "magnitude": 0.373,
-      "recency": 0.796,
+      "recency": 0.731,
       "consensus": 0.35,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.437,
+    "score": 0.424,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Scientists have conducted studies on the Bigscale Pomfret, revealing new insights into this oceanic species. In separate research, experts have also uncovered the mechanisms behind gaslighting, offering a deeper understanding of this psychological manipulation technique. Both studies contribute to our knowledge of marine biology and human behavior, respectively.",
