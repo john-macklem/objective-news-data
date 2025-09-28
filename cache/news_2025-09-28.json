@@ -1,5 +1,119 @@
 [
   {
+    "title": "Gunman Attacks Michigan Church: 1 Dead, 9 Injured, Building Set Ablaze",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 12:15:31 -0400",
+    "source": "NPR",
+    "sources": [
+      "CityNews",
+      "The Guardian",
+      "Deutsche Welle",
+      "Global News",
+      "Al Jazeera",
+      "NPR"
+    ],
+    "domains": [
+      "www.npr.org",
+      "www.theguardian.com",
+      "globalnews.ca",
+      "www.dw.com",
+      "www.aljazeera.com",
+      "ottawa.citynews.ca"
+    ],
+    "snippets": [
+      "Multiple people have been shot at a Mormon church in Michigan and the shooter is down, police said Sunday.",
+      "Police in Grand Blanc Township warn that more victims are likely to be found after a fire at the building.",
+      "Multiple people have been injured and one killed in a shooting at the Church of Jesus Christ of Latter-day Saints in Grand Blanc, Michigan, local police said. The church was also set alight.",
+      "<p>Church on fire in violent weekend with shootings also in North Carolina, Texas, and New Orleans’ Bourbon Street</p><p>At least one victim is dead and nine others are injured after a shooting and a fire at a Mormon church in <a href=\"https://www.theguardian.com/us-news/michigan\">Michigan</a>, auth",
+      "Michigan Gov. Gretchen Whitmer said that her heart is breaking for the Grand Blanc community. “Violence anywhere especially in a place of worship, is unacceptable,” she said.",
+      "GRAND BLANC TOWNSHIP, Mich. (AP) — A gunman opened fire inside a Mormon church in Michigan during Sunday services before apparently setting the building ablaze, killing at least one person and injuring nine before police shot him, authorities said Hundreds of people were inside The Church of Jesus C"
+    ],
+    "image_url": "",
+    "titles": [
+      "Attack at a Mormon church in Michigan leaves at least 1 dead, 9 injured",
+      "One dead, nine injured in shooting at Mormon church in Michigan: Police",
+      "US: One dead, others wounded in shooting at Mormon church",
+      "At least one dead and nine injured after shooting at Mormon church in Michigan",
+      "1 dead and 9 injured in shooting inside Michigan church, police say",
+      "1 person dead and 9 injured in a shooting and fire at a Michigan church, police say"
+    ],
+    "score_components": {
+      "magnitude": 0.986,
+      "recency": 0.922,
+      "consensus": 1.0,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.855,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A gunman attacked The Church of Jesus Christ of Latter-day Saints in Grand Blanc, Michigan, during Sunday services, resulting in at least one death and nine injuries. The assailant also set the church on fire before being shot by police. Michigan Governor Gretchen Whitmer expressed her heartbreak over the violence, emphasizing that such acts, especially in places of worship, are unacceptable. The incident is part of a violent weekend with shootings in several U.S. locations.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "NYC Mayor Adams Suspends Campaign Amid Funding Issues, Crowded Race",
+    "domain": "business",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 17:54:55 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Forbes",
+      "The Guardian",
+      "CNBC",
+      "ABC News",
+      "Al Jazeera",
+      "Financial Times",
+      "Business Insider"
+    ],
+    "domains": [
+      "www.cnbc.com",
+      "www.forbes.com",
+      "www.businessinsider.com",
+      "www.theguardian.com",
+      "www.aljazeera.com",
+      "www.ft.com",
+      "abcnews.go.com"
+    ],
+    "snippets": [
+      "Adams bows out, leaving the race between Democrat Zohran Mamdani and former New York Governor Andrew Cuomo.",
+      "New York City Mayor Eric Adams announced on Sunday that he is suspending his campaign for mayor, just weeks away from the closely watched election.",
+      "President Donald Trump has suggested that NYC Mayor Eric Adams and Curtis Sliwa, the Republican nominee, should both drop out of the race.",
+      "Democratic socialist Zohran Mamdani and Andrew Cuomo will now face off in city’s November poll",
+      "<p>New York City mayor abandons faltering bid to win re-election in social media video set to strains of song My Way</p><p>The mayor of <a href=\"https://www.theguardian.com/us-news/new-york\">New York City</a>, <a href=\"https://www.theguardian.com/us-news/eric-adams\">Eric Adams</a>, announced on Sund",
+      "Adams’ withdrawal sets up a three-way race between Democrat Zohran Mamdani, Republican Curtis Sliwa and former Gov. Andrew Cuomo, who is running as an independent.",
+      "Adams announced his departure on Sunday in an eight-minute video on X, saying media speculation and lack of funding influenced his decision."
+    ],
+    "image_url": "",
+    "titles": [
+      "Eric Adam says he is dropping out of New York City mayoral race",
+      "Eric Adams ends campaign for New York City mayor",
+      "Eric Adams drops out of New York City mayoral race",
+      "New York mayor Eric Adams abandons re-election bid",
+      "Eric Adams drops out of New York City mayoral race",
+      "Eric Adams Drops Out Of New York City Mayoral Race",
+      "Eric Adams drops out of the New York mayor's race weeks ahead of the election"
+    ],
+    "score_components": {
+      "magnitude": 1.0,
+      "recency": 0.954,
+      "consensus": 1.0,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.841,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "New York City Mayor Eric Adams has suspended his re-election campaign, citing media speculation and funding issues. His withdrawal sets up a race between Democrat Zohran Mamdani, Republican Curtis Sliwa, and former Governor Andrew Cuomo, running as an independent. Adams made the announcement through a social media video. President Trump had suggested both Adams and Sliwa should drop out. The election is set for November.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
     "title": "Denmark Bans Civilian Drones Amid Security Concerns, Closes Airports",
     "domain": "business",
     "source_domain": "www.aljazeera.com",
@@ -7,19 +121,22 @@
     "published": "Sun, 28 Sep 2025 14:57:47 +0000",
     "source": "Al Jazeera",
     "sources": [
+      "The Guardian",
+      "Deutsche Welle",
       "Global News",
       "Al Jazeera",
-      "Financial Times",
-      "The Guardian"
+      "Financial Times"
     ],
     "domains": [
-      "www.ft.com",
-      "www.aljazeera.com",
+      "www.theguardian.com",
       "globalnews.ca",
-      "www.theguardian.com"
+      "www.dw.com",
+      "www.aljazeera.com",
+      "www.ft.com"
     ],
     "snippets": [
       "Drone sorties over past week have caused the temporary closures of several Danish airports, raising security concerns.",
+      "Denmark is closing its entire airspace to civilian drones. The ban comes as the Nordic country prepares to host European leaders after a flurry of suspicious drone activity in recent days.",
       "Danish government says security measures are required ahead of two summits of European leaders",
       "<p>Civilian unmanned flights to be banned during gathering of heads of EU governments amid spate of drone incursions </p><p>Danish authorities have said drones were seen at several military sites overnight and announced that all civilian use of the unmanned aircraft will be banned this week, as Cope",
       "This is the latest unexplained drone activity after several sightings, including over five Danish airports last week."
@@ -27,19 +144,20 @@
     "image_url": "",
     "titles": [
       "Denmark bans drone flights after latest drone sightings at military bases",
+      "Denmark bans civil drones after more sightings",
       "Denmark bans civil drones for a week after sightings over military bases",
       "Denmark reports more drone sightings ahead of European summits",
       "Denmark reports new drone sightings over army bases, NATO ups surveillance"
     ],
     "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.976,
-      "consensus": 0.908,
+      "magnitude": 0.964,
+      "recency": 0.897,
+      "consensus": 0.995,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.791,
-    "summary_source": "gpt",
+    "score": 0.816,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Recent drone activity, including sightings over five Danish airports, has prompted Denmark to temporarily close several airports and raise security concerns. Ahead of two European leaders' summits, the Danish government announced a ban on all civilian drone flights this week, especially after drones were observed at military sites. This measure aims to enhance security amid the unexplained drone incursions.",
     "constructiveness_score": 0.0,
@@ -47,180 +165,142 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Red Roses Triumph at Rugby World Cup, Beat Canada at Battersea Celebration",
+    "title": "Giants' Malik Nabers Carted Off Field, Feared to Have Torn ACL",
     "domain": "sports",
-    "source_domain": "www.independent.co.uk",
+    "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Sun, 28 Sep 2025 15:45:10 +0000",
-    "source": "Yahoo Sports",
+    "published": "Sun, 28 Sep 2025 14:29:04 EST",
+    "source": "ESPN",
     "sources": [
+      "CBS Sports",
+      "ESPN",
       "Yahoo Sports",
-      "The Guardian",
-      "Sky Sports"
-    ],
-    "domains": [
-      "www.skysports.com",
-      "www.independent.co.uk",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "Rain could not England marked their World Cup win with a celebration event at Battersea Power Station",
-      "<p>Strength in depth was key, with 32 players contributing in a tournament in which John Mitchell’s side were rarely troubled</p><p><strong>Hannah Botterman</strong> <em>Bristol Bears</em> Wanted to prove she is the best loosehead prop in the world and duly delivered. England at times would have bee",
-      "In 2017 and 2022 England's Red Roses suffered crushing Rugby World Cup final defeats. On Saturday, they banished those demons to clinch final success over Canada."
-    ],
-    "image_url": "",
-    "titles": [
-      "England fans soak up celebrations as Red Roses mark Women’s Rugby World Cup triumph",
-      "England squad ratings: how all the Red Roses performed at Rugby World Cup",
-      "How England's Red Roses banished Rugby World Cup final demons"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.992,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.785,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "England's Red Roses celebrated their Rugby World Cup victory at Battersea Power Station, overcoming previous final defeats in 2017 and 2022 by winning against Canada on Saturday. The team's depth, with 32 players participating, played a crucial role in their largely untroubled tournament performance. Hannah Botterman, from Bristol Bears, stood out by proving herself as the world's best loosehead prop.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Zelenskyy Reports 500 Drones in Heavy Attack on Ukraine",
-    "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Sun, 28 Sep 2025 04:52:23 -0400",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "Al Jazeera",
-      "Washington Post"
-    ],
-    "domains": [
-      "www.washingtonpost.com",
-      "www.aljazeera.com",
-      "www.npr.org"
-    ],
-    "snippets": [
-      "Ukrainian President Volodymyr Zelenskyy said the large-scale attacks involved nearly 500 strike drones.",
-      "Russia has launched a heavy attack on Ukraine with hundreds of kamikaze drones hitting residential buildings in Kyiv.",
-      "Russia’s missile and drone attack came days after Ukrainian President Volodymyr Zelensky’s meeting with President Donald Trump at the U.N. General Assembly."
-    ],
-    "image_url": "",
-    "titles": [
-      "Large Russian drone and missile attack on Kyiv kills 4 and wounds at least 10",
-      "Heavy Russian drone attack kills at least four in Ukraine’s capital Kyiv",
-      "Four dead as massive Russian attack on Kyiv hits apartments, hospital"
-    ],
-    "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.859,
-      "consensus": 0.789,
-      "constructiveness": 0.1,
-      "proximity": 0.75
-    },
-    "score": 0.758,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Ukrainian President Volodymyr Zelenskyy reported nearly 500 strike drones were used in one of the heaviest attacks on Ukraine since the war began. This information is supported by media reports and independent monitors, highlighting the scale of the assault.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: support",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Hovland Withdraws from Ryder Cup, Singles Match Halved Due to Injury",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sun, 28 Sep 2025 15:54:08 GMT",
-    "source": "BBC",
-    "sources": [
-      "Yahoo Sports",
-      "BBC",
       "Sportsnet"
     ],
     "domains": [
       "sports.yahoo.com",
       "www.sportsnet.ca",
-      "www.sportingnews.com",
-      "www.bbc.com"
+      "www.espn.com",
+      "www.cbssports.com"
     ],
     "snippets": [
-      "Viktor Hovland's Ryder Cup singles match against Harris English is declared a half point for Europe and the US.",
-      "Norway's Viktor Hovland withdrew from the Ryder Cup on Sunday with a neck injury, a move that lifted Europe closer to a historic victory over the United States at Bethpage Black.&quot;There's nothing more I would like to do than be out there representing Team Europe and trying to help them win the R",
-      "Viktor Hovland withdrew from his singles match Sunday in the Ryder Cup, which also meant Harris English had an early end to his week.  Hovland and English were scheduled to meet in the final match.  Under the captain's agreement, that will be considered a halve.",
-      "The U.S. and Europe will be treated as a tie and each team will receive half a point.",
-      "The Norwegian last played in the final morning match on Saturday.",
-      "<p>Before even a single ball was hit on Sunday at the Ryder Cup, Team Europe inched slightly closer to victory.</p>"
+      "Giants star wide receiver Malik Nabers is feared to have a torn ACL, a source told ESPN.",
+      "Nabers jumped for a high pass and was writhing in pain when he landed",
+      "Giants WR Malik Nabers is feared to have torn ACL. We look at the fantasy football impact for the rest of 2025 and beyond.",
+      "<p>New York Giants star wide receiver Malik Nabers was carted from the field with an apparent injured right leg in the second quarter against the Los Angeles Chargers on Sunday.</p>"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c517/live/a6130ac0-9c83-11f0-95c6-7592d7636e22.jpg",
+    "image_url": "",
     "titles": [
-      "Injured Hovland ruled out of Ryder Cup singles",
-      "Injured Hovland withdraws from Ryder Cup as Europe moves closer to win",
-      "Viktor Hovland out of Ryder Cup singles with injury. Harris English has to sit",
-      "Ryder Cup: Europe's Viktor Hovland forced to withdraw from Sunday singles with a neck injury",
-      "Viktor Hovland injury update: Golfer scratched from Sunday singles at Ryder Cup with neck soreness",
-      "Viktor Hovland withdraws from Ryder Cup, moving Europe closer to victory"
+      "Source: Giants' Nabers feared to have torn ACL",
+      "Malik Nabers injury: Giants star WR believed to have torn ACL against Chargers, per report",
+      "Fantasy Football Fallout of Malik Nabers injury: How Giants WR's potential torn ACL impacts lineups",
+      "Giants’ Malik Nabers carted off, believed to have suffered torn ACL"
     ],
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.974,
-      "consensus": 0.809,
+      "magnitude": 0.892,
+      "recency": 0.966,
+      "consensus": 0.908,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.737,
+    "score": 0.807,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Viktor Hovland withdrew from the Ryder Cup due to a neck injury, resulting in his singles match against Harris English being declared a half point for both Europe and the US. This decision, made before play on Sunday, moved Europe closer to a historic victory at Bethpage Black. Hovland last competed on Saturday, and his withdrawal marked an early conclusion to English's participation in the event.",
+    "summary": "New York Giants wide receiver Malik Nabers suffered an apparent right leg injury after jumping for a pass against the Los Angeles Chargers. He was carted off the field in pain. Sources fear Nabers has a torn ACL, which could significantly impact his availability for the rest of the 2025 season and potentially beyond.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "UK Backs £1.5bn Loan for JLR to Recover from Cyber-Attack, Restart Production",
+    "title": "Steelers' Skylar Thompson Robbed, Incident Under Investigation",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 13:49:02 EST",
+    "source": "ESPN",
+    "sources": [
+      "CBS Sports",
+      "ESPN",
+      "The Guardian",
+      "Sportsnet"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.sportsnet.ca",
+      "www.espn.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Steelers quarterback Skylar Thompson was robbed in Ireland on Friday night, sources told ESPN's Brooke Pryor. Thompson is on IR with a hamstring injury, but traveled with the team for Sunday's game against the Vikings.",
+      "The incident occurred on Friday night",
+      "<ul><li><p>Ireland hosts country’s first NFL regular-season game </p></li><li><p>Steelers backup QB was ‘jumped and robbed’ on Friday</p></li></ul><p>Kenneth Gainwell ran for 99 yards and two touchdowns and the Pittsburgh Steelers held on to beat the Minnesota Vikings 24-21 on Sunday in Ireland’s fi",
+      "<p>The Pittsburgh Steelers confirmed that backup quarterback Skylar Thompson was involved in an incident Friday night after a report that the player had been robbed.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Sources: Steelers QB Thompson robbed in Dublin",
+      "Steelers QB Skylar Thompson jumped, robbed in Ireland, suffers minor injuries",
+      "Steelers beat Vikings in Dublin after Pittsburgh’s Thompson injured in robbery",
+      "Report: Steelers backup QB Skylar Thompson robbed in Dublin"
+    ],
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.952,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.805,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The Pittsburgh Steelers confirmed that backup quarterback Skylar Thompson was involved in an incident on Friday night, following reports that he was robbed. The current status of the situation is under investigation.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Moldova Votes in Key Election Amid Cyberattacks, Eyes on EU Path",
     "domain": "business",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Sun, 28 Sep 2025 15:38:20 GMT",
+    "published": "Sun, 28 Sep 2025 19:59:36 GMT",
     "source": "BBC",
     "sources": [
-      "Financial Times",
+      "New York Times",
+      "BBC",
       "The Guardian",
-      "BBC"
+      "Financial Post"
     ],
     "domains": [
-      "www.ft.com",
       "www.theguardian.com",
-      "www.bbc.com"
+      "www.nytimes.com",
+      "www.bbc.com",
+      "financialpost.com"
     ],
     "snippets": [
-      "Liam Byrne spoke after the government announced it was backing a £1.5bn loan to the company, and warned cyber-attacks could become more common.",
-      "Carmaker receives official backing after cyber attack that has halted production",
-      "<p>Britain’s largest automotive employer plans to restart engine manufacturing in early October, report says</p><p>The government has said it will underwrite a £1.5bn loan guarantee to Jaguar Land Rover (JLR) as the carmaker battles the consequences of a recent cyber-attack.</p><p>JLR had to suspend"
+      "The vote is seen as critical for Moldova's future EU path, with the two main political forces thought to be neck and neck.",
+      "<p>Day marked by attempts of disruption including cyberattacks on election systems and fake bomb threats</p><p>Moldovans voted in a pivotal parliamentary election on Sunday that will decide whether the country of 2.4 million stays on its path towards EU membership or drifts back into Moscow’s orbit,",
+      "Parliamentary elections in this nation bordering Ukraine come at a critical moment in Moldova’s push for European Union membership.",
+      "CHISINAU, Moldova (AP) &#8212; Moldovans are awaiting the results of their closely-watched parliamentary election Sunday, a race fraught with claims of Russian interference. Many viewed the ballot as a geopolitical choice between a path to the European Union or a drift back into Moscow&#8217;s fold."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d262/live/65281cd0-9c5b-11f0-b66e-67a4632b8ff2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
     "titles": [
-      "Jaguar Land Rover may need more than £1.5bn government loan guarantee, MP says",
-      "‘Moral hazard’ warning after £1.5bn government loan guarantee for JLR",
-      "UK government will underwrite £1.5bn loan guarantee to Jaguar Land Rover after cyber-attack"
+      "Moldovans await pivotal election result as leader warns of Russian interference",
+      "Moldovans vote in pivotal election that could steer it closer to EU or Russia",
+      "For Many Moldovans, Their Election Is a Choice Between Russia and the E.U.",
+      "Moldova awaits election results in vote plagued by Russian interference claims"
     ],
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.969,
-      "consensus": 0.789,
+      "magnitude": 0.892,
+      "recency": 0.976,
+      "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.731,
-    "summary_source": "cache",
+    "score": 0.784,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The UK government has underwritten a £1.5bn loan guarantee to Jaguar Land Rover (JLR), Britain's largest automotive employer, to help it recover from a cyber-attack and restart engine manufacturing in early October. This move, involving a loan from a commercial bank backed by UK Export Finance, aims to protect the automotive supply chain and provide certainty to suppliers.",
+    "summary": "Moldova held a closely-watched parliamentary election, seen as pivotal for its EU membership aspirations. The election day faced disruptions, including cyberattacks and fake bomb threats. The outcome will influence whether Moldova continues towards the EU or shifts back towards Russian influence. Results are awaited amid claims of Russian interference.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -234,35 +314,37 @@
     "source": "NPR",
     "sources": [
       "NPR",
+      "New York Times",
       "Al Jazeera",
-      "New York Times"
+      "BBC"
     ],
     "domains": [
-      "www.aljazeera.com",
       "www.npr.org",
-      "www.nytimes.com"
+      "www.aljazeera.com",
+      "www.nytimes.com",
+      "www.bbc.com"
     ],
     "snippets": [
       "A stampede at a rally for a popular Indian actor and politician in the southern state of Tamil Nadu killed at least 36 people and injured 40 others.",
+      "Tens of thousands had gathered at a campaign event for actor-turned-politician Vijay in India's southern state of Tamil Nadu.",
       "A crowd crush at a campaign rally for popular actor-turned-politician Vijay has killed at least 39 people in Karur.",
-      "Crush at actor-politician Vijay’s rally in Tamil Nadu kills 39 people, including eight children; 40 others injured.",
       "The stampede took place at an event for Joseph Vijay Chandrasekhar, the popular actor known professionally as Vijay."
     ],
     "image_url": "",
     "titles": [
       "Stampede at a political rally for popular actor Vijay in southern India kills 36, injures 40",
+      "At least 40 dead in crush at political rally in India",
       "Crowd crush kills dozens in India at political rally for Tamil actor Vijay",
-      "Crowd crush at political rally in southern India kills 39 people",
       "Stampede at Actor’s Political Rally Kills at Least 38 in India"
     ],
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.821,
-      "consensus": 0.789,
+      "magnitude": 0.892,
+      "recency": 0.755,
+      "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.726,
+    "score": 0.765,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "A stampede at a campaign rally in Tamil Nadu for actor-turned-politician Joseph Vijay Chandrasekhar, known as Vijay, resulted in at least 39 deaths, including eight children, and injured 40 others. The incident occurred in Karur during an event for the popular Indian actor and politician.",
@@ -271,163 +353,42 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Selena Gomez and Benny Blanco Wed in California, Celebrities Attend",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sun, 28 Sep 2025 08:05:20 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC",
-      "CityNews"
-    ],
-    "domains": [
-      "ottawa.citynews.ca",
-      "www.theguardian.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "Gomez shared pictures online of her in a white wedding gown, and guests included Taylor Swift and actor Paul Rudd.",
-      "<p>Emmy- and Grammy-nominated performer announces marriage online with photos from California ceremony</p><p>Emmy- and Grammy-nominated performer <a href=\"https://www.theguardian.com/film/selena-gomez\">Selena Gomez</a> has married music producer and songwriter Benny Blanco, announcing the news in an",
-      "SANTA BARBARA, Calif. (AP) — Selena Gomez has married music producer and songwriter Benny Blanco, announcing the news in an Instagram post showing the couple kissing and embracing on a lawn. “My wife in real life,” Blanco responded to the post Saturday by the Grammy- and Emmy-nominated performer. Go"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b59/live/c9307e00-9c3a-11f0-b741-177e3e2c2fc7.png",
-    "titles": [
-      "Selena Gomez marries music producer Benny Blanco",
-      "Selena Gomez marries music producer Benny Blanco: ‘My wife in real life’",
-      "Selena Gomez marries Benny Blanco: ‘My wife in real life’"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.828,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.702,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Selena Gomez married music producer and songwriter Benny Blanco in California, announcing their marriage with photos online. The ceremony was attended by celebrities including Taylor Swift and Paul Rudd. Blanco and Gomez shared their joy on Instagram, with Blanco referring to Gomez as \"my wife in real life.\"",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Gaza Health Ministry: 66,000 Palestinians Dead in Israel-Hamas War",
-    "domain": "general",
+    "title": "Ryder Cup Announcer Resigns, Apologizes for McIlroy Chant Incident",
+    "domain": "sports",
     "source_domain": "www.npr.org",
     "location": "national",
-    "published": "Sun, 28 Sep 2025 11:51:52 -0400",
+    "published": "Sun, 28 Sep 2025 14:44:29 -0400",
     "source": "NPR",
     "sources": [
       "NPR",
-      "CityNews"
+      "Sky Sports",
+      "The Guardian"
     ],
     "domains": [
       "www.npr.org",
-      "ottawa.citynews.ca"
-    ],
-    "snippets": [
-      "The death toll in the Israel-Hamas war has topped 66,000 Palestinians, Gaza's Health Ministry said, a day before the Israeli Prime Minister heads for talks with U.S. President Donald Trump.",
-      "CAIRO (AP) — The death toll in the Israel-Hamas war has topped 66,000 Palestinians, Gaza’s Health Ministry said Sunday, a day before Israeli Prime Minister Benjamin Netanyahu heads to the White House for talks with U.S. President Donald Trump on halting Israel’s ongoing offensive in Gaza City. Israe"
-    ],
-    "image_url": "",
-    "titles": [
-      "Palestinian death toll tops 66,000 as Netanyahu prepares to meet Trump",
-      "Palestinian death toll tops 66,000 as Netanyahu prepares to meet Trump"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.994,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.686,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Gaza Health Ministry reports over 66,000 Palestinians have died in the Israel-Hamas war. This announcement comes as Israeli Prime Minister Benjamin Netanyahu prepares for discussions with U.S. President Donald Trump aimed at stopping Israel's offensive in Gaza City.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "President Orders Troops to Portland to Guard Immigration Sites",
-    "domain": "general",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-09-27T17:21:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "Deutsche Welle",
-      "ABC News",
-      "Axios"
-    ],
-    "domains": [
-      "abcnews.go.com",
-      "news.google.com",
-      "www.dw.com"
-    ],
-    "snippets": [
-      "US President Donald Trump claimed that Antifa is waging \"war\" on the famously progressive city. Portland's mayor has rejected these claims.",
-      "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5PWU9Wdzh0Vmo1QlBWYjhpaTdpU2dFeV9ZcFVUVFN0SXl2SnhVOHlDTUNjdGV6YnVqQ20xQWVzdmpIZlo2ZGkwdUFib3ZHMGNXSXoyaWJIdjZuVmZ0cXg1QWN3VGdNd0UzRlN3NUJFMElTVFk?oc=5\" target=\"_blank\">Trump directs troops to Portland with \"full force\" directive</a>&nbsp;&n",
-      "President Trump on Saturday said he ordered the deployment of troops to Portland to combat alleged domestic terrorists."
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump sends troops to Portland over 'domestic terrorists'",
-      "Trump directs troops to Portland with \"full force\" directive - Axios",
-      "Trump admin live updates: Gov. says 'no need' after Trump directs troops to Portland"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.622,
-      "consensus": 0.789,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.671,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The president has directed troops to Portland with a \"full force\" directive, stating it is necessary to protect immigration detention facilities from what he terms \"domestic terrorists.\" This action is part of a broader initiative to address security concerns at these facilities.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: initiative",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Ryder Cup Announcer Resigns, Apologizes for McIlroy Chant Incident",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Sun, 28 Sep 2025 07:48:10 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Sky Sports"
-    ],
-    "domains": [
-      "www.espn.com",
+      "www.theguardian.com",
       "www.skysports.com"
     ],
     "snippets": [
-      "A master of ceremonies has stepped down from her role at the Ryder Cup after joining the Bethpage Black crowd in directing expletive-laced chants toward Rory McIlroy.",
+      "Some of the golf at this year's Ryder Cup has been overshadowed by interventions from passionate and unruly fans, as Americans tee off against Europeans in one of the sport's biggest events.",
+      "<ul><li><p>Heather McMahan led crowd in chant at Bethpage</p></li><li><p>PGA of America apologised 20 hours later</p></li></ul><p>The comedian employed to warm up the crowd at the Ryder Cup has apologised and stepped down from her job before the final day’s play after she was recorded leading a foul",
       "The Ryder Cup first-tee announcer who encouraged expletive-filled chants at Rory McIlroy has apologised and stepped down, the PGA of America has confirmed."
     ],
     "image_url": "",
     "titles": [
-      "Bethpage MC steps down over vulgar Rory chants",
+      "Ryder Cup MC steps down over foul-mouthed chant aimed at golfer Rory McIlroy",
+      "Ryder Cup MC apologises and steps down over foul-mouthed McIlroy chant",
       "Ryder Cup MC steps down after encouraging expletive-filled Rory chants"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.913,
-      "consensus": 0.591,
+      "magnitude": 0.827,
+      "recency": 0.971,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.663,
-    "summary_source": "gpt",
+    "score": 0.756,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The first-tee announcer at the Ryder Cup, who prompted the crowd to chant expletives at Rory McIlroy, has apologized and resigned from her role, as confirmed by the PGA of America.",
     "constructiveness_score": 0.0,
@@ -435,319 +396,567 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Winnipeg Jets Secure First Preseason Win; Samberg Injured",
+    "title": "Vehicle Rams into Michigan Church, 10 Shot, 1 Dead",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 19:21:07 GMT",
+    "source": "Axios",
+    "sources": [
+      "Fortune",
+      "ABC News",
+      "Axios"
+    ],
+    "domains": [
+      "fortune.com",
+      "news.google.com",
+      "abcnews.go.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5NcHRocmd0LUd6V0hvM29zeWFtN3V3cUVYa012VFdGeFhBV3hYUU9aWndYTXRtMFYxcHBndVNITnI3LXl6SWtIUk5NdVlwYXBnd0liZDlTNUhTZlpoSVFNT0R3VjFjbVRxLU5BSUR1OFE1ZmtRMkNSX1NaRm1jRjQ?oc=5\" target=\"_blank\">Ten shot, 1 killed at Michigan church and fire set \"deli",
+      "Multiple people were shot Sunday at the Church of Latter Day Saints in Grand Blanc, Michigan, police said.",
+      "Hundreds of people were inside The Church of Jesus Christ of Latter-day Saints in Grand Blanc Township when a man rammed his vehicle into the front door then started shooting."
+    ],
+    "image_url": "",
+    "titles": [
+      "Ten shot, 1 killed at Michigan church and fire set \"deliberately,\" police say - Axios",
+      "At least 10 shot, 2 fatally, at Michigan church set on fire by the gunman: Police",
+      "Gunman sets Michigan church on fire while killing at least 1 person and injuring 9, police say"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.963,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.729,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A man attacked the Church of Jesus Christ of Latter-day Saints in Grand Blanc, Michigan, by ramming his vehicle into the church's front door and opening fire while hundreds were inside. The incident resulted in ten people being shot, with one fatality confirmed by police.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Gabriel's Late Goal Seals Arsenal Comeback Win at Newcastle",
+    "domain": "sports",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 19:00:04 GMT",
+    "source": "BBC",
+    "sources": [
+      "Sky Sports",
+      "BBC",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.skysports.com",
+      "www.theguardian.com",
+      "www.bbc.com"
+    ],
+    "snippets": [
+      "Gabriel scores a 96th-minute winner as Arsenal come from behind to beat Newcastle United in the Premier League at St James' Park.",
+      "<p>During a year as a Newcastle midfielder under Rafael Benítez, Mikel Merino struggled to settle in the north-east and departed for Real Sociedad without offering Tynesiders more than a few glimpses of his best work.</p><p>Much to Eddie Howe’s chagrin, Merino jogged a few memories here as, seven ye",
+      "Gabriel scored a stoppage-time winner for Arsenal following a brilliant corner from Martin Odegaard in the Gunners' Premier League clash with Newcastle."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b7d/live/91577550-9c9a-11f0-92db-77261a15b9d2.jpg",
+    "titles": [
+      "Late Gabriel winner snatches victory for Arsenal at Newcastle",
+      "Gabriel Magalhães stuns Newcastle with last-gasp comeback winner for Arsenal",
+      "What a moment! Gabriel heads in 96th-min winner to seal EPIC Arsenal comeback"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.956,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.728,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Gabriel scored in the 96th minute to secure a comeback victory for Arsenal against Newcastle United in the Premier League at St James' Park. The decisive goal came from a corner by Martin Odegaard, allowing Arsenal to win the match.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Al Horford Joins Golden State Warriors with Multi-Year Deal",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 17:05:42 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Forbes",
+      "CBS Sports",
+      "Sportsnet"
+    ],
+    "domains": [
+      "www.forbes.com",
+      "www.sportsnet.ca",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Horford is the latest apron casualty for the Celtics and now can chase a title with the Warriors",
+      "Al Horford has signed a multi-year deal with the Golden State Warriors according to ESPN’s Shams Charania. The 19th year veteran looks to add to the Warriors reserves.",
+      "<p>The Golden State Warriors have made a big late off-season addition. Al Horford has agreed on a multi-year contract with the club, ESPN&#8217;s Shams Charania reported on Sunday.</p>"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/07/02/e37794ee-1f1c-43ec-aa2e-21b615f92115/horford-getty.png",
+    "titles": [
+      "Al Horford signing with Warriors: Celtics legend lands in Golden State for 19th NBA season, per report",
+      "Al Horford Signs Multi-Year Deal With Golden State Warriors",
+      "Report: Al Horford joins Warriors on multi-year contract"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.938,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.724,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Al Horford, a 19-year veteran of the NBA, has signed a multi-year contract with the Golden State Warriors, as reported by ESPN's Shams Charania. This move adds Horford to the Warriors' bench, strengthening their lineup as they aim for another title.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "UN Reimposes Sanctions on Iran Over Nuclear Concerns",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 01:29:33 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "The Guardian",
+      "ABC News"
+    ],
+    "domains": [
+      "www.npr.org",
+      "www.theguardian.com",
+      "abcnews.go.com"
+    ],
+    "snippets": [
+      "The United Nations reimposed sanctions on Iran early Sunday over its nuclear program, further squeezing the Islamic Republic as its people increasingly find themselves priced out of the food they need to survive and worried about their futures.",
+      "The United Nations has reimposed sanctions on Iran over its nuclear program",
+      "<p>Foreign ministry attacks ‘unjustifiable’ return of measures expected to have wide effects on troubled economy</p><p>Widespread UN sanctions against Iran have come back into force for the first time in a decade, prompting anger from Tehran, after last-ditch nuclear talks with western powers failed"
+    ],
+    "image_url": "",
+    "titles": [
+      "UN imposes 'snapback' sanctions on a hungrier, poorer and more anxious Iran",
+      "UN imposes 'snapback' sanctions on Iran over its nuclear program",
+      "Iran angry as sweeping UN sanctions take effect after failure of nuclear talks"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.737,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.709,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The United Nations has reimposed sanctions on Iran due to concerns over its nuclear program, marking the first return of such measures in a decade. This decision comes after nuclear talks with Western powers failed, significantly affecting Iran's already troubled economy and exacerbating the financial difficulties faced by its citizens. Tehran has criticized the sanctions as \"unjustifiable.\"",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Anthony Stolarz Secures 4-Year, $15M Deal with Toronto Maple Leafs",
     "domain": "sports",
     "source_domain": "globalnews.ca",
     "location": "national",
-    "published": "Sun, 28 Sep 2025 02:38:06 +0000",
+    "published": "Sun, 28 Sep 2025 19:07:34 +0000",
     "source": "Global News",
     "sources": [
-      "Global News",
-      "NHL"
+      "NHL",
+      "Global News"
     ],
     "domains": [
       "globalnews.ca",
       "news.google.com"
     ],
     "snippets": [
-      "Walker Duehr, Nikita Chibrikov, Parker Ford and Neal Pionk scored for the Jets in their first win of the preseason but Dylan Samberg left the game with an injury.",
-      "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWldDUVZmd0xCaDBUUGZMVHlJSlgwblJ5SjRlaTZ6dkdNNXl1dTViLXliN0lfMGFoSFRXcWpyX2pzNzlRS1hvUm1nMmRnZjlrQzZ6Ny13Qm4yR3M3Uk53ZXhmcDhDSXZwZHV5Ujl6WlJ3cVpiWWxtcnBIbUlpZHM1bmVyaw?oc=5\" target=\"_blank\">THREE THINGS: Jets record first win of preseason<",
-      "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kYVNPbUN2Wk1IYUxPTkZja2x3aTNFVm01M2VjMjRRNW5QQ25DSHN3RHcxTnA3cTlEZGQ0aEhndG5FWEFPY3dPVjloNUpvNmNUX3BDRzlKQmU0azZsWVRxak9pR1c?oc=5\" target=\"_blank\">Avalanche Outshine Stars with 4-1 Win in Preseason Action</a>&nbsp;&nbsp;<font color=\"#6f6f6"
+      "Goalie Anthony Stolarz and the Toronto Maple Leafs have agreed to a four-year contract extension.",
+      "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGNCc2ZOOWZmNE9oQzBob0NkTFpNUjZ5aFdGZlI4cHI4c0FRTXJoWDBQdEE0SFJYYkJRQzR6QnZubl8wcGtleGs0M2tvOUtjOTVQZ04zV2NWRzY3eFpkU3o2dmpBQVYtdnFUay1HMnZZVnlNa3o5RXc5RW5INldzeGhPSkNDQm0zVzJFRmhYbnJmSVU?oc=5\" target=\"_blank\">Stolarz signs 4-year, $15 mi",
+      "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPYThrdnVUZVdLeHRIaFMybEkyNTFzUlRKeFVfVzIwRFFaTi1pLUtJWEtsVkt0OXBnbHZLLWk3eXlyV1gxdVJmRHM3WFRlQXU5RW5KeVFTTldxdm9EcVI0NTdpM2dyTWNaeHZWNmh4Ui1MM1JNNFVYb2dCSXFQdG96Y0xxQQ?oc=5\" target=\"_blank\">Fowler signs 3-year, $18.3 million contract with ",
+      "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNcW5fWUdQQ2FLQUlmMXB3eHNab0F3ektUUXVVTEhVb202ckFLRUxOV2d6X1lWanV5bGRlUVpfLWZJRmV3R1RPRjN6d2c2eG0yX2tVS1ExbFE3cFAwVGg5bTVJZmV1bHhpY3lWT1dvTTlLelVKZTdPcWlIQmNRYTd6X0V0amRlWVU?oc=5\" target=\"_blank\">McTavish signs 6-year contract with Ducks</a"
     ],
-    "image_url": "",
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/bf7a3286377e0a5839a285ffdce045e381f0b808bcacf3e801dd6e6e4377e00b.jpg?quality=65&strip=all",
     "titles": [
-      "Winnipeg Jets notch first win of the preseason, downing Calgary 4-2",
-      "THREE THINGS: Jets record first win of preseason - NHL.com",
-      "Avalanche Outshine Stars with 4-1 Win in Preseason Action - NHL.com"
+      "Stolarz signs four-year extension with Maple Leafs",
+      "Stolarz signs 4-year, $15 million contract with Maple Leafs - NHL.com",
+      "Fowler signs 3-year, $18.3 million contract with Blues - NHL.com",
+      "McTavish signs 6-year contract with Ducks - NHL.com"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.755,
+      "recency": 0.979,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.656,
+    "score": 0.701,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "In their first preseason victory, the Winnipeg Jets saw goals from Walker Duehr, Nikita Chibrikov, Parker Ford, and Neal Pionk. However, the win was marred by an injury to Dylan Samberg, who had to leave the game. The current status of Samberg's injury was not disclosed.",
+    "summary": "Anthony Stolarz has signed a four-year, $15 million contract extension with the Toronto Maple Leafs, securing his position as a goalie for the team. This agreement reflects the team's commitment to Stolarz as a key player in their lineup.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "College Football Rankings Updated After Major Upsets",
+    "title": "Michael A. Taylor Retires Before Season Finale After 12 MLB Seasons",
     "domain": "sports",
-    "source_domain": "www.nbcsports.com",
+    "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Sun, 28 Sep 2025 15:43:46 +0000",
-    "source": "Yahoo Sports",
+    "published": "Sun, 28 Sep 2025 15:03:24 EST",
+    "source": "ESPN",
     "sources": [
-      "Yahoo Sports",
-      "Sports Illustrated"
+      "ESPN",
+      "Sportsnet"
     ],
     "domains": [
-      "news.google.com",
-      "www.nbcsports.com"
+      "www.sportsnet.ca",
+      "www.espn.com"
     ],
     "snippets": [
-      "Vaughn Dalzell shares his College Football top 25 following all of the upsets, including Oregon's win over Penn State and Alabama's upset vs Georgia!",
-      "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOcm15VGdTeEFXT0ZWbWFGUkRRYUtERUlsUElmMWZxRW5WMU5BRjZDOUlBSW5SVkJ4dERzMmtwWGE4UmpfZmg2RnhIdDJsR2xPUmxmMkczNTFVU3lGc1dLUFpSQnpRVWZfcGJhWVdVanRWamhQX3hMUDFqNFhwZC14Q0dLSjlRSUVRZHJnRHgzZw?oc=5\" target=\"_blank\">Projecting the College Football A",
-      "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmNmOG9oOG1oMkZ6UVd4Um82cmdpUjhzbUcwLU81M0F0bEF4cFJ3M3BneVJhSGs5YU1OOHBqWUFTdEVlY2ZnbV84dTIwRGlvbW5WdkpJWmNCTGtUcmVjby1aWnhHeENIQ21PYy1fSGxoblZnTi03WDFPOHNKUFBtQlVmZjdRc1R4cDM2OVh3?oc=5\" target=\"_blank\">Ranking the Top Five Heisman Trophy"
+      "White Sox outfielder Michael A. Taylor announced his retirement after 12 MLB seasons. He also played for the Nationals, Royals, Twins and Pirates in his career.",
+      "<p>Chicago White Sox outfielder Michael A. Taylor announced his retirement before Sunday’s season finale against the Washington Nationals.</p>"
     ],
     "image_url": "",
     "titles": [
-      "2025 College Football Rankings Week 6 Top 25: New No. 1! Oregon, Alabama, and Ole Miss shake up polls",
-      "Projecting the College Football AP Top 25 for Week 6 - Sports Illustrated",
-      "Ranking the Top Five Heisman Trophy Candidates After College Football's Week 5 - Sports Illustrated"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.991,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.653,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Vaughn Dalzell has updated his College Football top 25 rankings following significant upsets, including Oregon's victory over Penn State and Alabama's surprising loss to Georgia. These changes reflect the latest shifts in college football dynamics.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "British Singer Lola Young Collapses on Stage in New York, Says She's \"OK\"",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sun, 28 Sep 2025 14:03:32 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "Lola Young was performing at a festival when she appeared to drop her microphone and fall backwards.",
-      "<p>British singer thanks fans for support after incident at gig, during which she had told crowd of ‘tricky couple of days’</p><p>The British singer Lola Young has said she is “doing OK” after collapsing on stage during a festival performance in New York.</p><p>In footage posted on social media, the"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/152d/live/a091b3f0-9c77-11f0-8277-67a32d4ec754.jpg",
-    "titles": [
-      "Lola Young 'doing OK' after collapsing on stage during gig",
-      "Lola Young ‘doing OK’ after collapsing on stage at festival in New York"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.938,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.65,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "British singer Lola Young collapsed on stage during a New York festival performance after mentioning she had a \"tricky couple of days.\" She later assured fans she is \"doing OK\" through social media. The incident involved her dropping her microphone and falling backwards, which was captured in online footage.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Jaxson Dart Named Giants QB1 Ahead of Week 4 Clash With Chargers",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Sun, 28 Sep 2025 15:00:52 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "CBS Sports",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "www.bigblueview.com",
-      "www.cbssports.com"
-    ],
-    "snippets": [
-      "Jaxson Dart gets the QB1 nod for the Giants while the Chargers are looking for a 4-0 start",
-      "A matchup of two big Week 3 winners",
-      "What will happen in Jaxson Dart’s debut?"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/27/2d823bc1-dd24-4f77-9235-b27c43070475/untitled-design-2025-09-27t023126-697.png",
-    "titles": [
-      "Where to watch Giants vs. Chargers: TV channel, live stream, prediction, pick, odds",
-      "Where to watch Browns at Lions TV channel, live stream, prediction, pick, odds, spread",
-      "Giants vs. Chargers, Week 4: Live updates"
+      "White Sox OF Taylor retiring after 12 MLB seasons",
+      "White Sox outfielder Michael A. Taylor announces retirement after 12 seasons"
     ],
     "score_components": {
       "magnitude": 0.735,
       "recency": 0.977,
       "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.65,
+    "score": 0.675,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Jaxson Dart was named the starting quarterback (QB1) for the New York Giants. In Week 4, the Giants face the Los Angeles Chargers, who are aiming for a 4-0 start to the season. This game follows victories for both teams in Week 3. The outcome of Dart's debut as QB1 remains to be seen.",
+    "summary": "Michael A. Taylor, an outfielder for the Chicago White Sox, announced his retirement before the season finale against the Washington Nationals. Taylor's career spanned 12 MLB seasons, during which he also played for the Nationals, Royals, Twins, and Pirates.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Aston Villa Secures 3-1 Victory Over Fulham in Premier League Match",
+    "title": "Arkansas Dismisses Coach Pittman, Names Petrino Interim After Notre Dame Loss",
     "domain": "sports",
-    "source_domain": "www.theguardian.com",
-    "location": "global",
-    "published": "Sun, 28 Sep 2025 15:50:21 GMT",
-    "source": "The Guardian",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 13:14:22 EST",
+    "source": "ESPN",
     "sources": [
-      "The Guardian",
-      "Sports Illustrated"
+      "Sports Illustrated",
+      "ESPN"
     ],
     "domains": [
       "news.google.com",
-      "www.theguardian.com"
+      "www.espn.com"
     ],
     "snippets": [
-      "<p>⚽️ Premier League updates from 4.30pm BST<br />⚽️ <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Sign up for Football Daily</a> | <a href=\"https://www.theguardian.com/football/live/2025/sep/28/aston-villa-v-fulham-premier-league-live\">Aston Villa 3-1 Fulham</a",
-      "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmZQVmxWUHZCQm9SejRDSENoYk5nR2htWVZjdk1vRXhsYkxKSjFPOE1hWnpwVzhkdUV2V1BVM3Y5Q1NXUk50a1p6b1VuN0VndmQ1YmkyaWVhcU5FTjhQcVdMSlZYWWkwaUROS1haR3I0UGFQd2otVnZkUjJ2bGxwSjNZbW4yTVNhaEE?oc=5\" target=\"_blank\">How to Watch Newcastle vs. Arsenal on TV"
+      "Arkansas has fired coach Sam Pittman after a blowout home loss to Notre Dame and named Bobby Petrino as interim coach.",
+      "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOVDZ5WURqQjg3WVNoRkJReEdXSEVRVUNqQl9VeTZQUmV0eldHQlpDWThCRGhObUhCQ1dmX3JrRUxBTkstbTRjdERaTzhQR2RVNVFGY1RzTGFhX1Y4Y2VxQ2NZRXA4TjJheVAwYUkxMWQxYW9HZUZDc0NNX1otUEJUcDlIdlVvN3JFbUhyNVRjN2J1WjlSZVhaWldfcw?oc=5\" target=\"_blank\">Arkansas Fires He"
     ],
-    "image_url": "https://i.guim.co.uk/img/media/b98114b481e8d006b1e545995c59c481acc126f0/385_0_4005_3206/master/4005.jpg?width=140&quality=85&auto=format&fit=max&s=67f5430aea78b19b2528ef10881fcd7e",
+    "image_url": "",
     "titles": [
-      "Newcastle v Arsenal: Premier League – live",
-      "How to Watch Newcastle vs. Arsenal on TV, Live Stream - Sports Illustrated"
+      "Arkansas fires Pittman, names Petrino interim",
+      "Arkansas Fires Head Coach Sam Pittman After Blowout Loss to Notre Dame - Sports Illustrated"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.973,
+      "recency": 0.941,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.668,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Arkansas has fired coach Sam Pittman following a significant home loss to Notre Dame. Bobby Petrino has been named as the interim coach. The decision comes after the blowout defeat, signaling a change in leadership for the team.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Merseyside Police Arrest Protesters at Labour Conference in Liverpool",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 17:05:04 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.bbc.com"
+    ],
+    "snippets": [
+      "Merseyside Police says arrests were made on suspicion of supporting the proscribed group.",
+      "<p>Defend Our Juries says about 100 people had gathered holding signs outside conference venue in Liverpool</p><p>Police have arrested protesters on suspicion of supporting the banned group Palestine Action outside the Labour party conference in Liverpool.</p><p>About 100 people gathered silently on"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ff/live/3bfe3980-9c87-11f0-95c6-7592d7636e22.jpg",
+    "titles": [
+      "Arrests at protest supporting Palestine Action near Labour conference",
+      "‘Dozens’ arrested at Palestine Action protest outside Labour party conference"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.919,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.649,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Merseyside Police arrested protesters outside the Labour party conference in Liverpool for allegedly supporting the banned group Palestine Action. Approximately 100 individuals had gathered silently with signs at the event, as reported by Defend Our Juries.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: support",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Global Citizen Festival with Shakira, Cardi B Exceeds Fundraising Goals",
+    "domain": "business",
+    "source_domain": "financialpost.com",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 16:23:34 +0000",
+    "source": "Financial Post",
+    "sources": [
+      "CityNews",
+      "Financial Post"
+    ],
+    "domains": [
+      "ottawa.citynews.ca",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "NEW YORK (AP) &#8212; Global Citizen surpassed its fundraising goals for Amazon rainforest protection, African energy access and community education at the antipoverty nonprofit&#8217;s annual music festival in New York&#8217;s Central Park, headlined by Shakira and late addition Cardi B. Internatio",
+      "NEW YORK (AP) — Global Citizen surpassed its fundraising goals for Amazon rainforest protection, African energy access and community education at the antipoverty nonprofit’s annual music festival in New York’s Central Park, headlined by Shakira and late addition Cardi B. Internationally recognized a"
+    ],
+    "image_url": "",
+    "titles": [
+      "Tyla and Liza Koshy help remind the Global Citizen Festival audience of their collective power",
+      "Tyla and Liza Koshy help remind the Global Citizen Festival audience of their collective power"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.925,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.65,
+    "score": 0.647,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Aston Villa defeated Fulham 3-1 in the Premier League match. To watch Newcastle vs. Arsenal on TV, follow the provided link. The outcome of the Aston Villa vs. Fulham game is a 3-1 victory for Aston Villa.",
+    "summary": "Global Citizen's annual music festival in Central Park, New York, featuring Shakira and Cardi B, exceeded its fundraising targets for Amazon rainforest protection, African energy access, and community education.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "West Revives UN Resolutions Against Iran; Inflation, Shortages Plague Nation",
+    "title": "Swiss Voters Narrowly Approve Electronic ID Cards in Referendum",
     "domain": "general",
-    "source_domain": "www.aljazeera.com",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Sun, 28 Sep 2025 09:48:12 +0000",
-    "source": "Al Jazeera",
+    "published": "Sun, 28 Sep 2025 15:55:38 GMT",
+    "source": "BBC",
     "sources": [
-      "Al Jazeera",
-      "New York Times"
+      "BBC",
+      "The Guardian"
     ],
     "domains": [
-      "www.aljazeera.com",
-      "www.nytimes.com"
+      "www.theguardian.com",
+      "www.bbc.com"
     ],
     "snippets": [
-      "Six UN resolutions against Iran are automatically revived by the West as Iran and Russia call the move &#039;null and void&#039;.",
-      "Already suffering a 40 percent inflation rate and critical shortages of power and water, many in Iran expect conditions to get worse."
+      "The proposal was backed by 50.4% of voters, in the second Swiss ballot on the issue in four years.",
+      "<p>Pollsters confounded by 50.4% support for e-IDs after forecasting stronger backing for ‘yes’ vote  </p><p>Swiss voters have backed plans for electronic identity cards by a wafer-thin margin, in the second nationwide vote on the issue.</p><p>In a referendum on Sunday, 50.4% of voters supported an "
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bad5/live/82dc66a0-9c7e-11f0-95c6-7592d7636e22.jpg",
     "titles": [
-      "Iranians fear more economic pain, war as UN sanctions snapback",
-      "Iranians Brace for Economic Impact of New U.N. Sanctions"
+      "Swiss voters narrowly approve plan for electronic ID cards",
+      "Swiss voters back electronic identity cards in close vote"
     ],
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.876,
+      "magnitude": 0.735,
+      "recency": 0.897,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.644,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Swiss voters narrowly approved the introduction of electronic identity cards, with 50.4% in favor in a recent referendum. This marks the second vote on the issue within four years, defying pollsters' expectations of stronger support for the proposal.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: support",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Trump Calls Bipartisan Meeting as Funding Deadline Looms",
+    "domain": "business",
+    "source_domain": "www.ft.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 16:33:02 GMT",
+    "source": "Financial Times",
+    "sources": [
+      "Financial Times",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.ft.com"
+    ],
+    "snippets": [
+      "Republicans and Democrats trade blame as deadline approaches to agree funding deal",
+      "<p>US president reverses course days after scrapping meeting to discuss crisis with Hakeem Jeffries and Chuck Schumer</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has reversed course and is purportedly planning to host a bipartisan gathering of the top four US con"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2cb7a359-c05b-4ad2-9f2d-56b14cd0ee20.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Trump to meet lawmakers as US government heads to a shutdown",
+      "Trump to meet with US congressional leaders in last-ditch effort to avoid shutdown"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.909,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
     "score": 0.644,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The West has revived six UN resolutions against Iran, a move that Iran and Russia deem 'null and void'. Amidst this, Iran is grappling with a 40 percent inflation rate and severe shortages of power and water, with the populace bracing for worsening conditions.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Steelers' Skylar Thompson Robbed, Incident Under Investigation",
-    "domain": "sports",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Sun, 28 Sep 2025 13:36:24 GMT",
-    "source": "Sports Illustrated",
-    "sources": [
-      "Sports Illustrated",
-      "Sportsnet"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOY3pnZXdpc05lcFdITUxrSWJZdlFZWFJwNlMySTEzYmZQQWptcWtpbzVTaVItMHEtaWxEb0F6X2NFV1ViUGduZUpzZi1SNHBiX1BWQ1VrcnAzWTl1b21yeGhjbmpsSFcyOVlwWWE4Um9kQVZpOWhlQUZ4VTFhWUdZY0dHMnF6MEpmMjJaWHFDU2ZVQQ?oc=5\" target=\"_blank\">Steelers Backup QB Skylar Tho",
-      "<p>The Pittsburgh Steelers confirmed that backup quarterback Skylar Thompson was involved in an incident Friday night after a report that the player had been robbed.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Steelers Backup QB Skylar Thompson Sustained Minor Injuries in Ireland Robbery - Sports Illustrated",
-      "Report: Steelers backup QB Skylar Thompson robbed in Dublin"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.929,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.641,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The Pittsburgh Steelers confirmed that backup quarterback Skylar Thompson was involved in an incident on Friday night, following reports that he was robbed. The current status of the situation is under investigation.",
+    "summary": "As the deadline for a funding deal nears, Republicans and Democrats are blaming each other. President Trump, after initially canceling a meeting to address the crisis with Hakeem Jeffries and Chuck Schumer, has decided to hold a bipartisan meeting with the top four US congressional leaders to discuss the situation.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "PM Starmer Labels Farage's Immigration Policy \"Racist\" Amid Poll Concerns",
+    "title": "Gov Backs Carmaker with £1.5bn Loan After Cyber-Attack Halts Production",
     "domain": "business",
-    "source_domain": "www.dw.com",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "2025-09-28T11:52:00Z",
-    "source": "Deutsche Welle",
+    "published": "Sun, 28 Sep 2025 15:38:20 GMT",
+    "source": "BBC",
     "sources": [
-      "Financial Times",
-      "Deutsche Welle"
+      "BBC",
+      "Financial Times"
     ],
     "domains": [
       "www.ft.com",
-      "www.dw.com"
+      "www.bbc.com"
     ],
     "snippets": [
-      "British Prime Minister Keir Starmer has called for discipline within his center-left Labour Party as polls show Nigel Farage's anti-immigration Reform UK party well ahead.",
-      "UK prime minister calls key Reform policy ‘racist’ as he focuses fire on Nigel Farage’s party"
+      "Liam Byrne spoke after the government announced it was backing a £1.5bn loan to the company, and warned cyber-attacks could become more common.",
+      "Carmaker receives official backing after cyber attack that has halted production"
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d262/live/65281cd0-9c5b-11f0-b66e-67a4632b8ff2.jpg",
     "titles": [
-      "Keir Starmer urges Labour to unite against Reform UK",
-      "Starmer urges Labour to unite for ‘fight of our lives’ ahead of conference"
+      "Jaguar Land Rover may need more than £1.5bn government loan guarantee, MP says",
+      "‘Moral hazard’ warning after £1.5bn government loan guarantee for JLR"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.915,
+      "recency": 0.891,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.643,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The government has supported a carmaker with a £1.5bn loan following a cyber-attack that stopped production. Liam Byrne highlighted the incident as a warning that cyber-attacks may increase in frequency.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: support",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Government Shutdown Looms, Stocks Stay Resilient in September",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 16:08:57 GMT",
+    "source": "Axios",
+    "sources": [
+      "MarketWatch",
+      "Axios"
+    ],
+    "domains": [
+      "www.marketwatch.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5iWldBRFA4eWd0VkFPZHdBcTg4bFh0N2xxUTZ4NWdTajN6RGYzOGQ4dDlNU2V2dG5raXhjWTJENUlybF9fM280RnJhXzFHcmMxNkh0YmZ4OXpkMDdxSXFGcTJqOExrcjZkUzh0a2FIY01oWlBnWXUxY2w3ODg?oc=5\" target=\"_blank\">No one wants to shoulder the government shutdown blame</a>&n",
+      "Stocks are defying their typical weakness in September — but it isn’t October yet"
+    ],
+    "image_url": "",
+    "titles": [
+      "No one wants to shoulder the government shutdown blame - Axios",
+      "The last thing the stock market wants right now is a government shutdown. Here’s why."
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.901,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.638,
-    "summary_source": "cache",
+    "score": 0.642,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "British Prime Minister Keir Starmer criticized Nigel Farage's Reform UK party's main anti-immigration policy as \"racist.\" Starmer emphasized the need for discipline within his center-left Labour Party amid polls indicating Farage's party is leading.",
+    "summary": "Amid concerns over a potential government shutdown, no party is willing to take the blame for the impasse. Meanwhile, contrary to usual trends, stock markets have shown resilience in September, although the situation could change with the arrival of October.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Russia Deploys Kamikaze Drones in Kyiv After Zelensky-Trump Meeting",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 13:44:37 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Washington Post"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.washingtonpost.com"
+    ],
+    "snippets": [
+      "Russia has launched a heavy attack on Ukraine with hundreds of kamikaze drones hitting residential buildings in Kyiv.",
+      "Russia’s missile and drone attack came days after Ukrainian President Volodymyr Zelensky’s meeting with President Donald Trump at the U.N. General Assembly."
+    ],
+    "image_url": "",
+    "titles": [
+      "Heavy Russian drone attack kills at least four in Ukraine’s capital Kyiv",
+      "Four dead as massive Russian attack on Kyiv hits apartments, hospital"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.875,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.637,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Russia launched a significant attack on Ukraine, employing hundreds of kamikaze drones targeting residential areas in Kyiv. This aggressive action followed shortly after Ukrainian President Volodymyr Zelensky's meeting with President Donald Trump at the U.N. General Assembly.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -760,8 +969,8 @@
     "published": "Sun, 28 Sep 2025 11:46:41 GMT",
     "source": "BBC",
     "sources": [
-      "The Guardian",
-      "BBC"
+      "BBC",
+      "The Guardian"
     ],
     "domains": [
       "www.theguardian.com",
@@ -769,7 +978,7 @@
     ],
     "snippets": [
       "More than 600 drones and missiles, predominantly aimed at Kyiv, hit factories and the Institute of Cardiology.",
-      "<p>Moscow targets Kyiv and other regions with about 600 drones and 40 missiles, killing at least four people</p><p>Kyiv has experienced one of its worst bombardments since the start of Vladimir Putin’s full-scale invasion of Ukraine, with at least four people killed in what Volodymyr Zelenskyy descr"
+      "<p>Moscow targets Kyiv and other regions with about 600 drones and 40 missiles, killing at least four people</p><p>One of the worst bombardments of Kyiv since the start of Vladimir Putin’s full-scale invasion of Ukraine has killed at least four people in what Volodymyr Zelenskyy described as a “vile"
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg",
     "titles": [
@@ -778,12 +987,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.894,
+      "recency": 0.823,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.634,
+    "score": 0.62,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Over 600 drones and missiles targeted Kyiv, impacting factories and the Institute of Cardiology, resulting in casualties including a 12-year-old girl. Concurrently, unidentified drones were observed over Danish military bases. At the UN General Assembly, Russia's Foreign Minister Sergei Lavrov issued a warning against aggression towards Russia.",
@@ -792,40 +1001,40 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Global Warming Intensifies Droughts; Liverpool Suffers Season's First Loss",
-    "domain": "business",
-    "source_domain": "www.theguardian.com",
+    "title": "Selena Gomez and Benny Blanco Wed in California, Celebrities Attend",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Sun, 28 Sep 2025 11:00:09 GMT",
-    "source": "The Guardian",
+    "published": "Sun, 28 Sep 2025 08:05:20 GMT",
+    "source": "BBC",
     "sources": [
-      "The Guardian",
-      "Forbes"
+      "BBC",
+      "The Guardian"
     ],
     "domains": [
       "www.theguardian.com",
-      "www.forbes.com"
+      "www.bbc.com"
     ],
     "snippets": [
-      "<p>Rising global temperatures are making dry spells longer and more intense, with profound effects on health, food and the economy</p><p>Drought is a “creeping disaster” that devastates regions in slow motion. It kills livestock, ruins harvests, and has knock-on effects across the economy that force",
-      "Liverpool suffered its first loss of the season as Crystal Palace exposed some of the weaknesses in the defending Premier League champions."
+      "Gomez shared pictures online of her in a white wedding gown, and guests included Taylor Swift and actor Paul Rudd.",
+      "<p>Emmy- and Grammy-nominated performer announces marriage online with photos from California ceremony</p><p>Emmy- and Grammy-nominated performer <a href=\"https://www.theguardian.com/film/selena-gomez\">Selena Gomez</a> has married music producer and songwriter Benny Blanco, announcing the news in an"
     ],
-    "image_url": "https://i.guim.co.uk/img/media/9e447f81dea87b8015e7ce585bab66d122ad4fa1/0_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=0b409d232031511853d0139947d6cc2d",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b59/live/c9307e00-9c3a-11f0-b741-177e3e2c2fc7.png",
     "titles": [
-      "What are droughts and how worried should we be about them?",
-      "How Worried Should Arne Slot Be By Liverpool’s First Loss?"
+      "Selena Gomez marries music producer Benny Blanco",
+      "Selena Gomez marries music producer Benny Blanco: ‘My wife in real life’"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.88,
+      "recency": 0.762,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.631,
-    "summary_source": "gpt",
+    "score": 0.607,
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Global temperatures are increasing, leading to longer and more intense droughts. These conditions have significant impacts on health, food security, and economies by killing livestock, ruining crops, and causing widespread economic disruptions. Concurrently, Liverpool experienced its first defeat of the season against Crystal Palace, highlighting vulnerabilities in the team's defense as the current Premier League champions.",
+    "summary": "Selena Gomez married music producer and songwriter Benny Blanco in California, announcing their marriage with photos online. The ceremony was attended by celebrities including Taylor Swift and Paul Rudd. Blanco and Gomez shared their joy on Instagram, with Blanco referring to Gomez as \"my wife in real life.\"",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
