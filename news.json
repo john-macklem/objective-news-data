@@ -1,47 +1,226 @@
 [
   {
-    "title": "England Wins Third Women's Rugby World Cup, Defeating Canada 33-13",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
+    "title": "Denmark Bans Civilian Drones Amid Security Concerns, Closes Airports",
+    "domain": "business",
+    "source_domain": "www.aljazeera.com",
     "location": "global",
-    "published": "Sun, 28 Sep 2025 10:52:12 GMT",
-    "source": "BBC",
+    "published": "Sun, 28 Sep 2025 14:57:47 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "Sportsnet",
-      "BBC",
-      "CityNews",
-      "Sky Sports"
+      "Global News",
+      "Al Jazeera",
+      "Financial Times",
+      "The Guardian"
     ],
     "domains": [
-      "www.bbc.com",
-      "ottawa.citynews.ca",
-      "www.skysports.com",
-      "www.sportsnet.ca"
+      "www.ft.com",
+      "www.aljazeera.com",
+      "globalnews.ca",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "England were not always world-beaters. But two big bets on their future and the women's game turned around their fortunes.",
-      "In 2017 and 2022 England's Red Roses suffered crushing Rugby World Cup final defeats. On Saturday, they banished those demons to clinch final success over Canada.",
-      "<p>England finally has a Women&#8217;s Rugby World Cup title to confirm its world domination after outclassing Canada 33-13 in front of a record crowd at Twickenham on Saturday.</p>",
-      "England finally has a Women&#8217;s&#160;Rugby&#160;World Cup title to confirm its world domination after outclassing Canada 33-13 in front of a record crowd at Twickenham on Saturday. Victory by five tries to three capped an astonishing World Cup cycle in which England won every match, 33 in a row,"
+      "Drone sorties over past week have caused the temporary closures of several Danish airports, raising security concerns.",
+      "Danish government says security measures are required ahead of two summits of European leaders",
+      "<p>Civilian unmanned flights to be banned during gathering of heads of EU governments amid spate of drone incursions </p><p>Danish authorities have said drones were seen at several military sites overnight and announced that all civilian use of the unmanned aircraft will be banned this week, as Cope",
+      "This is the latest unexplained drone activity after several sightings, including over five Danish airports last week."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60fc/live/54b9ab20-9c56-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "",
     "titles": [
-      "How two big gambles finally paid out in Red Roses World Cup glory",
-      "How England's Red Roses banished Rugby World Cup final demons",
-      "Canada drops Women’s Rugby World Cup final against England",
-      "Canada loses Women’s Rugby World Cup final 33-13 to England"
+      "Denmark bans drone flights after latest drone sightings at military bases",
+      "Denmark bans civil drones for a week after sightings over military bases",
+      "Denmark reports more drone sightings ahead of European summits",
+      "Denmark reports new drone sightings over army bases, NATO ups surveillance"
     ],
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.953,
+      "magnitude": 0.912,
+      "recency": 0.976,
       "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.78,
+    "score": 0.791,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Recent drone activity, including sightings over five Danish airports, has prompted Denmark to temporarily close several airports and raise security concerns. Ahead of two European leaders' summits, the Danish government announced a ban on all civilian drone flights this week, especially after drones were observed at military sites. This measure aims to enhance security amid the unexplained drone incursions.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Red Roses Triumph at Rugby World Cup, Beat Canada at Battersea Celebration",
+    "domain": "sports",
+    "source_domain": "www.independent.co.uk",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 15:45:10 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "Yahoo Sports",
+      "The Guardian",
+      "Sky Sports"
+    ],
+    "domains": [
+      "www.skysports.com",
+      "www.independent.co.uk",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "Rain could not England marked their World Cup win with a celebration event at Battersea Power Station",
+      "<p>Strength in depth was key, with 32 players contributing in a tournament in which John Mitchell’s side were rarely troubled</p><p><strong>Hannah Botterman</strong> <em>Bristol Bears</em> Wanted to prove she is the best loosehead prop in the world and duly delivered. England at times would have bee",
+      "In 2017 and 2022 England's Red Roses suffered crushing Rugby World Cup final defeats. On Saturday, they banished those demons to clinch final success over Canada."
+    ],
+    "image_url": "",
+    "titles": [
+      "England fans soak up celebrations as Red Roses mark Women’s Rugby World Cup triumph",
+      "England squad ratings: how all the Red Roses performed at Rugby World Cup",
+      "How England's Red Roses banished Rugby World Cup final demons"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.992,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 1.0
+    },
+    "score": 0.785,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "England's Red Roses celebrated their Rugby World Cup victory at Battersea Power Station, overcoming previous final defeats in 2017 and 2022 by winning against Canada on Saturday. The team's depth, with 32 players participating, played a crucial role in their largely untroubled tournament performance. Hannah Botterman, from Bristol Bears, stood out by proving herself as the world's best loosehead prop.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Zelenskyy Reports 500 Drones in Heavy Attack on Ukraine",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 04:52:23 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "Al Jazeera",
+      "Washington Post"
+    ],
+    "domains": [
+      "www.washingtonpost.com",
+      "www.aljazeera.com",
+      "www.npr.org"
+    ],
+    "snippets": [
+      "Ukrainian President Volodymyr Zelenskyy said the large-scale attacks involved nearly 500 strike drones.",
+      "Russia has launched a heavy attack on Ukraine with hundreds of kamikaze drones hitting residential buildings in Kyiv.",
+      "Russia’s missile and drone attack came days after Ukrainian President Volodymyr Zelensky’s meeting with President Donald Trump at the U.N. General Assembly."
+    ],
+    "image_url": "",
+    "titles": [
+      "Large Russian drone and missile attack on Kyiv kills 4 and wounds at least 10",
+      "Heavy Russian drone attack kills at least four in Ukraine’s capital Kyiv",
+      "Four dead as massive Russian attack on Kyiv hits apartments, hospital"
+    ],
+    "score_components": {
+      "magnitude": 0.867,
+      "recency": 0.859,
+      "consensus": 0.789,
+      "constructiveness": 0.1,
+      "proximity": 0.75
+    },
+    "score": 0.758,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "England won their third Women's Rugby World Cup title by defeating Canada 33-13 at Twickenham, in front of a record crowd of 81,885. Ellie Kildunne stood out in a game that marked England's dominance in women's rugby, completing a perfect World Cup cycle with 33 consecutive wins. This victory cements England's status as a powerhouse in the sport.",
+    "summary": "Ukrainian President Volodymyr Zelenskyy reported nearly 500 strike drones were used in one of the heaviest attacks on Ukraine since the war began. This information is supported by media reports and independent monitors, highlighting the scale of the assault.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: support",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Hovland Withdraws from Ryder Cup, Singles Match Halved Due to Injury",
+    "domain": "sports",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 15:54:08 GMT",
+    "source": "BBC",
+    "sources": [
+      "Yahoo Sports",
+      "BBC",
+      "Sportsnet"
+    ],
+    "domains": [
+      "sports.yahoo.com",
+      "www.sportsnet.ca",
+      "www.sportingnews.com",
+      "www.bbc.com"
+    ],
+    "snippets": [
+      "Viktor Hovland's Ryder Cup singles match against Harris English is declared a half point for Europe and the US.",
+      "Norway's Viktor Hovland withdrew from the Ryder Cup on Sunday with a neck injury, a move that lifted Europe closer to a historic victory over the United States at Bethpage Black.&quot;There's nothing more I would like to do than be out there representing Team Europe and trying to help them win the R",
+      "Viktor Hovland withdrew from his singles match Sunday in the Ryder Cup, which also meant Harris English had an early end to his week.  Hovland and English were scheduled to meet in the final match.  Under the captain's agreement, that will be considered a halve.",
+      "The U.S. and Europe will be treated as a tie and each team will receive half a point.",
+      "The Norwegian last played in the final morning match on Saturday.",
+      "<p>Before even a single ball was hit on Sunday at the Ryder Cup, Team Europe inched slightly closer to victory.</p>"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c517/live/a6130ac0-9c83-11f0-95c6-7592d7636e22.jpg",
+    "titles": [
+      "Injured Hovland ruled out of Ryder Cup singles",
+      "Injured Hovland withdraws from Ryder Cup as Europe moves closer to win",
+      "Viktor Hovland out of Ryder Cup singles with injury. Harris English has to sit",
+      "Ryder Cup: Europe's Viktor Hovland forced to withdraw from Sunday singles with a neck injury",
+      "Viktor Hovland injury update: Golfer scratched from Sunday singles at Ryder Cup with neck soreness",
+      "Viktor Hovland withdraws from Ryder Cup, moving Europe closer to victory"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.974,
+      "consensus": 0.809,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.737,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Viktor Hovland withdrew from the Ryder Cup due to a neck injury, resulting in his singles match against Harris English being declared a half point for both Europe and the US. This decision, made before play on Sunday, moved Europe closer to a historic victory at Bethpage Black. Hovland last competed on Saturday, and his withdrawal marked an early conclusion to English's participation in the event.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "UK Backs £1.5bn Loan for JLR to Recover from Cyber-Attack, Restart Production",
+    "domain": "business",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 15:38:20 GMT",
+    "source": "BBC",
+    "sources": [
+      "Financial Times",
+      "The Guardian",
+      "BBC"
+    ],
+    "domains": [
+      "www.ft.com",
+      "www.theguardian.com",
+      "www.bbc.com"
+    ],
+    "snippets": [
+      "Liam Byrne spoke after the government announced it was backing a £1.5bn loan to the company, and warned cyber-attacks could become more common.",
+      "Carmaker receives official backing after cyber attack that has halted production",
+      "<p>Britain’s largest automotive employer plans to restart engine manufacturing in early October, report says</p><p>The government has said it will underwrite a £1.5bn loan guarantee to Jaguar Land Rover (JLR) as the carmaker battles the consequences of a recent cyber-attack.</p><p>JLR had to suspend"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d262/live/65281cd0-9c5b-11f0-b66e-67a4632b8ff2.jpg",
+    "titles": [
+      "Jaguar Land Rover may need more than £1.5bn government loan guarantee, MP says",
+      "‘Moral hazard’ warning after £1.5bn government loan guarantee for JLR",
+      "UK government will underwrite £1.5bn loan guarantee to Jaguar Land Rover after cyber-attack"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.969,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.731,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The UK government has underwritten a £1.5bn loan guarantee to Jaguar Land Rover (JLR), Britain's largest automotive employer, to help it recover from a cyber-attack and restart engine manufacturing in early October. This move, involving a loan from a commercial bank backed by UK Export Finance, aims to protect the automotive supply chain and provide certainty to suppliers.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -54,13 +233,13 @@
     "published": "Sun, 28 Sep 2025 02:39:53 -0400",
     "source": "NPR",
     "sources": [
-      "Al Jazeera",
       "NPR",
+      "Al Jazeera",
       "New York Times"
     ],
     "domains": [
-      "www.npr.org",
       "www.aljazeera.com",
+      "www.npr.org",
       "www.nytimes.com"
     ],
     "snippets": [
@@ -78,13 +257,13 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.892,
+      "recency": 0.821,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.74,
-    "summary_source": "gpt",
+    "score": 0.726,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "A stampede at a campaign rally in Tamil Nadu for actor-turned-politician Joseph Vijay Chandrasekhar, known as Vijay, resulted in at least 39 deaths, including eight children, and injured 40 others. The incident occurred in Karur during an event for the popular Indian actor and politician.",
     "constructiveness_score": 0.0,
@@ -92,386 +271,366 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "UN Reimposes Sanctions on Iran Over Nuclear Concerns",
+    "title": "Selena Gomez and Benny Blanco Wed in California, Celebrities Attend",
     "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Sun, 28 Sep 2025 01:29:33 -0400",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "The Guardian",
-      "ABC News"
-    ],
-    "domains": [
-      "www.npr.org",
-      "abcnews.go.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "The United Nations reimposed sanctions on Iran early Sunday over its nuclear program, further squeezing the Islamic Republic as its people increasingly find themselves priced out of the food they need to survive and worried about their futures.",
-      "The United Nations has reimposed sanctions on Iran over its nuclear program",
-      "<p>Foreign ministry attacks ‘unjustifiable’ return of measures expected to have wide effects on troubled economy</p><p>Widespread UN sanctions against Iran have come back into force for the first time in a decade, prompting anger from Tehran, after last-ditch nuclear talks with western powers failed"
-    ],
-    "image_url": "",
-    "titles": [
-      "UN imposes 'snapback' sanctions on a hungrier, poorer and more anxious Iran",
-      "UN imposes 'snapback' sanctions on Iran over its nuclear program",
-      "Iran angry as sweeping UN sanctions take effect after failure of nuclear talks"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.87,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.736,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The United Nations has reimposed sanctions on Iran due to concerns over its nuclear program, marking the first return of such measures in a decade. This decision comes after nuclear talks with Western powers failed, significantly affecting Iran's already troubled economy and exacerbating the financial difficulties faced by its citizens. Tehran has criticized the sanctions as \"unjustifiable.\"",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Argentina Shocked by Live-Streamed Murder of Three Women; 5 Arrested",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Sun, 28 Sep 2025 11:19:38 +0000",
-    "source": "Al Jazeera",
+    "published": "Sun, 28 Sep 2025 08:05:20 GMT",
+    "source": "BBC",
     "sources": [
-      "Al Jazeera",
-      "New York Times",
-      "Deutsche Welle"
+      "The Guardian",
+      "BBC",
+      "CityNews"
     ],
     "domains": [
-      "www.aljazeera.com",
-      "www.nytimes.com",
-      "www.dw.com"
+      "ottawa.citynews.ca",
+      "www.theguardian.com",
+      "www.bbc.com"
     ],
     "snippets": [
-      "Thousands are demanding justice after a suspected drug gang livestreamed on Instagram the torture and killing",
-      "Drug gang suspected in torture and murder of two young women, and a 15-year-old girl, in crime that shocks Argentina.",
-      "The murder of three young women who were tortured live on social media has shocked Argentina. Five suspects have been detained but the alleged mastermind behind the killings is still at large.",
-      "The live streamed torture and killing of three young women in Buenos Aires has stunned the country, setting off worries about the increasing presence of drug cartels."
+      "Gomez shared pictures online of her in a white wedding gown, and guests included Taylor Swift and actor Paul Rudd.",
+      "<p>Emmy- and Grammy-nominated performer announces marriage online with photos from California ceremony</p><p>Emmy- and Grammy-nominated performer <a href=\"https://www.theguardian.com/film/selena-gomez\">Selena Gomez</a> has married music producer and songwriter Benny Blanco, announcing the news in an",
+      "SANTA BARBARA, Calif. (AP) — Selena Gomez has married music producer and songwriter Benny Blanco, announcing the news in an Instagram post showing the couple kissing and embracing on a lawn. “My wife in real life,” Blanco responded to the post Saturday by the Grammy- and Emmy-nominated performer. Go"
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b59/live/c9307e00-9c3a-11f0-b741-177e3e2c2fc7.png",
     "titles": [
-      "Livestreamed brutal murder of three young women sparks outrage in Argentina",
-      "Thousands protest livestreamed murder of 2 women, young girl in Argentina",
-      "Argentina: Thousands march for women murdered on livestream",
-      "Brutal Murder of 3 Women, Broadcast On Instagram, Shocks Argentina"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.983,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.733,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "In Argentina, three young women, including a 15-year-old girl, were tortured and murdered, an act broadcasted live on social media, shocking the nation. Five suspects are in custody, yet the alleged mastermind remains at large.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Cleveland Guardians Clinch Playoff Spot After Historic Comeback",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Sat, 27 Sep 2025 23:07:25 EST",
-    "source": "ESPN",
-    "sources": [
-      "Sportsnet",
-      "CBS Sports",
-      "ESPN"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "www.sportsnet.ca",
-      "www.espn.com"
-    ],
-    "snippets": [
-      "The Guardians clinched a playoff berth Saturday night after CJ Kayfus was hit by a pitch with the bases loaded in the ninth inning.",
-      "For the seventh time in 10 seasons, Cleveland heads to the postseason",
-      "<p>It took 161 games, but we finally know the six teams that will battle it out in the American League playoffs.</p>",
-      "<p>Watch as Cleveland Guardians&#8217; C.J. Kayfus is hit by a pitch with the bases loaded, resulting in his team becoming the final American League squad to clinch a post-season spot. </p>",
-      "<p>Jamhai Jones hit a two-run single to rally Detroit from an early deficit, and the Tigers beat the Boston Red Sox 2-1 on Saturday to clinch a spot in the AL playoffs.</p>",
-      "<p>Sal Stewart homered and hit an RBI single, Miguel Andjuar went 3-for-5 and the Cincinnati Reds moved a step closer to their first post-season berth since 2020 by beating the Milwaukee Brewers 7-4 on Saturday night.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Guardians clinch playoff berth on walk-off HBP",
-      "Guardians clinch MLB playoff spot on walk-off hit-by-pitch in pursuit of AL Central, record-breaking comeback",
-      "Guardians walk off Rangers on HBP to become final AL playoff team to clinch",
-      "Guardians clinch post-season berth on walk-off hit-by-pitch",
-      "Tigers clinch AL playoff berth with win over Red Sox",
-      "Reds on cusp of playoff berth after beating Brewers"
+      "Selena Gomez marries music producer Benny Blanco",
+      "Selena Gomez marries music producer Benny Blanco: ‘My wife in real life’",
+      "Selena Gomez marries Benny Blanco: ‘My wife in real life’"
     ],
     "score_components": {
       "magnitude": 0.827,
       "recency": 0.828,
       "consensus": 0.789,
       "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.727,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The Cleveland Guardians secured a playoff spot for the seventh time in ten seasons after a win clinched by CJ Kayfus getting hit by a pitch with bases loaded in the ninth inning. This achievement comes after a significant mid-season turnaround, overcoming a 10-game losing streak in July. The Guardians' entry into the postseason was confirmed in their 161st game, marking one of the biggest comebacks in baseball history.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Carlos Ulberg Wins First UFC Main Event in Perth, Eyes Title Shot",
-    "domain": "sports",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Sun, 28 Sep 2025 08:00:52 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Sportsnet",
-      "Al Jazeera",
-      "CBS Sports"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "www.sportsnet.ca",
-      "www.cbssports.com"
-    ],
-    "snippets": [
-      "Carlos Ulberg dropped Dominick Reyes in the opening round for his ninth straight win at UFC Fight Night in Australia.",
-      "The native of New Zealand made it look easy on Saturday night in Australia",
-      "Ulberg or Reyes can make a serious statement the week before UFC 320: Magomed Ankalaev vs. Alex Pereira 2",
-      "<p>Carlos Ulberg made a massive statement in his first UFC main event spotlight and moved one step closer to a title shot.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Ulberg dominates Reyes with first-round KO at UFC Fight Night",
-      "UFC Fight Night results, highlights: Carlos Ulberg blasts Dominick Reyes for first-round KO, wants title shot",
-      "UFC Fight Night prediction -- Carlos Ulberg vs. Dominick Reyes: Fight card, start time, odds, live stream",
-      "Carlos Ulberg knocks out Dominick Reyes at UFC Perth to inch closer to title"
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.917,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.727,
-    "summary_source": "cache",
+    "score": 0.702,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Carlos Ulberg, a fighter from New Zealand, secured a significant victory in his first UFC main event on September 27, 2025, at UFC Perth, Australia. Despite the event experiencing three late cancellations, including both Tafa brothers, Ulberg's performance stood out across the 12 bouts that took place. His win has positioned him closer to a title shot in the UFC.",
+    "summary": "Selena Gomez married music producer and songwriter Benny Blanco in California, announcing their marriage with photos online. The ceremony was attended by celebrities including Taylor Swift and Paul Rudd. Blanco and Gomez shared their joy on Instagram, with Blanco referring to Gomez as \"my wife in real life.\"",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "UK Backs £1.5bn Loan for JLR to Recover from Cyber-Attack, Restart Production",
-    "domain": "business",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sun, 28 Sep 2025 10:11:53 GMT",
-    "source": "BBC",
-    "sources": [
-      "Financial Times",
-      "BBC",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.ft.com",
-      "www.bbc.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "Ministers hope the loan, from a commercial bank and underwritten by the government, will give certainty to suppliers.",
-      "Government says guarantee from UK Export Finance will protect the automotive supply chain",
-      "<p>Britain’s largest automotive employer plans to restart engine manufacturing in early October, report says</p><p>The government has said it will underwrite a £1.5bn loan guarantee to Jaguar Land Rover (JLR) as the carmaker battles the consequences of a recent cyber-attack.</p><p>JLR had to suspend"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f6/live/8d1a5bf0-9c5a-11f0-928c-71dbb8619e94.jpg",
-    "titles": [
-      "Government to guarantee £1.5bn loan to Jaguar Land Rover after cyber shutdown",
-      "Jaguar Land Rover wins £1.5bn UK loan support after cyber attack",
-      "UK government will underwrite £1.5bn loan guarantee to Jaguar Land Rover after cyber-attack"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.94,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.725,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The UK government has underwritten a £1.5bn loan guarantee to Jaguar Land Rover (JLR), Britain's largest automotive employer, to help it recover from a cyber-attack and restart engine manufacturing in early October. This move, involving a loan from a commercial bank backed by UK Export Finance, aims to protect the automotive supply chain and provide certainty to suppliers.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Zelenskyy Reports 500 Drones in Heavy Attack on Ukraine",
+    "title": "Gaza Health Ministry: 66,000 Palestinians Dead in Israel-Hamas War",
     "domain": "general",
     "source_domain": "www.npr.org",
     "location": "national",
-    "published": "Sun, 28 Sep 2025 04:52:23 -0400",
+    "published": "Sun, 28 Sep 2025 11:51:52 -0400",
     "source": "NPR",
     "sources": [
-      "Al Jazeera",
-      "NPR"
+      "NPR",
+      "CityNews"
     ],
     "domains": [
       "www.npr.org",
-      "www.aljazeera.com"
+      "ottawa.citynews.ca"
     ],
     "snippets": [
-      "Ukrainian President Volodymyr Zelenskyy said the large-scale attacks involved nearly 500 strike drones.",
-      "Media reports and independent monitor describe the latest strikes on Ukraine as &#039;one of the heaviest&#039; since war began."
+      "The death toll in the Israel-Hamas war has topped 66,000 Palestinians, Gaza's Health Ministry said, a day before the Israeli Prime Minister heads for talks with U.S. President Donald Trump.",
+      "CAIRO (AP) — The death toll in the Israel-Hamas war has topped 66,000 Palestinians, Gaza’s Health Ministry said Sunday, a day before Israeli Prime Minister Benjamin Netanyahu heads to the White House for talks with U.S. President Donald Trump on halting Israel’s ongoing offensive in Gaza City. Israe"
     ],
     "image_url": "",
     "titles": [
-      "Large Russian drone and missile attack on Kyiv kills 4 and wounds at least 10",
-      "At least 4 killed in major Russian drone, missile attack on Ukraine’s Kyiv"
+      "Palestinian death toll tops 66,000 as Netanyahu prepares to meet Trump",
+      "Palestinian death toll tops 66,000 as Netanyahu prepares to meet Trump"
     ],
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.934,
+      "magnitude": 0.755,
+      "recency": 0.994,
       "consensus": 0.591,
-      "constructiveness": 0.1,
+      "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.691,
+    "score": 0.686,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Ukrainian President Volodymyr Zelenskyy reported nearly 500 strike drones were used in one of the heaviest attacks on Ukraine since the war began. This information is supported by media reports and independent monitors, highlighting the scale of the assault.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: support",
+    "summary": "The Gaza Health Ministry reports over 66,000 Palestinians have died in the Israel-Hamas war. This announcement comes as Israeli Prime Minister Benjamin Netanyahu prepares for discussions with U.S. President Donald Trump aimed at stopping Israel's offensive in Gaza City.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "President Deploys Troops to Protect Immigration Facilities in Major US City",
+    "title": "President Orders Troops to Portland to Guard Immigration Sites",
     "domain": "general",
-    "source_domain": "www.bbc.com",
+    "source_domain": "www.dw.com",
     "location": "global",
-    "published": "Sat, 27 Sep 2025 21:42:04 GMT",
-    "source": "BBC",
+    "published": "2025-09-27T17:21:00Z",
+    "source": "Deutsche Welle",
     "sources": [
-      "Axios",
-      "BBC",
-      "ABC News"
+      "Deutsche Welle",
+      "ABC News",
+      "Axios"
     ],
     "domains": [
+      "abcnews.go.com",
       "news.google.com",
-      "www.bbc.com",
-      "abcnews.go.com"
+      "www.dw.com"
     ],
     "snippets": [
-      "The president says the latest move is \"necessary\" to protect immigration detention facilities in the major US city.",
+      "US President Donald Trump claimed that Antifa is waging \"war\" on the famously progressive city. Portland's mayor has rejected these claims.",
       "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5PWU9Wdzh0Vmo1QlBWYjhpaTdpU2dFeV9ZcFVUVFN0SXl2SnhVOHlDTUNjdGV6YnVqQ20xQWVzdmpIZlo2ZGkwdUFib3ZHMGNXSXoyaWJIdjZuVmZ0cXg1QWN3VGdNd0UzRlN3NUJFMElTVFk?oc=5\" target=\"_blank\">Trump directs troops to Portland with \"full force\" directive</a>&nbsp;&n",
       "President Trump on Saturday said he ordered the deployment of troops to Portland to combat alleged domestic terrorists."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f730/live/021eaaf0-9c01-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "",
     "titles": [
-      "Trump authorises 'full force' as Portland set to become latest city to see troops deployed",
+      "Trump sends troops to Portland over 'domestic terrorists'",
       "Trump directs troops to Portland with \"full force\" directive - Axios",
       "Trump admin live updates: Gov. says 'no need' after Trump directs troops to Portland"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.725,
+      "recency": 0.622,
       "consensus": 0.789,
-      "constructiveness": 0.0,
+      "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.682,
+    "score": 0.671,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "The President has announced the deployment of troops to a major US city, marking the fourth such action in Democrat-controlled cities. This move aims to safeguard immigration detention facilities, deemed \"necessary\" for their protection.",
+    "summary": "The president has directed troops to Portland with a \"full force\" directive, stating it is necessary to protect immigration detention facilities from what he terms \"domestic terrorists.\" This action is part of a broader initiative to address security concerns at these facilities.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: initiative",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Ryder Cup Announcer Resigns, Apologizes for McIlroy Chant Incident",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 07:48:10 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Sky Sports"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.skysports.com"
+    ],
+    "snippets": [
+      "A master of ceremonies has stepped down from her role at the Ryder Cup after joining the Bethpage Black crowd in directing expletive-laced chants toward Rory McIlroy.",
+      "The Ryder Cup first-tee announcer who encouraged expletive-filled chants at Rory McIlroy has apologised and stepped down, the PGA of America has confirmed."
+    ],
+    "image_url": "",
+    "titles": [
+      "Bethpage MC steps down over vulgar Rory chants",
+      "Ryder Cup MC steps down after encouraging expletive-filled Rory chants"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.913,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.663,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The first-tee announcer at the Ryder Cup, who prompted the crowd to chant expletives at Rory McIlroy, has apologized and resigned from her role, as confirmed by the PGA of America.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Canadiens Beat Maple Leafs 4-2 in NHL Pre-Season Game",
+    "title": "Winnipeg Jets Secure First Preseason Win; Samberg Injured",
     "domain": "sports",
     "source_domain": "globalnews.ca",
     "location": "national",
-    "published": "Sun, 28 Sep 2025 01:51:13 +0000",
+    "published": "Sun, 28 Sep 2025 02:38:06 +0000",
     "source": "Global News",
     "sources": [
-      "Sportsnet",
-      "Global News"
+      "Global News",
+      "NHL"
     ],
     "domains": [
       "globalnews.ca",
-      "www.sportsnet.ca"
+      "news.google.com"
     ],
     "snippets": [
-      "Riley Kidney and Lane Hutson each scored power-play goals in the second period and the visiting Montreal Canadiens defeated the Toronto Maple Leafs 4-2 in NHL pre-season action on Saturday.",
-      "<p>Designated for a new role this season, Alex Newhook looked the part Saturday in a win over the Maple Leafs. </p>\n<p>If he can replicate that type of effort in the regular season, it will go a long way for the Canadiens. </p>"
+      "Walker Duehr, Nikita Chibrikov, Parker Ford and Neal Pionk scored for the Jets in their first win of the preseason but Dylan Samberg left the game with an injury.",
+      "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWldDUVZmd0xCaDBUUGZMVHlJSlgwblJ5SjRlaTZ6dkdNNXl1dTViLXliN0lfMGFoSFRXcWpyX2pzNzlRS1hvUm1nMmRnZjlrQzZ6Ny13Qm4yR3M3Uk53ZXhmcDhDSXZwZHV5Ujl6WlJ3cVpiWWxtcnBIbUlpZHM1bmVyaw?oc=5\" target=\"_blank\">THREE THINGS: Jets record first win of preseason<",
+      "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kYVNPbUN2Wk1IYUxPTkZja2x3aTNFVm01M2VjMjRRNW5QQ25DSHN3RHcxTnA3cTlEZGQ0aEhndG5FWEFPY3dPVjloNUpvNmNUX3BDRzlKQmU0azZsWVRxak9pR1c?oc=5\" target=\"_blank\">Avalanche Outshine Stars with 4-1 Win in Preseason Action</a>&nbsp;&nbsp;<font color=\"#6f6f6"
     ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/aeec906f82173b3430671e411a85bb59a73cc9d1f9e595f4a22c0d3f9ab6e395.jpg?quality=65&strip=all",
+    "image_url": "",
     "titles": [
-      "Canadiens use power play to beat Leafs",
-      "Newhook shines in new role to help Canadiens beat Maple Leafs"
+      "Winnipeg Jets notch first win of the preseason, downing Calgary 4-2",
+      "THREE THINGS: Jets record first win of preseason - NHL.com",
+      "Avalanche Outshine Stars with 4-1 Win in Preseason Action - NHL.com"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.807,
+      "recency": 0.755,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.666,
-    "summary_source": "cache",
+    "score": 0.656,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Riley Kidney and Lane Hutson scored power-play goals in the second period, leading the Montreal Canadiens to a 4-2 victory over the Toronto Maple Leafs in an NHL pre-season game. Alex Newhook, in a new role for the Canadiens, also impressed during the match. The outcome highlights potential strengths for Montreal as they prepare for the regular season.",
+    "summary": "In their first preseason victory, the Winnipeg Jets saw goals from Walker Duehr, Nikita Chibrikov, Parker Ford, and Neal Pionk. However, the win was marred by an injury to Dylan Samberg, who had to leave the game. The current status of Samberg's injury was not disclosed.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Russian Strikes Kill 4 in Ukraine; Poland Secures Airspace",
-    "domain": "business",
-    "source_domain": "www.ft.com",
-    "location": "global",
-    "published": "Sun, 28 Sep 2025 09:29:07 GMT",
-    "source": "Financial Times",
+    "title": "College Football Rankings Updated After Major Upsets",
+    "domain": "sports",
+    "source_domain": "www.nbcsports.com",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 15:43:46 +0000",
+    "source": "Yahoo Sports",
     "sources": [
-      "Financial Times",
-      "The Guardian"
+      "Yahoo Sports",
+      "Sports Illustrated"
     ],
     "domains": [
-      "www.ft.com",
-      "www.theguardian.com"
+      "news.google.com",
+      "www.nbcsports.com"
     ],
     "snippets": [
-      "Ukrainian President Volodymyr Zelenskyy says assault involved nearly 500 drones and more than 40 missiles",
-      "<p>At least four people were killed in the overnight attacks on Kyiv and other regions as Poland takes preventive measure to secure airspace</p><p>Russian strikes involving “hundreds” of drones and missiles have killed at least four people, including a 12-year-old girl, and wounded at least 10 peopl"
+      "Vaughn Dalzell shares his College Football top 25 following all of the upsets, including Oregon's win over Penn State and Alabama's upset vs Georgia!",
+      "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOcm15VGdTeEFXT0ZWbWFGUkRRYUtERUlsUElmMWZxRW5WMU5BRjZDOUlBSW5SVkJ4dERzMmtwWGE4UmpfZmg2RnhIdDJsR2xPUmxmMkczNTFVU3lGc1dLUFpSQnpRVWZfcGJhWVdVanRWamhQX3hMUDFqNFhwZC14Q0dLSjlRSUVRZHJnRHgzZw?oc=5\" target=\"_blank\">Projecting the College Football A",
+      "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmNmOG9oOG1oMkZ6UVd4Um82cmdpUjhzbUcwLU81M0F0bEF4cFJ3M3BneVJhSGs5YU1OOHBqWUFTdEVlY2ZnbV84dTIwRGlvbW5WdkpJWmNCTGtUcmVjby1aWnhHeENIQ21PYy1fSGxoblZnTi03WDFPOHNKUFBtQlVmZjdRc1R4cDM2OVh3?oc=5\" target=\"_blank\">Ranking the Top Five Heisman Trophy"
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F395702f2-45f4-4fbf-9323-88e1ba81ae57.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "",
     "titles": [
-      "Russian missiles and drones pound Ukraine in ‘savage’ 12-hour attack",
-      "‘Hundreds’ of Russian missiles and drones hit Ukraine in deadly strikes as Poland scrambles jets"
+      "2025 College Football Rankings Week 6 Top 25: New No. 1! Oregon, Alabama, and Ole Miss shake up polls",
+      "Projecting the College Football AP Top 25 for Week 6 - Sports Illustrated",
+      "Ranking the Top Five Heisman Trophy Candidates After College Football's Week 5 - Sports Illustrated"
     ],
     "score_components": {
-      "magnitude": 0.795,
-      "recency": 0.926,
+      "magnitude": 0.735,
+      "recency": 0.991,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.661,
+    "score": 0.653,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Russian strikes on Kyiv and other Ukrainian regions, involving nearly 500 drones and over 40 missiles, resulted in at least four deaths, including a 12-year-old girl, and wounded at least 10 individuals. In response to the attacks, Poland has taken measures to secure its airspace.",
+    "summary": "Vaughn Dalzell has updated his College Football top 25 rankings following significant upsets, including Oregon's victory over Penn State and Alabama's surprising loss to Georgia. These changes reflect the latest shifts in college football dynamics.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "British Singer Lola Young Collapses on Stage in New York, Says She's \"OK\"",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 14:03:32 GMT",
+    "source": "BBC",
+    "sources": [
+      "The Guardian",
+      "BBC"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.bbc.com"
+    ],
+    "snippets": [
+      "Lola Young was performing at a festival when she appeared to drop her microphone and fall backwards.",
+      "<p>British singer thanks fans for support after incident at gig, during which she had told crowd of ‘tricky couple of days’</p><p>The British singer Lola Young has said she is “doing OK” after collapsing on stage during a festival performance in New York.</p><p>In footage posted on social media, the"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/152d/live/a091b3f0-9c77-11f0-8277-67a32d4ec754.jpg",
+    "titles": [
+      "Lola Young 'doing OK' after collapsing on stage during gig",
+      "Lola Young ‘doing OK’ after collapsing on stage at festival in New York"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.938,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.65,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "British singer Lola Young collapsed on stage during a New York festival performance after mentioning she had a \"tricky couple of days.\" She later assured fans she is \"doing OK\" through social media. The incident involved her dropping her microphone and falling backwards, which was captured in online footage.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Jaxson Dart Named Giants QB1 Ahead of Week 4 Clash With Chargers",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 15:00:52 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "CBS Sports",
+      "Yahoo Sports"
+    ],
+    "domains": [
+      "www.bigblueview.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Jaxson Dart gets the QB1 nod for the Giants while the Chargers are looking for a 4-0 start",
+      "A matchup of two big Week 3 winners",
+      "What will happen in Jaxson Dart’s debut?"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/27/2d823bc1-dd24-4f77-9235-b27c43070475/untitled-design-2025-09-27t023126-697.png",
+    "titles": [
+      "Where to watch Giants vs. Chargers: TV channel, live stream, prediction, pick, odds",
+      "Where to watch Browns at Lions TV channel, live stream, prediction, pick, odds, spread",
+      "Giants vs. Chargers, Week 4: Live updates"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.977,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.65,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Jaxson Dart was named the starting quarterback (QB1) for the New York Giants. In Week 4, the Giants face the Los Angeles Chargers, who are aiming for a 4-0 start to the season. This game follows victories for both teams in Week 3. The outcome of Dart's debut as QB1 remains to be seen.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Aston Villa Secures 3-1 Victory Over Fulham in Premier League Match",
+    "domain": "sports",
+    "source_domain": "www.theguardian.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 15:50:21 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "The Guardian",
+      "Sports Illustrated"
+    ],
+    "domains": [
+      "news.google.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "<p>⚽️ Premier League updates from 4.30pm BST<br />⚽️ <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Sign up for Football Daily</a> | <a href=\"https://www.theguardian.com/football/live/2025/sep/28/aston-villa-v-fulham-premier-league-live\">Aston Villa 3-1 Fulham</a",
+      "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmZQVmxWUHZCQm9SejRDSENoYk5nR2htWVZjdk1vRXhsYkxKSjFPOE1hWnpwVzhkdUV2V1BVM3Y5Q1NXUk50a1p6b1VuN0VndmQ1YmkyaWVhcU5FTjhQcVdMSlZYWWkwaUROS1haR3I0UGFQd2otVnZkUjJ2bGxwSjNZbW4yTVNhaEE?oc=5\" target=\"_blank\">How to Watch Newcastle vs. Arsenal on TV"
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/b98114b481e8d006b1e545995c59c481acc126f0/385_0_4005_3206/master/4005.jpg?width=140&quality=85&auto=format&fit=max&s=67f5430aea78b19b2528ef10881fcd7e",
+    "titles": [
+      "Newcastle v Arsenal: Premier League – live",
+      "How to Watch Newcastle vs. Arsenal on TV, Live Stream - Sports Illustrated"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.973,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.65,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Aston Villa defeated Fulham 3-1 in the Premier League match. To watch Newcastle vs. Arsenal on TV, follow the provided link. The outcome of the Aston Villa vs. Fulham game is a 3-1 victory for Aston Villa.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -502,15 +661,54 @@
     ],
     "score_components": {
       "magnitude": 0.775,
-      "recency": 0.952,
+      "recency": 0.876,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.659,
-    "summary_source": "gpt",
+    "score": 0.644,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The West has revived six UN resolutions against Iran, a move that Iran and Russia deem 'null and void'. Amidst this, Iran is grappling with a 40 percent inflation rate and severe shortages of power and water, with the populace bracing for worsening conditions.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Steelers' Skylar Thompson Robbed, Incident Under Investigation",
+    "domain": "sports",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 13:36:24 GMT",
+    "source": "Sports Illustrated",
+    "sources": [
+      "Sports Illustrated",
+      "Sportsnet"
+    ],
+    "domains": [
+      "news.google.com",
+      "www.sportsnet.ca"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOY3pnZXdpc05lcFdITUxrSWJZdlFZWFJwNlMySTEzYmZQQWptcWtpbzVTaVItMHEtaWxEb0F6X2NFV1ViUGduZUpzZi1SNHBiX1BWQ1VrcnAzWTl1b21yeGhjbmpsSFcyOVlwWWE4Um9kQVZpOWhlQUZ4VTFhWUdZY0dHMnF6MEpmMjJaWHFDU2ZVQQ?oc=5\" target=\"_blank\">Steelers Backup QB Skylar Tho",
+      "<p>The Pittsburgh Steelers confirmed that backup quarterback Skylar Thompson was involved in an incident Friday night after a report that the player had been robbed.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Steelers Backup QB Skylar Thompson Sustained Minor Injuries in Ireland Robbery - Sports Illustrated",
+      "Report: Steelers backup QB Skylar Thompson robbed in Dublin"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.929,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.641,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Pittsburgh Steelers confirmed that backup quarterback Skylar Thompson was involved in an incident on Friday night, following reports that he was robbed. The current status of the situation is under investigation.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -541,60 +739,15 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.994,
+      "recency": 0.915,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.654,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "British Prime Minister Keir Starmer criticized Nigel Farage's Reform UK party's main anti-immigration policy as \"racist.\" Starmer emphasized the need for discipline within his center-left Labour Party amid polls indicating Farage's party is leading.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Blue Jays Beat Rays 5-1, Clement Scores Twice, Yesavage Pitches Shutout",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Sat, 27 Sep 2025 21:43:05 +0000",
-    "source": "Global News",
-    "sources": [
-      "Sportsnet",
-      "Global News"
-    ],
-    "domains": [
-      "globalnews.ca",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "Ernie Clement scored twice and drove in two runs while rookie starter Trey Yesavage threw five shutout innings as the Toronto Blue Jays defeated the Tampa Bay Rays 5-1 on Saturday afternoon.",
-      "<p>Alejandro Kirk hit a solo shot, Trey Yesavage struck out five through five scoreless innings, and the Toronto Blue Jays took a 5-1 win over the Tampa Bay Rays.</p>",
-      "<p>Aaron Judge, Giancarlo Stanton and Ryan McMahon all belted home runs as the New York Yankees sailed to a 6-1 victory over the Baltimore Orioles. Cam Schlittler earned the win on the mound, striking out nine over seven innings of work.</p>",
-      "<p>Jahmai Jones drove in both of his team&#8217;s runs on two hits to lead the Detroit Tigers to a 2-1 win over the Boston Red Sox – clinching a playoff berth in the process. Despite the loss, rookie Connelly Early struck out seven over five innings of work.</p>",
-      "<p>Pete Alonso picked up his 38th home run of the season and blasted an RBI double to lead the New York Mets to a 5-0 victory over the Miami Marlins. Clay Holmes tossed six innings of one-hit ball to earn his 12th win on the year. </p>"
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/cb5558399663a5e2770ee6f5aa1407e6ce43cf1c990bc61c3c5b33a944f3b252.jpg?quality=65&strip=all",
-    "titles": [
-      "Clement leads the way as Blue Jays top Rays 5-1",
-      "MLB Highlights: Blue Jays 5, Rays 1",
-      "MLB Highlights: Yankees 6, Orioles 1",
-      "MLB Highlights: Tigers 2, Red Sox 1",
-      "MLB Highlights: Mets 5, Marlins 0"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.74,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.653,
+    "score": 0.638,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Ernie Clement scored twice and had two RBIs, and Trey Yesavage pitched five shutout innings, leading the Toronto Blue Jays to a 5-1 victory over the Tampa Bay Rays on Saturday. Clement's performance included a two-run double, and Andres Gimenez added an RBI single in the second inning to secure the win for the Blue Jays.",
+    "summary": "British Prime Minister Keir Starmer criticized Nigel Farage's Reform UK party's main anti-immigration policy as \"racist.\" Starmer emphasized the need for discipline within his center-left Labour Party amid polls indicating Farage's party is leading.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -607,31 +760,31 @@
     "published": "Sun, 28 Sep 2025 11:46:41 GMT",
     "source": "BBC",
     "sources": [
-      "BBC",
-      "The Guardian"
+      "The Guardian",
+      "BBC"
     ],
     "domains": [
-      "www.bbc.com",
-      "www.theguardian.com"
+      "www.theguardian.com",
+      "www.bbc.com"
     ],
     "snippets": [
       "More than 600 drones and missiles, predominantly aimed at Kyiv, hit factories and the Institute of Cardiology.",
-      "<p>Twelve-year-old girl among those killed in Kyiv; unidentified drones spotted over Danish military bases on Saturday night</p><p>In an address at the UN general assembly in New York on Saturday, Moscow’s foreign minister <strong>Sergei Lavrov</strong> warned that “any aggression against my country"
+      "<p>Moscow targets Kyiv and other regions with about 600 drones and 40 missiles, killing at least four people</p><p>Kyiv has experienced one of its worst bombardments since the start of Vladimir Putin’s full-scale invasion of Ukraine, with at least four people killed in what Volodymyr Zelenskyy descr"
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg",
     "titles": [
       "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
-      "Zelenskyy condemns ‘vile’ and deadly Russian strikes on Ukraine; drones spotted over Danish military sites – Europe live"
+      "Zelenskyy condemns Russia’s ‘vile and cowardly’ 12-hour bombing of Ukraine"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.971,
+      "recency": 0.894,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.649,
-    "summary_source": "gpt",
+    "score": 0.634,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Over 600 drones and missiles targeted Kyiv, impacting factories and the Institute of Cardiology, resulting in casualties including a 12-year-old girl. Concurrently, unidentified drones were observed over Danish military bases. At the UN General Assembly, Russia's Foreign Minister Sergei Lavrov issued a warning against aggression towards Russia.",
     "constructiveness_score": 0.0,
@@ -639,276 +792,42 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Seychelles to Hold Presidential Election Rerun, Date TBD",
+    "title": "Global Warming Intensifies Droughts; Liverpool Suffers Season's First Loss",
     "domain": "business",
-    "source_domain": "www.aljazeera.com",
+    "source_domain": "www.theguardian.com",
     "location": "global",
-    "published": "Sun, 28 Sep 2025 10:31:30 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Financial Post"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "financialpost.com"
-    ],
-    "snippets": [
-      "The electoral authority has not announced when the rerun election is expected to be held.",
-      "VICTORIA, Seychelles (AP) &#8212; With no outright winner in Seychelles&#8217; presidential election, the country will hold a rerun vote between the two main contenders, the electoral authority said Sunday. The date for the rerun hasn&#8217;t been announced yet. Opposition figure Patrick Herminie re"
-    ],
-    "image_url": "",
-    "titles": [
-      "Seychelles to hold rerun presidential election as no candidate secures 50%",
-      "Seychelles to hold rerun presidential election after no outright winner"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.966,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.648,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Seychelles will have a rerun of its presidential election after no candidate won outright, according to the electoral authority. The two main contenders, including opposition figure Patrick Herminie, will compete in the rerun, though the date for this election has not yet been announced.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Moldova Votes in Key Election Amid Russian Interference Claims",
-    "domain": "business",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Sun, 28 Sep 2025 06:42:55 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Financial Post"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "financialpost.com"
-    ],
-    "snippets": [
-      "Most polls project the governing pro-EU Party of Action and Solidarity in the lead.",
-      "CHISINAU, Moldova (AP) &#8212; Moldovans on Sunday cast ballots in a tense parliamentary election plagued by claims of Russian interference, a vote seen as a choice between integration with the European Union or a drift back into Moscow&#8217;s fold. Sunday&#8217;s pivotal vote will elect a new 101-"
-    ],
-    "image_url": "",
-    "titles": [
-      "Moldova holds parliamentary elections hit by claims of Russian interference",
-      "Moldovans vote in a tense election plagued by Russian interference claims"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.893,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.641,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Moldovans voted in a crucial parliamentary election amid claims of Russian interference. The election is viewed as a pivotal moment, deciding between further integration with the European Union or closer ties to Moscow. Most polls place the pro-EU Party of Action and Solidarity in the lead.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Marc Márquez Clinches Seventh MotoGP Title at Japanese Grand Prix",
-    "domain": "sports",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Sun, 28 Sep 2025 07:10:52 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "The 32-year-old wins his first MotoGP riders&#039; title since 2019 after finishing second to Francesco Bagnaia at Motegi.",
-      "<ul><li><p>Francesco Bagnaia wins Japanese Grand Prix</p></li><li><p>Márquez takes unassailable lead with five races to go</p></li></ul><p>Ducati’s Marc Márquez clinched his seventh MotoGP world championship at the Japanese Grand Prix on Sunday and his first since 2019 after he took an unassailable "
-    ],
-    "image_url": "",
-    "titles": [
-      "Marc Marquez wins 2025 MotoGP world championship at Japanese Grand Prix",
-      "Marc Márquez beats brother Álex to emotional MotoGP world championship"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.901,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.635,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Marc Márquez, riding for Ducati, secured his seventh MotoGP world championship title and his first since 2019 by finishing second at the Japanese Grand Prix, behind race winner Francesco Bagnaia. With this result, Márquez took an unassailable lead in the championship standings with five races remaining in the season.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Europe Nears Ryder Cup Victory with Record Lead Over US",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Sat, 27 Sep 2025 18:53:55 EST",
-    "source": "ESPN",
-    "sources": [
-      "Sportsnet",
-      "ESPN"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "www.espn.com"
-    ],
-    "snippets": [
-      "Europe is on the verge of retaining the Ryder Cup after a dominant Saturday left it just 2.5 points from victory over the United States at Bethpage Black.",
-      "<p>On an &#8220;intense&#8217; Day 2 at the Ryder Cup, Rory McIlroy helped lead the European side to an 11.5-4.5 advantage. </p>\n<p>And if history tells us anything, that’s an insurmountable lead.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Europe holds historic lead, on brink of Ryder Cup",
-      "McIlroy helps Europe take commanding lead after ‘intense’ Day 2 at Ryder Cup"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.758,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.632,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Europe is on the verge of retaining the Ryder Cup after taking a record seven-point lead over the United States at Bethpage Black, despite facing a barrage of insults from the crowd. Rory McIlroy described the abuse as \"really, really challenging.\" Europe needs just 2.5 points to secure victory, following a dominant performance on Saturday. President Donald Trump did not attend the event.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "McIlroy, Lowry Endure Fan Abuse, Lead Europe to Ryder Cup Victory",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sun, 28 Sep 2025 01:23:32 GMT",
-    "source": "BBC",
-    "sources": [
-      "Sportsnet",
-      "BBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "After facing abuse from American fans which \"crossed the line\", Rory McIlroy and Shane Lowry lead Europe towards a rare Ryder Cup away win.",
-      "<p>Rory McIlroy backed away from the ball, turned around and told a group of heckling fans to sShut the (expletive) up!” Then, he stepped up to his shot and did the work himself.</p>"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/509b/live/d25f81e0-9bf6-11f0-be96-85c61452c8b2.jpg",
-    "titles": [
-      "McIlroy & Lowry silence New York crowd on famous European day",
-      "Fiery Rory McIlroy colourfully tells New York crowd to shut up"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.782,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.611,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Rory McIlroy and Shane Lowry faced abuse from American fans during the Ryder Cup, with incidents crossing the line of sportsmanship. Despite the hostile environment, they led Europe towards a rare away victory. McIlroy notably confronted hecklers directly, demanding silence before taking his shot.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Drone Sightings Near Defense Sites in Germany and Denmark",
-    "domain": "business",
-    "source_domain": "fortune.com",
-    "location": "global",
-    "published": "Sat, 27 Sep 2025 23:58:48 +0000",
-    "source": "Fortune",
-    "sources": [
-      "Financial Post",
-      "Fortune"
-    ],
-    "domains": [
-      "financialpost.com",
-      "fortune.com"
-    ],
-    "snippets": [
-      "In neighboring Germany, several drones were reported in the northern German state of Schleswig-Holstein, which borders Denmark, from Thursday into Friday night.",
-      "BERLIN (AP) &#8212; The Danish defense ministry said Saturday that &#8220;drones have been observed at several of Danish defense facilities.&#8221; The new drone sightings overnight Friday into Saturday come after there were several drone sightings in the Nordic country earlier this week, with some "
-    ],
-    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2236871014-e1759017055385.jpg?w=2048",
-    "titles": [
-      "Denmark reports drone sightings at military facilities as NATO warns Russia about violating airspace",
-      "Denmark reports new drone sightings at military facilities"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.776,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.61,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "In Germany and Denmark, multiple drone sightings were reported near defense facilities. In Germany, the drones were seen in Schleswig-Holstein, while in Denmark, the sightings occurred at several defense locations overnight from Friday to Saturday, following earlier reports of drones in the region earlier in the week.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Trump to Deploy Troops to Portland, Threatens \"Full Force\" Use",
-    "domain": "general",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-09-27T17:21:00Z",
-    "source": "Deutsche Welle",
+    "published": "Sun, 28 Sep 2025 11:00:09 GMT",
+    "source": "The Guardian",
     "sources": [
       "The Guardian",
-      "Deutsche Welle"
+      "Forbes"
     ],
     "domains": [
       "www.theguardian.com",
-      "www.dw.com"
+      "www.forbes.com"
     ],
     "snippets": [
-      "US President Donald Trump claimed that Antifa is waging \"war\" on the famously progressive city. Portland's mayor has rejected these claims.",
-      "<p>Apparently misled by hyperbolic reporting from conservative outlets on a single small protest, president described peaceful city as ‘war ravaged’</p><p>Donald Trump said on Saturday he is deploying troops to Portland, Oregon, “authorizing Full Force, if necessary”, ignoring pleas from local offic"
+      "<p>Rising global temperatures are making dry spells longer and more intense, with profound effects on health, food and the economy</p><p>Drought is a “creeping disaster” that devastates regions in slow motion. It kills livestock, ruins harvests, and has knock-on effects across the economy that force",
+      "Liverpool suffered its first loss of the season as Crystal Palace exposed some of the weaknesses in the defending Premier League champions."
     ],
-    "image_url": "",
+    "image_url": "https://i.guim.co.uk/img/media/9e447f81dea87b8015e7ce585bab66d122ad4fa1/0_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=0b409d232031511853d0139947d6cc2d",
     "titles": [
-      "Trump sends troops to Portland over 'domestic terrorists'",
-      "Donald Trump says he is deploying troops to Portland, Oregon"
+      "What are droughts and how worried should we be about them?",
+      "How Worried Should Arne Slot Be By Liverpool’s First Loss?"
     ],
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.676,
+      "magnitude": 0.735,
+      "recency": 0.88,
       "consensus": 0.591,
-      "constructiveness": 0.1,
+      "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.607,
-    "summary_source": "cache",
+    "score": 0.631,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "President Trump announced on Saturday that he plans to deploy troops to Portland, Oregon, authorizing the use of \"Full Force\" if needed to counteract what he termed \"domestic terrorists.\" This decision aims to protect U.S. Immigration and Customs Enforcement facilities. The announcement was made via social media, with no immediate details provided by the White House.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
+    "summary": "Global temperatures are increasing, leading to longer and more intense droughts. These conditions have significant impacts on health, food security, and economies by killing livestock, ruining crops, and causing widespread economic disruptions. Concurrently, Liverpool experienced its first defeat of the season against Crystal Palace, highlighting vulnerabilities in the team's defense as the current Premier League champions.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   }
 ]
