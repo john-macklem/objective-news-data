@@ -1,7 +1,54 @@
 [
   {
+    "title": "Cleveland Guardians Clinch Playoff Spot After Historic Comeback",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sat, 27 Sep 2025 23:07:25 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Sportsnet",
+      "Yahoo Sports",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.espn.com",
+      "sports.yahoo.com",
+      "www.sportsnet.ca",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "The Guardians clinched a playoff berth Saturday night after CJ Kayfus was hit by a pitch with the bases loaded in the ninth inning.",
+      "For the seventh time in 10 seasons, Cleveland heads to the postseason",
+      "Guardians manager Stephen Vogt said in the midst of Cleveland's 10-game losing streak in early July that there was light at the end of the tunnel and things would turn around.  Vogt ended up selling his team a little short, as the Guardians made one of the biggest turnarounds in baseball history.  C",
+      "<p>It took 161 games, but we finally know the six teams that will battle it out in the American League playoffs.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Guardians clinch playoff berth on walk-off HBP",
+      "Guardians clinch MLB playoff spot on walk-off hit-by-pitch in pursuit of AL Central, record-breaking comeback",
+      "Guardians clinch postseason spot with walk-off hit by pitch, complete historic turnaround",
+      "Guardians walk off Rangers on HBP to become final AL playoff team to clinch"
+    ],
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.978,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.81,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Cleveland Guardians secured a playoff spot for the seventh time in ten seasons after a win clinched by CJ Kayfus getting hit by a pitch with bases loaded in the ninth inning. This achievement comes after a significant mid-season turnaround, overcoming a 10-game losing streak in July. The Guardians' entry into the postseason was confirmed in their 161st game, marking one of the biggest comebacks in baseball history.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
     "title": "President Orders Troops to Portland to Guard Immigration Sites",
-    "domain": "business",
+    "domain": "general",
     "source_domain": "www.npr.org",
     "location": "national",
     "published": "Sat, 27 Sep 2025 11:12:33 -0400",
@@ -9,49 +56,84 @@
     "sources": [
       "The Guardian",
       "Axios",
-      "Fortune",
       "NPR",
-      "Forbes",
       "Deutsche Welle"
     ],
     "domains": [
-      "fortune.com",
-      "www.dw.com",
-      "www.npr.org",
-      "news.google.com",
       "www.theguardian.com",
-      "www.forbes.com"
+      "www.npr.org",
+      "www.dw.com",
+      "news.google.com"
     ],
     "snippets": [
       "President Trump is authorizing the deployment of troops to \"protect\" Portland and ICE facilities there from \"domestic terrorists\" as he expands his controversial deployments to more U.S. cities.",
       "US President Donald Trump claimed that Antifa is waging \"war\" on the famously progressive city. Portland's mayor has rejected these claims.",
       "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5PWU9Wdzh0Vmo1QlBWYjhpaTdpU2dFeV9ZcFVUVFN0SXl2SnhVOHlDTUNjdGV6YnVqQ20xQWVzdmpIZlo2ZGkwdUFib3ZHMGNXSXoyaWJIdjZuVmZ0cXg1QWN3VGdNd0UzRlN3NUJFMElTVFk?oc=5\" target=\"_blank\">Trump directs troops to Portland with \"full force\" directive</a>&nbsp;&n",
-      "<p>Apparently misled by hyperbolic reporting from conservative outlets on a single small protest, president described peaceful city as ‘war ravaged’</p><p>Donald Trump said on Saturday he is deploying troops to Portland, Oregon, “authorizing Full Force, if necessary”, ignoring pleas from local offic",
-      "President Donald Trump ordered a crackdown on alleged “organized political violence,” claiming “riots” targeted ICE agents.",
-      "Trump said the decision was necessary to protect U.S. Immigration and Customs Enforcement facilities."
+      "<p>Apparently misled by hyperbolic reporting from conservative outlets on a single small protest, president described peaceful city as ‘war ravaged’</p><p>Donald Trump said on Saturday he is deploying troops to Portland, Oregon, “authorizing Full Force, if necessary”, ignoring pleas from local offic"
     ],
     "image_url": "",
     "titles": [
       "Trump says he will send troops to Portland to deal with 'domestic terrorists'",
       "Trump sends troops to Portland over 'domestic terrorists'",
       "Trump directs troops to Portland with \"full force\" directive - Axios",
-      "Donald Trump says he is deploying troops to Portland, Oregon",
-      "Trump Orders Troops To Portland—Authorizes ‘Full Force’",
-      "Trump says he’ll send troops to Portland, Oregon, in latest deployment to US cities"
+      "Donald Trump says he is deploying troops to Portland, Oregon"
     ],
     "score_components": {
-      "magnitude": 0.986,
-      "recency": 0.83,
-      "consensus": 1.0,
+      "magnitude": 0.892,
+      "recency": 0.763,
+      "consensus": 0.908,
       "constructiveness": 0.1,
       "proximity": 0.75
     },
-    "score": 0.846,
+    "score": 0.777,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The president has directed troops to Portland with a \"full force\" directive, stating it is necessary to protect immigration detention facilities from what he terms \"domestic terrorists.\" This action is part of a broader initiative to address security concerns at these facilities.",
     "constructiveness_score": 0.1,
     "constructiveness_reason": "keywords: initiative",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Lynx Face Elimination in WNBA Semis Without Coach, Injured Star Collier",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sat, 27 Sep 2025 20:21:15 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Sportsnet",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.sportsnet.ca",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "The Lynx will be without their head coach and star player when they face elimination Sunday as Napheesa Collier has been ruled out with an ankle injury.",
+      "The top-seeded Lynx will be without their best player and head coach as they try to keep their season alive",
+      "<p>Minnesota Lynx star Napheesa Collier will miss Game 4 of the WNBA semifinal series against Phoenix on Sunday, two days after injuring her left ankle late in Game 3.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Lynx rule out star Collier for must-win Game 4",
+      "Napheesa Collier injury: Lynx star ruled out of Game 4 with left foot injury suffered late in heated Game 3",
+      "Lynx star Napheesa Collier out for Game 4 vs. Mercury due to ankle injury"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.923,
+      "consensus": 0.789,
+      "constructiveness": 0.1,
+      "proximity": 0.75
+    },
+    "score": 0.756,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Minnesota Lynx face elimination in Game 4 of the WNBA semifinals against Phoenix without their head coach and star player, Napheesa Collier, who has been ruled out due to an ankle injury sustained in Game 3.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: sustain",
     "constructiveness_source": "heuristic"
   },
   {
@@ -63,38 +145,34 @@
     "source": "ESPN",
     "sources": [
       "The Guardian",
-      "Yahoo Sports",
-      "Sportsnet",
-      "ESPN"
+      "ESPN",
+      "Sportsnet"
     ],
     "domains": [
-      "www.sportsnet.ca",
       "www.espn.com",
-      "sports.yahoo.com",
+      "www.sportsnet.ca",
       "www.theguardian.com"
     ],
     "snippets": [
       "Europe is on the verge of retaining the Ryder Cup after a dominant Saturday left it just 2.5 points from victory over the United States at Bethpage Black.",
-      "Europe battled through a torrent of insults from a raucous crowd to grab a record seven-point lead over the United States and move to the brink of retaining the Ryder Cup with a dominant display at Bethpage Black on Saturday.Asked if the crowd went too far, McIlroy replied, &quot;When you play an aw",
       "<ul><li><p>Europe maintain dominance as insults fly from crowd</p></li><li><p>Rory McIlroy calls abuse ‘really, really challenging’</p></li></ul><p>Quite incredibly, this managed to be an even uglier day for the United States of America off the golf course than it was on it. Never in his wildest of ",
-      "<p>President Donald Trump did not attend Day 2 at the Ryder Cup. That was about the only difference Saturday as Europe sent out its same foursomes teams, filled the scoreboard with blue points and delivered a crushing blow to the Americans.</p>"
+      "<p>On an &#8220;intense&#8217; Day 2 at the Ryder Cup, Rory McIlroy helped lead the European side to an 11.5-4.5 advantage. </p>\n<p>And if history tells us anything, that’s an insurmountable lead.</p>"
     ],
     "image_url": "",
     "titles": [
       "Europe holds historic lead, on brink of Ryder Cup",
-      "Europe shrugs off intense abuse to reach brink of Ryder Cup win",
       "Europe seize high ground and 11½-4½ lead over USA into Ryder Cup singles",
-      "Europe takes record lead into Ryder Cup’s Sunday singles"
+      "McIlroy helps Europe take commanding lead after ‘intense’ Day 2 at Ryder Cup"
     ],
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.974,
-      "consensus": 0.908,
+      "magnitude": 0.827,
+      "recency": 0.896,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.809,
-    "summary_source": "gpt",
+    "score": 0.741,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Europe is on the verge of retaining the Ryder Cup after taking a record seven-point lead over the United States at Bethpage Black, despite facing a barrage of insults from the crowd. Rory McIlroy described the abuse as \"really, really challenging.\" Europe needs just 2.5 points to secure victory, following a dominant performance on Saturday. President Donald Trump did not attend the event.",
     "constructiveness_score": 0.0,
@@ -102,138 +180,90 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "England Wins Third Women's Rugby World Cup, Defeating Canada 33-13",
-    "domain": "sports",
-    "source_domain": "www.theguardian.com",
+    "title": "Drones Spotted Over Danish Military Sites; Security Investigating",
+    "domain": "business",
+    "source_domain": "www.aljazeera.com",
     "location": "global",
-    "published": "Sat, 27 Sep 2025 17:01:37 GMT",
-    "source": "The Guardian",
+    "published": "Sat, 27 Sep 2025 12:11:58 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "The Guardian",
-      "Global News",
-      "Sportsnet",
-      "CityNews"
+      "Al Jazeera",
+      "Deutsche Welle",
+      "Financial Post",
+      "Fortune"
     ],
     "domains": [
-      "globalnews.ca",
-      "www.sportsnet.ca",
-      "www.theguardian.com",
-      "ottawa.citynews.ca"
+      "fortune.com",
+      "financialpost.com",
+      "www.aljazeera.com",
+      "www.dw.com"
     ],
     "snippets": [
-      "<ul><li><p>Final: Canada 13-33 England</p></li><li><p>Ellie Kildunne shines for largest crowd in women’s rugby history</p></li></ul><p>If this were a movie, the scriptwriters would be shoo-ins for an Oscar, the plot centred on a dominant team who overcame the heartbreak of losing two back-to-back Ru",
-      "England finally has a Women's Rugby World Cup title to confirm its world domination after outclassing Canada 33-13 in front of a record crowd at Twickenham on Saturday.",
-      "<p>England finally has a Women&#8217;s Rugby World Cup title to confirm its world domination after outclassing Canada 33-13 in front of a record crowd at Twickenham on Saturday.</p>",
-      "England finally has a Women&#8217;s&#160;Rugby&#160;World Cup title to confirm its world domination after outclassing Canada 33-13 in front of a record crowd at Twickenham on Saturday. Victory by five tries to three capped an astonishing World Cup cycle in which England won every match, 33 in a row,"
+      "Unidentified drones seen at several places, including the biggest army base, after a slew of earlier sightings.",
+      "Danish security authorities said drones were seen over the country's biggest military base overnight.",
+      "In neighboring Germany, several drones were reported in the northern German state of Schleswig-Holstein, which borders Denmark, from Thursday into Friday night.",
+      "BERLIN (AP) &#8212; The Danish defense ministry said Saturday that &#8220;drones have been observed at several of Danish defense facilities.&#8221; The new drone sightings overnight Friday into Saturday come after there were several drone sightings in the Nordic country earlier this week, with some "
     ],
-    "image_url": "https://i.guim.co.uk/img/media/419f43299f7512584409b061464caf5943147a87/1909_1397_1898_1519/master/1898.jpg?width=140&quality=85&auto=format&fit=max&s=a347528da6d8c7807fe8f96c7fca0554",
+    "image_url": "",
     "titles": [
-      "England outclass Canada to capture glorious Women’s Rugby World Cup triumph",
-      "Canada loses in Women’s Rugby World Cup final",
-      "Canada drops Women’s Rugby World Cup final against England",
-      "Canada loses Women’s Rugby World Cup final 33-13 to England"
+      "Denmark reports new drone sightings overnight at military sites",
+      "Denmark: New drone sightings over military infrastructure",
+      "Denmark reports drone sightings at military facilities as NATO warns Russia about violating airspace",
+      "Denmark reports new drone sightings at military facilities"
     ],
     "score_components": {
       "magnitude": 0.892,
-      "recency": 0.844,
+      "recency": 0.717,
       "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.758,
+    "score": 0.733,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "England won their third Women's Rugby World Cup title by defeating Canada 33-13 at Twickenham, in front of a record crowd of 81,885. Ellie Kildunne stood out in a game that marked England's dominance in women's rugby, completing a perfect World Cup cycle with 33 consecutive wins. This victory cements England's status as a powerhouse in the sport.",
+    "summary": "Unidentified drones were observed flying over several Danish military sites, including the country's largest base, Karup airbase, on Friday night. Danish security authorities are investigating the incidents, which they have described as part of a \"hybrid attack.\" The current status of the investigation remains ongoing.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Anaheim Ducks Sign Mason McTavish to $42M, Six-Year Extension",
+    "title": "McIlroy, Lowry Endure Fan Abuse, Lead Europe to Ryder Cup Victory",
     "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Sat, 27 Sep 2025 15:30:47 EST",
-    "source": "ESPN",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 01:23:32 GMT",
+    "source": "BBC",
     "sources": [
       "Sportsnet",
-      "NHL",
-      "ESPN"
+      "BBC",
+      "Yahoo Sports"
     ],
     "domains": [
-      "news.google.com",
-      "www.sportsnet.ca",
-      "www.espn.com"
+      "www.bbc.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
-      "The Anaheim Ducks and restricted free agent center Mason McTavish, the 2021 third overall pick who is entering his fifth season, agreed to a six-year extension, the club announced on Saturday, and an NHL source told ESPN the deal is worth $42 million.",
-      "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB6ZVNVb0VVb3RRd0xNYUdMVFFfYlNseUt0RDRyb01LQ3BOQ0FtdGZRLWNrUE9MR3JwMGtTTnVGTXY3dFczQ0Zxalpyc05HYmZodXExQ2RRRHVjMFhBS0ZmNk16dFdQTFY0VjZZUmtWNHptYTM4cDdRamxIaw?oc=5\" target=\"_blank\">Ducks Sign McTavish to Six-Year Contract</a>&nbsp;&nbsp;<font",
-      "<p>Sportsnet&#8217;s Elliotte Friedman reported on Saturday that the 22-year-old centre is closing in on a six-year contract extension worth $42 million. The deal carries a $7 million average annual value.</p>"
+      "After facing abuse from American fans which \"crossed the line\", Rory McIlroy and Shane Lowry lead Europe towards a rare Ryder Cup away win.",
+      "After facing abuse from American fans which &quot;crossed the line&quot;, Rory McIlroy and Shane Lowry lead Europe towards a rare Ryder Cup away win.",
+      "<p>Rory McIlroy backed away from the ball, turned around and told a group of heckling fans to sShut the (expletive) up!” Then, he stepped up to his shot and did the work himself.</p>"
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/509b/live/d25f81e0-9bf6-11f0-be96-85c61452c8b2.jpg",
     "titles": [
-      "Source: Ducks give McTavish six-year, $42M deal",
-      "Ducks Sign McTavish to Six-Year Contract - NHL.com",
-      "Ducks, Mason McTavish agree to six-year, $42M extension"
+      "Europeans silence jeering US crowd with famous Ryder Cup display",
+      "McIlroy & Lowry silence New York crowd on famous European day",
+      "Fiery Rory McIlroy colourfully tells New York crowd to shut up"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.907,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.743,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The Anaheim Ducks have signed restricted free-agent center Mason McTavish to a six-year extension worth $42 million, as announced by the club and reported by ESPN and Sportsnet's Elliotte Friedman. McTavish, the 2021 third overall pick entering his fifth season, will have an average annual value of $7 million under this deal.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "US to Revoke Colombian President's Visa Over Incitement Claims",
-    "domain": "general",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-09-27T03:53:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "The Guardian",
-      "Washington Post",
-      "Deutsche Welle",
-      "New York Times"
-    ],
-    "domains": [
-      "www.washingtonpost.com",
-      "www.nytimes.com",
-      "www.dw.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "The left-wing Colombian president is a critic of Trump and vocally opposes Israel's operation in Gaza. Petro is in New York for the UN General Assembly and had called on US soldiers to disobey Trump.",
-      "<p>At a pro-Palestine protest, Petro urged US soldiers to ‘disobey Trump’s order’ and ‘not point their rifles at humanity’</p><p>The US state department said on Friday it would revoke the visa of <a href=\"https://www.theguardian.com/world/colombia\">Colombian</a> leftist president Gustavo Petro for h",
-      "The State Department accused Petro of urging U.S. soldiers to disobey orders in remarks at a pro-Palestinian rally in New York.",
-      "The State Department called President Gustavo Petro of Colombia reckless after he called for U.S. soldiers to disobey President Trump at a pro-Palestinian rally."
-    ],
-    "image_url": "",
-    "titles": [
-      "Gustavo Petro: US to revoke visa of leftist Colombian leader",
-      "US revokes visa for Colombian president Gustavo Petro after ‘reckless’ actions in New York",
-      "State Department revokes visa for Colombian President Gustavo Petro",
-      "U.S. Says It Will Revoke Colombian President’s Visa"
-    ],
-    "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.655,
-      "consensus": 0.908,
+      "recency": 0.924,
+      "consensus": 0.769,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.727,
-    "summary_source": "cache",
+    "score": 0.717,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The US State Department announced it will revoke the visa of Colombian President Gustavo Petro after he encouraged US soldiers to disobey orders during a pro-Palestinian protest in New York. Petro, who was in the city for the UN General Assembly, criticized Trump and opposed Israel's actions in Gaza. His comments were deemed by the US as incitement to violence.",
+    "summary": "Rory McIlroy and Shane Lowry faced abuse from American fans during the Ryder Cup, with incidents crossing the line of sportsmanship. Despite the hostile environment, they led Europe towards a rare away victory. McIlroy notably confronted hecklers directly, demanding silence before taking his shot.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -246,14 +276,14 @@
     "published": "Sat, 27 Sep 2025 18:37:52 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Global News",
       "Al Jazeera",
-      "CityNews"
+      "CityNews",
+      "Global News"
     ],
     "domains": [
       "ottawa.citynews.ca",
-      "globalnews.ca",
-      "www.aljazeera.com"
+      "www.aljazeera.com",
+      "globalnews.ca"
     ],
     "snippets": [
       "The Russian foreign minister made the comment in an address to the United Nations General Assembly on Saturday.",
@@ -268,60 +298,17 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.891,
+      "recency": 0.819,
       "consensus": 0.789,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.725,
-    "summary_source": "gpt",
+    "score": 0.711,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "At the U.N. General Assembly, Russian Foreign Minister Sergey Lavrov stated Russia does not plan to attack Europe but will respond decisively to any aggression. This comes amid rising tensions and unauthorized flights into NATO airspace, raising concerns across Europe.",
     "constructiveness_score": 0.1,
     "constructiveness_reason": "keywords: plan",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "UN Sanctions on Iran to Be Reimposed After Russian-Chinese Bid Fails",
-    "domain": "business",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Sat, 27 Sep 2025 13:05:20 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Washington Post",
-      "Financial Times",
-      "Al Jazeera"
-    ],
-    "domains": [
-      "www.washingtonpost.com",
-      "www.ft.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "The UN has reimposed sanctions on Iran, a decade after they were lifted as part of the nuclear deal called the JCPOA.",
-      "Tehran fails to meet deadline set by European powers",
-      "Rebuffed by the Trump administration, Iran failed Friday in a last-ditch effort to prevent the “snapback” of global sanctions that were lifted as part of the 2015 nuclear deal."
-    ],
-    "image_url": "",
-    "titles": [
-      "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
-      "UN reimposes sanctions on Iran over its nuclear programme",
-      "U.N. to reimpose sanctions on Iran after weeks of failed diplomacy"
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.794,
-      "consensus": 0.789,
-      "constructiveness": 0.2,
-      "proximity": 0.5
-    },
-    "score": 0.723,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "UN sanctions on Iran, lifted under the 2015 nuclear deal, are set to be reimposed early Sunday after a Russian-Chinese bid to delay them failed. The Security Council voted against the delay, and Iran's last-ditch effort to prevent the sanctions' \"snapback\" was unsuccessful. This development follows the Trump administration's rebuff of Iran's attempts to avoid these sanctions over its nuclear program.",
-    "constructiveness_score": 0.2,
-    "constructiveness_reason": "keywords: development, effort",
     "constructiveness_source": "heuristic"
   },
   {
@@ -332,8 +319,8 @@
     "published": "Sat, 27 Sep 2025 21:00:13 GMT",
     "source": "BBC",
     "sources": [
-      "The Guardian",
       "Financial Times",
+      "The Guardian",
       "BBC"
     ],
     "domains": [
@@ -354,13 +341,13 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.917,
+      "recency": 0.843,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.72,
-    "summary_source": "gpt",
+    "score": 0.705,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The UK government has underwritten a £1.5bn loan guarantee to Jaguar Land Rover (JLR), Britain's largest automotive employer, to help it recover from a cyber-attack and restart engine manufacturing in early October. This move, involving a loan from a commercial bank backed by UK Export Finance, aims to protect the automotive supply chain and provide certainty to suppliers.",
     "constructiveness_score": 0.0,
@@ -368,7 +355,7 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "36 Dead, 50+ Injured in Stampede at Tamil Nadu Rally",
+    "title": "36 Killed in Stampede at Vijay's Rally in Tamil Nadu, Toll May Rise",
     "domain": "general",
     "source_domain": "www.aljazeera.com",
     "location": "global",
@@ -381,265 +368,312 @@
     ],
     "domains": [
       "www.washingtonpost.com",
-      "www.dw.com",
-      "www.aljazeera.com"
+      "www.aljazeera.com",
+      "www.dw.com"
     ],
     "snippets": [
-      "Vijay, who is a well-known actor and goes by only one name, launched a political party last year.",
+      "Vijay, a well-known actor who goes by only one name, launched a political party last year.",
       "At least 36 people were killed in a stampede at a campaign rally for the popular Tamil actor-turned-politician, officials said.",
       "At least 36 people were killed and dozens injured in a stampede Saturday at a political rally in India for a popular actor-turned-politician, authorities said."
     ],
     "image_url": "",
     "titles": [
-      "At least 31 dead, over 50 injured at Indian actor-politician Vijay’s rally",
+      "At least 39 killed in crowd crush at Indian actor-politician Vijay’s rally",
       "India: Dozens killed at rally for actor-politician Vijay",
       "At least 36 killed at Indian actor’s political rally"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.905,
+      "recency": 0.832,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.718,
+    "score": 0.703,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "At least 36 people were killed and over 50 injured in a stampede at a rally in Tamil Nadu, India, led by popular actor and politician Vijay. The incident occurred during an election campaign gathering, with eight children among the victims.",
+    "summary": "At least 36 people were killed in a stampede during a campaign rally for actor-turned-politician Vijay in Tamil Nadu, India. The event drew tens of thousands of supporters. Health officials warn the death toll may increase.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "36 Dead, 50+ Injured in Stampede at Vijay's Tamil Nadu Rally",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sat, 27 Sep 2025 20:04:05 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC",
-      "New York Times"
-    ],
-    "domains": [
-      "www.nytimes.com",
-      "www.bbc.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "Tens of thousands had gathered at a campaign event for actor-turned-politician Vijay in India's southern state of Tamil Nadu.",
-      "<p>Victims include eight children at election campaign gathering in Tamil Nadu led by popular actor and politician</p><p>At least 36 people have been killed and more than 50 injured in a crush at a rally for a popular actor and politician in India.</p><p>The health minister in the southern Indian st",
-      "The stampede took place at an event for Joseph Vijay Chandrasekhar, the popular actor known professionally as Vijay. A health official said the toll was likely to rise."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b4a/live/55e79ee0-9bc9-11f0-928c-71dbb8619e94.jpg",
-    "titles": [
-      "More than 30 dead in crush at political rally in India",
-      "At least 36 dead and more than 50 injured in crush at Vijay rally in India",
-      "Stampede at Actor’s Political Rally Kills at Least 36 in India"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.899,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.717,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "At least 36 people were killed and over 50 injured in a stampede at a campaign rally in Tamil Nadu, India, for actor-turned-politician Joseph Vijay Chandrasekhar, known as Vijay. The tragic event occurred during a large gathering, which included children among the victims. Health officials have indicated that the death toll may rise.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Blue Jays Beat Rays 5-1, Clement Scores Twice, Yesavage Pitches Shutout",
+    "title": "Canadiens Beat Maple Leafs 4-2 in NHL Pre-Season Game",
     "domain": "sports",
     "source_domain": "globalnews.ca",
     "location": "national",
-    "published": "Sat, 27 Sep 2025 21:43:05 +0000",
+    "published": "Sun, 28 Sep 2025 01:51:13 +0000",
     "source": "Global News",
     "sources": [
-      "Sportsnet",
-      "Global News"
+      "Global News",
+      "Sportsnet"
     ],
     "domains": [
-      "globalnews.ca",
-      "www.sportsnet.ca"
+      "www.sportsnet.ca",
+      "globalnews.ca"
     ],
     "snippets": [
-      "Ernie Clement scored twice and drove in two runs while rookie starter Trey Yesavage threw five shutout innings as the Toronto Blue Jays defeated the Tampa Bay Rays 5-1 on Saturday afternoon.",
-      "<p>Watch as Ernie Clement hits a ground ball down the third base line for a two-run double before Andres Gimenez follows suit with an RBI single to get the Blue Jays out in front in the second inning against the Tampa Bay Rays.</p>"
+      "Riley Kidney and Lane Hutson each scored power-play goals in the second period and the visiting Montreal Canadiens defeated the Toronto Maple Leafs 4-2 in NHL pre-season action on Saturday.",
+      "<p>Designated for a new role this season, Alex Newhook looked the part Saturday in a win over the Maple Leafs. </p>\n<p>If he can replicate that type of effort in the regular season, it will go a long way for the Canadiens. </p>"
     ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/cb5558399663a5e2770ee6f5aa1407e6ce43cf1c990bc61c3c5b33a944f3b252.jpg?quality=65&strip=all",
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/aeec906f82173b3430671e411a85bb59a73cc9d1f9e595f4a22c0d3f9ab6e395.jpg?quality=65&strip=all",
     "titles": [
-      "Clement leads the way as Blue Jays top Rays 5-1",
-      "Clement, Gimenez get Blue Jays on the board with back-to-back RBIs"
+      "Canadiens use power play to beat Leafs",
+      "Newhook shines in new role to help Canadiens beat Maple Leafs"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.95,
+      "recency": 0.953,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.695,
+    "score": 0.696,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Ernie Clement scored twice and had two RBIs, and Trey Yesavage pitched five shutout innings, leading the Toronto Blue Jays to a 5-1 victory over the Tampa Bay Rays on Saturday. Clement's performance included a two-run double, and Andres Gimenez added an RBI single in the second inning to secure the win for the Blue Jays.",
+    "summary": "Riley Kidney and Lane Hutson scored power-play goals in the second period, leading the Montreal Canadiens to a 4-2 victory over the Toronto Maple Leafs in an NHL pre-season game. Alex Newhook, in a new role for the Canadiens, also impressed during the match. The outcome highlights potential strengths for Montreal as they prepare for the regular season.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Drones Spotted Over Danish Military Sites; Security Investigating",
-    "domain": "business",
-    "source_domain": "www.aljazeera.com",
+    "title": "England Wins Third Women's Rugby World Cup, Defeating Canada 33-13",
+    "domain": "sports",
+    "source_domain": "www.theguardian.com",
     "location": "global",
-    "published": "Sat, 27 Sep 2025 12:11:58 +0000",
-    "source": "Al Jazeera",
+    "published": "Sat, 27 Sep 2025 17:01:37 GMT",
+    "source": "The Guardian",
     "sources": [
-      "Al Jazeera",
-      "Deutsche Welle",
-      "Financial Post"
+      "The Guardian",
+      "CityNews",
+      "Sportsnet"
     ],
     "domains": [
-      "financialpost.com",
-      "www.dw.com",
-      "www.aljazeera.com"
+      "www.sportsnet.ca",
+      "ottawa.citynews.ca",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "Unidentified drones seen at several places, including the biggest army base, after a slew of earlier sightings.",
-      "Danish security authorities said drones were seen over the country's biggest military base overnight.",
-      "BERLIN (AP) &#8212; The Danish defense ministry said Saturday that &#8220;drones have been observed at several of Danish defense facilities.&#8221; The new drone sightings overnight Friday into Saturday come after there were several drone sightings in the Nordic country earlier this week, with some "
+      "<ul><li><p>Final: Canada 13-33 England</p></li><li><p>Ellie Kildunne shines for largest crowd in women’s rugby history</p></li></ul><p>If this were a movie, the scriptwriters would be shoo-ins for an Oscar, the plot centred on a dominant team who overcame the heartbreak of losing two back-to-back Ru",
+      "<p>England finally has a Women&#8217;s Rugby World Cup title to confirm its world domination after outclassing Canada 33-13 in front of a record crowd at Twickenham on Saturday.</p>",
+      "England finally has a Women&#8217;s&#160;Rugby&#160;World Cup title to confirm its world domination after outclassing Canada 33-13 in front of a record crowd at Twickenham on Saturday. Victory by five tries to three capped an astonishing World Cup cycle in which England won every match, 33 in a row,"
     ],
-    "image_url": "",
+    "image_url": "https://i.guim.co.uk/img/media/419f43299f7512584409b061464caf5943147a87/1909_1397_1898_1519/master/1898.jpg?width=140&quality=85&auto=format&fit=max&s=a347528da6d8c7807fe8f96c7fca0554",
     "titles": [
-      "Denmark reports new drone sightings overnight at military sites",
-      "Denmark: New drone sightings over military infrastructure",
-      "Denmark reports new drone sightings at military facilities"
+      "England outclass Canada to capture glorious Women’s Rugby World Cup triumph",
+      "Canada drops Women’s Rugby World Cup final against England",
+      "Canada loses Women’s Rugby World Cup final 33-13 to England"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.779,
+      "recency": 0.776,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.693,
+    "score": 0.692,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Unidentified drones were observed flying over several Danish military sites, including the country's largest base, Karup airbase, on Friday night. Danish security authorities are investigating the incidents, which they have described as part of a \"hybrid attack.\" The current status of the investigation remains ongoing.",
+    "summary": "England won their third Women's Rugby World Cup title by defeating Canada 33-13 at Twickenham, in front of a record crowd of 81,885. Ellie Kildunne stood out in a game that marked England's dominance in women's rugby, completing a perfect World Cup cycle with 33 consecutive wins. This victory cements England's status as a powerhouse in the sport.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Ravens' Nnamdi Madubuike on Injured Reserve After Neck Injury",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Sat, 27 Sep 2025 17:30:41 EST",
-    "source": "ESPN",
+    "title": "UN Reinstates Sanctions on Iran Over Nuclear Deal Failures",
+    "domain": "business",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Sat, 27 Sep 2025 13:05:20 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "CBS Sports",
-      "ESPN"
+      "Financial Times",
+      "Al Jazeera",
+      "The Guardian"
     ],
     "domains": [
-      "www.espn.com",
-      "www.cbssports.com"
+      "www.ft.com",
+      "www.aljazeera.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "The Baltimore Ravens placed Nnamdi Madubuike, sidelined in Monday's loss to the Detroit Lions, on injured reserve Saturday, which creates more uncertainty about the Pro Bowl defensive tackle's neck injury, as the veteran will now miss at least four games.",
-      "Baltimore's defense takes another hit after three rough weeks to start the season"
+      "The UN has reimposed sanctions on Iran, a decade after they were lifted as part of the nuclear deal called the JCPOA.",
+      "Tehran fails to meet deadline set by European powers",
+      "<p>Sanctions bar dealings related to Tehran’s nuclear and ballistic missiles program and are also expected to have wider effects on its troubled economy</p><p>Widespread UN sanctions against Iran have come back into force for the first time in a decade, after last-ditch nuclear talks with western po"
     ],
     "image_url": "",
     "titles": [
-      "Ravens place DT Madubuike on injured reserve",
-      "Nnamdi Madubuike injury: Ravens place Pro Bowl defensive lineman on injured reserve with neck injury"
+      "Iran slams ‘illegal’ vote as UN reimposes decade-old sanctions",
+      "UN reimposes sanctions on Iran over its nuclear programme",
+      "Sweeping UN sanctions on Iran come into effect after nuclear talks fail"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.946,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.75
+      "magnitude": 0.847,
+      "recency": 0.73,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
     },
-    "score": 0.679,
+    "score": 0.69,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The Baltimore Ravens have placed Pro Bowl defensive tackle Nnamdi Madubuike on injured reserve due to a neck injury sustained in Monday's loss to the Detroit Lions. This move sidelines him for a minimum of four games, adding to the challenges faced by Baltimore's defense, which has struggled in the first three weeks of the season.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: sustain",
+    "summary": "The UN has reinstated sanctions on Iran for the first time in a decade after Tehran failed to meet the deadline set by European powers regarding the nuclear deal, JCPOA. These sanctions, targeting Iran's nuclear and ballistic missiles program, are anticipated to broadly impact its already struggling economy.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Jones' Hit Secures Tigers' Playoff Spot with 2-1 Win Over Red Sox",
+    "title": "Marc-Andre Fleury Retires with Ovation in Final Penguins Game",
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Sat, 27 Sep 2025 19:11:33 EST",
+    "published": "Sat, 27 Sep 2025 22:59:03 EST",
     "source": "ESPN",
     "sources": [
-      "Sportsnet",
-      "ESPN"
+      "ESPN",
+      "Sportsnet"
     ],
     "domains": [
-      "www.sportsnet.ca",
-      "www.espn.com"
+      "www.espn.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
-      "Jahmai Jones hit a two-run single to rally the struggling Detroit Tigers from an early deficit, and his team hung on to defeat the Boston Red Sox 2-1 on Saturday, clinching a spot in the American League playoffs for the second straight season.",
-      "<p>Jamhai Jones hit a two-run single to rally Detroit from an early deficit, and the Tigers beat the Boston Red Sox 2-1 on Saturday to clinch a spot in the AL playoffs.</p>"
+      "Marc-Andre Fleury, who signed a ceremonial professional tryout contract earlier this month, received a standing ovation in his final game with the Penguins, a 4-1 preseason win against the Blue Jackets.",
+      "<p>Marc-Andre Fleury stopped all eight shots he faced during the third period of his final game with the Pittsburgh Penguins, a 4-1 preseason win against the Columbus Blue Jackets on Saturday night.</p>",
+      "<p>Watch as Pittsburgh Penguins legend Marc-Andre Fleury is given a standing ovation by the home crowd after putting on a remarkable performance in his final appearance with the team.</p>"
     ],
     "image_url": "",
     "titles": [
-      "Tigers win, secure second straight playoff berth",
-      "Tigers clinch AL playoff berth with win over Red Sox"
+      "Fleury bids emotional farewell in last Pens game",
+      "Marc-Andre Fleury receives emotional farewell in final game with Penguins",
+      "Gotta See It: Fleury receives standing ovation in final send-off with Penguins"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.98,
+      "recency": 0.975,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.676,
+    "score": 0.675,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Jahmai Jones hit a two-run single, helping the Detroit Tigers overcome an early deficit to defeat the Boston Red Sox 2-1 on Saturday. This victory secured the Tigers a spot in the American League playoffs for the second consecutive season.",
+    "summary": "Marc-Andre Fleury, after signing a ceremonial contract, played his final game with the Pittsburgh Penguins, receiving a standing ovation. In this 4-1 preseason win against the Columbus Blue Jackets, Fleury stopped all eight shots in the third period, marking a memorable farewell performance.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Americans Lead Ryder Cup After Day One, Young and DeChambeau Shine",
-    "domain": "sports",
-    "source_domain": "sports.yahoo.com",
-    "location": "national",
-    "published": "Sat, 27 Sep 2025 23:39:58 +0000",
-    "source": "Yahoo Sports",
+    "title": "Ukraine Seeks Drone Sale to US, Eyes More Arms Deals; Russia Warns UN",
+    "domain": "business",
+    "source_domain": "www.theguardian.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 02:26:28 GMT",
+    "source": "The Guardian",
     "sources": [
-      "Yahoo Sports",
-      "Sports Illustrated"
+      "The Guardian",
+      "Financial Post"
     ],
     "domains": [
-      "news.google.com",
-      "sports.yahoo.com"
+      "financialpost.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "Young, the best U.S. player on Day 1, nearly holed out after DeChambeau hit his opening drive to 70 yards.  Aberg made an 11-footer to tie that hole and not until No. 3 did the Americans take a lead they wouldn’t relinquish.",
-      "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0cyaXRvWnhfLUFhLWVxdXROczdncE1zNmM4YzFzRDQwTUNMR013emFxYnhmZGpNZlhKWXcxLUIyV245Y2NwNDA4cWg2d1hkM3ltSjhJbXVFdEFpYnd6SjRMWUlEYU80TkpLbldMTmhtdUI0Tk45R1pnZEFzdDNMY2VyZw?oc=5\" target=\"_blank\">America’s Ryder Cup Losers Were Outside the Ropes"
+      "<p>Zelenskyy says Ukraine also working on deal to sell drones to the US; Sergei Lavrov tells UN ‘any aggression’ against Russia will be met with ‘decisive response’. What we know on day 1,313</p><ul><li><p><a href=\"https://www.theguardian.com/world/russia+ukraine\">See all our Russia-Ukraine war cove",
+      "Ukraine is ready to secure additional deals with the US on arms deliveries, including long-range weapons, in addition to an existing $90 billion agreement, according to President Volodymyr Zelenskiy."
     ],
-    "image_url": "",
+    "image_url": "https://i.guim.co.uk/img/media/3e59abb7420b4d60a4d4aec9148c6da390218863/390_0_5908_4728/master/5908.jpg?width=140&quality=85&auto=format&fit=max&s=cf99930c3b26dc59ea5b6063db04926f",
     "titles": [
-      "Ryder Cup summaries from Saturday's matches at Bethpage Black",
-      "America’s Ryder Cup Losers Were Outside the Ropes Saturday at Bethpage Black - Sports Illustrated"
+      "Ukraine war briefing: Ukraine discussing ‘mega’ arms deal with US, Zelenskyy says",
+      "Zelenskiy Says Ukraine Seeks Long-Range Arms Deals With US"
+    ],
+    "score_components": {
+      "magnitude": 0.775,
+      "recency": 0.944,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.668,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Ukraine's President Zelenskyy announced the country is working on a deal to sell drones to the US and is ready to secure more arms deals, including long-range weapons, beyond the existing $90 billion agreement. Meanwhile, Russia's Sergei Lavrov warned the UN that any aggression against Russia would prompt a 'decisive response'. This development occurs on day 1,313 of the conflict.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: development",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "US to Revoke Colombian President's Visa Over Incitement Claims",
+    "domain": "general",
+    "source_domain": "www.theguardian.com",
+    "location": "global",
+    "published": "Sat, 27 Sep 2025 05:41:52 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "The Guardian",
+      "New York Times",
+      "Washington Post"
+    ],
+    "domains": [
+      "www.washingtonpost.com",
+      "www.nytimes.com",
+      "www.theguardian.com"
+    ],
+    "snippets": [
+      "<p>At a pro-Palestine protest, Petro urged US soldiers to ‘disobey Trump’s order’ and ‘not point their rifles at humanity’</p><p>The US state department said on Friday it would revoke the visa of <a href=\"https://www.theguardian.com/world/colombia\">Colombian</a> leftist president Gustavo Petro for h",
+      "The State Department accused Petro of urging U.S. soldiers to disobey orders in remarks at a pro-Palestinian rally in New York.",
+      "The State Department called President Gustavo Petro of Colombia reckless after he called for U.S. soldiers to disobey President Trump at a pro-Palestinian rally.",
+      "<p>State department said it would revoke Petro’s visa after he joined a pro-Palestinian rally in New York, where he called for US soldiers to ‘disobey’ Trump</p><p>The Colombian president, <a href=\"https://www.theguardian.com/profile/gustavo-petro\">Gustavo Petro</a>, has dismissed the US decision to"
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/e6f1015e4d2aaf8fe372de8e552b18d6f6cb9b19/370_0_3044_2437/master/3044.jpg?width=140&quality=85&auto=format&fit=max&s=269f6f22fe8835539781931b5431ff23",
+    "titles": [
+      "US revokes visa for Colombian president Gustavo Petro after ‘reckless’ actions in New York",
+      "State Department revokes visa for Colombian President Gustavo Petro",
+      "U.S. Says It Will Revoke Colombian President’s Visa",
+      "‘I don’t care’: Colombia president Petro hits back after US revokes his visa"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.613,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.666,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The US State Department announced it will revoke the visa of Colombian President Gustavo Petro after he encouraged US soldiers to disobey orders during a pro-Palestinian protest in New York. Petro, who was in the city for the UN General Assembly, criticized Trump and opposed Israel's actions in Gaza. His comments were deemed by the US as incitement to violence.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Saturday Upsets Shake Up College Football Playoff Bracket",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Sun, 28 Sep 2025 03:43:06 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Sports Illustrated",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.cbssports.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "Statement wins on a chaotic Saturday led to a shake up in the College Football Playoff bracket",
+      "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkJQVkdwOURlU0RYUlJCZE5IM1pNN2g1S0poRG5fbndSTHZfODJPMUxrSklWMUtQN0QwSHlaVUZQR0dTbVFFLUUyYUlyR043RnVqVkh6ZEw0aHY2eW5sNXNpdENjQTVLS2tCT0dXdFBnVExudmRSaTZVcExCSUY1bWs2ZEdUeG1kQmRvbjZFME4?oc=5\" target=\"_blank\">College Football Playoff Bracket"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/28/2627799c-50ea-45a9-93c7-07a0b48d6d36/bama-bowl-projections.png",
+    "titles": [
+      "Bowl projections: SEC, Big Ten own College Football Playoff field with Alabama, Oregon, Ole Miss among risers",
+      "College Football Playoff Bracket Week 5 Projections: Ole Miss Vaults Into Rankings - Sports Illustrated"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.989,
+      "recency": 0.99,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
@@ -647,7 +681,85 @@
     "score": 0.653,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "On the first day of the Ryder Cup, Young, the top U.S. player, nearly secured a hole with DeChambeau's opening drive, but Aberg's 11-footer tied the hole. It wasn't until the third hole that the Americans took a lead, which they maintained throughout.",
+    "summary": "On a chaotic Saturday, significant victories led to major changes in the College Football Playoff bracket. This shakeup has altered the landscape for teams vying for a championship contention.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Argentina Shocked by Live-Streamed Murder of Three Women; 5 Arrested",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Sun, 28 Sep 2025 02:30:07 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "Drug gang suspected in torture and murder of two young women, and a 15-year-old girl, in crime that shocks Argentina.",
+      "The murder of three young women who were tortured live on social media has shocked Argentina. Five suspects have been detained but the alleged mastermind behind the killings is still at large."
+    ],
+    "image_url": "",
+    "titles": [
+      "Thousands protest livestreamed murder of 2 women, young girl in Argentina",
+      "Argentina: Thousands march for women murdered on livestream"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.966,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.648,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "In Argentina, three young women, including a 15-year-old girl, were tortured and murdered, an act broadcasted live on social media, shocking the nation. Five suspects are in custody, yet the alleged mastermind remains at large.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Golden Lion Tamarins, Sloths Share Habitat at Palm Beach Zoo",
+    "domain": "science",
+    "source_domain": "abcnews.go.com",
+    "location": "national",
+    "published": "Sat, 27 Sep 2025 21:24:11 -0400",
+    "source": "ABC News",
+    "sources": [
+      "ABC News",
+      "Phys.org"
+    ],
+    "domains": [
+      "phys.org",
+      "abcnews.go.com"
+    ],
+    "snippets": [
+      "Golden lion tamarins and Hoffman's two-toed sloths have become unlikely roommates in a brand new habitat at the Palm Beach Zoo and Conservation Society.",
+      "Golden lion tamarins and Hoffman's two-toed sloths have become unlikely roommates in a brand new habitat at the Palm Beach Zoo and Conservation Society in Florida."
+    ],
+    "image_url": "https://s.abcnews.com/images/Entertainment/250927_abc_social_monkey_hpMain_4x3_384.jpg",
+    "titles": [
+      "WATCH:  Golden lion tamarins and sloths become unlikely roommates at Florida zoo",
+      "Golden lion tamarins and sloths become unlikely roommates at Palm Beach Zoo"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.944,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.644,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Golden lion tamarins and Hoffman's two-toed sloths are now cohabiting in a new habitat at the Palm Beach Zoo and Conservation Society in Florida, showcasing an unusual pairing of species.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -660,8 +772,8 @@
     "published": "Sat, 27 Sep 2025 23:26:05 +0000",
     "source": "Fortune",
     "sources": [
-      "Fortune",
-      "CityNews"
+      "CityNews",
+      "Fortune"
     ],
     "domains": [
       "fortune.com",
@@ -678,13 +790,13 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.985,
+      "recency": 0.906,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.652,
-    "summary_source": "gpt",
+    "score": 0.636,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The U.S. State Department revoked the visa of Colombian President Gustavo Petro after he urged American soldiers to disobey President Trump's orders during a protest in New York against the war in Gaza. This action has heightened tensions between the United States and Colombia.",
     "constructiveness_score": 0.0,
@@ -692,79 +804,40 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Europe Leads Ryder Cup With Record Advantage After Dominating Fourballs",
-    "domain": "sports",
-    "source_domain": "www.theguardian.com",
+    "title": "Portland Officials Oppose Trump's National Guard Deployment Order",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
     "location": "global",
-    "published": "Sat, 27 Sep 2025 23:27:17 GMT",
-    "source": "The Guardian",
+    "published": "Sat, 27 Sep 2025 20:32:44 +0000",
+    "source": "Al Jazeera",
     "sources": [
       "The Guardian",
-      "Sky Sports"
+      "Al Jazeera"
     ],
     "domains": [
-      "www.theguardian.com",
-      "www.skysports.com"
+      "www.aljazeera.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "<p>Europe won three out of four fourballs matches to put themselves in a commanding position at Bethpage Black</p><p><strong>Matt Fitzpatrick and Cameron Young send their drives at 2 down the middle.</strong> Ludvig Åberg finds the green with his approach but the ball spins back into the fringe. Bry",
-      "Highlights of the Saturday fourballs session from the Ryder Cup at Bethpage as Europe dominate Team USA and build a record lead!"
+      "The city&#039;s Democratic mayor says there is no need for the US president to send federal forces.",
+      "<p>Officials in Portland have pushed back against the announcement, saying there is  ‘no need for military troops’ – key US politics stories from Saturday 27 September</p><p>Donald Trump has ordered the deployment of the national guard to Portland, Oregon, authorizing “full force, if necessary”, ign"
     ],
-    "image_url": "https://i.guim.co.uk/img/media/fa4777c1d81d121555bfa762c236eca71fdda303/149_0_3819_3057/master/3819.jpg?width=140&quality=85&auto=format&fit=max&s=dccea51e237410eda80bd60eba36979e",
+    "image_url": "",
     "titles": [
-      "Ryder Cup: Europe dominate fourballs to stretch lead over USA to 11½-4½ on fiery day two – as it happened",
-      "Europe dominate Team USA at Ryder Cup! | Saturday fourballs highlights!"
+      "Trump orders deployment of troops to US city of Portland and ICE facilities",
+      "Trump news at a glance: Trump orders deployment of national guard to ‘war ravaged’ Portland"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.965,
+      "magnitude": 0.755,
+      "recency": 0.853,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.648,
+    "score": 0.633,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Europe dominated the Ryder Cup Saturday fourballs session at Bethpage Black, winning three out of four matches against Team USA. This victory puts Europe in a commanding position with a record lead. Key moments included Matt Fitzpatrick and Cameron Young hitting strong drives, and Ludvig Åberg's approach shot reaching the green.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Golden Lion Tamarins, Sloths Share Habitat at Palm Beach Zoo",
-    "domain": "science",
-    "source_domain": "abcnews.go.com",
-    "location": "national",
-    "published": "Sat, 27 Sep 2025 16:55:00 -0400",
-    "source": "ABC News",
-    "sources": [
-      "ABC News",
-      "Phys.org"
-    ],
-    "domains": [
-      "abcnews.go.com",
-      "phys.org"
-    ],
-    "snippets": [
-      "Golden lion tamarins and Hoffman's two-toed sloths have become unlikely roommates in a brand new habitat at the Palm Beach Zoo and Conservation Society.",
-      "Golden lion tamarins and Hoffman's two-toed sloths have become unlikely roommates in a brand new habitat at the Palm Beach Zoo and Conservation Society in Florida."
-    ],
-    "image_url": "https://s.abcnews.com/images/Entertainment/250927_abc_social_monkey_hpMain_4x3_384.jpg",
-    "titles": [
-      "WATCH:  Golden lion tamarins and sloths become unlikely roommates at Florida zoo",
-      "Golden lion tamarins and sloths become unlikely roommates at Palm Beach Zoo"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.934,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.642,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Golden lion tamarins and Hoffman's two-toed sloths are now cohabiting in a new habitat at the Palm Beach Zoo and Conservation Society in Florida, showcasing an unusual pairing of species.",
+    "summary": "Portland officials, including the city's Democratic mayor, have opposed President Donald Trump's order to deploy the National Guard to Portland, Oregon. They argue that there is no need for military troops in the city. This response comes after Trump's authorization for the deployment, emphasizing the use of \"full force, if necessary.\"",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -788,19 +861,19 @@
       "The president says the latest move to send troops to a major US city is \"necessary\" to protect immigration detention facilities.",
       "Move to protect immigration enforcement facilities is fourth deployment in Democrat-controlled US cities"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f35b/live/f3e23540-9bcb-11f0-abc3-59cd99a67fd1.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f730/live/021eaaf0-9c01-11f0-928c-71dbb8619e94.jpg",
     "titles": [
       "Trump authorises 'full force' as Portland set to become latest city to see troops deployed",
       "Trump authorises ‘full force’ as he orders troops to ‘war-ravaged’ Portland"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.93,
+      "recency": 0.856,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.641,
+    "score": 0.626,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The President has announced the deployment of troops to a major US city, marking the fourth such action in Democrat-controlled cities. This move aims to safeguard immigration detention facilities, deemed \"necessary\" for their protection.",
@@ -809,237 +882,40 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Admin Seeks Court Approval Amid Legal Battles; Decision Months Away",
+    "title": "Hints and Answers for Today's NYT Mini Crossword and Connections Puzzle",
     "domain": "business",
-    "source_domain": "www.bbc.com",
+    "source_domain": "www.forbes.com",
     "location": "global",
-    "published": "Sat, 27 Sep 2025 17:01:08 GMT",
-    "source": "BBC",
+    "published": "Sat, 27 Sep 2025 19:02:07 -0400",
+    "source": "Forbes",
     "sources": [
-      "Fortune",
-      "BBC"
+      "Forbes"
     ],
     "domains": [
-      "www.bbc.com",
-      "fortune.com"
+      "www.forbes.com"
     ],
     "snippets": [
-      "The Trump administration asks the court to clear the way for the order, which has faced a series of legal challenges.",
-      "Any decision on whether to take up the case probably is months away and arguments probably would not take place until the late winter or early spring."
+      "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.",
+      "Looking for some help with today's NYT Connections? Some hints and the answers for today's game are right here."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b10/live/22759610-9bb6-11f0-852e-075d0572b37f.jpg",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/66ad93159698a3280d18584c/0x0.jpg?width=960",
     "titles": [
-      "Trump officials ask Supreme Court to uphold ban on birthright citizenship",
-      "Trump asks Supreme Court to back his limits on birthright citizenship and upend how the 14th Amendment’s been interpreted for 125 years"
+      "Today’s NYT Mini Crossword Clues And Answers For Sunday, September 28th",
+      "NYT Connections Today: Hints, Answers For Sunday, September 28"
     ],
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.844,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
+      "magnitude": 0.373,
+      "recency": 0.898,
+      "consensus": 0.35,
+      "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.631,
+    "score": 0.458,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The Trump administration has requested a court to allow an order to proceed, despite ongoing legal challenges. A decision on whether the case will be heard is expected to take months, with potential arguments not occurring until late winter or early spring.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Prince William Shares 2024 as Toughest Year on \"The Reluctant Traveler\"",
-    "domain": "general",
-    "source_domain": "abcnews.go.com",
-    "location": "national",
-    "published": "Sat, 27 Sep 2025 08:01:02 -0400",
-    "source": "ABC News",
-    "sources": [
-      "ABC News",
-      "CityNews"
-    ],
-    "domains": [
-      "abcnews.go.com",
-      "ottawa.citynews.ca"
-    ],
-    "snippets": [
-      "Prince William has told &ldquo;Schitt's Creek&rdquo; star Eugene Levy that 2024 was the hardest year of his life",
-      "LONDON (AP) — Prince William has told “Schitt&#8217;s Creek” star Eugene Levy that 2024 was the hardest year of his life. The royal made an appearance on Levy&#8217;s show “The Reluctant Traveler” and spoke about last year, which saw his wife Kate, the Princess of Wales, and his father King Charles "
-    ],
-    "image_url": "https://s.abcnews.com/images/Entertainment/wirestory_a352852fc546e7182d2354cf5356a967_4x3_384.jpg",
-    "titles": [
-      "Prince William says 2024 was the hardest year of his life",
-      "Prince William says 2024 was the hardest year of his life"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.776,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.61,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Prince William revealed to Eugene Levy on \"The Reluctant Traveler\" show that 2024 was the most challenging year of his life. This disclosure was made during an appearance that highlighted personal difficulties, involving his wife Kate, the Princess of Wales, and his father, King Charles.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Two Women Die Crossing Channel to Britain in Makeshift Boat",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sat, 27 Sep 2025 09:54:22 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "Authorities say the pair died off the coast of northern France after about 100 people set off by makeshift boat.",
-      "<p>French authorities say about 100 people were attempting to reach the UK on a makeshift boat</p><p>Two women have died while trying to cross the Channel to Britain, French authorities said.</p><p>The incident occurred south of the beaches of Neufchâtel-Hardelot, where about 100 people were trying "
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9fb/live/b3e81c80-9b8e-11f0-bdeb-9de9348d5d1d.jpg",
-    "titles": [
-      "Two women die during failed Channel crossing attempt",
-      "Two women die trying to cross Channel from France"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.727,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.607,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Two women died attempting to cross the Channel to Britain in a makeshift boat, according to French authorities. The incident involved around 100 people and occurred south of Neufchâtel-Hardelot, off the coast of northern France.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Iran Recalls Ambassadors from E3 Over Nuclear Sanctions Move",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Sat, 27 Sep 2025 08:31:33 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Deutsche Welle"
-    ],
-    "domains": [
-      "www.dw.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "The E3 countries triggered the mechanism one month ago to reimpose sanctions, which come into effect on Sunday.",
-      "As Iran braces for potential sanctions, it has recalled its ambassadors to Germany, France and the UK. Meanwhile, Lebanon's Hezbollah group marks the first anniversary of the killing of its leader Nasrallah. Follow DW."
-    ],
-    "image_url": "",
-    "titles": [
-      "Iran recalls envoys to UK, France, Germany as UN sanctions reimposed",
-      "Iran summons European envoys ahead of expected sanctions"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.722,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.606,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Iran has recalled its ambassadors from France, Germany, and the UK in response to the E3 countries triggering a mechanism to reimpose U.N. nuclear sanctions, set to take effect on Sunday. This move comes as Iran prepares for the potential impact of these sanctions.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "U.S. Faces Government Shutdown Over Border Wall Funding Dispute",
-    "domain": "business",
-    "source_domain": "www.cnbc.com",
-    "location": "national",
-    "published": "Sat, 27 Sep 2025 03:23:09 GMT",
-    "source": "CNBC",
-    "sources": [
-      "Financial Post",
-      "CNBC"
-    ],
-    "domains": [
-      "www.cnbc.com",
-      "financialpost.com"
-    ],
-    "snippets": [
-      "The government previously shut down during President Donald Trump's first term over disputes about funding his planned U.S.-Mexico border wall.",
-      "US government shutdowns have become so common in recent decades that every federal agency has a playbook for how to implement them."
-    ],
-    "image_url": "",
-    "titles": [
-      "Here's what to know about a federal government shutdown",
-      "Here’s What Happens When the US Government Shuts Down"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.635,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.589,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "During President Donald Trump's first term, the U.S. government experienced a shutdown due to disagreements over funding for a proposed U.S.-Mexico border wall. Government shutdowns have occurred frequently enough in recent years that all federal agencies now have specific guidelines for operating during such shutdowns.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "US Lawmakers Release Epstein Documents; Musk Labels News Story \"False\"",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sat, 27 Sep 2025 03:39:38 GMT",
-    "source": "BBC",
-    "sources": [
-      "Global News",
-      "BBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "globalnews.ca"
-    ],
-    "snippets": [
-      "More documents related to the late convicted paedophile Jeffrey Epstein have been released by lawmakers in the US.",
-      "In an X post referencing a news story about the documents' release, Elon Musk wrote: \"This is false.\""
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e42/live/89472f60-9b53-11f0-92db-77261a15b9d2.jpg",
-    "titles": [
-      "Elon Musk and Prince Andrew named in new Epstein files",
-      "Elon Musk, Peter Thiel named in newly released Epstein estate documents"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.639,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.583,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "US lawmakers released additional documents connected to the late convicted paedophile Jeffrey Epstein. Following this, Elon Musk, on X, labeled a news story about the document release as \"false.\"",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
+    "summary": "Need assistance with today's NYT Mini Crossword or Connections puzzle? Find hints and answers for both games here. This resource provides solutions to help you complete the puzzles successfully.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: solution",
     "constructiveness_source": "heuristic"
   }
 ]
