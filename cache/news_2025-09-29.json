@@ -8,46 +8,34 @@
     "source": "NPR",
     "sources": [
       "Washington Post",
-      "Deutsche Welle",
-      "Al Jazeera",
-      "BBC",
-      "NPR",
-      "The Guardian"
+      "The Guardian",
+      "NPR"
     ],
     "domains": [
-      "www.aljazeera.com",
-      "www.bbc.com",
-      "www.dw.com",
-      "www.theguardian.com",
+      "www.npr.org",
       "www.washingtonpost.com",
-      "www.npr.org"
+      "www.theguardian.com"
     ],
     "snippets": [
       "Moldova's pro-Western governing party won a clear parliamentary majority, defeating pro-Russian groups in an election that was widely viewed as a stark choice between East and West.",
-      "The election was seen as critical for Moldova's EU path, and President Maia Sandu warned the country's future was in danger.",
-      "The governing party decisively victorious in parliamentary election widely viewed as a choice between Europe and Russia.",
-      "Moldovans voted in a high-stakes election to decide whether the country moves closer to the European Union or Russia. The defeated pro-Russian party has called for a protest against the results. Follow DW for more.",
       "<p>PAS garners 50.03% of vote after more than 99.5% of ballots counted in poll deciding whether country steers closer to EU or Russia</p><p>Moldova’s ruling pro-European party has retained its parliamentary majority after Sunday’s pivotal election, seen as a test of the president’s push to keep the ",
-      "The results brought a sign of relief for the European Union, as Moldova showed firm public support for the ruling party’s pro-Europe course."
+      "The results brought a sigh of relief for the European Union, as Moldova showed firm public support for the ruling party’s pro-Europe course."
     ],
     "image_url": "",
     "titles": [
       "Moldova's pro-EU party wins clear parliamentary majority, defeating pro-Russian groups",
-      "Moldova's pro-EU party wins vote mired in claims of Russian interference",
-      "Moldova’s pro-EU party wins election hit by Russian interference claims",
-      "Moldova: Ruling pro-EU party wins election",
       "Moldova’s pro-European party retains majority in key election",
       "In defeat for Russia, pro-E.U. party wins Moldovan parliamentary majority"
     ],
     "score_components": {
-      "magnitude": 0.986,
-      "recency": 0.95,
-      "consensus": 1.0,
+      "magnitude": 0.827,
+      "recency": 0.874,
+      "consensus": 0.789,
       "constructiveness": 0.1,
       "proximity": 0.75
     },
-    "score": 0.87,
-    "summary_source": "gpt",
+    "score": 0.746,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Moldova's pro-European governing party won a parliamentary majority in a critical election, defeating pro-Russian factions. The victory is seen as a pivotal moment for Moldova's future direction, with the country expressing strong support for closer ties with the European Union. President Maia Sandu hailed the outcome as crucial for Moldova's EU path. The election, marking a significant choice between aligning with Europe or Russia, concluded with over 50% of votes for the pro-European party. The defeated pro-Russian party has called for protests against the results.",
     "constructiveness_score": 0.1,
@@ -55,427 +43,87 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Bad Bunny to Headline 2026 Super Bowl Halftime Show",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Mon, 29 Sep 2025 08:33:30 GMT",
-    "source": "BBC",
+    "title": "Trump Proposes 100% Tariff on Foreign-Made Movies",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Mon, 29 Sep 2025 13:27:01 GMT",
+    "source": "Axios",
     "sources": [
-      "Forbes",
-      "CBS Sports",
       "Axios",
-      "BBC",
-      "Sky Sports",
-      "The Guardian"
+      "Forbes",
+      "Global News"
     ],
     "domains": [
-      "www.bbc.com",
-      "www.theguardian.com",
-      "www.cbssports.com",
-      "www.skysports.com",
-      "www.forbes.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "The Puerto Rican pop star has otherwise avoided the US on his forthcoming world tour because of ICE.",
-      "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTA4MnZGLTNwMVViRVhST3dHWG5xQmJ6UFVpTklSbFBxSy1rMGctY1Nlb2pIdGpRSnpyTld1SEhLUVFPNlR4NFBEWlhzNExvRUh2TDRCNkhNanhOWTdEc1R0bUVNWDdsNWdZM2I1aWFzMFZENUVZMlJMVlFkRl9tbE92VQ?oc=5\" target=\"_blank\">Bad Bunny to headline Super Bowl halftime show in",
-      "Bad Bunny, a three-time Grammy Award winner, is the most-streamed artist in the world",
-      "Check out the list of artists who've taken the stage in the history of the iconic event",
-      "<p>Latin trap and reggaeton artist to lead NFL half-time celebration on 8 February, following Kendrick Lamar’s record-breaking 2025 show</p><p>Bad Bunny will headline the NFL’s biggest stage next year: the Super Bowl half-time show in northern California.</p><p>The NFL, Apple Music and Roc Nation an",
-      "Get to know who is Bad Bunny before he performs at the NFL's 2026 Super Bowl LX Halftime Show that could mark a politically charged moment.",
-      "Puerto Rican reggaeton star Bad Bunny will headline next year's Super Bowl half-time show in Santa Clara, California, the NFL has announced."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e26/live/5555a220-9d08-11f0-92db-77261a15b9d2.jpg",
-    "titles": [
-      "Bad Bunny revealed as Super Bowl half-time show performer",
-      "Bad Bunny to headline Super Bowl halftime show in 2026 - Axios",
-      "Bad Bunny selected to perform during 2026 Super Bowl LX halftime show",
-      "Full list of every Super Bowl halftime performer in history: Bad Bunny to headline show in 2026",
-      "Puerto Rican superstar Bad Bunny to headline 2026 Super Bowl half-time show",
-      "Bad Bunny To Play 2026 Super Bowl LX Halftime Show: All The Details",
-      "Bad Bunny to headline 2026 Super Bowl half-time show"
-    ],
-    "score_components": {
-      "magnitude": 0.986,
-      "recency": 0.909,
-      "consensus": 1.0,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.827,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Puerto Rican artist Bad Bunny, a three-time Grammy winner and the world's most-streamed artist, is set to headline the Apple Music Super Bowl Halftime Show at Levi's Stadium in Santa Clara, California, on Feb. 8. His performance at the 2026 Super Bowl LX could be a significant, potentially politically charged event.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Chris Woakes Retires from International Cricket After 15-Year Career",
-    "domain": "sports",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Mon, 29 Sep 2025 11:44:51 GMT",
-    "source": "BBC",
-    "sources": [
-      "Sky Sports",
-      "BBC",
-      "Yahoo Sports",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "sports.yahoo.com",
-      "www.theguardian.com",
-      "www.skysports.com",
-      "www.independent.co.uk"
-    ],
-    "snippets": [
-      "England all-rounder Chris Woakes says \"the moment has come\" for him to retire from international cricket.",
-      "England fast bowler Chris Woakes announced his immediate retirement from international cricket on Monday after 62 test matches and World Cup wins in the ODI and Twenty20 formats.  The 36-year-old Woakes was left out of England squad for the upcoming Ashes series Down Under after failing to fully rec",
-      "England all-rounder Chris Woakes says &quot;the moment has come&quot; for him to retire from international cricket.",
-      "The England all-rounder has retired from Three Lions duty with immediate effect",
-      "<ul><li><p>‘The nicest man in cricket’ closes 15-year England career</p></li><li><p>Dislocated shoulder ruled him out of winter Ashes tour</p></li></ul><p>Chris Woakes has announced his retirement from international cricket, bringing to a close a near 15-year England career that delivered two World ",
-      "England bowler Chris Woakes has announced his immediate retirement from international cricket."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb4/live/a63318d0-9d26-11f0-8d30-39a07caee29f.jpg",
-    "titles": [
-      "England's Woakes retires from international cricket",
-      "Woakes retires from international cricket for England as a double World Cup winner",
-      "England's Woakes retires from international cricket",
-      "Chris Woakes announces retirement from international cricket",
-      "Chris Woakes retires from international cricket to end 15-year England career",
-      "England bowler Woakes retires from international cricket"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.971,
-      "consensus": 0.928,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.788,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "England all-rounder Chris Woakes announced his immediate retirement from international cricket, concluding a nearly 15-year career. Woakes, known as \"the nicest man in cricket,\" played 62 Test matches and was part of England's World Cup-winning teams in the ODI and Twenty20 formats. His decision comes after being left out of the England squad for the upcoming Ashes series, partly due to a dislocated shoulder.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Typhoon Bualoi Hits Vietnam: 11 Dead, 21 Missing, 250K Evacuated",
-    "domain": "science",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Mon, 29 Sep 2025 07:53:59 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Phys.org",
-      "Deutsche Welle",
-      "New York Times"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "phys.org",
-      "www.nytimes.com",
-      "www.dw.com"
-    ],
-    "snippets": [
-      "In advance of the typhoon&#039;s landfall, the government had evacuated more than 28,500 people.",
-      "Typhoon Bualoi has hit Vietnam's coast earlier than expected, causing death and extensive destruction. Residents have been warned of flash floods and landslides.",
-      "At least 13 people were killed and dozens more injured in central Vietnam, where 2 million were without power. Bualoi’s deadly path had started with 10 deaths in the Philippines.",
-      "Typhoon Bualoi ripped roofs from buildings and uprooted electrical poles along Vietnam's coast, killing at least 11 people, local and national officials said on Monday."
-    ],
-    "image_url": "",
-    "titles": [
-      "At least 12 dead, more missing as Typhoon Bualoi makes landfall in Vietnam",
-      "Typhoon Bualoi lashes Vietnam, killing at least 13",
-      "Typhoon Bualoi Slams Into Central Vietnam, Adding to Death Toll",
-      "Typhoon Bualoi batters Vietnam coast, killing 11"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.915,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.772,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Typhoon Bualoi struck Vietnam's coast, causing significant damage, including deaths and destruction. It killed at least 11 people, left 21 missing, and prompted the evacuation of over 250,000 residents due to threats of flash floods, landslides, and multiple natural disasters. The storm, which began in the Philippines, damaged buildings and infrastructure in Vietnam, where recovery from a previous storm is still ongoing.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Gunman Kills 4, Injures 8 at Michigan Church; Shot Dead by Police",
-    "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Mon, 29 Sep 2025 07:11:39 -0400",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "BBC",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.bbc.com",
-      "www.npr.org"
-    ],
-    "snippets": [
-      "The FBI is searching for answers as to why a man drove his truck into a church yesterday and opened fire. And, Trump has a new proposed plan to end the war in Gaza.",
-      "The attacker drove a vehicle into the church during a service and opened fire, before being killed himself.",
-      "<p>Church allegedly set ablaze by gunman on weekend when shooting attacks also took place in North Carolina, Texas and New Orleans</p><p>At least four people were killed and eight others injured after a gunman opened fire at a Mormon church in <a href=\"https://www.theguardian.com/us-news/michigan\">M"
-    ],
-    "image_url": "",
-    "titles": [
-      "The latest on the Michigan church shooting. And, Trump's new plan to end war in Gaza",
-      "Death toll rises to four after Michigan church shooting and arson attack",
-      "At least four dead and eight injured after shooting at Mormon church in Michigan"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.98,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.758,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "A gunman attacked the Church of Jesus Christ of Latter-day Saints in Grand Blanc, Michigan, during a Sunday service, killing at least four and injuring eight others before being shot dead by police. The assailant drove into the church, opened fire on attendees, and set the building on fire. The incident, described by the FBI as an \"act of targeted violence,\" occurred amidst several other shooting attacks across the U.S.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Senators Secure 2-0 Pre-Season Win Against Devils",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Sun, 28 Sep 2025 23:41:33 +0000",
-    "source": "Global News",
-    "sources": [
-      "Sportsnet",
-      "Global News",
-      "Ottawa Citizen"
-    ],
-    "domains": [
+      "news.google.com",
       "globalnews.ca",
-      "ottawacitizen.com",
-      "www.sportsnet.ca"
+      "www.forbes.com"
     ],
     "snippets": [
-      "Stephen Halliday scored on the power play and Olle Lycksell scored into an empty net as the Ottawa Senators defeated the New Jersey Devils 2-0 in NHL pre-season action on Sunday at the Videotron Centre.",
-      "<p>Stephen Halliday scored on the power play and Olle Lycksell scored into an empty net as the Ottawa Senators defeated the New Jersey Devils 2-0 in NHL pre-season action on Sunday at the Videotron Centre.</p>",
-      "Rookie centre Stephen Halliday scored the third-period winner as the Senators picked up their second victory of the pre-season"
+      "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBWOUxuaXBTMnZ0S1NIanV4Qy04TjdNUWFYZTM1NGtKcE5UVlBIMmxhMWs5NjRRS1NFYWRRYS1tMmR5TC0xZEdsSENjS0dwYVF0Z2ZaVkVHUmRlMDQtLTJKSW9YMHpFclJMb04zQXRPMEg5MkJxcEZwRERR?oc=5\" target=\"_blank\">Trump threatens 100% tariff on foreign-made movies</a>&nbsp;&nb",
+      "The 'movie making business has been stolen from the United States of America, by other Countries,' Trump said, without indicating how the plan might work.",
+      "Trump claimed that other countries have “stolen” the filmmaking business from California."
     ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/5ee59b15d0a74103bbd3509d2c16e975c33e42411b2fa0a44b19f3473754a80d.jpg?quality=65&strip=all",
+    "image_url": "",
     "titles": [
-      "Ullmark nets shutout as Senators beat Devils 2-0",
-      "Ullmark nets shutout as Senators beat Devils",
-      "Takeaways: Linus Ullmark makes 14 stops in Ottawa Senators' victory over Devils"
+      "Trump threatens 100% tariff on foreign-made movies - Axios",
+      "Trump vows 100% tariff on foreign movies, levies on furniture",
+      "Trump Promises 100% Tariff On Foreign Movies—Again"
     ],
     "score_components": {
       "magnitude": 0.867,
-      "recency": 0.771,
+      "recency": 0.925,
       "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.755,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Stephen Halliday and Olle Lycksell scored for the Ottawa Senators in a 2-0 win against the New Jersey Devils during an NHL pre-season game on Sunday at the Videotron Centre. Halliday's goal came in the third period on a power play, securing the Senators' second pre-season victory. Lycksell's goal was scored into an empty net.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Blue Jays Win AL East Title, Kirk Hits 2 HRs in 13-4 Victory Over Rays",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Mon, 29 Sep 2025 01:14:37 +0000",
-    "source": "Global News",
-    "sources": [
-      "Sportsnet",
-      "Global News",
-      "CityNews"
-    ],
-    "domains": [
-      "globalnews.ca",
-      "ottawa.citynews.ca",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "Blue Jays manager John Schneider was only 20 seconds into his post-game speech Sunday when he was drowned out by his roaring players and doused in champagne.",
-      "Alejandro Kirk hit two homers and drove in six runs to power the Blue Jays to a 13-4 victory over the Tampa Bay Rays on Sunday to give Toronto its first American League East Division title since 2015.",
-      "<p>For the first time in a decade, the Toronto Blue Jays are AL East champions.</p>",
-      "<p>For the first time in a decade, the Toronto Blue Jays are back atop the American League East.</p>",
-      "<p>Watch as John Schneider gives an impassioned speech to the Blue Jays after clinching the AL East division title before the team popped their celebratory champagne in the clubhouse.</p>",
-      "<p>Toronto Blue Jays stars Alejandro Kirk, George Springer and manager John Schneider speak with Sportsnet&#8217;s Hazel Mae immediately after clinching the team&#8217;s first AL East title since 2015.</p>",
-      "TORONTO – Six months of grinding to qualify for the meaningful games of the seventh are over and this&#160;Toronto Blue Jays&#160;season spent walking through a dream continues, with the chance to push back the awakening deep into October.&#160; An American League East title, the club’s first since "
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/b2296baf516a6ce31fbf6e507300f3362189c81b55f415341b8fa20bc5c636e1.jpg?quality=65&strip=all",
-    "titles": [
-      "Jays beat Rays to take East, earn bye to ALDS",
-      "Blue Jays beat Rays 13-4, take East title",
-      "Blue Jays beat Rays to clinch first AL East title since 2015",
-      "‘A wagon’: Sports world reacts to Blue Jays winning AL East title",
-      "Blue Jays pop champagne in locker room after clinching AL East title",
-      "Blue Jays’ Schneider, Kirk and Springer speak after clinching AL East title",
-      "Blue Jays beat Rays to clinch first AL East title since 2015"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.797,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 1.0
+      "constructiveness": 0.1,
+      "proximity": 0.5
     },
     "score": 0.746,
-    "summary_source": "cache",
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Alejandro Kirk led the Toronto Blue Jays to a 13-4 win over the Tampa Bay Rays with two home runs, securing their first AL East title since 2015. The victory in their regular-season finale was highlighted by Kirk's first career grand slam. George Springer and Addison Barger also contributed with home runs. This triumph marks the team's notable return to the top of the American League East after a decade.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
+    "summary": "Former President Donald Trump has proposed a 100% tariff on foreign-made movies, claiming that the film industry has been taken from the U.S. by other countries. He did not detail how this plan would be implemented or how it would address his concerns about the industry's shift away from California.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: plan",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Phoenix Mercury Overcomes Deficit to Reach WNBA Finals",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Mon, 29 Sep 2025 02:52:30 EST",
-    "source": "ESPN",
-    "sources": [
-      "Sportsnet",
-      "CBS Sports",
-      "ESPN"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "www.espn.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "The Phoenix Mercury overcame a 13-point fourth-quarter deficit to defeat the short-handed Minnesota Lynx 86-81 in Game 4 on Sunday to advance to the WNBA Finals for the first time since 2021, and in that round, they'll take on Indiana or Las Vegas.",
-      "Alyssa Thomas had 23 points, 10 assists and 8 rebounds",
-      "Phoenix punched its ticket to the WNBA Finals on Sunday",
-      "<p>Alyssa Thomas scored 23 points, DeWanna Bonner made two key 3-pointers in the fourth quarter and the Phoenix Mercury overcame a 13-point deficit in the final period to beat the short-handed Minnesota Lynx 86-81 in Game 4 on Sunday night and advance to the WNBA Finals for the first time since 2021"
-    ],
-    "image_url": "",
-    "titles": [
-      "Mercury top short-handed Lynx, make WNBA Finals",
-      "WNBA playoffs: Phoenix Mercury fend off short-handed Minnesota Lynx in Game 4 to reach WNBA Finals",
-      "WNBA playoff bracket, where to watch: Schedule, scores, TV channel as Mercury eliminate Lynx to reach Finals",
-      "Mercury overcome 13-point deficit, beat Lynx to advance to WNBA Finals"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.896,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.741,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The Phoenix Mercury rallied from a 13-point fourth-quarter deficit to defeat the Minnesota Lynx 86-81 in Game 4, advancing to the WNBA Finals for the first time since 2021. Alyssa Thomas led with 23 points, 10 assists, and 8 rebounds, while DeWanna Bonner contributed crucial fourth-quarter 3-pointers. They will face either Indiana or Las Vegas in the Finals.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Netanyahu, Trump Meet in Washington for Gaza Peace Deal Talks",
+    "title": "Netanyahu, Trump Discuss Gaza War End, Future at White House",
     "domain": "general",
     "source_domain": "www.dw.com",
     "location": "global",
-    "published": "2025-09-29T10:40:00Z",
+    "published": "2025-09-29T15:59:00Z",
     "source": "Deutsche Welle",
     "sources": [
-      "Deutsche Welle",
-      "Axios",
-      "New York Times"
+      "New York Times",
+      "ABC News",
+      "Deutsche Welle"
     ],
     "domains": [
-      "www.dw.com",
       "www.nytimes.com",
-      "news.google.com"
+      "abcnews.go.com",
+      "www.dw.com"
     ],
     "snippets": [
-      "After a cold reception at the UN General Assembly, Israel's Benjamin Netanyahu is visiting Trump at the White House to discuss ending the nearly two-year-long war in Gaza. Follow DW for more.",
-      "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQUnppeVpLakpmYkM3bklyeHgyRmNrcHRvYzVkdGlNVzVZR20tSVZiem12amh5RDRrNElWSWJTQ1BLWFhmRGJNVVd4QUJyRVhLanRFanRkUVhPYXBRNlRxUTlkTTdHMGFaVTI0Q3Q2MExWUUtCTU51amN3MWQ0aWw4VnB2WFlhUQ?oc=5\" target=\"_blank\">Trump plans to squeeze Netanyahu to sign Gaza",
-      "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0tSk44TTlRSDRWeUE0aW1OZEFEVnZxbkc3QkVaXzl6VmtRcnkwMzZqZjZBS1dsajlnemRQWlRqcE1TRjNxUXZVWTFpTVotbmc2cVJpM3FPVFJROFE1SFA2N2diN2YxR3p0TlpqaVo4MF9XRGJyOWc?oc=5\" target=\"_blank\">Exclusive: Trump says Gaza peace deal in \"final stages\"</a>&nbsp;&nb",
-      "The president and Prime Minister Benjamin Netanyahu of Israel are set to meet in Washington after a week in which Israel grew more isolated internationally."
+      "Israel's Benjamin Netanyahu has arrived at the White House to discuss with Donald Trump ending the nearly two-year-long war in Gaza. Follow DW for more.",
+      "President Donald Trump welcomed Israeli Prime Minister Benjamin Netanyahu to the White House on Monday, where the two will discuss the ongoing war in the Gaza Strip.",
+      "Prime Minister Benjamin Netanyahu arrived at the White House for talks on Gaza’s postwar future, and as Israel’s international isolation has deepened. Several European countries recently announced they now recognized a Palestinian state."
     ],
     "image_url": "",
     "titles": [
-      "Middle East: Trump, Netanyahu set to discuss peace in Gaza",
-      "Trump plans to squeeze Netanyahu to sign Gaza peace deal, aides say - Axios",
-      "Exclusive: Trump says Gaza peace deal in \"final stages\" - Axios",
-      "Trump and Netanyahu to Discuss Plans for Postwar Gaza"
+      "Middle East: Trump greets Netanyahu at White House",
+      "Trump admin live updates: Trump welcomes Netanyahu to White House",
+      "Live Updates: Netanyahu and Trump Meet to Discuss Gaza Plans"
     ],
     "score_components": {
       "magnitude": 0.847,
-      "recency": 0.969,
+      "recency": 0.996,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.738,
+    "score": 0.743,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Israeli Prime Minister Benjamin Netanyahu is meeting with President Trump in Washington to discuss a peace deal to end the nearly two-year-long war in Gaza. This comes after Netanyahu received a cold reception at the UN General Assembly and amid growing international isolation for Israel. Trump has indicated that the peace deal is in its \"final stages.\"",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Calgary Stampeders Acquire Lorenzo Mauldin IV from Ottawa Redblacks",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Sun, 28 Sep 2025 22:39:08 +0000",
-    "source": "Global News",
-    "sources": [
-      "Sportsnet",
-      "Global News",
-      "Ottawa Citizen"
-    ],
-    "domains": [
-      "globalnews.ca",
-      "ottawacitizen.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "The Calgary Stampeders acquired all-star American defensive lineman Lorenzo Mauldin IV on Sunday in a trade with the Ottawa Redblacks.",
-      "<p>The Calgary Stampeders acquired all-star American defensive lineman Lorenzo Mauldin IV on Sunday in a trade with the Ottawa Redblacks.</p>",
-      "The Calgary Stampeders acquired all-star American defensive lineman Lorenzo Mauldin IV on Sunday in a trade with the Ottawa Redblacks. Ottawa got a fourth-round pick in the 2026 Canadian Football League draft in return. The Redblacks have a 4-10 record this season, which is the worst record among th"
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/35f544e9af9cb37edc23a029a411c340477b8d6f03ee5b12fd023f39dc225093.jpg?quality=65&strip=all",
-    "titles": [
-      "Stampeders get all-star Lorenzo Mauldin IV",
-      "Stampeders get all-star Lorenzo Mauldin IV in trade with Redblacks",
-      "Redblacks trade all-star Lorenzo Mauldin IV to Stampeders"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.755,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.738,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The Calgary Stampeders traded for all-star American defensive lineman Lorenzo Mauldin IV from the Ottawa Redblacks on Sunday, exchanging a fourth-round pick in the 2026 CFL draft. The trade comes as the Redblacks hold a 4-10 season record, the lowest in the league.",
+    "summary": "Israeli Prime Minister Benjamin Netanyahu met with President Donald Trump at the White House to discuss ending the nearly two-year-long war in Gaza and talk about Gaza's postwar future. This meeting comes as Israel faces increasing international isolation, with several European countries recently recognizing a Palestinian state.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -485,38 +133,38 @@
     "domain": "sports",
     "source_domain": "www.aljazeera.com",
     "location": "global",
-    "published": "Mon, 29 Sep 2025 09:30:42 +0000",
+    "published": "Mon, 29 Sep 2025 15:18:23 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Al Jazeera",
+      "New York Times",
       "Deutsche Welle",
-      "Sky Sports"
+      "Al Jazeera"
     ],
     "domains": [
       "www.aljazeera.com",
-      "www.skysports.com",
+      "www.nytimes.com",
       "www.dw.com"
     ],
     "snippets": [
-      "Indian leader controversially refers to the politically-charged win as an extension of &#039;Operation Sindoor&#039;.",
+      "From tournament format to venues and top players to watch, here&#039;s Al Jazeera&#039;s guide to the Women&#039;s Cricket World Cup.",
       "India won the Asia Cup Twenty20 final by five wickets in Dubai on Sunday, but refused to collect the championship trophy from Pakistan's interior minister.",
-      "This is a cricket article but we are going to start with some golf."
+      "Months after a military conflict, a cricket tournament brought the Indian team three victories over its fiercest rival but few signs of an easing in bitterness."
     ],
     "image_url": "",
     "titles": [
-      "PM Modi invokes conflict with Pakistan after India’s Asia Cup cricket win",
+      "ICC Women’s World Cup 2025: Teams, schedule, tickets, India vs Pakistan",
       "Asia Cup 2025: India, Pakistan cricket teams spar",
-      "Is it India's time to win Women's Cricket World Cup?"
+      "India-Pakistan Tensions Lead to Trophy-Less Cricket Final at Asia Cup"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.946,
+      "recency": 0.982,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.726,
-    "summary_source": "gpt",
+    "score": 0.733,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "India won the Asia Cup Twenty20 final against Pakistan by five wickets in Dubai. The Indian team controversially refused to collect the championship trophy from Pakistan's interior minister, citing political tensions. This incident occurred after the Indian leader referred to the victory as an extension of 'Operation Sindoor'.",
     "constructiveness_score": 0.0,
@@ -524,321 +172,914 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Oregon Sues Trump Over National Guard Deployment to Portland",
-    "domain": "business",
-    "source_domain": "www.aljazeera.com",
+    "title": "Chris Woakes Retires from International Cricket After 15-Year Career",
+    "domain": "sports",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Mon, 29 Sep 2025 04:26:41 +0000",
-    "source": "Al Jazeera",
+    "published": "Mon, 29 Sep 2025 13:17:40 GMT",
+    "source": "BBC",
     "sources": [
-      "Al Jazeera",
-      "Forbes",
-      "Axios"
+      "Sky Sports",
+      "The Guardian",
+      "BBC"
     ],
     "domains": [
-      "www.aljazeera.com",
-      "www.forbes.com",
-      "news.google.com"
+      "www.bbc.com",
+      "www.theguardian.com",
+      "www.skysports.com"
     ],
     "snippets": [
-      "The Democrat-run state is challenging Trump&#039;s authority to deploy soldiers to what he has called &#039;war ravaged Portland&#039;.",
-      "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOYTdZLVBwcEFSRkdrbTNPY1BzNHdLdnBhdzNrTjA0M3hXeHozYzh2Zm5mZkpVZkZmdnhzSWFycEVpNEx2VGhkZ0JHUmNNYk8zekFaaU8tVXdCQURxdnpsQzBWNjI1STN5RDlxY1hUNFdVX3Y0cWtLV21KVks0eldZZXJ5d3VTUVJGZEhOazZWTTBrNktO?oc=5\" target=\"_blank\">Oregon sues Trump in bid to",
-      "The suit was filed after the Defense Department sent a memo to Oregon state leaders informing them about the deployment of 200 National Guard troops in Portland."
+      "England all-rounder Chris Woakes says \"the moment has come\" for him to retire from international cricket.",
+      "<ul><li><p>‘The nicest man in cricket’ closes 15-year England career</p></li><li><p>Dislocated shoulder ruled him out of winter Ashes tour</p></li></ul><p>Chris Woakes has announced his retirement from international cricket, bringing to a close a near 15-year England career that delivered two World ",
+      "England bowler Chris Woakes has announced his immediate retirement from international cricket."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/665b/live/9d0f3a50-9d2f-11f0-9064-4514bffc169d.jpg",
     "titles": [
-      "Trump to deploy 200 National Guard troops to Oregon as state leaders sue",
-      "Oregon sues Trump in bid to stop National Guard deployment to Portland - Axios",
-      "What We Know About The National Guard Deployment In Portland As Oregon Sues Trump Administration"
+      "England's Woakes retires from international cricket",
+      "Chris Woakes retires from international cricket to end 15-year England career",
+      "England bowler Woakes retires from international cricket"
     ],
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.851,
+      "magnitude": 0.827,
+      "recency": 0.922,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.714,
+    "score": 0.721,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Oregon has filed a lawsuit against President Trump's decision to deploy 200 National Guard troops to Portland, challenging his authority. The legal action comes after the Defense Department notified Oregon state leaders of the deployment, aimed at addressing what Trump referred to as 'war ravaged' conditions in the city.",
+    "summary": "England all-rounder Chris Woakes announced his immediate retirement from international cricket, concluding a nearly 15-year career. Woakes, known as \"the nicest man in cricket,\" played 62 Test matches and was part of England's World Cup-winning teams in the ODI and Twenty20 formats. His decision comes after being left out of the England squad for the upcoming Ashes series, partly due to a dislocated shoulder.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "JuJu Watkins to Miss Season Due to ACL Injury from NCAA Tournament",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Mon, 29 Sep 2025 01:36:46 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "Sportsnet",
-      "CBS Sports",
-      "Sports Illustrated"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "www.sportsnet.ca",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Watkins said she wants to \"fully focus on continuing to recover\"",
-      "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXdMVGl6OURnQnZBdTFIdXd6N3FxYjRzWk41M3FuYkRDMldlZ3B4TWNFT3FYTlFmYk1QUVFPZDUwNXdMRk85bVlhay05c1Z1TXVVVDN2ZXZZb2RhcWUwR2cxcTkwdEhVbk42OXNiQ1Zyd3NkZ0Q5b2JfU3puVVNZUUZPUjhmdmFsekU2eTh4WQ?oc=5\" target=\"_blank\">JuJu Watkins Announces She's Out ",
-      "<p>Southern California star JuJu Watkins announced on social media that she will be sidelined for the season after suffering an ACL injury in the NCAA Tournament last season.</p>"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/29/6e4d6f05-f8f3-455d-bc4c-fb852950644d/untitled-design-12.png",
-    "titles": [
-      "JuJu Watkins out for 2025-26 season: USC star tore ACL during NCAA Tournament",
-      "JuJu Watkins Announces She's Out for Entire 2025-26 Season - Sports Illustrated",
-      "USC star JuJu Watkins says she’ll be out for season as she recovers from ACL injury"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.803,
-      "consensus": 0.789,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.707,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Southern California basketball star JuJu Watkins announced she will miss the season due to an ACL injury sustained in the last NCAA Tournament. Watkins expressed her intention to focus on recovery.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: sustain",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Hong Kong Activist Denied Entry into Singapore Amid Political Concerns",
+    "title": "Typhoon Bualoi Kills 13 in Vietnam, Leaves 2M Without Power",
     "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Mon, 29 Sep 2025 06:56:02 -0400",
-    "source": "NPR",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Mon, 29 Sep 2025 12:01:34 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "Al Jazeera",
-      "NPR"
+      "New York Times",
+      "Deutsche Welle",
+      "Al Jazeera"
     ],
     "domains": [
       "www.aljazeera.com",
-      "www.npr.org"
+      "www.nytimes.com",
+      "www.dw.com"
     ],
     "snippets": [
-      "The activist wanted by the Hong Kong government said he was denied entry to Singapore over the weekend for what he presumes were political reasons.",
-      "Pro-democracy campaigner says he held a valid visa and was given no reason for the refusal."
+      "Thousands of residents were still being evacuated as Typhoon Bualoi made landfall sooner than forecast.",
+      "Typhoon Bualoi has hit Vietnam's coast earlier than expected, causing death and extensive destruction. Residents have been warned of flash floods and landslides.",
+      "At least 13 people were killed and dozens more injured in central Vietnam, where 2 million were without power. Bualoi’s deadly path had started with 10 deaths in the Philippines."
     ],
     "image_url": "",
     "titles": [
-      "Overseas Hong Kong pro-democracy activist Nathan Law denied entry to Singapore",
-      "Hong Kong activist Nathan Law says he was denied entry to Singapore"
+      "Video: Several dead as Typhoon Bualoi displaces thousands in Vietnam",
+      "Typhoon Bualoi lashes Vietnam, killing at least 13",
+      "Typhoon Bualoi Slams Into Central Vietnam, Adding to Death Toll"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.917,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.72,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Typhoon Bualoi hit Vietnam's coast earlier than predicted, causing significant destruction and at least 13 deaths in central Vietnam, with dozens injured. The storm, which previously resulted in 10 deaths in the Philippines, left 2 million people without power in Vietnam. Authorities are evacuating thousands and warning of flash floods and landslides.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Lewis Hamilton Announces Death of Beloved Bulldog Roscoe After Treatment",
+    "domain": "sports",
+    "source_domain": "www.skysports.com",
+    "location": "global",
+    "published": "Mon, 29 Sep 2025 13:00:00 BST",
+    "source": "Sky Sports",
+    "sources": [
+      "Sportsnet",
+      "CityNews",
+      "Sky Sports"
+    ],
+    "domains": [
+      "ottawa.citynews.ca",
+      "www.sportsnet.ca",
+      "www.skysports.com"
+    ],
+    "snippets": [
+      "Lewis Hamilton has announced the death of his \"beloved\" pet dog Roscoe.",
+      "<p>Lewis Hamilton says his bulldog Roscoe, a fixture in the Formula 1 paddock, has died following days of medical treatment and that putting him to sleep was “one of the most painful experiences” of the seven-time F1 champion&#8217;s life.</p>",
+      "Lewis Hamilton says his bulldog Roscoe, a fixture in the Formula 1 paddock, has died following days of medical treatment and that putting him to sleep was “one of the most painful experiences” of the seven-time F1 champion&#8217;s life. Hamilton missed a tire testing day last week as he cared for Ro"
+    ],
+    "image_url": "https://e1.365dm.com/25/09/1920x1080/skysports-lewis-hamilton-roscoe_7032324.jpg?20250926145749",
+    "titles": [
+      "Hamilton mourns death of 'beloved' dog Roscoe",
+      "Lewis Hamilton says death of his dog Roscoe ‘one of the most painful experiences’",
+      "Lewis Hamilton says the death of his dog Roscoe is ‘one of the most painful experiences’"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.917,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.72,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Lewis Hamilton announced the death of his bulldog Roscoe, a well-known figure in the Formula 1 paddock, after days of medical treatment. Describing the decision to euthanize Roscoe as one of his most painful experiences, Hamilton had previously missed a tire testing day to care for him.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Bad Bunny Skips US in World Tour, Set for Super Bowl Halftime Show",
+    "domain": "business",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Mon, 29 Sep 2025 08:33:30 GMT",
+    "source": "BBC",
+    "sources": [
+      "Axios",
+      "Forbes",
+      "BBC"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "news.google.com",
+      "www.forbes.com"
+    ],
+    "snippets": [
+      "The Puerto Rican pop star has otherwise avoided the US on his forthcoming world tour because of ICE.",
+      "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTA4MnZGLTNwMVViRVhST3dHWG5xQmJ6UFVpTklSbFBxSy1rMGctY1Nlb2pIdGpRSnpyTld1SEhLUVFPNlR4NFBEWlhzNExvRUh2TDRCNkhNanhOWTdEc1R0bUVNWDdsNWdZM2I1aWFzMFZENUVZMlJMVlFkRl9tbE92VQ?oc=5\" target=\"_blank\">Bad Bunny to headline Super Bowl halftime show in",
+      "Bad Bunny, a Puerto Rican rapper-singer, has frequently criticized the Trump administration over its immigration policies, and skipped the United States on his last tour over fears of immigration raids on his audience."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e26/live/5555a220-9d08-11f0-92db-77261a15b9d2.jpg",
+    "titles": [
+      "Bad Bunny revealed as Super Bowl half-time show performer",
+      "Bad Bunny to headline Super Bowl halftime show in 2026 - Axios",
+      "Bad Bunny’s Super Bowl Halftime Sparks Right-Wing Backlash Over Rapper’s Anti-ICE Activism"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.836,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.704,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Bad Bunny, a Puerto Rican pop star known for criticizing the Trump administration's immigration policies, has chosen to exclude the U.S. from his upcoming world tour due to concerns over ICE raids. Despite this, he is set to headline the Super Bowl halftime show.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Canada Labels Bishnoi Gang as Terrorist, Seizes Assets",
+    "domain": "general",
+    "source_domain": "globalnews.ca",
+    "location": "national",
+    "published": "Mon, 29 Sep 2025 13:05:09 +0000",
+    "source": "Global News",
+    "sources": [
+      "CityNews",
+      "Global News"
+    ],
+    "domains": [
+      "ottawa.citynews.ca",
+      "globalnews.ca"
+    ],
+    "snippets": [
+      "The RCMP now considers the Bishnoi gang, based in India, as a terrorist entity in Canada and allows authorities to seize property and freeze accounts.",
+      "Canada has listed the Bishnoi gang as a terrorist entity, following calls from Conservative and NDP politicians. The listing bars Canadians from financing or aiding the group led by Lawrence Bishnoi, the gang&#8217;s leader in India, who has reportedly coordinated criminal activities from a cellphon"
+    ],
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/09/cd16ae07996aba2d11727e611504669761f171000e2d5807fa72146183d7243f_0e9dbc.jpg?quality=65&strip=all",
+    "titles": [
+      "Bishnoi gang now listed as a terrorist entity in Canada",
+      "Canada lists the Bishnoi gang as a terrorist entity"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.975,
+      "recency": 0.938,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 1.0
+    },
+    "score": 0.703,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Canada has officially designated the India-based Bishnoi gang as a terrorist entity, led by Lawrence Bishnoi. This action enables Canadian authorities to seize property and freeze accounts associated with the gang. The decision follows advocacy from Conservative and NDP politicians, aiming to prevent Canadians from financially supporting or assisting the group's criminal activities.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: support",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Bradley Criticizes Ryder Cup Rule After Hovland Withdrawal; Donald Defends",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Mon, 29 Sep 2025 11:46:06 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Sports Illustrated"
+    ],
+    "domains": [
+      "news.google.com",
+      "www.espn.com"
+    ],
+    "snippets": [
+      "U.S. captain Keegan Bradley said the Ryder Cup's longstanding envelope rule involving injured players should change, but European counterpart Luke Donald said it's there to protect players and should remain in place.",
+      "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPUUVISkRJNjNUZ1VIOTEzZm9DVzFhd2NOQ3hoY3dsTWtSb2RTTW9QdnRVYmxYZ0RGVzR0WTltUTNLMjR2alZCdmhoT3lLSFpQb19WQTF3QWotRi1vZEJpMnhydWRMaExqSDJBR0xVR1RQTVhlRWhhSlVqd3dEbjNQaF92UFlMQ0U?oc=5\" target=\"_blank\">Keegan Bradley Says Ryder Cup ‘Envelope Rule"
+    ],
+    "image_url": "",
+    "titles": [
+      "Ryder Cup envelope rule must change, per Bradley",
+      "Keegan Bradley Says Ryder Cup ‘Envelope Rule’ Needs to Change After Narrow Defeat - Sports Illustrated"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.991,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.675,
-    "summary_source": "gpt",
+    "score": 0.678,
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "A pro-democracy activist, sought by the Hong Kong government, was denied entry into Singapore despite holding a valid visa. The refusal occurred over the weekend, and the activist believes the denial was for political reasons. No specific reason for the entry denial was provided to him.",
+    "summary": "U.S. Ryder Cup captain Keegan Bradley criticized the envelope rule after Viktor Hovland's withdrawal led to controversy, advocating for a change. However, European captain Luke Donald defended the rule, emphasizing its role in protecting players. The disagreement highlights differing perspectives on the rule following its impact on the competition's proceedings.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "US President Nears Gaza Peace Deal; $1bn Trump Plaza Planned in Jeddah",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Mon, 29 Sep 2025 11:20:37 GMT",
-    "source": "BBC",
+    "title": "Parsons Sacks Prescott, Packers-Cowboys Tie 40-40 at AT&T Stadium",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Mon, 29 Sep 2025 11:46:06 EST",
+    "source": "ESPN",
     "sources": [
-      "BBC",
-      "The Guardian"
+      "ESPN",
+      "Sports Illustrated"
     ],
     "domains": [
-      "www.bbc.com",
-      "www.theguardian.com"
+      "news.google.com",
+      "www.espn.com"
     ],
     "snippets": [
-      "The US president has talked up prospects of an agreement, but Netanyahu said it was not finalised - and Hamas say they haven't been sent the proposal.",
-      "<p>US president to push Israeli prime minister to agree to new framework to end war in Gaza and free remaining hostages held by Hamas</p><p><strong>Saudi real estate developer Dar Global plans to build a $1bn Trump Plaza project in Saudi Arabia’s Jeddah as US president Donald Trump’s family business"
+      "Micah Parsons got one thing he wanted in his return to AT&amp;T Stadium: He sacked his former QB, Dak Prescott. The rest of it, however, left him unfulfilled after his current team, the Packers, played his former team, the Cowboys, to a 40-40 tie Sunday.",
+      "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZG1KSExjSDQ3OVhpcjd2a3F5UDdtNW1TUVdQQVZxSm5IckRFSHFZOVlzZXg0VG96SXVDZzJiT2NJQldUOFN3aVM4SExuZkRSX2JGNVBBeG9Sb05MSm0tVEU3MXd2dE5nSnZIT3Q3MUg5eGNjeXp2MkFjU2k2QWU4cTZET0N2dw?oc=5\" target=\"_blank\">Micah Parsons Shares Honest, Disappointed Rea"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24bb/live/c92eae90-9d11-11f0-a8fe-677b0b0b2d56.jpg",
+    "image_url": "",
     "titles": [
-      "Trump to push new peace plan in talks with Netanyahu",
-      "Donald Trump and Benjamin Netanyahu to discuss Gaza peace plan at the White House – US politics live"
+      "Parsons leaves Dallas 'disappointed' in defense, tie",
+      "Micah Parsons Shares Honest, Disappointed Reaction to Bizarre Tie in Return to Dallas - Sports Illustrated"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.991,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.678,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Micah Parsons sacked his former quarterback, Dak Prescott, during a game at AT&T Stadium, where his current team, the Packers, tied 40-40 with his former team, the Cowboys. Despite achieving a personal milestone, Parsons felt unfulfilled by the game's outcome.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "NFL Nation Covers Week 4 Insights; US Loses Ryder Cup to Europe",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Mon, 29 Sep 2025 11:39:07 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 4.",
+      "Plus, the United States loses the Ryder Cup to Europe after furious comeback bid falls short"
+    ],
+    "image_url": "",
+    "titles": [
+      "Best, worst of Week 4: Chiefs win big over Ravens, Packers tie Cowboys",
+      "Micah Parsons returns to Dallas as Packers tie Cowboys | Chiefs roll over Ravens | MLB postseason bracket"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.989,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.678,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "NFL Nation reporters provided insights on Week 4 games, addressing key questions from each matchup. Additionally, the United States lost the Ryder Cup to Europe, despite a strong comeback attempt.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "FBI Probes Church Attack; Trump Proposes Gaza Peace Plan",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Mon, 29 Sep 2025 07:11:39 -0400",
+    "source": "NPR",
+    "sources": [
+      "Deutsche Welle",
+      "NPR"
+    ],
+    "domains": [
+      "www.npr.org",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "The FBI is searching for answers as to why a man drove his truck into a church yesterday and opened fire. And, Trump has a new proposed plan to end the war in Gaza.",
+      "Donald Trump's proposed plan to end the war in Gaza will be discussed with Israeli Prime Minister Benjamin Netanyahu on Monday. So what exactly is in the 21-point plan?"
+    ],
+    "image_url": "",
+    "titles": [
+      "The latest on the Michigan church shooting. And, Trump's new plan to end war in Gaza",
+      "What is Donald Trump's 21-point plan to end Gaza war?"
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.963,
+      "recency": 0.901,
       "consensus": 0.591,
       "constructiveness": 0.1,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.665,
+    "score": 0.677,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The US President is working to finalize an agreement to end the war in Gaza and secure the release of hostages held by Hamas, though Israeli Prime Minister Netanyahu stated the deal is not yet complete. Meanwhile, Hamas claims they have not received the proposal. Additionally, Dar Global plans to construct a $1bn Trump Plaza in Jeddah, Saudi Arabia, linked to the Trump family business.",
+    "summary": "The FBI is investigating an incident where a man drove his truck into a church and began shooting. Meanwhile, Donald Trump has proposed a 21-point plan aimed at ending the war in Gaza, which he will discuss with Israeli Prime Minister Benjamin Netanyahu on Monday. The specifics of the plan are yet to be detailed.",
     "constructiveness_score": 0.1,
     "constructiveness_reason": "keywords: plan",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Taliban Releases US Citizen, Fifth American Freed This Year",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Mon, 29 Sep 2025 08:09:26 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "An American citizen who had been detained in Afghanistan since December has been released through Qatari mediation.",
-      "<p>Secretary of state Marco Rubio welcomes release as ‘important step forward’ as Taliban seek to normalise relations with US</p><p>The Taliban on Sunday freed a US citizen from an Afghan prison, weeks after they said they had reached an agreement with US envoys on a prisoner exchange as part of an "
-    ],
-    "image_url": "",
-    "titles": [
-      "US citizen Amir Amiri freed by Taliban following Qatari mediation",
-      "US citizen Amir Amiry freed by Taliban in Afghanistan"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.92,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.649,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The Taliban released a US citizen from an Afghan prison, marking the fifth American freed this year. Secretary of State Marco Rubio hailed the release as a significant progress in efforts to normalize relations between the US and the Taliban. This comes after an agreement on a prisoner exchange was reached with US envoys.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: effort",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Dolly Parton Delays Las Vegas Residency Due to Health Concerns",
+    "title": "UK to Offer Maintenance Grants for Low-Income Students, Funded by New Levy",
     "domain": "general",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Mon, 29 Sep 2025 07:43:19 GMT",
+    "published": "Mon, 29 Sep 2025 15:51:47 GMT",
     "source": "BBC",
     "sources": [
-      "BBC",
-      "The Guardian"
+      "The Guardian",
+      "BBC"
     ],
     "domains": [
       "www.bbc.com",
       "www.theguardian.com"
     ],
     "snippets": [
-      "The star delays her Las Vegas residency by almost a year, saying she needs \"multiple procedures\".",
-      "<p>Country music superstar was due to play six-concert run at Caesars Palace in December</p><p>Dolly Parton has postponed her upcoming Las Vegas concert residency due to health issues.</p><p>Parton, 79, was due to begin a six-concert run at the Colosseum at Caesars Palace on 4 December. She announce"
+      "The support will be available to those on \"priority courses\", with more detail to come in the autumn Budget.",
+      "<p>Education secretary says means-tested grants for ‘those who need them most’ will be funded by new international student levy</p><p>Labour is to bring back maintenance grants for tens of thousands of students from low-income backgrounds who sign up to “priority” courses that support the government"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52a6/live/5cf4bbc0-9d07-11f0-a8fe-677b0b0b2d56.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/952d/live/915bbe00-9d3d-11f0-973f-51ea2fc41b54.jpg",
     "titles": [
-      "Dolly Parton postpones shows over 'health challenges'",
-      "Dolly Parton postpones Las Vegas residency, citing ‘health challenges’"
+      "Maintenance grants to return for some students",
+      "Labour to bring back maintenance grants for students on ‘priority’ courses"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.893,
+      "magnitude": 0.755,
+      "recency": 0.973,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.667,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The UK government announced the reintroduction of maintenance grants for low-income students enrolled in \"priority\" courses, as confirmed by the Education Secretary. These grants will be financed through a new levy on international students, with further details expected in the autumn Budget. This move aims to support students who need financial assistance the most.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: support",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Ukraine Seeks Western Missiles to Prompt Moscow Peace Talks",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Mon, 29 Sep 2025 15:25:30 GMT",
+    "source": "BBC",
+    "sources": [
+      "Washington Post",
+      "BBC"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "www.washingtonpost.com"
+    ],
+    "snippets": [
+      "Vance's comments come as Ukraine's deputy defence minister tells the BBC Western weapons could force Moscow to start peace talks.",
+      "Tomahawk cruise missiles, which have a range of at least 1,500 miles, would boost Ukraine’s ability to hit deep inside Russia, including Moscow."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1108/live/f4cd3df0-9d3e-11f0-973f-51ea2fc41b54.jpg",
+    "titles": [
+      "Trump considering supplying Ukraine with long-range missiles, Vance says",
+      "U.S. considers Ukraine’s request for long-range Tomahawk missiles"
+    ],
+    "score_components": {
+      "magnitude": 0.775,
+      "recency": 0.964,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.634,
+    "score": 0.662,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Dolly Parton has postponed her six-concert Las Vegas residency at Caesars Palace, originally scheduled to start on December 4, due to health issues requiring \"multiple procedures.\" The events are delayed by almost a year.",
+    "summary": "Ukraine's deputy defense minister stated to the BBC that Western weapons, including Tomahawk cruise missiles with a range of at least 1,500 miles, could compel Moscow to initiate peace talks. These missiles would enhance Ukraine's capability to strike targets deep within Russia, including Moscow.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Namibia Deploys Soldiers to Fight Fire in Etosha National Park",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Mon, 29 Sep 2025 06:39:01 +0000",
-    "source": "Al Jazeera",
+    "title": "Microsoft Unveils AI-Powered \"Agent Mode\" for Excel and Word",
+    "domain": "technology",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Mon, 29 Sep 2025 13:47:24 GMT",
+    "source": "Axios",
     "sources": [
-      "Al Jazeera",
-      "The Guardian"
+      "Axios",
+      "The Verge"
     ],
     "domains": [
-      "www.aljazeera.com",
-      "www.theguardian.com"
+      "news.google.com",
+      "www.theverge.com"
     ],
     "snippets": [
-      "The fire has burned through one-third of Etosha National Park, home to the endangered black rhinoceros.",
-      "<p>Vast tract of park that is home to 114 mammal species, including critically endangered black rhino, affected</p><p>Namibia has begun deploying hundreds of soldiers to fight a fire that has burned through a third of the vast Etosha national park, one of Africa’s largest game reserves, officials sa"
+      "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9DVWlibUZSSGUzTTBJZlYyYURXWXMwc29JLW1IanB0RTZaYzlmTzF2UVJwa0VabFdyV1hsT2FwMUxOMDl1Yzl5VzVMVXVjdlp1MnJPRkRhYlVHZmpRSzBRN0xFY0l1NVFkakxvYmczLUZnd0lf?oc=5\" target=\"_blank\">Microsoft debuts \"vibe working\" in Office</a>&nbsp;&nbsp;<font color=\"#",
+      "You’ve probably heard of vibe coding — novices writing apps by creating a simple AI prompt — but now Microsoft wants to introduce a similar thing for its Office apps. The software maker is launching a new Agent Mode in Excel and Word that can generate complex spreadsheets and documents with just a p"
     ],
     "image_url": "",
     "titles": [
-      "Namibia deploys army to fight fire in one of Africa’s largest reserves",
-      "Namibia deploys army to fight wildfire burning third of Etosha game reserve"
+      "Microsoft debuts \"vibe working\" in Office - Axios",
+      "Microsoft launches ‘vibe working’ in Excel and Word"
     ],
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.891,
+      "magnitude": 0.755,
+      "recency": 0.932,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.658,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Microsoft has launched a new feature called \"Agent Mode\" for its Excel and Word applications, enabling users to generate complex spreadsheets and documents through simple AI prompts, a concept similar to \"vibe coding.\" This innovation aims to simplify app usage and enhance productivity.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: innovation",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "OpenAI Adds Parental Controls to ChatGPT, Aiming to Curb Harmful Content",
+    "domain": "technology",
+    "source_domain": "www.theverge.com",
+    "location": "global",
+    "published": "2025-09-29T10:26:39-04:00",
+    "source": "The Verge",
+    "sources": [
+      "The Verge",
+      "TechCrunch"
+    ],
+    "domains": [
+      "www.theverge.com",
+      "techcrunch.com"
+    ],
+    "snippets": [
+      "OpenAI has rolled out some long-awaited parental controls for ChatGPT to all web users, with mobile coming “soon,” according to the company.&#160; The controls, announced last month, allow for reducing or removing certain content — like sexual roleplay and the ability to generate images — and reduci",
+      "The new safety features come after numerous incidents of ChatGPT validating users' delusional thinking instead of redirecting harmful conversations -- including the death of a teenage boy by suicide."
+    ],
+    "image_url": "",
+    "titles": [
+      "OpenAI’s ChatGPT parental controls are rolling out — here’s what you should know",
+      "OpenAI rolls out safety routing system, parental controls on ChatGPT"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.965,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.633,
-    "summary_source": "cache",
+    "score": 0.655,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "A fire has consumed one-third of Etosha National Park in Namibia, affecting an area home to 114 mammal species, including the critically endangered black rhinoceros. In response, Namibia has deployed hundreds of soldiers to combat the blaze in one of Africa's largest game reserves.",
+    "summary": "OpenAI introduced new parental controls for ChatGPT on the web, with mobile updates expected soon. These controls aim to limit or eliminate content such as sexual roleplay and image generation. This update follows incidents where ChatGPT was criticized for not adequately handling harmful conversations, including a case linked to a teenager's suicide.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Starbucks to Close 1% of North American Stores, Locations Unspecified",
+    "title": "Lufthansa to Cut 4,000 Jobs by 2030, Embraces AI for Efficiency",
     "domain": "business",
-    "source_domain": "www.businessinsider.com",
+    "source_domain": "www.dw.com",
     "location": "global",
-    "published": "2025-09-29T04:55:55Z",
-    "source": "Business Insider",
+    "published": "2025-09-29T10:56:00Z",
+    "source": "Deutsche Welle",
     "sources": [
-      "Ottawa Citizen",
-      "Business Insider"
+      "CNBC",
+      "Deutsche Welle"
     ],
     "domains": [
-      "ottawacitizen.com",
-      "www.businessinsider.com"
+      "www.dw.com",
+      "www.cnbc.com"
     ],
     "snippets": [
-      "Starbucks on Thursday said it would close 1% of its North American stores, but didn't announce which ones. Business Insider has compiled a list.",
-      "Chain closures are cutting into local coffee routines. Here’s what we've confirmed so far."
+      "German airline Lufthansa plans to cut a slew of administrative jobs by 2030 as it streamlines operations. The group says AI and digitalization will replace some tasks as it reshapes the way its airlines operate.",
+      "Lufthansa announced plans to cut a sweeping 4,000 roles on Monday as it aims to increase profitability and lean on AI to drive efficiency."
     ],
-    "image_url": "https://i.insider.com/68d724611c1f80efbec473c1?format=jpeg",
+    "image_url": "",
     "titles": [
-      "Starbucks is closing over 100 North American stores &mdash;&nbsp;here are the locations we know so far",
-      "Which Starbucks locations are closing in Ottawa?"
+      "Lufthansa to shed 4,000 jobs with help from AI",
+      "Lufthansa to cut 4,000 jobs as airline turns to AI to boost efficiency"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.896,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.651,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Lufthansa plans to eliminate 4,000 administrative jobs by 2030, aiming to boost profitability through streamlining operations and adopting AI and digitalization. This move is part of the airline's strategy to reshape its operational model.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: plan",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "EA Acquired by PIF, Silver Lake, and Affinity for $55 Billion",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Mon, 29 Sep 2025 15:50:33 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC",
+      "Ars Technica"
+    ],
+    "domains": [
+      "arstechnica.com",
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "Electronic Arts said it has agreed to be acquired by PIF, Silver Lake and Affinity Partners in an all-cash deal worth $55 billion.",
+      "Investors will receive $210 per share, well above the stock's all-time high."
+    ],
+    "image_url": "",
+    "titles": [
+      "EA going private in $55 billion deal that will pay shareholders $210 a share",
+      "It’s official: EA is selling to private equity in $55 billion deal"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.86,
+      "recency": 0.973,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.627,
-    "summary_source": "cache",
+    "score": 0.65,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Starbucks announced on Thursday it will close 1% of its North American stores, but did not specify which ones. Business Insider has compiled a list of the closures. These closures are impacting local coffee routines.",
+    "summary": "Electronic Arts announced its acquisition by PIF, Silver Lake, and Affinity Partners in a deal valued at $55 billion. Investors are set to receive $210 per share in cash, surpassing the stock's historical peak.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Europe's Environmental Degradation Threatens Quality of Life, Report Finds",
+    "domain": "general",
+    "source_domain": "www.dw.com",
+    "location": "global",
+    "published": "2025-09-29T13:28:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "The Guardian",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "Despite progress in climate change action, the continent's environment is being seriously degraded according to a new report. It stresses this poses a threat to competitiveness and quality of life on the continent.",
+      "<p>EU officials warn climate breakdown and wildlife loss ‘are ruining ecosystems that underpin the economy’</p><p>The European way of life is being jeopardised by environmental degradation, a <a href=\"https://www.eea.europa.eu/en/europe-environment-2025/main-report\">report</a> has found, with EU off"
+    ],
+    "image_url": "",
+    "titles": [
+      "Environmental damage threatens prosperity in Europe",
+      "Environmental damage is putting European way of life at risk, says report"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.945,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.644,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A new report highlights serious environmental degradation across Europe, despite advances in climate action. This degradation threatens the continent's competitiveness and quality of life, with EU officials noting the ruin of ecosystems essential to the economy. The European way of life is at risk due to climate breakdown and wildlife loss.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Petrino Begins Overhaul After Taking Over from Pittman",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Mon, 29 Sep 2025 13:26:31 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Yahoo Sports",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.sportingnews.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Petrino made his first major move after Sam Pittman's firing",
+      "The overhaul under Bobby Petrino is happening."
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/29/adcccc59-114c-4b99-9fee-01eb3bad2582/travis-williams.jpg",
+    "titles": [
+      "Arkansas fires defensive coordinator Travis Williams as interim coach Bobby Petrino reshapes staff",
+      "Arkansas Razorbacks fire three coaches, including defensive coordinator Travis Williams"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.945,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.644,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Bobby Petrino, following Sam Pittman's dismissal, has initiated his first significant action as part of an overhaul process. This marks the beginning of changes under Petrino's leadership.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "GSK Announces Global Listing and CEO Change, Keeps HQ in Cambridge",
+    "domain": "business",
+    "source_domain": "www.ft.com",
+    "location": "global",
+    "published": "Mon, 29 Sep 2025 11:58:40 GMT",
+    "source": "Financial Times",
+    "sources": [
+      "Financial Times",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.ft.com"
+    ],
+    "snippets": [
+      "One of UK’s largest companies says it intends to create a ‘global listing’",
+      "<p>UK’s biggest drugmaker to put its US shares on par with its London-based stock, but says HQ will stay in Cambridge</p><ul><li><p><a href=\"https://www.theguardian.com/business/2025/sep/29/gsk-emma-walmsley-to-be-replaced-as-ceo\">GSK’s Emma Walmsley to be replaced as CEO</a></p></li><li><p><a href="
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fffb560d4-2774-4f89-abec-41f06d7f4c5e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "AstraZeneca to elevate New York listing in blow to London",
+      "AstraZeneca to upgrade US listing in ‘knock-back for London’"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.897,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.644,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "One of the UK's largest companies, GSK, announced plans for a 'global listing' to align its US shares with its London stock. Despite this move, GSK confirmed its headquarters will remain in Cambridge. Additionally, it was announced that GSK's CEO, Emma Walmsley, will be replaced.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: plan",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "EA Undergoes Largest Leveraged Buyout with Saudi Backing, Kushner Involvement",
+    "domain": "business",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Mon, 29 Sep 2025 14:06:34 GMT",
+    "source": "BBC",
+    "sources": [
+      "Financial Times",
+      "BBC"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "www.ft.com"
+    ],
+    "snippets": [
+      "EA is known for making best-selling games such as EA FC, The Sims and Mass Effect.",
+      "Saudi-backed transaction orchestrated by Jared Kushner and Silver Lake is biggest-ever leveraged buyout"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41bd/live/ab75e000-9d32-11f0-82af-53ec555e619b.png",
+    "titles": [
+      "Gaming giant Electronic Arts bought in unprecedented $55bn deal",
+      "Video games maker Electronic Arts strikes $55bn deal to go private"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.938,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.643,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Electronic Arts (EA), creator of best-selling games like EA FC, The Sims, and Mass Effect, is involved in the largest-ever leveraged buyout. This transaction is backed by Saudi investors and was orchestrated by Jared Kushner and Silver Lake.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Raducanu Falls to Pegula in China Open Third Round",
+    "domain": "sports",
+    "source_domain": "www.theguardian.com",
+    "location": "global",
+    "published": "Mon, 29 Sep 2025 11:49:48 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "The Guardian",
+      "Sky Sports"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.skysports.com"
+    ],
+    "snippets": [
+      "<ul><li><p>Briton loses 3-6, 7-6 (9), 6-0 to American world No 7 </p></li><li><p>Defeat echoes loss against Krejcikova in Seoul</p></li></ul><p>For the better part of two hours on court at the China Open against one of the toughest possible opponents, Emma Raducanu’s varied, steadily improving game ",
+      "Highlights of the Round of 32 match-up at the China Open between Emma Raducanu and Jessica Pegula.",
+      "British No 1 Emma Raducanu crashed out in the third round of the China Open after suffering an agonising 3-6 7-6 (11-9) 6-0 loss to American Jessica Pegula."
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/b544b3f2eba9a1f59624092f099d56e6a716f263/0_39_4055_3244/master/4055.jpg?width=140&quality=85&auto=format&fit=max&s=11c29a973853dd981cba2756dcac7956",
+    "titles": [
+      "Raducanu squanders match points and crumbles against Pegula at China Open",
+      "Raducanu suffers painful China Open exit after Pegula fightback",
+      "Raducanu spurns three match points in China Open defeat to Pegula"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.895,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.641,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "British No 1 Emma Raducanu was defeated by American world No 7 Jessica Pegula in the third round of the China Open, with scores of 3-6, 7-6 (9), 6-0. This loss mirrors Raducanu's previous defeat in Seoul against Krejcikova. The match highlighted Raducanu's improving game despite the outcome.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Indian Cricket Team Refuses Asia Cup Trophy Over Political Tensions",
+    "domain": "business",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Mon, 29 Sep 2025 12:34:32 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Forbes",
+      "Al Jazeera"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.forbes.com"
+    ],
+    "snippets": [
+      "The Indian team refused to accept the trophy because it was to be presented by Pakistani Interior Minister Mohsin Naqvi.",
+      "Team India refuses to receive the Asia Cup trophy from Mohsin Naqvi, highlighting the underlying political tension between the neighboring countries."
+    ],
+    "image_url": "",
+    "titles": [
+      "Why did India refuse to accept the Asia Cup trophy after beating Pakistan?",
+      "Asia Cup 2025: India Refuses To Receive Trophy From Pakistan’s Mohsin Naqvi"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.928,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.641,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Indian cricket team declined to accept the Asia Cup trophy as it was to be presented by Pakistani Interior Minister Mohsin Naqvi, showcasing the political tensions between the two countries.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Washington Official Cuts Immigration, Threatens Rivals, Sparks Debate",
+    "domain": "business",
+    "source_domain": "www.ft.com",
+    "location": "global",
+    "published": "Mon, 29 Sep 2025 04:00:16 GMT",
+    "source": "Financial Times",
+    "sources": [
+      "Financial Times",
+      "Financial Post"
+    ],
+    "domains": [
+      "financialpost.com",
+      "www.ft.com"
+    ],
+    "snippets": [
+      "Washington’s most powerful unelected bureaucrat slashes immigration and threatens his political enemies",
+      "Washington's most powerful unelected bureaucrat slashes immigration and threatens his political enemies"
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F37d8ed91-5c6f-4f4f-91e7-620183a9f999.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Stephen Miller: Trump’s ‘prime minister’ executes his plan to reshape America",
+      "Stephen Miller: Donald Trump’s ‘prime minister’ executes his plan to reshape America"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.76,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.607,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A high-ranking, unelected official in Washington has made significant cuts to immigration and issued threats against political adversaries. This action has sparked controversy and debate among various stakeholders.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "TechCrunch Disrupt 2025 Volunteer Apps Close Tonight; Baiju Bhatt to Speak",
+    "domain": "technology",
+    "source_domain": "techcrunch.com",
+    "location": "global",
+    "published": "Mon, 29 Sep 2025 15:00:00 +0000",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "domains": [
+      "techcrunch.com"
+    ],
+    "snippets": [
+      "If you’ve been thinking about applying to volunteer at TechCrunch Disrupt 2025, this is it — applications close tonight at 11:59 p.m. PT. Only accepting local Bay Area applicants.",
+      "Baiju Bhatt, co-founder of Robinhood and founder of Aetherflux, shares insights on building transformative companies in fintech and aerospace at TechCrunch Disrupt 2025."
+    ],
+    "image_url": "",
+    "titles": [
+      "Final day to apply: Volunteer at TechCrunch Disrupt 2025",
+      "From Robinhood to Aetherflux: Baiju Bhatt’s next frontier at TechCrunch Disrupt 2025"
+    ],
+    "score_components": {
+      "magnitude": 0.393,
+      "recency": 0.976,
+      "consensus": 0.35,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.47,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Applications for volunteering at TechCrunch Disrupt 2025 close tonight at 11:59 p.m. PT, and only local Bay Area applicants are eligible. In related news, Baiju Bhatt, co-founder of Robinhood and founder of Aetherflux, will speak at the event, sharing insights on creating transformative companies in fintech and aerospace.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
