@@ -1,5 +1,60 @@
 [
   {
+    "title": "Renowned Primatologist Jane Goodall Dies at 91",
+    "domain": "business",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Wed, 01 Oct 2025 14:28:16 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "CityNews",
+      "Deutsche Welle",
+      "Forbes",
+      "ABC News",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.npr.org",
+      "abcnews.go.com",
+      "ottawa.citynews.ca",
+      "www.theguardian.com",
+      "www.dw.com",
+      "www.forbes.com"
+    ],
+    "snippets": [
+      "Jane Goodall, primatologist who transformed our understanding of the lives of apes, has died, according to an announcement from the Jane Goodall Institute.",
+      "The Jane Goodall Institute said the renowned chimpanzee researcher died of natural causes at the age of 91.",
+      "Jane Goodall, the most prolific primatologist of a generation, has died. She was 91 years old.",
+      "<p>Jane Goodall Institute says ‘tireless advocate’ for natural world died in California during US speaking tour</p><p>The world-renowned primatologist Jane Goodall has died at the age of 91, her institute has said.</p><p>The Jane Goodall Institute announced that she had passed away of natural causes",
+      "Goodall is best known for her groundbreaking research into chimpanzee behavior and customs.",
+      "Dr. Jane Goodall, one of the world&#8217;s most beloved animal behaviorists and a pioneer in primatology has died at the age of 91, the Jane Goodall Institute confirmed Wednesday. The British scientist, best known for her groundbreaking work with chimpanzees in Tanzania&#8217;s Gombe Stream National"
+    ],
+    "image_url": "",
+    "titles": [
+      "Jane Goodall, legendary primatologist, has died at age 91",
+      "Primatologist Jane Goodall has died at the age of 91, her institute has said",
+      "Jane Goodall, famed primatologist and conservationist, dies at 91",
+      "Jane Goodall, world-renowned primatologist, dies aged 91",
+      "Jane Goodall Institute Says Legendary Zoologist Is Dead At 91",
+      "Renowned primatologist Dr. Jane Goodall dead at 91"
+    ],
+    "score_components": {
+      "magnitude": 0.986,
+      "recency": 0.964,
+      "consensus": 1.0,
+      "constructiveness": 0.1,
+      "proximity": 0.75
+    },
+    "score": 0.873,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Jane Goodall, the celebrated primatologist known for her pioneering research on chimpanzee behavior, has died at the age of 91. The Jane Goodall Institute announced she passed away of natural causes during a speaking tour in the US. Goodall, a British scientist, transformed our understanding of apes and was a tireless advocate for the natural world.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: research",
+    "constructiveness_source": "heuristic"
+  },
+  {
     "title": "Supreme Court Blocks Trump's Bid to Dismiss Fed's Cook Amid Fraud Claims",
     "domain": "business",
     "source_domain": "www.npr.org",
@@ -8,38 +63,42 @@
     "source": "NPR",
     "sources": [
       "NPR",
-      "CNBC",
-      "The Guardian",
-      "Axios"
+      "LA Times",
+      "Axios",
+      "Al Jazeera",
+      "CNBC"
     ],
     "domains": [
-      "www.theguardian.com",
       "www.npr.org",
+      "www.latimes.com",
       "www.cnbc.com",
-      "news.google.com"
+      "news.google.com",
+      "www.aljazeera.com"
     ],
     "snippets": [
       "The Supreme Court has temporarily blocked President Trump's attempt to fire Federal Reserve governor Lisa Cook, a move that critics say would have compromised the central bank's independence",
+      "High court to hear arguments in January on whether Cook will lose her job but says she may stay in her post until then.",
       "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA2cnJlZ3pzUFl1b3Z0MXdHbFJzN2o3UndHdEFwb0pUVmg3dTd5ZU5pSnYtVnRVSWtMRWh6VXFYbHN0VFh0SFgwV1VnT1MzLUwtaVpjYjk3cjVMcVVPNEZoOTRITWVBWkNsOXRn?oc=5\" target=\"_blank\">Supreme Court says Fed governor Cook can remain in job pending arguments</a>&nbsp;&",
       "President Donald Trump has sought to fire Federal Reserve Governor Lisa Cook, citing claims that she committed mortgage fraud in connection with two homes.",
-      "<p>Court’s announcement means Lisa Cook will remain in the post for now, despite first-ever bid by a president to fire a Fed official</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/01/us-government-shutdown-update-2025-shutting-funding-trump-democrats-republicans-live-updat"
+      "<p>If Trump can oust Lisa Cook, he could have majority control of the Federal Reserve.</p>"
     ],
     "image_url": "",
     "titles": [
       "Supreme Court says Federal Reserve Governor Lisa Cook can stay -- for now",
+      "Supreme Court temporarily blocks Fed Governor Cook firing",
       "Supreme Court says Fed governor Cook can remain in job pending arguments - Axios",
-      "Supreme Court lets Fed Governor Lisa Cook keep job pending oral argument in January",
-      "Federal reserve governor will stay in post for now following US supreme court announcement"
+      "Supreme Court lets Fed Governor Lisa Cook keep job pending January oral argument",
+      "Supreme Court puts off decision on whether Trump may fire Federal Reserve Governor Lisa Cook"
     ],
     "score_components": {
-      "magnitude": 0.932,
-      "recency": 0.979,
-      "consensus": 0.908,
+      "magnitude": 0.984,
+      "recency": 0.901,
+      "consensus": 0.995,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.824,
-    "summary_source": "gpt",
+    "score": 0.848,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Supreme Court has temporarily halted President Trump's attempt to dismiss Federal Reserve Governor Lisa Cook, amidst allegations of mortgage fraud. This decision preserves the central bank's independence for now and marks a significant moment as it's the first instance of a president attempting to fire a Fed official. Cook will maintain her position pending further court deliberations.",
     "constructiveness_score": 0.0,
@@ -47,336 +106,114 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Oktoberfest Reopens After Closure Due to Bomb Threat Linked to Domestic Dispute",
-    "domain": "general",
+    "title": "US Government Shuts Down Over Funding Dispute",
+    "domain": "business",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Wed, 01 Oct 2025 14:45:35 GMT",
+    "published": "Wed, 01 Oct 2025 18:25:22 GMT",
     "source": "BBC",
     "sources": [
       "BBC",
-      "CityNews",
-      "Washington Post",
-      "New York Times",
-      "Deutsche Welle"
+      "Axios",
+      "Forbes",
+      "The Guardian",
+      "Bloomberg"
     ],
     "domains": [
-      "ottawa.citynews.ca",
-      "www.nytimes.com",
-      "www.washingtonpost.com",
       "www.bbc.com",
-      "www.dw.com"
+      "www.theguardian.com",
+      "news.google.com",
+      "www.forbes.com"
     ],
     "snippets": [
-      "The annual beer festival was closed for several hours because of possible links to an explosion and fire.",
-      "Germany's world-famous Oktoberfest beer festival will open again on Wednesday evening, the city's mayor has said. A house fire and suspected suicide with a potential link to the event halted proceedings. DW has more.",
-      "Hours after a written threat, by a suspect who killed himself, authorities said the beer celebration would reopen after a search of the grounds found no explosives.",
-      "The German authorities said the decision to close the festival grounds was taken after an earlier explosion in a residential area of the city that appeared linked to a domestic dispute.",
-      "MUNICH (AP) — German police completed a security sweep at the Oktoberfest fairgrounds and said the famed beer festival was reopening after an hourslong closure due to a bomb threat by a suspect linked to an explosion Wednesday across town in northern Munich. Police in Bavaria, the state where Munich"
+      "At some point, public pressure and political pain will see one side yield to bring this latest US government shutdown to an end.",
+      "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSmo1bGlBQjhwYmIwQnEtWHZhcmUycEJLUzU5TGpLaFpJQmN5WExKZWJzd2RuZi02VTI2M1VhQnlFNmV4OVdra0V2eVVUSkNKenFma2d4QzJfT0JGV0hlby1sYmtZRE1yU0NjYjVXRmpwckVEVHFQQkM1RlFub1pLOHdVMnVLV2o0Tl9RRk1Kb2s?oc=5\" target=\"_blank\">How the government shutdown coul",
+      "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE01UGNibVdPTktuZVRPNmt1OE1WbTNnUm5uVW5XR1NnVERQWWhUWnd6SldNVDJ4ajZsU2ZmbXp4Mmk3c0tfV29mMmhVaHJOVHpYMmlkUDFaR2Rrdld3RGlHTkhtWl9NXzNaMmlxS1RvUllrM1ZLT1Nr?oc=5\" target=\"_blank\">Democrats take the fight to Trump on government shutdown</a>&nbsp;&",
+      "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNc3FTdjJNd1ZmUGRNSnNldl9DNGhtem8tSHNrRnZjOGlEODdicEdBTFUxY0tGT0psUGl1X0w0V3gyMHVwTlVRbXA2MkpoWVMxWDdNOUxhb2liS0NMWDliT2Z5V0tRYkh3OFFSOWN1ZFhrNkJzRk5HVG11QUpULXRvRTVZOE1DUEhmaDRJX0Y1UkFWZ0JubkFpZjlVOA?oc=5\" target=\"_blank\">How the federal g",
+      "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWs1VTJ6cXZPcWNldWwzYWd1UkNPbmkxTWxnOHRGemZKZXh2YktHTENmS1d5c1R5RnZxWEt3a1BQU002X2poU3l2aV9EbWNEc1dUYUVfbzBuQ0RHSDhqYVpXNmxkQVM0VlF4V0otZXRZNFcxZzJ2V1hoaVN1RVFmZEFsbnU?oc=5\" target=\"_blank\">Federal government shutdown begins after Congres",
+      "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQjIyY0NZSTlTM0RUaDFLbWFUUFRxMmRxdmt5a2V4bW5aNFIwRTZmeHo0dEo0MEhQeVZ5cWtDYThhM2tLdjVyYnFNemJKM29ha29Hczh0V0xlbjV3TFUwQ0xmY1hXSXR6R0NqZlpfSnNFM2dBcGRXd0NDclhYUThkbUNkZ3ViTkFVQ1Q3ZFBxcTk?oc=5\" target=\"_blank\">The seven Democratic senators wh",
+      "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5HZHNXQVlPVGdlc3dJQ05yRk96MU1ZeEluMHJ5clV1Q2RUM1ptbU4ySEhwWDRXcUdBUzd2Um4wdV9zZ01wb1g0dUFxTlFjcjZmdUxyR0F4X0tiT0ZWVnA3clNHSndkZVpDVFVUaGIyam9aOUVXWFNORHV5TlI?oc=5\" target=\"_blank\">What a government shutdown will likely mean for national par",
+      "<p>After weeks of threats from both sides and negotiations that went nowhere, the US is once again experiencing a government shutdown. This week, Jonathan Freedland speaks to Marianna Sotomayor, a congressional reporter at the Washington Post, to look at who should take the blame, who suffers, and w",
+      "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZEY2THVMcW5BREdYSml2YXp2dWlOamVnc0twN2NTVFJLNmlCN0tjelFEYjZBeEtfWnZWdW9BSzlZbEFPTl9IcUtIUUFZYUl1ZmlIQkZPNmpYUEZ1b0pVUEdydHVVYUp3Qkg3VWVxRDN1WDlhNkJPY29sUXNYOVAzdS15X1dPM0dheS05TEs4bVl0ZjRrMmcyaw?oc=5\" target=\"_blank\">Another US Government",
+      "The FAA has posted an ‘Emergency’ notification on its website following the U.S. Government shutdown. The agency furloughed 11,000 employees due to a lack of funding."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4acb/live/b7e46fd0-9ea1-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/843d/live/f62328b0-9ef9-11f0-92db-77261a15b9d2.jpg",
     "titles": [
-      "Munich Oktoberfest to re-open after fatal house fire and bomb threat",
-      "Germany news: Oktoberfest set to reopen after bomb scare",
-      "Oktoberfest in Munich cleared to reopen after bomb threat",
-      "Bomb Threat Delays Oktoberfest in Munich",
-      "Police say security sweep ends and Oktoberfest is reopening after bomb threat"
+      "Four ways US government shutdown could end",
+      "How the government shutdown could disrupt daily life - Axios",
+      "Democrats take the fight to Trump on government shutdown - Axios",
+      "How the federal government shutdown will impact Arizona - Axios",
+      "Federal government shutdown begins after Congress fails to act - Axios",
+      "The seven Democratic senators whose votes could be key to ending the government shutdown - Axios",
+      "What a government shutdown will likely mean for national parks - Axios",
+      "US government shutdown: now what? – podcast",
+      "Another US Government Shutdown Is Here. Why It Keeps Happening - Bloomberg.com",
+      "FAA Posts ‘Emergency’ Notification Following U.S. Government Shutdown"
     ],
     "score_components": {
       "magnitude": 0.944,
-      "recency": 0.949,
+      "recency": 0.943,
+      "consensus": 0.975,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.813,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The US government has officially shut down due to a failure to reach a funding agreement, primarily over disagreements on health insurance costs. This impasse resulted from Republicans and Democrats not coming to terms. The shutdown impacts government operations and raises concerns about potential layoffs and the effects on national parks and services.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Oktoberfest Reopens After Closure Due to Bomb Threat Linked to Domestic Dispute",
+    "domain": "general",
+    "source_domain": "www.dw.com",
+    "location": "global",
+    "published": "2025-10-01T14:42:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "CityNews",
+      "Washington Post",
+      "Deutsche Welle",
+      "New York Times",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.washingtonpost.com",
+      "ottawa.citynews.ca",
+      "www.nytimes.com",
+      "www.theguardian.com",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "Explosions and a fire at a detached house in northern Munich triggered a large police response. The suspect was found injured and later died, but authorities found no link or threat to the Oktoberfest beer festival.",
+      "Germany's world-famous Oktoberfest beer festival was closed to visitors for much of Wednesday, following a house fire and suspected suicide with a potential link to the event. DW has more.",
+      "<p>Beer festival had closed after 57-year-old man shot parents, set house on fire, and left note mentioning event</p><p>A German man went on a deadly gun, explosives and arson rampage against his family and then killed himself on Wednesday, prompting security fears in Munich that closed the world-fa",
+      "Hours after a written threat, by a suspect who killed himself, authorities said the beer celebration would reopen after a search of the grounds found no explosives.",
+      "The German authorities said the decision to close the festival grounds was taken after an earlier explosion in a residential area of the city that appeared linked to a domestic dispute.",
+      "MUNICH (AP) — The Oktoberfest fairgrounds closed for several hours Wednesday as police conducted a security sweep of the famed beer festival due to a bomb threat by a suspect linked to an explosion across town in northern Munich. Police in Bavaria, the state where Munich is located, said the suspect"
+    ],
+    "image_url": "",
+    "titles": [
+      "Oktoberfest back on after Munich bomb scare",
+      "Germany news: Oktoberfest reopens after Munich bomb scare",
+      "Munich Oktoberfest reopens after man’s deadly arson attack and bomb threat",
+      "Oktoberfest in Munich cleared to reopen after bomb threat",
+      "Bomb Threat Delays Oktoberfest in Munich",
+      "Police say Oktoberfest reopens after a security sweep due to a bomb threat"
+    ],
+    "score_components": {
+      "magnitude": 0.944,
+      "recency": 0.891,
       "consensus": 0.995,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.819,
-    "summary_source": "gpt",
+    "score": 0.807,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Oktoberfest beer festival in Munich, Germany, was temporarily closed due to a bomb threat linked to an explosion and fire in a residential area, suspected to be connected to a domestic dispute. The threat came from a suspect who later committed suicide. After a thorough security sweep of the festival grounds revealed no explosives, authorities announced the event would reopen on Wednesday evening. The closure was a precautionary measure to ensure public safety.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "New Jersey Devils Sign Luke Hughes to $63M, 7-Year Deal",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Wed, 1 Oct 2025 11:51:33 EST",
-    "source": "ESPN",
-    "sources": [
-      "Sportsnet",
-      "ESPN",
-      "Yahoo Sports",
-      "NHL"
-    ],
-    "domains": [
-      "www.espn.com",
-      "news.google.com",
-      "www.nbcsports.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "The New Jersey Devils have signed a $63 million, seven-year contract with 22-year-old defenseman Luke Hughes.",
-      "Luke Hughes was one of just a couple restricted free agents left unsigned with opening night just about a week away.",
-      "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS09yMm15OU9zN01Bdk5yRjdmcEhycGtUWS1DWHVjSjltWXNMb0RJZ3Q2ckg0emdUNEVDVWhBTV95bVBsS0R1YXJXYWVjdUhrSm1qRVFYS0JHaG1CX25QWnMtbGI0LWhkOEtwX1dwM1VIUkw3dldwQU9uajMxY1pPdjJWMERTOXAx?oc=5\" target=\"_blank\">Luke Hughes signs 7-year, $63 million contr",
-      "<p>The New Jersey Devils have locked up their franchise defenceman.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Hughes signs 7-year, $63 million Devils contract",
-      "Devils agree with defenseman Luke Hughes on a 7-year, $63 million contract",
-      "Luke Hughes signs 7-year, $63 million contract with Devils - NHL.com",
-      "Luke Hughes signs seven-year, $63-million deal with Devils"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.991,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.812,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The New Jersey Devils have signed defenseman Luke Hughes to a $63 million, seven-year contract. Hughes, 22, was one of the few remaining restricted free agents. This deal secures the franchise defenseman just ahead of the season's start.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "U.S. Government Shuts Down Amid Congressional Deadlock",
-    "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 07:14:41 -0400",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "Al Jazeera",
-      "Deutsche Welle",
-      "BBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.aljazeera.com",
-      "www.npr.org",
-      "www.dw.com"
-    ],
-    "snippets": [
-      "The federal government has shut down for the first time since 2019. Mass layoffs have been threatened. And, President Trump announced a pricing deal with Pfizer.",
-      "Funding has been cut off after Republicans and Democrats failed to agree a way forward on a spending bill.",
-      "Hundreds of thousands federal employees to be furloughed while others, including FBI, CIA agents, will work without pay.",
-      "The US Government has shut down after the Senate failed to pass a spending bill. Heidi Zhou Castro breaks it down.",
-      "The US government has officially shut down after lawmakers couldn't agree on a funding deal. Who is impacted when the government can't pay its bills? Could the Trump administration use it as an excuse for more layoffs?"
-    ],
-    "image_url": "",
-    "titles": [
-      "What happens now that the government has shut down. And, a pricing deal with Pfizer",
-      "Why the US government has shut down and what happens now",
-      "The US government has shut down – what happens now?",
-      "What happens when the US government shuts down?",
-      "US government shutdown: What happens and who's affected?"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.9,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.794,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The U.S. federal government officially shut down at 12:01 a.m. Wednesday due to a deadlock in Congress over spending bills. This marks the first government shutdown since 2019. Amidst the shutdown, President Trump announced a pricing deal with Pfizer. The shutdown threatens mass layoffs unless resolved.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Supreme Court Delays Trump vs. Cook Fed Decision to 2026",
-    "domain": "business",
-    "source_domain": "www.ft.com",
-    "location": "global",
-    "published": "Wed, 01 Oct 2025 15:09:57 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "LA Times",
-      "Financial Times",
-      "MarketWatch",
-      "Forbes"
-    ],
-    "domains": [
-      "www.latimes.com",
-      "www.forbes.com",
-      "www.ft.com",
-      "www.marketwatch.com"
-    ],
-    "snippets": [
-      "Justices defer decision on president’s bid to sack central banker until January 2026",
-      "<p>If Trump can oust Lisa Cook, he could have majority control of the Federal Reserve.</p>",
-      "Cook will remain at the Federal Reserve until the Supreme Court hears oral arguments from the Trump administration in January.",
-      "The White House has been trying to fire Cook since late August, with Trump and his allies arguing that she engaged in mortgage fraud in loan documents she signed before she joined the Fed in 2022."
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe57df6a0-1d80-48e4-9277-28e6a6a05e85.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Supreme Court blocks Trump from immediately firing Fed’s Lisa Cook",
-      "Supreme Court puts off decision on whether Trump may fire Federal Reserve Governor Lisa Cook",
-      "Supreme Court Won’t Let Trump Fire Lisa Cook—For Now",
-      "Supreme Court allows Lisa Cook to stay on at Fed, for now. What’s next as Trump tries to fire her."
-    ],
-    "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.957,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.788,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Supreme Court has postponed its decision on whether President Trump can fire Federal Reserve member Lisa Cook to January 2026. Cook, accused by Trump of mortgage fraud prior to her 2022 Fed appointment, will stay in her position until then. Trump's success in removing Cook could grant him majority control over the Federal Reserve.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "6.9 Earthquake in Philippines Kills 60, Injures 140 in Cebu and Bogo",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Wed, 01 Oct 2025 09:19:59 GMT",
-    "source": "BBC",
-    "sources": [
-      "New York Times",
-      "Washington Post",
-      "Deutsche Welle",
-      "BBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.nytimes.com",
-      "www.dw.com",
-      "www.washingtonpost.com"
-    ],
-    "snippets": [
-      "The earthquake comes barely more than a week after the country was hit by back-to-back typhoons.",
-      "Injured patients have overwhelmed the main hospital in Bogo city where children and adults were seen screaming while receiving treatment in the driveway.",
-      "A 6.9-magnitude earthquake struck the central Philippines, damaging numerous businesses and leaving towns without power. Casualty numbers are expected to rise",
-      "The 6.9-magnitude earthquake shook the province of Cebu, killing at least 69 people and injuring more than 150. Heavy rainfall has hampered rescue efforts."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ac2/live/0f27a350-9e9f-11f0-9f70-63cdd409bfce.jpg",
-    "titles": [
-      "State of calamity in Philippines province as earthquake kills 69",
-      "Philippines hit by 6.9 magnitude earthquake, dozens dead",
-      "Powerful earthquake in central Philippines kills at least 69",
-      "Earthquake in Philippines Kills Dozens, Officials Say"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.847,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.759,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "A magnitude 6.9 earthquake hit central Philippines, affecting the province of Cebu and the coastal city of Bogo, resulting in at least 60 deaths and over 140 injuries, according to a civil defence official. The quake caused widespread power outages, building and road damage, and hampered rescue operations due to heavy rainfall. Rescuers continue to search for survivors amidst the debris.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "US Faces 10th Shutdown Since 1976, Air Travel May Suffer Delays",
-    "domain": "business",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Wed, 01 Oct 2025 15:04:54 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "MarketWatch",
-      "Al Jazeera",
-      "Business Insider"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "www.businessinsider.com",
-      "www.marketwatch.com"
-    ],
-    "snippets": [
-      "The US government has had 20 funding gaps, resulting in 10 shutdowns since 1976, the longest lasting 35 days.",
-      "The government shutdown could disrupt flights, extend security wait times, and slow safety functions, creating a stressful travel experience.",
-      "Air-traffic controllers and many Transportation Security Administration employees, including airport screeners, are classified as essential workers. That doesn’t mean that all air travel will be smooth."
-    ],
-    "image_url": "",
-    "titles": [
-      "A history of US government shutdowns: Every closure and how long it lasted",
-      "How the US government shutdown could impact your next flight",
-      "How the government shutdown and TSA could delay your flight"
-    ],
-    "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.975,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.746,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Since 1976, the US has experienced 20 funding gaps, leading to 10 government shutdowns, with the longest lasting 35 days. A shutdown could disrupt air travel, causing longer security wait times and impacting safety functions, despite air-traffic controllers and TSA screeners being classified as essential workers.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "US Government Shuts Down Over Funding Dispute",
-    "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 07:00:00 -0400",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "The Guardian",
-      "Axios"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.npr.org",
-      "news.google.com"
-    ],
-    "snippets": [
-      "The federal government shutdown, which began overnight, will delay key reports on the U.S. economy, including a monthly snapshot of the job market, which was scheduled for release on Friday.",
-      "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSmo1bGlBQjhwYmIwQnEtWHZhcmUycEJLUzU5TGpLaFpJQmN5WExKZWJzd2RuZi02VTI2M1VhQnlFNmV4OVdra0V2eVVUSkNKenFma2d4QzJfT0JGV0hlby1sYmtZRE1yU0NjYjVXRmpwckVEVHFQQkM1RlFub1pLOHdVMnVLV2o0Tl9RRk1Kb2s?oc=5\" target=\"_blank\">How the government shutdown coul",
-      "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE01UGNibVdPTktuZVRPNmt1OE1WbTNnUm5uVW5XR1NnVERQWWhUWnd6SldNVDJ4ajZsU2ZmbXp4Mmk3c0tfV29mMmhVaHJOVHpYMmlkUDFaR2Rrdld3RGlHTkhtWl9NXzNaMmlxS1RvUllrM1ZLT1Nr?oc=5\" target=\"_blank\">Democrats take the fight to Trump on government shutdown</a>&nbsp;&",
-      "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWs1VTJ6cXZPcWNldWwzYWd1UkNPbmkxTWxnOHRGemZKZXh2YktHTENmS1d5c1R5RnZxWEt3a1BQU002X2poU3l2aV9EbWNEc1dUYUVfbzBuQ0RHSDhqYVpXNmxkQVM0VlF4V0otZXRZNFcxZzJ2V1hoaVN1RVFmZEFsbnU?oc=5\" target=\"_blank\">Federal government shutdown begins after Congres",
-      "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNc3FTdjJNd1ZmUGRNSnNldl9DNGhtem8tSHNrRnZjOGlEODdicEdBTFUxY0tGT0psUGl1X0w0V3gyMHVwTlVRbXA2MkpoWVMxWDdNOUxhb2liS0NMWDliT2Z5V0tRYkh3OFFSOWN1ZFhrNkJzRk5HVG11QUpULXRvRTVZOE1DUEhmaDRJX0Y1UkFWZ0JubkFpZjlVOA?oc=5\" target=\"_blank\">How the federal g",
-      "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5HZHNXQVlPVGdlc3dJQ05yRk96MU1ZeEluMHJ5clV1Q2RUM1ptbU4ySEhwWDRXcUdBUzd2Um4wdV9zZ01wb1g0dUFxTlFjcjZmdUxyR0F4X0tiT0ZWVnA3clNHSndkZVpDVFVUaGIyam9aOUVXWFNORHV5TlI?oc=5\" target=\"_blank\">What a government shutdown will likely mean for national par",
-      "<p>After weeks of threats from both sides and negotiations that went nowhere, the US is once again experiencing a government shutdown. This week, Jonathan Freedland speaks to Marianna Sotomayor, a congressional reporter at the Washington Post, to look at who should take the blame, who suffers, and w"
-    ],
-    "image_url": "",
-    "titles": [
-      "Government shutdown could delay key economic reports at an especially sensitive time",
-      "How the government shutdown could disrupt daily life - Axios",
-      "Democrats take the fight to Trump on government shutdown - Axios",
-      "Federal government shutdown begins after Congress fails to act - Axios",
-      "How the federal government shutdown will impact Arizona - Axios",
-      "What a government shutdown will likely mean for national parks - Axios",
-      "US government shutdown: now what? – podcast"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.896,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.741,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The US government has officially shut down due to a failure to reach a funding agreement, primarily over disagreements on health insurance costs. This impasse resulted from Republicans and Democrats not coming to terms. The shutdown impacts government operations and raises concerns about potential layoffs and the effects on national parks and services.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -389,35 +226,39 @@
     "published": "Wed, 01 Oct 2025 14:26:29 GMT",
     "source": "BBC",
     "sources": [
+      "BBC",
+      "The Guardian",
       "TechCrunch",
-      "Financial Times",
-      "BBC"
+      "Financial Times"
     ],
     "domains": [
+      "www.ft.com",
       "www.bbc.com",
-      "techcrunch.com",
-      "www.ft.com"
+      "www.theguardian.com",
+      "techcrunch.com"
     ],
     "snippets": [
       "It is the latest development in a privacy row which has pitted the UK against the tech giant and the Trump administration.",
       "Order issued in September comes after Trump administration said London had backed down in fight over encryption",
+      "<p>New access order by Home Office would seek access to the tech company’s encrypted cloud backups</p><p>The UK government has renewed its confrontation with Apple over <a href=\"https://www.theguardian.com/technology/2025/feb/07/uk-confronts-apple-with-demand-for-cloud-backdoor-to-users-encrypted-da",
       "The U.K. Home Office is seeking access to Apple users’ encrypted iCloud backups for a second time, after an earlier attempt failed earlier this year."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c43/live/45f4f830-9eca-11f0-8281-d137a399b095.jpg",
     "titles": [
       "Government issues new data demand for UK Apple users",
       "UK makes new attempt to access Apple cloud data",
-      "UK government tries again to access encrypted Apple customer data: report"
+      "UK government resumes row with Apple by demanding access to British users’ data",
+      "UK government tries again to access encrypted Apple customer data: Report"
     ],
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.943,
-      "consensus": 0.789,
+      "magnitude": 0.912,
+      "recency": 0.868,
+      "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.732,
-    "summary_source": "gpt",
+    "score": 0.77,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The U.K. Home Office has issued a second order for access to Apple users' encrypted iCloud backups, following a failed attempt earlier this year. This action is part of an ongoing privacy dispute involving the UK, the tech giant, and the Trump administration. The controversy escalated after the Trump administration claimed that London had conceded in a battle over encryption.",
     "constructiveness_score": 0.0,
@@ -425,32 +266,77 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Ex-Congo President Kabila Sentenced to Death in Absentia for Multiple Crimes",
+    "title": "Three Arrested in Berlin for Alleged Plot Against Jewish Targets",
     "domain": "general",
     "source_domain": "www.aljazeera.com",
     "location": "global",
-    "published": "Wed, 01 Oct 2025 14:24:20 +0000",
+    "published": "Wed, 01 Oct 2025 18:19:42 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "New York Times",
       "Al Jazeera",
-      "The Guardian"
+      "Washington Post",
+      "Deutsche Welle"
     ],
     "domains": [
-      "www.theguardian.com",
       "www.aljazeera.com",
-      "www.nytimes.com"
+      "www.dw.com",
+      "www.washingtonpost.com"
     ],
     "snippets": [
-      "A military court in the Democratic Republic of the Congo has sentenced ex-President Joseph Kabila to death in absentia.",
-      "<p>Military court convicts Kabila of war crimes, treason and other offences in verdict that could fuel enduring tensions</p><p>A military court in the Democratic Republic of the Congo has sentenced the country’s former president Joseph Kabila to death in absentia after convicting him of war crimes, ",
-      "Joseph Kabila, who was president of the Democratic Republic of Congo for 18 years, was convicted of treason by a court in Kinshasa."
+      "The men are suspected of of being &#039;foreign operatives&#039; for Hamas and will appear in court Thursday, prosecutors say.",
+      "Authorities said two Germans and one Lebanese national had procured weapons to be used in violent acts targeting Israeli or Jewish institutions in Germany.",
+      "Police seized weapons including an AK-47 assault rifle and several pistols, as well as ammunition, while arresting the three men in Berlin, the prosecutor’s office said."
     ],
     "image_url": "",
     "titles": [
-      "Why was former DR Congo president Kabila sentenced to death?",
-      "Former DRC president Joseph Kabila sentenced to death in absentia",
-      "Congo’s Former President Sentenced to Death in Absentia"
+      "Germany arrests three men suspected of targeting Jewish institutions",
+      "Germany arrests 3 suspected Hamas members",
+      "Germany arrests three suspected Hamas members in plot to attack Jews"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.961,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.736,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Two Germans and one Lebanese national, suspected of being Hamas operatives, were arrested in Berlin for planning violent acts against Israeli or Jewish institutions in Germany. Authorities seized an AK-47, pistols, and ammunition. They are set to appear in court Thursday, according to prosecutors.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Federal Government Shuts Down Amid Congressional Deadlock",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Wed, 01 Oct 2025 19:23:04 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC",
+      "Forbes",
+      "Business Insider"
+    ],
+    "domains": [
+      "www.businessinsider.com",
+      "www.cnbc.com",
+      "www.forbes.com"
+    ],
+    "snippets": [
+      "Social Security benefit payments will still go out on time, according to the agency. But certain services may not be available.",
+      "Neptune Insurance, the nation's largest private flood insurance, goes public on the New York Stock Exchange Wednesday.",
+      "The government shut down began at midnight on Wednesday as Democrats and Republicans appeared to be nowhere close to reaching a funding deal.",
+      "The government shutdown could mean travel delays, closed parks, and Social Security customer service disruptions."
+    ],
+    "image_url": "",
+    "titles": [
+      "What the government shutdown means for Social Security benefits",
+      "Government shutdown means opportune timing for Neptune Flood IPO",
+      "Government Shutdown Begins: Here’s What’s Closed And Open",
+      "How the shutdown impacts everything from Social Security to the post office"
     ],
     "score_components": {
       "magnitude": 0.827,
@@ -462,181 +348,60 @@
     "score": 0.729,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Former Congolese President Joseph Kabila was sentenced to death in absentia by a military court in the Democratic Republic of the Congo. He was convicted of several crimes, including treason, murder, torture, and complicity with the M23 militia. This verdict comes after Kabila's 18-year presidency and could escalate tensions in the region.",
+    "summary": "The federal government shut down on Wednesday at midnight after Congress could not agree on a funding deal. This halt affects many government programs and services, with Democrats and Republicans unable to close the gap in negotiations.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Indonesia School Collapse Kills 3, Injures 100 During Prayer",
+    "title": "Pope Leo XIV Criticizes Climate Change Skeptics, Echoes Francis's Concerns",
     "domain": "general",
-    "source_domain": "www.dw.com",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "2025-10-01T07:33:00Z",
-    "source": "Deutsche Welle",
+    "published": "Wed, 01 Oct 2025 16:58:20 GMT",
+    "source": "BBC",
     "sources": [
-      "New York Times",
+      "BBC",
       "The Guardian",
-      "Deutsche Welle"
+      "New York Times"
     ],
     "domains": [
+      "www.bbc.com",
       "www.theguardian.com",
-      "www.nytimes.com",
-      "www.dw.com"
+      "www.nytimes.com"
     ],
     "snippets": [
-      "Indonesia's disaster management agency said at least six children are still alive under the rubble, as workers race against time to save lives.",
-      "<p>Desperate search for more than 90 missing after building collapses while students held prayers at school in Sidoarjo</p><p>Parents and rescuers in Indonesia were desperately searching for dozens of teenage boys believed to be trapped, a day after the collapse of an Islamic boarding school which h",
-      "Workers rushed to free potential survivors two days after an Islamic boarding school collapsed during a prayer service, killing at least three students.",
-      "At least three children were killed and about 100 injured after an Islamic boarding school collapsed during a prayer service, officials said."
+      "In his first major statement on climate change, the pontiff criticises those who minimise climate change.",
+      "The pope invoked his predecessor, Francis, for whom the environment was a core issue, but stopped short of criticizing world leaders dismissive of climate change.",
+      "<p>Pontiff laments that some ‘ridicule those who speak of global warming’, days after Trump’s claims of ‘con job’</p><p>Pope Leo XIV has taken aim at people who “ridicule those who speak of global warming” as he embraced Pope Francis’s environmental legacy and made it his own in some of his stronges"
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db01/live/edb94e60-9ee1-11f0-98b1-59d49dad95e6.jpg",
     "titles": [
-      "Indonesia school collapse: Over 90 students still trapped",
-      "Indonesia school collapse: 91 missing and three dead as rescuers search rubble for second day",
-      "Time Running Out for Trapped Students After School Collapse in Indonesia",
-      "Dozens of Students Are Missing After School Collapses in Indonesia"
+      "Pope Leo condemns climate change critics",
+      "Pope Leo Calls for Unity on Climate at a Divided Moment",
+      "‘Listen to the cry of the Earth’: Pope Leo takes aim at climate change sceptics"
     ],
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.834,
+      "magnitude": 0.827,
+      "recency": 0.915,
       "consensus": 0.789,
-      "constructiveness": 0.1,
+      "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.721,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "A school building in Indonesia collapsed during prayer time, resulting in at least three children dead and approximately 100 injured. The incident occurred at an Islamic boarding school. Rescue efforts were temporarily halted due to the risk of further collapse as authorities and rescuers work to find survivors and recover bodies.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: effort",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Canada Denies Marineland's Request to Export Beluga Whales to China",
-    "domain": "business",
-    "source_domain": "financialpost.com",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 15:24:36 +0000",
-    "source": "Financial Post",
-    "sources": [
-      "Financial Post",
-      "CityNews"
-    ],
-    "domains": [
-      "financialpost.com",
-      "ottawa.citynews.ca"
-    ],
-    "snippets": [
-      "Ottawa has denied a request from Marineland to send its remaining beluga whales to China, Fisheries Minister Joanne Thompson said Wednesday. The federal government will not grant an export permit to ship the 30 whales to the Chimelong Ocean Kingdom aquarium, she said. They are the last captive whale",
-      "Ottawa has denied a request from Marineland to send its remaining beluga whales to China. Fisheries Minister Joanne Thompson says the federal government will not grant an export permit to ship the 30 whales to the Chimelong Ocean Kingdom aquarium. Thompson says approving the request would mean a con"
-    ],
-    "image_url": "",
-    "titles": [
-      "Ottawa denies Marineland request to export its remaining beluga whales to China",
-      "Ottawa denies Marineland request to export its remaining beluga whales to China"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.982,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.708,
+    "score": 0.72,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The Canadian government, through Fisheries Minister Joanne Thompson, has refused Marineland's request to export its last 30 captive beluga whales to Chimelong Ocean Kingdom aquarium in China. The federal government will not issue the necessary export permit for the transfer.",
+    "summary": "Pope Leo XIV criticized individuals who minimize or ridicule the issue of climate change, aligning with his predecessor Pope Francis's emphasis on environmental concerns. This statement came shortly after President Trump dismissed global warming as a \"con job.\" The Pope did not directly criticize world leaders but expressed concern over the dismissal of climate change discussions.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Browns Bench Flacco, Start Rookie Gabriel Against Vikings",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Wed, 1 Oct 2025 11:51:33 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "CBS Sports"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.cbssports.com"
-    ],
-    "snippets": [
-      "The Browns are benching Joe Flacco and turning to rookie Dillon Gabriel as their starting QB for Sunday's game against the Vikings.",
-      "Will making a move at quarterback turn the Browns' 2025 season around?"
-    ],
-    "image_url": "",
-    "titles": [
-      "Browns bench Flacco, turn to Gabriel as starter",
-      "Browns to start Dillon Gabriel at QB, bench Joe Flacco after 1-3 start"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.991,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.685,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Cleveland Browns have decided to bench Joe Flacco and will start rookie Dillon Gabriel as their quarterback for the upcoming Sunday game against the Minnesota Vikings. This change aims to address the team's performance in the 2025 season.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Braves Manager Brian Snitker Steps Down, Takes New Role After Playoff Miss",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Wed, 1 Oct 2025 11:51:33 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.sportingnews.com"
-    ],
-    "snippets": [
-      "Brian Snitker, who guided the Braves to the 2021 World Series championship, will not return as manager after Atlanta failed to make the postseason for the first time since 2017.",
-      "The offseason carousel has started. Here's who is out -- and who could be in line to replace them.",
-      "With Brian Snitker deciding to step down as the Atlanta Braves manager and shift into another role with the organization, here are the best options for his replacement."
-    ],
-    "image_url": "",
-    "titles": [
-      "Snitker won't return as Braves manager in 2026",
-      "Tracking MLB offseason manager changes: Snitker won't return -- who could Braves target?",
-      "Brian Snitker replacements: Ranking best Braves manager candidates, from Mark DeRosa to Ron Washington"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.991,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.678,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Brian Snitker, the manager who led the Braves to a 2021 World Series win, will not return as manager after the team missed the postseason for the first time since 2017. Snitker will take on a different role within the organization. The search for his replacement is underway.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "UN Security Council Votes to Expand Haiti Mission with 5,500 Troops",
+    "title": "6.9 Earthquake in Philippines Kills 60, Injures 140 in Cebu and Bogo",
     "domain": "general",
     "source_domain": "www.theguardian.com",
     "location": "global",
-    "published": "Tue, 30 Sep 2025 20:11:39 GMT",
+    "published": "Wed, 01 Oct 2025 15:42:47 GMT",
     "source": "The Guardian",
     "sources": [
       "New York Times",
@@ -644,63 +409,264 @@
       "The Guardian"
     ],
     "domains": [
+      "www.washingtonpost.com",
       "www.theguardian.com",
-      "www.nytimes.com",
-      "www.washingtonpost.com"
+      "www.nytimes.com"
     ],
     "snippets": [
-      "<p>Unit will have up to 5,500 soldiers and police officers who will tackle the violence that has overwhelmed the country</p><p>The United Nations has adopted a resolution to transform a security mission in gang-dominated Haiti into a larger, fully fledged force with military troops.</p><p>The new un",
-      "The Security Council vote was an acknowledgment that the police mission it once backed had failed to wrest back control of the beleaguered Caribbean nation.",
-      "The vote on Tuesday would establish a force of up to 5,500 soldiers and police officers. It was unclear what countries were willing to contribute personnel or money."
+      "<p>More than 700 aftershocks recorded while rescuers search for casualties in coastal city of Bogo</p><p>Rescuers in the Philippines combed through rubble and mud after the deadliest earthquake in more than a decade killed at least 69 people, with patients overwhelming hospitals on the island of Ceb",
+      "A 6.9-magnitude earthquake struck the central Philippines, damaging numerous businesses and leaving towns without power. Casualty numbers are expected to rise.",
+      "The 6.9-magnitude earthquake shook the province of Cebu, killing at least 69 people and injuring more than 150. Heavy rainfall has hampered rescue efforts."
     ],
-    "image_url": "https://i.guim.co.uk/img/media/e6dd4a78b46089079d5287720264c35c3ab7e64b/371_0_4333_3466/master/4333.jpg?width=140&quality=85&auto=format&fit=max&s=98c9f2339c883ff5a89605094fa6c7f4",
+    "image_url": "https://i.guim.co.uk/img/media/9c1cba601e3a57b1545419a6bd406cb035ce4e0f/408_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fd5e030becb8499f9a24ab32e6e9e223",
     "titles": [
-      "UN security council approves new military force to fight Haiti gangs",
-      "U.N. approves militarized force to take on Haiti’s gangs",
-      "U.N. Security Council Approves Larger Force to Fight Gangs in Haiti"
+      "Philippines earthquake death toll rises to at least 69 as Cebu hospitals struggle",
+      "Powerful earthquake in central Philippines kills at least 69",
+      "Earthquake in Philippines Kills Dozens, Officials Say"
     ],
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.644,
+      "magnitude": 0.827,
+      "recency": 0.891,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.673,
+    "score": 0.715,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "The United Nations Security Council has voted to expand a security mission in Haiti into a larger force with up to 5,500 soldiers and police officers. This decision aims to neutralize, isolate, and deter gangs that have overwhelmed the country. The move acknowledges the failure of the previous police mission to control the situation in Haiti. However, the contributing countries and funding details remain unspecified.",
+    "summary": "A magnitude 6.9 earthquake hit central Philippines, affecting the province of Cebu and the coastal city of Bogo, resulting in at least 60 deaths and over 140 injuries, according to a civil defence official. The quake caused widespread power outages, building and road damage, and hampered rescue operations due to heavy rainfall. Rescuers continue to search for survivors amidst the debris.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "EU Plans $165B Loan for Ukraine Using Frozen Russian Assets",
+    "title": "Seven Men Sentenced in Rochdale Child Abuse Case",
     "domain": "general",
-    "source_domain": "www.aljazeera.com",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Wed, 01 Oct 2025 13:34:29 +0000",
-    "source": "Al Jazeera",
+    "published": "Wed, 01 Oct 2025 12:52:11 GMT",
+    "source": "BBC",
     "sources": [
-      "New York Times",
+      "BBC",
+      "The Guardian",
+      "New York Times"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "www.theguardian.com",
+      "www.nytimes.com"
+    ],
+    "snippets": [
+      "Two girls were repeatedly raped and assaulted from the age of 13 in the Greater Manchester town.",
+      "Seven men in all were sentenced on Wednesday over their roles in a decades-old national scandal in Britain involving child sexual abuse.",
+      "<p>Six other men sentenced to terms of up to 29 years after two girls treated as ‘sex slaves’ from the age of 13 </p><p>Seven men who groomed two vulnerable teenage girls in Rochdale and treated them as “sex slaves” have been jailed for between 12 and 35 years.</p><p>The ringleader, Mohammed Zahid, "
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2076/live/e2ba9430-9ed0-11f0-b741-177e3e2c2fc7.jpg",
+    "titles": [
+      "Rochdale grooming gang ringleader jailed for 35 years",
+      "U.K. ‘Grooming Gang’ Leader Sentenced to 35 Years for Rape",
+      "Ringleader of Rochdale grooming gang jailed for 35 years for rape and abuse"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.84,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.705,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Seven men were sentenced for grooming and sexually abusing two teenage girls in Rochdale, Greater Manchester, starting when the victims were 13. The sentences ranged from 12 to 35 years, with Mohammed Zahid identified as the ringleader. This case is part of a larger national scandal in Britain concerning child sexual abuse.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "US Faces 10th Shutdown Since 1976, Air Travel May Suffer Delays",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Wed, 01 Oct 2025 13:39:24 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
       "Al Jazeera"
     ],
     "domains": [
-      "www.nytimes.com",
+      "www.npr.org",
       "www.aljazeera.com"
     ],
     "snippets": [
-      "EU&#039;s Kallas says the bloc is working quickly on a loan for Ukraine that would leverage frozen Russian assets.",
-      "Amid a plan to lend $165 billion to Kyiv using Russian state assets, European officials are mindful of the possibility of blowback as they gather to discuss the idea."
+      "Government shutdowns lasting more than a few days were relatively rare — until recently. The 2018-2019 shutdown was the longest in U.S. history, stretching on for five weeks.",
+      "The US government has had 20 funding gaps, resulting in 10 shutdowns since 1976, the longest lasting 35 days."
     ],
     "image_url": "",
     "titles": [
-      "EU leaders push to tap frozen Russian assets for Ukraine reconstruction",
-      "Moscow Indicates Retaliation if Europe Uses Russian Assets for Ukraine"
+      "When will the government reopen? Here's how long past shutdowns lasted",
+      "A history of US government shutdowns: Every closure and how long it lasted"
     ],
     "score_components": {
       "magnitude": 0.775,
-      "recency": 0.945,
+      "recency": 0.947,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.683,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Since 1976, the US has experienced 20 funding gaps, leading to 10 government shutdowns, with the longest lasting 35 days. A shutdown could disrupt air travel, causing longer security wait times and impacting safety functions, despite air-traffic controllers and TSA screeners being classified as essential workers.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Trump Halts $18B in NYC Projects, Cites \"Unconstitutional DEI Principles\"",
+    "domain": "business",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Wed, 01 Oct 2025 13:55:39 -0400",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "Fortune"
+    ],
+    "domains": [
+      "www.npr.org",
+      "fortune.com"
+    ],
+    "snippets": [
+      "On the first day of the federal government shutdown, the Trump administration froze \"roughly $18 billion\" in infrastructure projects for New York City, home to two of Trump's Democratic congressional opponents.  It's not the first time Trump has threatened city funding over politics.",
+      "Russell Vought cited the “unconstitutional DEI principles” as the reason for the funding freeze in a post on X on Wednesday."
+    ],
+    "image_url": "",
+    "titles": [
+      "Trump freezes $18 billion in funding for NYC, home to key Democratic leaders",
+      "White House freezes $18 billion in NYC funding as shutdown hits"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.953,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.678,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "On the first day of the federal government shutdown, the Trump administration halted about $18 billion in infrastructure projects for New York City, citing \"unconstitutional DEI principles\" according to Russell Vought's post on X. This move affects the city represented by two of Trump's Democratic opponents, marking another instance where Trump has used funding threats over political disagreements.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Shaquille Leonard, Colts Star, Announces Retirement",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Wed, 1 Oct 2025 15:01:37 EST",
+    "source": "ESPN",
+    "sources": [
+      "Yahoo Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "sports.yahoo.com",
+      "www.espn.com"
+    ],
+    "snippets": [
+      "Three-time All-Pro Shaquille Leonard is retiring as a member of the Colts.",
+      "Former Indianapolis Colts star Shaquille Leonard introduced himself to the team during his first training camp practice by intercepting Andrew Luck.  The three-time All-Pro and 2018 AP NFL Defensive Rookie of the Year will announce his formal retirement during a halftime ceremony Sunday, team offici"
+    ],
+    "image_url": "",
+    "titles": [
+      "Three-time All-Pro Leonard retiring with Colts",
+      "3-time Colts All-Pro Shaquille Leonard set to announce retirement at Sunday's game against Raiders"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.975,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.675,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Three-time All-Pro and 2018 AP NFL Defensive Rookie of the Year, Shaquille Leonard, is retiring from professional football. Leonard, known for his standout career with the Indianapolis Colts, including a memorable interception of Andrew Luck during his first training camp, will officially announce his retirement in a halftime ceremony on Sunday, as confirmed by team officials.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Oregon RB Makhi Hughes Seeks Redshirt After Struggling in Debut Season",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Wed, 1 Oct 2025 15:01:37 EST",
+    "source": "ESPN",
+    "sources": [
+      "CBS Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Oregon RB Makhi Hughes, who transferred from Tulane in the offseason, asked to redshirt after being limited over four games this season.",
+      "Hughes was one of the most productive running backs in 2024, but he has yet to find his footing with the Ducks"
+    ],
+    "image_url": "",
+    "titles": [
+      "Oregon RB Hughes to redshirt after limited play",
+      "Oregon RB Makhi Hughes to redshirt remainder of 2025 season as prized transfer fails to make immediate impact"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.975,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.675,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Oregon RB Makhi Hughes, a transfer from Tulane, requested to redshirt after playing in only four games this season. Despite being a top performer in 2024, Hughes has struggled to adapt to the Ducks' lineup.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Israeli Navy Stops Flotilla Near Gaza; Red Cross Halts Gaza Activities",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Wed, 01 Oct 2025 19:17:04 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "Activists on the Global Sumud Flotilla shared a video they said showed Israeli vessels intercepting the fleet.",
+      "The Global Sumud Flotilla says its fleet has sailed into the &quot;high-risk zone.&quot;",
+      "The Israeli Navy intercepted the Global Sumud Flotilla from advancing to the Gaza coast, the convoy said. Meanwhile, the Red Cross says Israel's offensive has \"forced\" it to pause activities in Gaza City. DW has more."
+    ],
+    "image_url": "",
+    "titles": [
+      "Israel begins to intercept Global Sumud Flotilla vessels",
+      "Global Sumud Flotilla sails into ‘high-risk zone’ near Gaza",
+      "Middle East: Israel intercepts Gaza aid flotilla — activists"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.98,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 0.5
@@ -708,201 +674,157 @@
     "score": 0.668,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The EU, led by Kallas, is actively working on a $165 billion loan plan for Ukraine, aiming to utilize frozen Russian assets. European officials are considering the potential repercussions while discussing the proposal.",
+    "summary": "The Israeli Navy intercepted the Global Sumud Flotilla, which was heading towards the Gaza coast. The flotilla had entered what it described as a \"high-risk zone.\" Following the interception, the Red Cross announced a pause in its activities in Gaza City due to Israel's offensive. This development was reported by activists on the flotilla and covered by DW.",
     "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
+    "constructiveness_reason": "keywords: development",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Manchester City Readies for Monaco Clash; Arsenal, Villa Adjust Europa Lineups",
+    "title": "Chiefs Favored in MNF; Lions Biggest Road Favorite in NFL Week 5",
     "domain": "sports",
-    "source_domain": "eplindex.com",
+    "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Wed, 01 Oct 2025 15:50:00 +0000",
-    "source": "Yahoo Sports",
+    "published": "Wed, 1 Oct 2025 10:35:44 EST",
+    "source": "ESPN",
     "sources": [
-      "Sports Illustrated",
-      "Yahoo Sports"
+      "CBS Sports",
+      "ESPN"
     ],
     "domains": [
-      "news.google.com",
-      "www.sportingnews.com",
-      "eplindex.com"
+      "www.espn.com",
+      "www.cbssports.com"
     ],
     "snippets": [
-      "Man City Eye Tactical Balance Ahead of UEFA Champions League Clash with AS MonacoManchester City approach their UEFA Champions League meeting with AS Monaco with one eye on player fitness and another ...",
-      "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE41SFVNR0NNVjl0MExtNGoxSXVLQ0hQamdkdTNOZS1RWW5TQWR4TE4xbDFBenFxWS1zd2s4R3BhQlRVTFNmTVRnUzRHUTUtUEhBeHBQUjdyUEF3MzBVeEk2ZHhfNGJ4amYtRmtmaGs2ajdhZV9UZVpsSA?oc=5\" target=\"_blank\">Man City Predicted Lineup vs. Monaco: Bernardo Starts at Former H",
-      "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE8wWGV5NEhXaHNhWmtBQzFRWUVNSUV2Wk12eWx6andGampGcm5qbXB4eXBmVk8xa29BcXJiYzl2VS02YWN3bEtoVVhWRzl4TUxESlNHODctQm5XdUNqaExVZlpPZGdTM2pVZm1QRHN1QkF3aVRQanBxSGxDT0U?oc=5\" target=\"_blank\">Arsenal Predicted Lineup vs. Olympiacos: Six Changes From Ne",
-      "Here are the predicted lineups for Feyenoord vs. Aston Villa in the Europa League."
+      "Chiefs are favored for Monday Night Football, Lions are the biggest road favorite of the Week 5 NFL slate",
+      "SportsLine expert Jeff Hochman dishes his top money line parlays for favorites and underdogs for Week 5 of the NFL season"
     ],
     "image_url": "",
     "titles": [
-      "Man City Starting XI vs AS Monaco: Confirmed Team News and Predicted Lineup",
-      "Man City Predicted Lineup vs. Monaco: Bernardo Starts at Former Home - Sports Illustrated",
-      "Arsenal Predicted Lineup vs. Olympiacos: Six Changes From Newcastle Win - Sports Illustrated",
-      "Feyenoord vs. Aston Villa lineups: Predicted starting XI, team news, injury latest for Europa League match"
+      "NFL Week 5 betting lines: Chiefs are MNF road favorites in\n Jacksonville",
+      "NFL Week 5 betting: Chiefs part of money line favorites parlay while expert tabs Broncos in underdog parlay"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.991,
-      "consensus": 0.611,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.658,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Manchester City is preparing for their UEFA Champions League match against AS Monaco, focusing on achieving tactical balance and monitoring player fitness. The predicted lineup includes Bernardo Silva, highlighting the team's strategy for the game. Meanwhile, Arsenal and Aston Villa are also adjusting their lineups for upcoming Europa League matches, with Arsenal making six changes from their previous game. These adjustments reflect the teams' strategies to balance competitiveness with player health.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Federal Government Shuts Down Amid Congressional Deadlock",
-    "domain": "business",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 06:31:41 -0400",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "Forbes"
-    ],
-    "domains": [
-      "www.npr.org",
-      "www.forbes.com"
-    ],
-    "snippets": [
-      "Much of the federal government shut down Wednesday after Congress failed to reach a deal to keep government programs and services running before the midnight deadline.",
-      "The government shut down began at midnight on Wednesday as Democrats and Republicans appeared to be nowhere close to reaching a funding deal."
-    ],
-    "image_url": "",
-    "titles": [
-      "Government shutdown begins after Congress fails to agree on spending bill",
-      "Government Shutdown Begins: Here’s What’s Closed And Open"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.887,
+      "recency": 0.889,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.657,
+    "score": 0.658,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The federal government shut down on Wednesday at midnight after Congress could not agree on a funding deal. This halt affects many government programs and services, with Democrats and Republicans unable to close the gap in negotiations.",
+    "summary": "The Chiefs are favored to win the upcoming Monday Night Football game, and the Lions are identified as the largest road favorite in Week 5 of the NFL season. SportsLine expert Jeff Hochman has shared his top money line parlays, focusing on both favorites and underdogs for this week's NFL games.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Meta to Use AI Interactions for Targeted Ads on Facebook, Instagram",
+    "title": "White House Plans to Terminate Federal Workers in 1-2 Days, Sources Say",
     "domain": "business",
-    "source_domain": "www.cnbc.com",
+    "source_domain": "news.google.com",
     "location": "national",
-    "published": "Wed, 01 Oct 2025 13:00:02 GMT",
-    "source": "CNBC",
+    "published": "Wed, 01 Oct 2025 16:41:56 GMT",
+    "source": "Axios",
     "sources": [
-      "CNBC",
-      "TechCrunch"
+      "Fortune",
+      "Axios"
     ],
     "domains": [
-      "techcrunch.com",
-      "www.cnbc.com"
+      "news.google.com",
+      "fortune.com"
     ],
     "snippets": [
-      "Meta will show ads and other content to users based on their interactions with the Meta AI digital assistant and other generative artificial intelligence tools.",
-      "Meta plans to use data from your interactions with AI products to sell targeted ads on Facebook and Instagram."
+      "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTh3VTFKSEYxa3hFRVpxN2xuang0cHJGNHVmSkVfaWtKU3F5Y2MtUFVGWndNRGN1d2o4VzdmVFBQTjd5azNYRU1fV2dIeTNKNWp1MWVRWjZleVB4cWFNdWNuamg4U3VpLXlsd253ZERBT2p3R19fNlR0SHducTFCcElKalFOcUtrZDExY3pyZkplSkk?oc=5\" target=\"_blank\">GOP uses federal platforms t",
+      "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTBsaU53c2RTVm1MRFBzaFpzazh6dkdMNGF3Q3lHa3ZUb3p1MnFoRjNSd3ZGM3MteDI0YnEzNHAxck1iTWdXR0xCU0tnSDdsUDRWNTZUdmllb05abTc5LXdRTnNnNkNhekdUbTNITkVsenF5aFBjQlljWWFJUHMwRC1JOTR1UFdhX2NQRmx6Z2hkNGRteHc?oc=5\" target=\"_blank\">Mass. federal workers st",
+      "White House Budget Director Russell Vought told lawmakers that some federal will move to terminate workers within one to two days, people familiar said."
     ],
     "image_url": "",
     "titles": [
-      "Meta greenlights Facebook, Instagram ads based on your AI chats",
-      "Meta plans to sell targeted ads based on data in your AI chats"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.915,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.655,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Meta announced plans to utilize user interactions with its AI digital assistant and other AI tools to tailor ads and content on Facebook and Instagram. This approach aims to enhance targeted advertising by analyzing data from users' engagement with AI features.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Bill Schmidt Resigns as Rockies GM After Historic Losing Season",
-    "domain": "sports",
-    "source_domain": "sports.yahoo.com",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 15:58:31 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sportsnet",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "sports.yahoo.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "The Rockies won just 43 games in 2025.",
-      "The Colorado Rockies announced Wednesday that general manager Bill Schmidt stepped down after one of the worst seasons in baseball history.  Schmidt has been with the organization since 1999, including the last four seasons as general manager.  The Rockies turned in their third straight 100-loss sea",
-      "<p>The Colorado Rockies announced Wednesday that general manager Bill Schmidt stepped down after one of the worst seasons in baseball history.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Rockies general manager Bill Schmidt steps down after team posts worst record in franchise history",
-      "Rockies announce GM Bill Schmidt stepping down after one of worst seasons in MLB history",
-      "Rockies GM Bill Schmidt steps down after 119-loss season"
+      "GOP uses federal platforms to launch shutdown blame blitz - Axios",
+      "Mass. federal workers stranded during shutdown - Axios",
+      "Trump plans to use shutdown to fire federal workers this week"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.994,
+      "recency": 0.91,
+      "consensus": 0.591,
+      "constructiveness": 0.2,
+      "proximity": 0.5
+    },
+    "score": 0.657,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The White House Budget Director, Russell Vought, has informed lawmakers that the administration plans to terminate some federal workers within one to two days, according to sources. This move is part of broader efforts involving federal platforms and actions affecting federal employees, including those in Massachusetts.",
+    "constructiveness_score": 0.2,
+    "constructiveness_reason": "keywords: effort, plan",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Albert Pujols Considered for LA Angels Manager Position",
+    "domain": "sports",
+    "source_domain": "www.usatoday.com",
+    "location": "national",
+    "published": "Wed, 01 Oct 2025 19:44:37 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "Yahoo Sports",
+      "Sportsnet"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "www.usatoday.com"
+    ],
+    "snippets": [
+      "The Los Angeles Angels are looking for a new manager and one of their top contenders could be future Hall of Famer Albert Pujols.",
+      "<p>Albert Pujols is believed to be Los Angeles Angels owner Arte Moreno&#8217;s top choice to become the team&#8217;s next manager, The Athletic reported on Wednesday.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Is Albert Pujols a candidate to be Angels manager? What he has said about desire to manage",
+      "Report: Albert Pujols believed to be top candidate as next Angels manager"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.99,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.654,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Bill Schmidt resigned as the general manager of the Colorado Rockies following a historically poor season, where the team won only 43 games. Schmidt, who had been with the organization since 1999 and served as GM for the last four years, stepped down after the Rockies' third consecutive 100-loss season.",
+    "score": 0.653,
+    "summary_source": "snippet",
+    "summary_reason": "retry_exhausted",
+    "summary": "The Los Angeles Angels are looking for a new manager and one of their top contenders could be future Hall of Famer Albert Pujols.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Kartal Defeats World No 5 Andreeva, Reaches China Open Quarters",
+    "title": "Newcastle United Wins First Champions League Match 4-0 Against Union Saint-Gillo",
     "domain": "sports",
     "source_domain": "www.theguardian.com",
     "location": "global",
-    "published": "Wed, 01 Oct 2025 15:11:30 GMT",
+    "published": "Wed, 01 Oct 2025 18:54:55 GMT",
     "source": "The Guardian",
     "sources": [
       "Sky Sports",
       "The Guardian"
     ],
     "domains": [
-      "www.theguardian.com",
-      "www.skysports.com"
+      "www.skysports.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "<ul><li><p>Victory in Beijing sees Briton reach quarter-finals</p></li><li><p> Jannik Sinner clinches his third title of 2025</p></li></ul><p>Sonay Kartal put together the best performance of her burgeoning career to outlast the world No 5 Mirra Andreeva across three gruelling sets, winning 7-5, 2-6",
-      "Great Britain's Sonay Kartal recorded the biggest win of her career with a three-set victory over world No 5 Mirra Andreeva in the last 16 of the China Open."
+      "<p>Eddie Howe had reason to be wary. Up against a young hotshot coach and his high-flying Belgian champions, Newcastle’s manager must have felt a degree of pressure at the kick-off.</p><p>Given that Howe’s team are still coming to terms with the departure of their former leading scorer Alexander Isa",
+      "Newcastle United forward Anthony Gordon scored twice from the spot in a 4-0 win at Union Saint-Gilloise as Eddie Howe's side recorded their first victory in this season's Champions League."
     ],
-    "image_url": "https://i.guim.co.uk/img/media/96e035966c711baa461d1c85ae48790ed188c461/342_0_4324_3459/master/4324.jpg?width=140&quality=85&auto=format&fit=max&s=bd95d55e4b6e24252304814ffcf4d798",
+    "image_url": "https://i.guim.co.uk/img/media/71c60da39851f9ef531b428a20e21352e059f502/415_0_4148_3319/master/4148.jpg?width=140&quality=85&auto=format&fit=max&s=76b1e03accb50810ed9949e984a1265b",
     "titles": [
-      "Sonay Kartal pulls off biggest win of career to stun world No 5 Mirra Andreeva",
-      "Kartal beats Andreeva in China for biggest win of her career"
+      "Anthony Gordon double fires Newcastle to easy win at Union Saint-Gilloise",
+      "Gordon shines as Newcastle thrash Union SG in Champions League"
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.957,
+      "recency": 0.953,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
@@ -910,93 +832,9 @@
     "score": 0.653,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Sonay Kartal of Great Britain defeated world No 5 Mirra Andreeva in the China Open's last 16, reaching the quarter-finals with a 7-5, 2-6, [missing score] win. This marks the biggest victory of her career. Meanwhile, Jannik Sinner clinched his third title of 2025.",
+    "summary": "Eddie Howe's Newcastle United secured their first Champions League win of the season, defeating Union Saint-Gilloise 4-0. Anthony Gordon notably contributed with two penalty goals. This victory comes as the team is adjusting to the loss of key player Alexander Isa.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Week 5 Fantasy Football: QB Start/Sit Recommendations Plus TE & RB Tips",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 15:35:21 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "Sports Illustrated",
-      "CBS Sports"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Quarterbacks you want in Week 5 lineups, and those you should avoid",
-      "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVHlZaGhBeldtNXI3aTZ3ZW1MX2l2emFRbE9XT042ZE5WVW5Kel9HSFBodTdxRHg2TE9rN3FSdTNqX2Y2LXA2Wi13T2xNTENpbHNSSHJ4U3VoaHh1SzhlUENOSGdWU0gwX2wxYkFwNVRlcDNDQVltYXdXb01qb1BLbktWNE5FRE1KWlJYamFMMmRLeWtINjdnOFdlX3J5eWc?oc=5\" target=\"_blank\">Defense & Ki",
-      "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXVFam5vQVJOXzRtV25DTEN4WWpLYWdqVHdwcTNfdnAxWTRFQXdhOC1JZk1aZ0ZNNEVDQ2JzNHFQa1pkR0I5ZTJMalZGUm14a0h1MXpNdXRjd2xzVndQOW9UVURwVWxSUHp6Smo4R0M4c3IzdjhHdUFGLUtZNXBCUGRVbTZRR2V5OWl6aHRsckpyTW5HNVV3Mg?oc=5\" target=\"_blank\">Tight End Start 'Em, ",
-      "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORXpxY09rUjFpdnlXaEhFRnEwNFFva1h4LUVucjNxT3M3dV9mTVNhd2VYVllCWEVjd0loYV8wSzlyNVRzMUxMU0x1b29KZnRRc091UnhROVJGUmNBazdfcUxkbjZZdDVLX0dmMUU0VjFqeEhWbFhXZEgycndUZHpRNzlWQ2tYM09fc2ZrLVd3SktPZElOdGlBenRaSkQ?oc=5\" target=\"_blank\">Running Back Sta"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/26/88479e90-a403-4351-b44d-feab27ec9ddf/untitled-design-2025-09-25t171016-892.png",
-    "titles": [
-      "Fantasy Football Week 5 Start 'Em & Sit 'Em Quarterbacks: Dillon Gabriel debut could get ugly",
-      "Defense & Kicker Start 'Em, Sit 'Em For Fantasy Football Week 5 - Sports Illustrated",
-      "Tight End Start 'Em, Sit 'Em For Fantasy Football Week 5 - Sports Illustrated",
-      "Running Back Start 'Em, Sit 'Em For Fantasy Football Week 5 - Sports Illustrated"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.986,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.652,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "In Week 5 fantasy football lineups, certain quarterbacks are recommended starts, while others are advised to be avoided, according to multiple news sources. Additionally, advice is provided for tight end and running back positions, indicating who to start or bench. The specific players to target or avoid were not listed in the provided content.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Google to Launch Gemini-Powered Smart Speaker in Spring 2026",
-    "domain": "technology",
-    "source_domain": "techcrunch.com",
-    "location": "global",
-    "published": "Wed, 01 Oct 2025 13:00:00 +0000",
-    "source": "TechCrunch",
-    "sources": [
-      "Ars Technica",
-      "TechCrunch"
-    ],
-    "domains": [
-      "arstechnica.com",
-      "techcrunch.com"
-    ],
-    "snippets": [
-      "Google teases a new Gemini-powered smart speaker, due out in spring 2026.",
-      "Google brings Gemini to the smart home with new devices, AI for existing customers and more.",
-      "Google promises a better smart home experience thanks to Gemini."
-    ],
-    "image_url": "",
-    "titles": [
-      "Google teases its new Gemini-powered Google Home speaker, coming in spring 2026",
-      "Google reveals its Gemini-powered smart home lineup and AI strategy",
-      "Google’s Gemini-powered smart home revamp is here with a new app and cameras"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.934,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.652,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Google announced the release of a new Gemini-powered smart speaker scheduled for spring 2026. This launch is part of Google's effort to enhance smart home experiences by integrating Gemini technology into new devices and providing AI upgrades for existing customers.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: effort",
     "constructiveness_source": "heuristic"
   },
   {
@@ -1004,15 +842,15 @@
     "domain": "sports",
     "source_domain": "www.cbssports.com",
     "location": "national",
-    "published": "Wed, 01 Oct 2025 14:32:20 +0000",
+    "published": "Wed, 01 Oct 2025 19:30:34 +0000",
     "source": "CBS Sports",
     "sources": [
       "Sports Illustrated",
       "CBS Sports"
     ],
     "domains": [
-      "www.cbssports.com",
-      "news.google.com"
+      "news.google.com",
+      "www.cbssports.com"
     ],
     "snippets": [
       "Sanders could wind up seeing the field for Cleveland at some point this season",
@@ -1020,18 +858,18 @@
     ],
     "image_url": "https://sportshub.cbsistatic.com/i/2025/10/01/58d5e976-cdf0-4c4a-a1f2-b44745385f89/shedeur-sanders.jpg",
     "titles": [
-      "Browns bench Joe Flacco: Where Shedeur Standers stands in depth chart after Dillon Gabriel's promotion to QB1",
+      "Browns bench Joe Flacco: Where Shedeur Sanders stands on depth chart after Dillon Gabriel's promotion to QB1",
       "Browns Projected QB Depth Chart: Will Shedeur Sanders Back Up Dillon Gabriel? - Sports Illustrated"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.964,
+      "recency": 0.985,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.648,
-    "summary_source": "gpt",
+    "score": 0.652,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "There is a possibility that Sanders may play for the Cleveland Browns at some point this season. The team's projected quarterback depth chart is being discussed, with the potential for Sanders to enter the field.",
     "constructiveness_score": 0.0,
@@ -1039,40 +877,233 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Dillon Gabriel Named Browns' Starter for London Game by Coach Stefanski",
-    "domain": "business",
-    "source_domain": "duckswire.usatoday.com",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 15:47:10 +0000",
-    "source": "Yahoo Sports",
+    "title": "Illinois Governor Criticizes Trump's Plan to Use Cities as Military Grounds",
+    "domain": "general",
+    "source_domain": "www.theguardian.com",
+    "location": "global",
+    "published": "Wed, 01 Oct 2025 18:12:46 GMT",
+    "source": "The Guardian",
     "sources": [
-      "Yahoo Sports",
-      "Forbes"
+      "LA Times",
+      "The Guardian"
     ],
     "domains": [
-      "duckswire.usatoday.com",
-      "www.forbes.com"
+      "www.theguardian.com",
+      "www.latimes.com"
     ],
     "snippets": [
-      "Former Oregon quarterback Dillon Gabriel is going to get his shot at being the starter in Cleveland and his coach says Gabriel is &quot;ready to go.&quot;",
-      "Ahead of its London matchup versus the Minnesota Vikings, Dillon Gabriel was declared the team's starter by head coach Kevin Stefanski on Wednesday morning."
+      "<p>Illinois governor JB Pritzker and others condemn the US president for suggesting cities be used as military training grounds</p><p>A leading <a href=\"https://www.theguardian.com/us-news/democrats\">Democrat</a> has compared Donald Trump to Russian dictator Vladimir Putin after the US president <a ",
+      "<p>With litigation still pending over his authority to send troops to Los Angeles earlier this year, President Trump has said he intends to deploy U.S. soldiers to cities he deems 'dangerous.'</p>"
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/65fbf69b4e6a431dfc219a12b5b14a29841c3d49/197_0_1795_1436/master/1795.jpg?width=140&quality=85&auto=format&fit=max&s=a35904be44cedca64caff94d6381b37e",
+    "titles": [
+      "Democrats liken Trump to Putin after call to use US cities for military training",
+      "Trump wants to use U.S. cities as military 'training grounds.' Can judges stop him?"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.939,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.65,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Illinois Governor JB Pritzker and other critics have condemned President Trump's suggestion to use American cities as military training grounds, likening him to Vladimir Putin. This controversy follows Trump's earlier, contentious deployment of troops to Los Angeles, a move still under legal scrutiny. Trump's intent to deploy soldiers to cities he considers \"dangerous\" has sparked significant backlash and raised questions about his authority.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "US Government Acquires 10% Stake in Major Lithium Mine Projects",
+    "domain": "technology",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Wed, 01 Oct 2025 18:23:59 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "The Verge"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.theverge.com"
+    ],
+    "snippets": [
+      "Vancouver-based Lithium Americas is developing one of world&#039;s largest lithium mines in northern Nevada.",
+      "Donald Trump’s administration is taking a 5 percent equity ownership of mining company Lithium Americas, on top of another 5 percent stake in the company’s joint mining project with GM in Nevada, the Department of Energy announced yesterday. The mine at Thacker Pass is expected to become the largest"
     ],
     "image_url": "",
     "titles": [
-      "Cleveland coach Kevin Stefanski: Dillon Gabriel is ‘ready to go’ as Browns starting QB",
-      "Dillon Gabriel Named The Cleveland Browns Starting Quarterback"
+      "US takes a stake in another firm, this time a large lithium mine",
+      "US government takes equity stake in one of the world’s largest lithium mines"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.99,
+      "recency": 0.962,
       "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.25
+      "proximity": 0.5
     },
-    "score": 0.628,
+    "score": 0.647,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Former Oregon quarterback Dillon Gabriel has been named the starter for the Cleveland Browns by head coach Kevin Stefanski, ahead of their game in London against the Minnesota Vikings. Stefanski expressed confidence in Gabriel's readiness for the role.",
+    "summary": "The U.S. Department of Energy, under Donald Trump's administration, acquired a 5% equity stake in Lithium Americas, a Vancouver-based company developing one of the world's largest lithium mines in northern Nevada. Additionally, the government secured another 5% stake in the company's joint venture with GM at the same location, Thacker Pass, which is anticipated to become the largest lithium mine.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Central Bankers, Led by Powell, Favor Caution in Monetary Policies",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Wed, 01 Oct 2025 18:07:09 GMT",
+    "source": "CNBC",
+    "sources": [
+      "MarketWatch",
+      "CNBC"
+    ],
+    "domains": [
+      "www.cnbc.com",
+      "www.marketwatch.com"
+    ],
+    "snippets": [
+      "Chair Jerome Powell and his fellow central bankers likely will err on the side of caution, which would be a bias towards easing.",
+      "It’s a bad time for the data to disappear."
+    ],
+    "image_url": "",
+    "titles": [
+      "The government shutdown is likely to cement additional Fed interest rate cuts",
+      "Government shutdown means Fed lacks crucial data as it considers rate cuts"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.937,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.642,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Federal Reserve Chair Jerome Powell and other central bankers are inclined to prioritize caution, suggesting a tendency towards easing monetary policies. This approach comes at a challenging time when data availability is limited.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Gardner Hits 3rd Fastest Century in Women's World Cup, Australia Wins",
+    "domain": "sports",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Wed, 01 Oct 2025 17:12:37 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "Sky Sports"
+    ],
+    "domains": [
+      "www.skysports.com",
+      "www.bbc.com"
+    ],
+    "snippets": [
+      "Ash Gardner strikes a superb lower-order century as Australia begin the defence of their Women's World Cup title with a 89-run victory over New Zealand in Indore.",
+      "Ash Gardner smashed the third-fastest century in Women's Cricket World Cup history as Australia launched their title defence with an 89-run win over New Zealand."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e03/live/c265deb0-9ee9-11f0-b741-177e3e2c2fc7.jpg",
+    "titles": [
+      "Australia start World Cup title defence with win",
+      "Gardner hits ton as Australia begin World Cup defence with New Zealand victory"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.919,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.639,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Ash Gardner scored the third-fastest century in Women's Cricket World Cup history, leading Australia to an 89-run victory over New Zealand in Indore. This win marks the beginning of Australia's defense of their Women's World Cup title.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "New Jersey Devils Sign Luke Hughes to $63M, 7-Year Deal",
+    "domain": "sports",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Wed, 01 Oct 2025 17:15:00 GMT",
+    "source": "NHL",
+    "sources": [
+      "NHL",
+      "Sportsnet"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "news.google.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS09yMm15OU9zN01Bdk5yRjdmcEhycGtUWS1DWHVjSjltWXNMb0RJZ3Q2ckg0emdUNEVDVWhBTV95bVBsS0R1YXJXYWVjdUhrSm1qRVFYS0JHaG1CX25QWnMtbGI0LWhkOEtwX1dwM1VIUkw3dldwQU9uajMxY1pPdjJWMERTOXAx?oc=5\" target=\"_blank\">Luke Hughes signs 7-year, $63 million contr",
+      "<p>The New Jersey Devils have locked up their franchise defenceman.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Luke Hughes signs 7-year, $63 million contract with Devils - NHL.com",
+      "Luke Hughes signs seven-year, $63-million deal with Devils"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.92,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.639,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The New Jersey Devils have signed defenseman Luke Hughes to a $63 million, seven-year contract. Hughes, 22, was one of the few remaining restricted free agents. This deal secures the franchise defenseman just ahead of the season's start.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "California Mandates AI Safety Transparency, First State to Do So",
+    "domain": "technology",
+    "source_domain": "techcrunch.com",
+    "location": "global",
+    "published": "Wed, 01 Oct 2025 20:00:00 +0000",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "domains": [
+      "techcrunch.com"
+    ],
+    "snippets": [
+      "“Are bills like SB 53 the thing that will stop us from beating China? No,” said Adam Billen, vice president of public policy at youth-led advocacy group Encode AI. “I think it is just genuinely intellectually dishonest to say that that is the thing that will stop us in the race.”",
+      "California just made history as the first state to require AI safety transparency from the biggest labs in the industry. Governor Newsom signed SB 53 into law this week, mandating that AI giants like OpenAI and Anthropic disclose, and stick to, their safety protocols. The decision is already sparkin"
+    ],
+    "image_url": "",
+    "titles": [
+      "California’s new AI safety law shows regulation and innovation don’t have to clash",
+      "Why California’s new AI safety law succeeded where SB 1047 failed"
+    ],
+    "score_components": {
+      "magnitude": 0.393,
+      "recency": 0.995,
+      "consensus": 0.35,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.474,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "California has become the first state to mandate AI safety transparency from major labs, with Governor Newsom signing SB 53 into law. This requires companies like OpenAI and Anthropic to disclose their safety protocols. Adam Billen from Encode AI commented that attributing the slowing of U.S. competitiveness with China to such laws is \"intellectually dishonest.\"",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
