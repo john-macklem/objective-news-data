@@ -1,33 +1,33 @@
 [
   {
     "title": "Renowned Primatologist Jane Goodall Dies at 91",
-    "domain": "business",
+    "domain": "science",
     "source_domain": "www.npr.org",
     "location": "national",
     "published": "Wed, 01 Oct 2025 14:28:16 -0400",
     "source": "NPR",
     "sources": [
-      "CityNews",
-      "NPR",
+      "The Guardian",
       "Deutsche Welle",
-      "Forbes",
       "Al Jazeera",
-      "The Guardian"
+      "New Scientist",
+      "CityNews",
+      "NPR"
     ],
     "domains": [
-      "www.forbes.com",
       "www.npr.org",
       "www.aljazeera.com",
       "www.theguardian.com",
-      "www.dw.com",
-      "ottawa.citynews.ca"
+      "www.newscientist.com",
+      "ottawa.citynews.ca",
+      "www.dw.com"
     ],
     "snippets": [
       "Jane Goodall, primatologist who transformed our understanding of the lives of apes, has died, according to an announcement from the Jane Goodall Institute.",
       "The Jane Goodall Institute says famed primatologist died in California during US speaking tour.",
       "The Jane Goodall Institute said the renowned chimpanzee researcher died of natural causes at the age of 91.",
+      "Acclaimed conservationist and chimpanzee expert Jane Goodall has died, leaving behind a legacy of empathy for primates and the natural world",
       "<p>Jane Goodall Institute says ‘tireless advocate’ for natural world died in California during US speaking tour</p><p>The world-renowned primatologist Jane Goodall has died at the age of 91, her institute has said.</p><p>The Jane Goodall Institute announced that she had died of natural causes while ",
-      "Goodall is best known for her groundbreaking research into chimpanzee behavior and customs.",
       "Dr. Jane Goodall, one of the world&#8217;s most beloved animal behaviorists and a pioneer in primatology has died at the age of 91, the Jane Goodall Institute confirmed Wednesday. The British scientist, best known for her groundbreaking work with chimpanzees in Tanzania&#8217;s Gombe Stream National"
     ],
     "image_url": "",
@@ -35,18 +35,18 @@
       "Jane Goodall, legendary primatologist, has died at age 91",
       "Jane Goodall, conservationist and chimpanzee expert, dies aged 91",
       "Primatologist Jane Goodall has died at the age of 91, her institute has said",
+      "Jane Goodall, dogged advocate for the natural world, has died aged 91",
       "Jane Goodall, world-renowned primatologist, dies aged 91",
-      "Jane Goodall Institute Says Legendary Ethologist Is Dead At 91",
       "Renowned primatologist Dr. Jane Goodall dead at 91"
     ],
     "score_components": {
       "magnitude": 0.986,
-      "recency": 0.888,
+      "recency": 0.816,
       "consensus": 1.0,
       "constructiveness": 0.1,
       "proximity": 0.75
     },
-    "score": 0.858,
+    "score": 0.843,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Jane Goodall, the celebrated primatologist known for her pioneering research on chimpanzee behavior, has died at the age of 91. The Jane Goodall Institute announced she passed away of natural causes during a speaking tour in the US. Goodall, a British scientist, transformed our understanding of apes and was a tireless advocate for the natural world.",
@@ -62,16 +62,16 @@
     "published": "Wed, 01 Oct 2025 16:12:53 -0400",
     "source": "NPR",
     "sources": [
-      "Al Jazeera",
+      "BBC",
       "NPR",
       "Deutsche Welle",
-      "BBC"
+      "Al Jazeera"
     ],
     "domains": [
       "www.aljazeera.com",
       "www.bbc.com",
-      "www.npr.org",
-      "www.dw.com"
+      "www.dw.com",
+      "www.npr.org"
     ],
     "snippets": [
       "The Global Sumud Flotilla, with Greta Thunberg, Nelson Mandela's grandson and European lawmakers aboard, includes some 50 boats and 500 activists and is carrying a symbolic amount of humanitarian aid.",
@@ -88,12 +88,12 @@
     ],
     "score_components": {
       "magnitude": 0.912,
-      "recency": 0.921,
+      "recency": 0.847,
       "consensus": 0.908,
       "constructiveness": 0.1,
       "proximity": 0.75
     },
-    "score": 0.815,
+    "score": 0.801,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Israeli Navy intercepted the Global Sumud Flotilla, which was heading towards the Gaza coast. The flotilla had entered what it described as a \"high-risk zone.\" Following the interception, the Red Cross announced a pause in its activities in Gaza City due to Israel's offensive. This development was reported by activists on the flotilla and covered by DW.",
@@ -109,18 +109,18 @@
     "published": "Wed, 01 Oct 2025 16:33:34 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Axios",
-      "Financial Times",
-      "LA Times",
       "Al Jazeera",
-      "CNBC"
+      "LA Times",
+      "Axios",
+      "CNBC",
+      "Financial Times"
     ],
     "domains": [
       "news.google.com",
+      "www.ft.com",
       "www.latimes.com",
-      "www.cnbc.com",
       "www.aljazeera.com",
-      "www.ft.com"
+      "www.cnbc.com"
     ],
     "snippets": [
       "High court to hear arguments in January on whether Cook will lose her job but says she may stay in her post until then.",
@@ -139,15 +139,66 @@
     ],
     "score_components": {
       "magnitude": 0.984,
-      "recency": 0.853,
+      "recency": 0.785,
       "consensus": 0.995,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.814,
+    "score": 0.8,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Supreme Court has temporarily halted President Trump's attempt to dismiss Federal Reserve Governor Lisa Cook, amidst allegations of mortgage fraud. This decision preserves the central bank's independence for now and marks a significant moment as it's the first instance of a president attempting to fire a Fed official. Cook will maintain her position pending further court deliberations.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Oktoberfest Reopens After Closure Due to Bomb Threat Linked to Domestic Dispute",
+    "domain": "general",
+    "source_domain": "www.dw.com",
+    "location": "global",
+    "published": "2025-10-01T14:42:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "New York Times",
+      "The Guardian",
+      "Deutsche Welle",
+      "CityNews",
+      "Washington Post"
+    ],
+    "domains": [
+      "www.nytimes.com",
+      "www.theguardian.com",
+      "ottawa.citynews.ca",
+      "www.washingtonpost.com",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "Explosions and a fire at a detached house in northern Munich triggered a large police response. The suspect was found injured and later died, but authorities found no link or threat to the Oktoberfest beer festival.",
+      "<p>Beer festival had closed after 57-year-old man shot parents, set house on fire, and left note mentioning event</p><p>A German man went on a deadly gun, explosives and arson rampage against his family and then killed himself on Wednesday, prompting security fears in Munich that closed the world-fa",
+      "Hours after a written threat, by a suspect who killed himself, authorities said the beer celebration would reopen after a search of the grounds found no explosives.",
+      "The German authorities said the decision to close the festival grounds was taken after an earlier explosion in a residential area of the city that appeared linked to a domestic dispute.",
+      "MUNICH (AP) — The Oktoberfest fairgrounds closed for several hours Wednesday as police conducted a security sweep of the famed beer festival due to a bomb threat by a suspect linked to an explosion across town in northern Munich. Police in Bavaria, the state where Munich is located, said the suspect"
+    ],
+    "image_url": "",
+    "titles": [
+      "Oktoberfest back on after Munich bomb scare",
+      "Munich Oktoberfest reopens after man’s deadly arson attack and bomb threat",
+      "Oktoberfest in Munich cleared to reopen after bomb threat",
+      "Bomb Threat Delays Oktoberfest in Munich",
+      "Police say Oktoberfest reopens after a security sweep due to a bomb threat"
+    ],
+    "score_components": {
+      "magnitude": 0.944,
+      "recency": 0.755,
+      "consensus": 0.995,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.78,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The Oktoberfest beer festival in Munich, Germany, was temporarily closed due to a bomb threat linked to an explosion and fire in a residential area, suspected to be connected to a domestic dispute. The threat came from a suspect who later committed suicide. After a thorough security sweep of the festival grounds revealed no explosives, authorities announced the event would reopen on Wednesday evening. The closure was a precautionary measure to ensure public safety.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -161,28 +212,25 @@
     "source": "BBC",
     "sources": [
       "BBC",
-      "Axios",
-      "MarketWatch",
+      "The Guardian",
       "Bloomberg",
-      "The Guardian"
+      "Axios"
     ],
     "domains": [
-      "news.google.com",
       "www.bbc.com",
       "www.theguardian.com",
-      "www.marketwatch.com"
+      "news.google.com"
     ],
     "snippets": [
       "At some point, public pressure and political pain will see one side yield to bring this latest US government shutdown to an end.",
       "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQjIyY0NZSTlTM0RUaDFLbWFUUFRxMmRxdmt5a2V4bW5aNFIwRTZmeHo0dEo0MEhQeVZ5cWtDYThhM2tLdjVyYnFNemJKM29ha29Hczh0V0xlbjV3TFUwQ0xmY1hXSXR6R0NqZlpfSnNFM2dBcGRXd0NDclhYUThkbUNkZ3ViTkFVQ1Q3ZFBxcTk?oc=5\" target=\"_blank\">The seven Democratic senators wh",
       "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSmo1bGlBQjhwYmIwQnEtWHZhcmUycEJLUzU5TGpLaFpJQmN5WExKZWJzd2RuZi02VTI2M1VhQnlFNmV4OVdra0V2eVVUSkNKenFma2d4QzJfT0JGV0hlby1sYmtZRE1yU0NjYjVXRmpwckVEVHFQQkM1RlFub1pLOHdVMnVLV2o0Tl9RRk1Kb2s?oc=5\" target=\"_blank\">How the government shutdown coul",
       "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE01UGNibVdPTktuZVRPNmt1OE1WbTNnUm5uVW5XR1NnVERQWWhUWnd6SldNVDJ4ajZsU2ZmbXp4Mmk3c0tfV29mMmhVaHJOVHpYMmlkUDFaR2Rrdld3RGlHTkhtWl9NXzNaMmlxS1RvUllrM1ZLT1Nr?oc=5\" target=\"_blank\">Democrats take the fight to Trump on government shutdown</a>&nbsp;&",
+      "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2FrNE5HdEtPQXE1VmkwSHJMWU5ySzFMLVZrclluZkFTd1FLX04tQlhWMlJlRWVBclpVeC04cHBONHR4NjJTZHJmYlA4T0duNWdfOE9ZMkZGc0wyV0IxNmxud01SOTJDcmc0V2cxazhiRDZTSlFpUDlyS2ZrMEdhVA?oc=5\" target=\"_blank\">House Democrat rages against his own party on the gov",
       "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNc3FTdjJNd1ZmUGRNSnNldl9DNGhtem8tSHNrRnZjOGlEODdicEdBTFUxY0tGT0psUGl1X0w0V3gyMHVwTlVRbXA2MkpoWVMxWDdNOUxhb2liS0NMWDliT2Z5V0tRYkh3OFFSOWN1ZFhrNkJzRk5HVG11QUpULXRvRTVZOE1DUEhmaDRJX0Y1UkFWZ0JubkFpZjlVOA?oc=5\" target=\"_blank\">How the federal g",
       "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWs1VTJ6cXZPcWNldWwzYWd1UkNPbmkxTWxnOHRGemZKZXh2YktHTENmS1d5c1R5RnZxWEt3a1BQU002X2poU3l2aV9EbWNEc1dUYUVfbzBuQ0RHSDhqYVpXNmxkQVM0VlF4V0otZXRZNFcxZzJ2V1hoaVN1RVFmZEFsbnU?oc=5\" target=\"_blank\">Federal government shutdown begins after Congres",
-      "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2FrNE5HdEtPQXE1VmkwSHJMWU5ySzFMLVZrclluZkFTd1FLX04tQlhWMlJlRWVBclpVeC04cHBONHR4NjJTZHJmYlA4T0duNWdfOE9ZMkZGc0wyV0IxNmxud01SOTJDcmc0V2cxazhiRDZTSlFpUDlyS2ZrMEdhVA?oc=5\" target=\"_blank\">House Democrat rages against his own party on the gov",
       "<p>After weeks of threats from both sides and negotiations that went nowhere, the US is once again experiencing a government shutdown. This week, Jonathan Freedland speaks to Marianna Sotomayor, a congressional reporter at the Washington Post, to look at who should take the blame, who suffers, and w",
-      "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZEY2THVMcW5BREdYSml2YXp2dWlOamVnc0twN2NTVFJLNmlCN0tjelFEYjZBeEtfWnZWdW9BSzlZbEFPTl9IcUtIUUFZYUl1ZmlIQkZPNmpYUEZ1b0pVUEdydHVVYUp3Qkg3VWVxRDN1WDlhNkJPY29sUXNYOVAzdS15X1dPM0dheS05TEs4bVl0ZjRrMmcyaw?oc=5\" target=\"_blank\">Another US Government",
-      "The threat of mass layoffs makes this shutdown different, and the “reductions in force” could start in a day or two."
+      "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZEY2THVMcW5BREdYSml2YXp2dWlOamVnc0twN2NTVFJLNmlCN0tjelFEYjZBeEtfWnZWdW9BSzlZbEFPTl9IcUtIUUFZYUl1ZmlIQkZPNmpYUEZ1b0pVUEdydHVVYUp3Qkg3VWVxRDN1WDlhNkJPY29sUXNYOVAzdS15X1dPM0dheS05TEs4bVl0ZjRrMmcyaw?oc=5\" target=\"_blank\">Another US Government"
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/843d/live/f62328b0-9ef9-11f0-92db-77261a15b9d2.jpg",
     "titles": [
@@ -190,22 +238,21 @@
       "The seven Democratic senators whose votes could be key to ending the government shutdown - Axios",
       "How the government shutdown could disrupt daily life - Axios",
       "Democrats take the fight to Trump on government shutdown - Axios",
+      "House Democrat rages against his own party on the government shutdown - Axios",
       "How the federal government shutdown will impact Arizona - Axios",
       "Federal government shutdown begins after Congress fails to act - Axios",
-      "House Democrat rages against his own party on the government shutdown - Axios",
       "US government shutdown: now what? – podcast",
-      "Another US Government Shutdown Is Here. Why It Keeps Happening - Bloomberg.com",
-      "How much could the government shutdown cost? These numbers show the potential economic hit."
+      "Another US Government Shutdown Is Here. Why It Keeps Happening - Bloomberg.com"
     ],
     "score_components": {
-      "magnitude": 0.984,
-      "recency": 0.869,
-      "consensus": 0.975,
+      "magnitude": 0.932,
+      "recency": 0.799,
+      "consensus": 0.888,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.812,
-    "summary_source": "gpt",
+    "score": 0.758,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The US is experiencing another government shutdown after negotiations between parties failed. Public pressure and political dynamics suggest one side may eventually yield to end the deadlock. This shutdown is marked by the threat of mass layoffs, with potential \"reductions in force\" starting imminently. The situation remains unresolved, impacting various sectors and government functions.",
     "constructiveness_score": 0.0,
@@ -213,142 +260,132 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Oktoberfest Reopens After Closure Due to Bomb Threat Linked to Domestic Dispute",
-    "domain": "general",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-10-01T14:42:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "CityNews",
-      "Deutsche Welle",
-      "New York Times",
-      "Washington Post",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.nytimes.com",
-      "www.washingtonpost.com",
-      "www.theguardian.com",
-      "www.dw.com",
-      "ottawa.citynews.ca"
-    ],
-    "snippets": [
-      "Explosions and a fire at a detached house in northern Munich triggered a large police response. The suspect was found injured and later died, but authorities found no link or threat to the Oktoberfest beer festival.",
-      "Germany's world-famous Oktoberfest beer festival was closed to visitors for much of Wednesday, following a house fire and suspected suicide with a potential link to the event. DW has more.",
-      "<p>Beer festival had closed after 57-year-old man shot parents, set house on fire, and left note mentioning event</p><p>A German man went on a deadly gun, explosives and arson rampage against his family and then killed himself on Wednesday, prompting security fears in Munich that closed the world-fa",
-      "Hours after a written threat, by a suspect who killed himself, authorities said the beer celebration would reopen after a search of the grounds found no explosives.",
-      "The German authorities said the decision to close the festival grounds was taken after an earlier explosion in a residential area of the city that appeared linked to a domestic dispute.",
-      "MUNICH (AP) — The Oktoberfest fairgrounds closed for several hours Wednesday as police conducted a security sweep of the famed beer festival due to a bomb threat by a suspect linked to an explosion across town in northern Munich. Police in Bavaria, the state where Munich is located, said the suspect"
-    ],
-    "image_url": "",
-    "titles": [
-      "Oktoberfest back on after Munich bomb scare",
-      "Germany news: Oktoberfest reopens after Munich bomb scare",
-      "Munich Oktoberfest reopens after man’s deadly arson attack and bomb threat",
-      "Oktoberfest in Munich cleared to reopen after bomb threat",
-      "Bomb Threat Delays Oktoberfest in Munich",
-      "Police say Oktoberfest reopens after a security sweep due to a bomb threat"
-    ],
-    "score_components": {
-      "magnitude": 0.944,
-      "recency": 0.821,
-      "consensus": 0.995,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.793,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The Oktoberfest beer festival in Munich, Germany, was temporarily closed due to a bomb threat linked to an explosion and fire in a residential area, suspected to be connected to a domestic dispute. The threat came from a suspect who later committed suicide. After a thorough security sweep of the festival grounds revealed no explosives, authorities announced the event would reopen on Wednesday evening. The closure was a precautionary measure to ensure public safety.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "49ers to Play Rams Without Purdy, Pearsall, Jennings Due to Injuries",
+    "title": "Nashville SC Wins First U.S. Open Cup, Beats Austin FC 2-1",
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Wed, 1 Oct 2025 19:24:03 EST",
+    "published": "Wed, 1 Oct 2025 22:43:54 EST",
     "source": "ESPN",
     "sources": [
-      "Sportsnet",
-      "ESPN",
-      "CBS Sports"
+      "Yahoo Sports",
+      "CBS Sports",
+      "ESPN"
     ],
     "domains": [
-      "www.cbssports.com",
-      "www.sportsnet.ca",
-      "www.espn.com"
+      "www.espn.com",
+      "sports.yahoo.com",
+      "www.cbssports.com"
     ],
     "snippets": [
-      "Brock Purdy, Ricky Pearsall and Jauan Jennings are out for the Niners on Thursday against the Rams.",
-      "Purdy will miss his third game this season due to a toe injury",
-      "<p>The San Fransicso 49ers&#8217; offence will be severely shorthanded for a divisional matchup with the Los Angeles Rams on Thursday.</p>"
+      "Nashville SC beat Austin FC 2-1 in final of the U.S. Open Cup on Wednesday night at Q2 Stadium to win the team's first-ever major trophy.",
+      "A narrow win on the road gave Nashville the title, their first as a club",
+      "Sam Surridge converted the game-winning penalty in the 60th minute as Nashville SC beat Austin FC 2-1 in the US Open Cup final in Austin, Texas, on Wednesday.Victory in the US Open Cup, the knockout tournament that dates back to 1914 when it was founded as the National Challenge Cup, saw Nashville c"
     ],
     "image_url": "",
     "titles": [
-      "Niners rule out Purdy, Pearsall, Jennings for TNF",
-      "49ers injuries: QB Brock Purdy, WRs Ricky Pearsall, Jauan Jennings out for 'Thursday Night Football' vs. Rams",
-      "49ers’ Purdy, Pearsall, Jennings all out vs. Rams"
+      "Nashville lifts 1st major trophy with Open Cup win",
+      "Nashville SC edge Austin FC to win first U.S. Open Cup in club history and Tennessee's first pro sports trophy",
+      "Surridge penalty lifts Nashville over Austin for US Open Cup"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.984,
+      "recency": 0.97,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.758,
+    "score": 0.756,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The San Francisco 49ers will face the Los Angeles Rams without key offensive players Brock Purdy, Ricky Pearsall, and Jauan Jennings. Purdy is sidelined for his third game this season due to a toe injury, impacting the team's offense for the upcoming divisional matchup.",
+    "summary": "Nashville SC won their first major trophy by defeating Austin FC 2-1 in the U.S. Open Cup final on Wednesday night at Q2 Stadium. Sam Surridge scored the decisive goal with a penalty in the 60th minute, securing the victory for Nashville in the historic knockout tournament, which has been held since 1914.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Jane Goodall, Celebrated Primatologist, Dies at 91",
-    "domain": "business",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Wed, 01 Oct 2025 22:47:06 GMT",
-    "source": "BBC",
+    "title": "Nikola Jovic Signs $62.4M, 4-Year Extension with Miami Heat",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Thu, 02 Oct 2025 01:20:47 +0000",
+    "source": "CBS Sports",
     "sources": [
-      "Business Insider",
-      "BBC",
-      "Phys.org"
+      "Yahoo Sports",
+      "CBS Sports",
+      "Sportsnet"
     ],
     "domains": [
-      "www.bbc.com",
-      "phys.org",
-      "www.businessinsider.com"
+      "www.sportsnet.ca",
+      "www.sun-sentinel.com",
+      "www.cbssports.com"
     ],
     "snippets": [
-      "Dr Goodall was a world-leading expert on chimpanzees and a renowned conservationist.",
-      "Jane Goodall's powers of observation revealed facts scholars had overlooked for years. She died at 91 on October 1.",
-      "British primatologist Jane Goodall, who transformed the study of chimpanzees and became one of the world's most prominent wildlife advocates, has died at the age of 91, her institute announced Wednesday."
+      "Miami's status in the weakened Eastern Conference is difficult to predict",
+      "BOCA RATON, Fla. — One preseason waiting game is over for the Miami Heat, with an NBA source confirming to the Sun Sentinel that fourth-year forward Nikola Jovic has agreed to a four-year, $62.4 million extension. The contract, according to the source, is a straight four years, with no option clause",
+      "<p>After a career-best junior season in the NBA, Nikola Jovic has earned himself a lucrative pay raise. The forward has reportedly agreed to a four-year, $62.4 million rookie-scale contract extension with the Miami Heat, ESPN&#8217;s Shams Charania reported on Wednesday.</p>"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/f07cc970-9f08-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/10/02/a80e613a-fc94-4137-b9f6-4f1f989a2e36/100125-nikolajovic.jpg",
     "titles": [
-      "Conservationist Dame Jane Goodall dies aged 91",
-      "Jane Goodall, chimpanzee researcher and conservationist, is dead at 91",
-      "Renowned British chimpanzee expert Jane Goodall dies at 91"
+      "Heat, Nikola Jović reportedly agree to four-year contract extension with franchise sitting at crossroads",
+      "Nikola Jovic agrees to four-year, $62.4 million extension with Heat",
+      "Report: Heat sign Nikola Jovic to four-year, $62.4M extension"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.951,
+      "recency": 0.942,
       "consensus": 0.789,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.737,
+    "score": 0.735,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Renowned British primatologist and conservationist Jane Goodall, celebrated for her groundbreaking research on chimpanzees and advocacy for wildlife, passed away at the age of 91 on October 1, as announced by her institute.",
+    "summary": "Nikola Jovic has signed a four-year, $62.4 million extension with the Miami Heat, following a standout junior season. The contract is confirmed to be a straight deal with no option clause. This development comes as the Miami Heat prepares for the upcoming season in the Eastern Conference.",
     "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: research",
+    "constructiveness_reason": "keywords: development",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Flotilla to Gaza, Including Greta Thunberg, Intercepted by Israel",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Wed, 01 Oct 2025 23:21:31 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "New York Times",
+      "Al Jazeera",
+      "Washington Post"
+    ],
+    "domains": [
+      "www.aljazeera.com",
+      "www.nytimes.com",
+      "www.washingtonpost.com"
+    ],
+    "snippets": [
+      "Global Sumud Flotilla had been pressing forward with its mission to break Israel&#039;s siege of Gaza.",
+      "Organizers said 13 boats have been intercepted as the convoy presses on toward the Palestinian enclave to try to break the Israeli blockade and deliver aid.",
+      "The boats were part of a flotilla, carrying Greta Thunberg and other activists, that was organized to break Israel’s blockade and protest the war."
+    ],
+    "image_url": "",
+    "titles": [
+      "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
+      "Israel intercepts Gaza aid flotilla, activist Greta Thunberg detained",
+      "Israel Intercepts Boats Headed to Gaza With Humanitarian Aid"
+    ],
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.904,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.725,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Global Sumud Flotilla, aiming to break Israel's blockade of Gaza and deliver aid, has faced challenges as 13 of its boats were intercepted. The flotilla, which includes activist Greta Thunberg, continues its mission toward the Palestinian enclave despite these setbacks.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
@@ -359,8 +396,8 @@
     "published": "Wed, 01 Oct 2025 21:19:07 GMT",
     "source": "BBC",
     "sources": [
-      "The Guardian",
       "BBC",
+      "The Guardian",
       "Sky Sports"
     ],
     "domains": [
@@ -381,13 +418,13 @@
     ],
     "score_components": {
       "magnitude": 0.847,
-      "recency": 0.923,
+      "recency": 0.848,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.728,
-    "summary_source": "gpt",
+    "score": 0.713,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Eric Dier, a former Tottenham Hotspur defender, secured a 2-2 draw for Monaco against Manchester City in the Champions League by winning and converting a dramatic late penalty. The match turned chaotic after Nico González's failed attempt to clear a free-kick resulted in him kicking Dier in the face, leading to a melee. This incident prevented Manchester City from achieving a perfect start in the competition.",
     "constructiveness_score": 0.0,
@@ -402,8 +439,8 @@
     "published": "Wed, 01 Oct 2025 21:15:52 GMT",
     "source": "BBC",
     "sources": [
-      "The Guardian",
       "BBC",
+      "The Guardian",
       "Sky Sports"
     ],
     "domains": [
@@ -424,66 +461,15 @@
     ],
     "score_components": {
       "magnitude": 0.847,
-      "recency": 0.921,
+      "recency": 0.848,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.728,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Arsenal secured a 2-0 win against Olympiakos in the Champions League, with goals from Gabriel Martinelli and Bukayo Saka. This victory maintains Arsenal's perfect start to the season, making it two wins from two games. It also continues Mikel Arteta's flawless record in European group-phase games at the Emirates Stadium, with eight wins and no goals conceded.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Week 5 Fantasy Football: QB Start/Sit Recommendations Plus TE & RB Tips",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 21:54:06 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "Yahoo Sports",
-      "Sports Illustrated",
-      "CBS Sports"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "news.google.com",
-      "touchdownwire.usatoday.com"
-    ],
-    "snippets": [
-      "Running backs you want in Week 5 lineups and those you should avoid",
-      "Which NFL defenses should you start and which should you sit on your fantasy football team during Week 5?",
-      "Which kickers you should start and which you should sit in your fantasy football league in Week 5.",
-      "Tight end continues to be one of the most unpredictable yet crucial fantasy football positions, and Week 5 is no different.",
-      "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVHlZaGhBeldtNXI3aTZ3ZW1MX2l2emFRbE9XT042ZE5WVW5Kel9HSFBodTdxRHg2TE9rN3FSdTNqX2Y2LXA2Wi13T2xNTENpbHNSSHJ4U3VoaHh1SzhlUENOSGdWU0gwX2wxYkFwNVRlcDNDQVltYXdXb01qb1BLbktWNE5FRE1KWlJYamFMMmRLeWtINjdnOFdlX3J5eWc?oc=5\" target=\"_blank\">Defense & Ki",
-      "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORXpxY09rUjFpdnlXaEhFRnEwNFFva1h4LUVucjNxT3M3dV9mTVNhd2VYVllCWEVjd0loYV8wSzlyNVRzMUxMU0x1b29KZnRRc091UnhROVJGUmNBazdfcUxkbjZZdDVLX0dmMUU0VjFqeEhWbFhXZEgycndUZHpRNzlWQ2tYM09fc2ZrLVd3SktPZElOdGlBenRaSkQ?oc=5\" target=\"_blank\">Running Back Sta",
-      "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXVFam5vQVJOXzRtV25DTEN4WWpLYWdqVHdwcTNfdnAxWTRFQXdhOC1JZk1aZ0ZNNEVDQ2JzNHFQa1pkR0I5ZTJMalZGUm14a0h1MXpNdXRjd2xzVndQOW9UVURwVWxSUHp6Smo4R0M4c3IzdjhHdUFGLUtZNXBCUGRVbTZRR2V5OWl6aHRsckpyTW5HNVV3Mg?oc=5\" target=\"_blank\">Tight End Start 'Em, "
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/09/22/b3cad7d0-ed33-4400-9e5b-ed4ee20d4ab4/cam-skattebo-getty.jpg",
-    "titles": [
-      "Fantasy Football Week 5 Start 'Em & Sit 'Em Running Backs: Cardinals, Bucs, Panthers injuries change landscape",
-      "Fantasy Football Start 'Em, Sit 'Em Week 5: Defense Edition",
-      "Fantasy Football Start 'Em, Sit 'Em Week 5: Kicker Edition",
-      "Fantasy Football Start 'Em, Sit 'Em Week 5: TE Edition",
-      "Defense & Kicker Start 'Em, Sit 'Em For Fantasy Football Week 5 - Sports Illustrated",
-      "Running Back Start 'Em, Sit 'Em For Fantasy Football Week 5 - Sports Illustrated",
-      "Tight End Start 'Em, Sit 'Em For Fantasy Football Week 5 - Sports Illustrated"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.953,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.727,
+    "score": 0.713,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "In Week 5 fantasy football lineups, certain quarterbacks are recommended starts, while others are advised to be avoided, according to multiple news sources. Additionally, advice is provided for tight end and running back positions, indicating who to start or bench. The specific players to target or avoid were not listed in the provided content.",
+    "summary": "Arsenal secured a 2-0 win against Olympiakos in the Champions League, with goals from Gabriel Martinelli and Bukayo Saka. This victory maintains Arsenal's perfect start to the season, making it two wins from two games. It also continues Mikel Arteta's flawless record in European group-phase games at the Emirates Stadium, with eight wins and no goals conceded.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -496,13 +482,13 @@
     "published": "Wed, 01 Oct 2025 18:19:42 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Washington Post",
       "Al Jazeera",
-      "Deutsche Welle"
+      "Deutsche Welle",
+      "Washington Post"
     ],
     "domains": [
-      "www.aljazeera.com",
       "www.dw.com",
+      "www.aljazeera.com",
       "www.washingtonpost.com"
     ],
     "snippets": [
@@ -518,15 +504,54 @@
     ],
     "score_components": {
       "magnitude": 0.847,
-      "recency": 0.885,
+      "recency": 0.814,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.721,
+    "score": 0.707,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Two Germans and one Lebanese national, suspected of being Hamas operatives, were arrested in Berlin for planning violent acts against Israeli or Jewish institutions in Germany. Authorities seized an AK-47, pistols, and ammunition. They are set to appear in court Thursday, according to prosecutors.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Canucks Dominate Flames 8-1 in NHL Pre-Season Game",
+    "domain": "sports",
+    "source_domain": "globalnews.ca",
+    "location": "national",
+    "published": "Thu, 02 Oct 2025 04:00:27 +0000",
+    "source": "Global News",
+    "sources": [
+      "Global News",
+      "Sportsnet"
+    ],
+    "domains": [
+      "www.sportsnet.ca",
+      "globalnews.ca"
+    ],
+    "snippets": [
+      "Quinn Hughes had a goal and two assists, Max Sasson scored twice and the Vancouver Canucks rolled past the Calgary Flames 8-1 on Wednesday in NHL pre-season action.",
+      "<p>The Calgary Flames host the Vancouver Canucks in a pre-season clash on Wednesday. Live coverage on Sportsnet and Sportsnet+ begins at 9 p.m. ET / 6 p.m. PT, or follow along with our live tracker.</p>"
+    ],
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/10/f84df23f094608626a4b31a281dbf2df8a194695c62e016a23b580ad66a4a292.jpg?quality=65&strip=all",
+    "titles": [
+      "Canucks thump Flames 8-1 in pre-season action",
+      "NHL Pre-season on Sportsnet: Canucks vs. Flames"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.996,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 1.0
+    },
+    "score": 0.704,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "In an NHL pre-season game on Wednesday, the Vancouver Canucks decisively defeated the Calgary Flames 8-1. Quinn Hughes contributed significantly with a goal and two assists, while Max Sasson scored twice for the Canucks.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -539,9 +564,9 @@
     "published": "Wed, 01 Oct 2025 16:58:20 GMT",
     "source": "BBC",
     "sources": [
-      "The Guardian",
       "BBC",
-      "New York Times"
+      "New York Times",
+      "The Guardian"
     ],
     "domains": [
       "www.bbc.com",
@@ -561,58 +586,15 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.843,
+      "recency": 0.775,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.705,
+    "score": 0.692,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Pope Leo XIV criticized individuals who minimize or ridicule the issue of climate change, aligning with his predecessor Pope Francis's emphasis on environmental concerns. This statement came shortly after President Trump dismissed global warming as a \"con job.\" The Pope did not directly criticize world leaders but expressed concern over the dismissal of climate change discussions.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "UK Orders Apple for iCloud Access Again Amid Privacy Dispute",
-    "domain": "business",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Wed, 01 Oct 2025 14:26:29 GMT",
-    "source": "BBC",
-    "sources": [
-      "Financial Times",
-      "The Guardian",
-      "BBC"
-    ],
-    "domains": [
-      "www.bbc.com",
-      "www.theguardian.com",
-      "www.ft.com"
-    ],
-    "snippets": [
-      "It is the latest development in a privacy row which has pitted the UK against the tech giant and the Trump administration.",
-      "Order issued in September comes after Trump administration said London had backed down in fight over encryption",
-      "<p>New access order by Home Office would seek access to the tech company’s encrypted cloud backups</p><p>The UK government has renewed its confrontation with Apple over <a href=\"https://www.theguardian.com/technology/2025/feb/07/uk-confronts-apple-with-demand-for-cloud-backdoor-to-users-encrypted-da"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c43/live/45f4f830-9eca-11f0-8281-d137a399b095.jpg",
-    "titles": [
-      "Government issues new data demand for UK Apple users",
-      "UK makes new attempt to access Apple cloud data",
-      "UK government resumes row with Apple by demanding access to British users’ data"
-    ],
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.799,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.704,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The U.K. Home Office has issued a second order for access to Apple users' encrypted iCloud backups, following a failed attempt earlier this year. This action is part of an ongoing privacy dispute involving the UK, the tech giant, and the Trump administration. The controversy escalated after the Trump administration claimed that London had conceded in a battle over encryption.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -625,13 +607,13 @@
     "published": "Wed, 01 Oct 2025 15:42:47 GMT",
     "source": "The Guardian",
     "sources": [
-      "Washington Post",
+      "New York Times",
       "The Guardian",
-      "New York Times"
+      "Washington Post"
     ],
     "domains": [
-      "www.theguardian.com",
       "www.nytimes.com",
+      "www.theguardian.com",
       "www.washingtonpost.com"
     ],
     "snippets": [
@@ -647,12 +629,12 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.821,
+      "recency": 0.755,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.701,
+    "score": 0.688,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "A magnitude 6.9 earthquake hit central Philippines, affecting the province of Cebu and the coastal city of Bogo, resulting in at least 60 deaths and over 140 injuries, according to a civil defence official. The quake caused widespread power outages, building and road damage, and hampered rescue operations due to heavy rainfall. Rescuers continue to search for survivors amidst the debris.",
@@ -668,9 +650,9 @@
     "published": "Wed, 01 Oct 2025 12:52:11 GMT",
     "source": "BBC",
     "sources": [
-      "The Guardian",
       "BBC",
-      "New York Times"
+      "New York Times",
+      "The Guardian"
     ],
     "domains": [
       "www.bbc.com",
@@ -690,12 +672,12 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.774,
+      "recency": 0.712,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.692,
+    "score": 0.679,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Seven men were sentenced for grooming and sexually abusing two teenage girls in Rochdale, Greater Manchester, starting when the victims were 13. The sentences ranged from 12 to 35 years, with Mohammed Zahid identified as the ringleader. This case is part of a larger national scandal in Britain concerning child sexual abuse.",
@@ -704,40 +686,40 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Big Ten Seeks $2 Billion in Capital with 10-Year Rights Extension Deal",
+    "title": "Xavien Howard, 32, Retires from NFL Days After Criticized Game",
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Wed, 1 Oct 2025 19:24:03 EST",
+    "published": "Wed, 1 Oct 2025 22:43:53 EST",
     "source": "ESPN",
     "sources": [
-      "Yahoo Sports",
-      "ESPN"
+      "ESPN",
+      "Sports Illustrated"
     ],
     "domains": [
-      "nittanylionswire.usatoday.com",
-      "www.espn.com"
+      "www.espn.com",
+      "news.google.com"
     ],
     "snippets": [
-      "The Big Ten is in talks about a private capital deal, which includes a 10-year grant of rights extension through 2046, that would infuse at least $2 billion into the league and its schools, sources told ESPN.",
-      "The Big Ten is working on securing a massive new private capital deal that will provide financial security for years to come. But who is investing?"
+      "Veteran cornerback Xavien Howard, 32, informed the Colts of his decision to retire just days after his much-criticized performance against the Rams.",
+      "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmlxd1huLUhKWHZQT2xaMTRXMHEyWE10a0htN1pXS3JjcHJpSkduX2VPelFncnhpMjR6b3h4THJHRmVwVnFkM0FGdjBRR1lLSjFmbGRQNzdxc21VN2hmeTU2c0FSUUszUmtJV1cwQlEzeEFnTFJPX2tJNXgxWEdSbzhmcUtQUzQwcGNGNFdZaGZXSE85dXhCcUp2RUFyRTQ?oc=5\" target=\"_blank\">Colts CB Xav"
     ],
     "image_url": "",
     "titles": [
-      "Sources: Big Ten mulling $2B private capital deal",
-      "Big Ten working on new private capital deal with private investor"
+      "Colts' Howard abruptly retires, says 'family first'",
+      "Colts CB Xavien Howard Abruptly Retires After Rough Game vs. Puka Nacua, Rams - Sports Illustrated"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.984,
+      "recency": 0.97,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.677,
+    "score": 0.674,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The Big Ten is negotiating a deal involving a 10-year rights extension through 2046, aiming to secure at least $2 billion in private capital for the league and its schools. The identity of the investors has not been disclosed.",
+    "summary": "Veteran cornerback Xavien Howard, aged 32, has announced his retirement from professional football, just days following a criticized performance against the Rams. This decision was communicated to his team, the Colts, marking the end of his career in the NFL.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -750,12 +732,12 @@
     "published": "Wed, 1 Oct 2025 19:16:19 EST",
     "source": "ESPN",
     "sources": [
-      "ESPN",
-      "CBS Sports"
+      "CBS Sports",
+      "ESPN"
     ],
     "domains": [
-      "www.cbssports.com",
-      "www.espn.com"
+      "www.espn.com",
+      "www.cbssports.com"
     ],
     "snippets": [
       "Las Vegas hosts Phoenix on Friday to open the WNBA Finals. The team whose big three plays the best will win the title.",
@@ -768,15 +750,135 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.981,
+      "recency": 0.902,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.676,
-    "summary_source": "gpt",
+    "score": 0.66,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Las Vegas and Phoenix are set to compete in the WNBA Finals starting Friday, with the 2025 title at stake. The outcome will likely hinge on which team's top three players perform best.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Yankees Force Game 3 Against Red Sox; Chisholm Proves Point with Key Performance",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Thu, 02 Oct 2025 02:09:56 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "Yahoo Sports",
+      "CBS Sports"
+    ],
+    "domains": [
+      "www.sportingnews.com",
+      "www.usatoday.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "A win against the Red Sox Wednesday night forced a do-or-die Game 3",
+      "Jazz Chisholm didn't start the Yankees' opener vs. the Red Sox but played hero in Game 2.",
+      "Jazz Chisholm Jr. believed he should have been in the Yankees' lineup in Game 1, and he reminded Aaron Boone why in Game 2."
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/10/02/1b3c9dcc-03e5-48ae-8de3-fcd123571de5/jazz-getty.png",
+    "titles": [
+      "Jazz Chisholm Jr., Ben Rice help Yankees stave off MLB playoff elimination in Game 2 after sitting Game 1",
+      "Jazz Chisholm crushed someone in 'MLB The Show' after Yankees' bitter Game 1 loss",
+      "How Jazz Chisholm Jr. backed up Game 1 comments with heroics in Yankees' playoff win over Red Sox"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.958,
+      "consensus": 0.611,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.659,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Yankees forced a decisive Game 3 against the Red Sox after winning Wednesday night. Jazz Chisholm Jr., who did not start in the opener, played a crucial role in Game 2's victory. Chisholm's performance underscored his belief that he should have been in the lineup for Game 1, proving his point to manager Aaron Boone.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Trump Admin Cuts Funding to Dem States Amid Shutdown",
+    "domain": "business",
+    "source_domain": "www.dw.com",
+    "location": "global",
+    "published": "2025-10-02T01:31:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "Deutsche Welle",
+      "Forbes"
+    ],
+    "domains": [
+      "www.dw.com",
+      "www.forbes.com"
+    ],
+    "snippets": [
+      "The Trump administration has begun targeting funding projects in Democratic states. And Vice President JD Vance warned that the government might sack federal workers if the shutdown lasts more than a few days.",
+      "The government shut down began at midnight on Wednesday as Democrats and Republicans appeared to be nowhere close to reaching a funding deal."
+    ],
+    "image_url": "",
+    "titles": [
+      "US shutdown: White House freezes funds for Democratic states",
+      "Government Shutdown Begins: White House Guts Funding For Democratic-Favored Projects"
+    ],
+    "score_components": {
+      "magnitude": 0.775,
+      "recency": 0.946,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.658,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Trump administration has started cutting funding for projects in Democratic states amid a government shutdown that began at midnight on Wednesday. With Democrats and Republicans unable to agree on a funding deal, Vice President JD Vance warned of potential layoffs of federal workers if the shutdown extends beyond a few days.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "NFL Criticized for Bad Bunny Super Bowl Choice, Trump Official Suggests ICE Pres",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Thu, 02 Oct 2025 02:48:45 GMT",
+    "source": "Axios",
+    "sources": [
+      "Axios",
+      "Forbes"
+    ],
+    "domains": [
+      "news.google.com",
+      "www.forbes.com"
+    ],
+    "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE95NUtINmxkUlliMzFCZTV6QV8zSkdyRDV3WllfOEdOWFdIUnlpeGRkVW93U25sYWl6VDZDRGQwZ0RZdkNGd3l6ZUs0RjhnaV93Z3NVc3NTMHAzemVFekRvN1Z5cUNKQmFPYXJnZ0Z2RkhCNXM?oc=5\" target=\"_blank\">Bad Bunny could see ICE at Super Bowl show, Trump official suggests</a>&",
+      "The NFL received right-wing backlash from its decision to have Bad Bunny headline its Super Bowl halftime show."
+    ],
+    "image_url": "",
+    "titles": [
+      "Bad Bunny could see ICE at Super Bowl show, Trump official suggests - Axios",
+      "ICE Will Be On Patrol At Bad Bunny’s ‘Shameful’ Super Bowl Halftime Show, Trump Adviser Says"
+    ],
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.951,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.652,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The NFL faced criticism for choosing Bad Bunny to headline the Super Bowl halftime show. A Trump official suggested ICE could be present at the event. The outcome of this situation is ongoing.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -789,8 +891,8 @@
     "published": "Wed, 01 Oct 2025 23:07:36 +0000",
     "source": "Washington Post",
     "sources": [
-      "Washington Post",
-      "New York Times"
+      "New York Times",
+      "Washington Post"
     ],
     "domains": [
       "www.nytimes.com",
@@ -807,13 +909,13 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.978,
+      "recency": 0.9,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.658,
-    "summary_source": "gpt",
+    "score": 0.642,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Israeli forces intercepted the Global Sumud Flotilla, arresting activist Greta Thunberg among others, as they attempted to reach northern Gaza. Concurrently, Israel's military actions in Gaza City prompted hundreds of thousands of Palestinians to flee, though many remain trapped due to lack of resources or escape routes.",
     "constructiveness_score": 0.0,
@@ -821,161 +923,40 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Israeli Navy Intercepts Ships with Activists, Including Thunberg, Near Gaza",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Wed, 01 Oct 2025 22:54:42 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "The Guardian",
-      "Al Jazeera"
-    ],
-    "domains": [
-      "www.aljazeera.com",
-      "www.theguardian.com"
-    ],
-    "snippets": [
-      "At least six ships have been boarded by the Israeli navy so far and more interceptions are expected to take place.",
-      "At least 73 Palestinians have been killed in Gaza as Israeli forces arrest activists, including Greta Thunberg.",
-      "<p>Greta Thunberg arrested and taken into custody after six of the flotilla’s boats were boarded</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates\">Middle East crisis live</a></p></li></ul><p>At least two",
-      "<p>Israeli foreign ministry posts video of Thunberg’s arrest; vessels carrying about 500 activists intercepted about 75 miles off coast of war-torn territory</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza\">Israeli naval for"
-    ],
-    "image_url": "",
-    "titles": [
-      "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
-      "Updates: Israeli forces kill 73 in Gaza; arrest flotilla activists",
-      "Israeli naval forces board pro-Palestinian flotilla 75 miles from Gaza",
-      "Greta Thunberg arrested by Israeli forces after military boards aid flotilla headed for Gaza – Middle East crisis live"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.974,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.657,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Israeli navy has intercepted at least six ships carrying around 500 activists, including Greta Thunberg, about 75 miles off the coast of Gaza. Thunberg has been arrested and taken into custody. This action is part of a broader conflict that has resulted in at least 73 Palestinian deaths in Gaza as Israeli forces arrest activists. Further interceptions are anticipated.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Miller Sets Playoff Record with 104.5 mph Pitch, Padres Beat Cubs 3-0",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 23:58:12 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "Sportsnet",
-      "CBS Sports"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "Miller's 104.5 mph pitch is the fastest playoff pitch on record",
-      "<p>Manny Machado hit a two-run homer, Mason Miller dominated again and the San Diego Padres beat the Chicago Cubs 3-0 on Wednesday, sending their NL Wild Card Series to a decisive third game.</p>"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/10/01/9a6ad93f-8538-495f-ae8d-d403490c2135/miller-getty.png",
-    "titles": [
-      "Mason Miller makes history, but Wild Card Series Game 3 may put Padres flamethrower to the test vs. Cubs",
-      "Machado, Miller star as Padres beat Cubs to extend NL Wild Card Series"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.995,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.654,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Mason Miller set a record for the fastest playoff pitch at 104.5 mph during the NL Wild Card Series. His performance, alongside Manny Machado's two-run homer, led the San Diego Padres to a 3-0 victory over the Chicago Cubs, pushing the series to a decisive third game.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Bogaerts' Key Play Spurs Padres to Shutout Win, Forces Game 3 with Cubs",
-    "domain": "sports",
-    "source_domain": "www.sportingnews.com",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 23:35:33 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Yahoo Sports",
-      "Sportsnet"
-    ],
-    "domains": [
-      "www.sportingnews.com",
-      "www.sportsnet.ca"
-    ],
-    "snippets": [
-      "It all comes down to this.",
-      "<p>Watch as Padres’ Xander Bogaerts flashes the leather on a hard ground ball before flipping the ball to Cronenworth at second, who fired a missile to first to turn a clutch 6-4-3 double play to seal a shutout win over the Cubs and force Game 3.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Cubs, Padres announce Game 3 starters",
-      "Padres turn clutch double play to seal win over Cubs and force Game 3"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.988,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.653,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "In a decisive moment, Padres' Xander Bogaerts made a key defensive play by catching a hard ground ball and initiating a 6-4-3 double play with Jake Cronenworth, which secured a shutout victory against the Cubs. This win forced a Game 3.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
     "title": "Social Security Payments Unaffected by Shutdown; Neptune Insurance Goes Public",
     "domain": "business",
-    "source_domain": "www.cnbc.com",
+    "source_domain": "news.google.com",
     "location": "national",
-    "published": "Wed, 01 Oct 2025 19:23:04 GMT",
-    "source": "CNBC",
+    "published": "Wed, 01 Oct 2025 23:13:48 GMT",
+    "source": "Axios",
     "sources": [
       "CNBC",
-      "Business Insider"
+      "Axios"
     ],
     "domains": [
-      "www.cnbc.com",
-      "www.businessinsider.com"
+      "news.google.com",
+      "www.cnbc.com"
     ],
     "snippets": [
+      "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbG1aZHpQTUl3QmNnUmE0REVPMVRBMXNLNXlCSFBORGxDdjR1aDI1MnJUem44bTF1Nko1M1UxeUxVeVJULUh1cmkxWGx6WVRqVmx3eG9SMk81d0d5Mks1b0gwc2pkMnVFQ0hYMDlXby1yMHBuTDIxTkRWdkNIaXNrRXdxTnZPSG9feDBmTVBjSno0THM0SjFSaUtmQ0hEa1dE?oc=5\" target=\"_blank\">What the sh",
       "Social Security benefit payments will still go out on time, according to the agency. But certain services may not be available.",
-      "Neptune Insurance, the nation's largest private flood insurance, goes public on the New York Stock Exchange Wednesday.",
-      "The government shutdown could mean travel delays, closed parks, and Social Security customer service disruptions."
+      "Neptune Insurance, the nation's largest private flood insurance, goes public on the New York Stock Exchange Wednesday."
     ],
     "image_url": "",
     "titles": [
+      "What the shutdown means for Washington state - Axios",
       "What the government shutdown means for Social Security benefits",
-      "Government shutdown means opportune timing for Neptune Flood IPO",
-      "How the shutdown impacts everything from Social Security to the post office"
+      "Government shutdown means opportune timing for Neptune Flood IPO"
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.886,
+      "recency": 0.883,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
     "score": 0.639,
-    "summary_source": "gpt",
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Social Security payments will continue as scheduled despite the government shutdown, which may cause travel delays, park closures, and disruptions in Social Security customer services. Neptune Insurance, the largest private flood insurer in the U.S., went public on the New York Stock Exchange.",
     "constructiveness_score": 0.0,
@@ -983,42 +964,42 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Disney Escalates Legal Action Against AI Firms with Cease and Desist to Characte",
-    "domain": "technology",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 17:35:21 GMT",
-    "source": "Axios",
+    "title": "Jane Goodall, Celebrated Primatologist, Dies at 91",
+    "domain": "business",
+    "source_domain": "www.businessinsider.com",
+    "location": "global",
+    "published": "2025-10-01T21:27:51Z",
+    "source": "Business Insider",
     "sources": [
-      "TechCrunch",
-      "Axios"
+      "Business Insider",
+      "Phys.org"
     ],
     "domains": [
-      "news.google.com",
-      "techcrunch.com"
+      "phys.org",
+      "www.businessinsider.com"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9naW4zYmdWaGMzRUdseTJzRVdLOTVLNDJKZXoyNS1SVjhOY0ZuN2pvUFE1cTh0M0o3UlJ4QnF2U1JpWTlWaDFLSVVINGozTzJHMEVQRl9oeG9TOTlOVWthZXh6MHBiN0ptc21LSF9JOEp2Zw?oc=5\" target=\"_blank\">Scoop: Disney sends cease and desist letter to Character.AI</a>&nbsp;&nbs",
-      "\"Character.ai is freeriding off the goodwill of Disney’s famous marks and brands, and blatantly infringing Disney’s copyrights,\" a Disney lawyer wrote."
+      "Jane Goodall's powers of observation revealed facts scholars had overlooked for years. She died at 91 on October 1.",
+      "British primatologist Jane Goodall, who transformed the study of chimpanzees and became one of the world's most prominent wildlife advocates, has died at the age of 91, her institute announced Wednesday."
     ],
-    "image_url": "",
+    "image_url": "https://i.insider.com/67589aa6dc8b666017f25e33?format=jpeg",
     "titles": [
-      "Scoop: Disney sends cease and desist letter to Character.AI - Axios",
-      "CharacterAI removes Disney characters after receiving cease-and-desist letter"
+      "Jane Goodall, chimpanzee researcher and conservationist, is dead at 91",
+      "Renowned British chimpanzee expert Jane Goodall dies at 91"
     ],
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.854,
+      "magnitude": 0.735,
+      "recency": 0.869,
       "consensus": 0.591,
-      "constructiveness": 0.0,
+      "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.633,
+    "score": 0.639,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Disney has issued a cease and desist letter to Character.AI, escalating its legal actions in the tech space. This follows an ongoing lawsuit against AI image creator Midjourney, indicating Disney's increasing legal scrutiny of AI companies using its copyrighted content.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
+    "summary": "Renowned British primatologist and conservationist Jane Goodall, celebrated for her groundbreaking research on chimpanzees and advocacy for wildlife, passed away at the age of 91 on October 1, as announced by her institute.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: research",
     "constructiveness_source": "heuristic"
   },
   {
@@ -1029,8 +1010,8 @@
     "published": "Wed, 01 Oct 2025 18:23:59 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Al Jazeera",
-      "The Verge"
+      "The Verge",
+      "Al Jazeera"
     ],
     "domains": [
       "www.aljazeera.com",
@@ -1047,12 +1028,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.886,
+      "recency": 0.815,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.632,
+    "score": 0.618,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The U.S. Department of Energy, under Donald Trump's administration, acquired a 5% equity stake in Lithium Americas, a Vancouver-based company developing one of the world's largest lithium mines in northern Nevada. Additionally, the government secured another 5% stake in the company's joint venture with GM at the same location, Thacker Pass, which is anticipated to become the largest lithium mine.",
@@ -1061,79 +1042,118 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "OpenAI Launches Sora App for AI Video Cameo Exchanges Among Friends",
-    "domain": "technology",
-    "source_domain": "news.google.com",
+    "title": "Central Bankers, Led by Powell, Favor Caution in Monetary Policies",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
     "location": "national",
-    "published": "Wed, 01 Oct 2025 16:43:40 GMT",
-    "source": "Axios",
+    "published": "Wed, 01 Oct 2025 18:07:09 GMT",
+    "source": "CNBC",
     "sources": [
-      "Ars Technica",
-      "Axios"
+      "MarketWatch",
+      "CNBC"
     ],
     "domains": [
-      "news.google.com",
-      "arstechnica.com"
+      "www.marketwatch.com",
+      "www.cnbc.com"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE82OHk5bkFKT1N6eGdYc0QzTnFfZEo5Qk9HTDQ4UnNKRjI0SF85dFFHQnFxQ0JMUmozSWMzaERHNlZNYldjMU11SW5iZmo0ZmxEYkg3UjNfbllSdGlWbldGWmx4MER5TTE3TXc?oc=5\" target=\"_blank\">OpenAI's Sora app lets friends swap AI video cameos</a>&nbsp;&nbsp;<font color=\"#6f6",
-      "Sora social app launches with deepfake-style \"cameos\" and feed controls."
+      "Chair Jerome Powell and his fellow central bankers likely will err on the side of caution, which would be a bias towards easing.",
+      "It’s a bad time for the data to disappear."
     ],
     "image_url": "",
     "titles": [
-      "OpenAI's Sora app lets friends swap AI video cameos - Axios",
-      "OpenAI’s Sora 2 lets users insert themselves into AI videos with sound"
+      "The government shutdown is likely to cement additional Fed interest rate cuts",
+      "Government shutdown means Fed lacks crucial data as it considers rate cuts"
     ],
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.838,
+      "magnitude": 0.735,
+      "recency": 0.794,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.63,
-    "summary_source": "snippet",
-    "summary_reason": "retry_exhausted",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE82OHk5bkFKT1N6eGdYc0QzTnFfZEo5Qk9HTDQ4UnNKRjI0SF85dFFHQnFxQ0JMUmozSWMzaERHNlZNYldjMU11SW5iZmo0ZmxEYkg3UjNfbllSdGlWbldGWmx4MER5TTE3TXc?oc=5\" target=\"_blank\">OpenAI's Sora app lets friends swap AI video cameos</a>&nbsp;&nbsp;<font color=\"#6f6",
+    "score": 0.614,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Federal Reserve Chair Jerome Powell and other central bankers are inclined to prioritize caution, suggesting a tendency towards easing monetary policies. This approach comes at a challenging time when data availability is limited.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Pfizer Strikes Deal with Trump to Lower Drug Prices, Calms Investors",
+    "title": "UK Orders Apple for iCloud Access Again Amid Privacy Dispute",
     "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 10:09:20 GMT",
-    "source": "Axios",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Wed, 01 Oct 2025 14:26:29 GMT",
+    "source": "BBC",
     "sources": [
-      "Forbes",
-      "Axios"
+      "BBC",
+      "Financial Times"
     ],
     "domains": [
-      "news.google.com",
-      "www.forbes.com"
+      "www.bbc.com",
+      "www.ft.com"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA2UlR5OW9ISG1mNXo3MktWVWsyQlBjNExoMlhKZ3I5V0tXbnZ6MC03TVZnVzAzTkF6bVVqWm1PVzhYNldWdDJwMlVvSmgtbW1Zb1RBSTQ2R0tUX3ZnN0JhLTFMRnQ4RUxJUi1UR1R4ckcydEE?oc=5\" target=\"_blank\">Pfizer's drug pricing deal with Trump ratchets up pressure on other phar",
-      "The pharmaceutical giant’s deal with Trump to cut prices has little impact on the bottom line–but removes a lot of regulatory uncertainty. Investors love it."
+      "It is the latest development in a privacy row which has pitted the UK against the tech giant and the Trump administration.",
+      "Order issued in September comes after Trump administration said London had backed down in fight over encryption"
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c43/live/45f4f830-9eca-11f0-8281-d137a399b095.jpg",
     "titles": [
-      "Pfizer's drug pricing deal with Trump ratchets up pressure on other pharma companies - Axios",
-      "Pfizer’s Art Of The Deal"
+      "Government issues new data demand for UK Apple users",
+      "UK makes new attempt to access Apple cloud data"
     ],
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.731,
+      "magnitude": 0.755,
+      "recency": 0.735,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.615,
+    "score": 0.609,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The U.K. Home Office has issued a second order for access to Apple users' encrypted iCloud backups, following a failed attempt earlier this year. This action is part of an ongoing privacy dispute involving the UK, the tech giant, and the Trump administration. The controversy escalated after the Trump administration claimed that London had conceded in a battle over encryption.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "LUX-ZEPLIN Detector Advances Dark Matter Search, Sets New WIMP Limits",
+    "domain": "science",
+    "source_domain": "www.sciencedaily.com",
+    "location": "global",
+    "published": "Wed, 01 Oct 2025 03:21:00 EDT",
+    "source": "ScienceDaily",
+    "sources": [
+      "SciTechDaily",
+      "ScienceDaily"
+    ],
+    "domains": [
+      "scitechdaily.com",
+      "www.sciencedaily.com"
+    ],
+    "snippets": [
+      "The LUX-ZEPLIN detector is breaking new ground in the hunt for dark matter, setting unprecedented limits on WIMP particles. Its results not only narrow the possibilities for dark matter but also open exciting paths toward other rare physics discoveries.",
+      "<a href=\"https://scitechdaily.com/scientists-find-cosmic-fingerprints-of-mysterious-dark-matter/\" rel=\"nofollow\" title=\"Scientists Find Cosmic “Fingerprints” of Mysterious Dark Matter\"><img alt=\"Galaxy Dark Matter Halo Art Illustration\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\""
+    ],
+    "image_url": "",
+    "titles": [
+      "Scientists may be closing in on dark matter’s true identity",
+      "Scientists Find Cosmic “Fingerprints” of Mysterious Dark Matter"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.648,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.585,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Pfizer reached a deal with Trump to cut drug prices, easing regulatory uncertainty and pleasing investors. The agreement has minimal effect on Pfizer's financials but significantly reduces potential regulatory challenges.",
+    "summary": "The LUX-ZEPLIN detector has achieved significant progress in the search for dark matter by establishing new limits on WIMP particles. This advancement not only refines the search for dark matter but also enhances the potential for discovering other rare physics phenomena.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1146,8 +1166,8 @@
     "published": "Wed, 01 Oct 2025 00:54:17 EDT",
     "source": "ScienceDaily",
     "sources": [
-      "ScienceDaily",
-      "SciTechDaily"
+      "SciTechDaily",
+      "ScienceDaily"
     ],
     "domains": [
       "scitechdaily.com",
@@ -1164,52 +1184,15 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.669,
+      "recency": 0.615,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.589,
-    "summary_source": "gpt",
+    "score": 0.578,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "NASA's Perseverance rover has discovered that Jezero Crater on Mars once contained a calm lake, evidenced by mudstones rich in organic-linked minerals. The detection of iron-phosphate and iron-sulfide nodules within these rocks suggests processes that could be similar to microbial activity found on Earth. However, scientists emphasize that definitive confirmation of microbial life requires analysis in Earth-based laboratories.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Stocks Hit Record High, Marking Fourth Day of Gains",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Wed, 01 Oct 2025 22:30:03 GMT",
-    "source": "Bloomberg",
-    "sources": [
-      "Bloomberg"
-    ],
-    "domains": [
-      "news.google.com"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2FDOHpSRUF5cG1Bc3Z4RVZ0ZzQxeDBqbFFRWlJQWm9tQ3JXdFAzSUNTQ0pYbF9VQUxRNTNoSnFLWEdscy1SbW9MNDNCaVByWDJNalp4REhwYXBIbnlxS3hpaHRROWwwWjFTcFFzcWIzUG0zRHJBNGdHZlNOTTRBSDRaVlpyYndTSG95QU5XSVhTTFBo?oc=5\" target=\"_blank\">Stocks Hit Record as Trader",
-      "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTVUTk1QakRkSkl2SWEzYUo0V1RwRlhLdVlld2UxMjRWVUhNS0lNcW84a2FvMlZJX2ZMM1gxOXl4Zmx4WjdUTnpBNjBxdFp1bGxTSE0weVppd3IyYjRSbElZWFhYR2FPUnNlVkZDV0l1ZmtKcHJiRXAxQlljbkxVNEkycTZrLTI3VU41Rnd1TlhLcTBm?oc=5\" target=\"_blank\">Stocks Rise for Fourth Day;"
-    ],
-    "image_url": "",
-    "titles": [
-      "Stocks Hit Record as Traders Shrug Off US Shutdown: Markets Wrap - Bloomberg.com",
-      "Stocks Rise for Fourth Day; Treasuries Rally: Markets Wrap - Bloomberg.com"
-    ],
-    "score_components": {
-      "magnitude": 0.393,
-      "recency": 0.946,
-      "consensus": 0.35,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.464,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Stocks reached a record high, continuing their upward trend for the fourth consecutive day. This surge is reflected across various market indicators, showcasing a robust performance in the trading session.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1238,12 +1221,12 @@
     ],
     "score_components": {
       "magnitude": 0.393,
-      "recency": 0.916,
+      "recency": 0.843,
       "consensus": 0.35,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.458,
+    "score": 0.444,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "California has become the first state to mandate AI safety transparency from major labs, with Governor Newsom signing SB 53 into law. This requires companies like OpenAI and Anthropic to disclose their safety protocols. Adam Billen from Encode AI commented that attributing the slowing of U.S. competitiveness with China to such laws is \"intellectually dishonest.\"",
