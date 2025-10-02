@@ -1,48 +1,142 @@
 [
   {
-    "title": "Trump Admin Cuts Funding to Dem States Amid Shutdown",
+    "title": "UK PM Starmer Leaves Summit Early After Manchester Attack on Yom Kippur",
     "domain": "business",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Thu, 02 Oct 2025 10:06:50 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "ABC News",
+      "Financial Times",
+      "Al Jazeera",
+      "The Guardian"
+    ],
+    "domains": [
+      "www.theguardian.com",
+      "www.ft.com",
+      "www.aljazeera.com",
+      "abcnews.go.com"
+    ],
+    "snippets": [
+      "&#039;Appalled&#039; UK PM Starmer departs early from European summit in Copenhagen; decries that this happened on Yom Kippur.",
+      "At least two people were killed when a man drove a vehicle toward a crowd of people and launched a stabbing attack near a synagogue in Manchester, police said.",
+      "Authorities step up security at Jewish sites after police said people were hit by car and also suffered stab wounds",
+      "<p>Keir Starmer to chair Cobra meeting as he condemns ‘appalling’ attack on synagogue during Yom Kippur</p><p><strong>Police have shot a suspect after several people were stabbed and a car was driven at members of the public at the Heaton Park Hebrew congregation synagogue in Crumpsall</strong>, <a ",
+      "<p>Suspect also thought to be dead after suspected terror attack that left three more people in serious condition </p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/live/2025/oct/02/police-reports-stabbing-synagogue-greater-manchester-live\">Manchester synagogue stabbing – latest updates</a>"
+    ],
+    "image_url": "",
+    "titles": [
+      "UK police shoot man suspected of deadly attack near synagogue, two killed",
+      "2 dead in stabbing attack near Manchester synagogue; suspect shot, UK police say",
+      "Two dead after attack at Manchester synagogue",
+      "Two dead after suspected terror attack on Manchester synagogue, police say, with suspect shot by officers – latest",
+      "Police shoot suspect as at least two people killed in car and knife attack at Manchester synagogue"
+    ],
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.957,
+      "consensus": 0.908,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.791,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "UK PM Keir Starmer left a European summit in Copenhagen early, expressing dismay over an attack in Manchester on Yom Kippur. A suspect drove a vehicle into a crowd and stabbed several people near the Heaton Park Hebrew congregation synagogue, resulting in at least two deaths and three seriously injured. The attacker was shot by police. Starmer condemned the violence and plans to chair a Cobra meeting, while authorities have heightened security at Jewish sites.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: plan",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Flotilla to Gaza, Including Greta Thunberg, Intercepted by Israel",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Thu, 02 Oct 2025 09:49:58 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Washington Post",
+      "New York Times",
+      "Al Jazeera",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "www.dw.com",
+      "www.washingtonpost.com",
+      "www.aljazeera.com",
+      "www.nytimes.com"
+    ],
+    "snippets": [
+      "Huwaida Arraf says the intl community is failing to protect the flotilla &amp; Palestinians under Israel’s genocide in Gaza.",
+      "Israel says activists from the Global Sumud Flotilla will be deported to Europe after naval forces stopped most boats bound for Gaza. Turkey and Colombia are among those condemning the interception. Follow DW for more.",
+      "The Israeli Navy intercepted the Global Sumud Flotilla from advancing to the Gaza coast. Meanwhile, the Red Cross says Israel's offensive has \"forced\" it to pause activities in Gaza City. DW has more.",
+      "Israel said its navy intercepted all but one of the boats in the Global Sumud Flotilla, an international convoy that was attempting to break the siege of Gaza.",
+      "The boats were part of a flotilla, carrying Greta Thunberg and other activists, that was organized to break Israel’s blockade and protest the war."
+    ],
+    "image_url": "",
+    "titles": [
+      "Israel taking “illegal actions” against Gaza aid flotilla",
+      "Middle East: Israel says will deport aid flotilla activists",
+      "Middle East: Israel intercepts Gaza aid flotilla",
+      "Israel intercepts Gaza aid flotilla, detains Thunberg and other activists",
+      "Israel Intercepts Boats Headed to Gaza With Humanitarian Aid"
+    ],
+    "score_components": {
+      "magnitude": 0.912,
+      "recency": 0.952,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.787,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The Global Sumud Flotilla, aiming to break Israel's blockade of Gaza and deliver aid, has faced challenges as 13 of its boats were intercepted. The flotilla, which includes activist Greta Thunberg, continues its mission toward the Palestinian enclave despite these setbacks.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Trump Admin Cuts Funding to Dem States Amid Shutdown",
+    "domain": "general",
     "source_domain": "www.aljazeera.com",
     "location": "global",
     "published": "Thu, 02 Oct 2025 06:06:20 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Deutsche Welle",
-      "Forbes",
       "Axios",
-      "Al Jazeera"
+      "Al Jazeera",
+      "Deutsche Welle",
+      "ABC News"
     ],
     "domains": [
       "www.dw.com",
       "news.google.com",
-      "www.forbes.com",
-      "www.aljazeera.com"
+      "www.aljazeera.com",
+      "abcnews.go.com"
     ],
     "snippets": [
       "Republicans and Democrats fail to narrow differences on spending bill, as effects of shutdown start showing.",
       "The Trump administration has begun targeting funding projects in Democratic states. And Vice President JD Vance warned that the government might sack federal workers if the shutdown lasts more than a few days.",
       "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTh3VTFKSEYxa3hFRVpxN2xuang0cHJGNHVmSkVfaWtKU3F5Y2MtUFVGWndNRGN1d2o4VzdmVFBQTjd5azNYRU1fV2dIeTNKNWp1MWVRWjZleVB4cWFNdWNuamg4U3VpLXlsd253ZERBT2p3R19fNlR0SHducTFCcElKalFOcUtrZDExY3pyZkplSkk?oc=5\" target=\"_blank\">Trump admin uses government ",
-      "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE01UGNibVdPTktuZVRPNmt1OE1WbTNnUm5uVW5XR1NnVERQWWhUWnd6SldNVDJ4ajZsU2ZmbXp4Mmk3c0tfV29mMmhVaHJOVHpYMmlkUDFaR2Rrdld3RGlHTkhtWl9NXzNaMmlxS1RvUllrM1ZLT1Nr?oc=5\" target=\"_blank\">Democrats take the fight to Trump on government shutdown</a>&nbsp;&",
-      "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2FrNE5HdEtPQXE1VmkwSHJMWU5ySzFMLVZrclluZkFTd1FLX04tQlhWMlJlRWVBclpVeC04cHBONHR4NjJTZHJmYlA4T0duNWdfOE9ZMkZGc0wyV0IxNmxud01SOTJDcmc0V2cxazhiRDZTSlFpUDlyS2ZrMEdhVA?oc=5\" target=\"_blank\">House Democrat rages against his own party on the gov",
-      "The government shut down began at midnight on Wednesday as Democrats and Republicans appeared to be nowhere close to reaching a funding deal."
+      "Vice President JD Vance, while speaking at a White House press briefing, said that he does not think the government shutdown will be long."
     ],
     "image_url": "",
     "titles": [
       "US government shutdown continues, as Trump cuts funds for Democratic states",
       "US shutdown: White House freezes funds for Democratic states",
       "Trump admin uses government sites to blame Democrats for shutdown - Axios",
-      "Democrats take the fight to Trump on government shutdown - Axios",
-      "House Democrat rages against his own party on the government shutdown - Axios",
-      "Government Shutdown Begins: White House Guts Funding For Democratic-Favored Projects"
+      "Government shutdown updates: Trump vows to cut 'waste' as shutdown enters 2nd day"
     ],
     "score_components": {
       "magnitude": 0.932,
-      "recency": 0.957,
+      "recency": 0.881,
       "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.795,
+    "score": 0.779,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Trump administration has started cutting funding for projects in Democratic states amid a government shutdown that began at midnight on Wednesday. With Democrats and Republicans unable to agree on a funding deal, Vice President JD Vance warned of potential layoffs of federal workers if the shutdown extends beyond a few days.",
@@ -51,193 +145,87 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Jane Goodall, Celebrated Primatologist, Dies at 91",
-    "domain": "business",
+    "title": "Java School Collapse: 60 Missing, Rescue Shifts to Recovery",
+    "domain": "general",
     "source_domain": "www.aljazeera.com",
     "location": "global",
-    "published": "Wed, 01 Oct 2025 20:05:21 +0000",
+    "published": "Thu, 02 Oct 2025 08:54:45 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Phys.org",
-      "LA Times",
-      "CityNews",
+      "New York Times",
       "Al Jazeera",
-      "Business Insider"
-    ],
-    "domains": [
-      "www.latimes.com",
-      "www.businessinsider.com",
-      "www.aljazeera.com",
-      "phys.org",
-      "ottawa.citynews.ca"
-    ],
-    "snippets": [
-      "The Jane Goodall Institute says famed primatologist died in California during US speaking tour.",
-      "<p>Jane Goodall, the trailblazing naturalist whose intimate observations of chimpanzees in the African wild produced powerful insights that transformed basic conceptions of humankind, has died. She was 91.</p>",
-      "Jane Goodall's powers of observation revealed facts scholars had overlooked for years. She died at 91 on October 1.",
-      "British primatologist Jane Goodall, who transformed the study of chimpanzees and became one of the world's most prominent wildlife advocates, has died at the age of 91, her institute announced Wednesday.",
-      "Dr. Jane Goodall, one of the world&#8217;s most beloved animal behaviorists and a pioneer in primatology has died at the age of 91, the Jane Goodall Institute confirmed Wednesday. The British scientist, best known for her groundbreaking work with chimpanzees in Tanzania&#8217;s Gombe Stream National"
-    ],
-    "image_url": "",
-    "titles": [
-      "Jane Goodall, conservationist and chimpanzee expert, dies aged 91",
-      "Jane Goodall, who transformed understanding of humankind by studying chimpanzees, dies at 91",
-      "Jane Goodall, chimpanzee researcher and conservationist, is dead at 91",
-      "Renowned British chimpanzee expert Jane Goodall dies at 91",
-      "Renowned primatologist Dr. Jane Goodall dead at 91"
-    ],
-    "score_components": {
-      "magnitude": 0.944,
-      "recency": 0.777,
-      "consensus": 0.995,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.795,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Renowned British primatologist and conservationist Jane Goodall, celebrated for her groundbreaking research on chimpanzees and advocacy for wildlife, passed away at the age of 91 on October 1, as announced by her institute.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: research",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Israeli Navy Stops Flotilla Near Gaza; Red Cross Halts Gaza Activities",
-    "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Wed, 01 Oct 2025 16:12:53 -0400",
-    "source": "NPR",
-    "sources": [
-      "Deutsche Welle",
-      "NPR",
-      "BBC",
-      "Al Jazeera"
+      "Deutsche Welle"
     ],
     "domains": [
       "www.dw.com",
-      "www.npr.org",
-      "www.bbc.com",
-      "www.aljazeera.com"
+      "www.aljazeera.com",
+      "www.nytimes.com"
     ],
     "snippets": [
-      "The Global Sumud Flotilla, with Greta Thunberg, Nelson Mandela's grandson and European lawmakers aboard, includes some 50 boats and 500 activists and is carrying a symbolic amount of humanitarian aid.",
-      "Climate activist Greta Thunberg is among activists on the Global Sumud Flotilla being taken to an Israeli port.",
-      "Activists on the Global Sumud Flotilla shared a video they said showed Israeli vessels intercepting the fleet.",
-      "The Israeli Navy intercepted the Global Sumud Flotilla from advancing to the Gaza coast. Meanwhile, the Red Cross says Israel's offensive has \"forced\" it to pause activities in Gaza City. DW has more."
+      "Some families say they&#039;re still holding out hope their loved ones are alive as authorities shift to recovery operation.",
+      "Nearly 60 students are still missing after a school collapsed in Java. Rescuers have switched to using heavy machines to clear out debris as the clock is running out to find survivors.",
+      "Rescuers saved five more students from under the building on Thursday but said they would end the search three days after the deadly accident."
     ],
     "image_url": "",
     "titles": [
-      "Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla",
-      "Israeli naval ships intercept Gaza-bound flotilla",
-      "Israel begins to intercept Global Sumud Flotilla vessels",
-      "Middle East: Israel intercepts Gaza aid flotilla"
+      "‘No signs of life’: Hopes turn to anguish in Indonesia school collapse",
+      "Indonesia school collapse: 'No signs of life' detected",
+      "No More Signs of Life From Rubble of Collapsed School in Indonesia"
     ],
     "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.779,
-      "consensus": 0.908,
-      "constructiveness": 0.1,
-      "proximity": 0.75
-    },
-    "score": 0.787,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The Israeli Navy intercepted the Global Sumud Flotilla, which was heading towards the Gaza coast. The flotilla had entered what it described as a \"high-risk zone.\" Following the interception, the Red Cross announced a pause in its activities in Gaza City due to Israel's offensive. This development was reported by activists on the flotilla and covered by DW.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: development",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "PSG Clinches 2-1 Victory Over Barcelona with Last-Minute Goal by Ramos",
-    "domain": "sports",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Wed, 01 Oct 2025 21:36:08 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "The Guardian",
-      "CBS Sports",
-      "Yahoo Sports",
-      "Al Jazeera"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "psgtalk.com",
-      "www.cbssports.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "Ramos&#039; 90th minute goal capped off a come from behind win at Barcelona in the league phase of the UEFA Champions League.",
-      "The PSG striker revealed how the Bayern Munich man's goal vs. Barcelona helped him on Wednesday",
-      "PSG came from behind to claim a dramatic 2-1 win over FC Barcelona on Wednesday night at Montjuïc Stadium. Barcelona struck first, but two late goals propelled PSG to take all three points.Ferran Tor...",
-      "<p>The goal that won this game was a portrait of how it had been played: all in, all the way to the end. A move that started deep in Paris Saint-Germain’s half with Lee Kang-in chased backwards, turning, escaping and going at the same opponents who had been pursuing him, ended in the Barcelona penal"
-    ],
-    "image_url": "",
-    "titles": [
-      "PSG defeat Barcelona in Champions League after late Goncalo Ramos winner",
-      "How a Harry Kane Champions League goal played a big role in Goncalo Ramos's winner for PSG at Barcelona",
-      "Ferran Torres Responds After Barcelona Suffer Champions League Loss to PSG",
-      "Paris Saint-Germain stun Barcelona with late Gonçalo Ramos winner"
-    ],
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.802,
-      "consensus": 0.908,
-      "constructiveness": 0.0,
+      "magnitude": 0.847,
+      "recency": 0.934,
+      "consensus": 0.789,
+      "constructiveness": 0.2,
       "proximity": 0.5
     },
-    "score": 0.75,
+    "score": 0.751,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "In a UEFA Champions League match, PSG secured a dramatic come-from-behind 2-1 victory against FC Barcelona at Montjuïc Stadium, with a decisive 90th-minute goal by Ramos. The win was highlighted by a pivotal moment involving a strategic play from deep within PSG's half, leading to the winning goal. This result was part of the league phase of the competition.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
+    "summary": "Nearly 60 students remain missing after a school in Java collapsed. Rescue efforts have transitioned to recovery, with heavy machinery now being used to remove debris. Despite this shift, some families maintain hope for their loved ones' survival. Five students were rescued on Thursday, but authorities plan to conclude the search operations three days post-accident.",
+    "constructiveness_score": 0.2,
+    "constructiveness_reason": "keywords: effort, plan",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Oktoberfest Reopens After Closure Due to Bomb Threat Linked to Domestic Dispute",
+    "title": "Flotilla to Gaza, Including Greta Thunberg, Intercepted by Israel",
     "domain": "general",
-    "source_domain": "www.dw.com",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "2025-10-01T14:42:00Z",
-    "source": "Deutsche Welle",
+    "published": "Thu, 02 Oct 2025 11:23:17 GMT",
+    "source": "BBC",
     "sources": [
-      "Deutsche Welle",
       "New York Times",
-      "Washington Post",
-      "CityNews"
+      "Al Jazeera",
+      "BBC"
     ],
     "domains": [
-      "www.washingtonpost.com",
-      "www.dw.com",
+      "www.bbc.com",
       "www.nytimes.com",
-      "ottawa.citynews.ca"
+      "www.aljazeera.com"
     ],
     "snippets": [
-      "Explosions and a fire at a detached house in northern Munich triggered a large police response. The suspect was found injured and later died, but authorities found no link or threat to the Oktoberfest beer festival.",
-      "Hours after a written threat, by a suspect who killed himself, authorities said the beer celebration would reopen after a search of the grounds found no explosives.",
-      "The German authorities said the decision to close the festival grounds was taken after an earlier explosion in a residential area of the city that appeared linked to a domestic dispute.",
-      "MUNICH (AP) — The Oktoberfest fairgrounds closed for several hours Wednesday as police conducted a security sweep of the famed beer festival due to a bomb threat by a suspect linked to an explosion across town in northern Munich. Police in Bavaria, the state where Munich is located, said the suspect"
+      "Four people were injured in a car and stabbing attack on the holiest day in the Jewish religious calendar.",
+      "Global Sumud Flotilla had been pressing forward with its mission to break Israel&#039;s siege of Gaza.",
+      "The Israeli government said it had detained activists onboard boats trying to take humanitarian goods to the enclave."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5581/live/de8d0720-9f80-11f0-928c-71dbb8619e94.jpg",
     "titles": [
-      "Oktoberfest back on after Munich bomb scare",
-      "Oktoberfest in Munich cleared to reopen after bomb threat",
-      "Bomb Threat Delays Oktoberfest in Munich",
-      "Police say Oktoberfest reopens after a security sweep due to a bomb threat"
+      "What we know so far",
+      "Israel intercepts Gaza Sumud flotilla vessels: What we know so far",
+      "The Global Sumud Flotilla Is Approaching Gaza. Here’s What to Know."
     ],
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.695,
-      "consensus": 0.908,
+      "magnitude": 0.847,
+      "recency": 0.963,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.728,
+    "score": 0.736,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "The Oktoberfest beer festival in Munich, Germany, was temporarily closed due to a bomb threat linked to an explosion and fire in a residential area, suspected to be connected to a domestic dispute. The threat came from a suspect who later committed suicide. After a thorough security sweep of the festival grounds revealed no explosives, authorities announced the event would reopen on Wednesday evening. The closure was a precautionary measure to ensure public safety.",
+    "summary": "The Global Sumud Flotilla, aiming to break Israel's blockade of Gaza and deliver aid, has faced challenges as 13 of its boats were intercepted. The flotilla, which includes activist Greta Thunberg, continues its mission toward the Palestinian enclave despite these setbacks.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -245,41 +233,39 @@
   {
     "title": "Israeli Navy Intercepts Ships with Activists, Including Thunberg, Near Gaza",
     "domain": "general",
-    "source_domain": "www.aljazeera.com",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Wed, 01 Oct 2025 22:54:42 +0000",
-    "source": "Al Jazeera",
+    "published": "Thu, 02 Oct 2025 09:57:18 GMT",
+    "source": "BBC",
     "sources": [
+      "Al Jazeera",
       "The Guardian",
-      "Washington Post",
-      "Al Jazeera"
+      "BBC"
     ],
     "domains": [
       "www.theguardian.com",
-      "www.washingtonpost.com",
+      "www.bbc.com",
       "www.aljazeera.com"
     ],
     "snippets": [
+      "South Africa and Turkey have criticised the incident in international waters. Israel says those on board are safe.",
       "At least six ships have been boarded by the Israeli navy so far and more interceptions are expected to take place.",
-      "<p>Greta Thunberg arrested and taken into custody after six of the flotilla’s boats were boarded</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates\">Middle East crisis live</a></p></li></ul><p>A number of ",
-      "<p>Israeli foreign ministry posts video of Thunberg’s arrest; vessels carrying about 500 activists intercepted about 75 miles off coast of war-torn territory</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/oct/02/gaza-aid-flotilla-greta-thunberg-what-we-know-so-far-israel-interception-",
-      "Organizers said 20 boats have been intercepted and at least 200 passengers detained as the convoy presses on toward Gaza to try to break the Israeli blockade."
+      "<p>Israeli foreign ministry posts video of Thunberg’s arrest; vessels carrying about 500 activists intercepted about 75 miles off coast of war-torn territory</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/oct/02/gaza-aid-flotilla-greta-thunberg-what-we-know-so-far-israel-interception-"
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c5/live/96415960-9f5f-11f0-92db-77261a15b9d2.jpg",
     "titles": [
+      "Israel intercepts Gaza flotilla and detains activists including Greta Thunberg",
       "Israeli forces board Gaza flotilla, detain Greta Thunberg, other activists",
-      "Israeli naval forces board pro-Palestinian flotilla 75 miles from Gaza",
-      "Gaza aid flotilla: more than a dozen vessels intercepted by Israeli forces; Greta Thunberg arrested – live",
-      "Israel intercepts Gaza aid flotilla, activist Greta Thunberg detained"
+      "Gaza aid flotilla: around 40 vessels intercepted by Israeli forces; Greta Thunberg arrested – live"
     ],
     "score_components": {
       "magnitude": 0.847,
-      "recency": 0.824,
+      "recency": 0.934,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.709,
+    "score": 0.731,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Israeli navy has intercepted at least six ships carrying around 500 activists, including Greta Thunberg, about 75 miles off the coast of Gaza. Thunberg has been arrested and taken into custody. This action is part of a broader conflict that has resulted in at least 73 Palestinian deaths in Gaza as Israeli forces arrest activists. Further interceptions are anticipated.",
@@ -288,44 +274,40 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Social Security Payments Unaffected by Shutdown; Neptune Insurance Goes Public",
-    "domain": "business",
-    "source_domain": "news.google.com",
+    "title": "Canada Eyes Quebec LNG Facility for Europe Exports, Federal Note Reveals",
+    "domain": "general",
+    "source_domain": "globalnews.ca",
     "location": "national",
-    "published": "Wed, 01 Oct 2025 22:13:48 GMT",
-    "source": "Axios",
+    "published": "Thu, 02 Oct 2025 11:07:04 +0000",
+    "source": "Global News",
     "sources": [
-      "MarketWatch",
-      "CNBC",
-      "Axios"
+      "CityNews",
+      "Global News"
     ],
     "domains": [
-      "www.marketwatch.com",
-      "news.google.com",
-      "www.cnbc.com"
+      "ottawa.citynews.ca",
+      "globalnews.ca"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbG1aZHpQTUl3QmNnUmE0REVPMVRBMXNLNXlCSFBORGxDdjR1aDI1MnJUem44bTF1Nko1M1UxeUxVeVJULUh1cmkxWGx6WVRqVmx3eG9SMk81d0d5Mks1b0gwc2pkMnVFQ0hYMDlXby1yMHBuTDIxTkRWdkNIaXNrRXdxTnZPSG9feDBmTVBjSno0THM0SjFSaUtmQ0hEa1dE?oc=5\" target=\"_blank\">What the sh",
-      "Social Security benefit payments will still go out on time, according to the agency. But certain services may not be available.",
-      "It’s a bad time for the data to disappear."
+      "Senior federal officials touted a proposed liquefied natural gas facility in Quebec as having the potential to export “substantial volumes” of LNG to Europe, documents show.",
+      "MONTREAL — Senior federal officials touted a proposed liquefied natural gas facility in Quebec as having the potential to export “substantial volumes” of LNG to Europe, documents show. The revelation appears in a federal briefing note prepared in May after Marinvest Energy Canada, a subsidiary of a "
     ],
-    "image_url": "",
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/10/f8b71e167d5a5b85e5dcd3fa91831cb19bda843c7a5471faf1cb834059c1e116.jpg?quality=65&strip=all",
     "titles": [
-      "What the shutdown means for Washington state - Axios",
-      "What the government shutdown means for Social Security benefits",
-      "Government shutdown means Fed lacks crucial data as it considers rate cuts"
+      "Federal officials were interested in proposed Quebec LNG project, documents show",
+      "Federal officials were interested in proposed Quebec LNG project, documents show"
     ],
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.796,
-      "consensus": 0.789,
+      "magnitude": 0.735,
+      "recency": 0.977,
+      "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 1.0
     },
-    "score": 0.703,
-    "summary_source": "cache",
+    "score": 0.7,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Social Security payments will continue as scheduled despite the government shutdown, which may cause travel delays, park closures, and disruptions in Social Security customer services. Neptune Insurance, the largest private flood insurer in the U.S., went public on the New York Stock Exchange.",
+    "summary": "Senior federal officials in Canada have highlighted a proposed liquefied natural gas (LNG) facility in Quebec for its potential to export significant volumes of LNG to Europe, according to a federal briefing note prepared in May. The facility is associated with Marinvest Energy Canada, a subsidiary.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -338,34 +320,34 @@
     "published": "2025-10-01T18:26:00Z",
     "source": "Deutsche Welle",
     "sources": [
-      "Deutsche Welle",
-      "The Guardian",
-      "New Scientist"
+      "CityNews",
+      "New Scientist",
+      "Deutsche Welle"
     ],
     "domains": [
-      "www.theguardian.com",
       "www.dw.com",
-      "www.newscientist.com"
+      "www.newscientist.com",
+      "ottawa.citynews.ca"
     ],
     "snippets": [
       "The Jane Goodall Institute said the renowned chimpanzee researcher died of natural causes at the age of 91.",
       "Acclaimed conservationist and chimpanzee expert Jane Goodall has died, leaving behind a legacy of empathy for primates and the natural world",
-      "<p>Jane Goodall Institute says ‘tireless advocate’ for natural world died in California during US speaking tour</p><p>The world-renowned primatologist Jane Goodall has died at the age of 91, her institute has said.</p><p>The Jane Goodall Institute announced that she had died of natural causes while "
+      "Dr. Jane Goodall, one of the world&#8217;s most beloved animal behaviorists and a pioneer in primatology has died at the age of 91, the Jane Goodall Institute confirmed Wednesday. The British scientist, best known for her groundbreaking work with chimpanzees in Tanzania&#8217;s Gombe Stream National"
     ],
     "image_url": "",
     "titles": [
       "Primatologist Jane Goodall has died at the age of 91, her institute has said",
       "Jane Goodall, dogged advocate for the natural world, has died aged 91",
-      "Jane Goodall, world-renowned primatologist, dies aged 91"
+      "Renowned primatologist Dr. Jane Goodall dead at 91"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.751,
+      "recency": 0.69,
       "consensus": 0.789,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.697,
+    "score": 0.685,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Jane Goodall, the celebrated primatologist known for her pioneering research on chimpanzee behavior, has died at the age of 91. The Jane Goodall Institute announced she passed away of natural causes during a speaking tour in the US. Goodall, a British scientist, transformed our understanding of apes and was a tireless advocate for the natural world.",
@@ -374,44 +356,44 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Three Arrested in Berlin for Alleged Plot Against Jewish Targets",
-    "domain": "general",
-    "source_domain": "www.aljazeera.com",
+    "title": "Social Security Payments Unaffected by Shutdown; Neptune Insurance Goes Public",
+    "domain": "business",
+    "source_domain": "www.bbc.co.uk",
     "location": "global",
-    "published": "Wed, 01 Oct 2025 18:19:42 +0000",
-    "source": "Al Jazeera",
+    "published": "Wed, 01 Oct 2025 19:29:00 GMT",
+    "source": "BBC",
     "sources": [
-      "Deutsche Welle",
-      "Washington Post",
-      "Al Jazeera"
+      "Fortune",
+      "CNBC",
+      "BBC"
     ],
     "domains": [
-      "www.washingtonpost.com",
-      "www.dw.com",
-      "www.aljazeera.com"
+      "www.bbc.co.uk",
+      "fortune.com",
+      "www.cnbc.com"
     ],
     "snippets": [
-      "The men are suspected of of being &#039;foreign operatives&#039; for Hamas and will appear in court Thursday, prosecutors say.",
-      "Authorities said two Germans and one Lebanese national had procured weapons to be used in violent acts targeting Israeli or Jewish institutions in Germany.",
-      "Police seized weapons and ammunition while arresting the three men in Berlin, Germany’s federal prosecutor’s office said."
+      "And what’s behind Trump’s Gaza peace plan?",
+      "Social Security benefit payments will still go out on time, according to the agency. But certain services may not be available.",
+      "Also: All the news and watercooler chat from Fortune."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
     "titles": [
-      "Germany arrests three men suspected of targeting Jewish institutions",
-      "Germany arrests 3 suspected Hamas members",
-      "Germany arrests three suspected Hamas members in plot to attack Jews"
+      "Americanswers… on 5 Live! What next after US government shutdown?",
+      "What the government shutdown means for Social Security benefits",
+      "‘Whoa! Look at this!’ What CEOs are saying about the government shutdown"
     ],
     "score_components": {
       "magnitude": 0.847,
-      "recency": 0.749,
+      "recency": 0.691,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.694,
+    "score": 0.682,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Two Germans and one Lebanese national, suspected of being Hamas operatives, were arrested in Berlin for planning violent acts against Israeli or Jewish institutions in Germany. Authorities seized an AK-47, pistols, and ammunition. They are set to appear in court Thursday, according to prosecutors.",
+    "summary": "Social Security payments will continue as scheduled despite the government shutdown, which may cause travel delays, park closures, and disruptions in Social Security customer services. Neptune Insurance, the largest private flood insurer in the U.S., went public on the New York Stock Exchange.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -450,12 +432,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.916,
+      "recency": 0.843,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.688,
+    "score": 0.674,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "In an NHL pre-season game on Wednesday, the Vancouver Canucks decisively defeated the Calgary Flames 8-1. Quinn Hughes contributed significantly with a goal and two assists, while Max Sasson scored twice for the Canucks.",
@@ -464,79 +446,81 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "EU Leaders Discuss Hybrid War with Russia, Support for Ukraine in Denmark",
+    "title": "Gen Z Protests in Morocco, Another African Nation Demand Reforms",
     "domain": "general",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Thu, 02 Oct 2025 07:42:38 +0000",
-    "source": "Al Jazeera",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Thu, 02 Oct 2025 05:01:00 -0400",
+    "source": "NPR",
     "sources": [
-      "Deutsche Welle",
-      "Al Jazeera"
+      "NPR",
+      "Deutsche Welle"
     ],
     "domains": [
       "www.dw.com",
-      "www.aljazeera.com"
+      "www.npr.org"
     ],
     "snippets": [
-      "Denmark PM Mette Frederiksen says that Europe is in a hybrid war waged by Russia, and Ukraine is first line of defence.",
-      "EU leaders met in Denmark to discuss how best to counter drones after mysterious flights in the Nordic country. Ways to fund Ukraine during Russia's invasion were also a focus of the meeting. DW has more."
+      "Gen Z-led protests in two diverse African countries highlight frustration over years of poor governance. Fueled by social media, these youth movements are demanding accountability.",
+      "Young people in Morocco are frustrated with social inequalities and demanding better education and health care."
     ],
     "image_url": "",
     "titles": [
-      "Zelenskyy meeting European leaders in Denmark to rally support for Ukraine",
-      "European leaders in Denmark talk drones, Ukraine funding"
+      "From Madagascar to Morocco: Gen Z protests shake Africa",
+      "Morocco: Gen Z protests turn violent, two killed"
     ],
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.99,
+      "magnitude": 0.735,
+      "recency": 0.936,
       "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
     "score": 0.667,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "At a meeting in Denmark, EU leaders, including Danish Prime Minister Mette Frederiksen, discussed the ongoing conflict involving Russia. Frederiksen described Europe as being in a hybrid war with Russia, identifying Ukraine as the front line of defense. The meeting focused on countering drone threats after mysterious flights in the Nordic region and exploring funding options for Ukraine amidst the Russian invasion.",
+    "summary": "Gen Z-led protests in Morocco and another African country are driven by frustration over poor governance. Activists, using social media for mobilization, demand accountability, better education, and health care. These movements highlight the youth's demand for social equality.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Italian Unions Strike in Global Protest Against Israel's Flotilla Action",
+    "title": "Gov Shutdown Continues: Both Parties Blame Each Other, VP Misleads on Cause",
     "domain": "general",
-    "source_domain": "www.aljazeera.com",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Thu, 02 Oct 2025 05:41:51 +0000",
-    "source": "Al Jazeera",
+    "published": "Thu, 02 Oct 2025 10:40:51 GMT",
+    "source": "BBC",
     "sources": [
       "The Guardian",
-      "Al Jazeera"
+      "BBC"
     ],
     "domains": [
       "www.theguardian.com",
-      "www.aljazeera.com"
+      "www.bbc.com"
     ],
     "snippets": [
-      "Italian unions call for general strike as global protests grow and multiple governments criticise Israel.",
-      "<p>Thousands marched in cities across the world following the interception of the flotilla and detainment of activists including Greta Thunberg</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates#top-of-blo"
+      "As a bitter standoff between Republicans and Democrats plays out, there is little sign that either side is willing to budge.",
+      "<p>Democrats reject ‘Republican lies’ as both parties try to pin the shutdown blame on each other. Plus, Israeli naval forces board pro-Palestinian flotilla</p><p>Good morning.</p><p>The vice-president, JD Vance, used false claims to blame Democrats for the government shutdown as the White House war",
+      "<p>Vice-president falsely says Democrats calling for billions for ‘healthcare for illegal aliens’ as funding deadlock continues</p><p>JD Vance, the US vice-president, used false claims to blame Democrats for the government shutdown as the White House warned that worker layoffs were imminent.</p><p>F"
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/778f/live/c54a8ea0-9f16-11f0-92db-77261a15b9d2.jpg",
     "titles": [
-      "How the world is responding to Israel’s interception of the Gaza flotilla",
-      "Israel’s Gaza flotilla interception triggers protests, diplomatic expulsions and calls for strikes"
+      "White House says layoffs 'imminent' with no end to shutdown in sight",
+      "Vance uses false claims to blame shutdown on Democrats as White House touts imminent layoffs | First Thing",
+      "Vance uses false claims to pin shutdown blame on Democrats as White House warns of layoffs"
     ],
     "score_components": {
-      "magnitude": 0.795,
+      "magnitude": 0.755,
       "recency": 0.949,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.666,
+    "score": 0.652,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Italian unions have called for a general strike, joining global protests after Israel intercepted a flotilla, detaining activists like Greta Thunberg. Thousands have marched worldwide, with multiple governments criticizing Israel's actions.",
+    "summary": "In the midst of a government shutdown, Republicans and Democrats are locked in a standoff, with neither side showing willingness to compromise. Vice-President JD Vance falsely blamed Democrats for the shutdown, accusing them of demanding billions for healthcare for undocumented immigrants. Meanwhile, both parties are attempting to shift the blame onto each other, as the White House warns of impending worker layoffs.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -553,8 +537,8 @@
       "ESPN"
     ],
     "domains": [
-      "www.sportsnet.ca",
-      "www.espn.com"
+      "www.espn.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
       "Yoshinobu Yamamoto struck out nine to lead the Dodgers past the Reds and into the NLDS, where Shohei Ohtani will start the opener against the Phillies.",
@@ -567,13 +551,13 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.929,
+      "recency": 0.854,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.666,
-    "summary_source": "gpt",
+    "score": 0.651,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Yoshinobu Yamamoto led the Dodgers to victory over the Reds with nine strikeouts, advancing them to the NLDS. Shohei Ohtani is set to make his post-season pitching debut in Game 1 against the Phillies.",
     "constructiveness_score": 0.0,
@@ -592,8 +576,8 @@
       "ESPN"
     ],
     "domains": [
-      "www.sportsnet.ca",
-      "www.espn.com"
+      "www.espn.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
       "One day after he was benched, Jazz Chisholm turned in a season-saving performance for the Yankees, making a run-saving play with his glove and scoring the tiebreaking run in Wednesday's do-or-die Game 2 against the Red Sox.",
@@ -608,13 +592,13 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.929,
+      "recency": 0.854,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.666,
-    "summary_source": "gpt",
+    "score": 0.651,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Jazz Chisholm Jr. delivered a crucial performance in Game 2 for the Yankees, making a key defensive play and scoring the tiebreaking run in a 4-3 victory over the Red Sox. This win, following his benching in Game 1, helped the Yankees force a decisive Game 3. Ben Rice and Austin Wells also contributed significantly, with Rice hitting a solo homer and Wells driving in the game-winning run.",
     "constructiveness_score": 0.0,
@@ -633,8 +617,8 @@
       "ESPN"
     ],
     "domains": [
-      "news.google.com",
-      "www.espn.com"
+      "www.espn.com",
+      "news.google.com"
     ],
     "snippets": [
       "Veteran cornerback Xavien Howard, 32, informed the Colts of his decision to retire just days after his much-criticized performance against the Rams.",
@@ -647,12 +631,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.929,
+      "recency": 0.854,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.666,
+    "score": 0.651,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Veteran cornerback Xavien Howard, aged 32, has announced his retirement from professional football, just days following a criticized performance against the Rams. This decision was communicated to his team, the Colts, marking the end of his career in the NFL.",
@@ -668,12 +652,12 @@
     "published": "Thu, 2 Oct 2025 00:39:41 EST",
     "source": "ESPN",
     "sources": [
-      "ESPN",
-      "CBS Sports"
+      "CBS Sports",
+      "ESPN"
     ],
     "domains": [
-      "www.cbssports.com",
-      "www.espn.com"
+      "www.espn.com",
+      "www.cbssports.com"
     ],
     "snippets": [
       "Nashville SC beat Austin FC 2-1 in final of the U.S. Open Cup on Wednesday night at Q2 Stadium to win the team's first-ever major trophy.",
@@ -686,12 +670,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.929,
+      "recency": 0.854,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.666,
+    "score": 0.651,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Nashville SC won their first major trophy by defeating Austin FC 2-1 in the U.S. Open Cup final on Wednesday night at Q2 Stadium. Sam Surridge scored the decisive goal with a penalty in the 60th minute, securing the victory for Nashville in the historic knockout tournament, which has been held since 1914.",
@@ -700,196 +684,155 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Las Vegas, Phoenix Vie for 2025 WNBA Title Starting Friday",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
+    "title": "Buffett's Berkshire Acquires OxyChem for $9.7B in Potential Final Deal",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
     "location": "national",
-    "published": "Thu, 2 Oct 2025 00:19:02 EST",
-    "source": "ESPN",
+    "published": "Thu, 02 Oct 2025 11:33:35 GMT",
+    "source": "CNBC",
     "sources": [
-      "ESPN",
-      "CBS Sports"
+      "Financial Post",
+      "CNBC"
     ],
     "domains": [
-      "www.cbssports.com",
-      "www.espn.com"
+      "financialpost.com",
+      "www.cnbc.com"
     ],
     "snippets": [
-      "Las Vegas hosts Phoenix on Friday to open the WNBA Finals. The team whose big three plays the best will win the title.",
-      "It's Las Vegas vs. Phoenix for the 2025 title"
+      "Warren Buffett is staying active even as he gets ready to hand over the CEO reins at the end of this year.",
+      "OMAHA, Neb. (AP) &#8212; Warren Buffett announced his biggest deal in years Thursday with Berkshire Hathaway&#8217;s $9.7 billion acquisition of Occidental Petroleum&#8217;s chemical division. The deal for OxyChem could be Buffett&#8217;s last big deal before he hands over the CEO title to Vice Chai"
     ],
     "image_url": "",
     "titles": [
-      "WNBA Finals first look: How the Aces and Mercury match up",
-      "2025 WNBA Finals: Aces vs. Mercury schedule, prediction, players to watch"
+      "Berkshire Hathaway to buy Occidental's OxyChem for $9.7 billion, in Buffett's biggest deal in three years",
+      "Buffett’s Berkshire Hathaway to pay $9.7 billion for Occidental Petroleum’s OxyChem"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.922,
+      "recency": 0.966,
       "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.664,
-    "summary_source": "cache",
+    "score": 0.648,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Las Vegas and Phoenix are set to compete in the WNBA Finals starting Friday, with the 2025 title at stake. The outcome will likely hinge on which team's top three players perform best.",
+    "summary": "Warren Buffett, nearing the end of his tenure as CEO, announced Berkshire Hathaway's acquisition of Occidental Petroleum's chemical division, OxyChem, for $9.7 billion. This significant transaction, possibly his last major deal as CEO, underscores Buffett's ongoing active role in the company's major decisions.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "London & Valley Water to Cut Debt, Invest More, Cover Pollution Fines",
-    "domain": "general",
+    "title": "Chelsea Qualifies for Champions League Amid Fan-Leadership Tensions",
+    "domain": "sports",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Thu, 02 Oct 2025 07:01:56 GMT",
+    "published": "Thu, 02 Oct 2025 11:27:04 GMT",
     "source": "BBC",
     "sources": [
-      "The Guardian",
+      "Yahoo Sports",
       "BBC"
     ],
     "domains": [
-      "www.theguardian.com",
       "www.bbc.com"
     ],
     "snippets": [
-      "London & Valley Water, a consortium of investors, plans to write off some of the company's huge debts.",
-      "<p>Creditors in control of firm say they will write off loans, invest more and commit to paying pollution fines</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/oct/02/thames-water-creditors-rescue-plan-tesco-profit-markets-business-live-news\">Business live – latest news</a></p>"
+      "Chelsea are back in the Champions League, but relations between parts of the fanbase and the club hierarchy have turned sour.",
+      "Chelsea are back in the Champions League, but relations between parts of the fanbase and the club hierarchy have turned sour."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c6d/live/d88269a0-9f54-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea3/live/c8cd74d0-9a29-11f0-b7a7-6962c574e78f.jpg",
     "titles": [
-      "Thames Water lenders submit rescue plan to stave off collapse",
-      "Thames Water lenders submit new rescue plan to stave off collapse"
+      "Tickets, bots & touts - is Chelsea relationship with fans turning sour?",
+      "Tickets, bots & touts - is Chelsea relationship with fans turning sour?"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.956,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
+      "recency": 0.964,
+      "consensus": 0.571,
+      "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.656,
+    "score": 0.643,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "London & Valley Water, controlled by a consortium of investors, announced plans to reduce the company's significant debts by writing off loans. Additionally, they have committed to investing further in the company and covering any fines related to pollution. This move aims to stabilize the firm's financial health and address environmental concerns.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
+    "summary": "Chelsea has secured a spot in the Champions League, but tensions have risen between some fans and the club's leadership. The situation remains strained as both sides navigate their differences.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Sanders May Join Cleveland Browns QB Lineup This Season",
+    "title": "F1 Singapore Grand Prix Declared 'Heat Hazard' Amid 31C Forecast",
     "domain": "sports",
-    "source_domain": "www.sportingnews.com",
-    "location": "national",
-    "published": "Thu, 02 Oct 2025 07:32:26 +0000",
-    "source": "Yahoo Sports",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Thu, 02 Oct 2025 11:26:31 GMT",
+    "source": "BBC",
     "sources": [
-      "Sports Illustrated",
+      "Yahoo Sports",
+      "BBC"
+    ],
+    "domains": [
+      "www.bbc.com"
+    ],
+    "snippets": [
+      "Formula 1's governing body declares this weekend's Singapore Grand Prix a 'heat hazard' race with temperatures expected to reach 31C.",
+      "Formula 1's governing body declares this weekend's Singapore Grand Prix a 'heat hazard' race with temperatures expected to reach 31C."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8207/live/df9be340-9f79-11f0-9ccd-4dc2d8fa5ad2.jpg",
+    "titles": [
+      "Singapore GP declared F1's first 'heat hazard' race",
+      "Singapore GP declared F1's first 'heat hazard' race"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.964,
+      "consensus": 0.571,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.643,
+    "summary_source": "snippet",
+    "summary_reason": "retry_exhausted",
+    "summary": "Formula 1's governing body declares this weekend's Singapore Grand Prix a 'heat hazard' race with temperatures expected to reach 31C.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Yankees Force Game 3 Against Red Sox; Chisholm Proves Point with Key Performance",
+    "domain": "sports",
+    "source_domain": "www.cbssports.com",
+    "location": "national",
+    "published": "Thu, 02 Oct 2025 05:37:06 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "CBS Sports",
       "Yahoo Sports"
     ],
     "domains": [
-      "news.google.com",
-      "www.sportingnews.com"
+      "www.pinstripealley.com",
+      "www.cbssports.com"
     ],
     "snippets": [
-      "Shedeur Sanders made a fool out of himself and this new update might just be the icing on the cake for another embarrassment that could come his way.",
-      "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2dUVEhmQmZlSjQ2YWNzaHNXRHZyY2dCT0o5SjlnaUZTbngyc0ZiUHZrQTJDRmRRYWlSZnY5TTJYcDJETWNqU1BRT3ZtQzFkTy1SRFhZYWFYYWNEZm5NTTRYaEdWZVY2N2ZGdzZKMGlRZk0xNjB6Q3hFTE4wVVYtMFZmWGFVMVE?oc=5\" target=\"_blank\">Browns Projected QB Depth Chart: Will Shedeu"
+      "A win against the Red Sox Wednesday night forced a do-or-die Game 3",
+      "After riding the pine on Tuesday, the rookie phenom’s first-inning blast was a statement of intent."
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/10/02/1b3c9dcc-03e5-48ae-8de3-fcd123571de5/jazz-getty.png",
     "titles": [
-      "Browns to deliver ultimate embarrassment to CU legend Shedeur Sanders if Dillon Gabriel falters",
-      "Browns Projected QB Depth Chart: Will Shedeur Sanders Back Up Dillon Gabriel? - Sports Illustrated"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.986,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.652,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "There is a possibility that Sanders may play for the Cleveland Browns at some point this season. The team's projected quarterback depth chart is being discussed, with the potential for Sanders to enter the field.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "PPE Firm Fined £122m; UK Asylum Policy Faces Criticism",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Thu, 02 Oct 2025 04:22:48 GMT",
-    "source": "BBC",
-    "sources": [
-      "The Guardian",
-      "BBC"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "The PPE firm ordered to pay £122m over Covid contracts and refugee rights lead Thursday's papers.",
-      "<p>People granted asylum will have to earn right to invite family in plan charities call ‘straight from populist playbook’</p><p>People granted asylum will no longer be given “the golden ticket” of resettlement and family reunion rights, Keir Starmer said, amid deepening concerns from charities that"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1880/live/cab34e00-9f1a-11f0-b741-177e3e2c2fc7.jpg",
-    "titles": [
-      "The Papers: 'Golden ticket asylum rights to end' and 'Pay back the money, Mr Mone'",
-      "Starmer to end asylum ‘golden ticket’ of resettlement and family reunion rights"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.905,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.646,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "A PPE firm has been ordered to pay £122m over issues with Covid contracts. Additionally, a new proposal requires people granted asylum in the UK to earn the right to invite family members, a plan criticized by charities and described as populist. Keir Starmer highlighted changes to resettlement and family reunion rights amidst concerns.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "NFL Criticized for Bad Bunny Super Bowl Choice, Trump Official Suggests ICE Pres",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Thu, 02 Oct 2025 03:44:05 GMT",
-    "source": "Axios",
-    "sources": [
-      "Forbes",
-      "Axios"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.forbes.com"
-    ],
-    "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE95NUtINmxkUlliMzFCZTV6QV8zSkdyRDV3WllfOEdOWFdIUnlpeGRkVW93U25sYWl6VDZDRGQwZ0RZdkNGd3l6ZUs0RjhnaV93Z3NVc3NTMHAzemVFekRvN1Z5cUNKQmFPYXJnZ0Z2RkhCNXM?oc=5\" target=\"_blank\">Bad Bunny could see ICE at Super Bowl show, Trump official suggests</a>&",
-      "The NFL received right-wing backlash from its decision to have Bad Bunny headline its Super Bowl halftime show."
-    ],
-    "image_url": "",
-    "titles": [
-      "Bad Bunny could see ICE at Super Bowl show, Trump official suggests - Axios",
-      "ICE Will Be On Patrol At Bad Bunny’s ‘Shameful’ Super Bowl Halftime Show, Trump Adviser Says"
+      "Jazz Chisholm Jr., Ben Rice help Yankees stave off MLB playoff elimination in Game 2 after sitting Game 1",
+      "Ben Rice set the tone for the Yankees with his big homer to begin elimination Game 2"
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.893,
+      "recency": 0.872,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.641,
+    "score": 0.636,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "The NFL faced criticism for choosing Bad Bunny to headline the Super Bowl halftime show. A Trump official suggested ICE could be present at the event. The outcome of this situation is ongoing.",
+    "summary": "The Yankees forced a decisive Game 3 against the Red Sox after winning Wednesday night. Jazz Chisholm Jr., who did not start in the opener, played a crucial role in Game 2's victory. Chisholm's performance underscored his belief that he should have been in the lineup for Game 1, proving his point to manager Aaron Boone.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -920,12 +863,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.929,
+      "recency": 0.854,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.641,
+    "score": 0.626,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "EU leaders are discussing implementing new defense measures, including a \"drone wall\" near the Russian border, to strengthen eastern Europe's airspace. This comes in response to recent Russian drone incursions, highlighting the urgency of enhancing security in the area.",
@@ -934,118 +877,40 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Badenoch Vows to Scrap Climate Act for 'Cheap Energy' Amid Party Backlash",
-    "domain": "business",
-    "source_domain": "www.ft.com",
-    "location": "global",
-    "published": "Wed, 01 Oct 2025 23:01:00 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.ft.com"
-    ],
-    "snippets": [
-      "Tory leader reaches out to voters hit by high energy bills but faces backlash from business and within the party",
-      "<p>Tory leader says she would replace it with ‘cheap energy’ strategy, ending decades-long consensus on climate</p><p>Kemi Badenoch has vowed to repeal the Climate Change Act if the Conservatives win the next election, doing away with controls on greenhouse gas emissions and dismantling what has bee"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4b43ee08-c598-48b9-96d4-3c5bb626a08f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Badenoch pledges to ditch flagship UK climate change law",
-      "Kemi Badenoch vows to repeal Climate Change Act"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.809,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.627,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Tory leader Kemi Badenoch promises to repeal the Climate Change Act and introduce a 'cheap energy' strategy if elected, aiming to lower energy bills. This plan involves removing greenhouse gas emission controls, sparking backlash from businesses and members within her party.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Supreme Court Blocks Trump's Bid to Dismiss Fed's Cook Amid Fraud Claims",
+    "title": "NFL Criticized for Bad Bunny Super Bowl Choice, Trump Official Suggests ICE Pres",
     "domain": "business",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Wed, 01 Oct 2025 21:22:02 GMT",
+    "published": "Thu, 02 Oct 2025 02:48:45 GMT",
     "source": "Axios",
     "sources": [
-      "CNBC",
+      "Forbes",
       "Axios"
     ],
     "domains": [
       "news.google.com",
-      "www.cnbc.com"
+      "www.forbes.com"
     ],
     "snippets": [
-      "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA2cnJlZ3pzUFl1b3Z0MXdHbFJzN2o3UndHdEFwb0pUVmg3dTd5ZU5pSnYtVnRVSWtMRWh6VXFYbHN0VFh0SFgwV1VnT1MzLUwtaVpjYjk3cjVMcVVPNEZoOTRITWVBWkNsOXRn?oc=5\" target=\"_blank\">Supreme Court says Fed governor Cook can remain in job pending arguments</a>&nbsp;&",
-      "President Donald Trump has sought to fire Federal Reserve Governor Lisa Cook, citing claims that she committed mortgage fraud in connection with two homes."
+      "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE95NUtINmxkUlliMzFCZTV6QV8zSkdyRDV3WllfOEdOWFdIUnlpeGRkVW93U25sYWl6VDZDRGQwZ0RZdkNGd3l6ZUs0RjhnaV93Z3NVc3NTMHAzemVFekRvN1Z5cUNKQmFPYXJnZ0Z2RkhCNXM?oc=5\" target=\"_blank\">Bad Bunny could see ICE at Super Bowl show, Trump official suggests</a>&",
+      "The NFL received right-wing backlash from its decision to have Bad Bunny headline its Super Bowl halftime show."
     ],
     "image_url": "",
     "titles": [
-      "Supreme Court says Fed governor Cook can remain in job pending arguments - Axios",
-      "Supreme Court lets Fed Governor Lisa Cook keep job pending January oral argument"
+      "Bad Bunny could see ICE at Super Bowl show, Trump official suggests - Axios",
+      "ICE Will Be On Patrol At Bad Bunny’s ‘Shameful’ Super Bowl Halftime Show, Trump Adviser Says"
     ],
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.782,
+      "magnitude": 0.755,
+      "recency": 0.805,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.625,
+    "score": 0.623,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "The Supreme Court has temporarily halted President Trump's attempt to dismiss Federal Reserve Governor Lisa Cook, amidst allegations of mortgage fraud. This decision preserves the central bank's independence for now and marks a significant moment as it's the first instance of a president attempting to fire a Fed official. Cook will maintain her position pending further court deliberations.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "US Government Acquires 10% Stake in Major Lithium Mine Projects",
-    "domain": "technology",
-    "source_domain": "www.aljazeera.com",
-    "location": "global",
-    "published": "Wed, 01 Oct 2025 18:23:59 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "The Verge",
-      "Al Jazeera"
-    ],
-    "domains": [
-      "www.theverge.com",
-      "www.aljazeera.com"
-    ],
-    "snippets": [
-      "Vancouver-based Lithium Americas is developing one of world&#039;s largest lithium mines in northern Nevada.",
-      "Donald Trump’s administration is taking a 5 percent equity ownership of mining company Lithium Americas, on top of another 5 percent stake in the company’s joint mining project with GM in Nevada, the Department of Energy announced yesterday. The mine at Thacker Pass is expected to become the largest"
-    ],
-    "image_url": "",
-    "titles": [
-      "US takes a stake in another firm, this time a large lithium mine",
-      "US government takes equity stake in one of the world’s largest lithium mines"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.75,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.605,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The U.S. Department of Energy, under Donald Trump's administration, acquired a 5% equity stake in Lithium Americas, a Vancouver-based company developing one of the world's largest lithium mines in northern Nevada. Additionally, the government secured another 5% stake in the company's joint venture with GM at the same location, Thacker Pass, which is anticipated to become the largest lithium mine.",
+    "summary": "The NFL faced criticism for choosing Bad Bunny to headline the Super Bowl halftime show. A Trump official suggested ICE could be present at the event. The outcome of this situation is ongoing.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1058,8 +923,8 @@
     "published": "Wed, 01 Oct 2025 17:15:51 GMT",
     "source": "The Guardian",
     "sources": [
-      "The Guardian",
-      "Forbes"
+      "Forbes",
+      "The Guardian"
     ],
     "domains": [
       "www.theguardian.com",
@@ -1076,15 +941,52 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.718,
+      "recency": 0.66,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.599,
-    "summary_source": "gpt",
+    "score": 0.587,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "At Paris Fashion Week, Northern Irish designer's debut for Dior, aimed at revitalizing the brand and the fashion industry, was highly anticipated. The event, attended by Oscar winners Mikey Madison and Charlize Theron, marked a significant moment as the designer successfully merged Dior's women's and men's collections, enhancing the brand's identity and equity.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Samsung, SK Hynix Partner to Boost AI Chips, Stocks Surge",
+    "domain": "business",
+    "source_domain": "www.cnbc.com",
+    "location": "national",
+    "published": "Thu, 02 Oct 2025 08:46:31 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC"
+    ],
+    "domains": [
+      "www.cnbc.com"
+    ],
+    "snippets": [
+      "The partnership will \"focus on increasing the supply of advanced memory chips essential for next-generation AI and expanding data center capacity in Korea.\"",
+      "Heavyweight Samsung Electronics and SK Hynix soared over 4% and 11%, respectively."
+    ],
+    "image_url": "",
+    "titles": [
+      "SK Hynix shares hit 25-year high, Samsung also surges as chipmakers partner with OpenAI",
+      "South Korea's Kospi hits record high as Samsung and SK Hynix soar on OpenAI partnership"
+    ],
+    "score_components": {
+      "magnitude": 0.393,
+      "recency": 0.912,
+      "consensus": 0.35,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.457,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Samsung Electronics and SK Hynix announced a partnership aimed at boosting the supply of advanced memory chips for AI and expanding data center capacity in Korea. Following the announcement, Samsung's stock rose over 4%, while SK Hynix's stock increased by more than 11%.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1113,12 +1015,12 @@
     ],
     "score_components": {
       "magnitude": 0.393,
-      "recency": 0.776,
+      "recency": 0.713,
       "consensus": 0.35,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.43,
+    "score": 0.418,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "California has become the first state to mandate AI safety transparency from major labs, with Governor Newsom signing SB 53 into law. This requires companies like OpenAI and Anthropic to disclose their safety protocols. Adam Billen from Encode AI commented that attributing the slowing of U.S. competitiveness with China to such laws is \"intellectually dishonest.\"",
