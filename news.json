@@ -7,27 +7,27 @@
     "published": "Sat, 04 Oct 2025 15:14:11 -0400",
     "source": "NPR",
     "sources": [
-      "Al Jazeera",
-      "Forbes",
       "Financial Times",
       "NPR",
+      "BBC",
       "New York Times",
-      "BBC"
+      "Al Jazeera",
+      "Forbes"
     ],
     "domains": [
       "www.aljazeera.com",
-      "www.ft.com",
-      "www.bbc.com",
       "www.npr.org",
-      "www.nytimes.com",
-      "www.forbes.com"
+      "www.forbes.com",
+      "www.bbc.com",
+      "www.ft.com",
+      "www.nytimes.com"
     ],
     "snippets": [
       "Israeli Prime Minister Benjamin Netanyahu said on Saturday that he hopes Hamas will have returned all remaining hostages by Oct. 13.",
       "Hamas agreed to release the hostages and to the idea of handing over governing Gaza to Palestinian technocrats, but did not give a clear response to many other elements.",
       "Hamas accepted parts of US President Trump’s 20-point Gaza ceasefire plan but wants more talks on several key points.",
-      "Israel and Hamas said they would work with President Trump’s plan to end the war, but a number of sticking points could derail efforts to reach a diplomatic breakthrough.",
       "Hamas said it would release all Israeli hostages but wants to negotiate elements of President Trump’s peace plan for Gaza. Adam Rasgon, a reporter for The New York Times in Jerusalem, explains where negotiations stand.",
+      "Israel and Hamas said they would work with President Trump’s plan to end the war, but a number of sticking points could derail efforts to reach a diplomatic breakthrough.",
       "US president warns militant group that it has limited time to seal a deal to end the conflict",
       "Israel and Hamas announced they’ve agreed to parts of Trump’s plan to end the war."
     ],
@@ -36,20 +36,20 @@
       "Trump urges Hamas to 'move quickly' on Gaza peace plan",
       "Shock in Gaza as Trump appears to welcome Hamas response to US peace plan",
       "What we know about Hamas’ response to Trump’s Gaza peace plan",
-      "Trump’s Gaza Peace Plan: What to Know",
       "Hamas Partially Accepts Trump’s Peace Plan",
+      "Trump’s Gaza Peace Plan: What to Know",
       "Trump tells Hamas to ‘move quickly’ on hostage deal",
       "Trump Warns Hamas ‘Must Move Quickly’ To Release Hostages As Part Of His Peace Plan"
     ],
     "score_components": {
       "magnitude": 0.986,
-      "recency": 0.83,
+      "recency": 0.764,
       "consensus": 1.0,
       "constructiveness": 0.1,
       "proximity": 0.75
     },
-    "score": 0.846,
-    "summary_source": "gpt",
+    "score": 0.833,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Israeli Prime Minister Netanyahu expressed hope for the release of all hostages by Hamas by Oct. 13, following partial agreement to President Trump's 20-point Gaza ceasefire plan. While Hamas has agreed to release hostages and discuss governing Gaza with Palestinian technocrats, negotiations on several aspects of the plan remain. Both Israel and Hamas have shown willingness to work towards ending the conflict, but unresolved issues could impede a diplomatic breakthrough. The US President has cautioned Hamas about the limited time available to finalize the deal.",
     "constructiveness_score": 0.1,
@@ -64,25 +64,22 @@
     "published": "Sat, 04 Oct 2025 13:42:19 -0400",
     "source": "NPR",
     "sources": [
-      "Al Jazeera",
-      "Financial Times",
-      "Financial Post",
       "NPR",
-      "The Guardian",
-      "New York Times"
+      "Financial Post",
+      "New York Times",
+      "Al Jazeera",
+      "The Guardian"
     ],
     "domains": [
       "www.aljazeera.com",
-      "www.ft.com",
-      "financialpost.com",
-      "www.theguardian.com",
       "www.npr.org",
-      "www.nytimes.com"
+      "www.nytimes.com",
+      "www.theguardian.com",
+      "financialpost.com"
     ],
     "snippets": [
       "His political comeback put the country on a course away from supporting Ukraine and toward Hungary and Slovakia, which have taken a pro-Russian path.",
       "With most votes tallied, Babis’s ANO party is ahead, but it appears set to fall short of a majority in parliament.",
-      "Return of ANO government risks complicating western support for Ukraine",
       "<p>With Babiš’s victory the Czech Republic looks set to join Hungary and Slovakia in refusing support for Ukraine</p><p>The populist billionaire Andrej Babiš has won the Czech Republic parliamentary elections, preliminary results show, but fallen short of the overall majority.</p><p>This win marks a",
       "The party of Andrej Babis, a billionaire and a skeptic of military support to Ukraine, prevailed in parliamentary elections by focusing on the economy.",
       "Czech billionaire Andrej Babis was on track to return to power after securing a decisive victory in a parliamentary election, pledging to undo four years of austerity and curb military aid to Ukraine."
@@ -91,19 +88,18 @@
     "titles": [
       "Populist billionaire Andrej Babiš wins Czech parliamentary election",
       "Populist billionaire Andrej Babis’s party set to win Czech election",
-      "Eurosceptic Babiš on course to win power in Czech election",
       "Populist billionaire Andrej Babiš wins Czech parliamentary election",
       "Andrej Babis Likely to Return as Czech Prime Minister After Parliamentary Win",
       "Czech Billionaire Set to Return to Power After Election Win"
     ],
     "score_components": {
-      "magnitude": 1.0,
-      "recency": 0.804,
-      "consensus": 1.0,
+      "magnitude": 0.984,
+      "recency": 0.74,
+      "consensus": 0.995,
       "constructiveness": 0.1,
       "proximity": 0.75
     },
-    "score": 0.846,
+    "score": 0.826,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Andrej Babiš's ANO party won the Czech Republic parliamentary elections, according to preliminary results. Despite the victory, ANO did not achieve an overall majority. Babiš's win signals a shift in the Czech Republic's foreign policy, aligning closer with Hungary and Slovakia's stance of limiting support for Ukraine. This marks a significant political comeback for the billionaire, who aims to reverse austerity measures and reduce military aid to Ukraine.",
@@ -119,20 +115,20 @@
     "published": "Sun, 05 Oct 2025 02:14:30 GMT",
     "source": "BBC",
     "sources": [
+      "Axios",
+      "Deutsche Welle",
+      "BBC",
       "Al Jazeera",
       "Fortune",
-      "Deutsche Welle",
-      "Axios",
-      "The Guardian",
-      "BBC"
+      "The Guardian"
     ],
     "domains": [
       "www.aljazeera.com",
-      "fortune.com",
+      "www.dw.com",
       "www.bbc.com",
       "news.google.com",
-      "www.theguardian.com",
-      "www.dw.com"
+      "fortune.com",
+      "www.theguardian.com"
     ],
     "snippets": [
       "The controversial move follows protests over ramped-up immigration enforcement and the shooting of a woman during unrest on Saturday.",
@@ -153,12 +149,12 @@
     ],
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.941,
+      "recency": 0.866,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.838,
+    "score": 0.823,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "After a dispute, the Trump Administration authorized 300 National Guard members to be deployed. This decision followed an ultimatum to Illinois Governor Pritzker from the Department of War, stating he must call up troops or the federal government would intervene.",
@@ -169,28 +165,23 @@
   {
     "title": "Kirk Powers Blue Jays to 10-1 Win Over Yankees in ALDS Opener",
     "domain": "sports",
-    "source_domain": "www.cbssports.com",
+    "source_domain": "globalnews.ca",
     "location": "national",
-    "published": "Sun, 05 Oct 2025 02:27:17 +0000",
-    "source": "CBS Sports",
+    "published": "Sun, 05 Oct 2025 02:59:11 +0000",
+    "source": "Global News",
     "sources": [
       "Sports Illustrated",
-      "CBS Sports",
+      "CityNews",
       "Sportsnet",
-      "Global News",
-      "CityNews"
+      "Global News"
     ],
     "domains": [
+      "ottawa.citynews.ca",
       "globalnews.ca",
-      "www.cbssports.com",
-      "news.google.com",
       "www.sportsnet.ca",
-      "ottawa.citynews.ca"
+      "news.google.com"
     ],
     "snippets": [
-      "New York and Toronto will continue their best-of-five series on Sunday",
-      "Seattle and Detroit will meet for the first time ever in the postseason",
-      "<p>George Kirby takes the mound as he and Cal Raleigh host the Detroit Tigers in Game 1 of their ALDS series. Watch the action on Sportsnet and follow using the MLB Live Tracker. </p>",
       "Vladimir Guerrero Jr. said goodbye to a slump in his opening at-bat Saturday. Alejandro Kirk used his first swing to show that his bat remained as hot as ever.",
       "Alejandro Kirk had his second straight two-homer game to power the Toronto Blue Jays to a 10-1 rout of the New York Yankees in Game 1 of their American League Division Series on Saturday.",
       "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVpvT0FtNE03Z3lmNmwzdHNYWlVLN3RONndyc29jUjZQUGxlQUFPMzZ2aUlfcm95dWltRUFwMEVNaU9JTFdXUll0dWhHSnh1dEtaZHNSYVdzaFVmTVBNbnFta1B2b0pUSWN6TDhpS1hyNXYtcEhmZDlsQWl6a2JNNHZnLUZqeERJVWc?oc=5\" target=\"_blank\">Blue Jays Make Decision on Bo Bichette f",
@@ -198,11 +189,8 @@
       "<p>The Toronto Blue Jays will have to wait a little longer for Bo Bichette to make his return to the lineup. </p>",
       "The Blue Jays have won 10-1 in Game 1 of the American League Division Series against the New York Yankees. The two teams were playing at Rogers Centre on Saturday for the first game between Toronto and New York in the MLB playoffs. The Yankees and Jays go back to the Rogers Centre in Game [&#8230;]"
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/10/05/cb355b41-5518-4b15-b63c-a3c74998baeb/vlad-getty-3.png",
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/10/334e65d64bf3f421c632c8b0dfeaa08b391088ae42297e108dd7474e3649b3b6_83b187.jpg?quality=65&strip=all",
     "titles": [
-      "Yankees vs. Blue Jays ALDS schedule, prediction, odds, TV channel as AL East foes face off",
-      "Mariners vs. Tigers ALDS schedule, prediction, odds, TV channel with Game 1 set for Saturday",
-      "ALDS on Sportsnet: Tigers vs. Mariners, Game 1",
       "Blue Jays open ALDS with blowout win over Yankees",
       "Blue Jays dump Yankees 10-1 in series opener",
       "Blue Jays Make Decision on Bo Bichette for ALDS Matchup vs. Yankees - Sports Illustrated",
@@ -211,13 +199,13 @@
       "Blue Jays win 10-1 in Game 1 of ALDS vs. Yankees"
     ],
     "score_components": {
-      "magnitude": 0.944,
-      "recency": 0.965,
-      "consensus": 0.995,
+      "magnitude": 0.892,
+      "recency": 0.898,
+      "consensus": 0.908,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 1.0
     },
-    "score": 0.822,
+    "score": 0.819,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Alejandro Kirk led the Toronto Blue Jays to a 10-1 victory over the New York Yankees in Game 1 of their American League Division Series with his second consecutive two-homer game. This win marks the Blue Jays' first post-season victory in nine years, highlighted by a strong performance from Vladimir Guerrero Jr. and effective strategy that exhausted the Yankees' bullpen, utilizing five relievers.",
@@ -226,48 +214,44 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Sanae Takaichi Elected LDP Leader, Set to Be Japan's First Female PM",
-    "domain": "general",
-    "source_domain": "www.bbc.com",
-    "location": "global",
-    "published": "Sat, 04 Oct 2025 22:09:29 GMT",
-    "source": "BBC",
+    "title": "UFC 320: 'Poatan', 'The Machine' Win; Pereira Reclaims Light Heavyweight Title",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Sun, 5 Oct 2025 02:38:32 EST",
+    "source": "ESPN",
     "sources": [
-      "Deutsche Welle",
-      "BBC",
-      "The Guardian",
-      "New York Times"
+      "CBS Sports",
+      "ESPN",
+      "Yahoo Sports"
     ],
     "domains": [
-      "www.theguardian.com",
-      "www.bbc.com",
-      "www.nytimes.com",
-      "www.dw.com"
+      "www.espn.com",
+      "www.cbssports.com",
+      "sports.yahoo.com"
     ],
     "snippets": [
-      "The conservative politician, who sees Margaret Thatcher as an inspiration, is set to be Japan's first female prime minister.",
-      "Conservative hard-liner Takaichi is the former internal affairs minister of Japan. She holds hawkish views on China, and has also visited the controversial Yasukuni Shrine, which memorializes Japan's war dead.",
-      "<p>Margaret Thatcher admirer beat her more moderate rival to become leader of Liberal Democratic party</p><p>Japan is poised to get its first female prime minister after Sanae Takaichi was elected as leader of the governing Liberal Democratic party (LDP) – a victory that should lead to her being ins",
-      "Ms. Takaichi would be Japan’s first female prime minister in a country where women are drastically underrepresented at the highest levels of power."
+      "The main and co-main events of UFC 320 delivered masterful performances.",
+      "'Poatan' and 'The Machine' each added another name to a growing hit list on Saturday night",
+      "Five biggest takeaways from UFC 320, including what's next for Pereira after his spectacular win over Ankalaev to reclaim the UFC light heavyweight title."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ee2/live/3948ea70-a19e-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "",
     "titles": [
-      "Who is Japan's 'Iron Lady' Sanae Takaichi?",
-      "Sanae Takaichi expected to be Japan's first female PM",
-      "Japan poised to get first female PM after Sanae Takaichi wins ruling party leadership",
-      "Sanae Takaichi Is Likely to Be Japan’s Next Leader. Who Is She?"
+      "UFC 320 takeaways: Pereira, Merab among the best fighters in the world",
+      "UFC 320 results, takeaways: Alex Pereira, Merab Dvalishvili continue to build historically strong resumes",
+      "UFC 320 takeaways: And with that, Alex Pereira ends one of UFC's most forgettable title reigns"
     ],
     "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.864,
-      "consensus": 0.908,
+      "magnitude": 0.847,
+      "recency": 0.969,
+      "consensus": 0.789,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.769,
-    "summary_source": "cache",
+    "score": 0.762,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Sanae Takaichi, a conservative hard-liner and former Economic Security Minister, has been elected as the new leader of Japan's governing Liberal Democratic Party (LDP), positioning her to become the country's first female prime minister. Takaichi, known for her admiration of Margaret Thatcher and hawkish views on China, won against her more moderate rival, Shinjiro Koizumi, in a second-round party vote. Her leadership arrives amidst challenges such as political instability, an ageing population, rising prices, and regional tensions.",
+    "summary": "At UFC 320, 'Poatan' and 'The Machine' secured victories in their respective main and co-main events, showcasing impressive performances. Additionally, Pereira won against Ankalaev, reclaiming the UFC light heavyweight title. The event highlighted the fighters' growing prowess and discussed potential future matchups following their wins.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -277,17 +261,17 @@
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Sat, 4 Oct 2025 23:29:42 EST",
+    "published": "Sun, 5 Oct 2025 01:40:36 EST",
     "source": "ESPN",
     "sources": [
-      "CBS Sports",
       "Sportsnet",
+      "CBS Sports",
       "ESPN"
     ],
     "domains": [
-      "www.cbssports.com",
+      "www.espn.com",
       "www.sportsnet.ca",
-      "www.espn.com"
+      "www.cbssports.com"
     ],
     "snippets": [
       "Minnesota Lynx forward Napheesa Collier has canceled her meeting with WNBA commissioner Cathy Engelbert next week, sources told ESPN.",
@@ -302,13 +286,13 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.986,
+      "recency": 0.95,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.759,
-    "summary_source": "gpt",
+    "score": 0.752,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Minnesota Lynx forward Napheesa Collier has canceled a planned meeting with WNBA Commissioner Cathy Engelbert, according to sources. This decision follows Engelbert's claims of inaccuracies in Collier's critical comments about WNBA leadership.",
     "constructiveness_score": 0.0,
@@ -316,91 +300,217 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Russell Clinches Pole at Singapore GP, Edges Out Verstappen and Piastri",
+    "title": "UCLA Upsets Penn State, Week 6 Sees Top Teams Fall",
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Sat, 4 Oct 2025 16:58:29 EST",
+    "published": "Sun, 5 Oct 2025 01:40:36 EST",
     "source": "ESPN",
     "sources": [
-      "Sky Sports",
-      "The Guardian",
+      "Bleacher Report",
+      "CBS Sports",
       "ESPN"
     ],
     "domains": [
-      "www.skysports.com",
-      "www.theguardian.com",
-      "www.espn.com"
+      "www.espn.com",
+      "www.cbssports.com",
+      "news.google.com"
     ],
     "snippets": [
-      "George Russell took a surprise pole position for Mercedes at the Singapore Grand Prix ahead of Red Bull's Max Verstappen in second place and championship leader Oscar Piastri in third.",
-      "<ul><li><p>Rejuvenated Mercedes driver takes top spot by 0.182sec</p></li><li><p>Norris accused of impeding Dutchman’s flying lap</p></li></ul><p>George Russell is in talks to extend his contract with Mercedes, but could surely do no more to make his case than a magnificent lap on Saturday to claim ",
-      "George Russell delivered a virtuoso performance under the lights to claim a stunning pole for Mercedes for the Singapore Grand Prix as second-placed Max Verstappen also outqualified the title-leading McLaren drivers."
+      "UCLA delivered a statement upset of Penn State on Saturday, and then brought the troll game to back it up afterward.",
+      "No. 7 Penn State and No. 9 Texas fall in shocking collapses to unranked teams",
+      "Projecting the new AP Top 25 poll after the Week 6 action in college football",
+      "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOdllhc2RJUjZJZGExUkx0NkhRVVJ0RVFBeUNIVkZXaGxUYVU3UWNwU1NKMjNnWV9KTVBLOGljSVBfc0NpQ0hQVVY0cF9XNS1OWG14enM5amU0RUVpeUxDWFR0TVYtbG1mUEtLRHZHS2I5OEpGVDBtZ2ZOczJWTnVkaEtsaVQ4UEQxZlh3V1g4M1NaWWVuakk3b1lVa0Y?oc=5\" target=\"_blank\">B/R's 2025 Colle"
     ],
     "image_url": "",
     "titles": [
-      "Russell takes surprise Singapore pole over Verstappen",
-      "Verstappen points finger at Norris after Russell grabs brilliant pole in Singapore",
-      "Russell storms to Singapore pole as Verstappen beats McLarens too"
+      "😆 Top trolls from college football Week 6",
+      "College football winners, losers in Week 6: UCLA rises from the ashes, preseason No. 1 Texas full of flaws",
+      "Tomorrow's Top 25 Today: Penn State, Texas flirting with exit from college football rankings",
+      "B/R's 2025 College Football Winners and Losers from Week 6 - Bleacher Report"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.861,
+      "recency": 0.95,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.734,
-    "summary_source": "cache",
+    "score": 0.752,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "George Russell of Mercedes secured pole position for the Singapore Grand Prix, outperforming Max Verstappen and both McLaren drivers, including title leader Oscar Piastri who placed third. Russell's impressive lap at the Marina Bay street circuit placed him 0.182 seconds ahead of Verstappen, showcasing a significant performance boost for Mercedes.",
+    "summary": "UCLA achieved a notable upset victory over Penn State on Saturday, surprising many. Following the game, UCLA engaged in celebratory trolling. Additionally, both No. 7 Penn State and No. 9 Texas experienced unexpected defeats to unranked teams during Week 6 of college football. These upsets are anticipated to significantly impact the upcoming AP Top 25 poll rankings.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "UFC 320: Experts Pick Ankalaev vs. Pereira Winner, Betting Tips Highlighted",
-    "domain": "sports",
-    "source_domain": "www.cbssports.com",
-    "location": "national",
-    "published": "Sun, 05 Oct 2025 00:00:47 +0000",
-    "source": "CBS Sports",
+    "title": "Poland Activates Jets and Air Defenses Amid Ukraine Border Concerns",
+    "domain": "general",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sun, 05 Oct 2025 07:23:18 GMT",
+    "source": "BBC",
     "sources": [
-      "CBS Sports",
-      "Yahoo Sports",
-      "Sportsnet"
+      "BBC",
+      "Al Jazeera",
+      "Deutsche Welle"
     ],
     "domains": [
-      "www.cbssports.com",
-      "app",
-      "www.sportingnews.com"
+      "www.aljazeera.com",
+      "www.bbc.com",
+      "www.dw.com"
     ],
     "snippets": [
-      "Check out who the experts at CBS Sports are taking in the light heavyweight title bout in Las Vegas on Saturday",
-      "SportsLine's Daniel Vithlani reveals his picks for the UFC 320: Ankalaev vs. Pereira fight card from T-Mobile Arena in Las Vegas on Saturday",
-      "All the information you need to watch UFC 320 live in Las Vegas",
-      "Will we see new champions crowned at UFC 320? The Sporting News will provide results from the entire UFC 320 fight card.",
-      "<p>Alex Pereira aims to regain the title he lost to Magomed Ankalaev at UFC 313. Watch the PPV live on Sportsnet+.</p>"
+      "Ukraine's neighbour Poland and Nato scrambled fighter jets to ensure the safety of Polish airspace.",
+      "Warsaw says ground-based air defence, radar reconnaissance systems also brought to the &#039;highest state of readiness&#039;.",
+      "Poland's armed forces announced mobilizing planes and putting ground defenses on high alert, especially in areas close to the Ukrainian border. Follow DW for more."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/10/03/39256ac3-63b8-4dd2-b9a0-3147fe4ea509/ankalaev-pereira-2-presser.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d600/live/b5b912d0-a1ab-11f0-9005-a528b1bd9c76.jpg",
     "titles": [
-      "UFC 320 fight predictions -- Magomed Ankalaev vs. Alex Pereira 2: Expert picks for each main card bout",
-      "UFC 320 odds, props, predictions, fight card: Ankalaev vs. Pereira picks, best bets by proven MMA insider",
-      "UFC 320 fight card, start time for Magomed Ankalaev vs. Alex Pereira 2: Where to watch, live stream online",
-      "UFC 320 full card results, schedule for Magomed Ankalaev vs Alex Pereira 2, Merab Dvalishvili vs. Cory Sandhagen",
-      "UFC 320 on Sportsnet: Ankalaev vs. Pereira 2"
+      "Poland scrambles jets as Russia strikes western Ukraine",
+      "Poland deploys air defences as Russia launches new strikes on Ukraine",
+      "Ukraine updates: Poland scrambles jets to secure airspace"
     ],
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.917,
+      "magnitude": 0.867,
+      "recency": 0.964,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.72,
+    "score": 0.744,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Poland, a neighbor to Ukraine and NATO member, activated its fighter jets and heightened ground-based air defenses and radar systems to the maximum readiness level to secure its airspace. This mobilization, particularly focused along the Ukrainian border, was part of Poland's response to ensure national security. Follow DW for updates.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Mark Sanchez Arrested, Hospitalized After Indianapolis Fight",
+    "domain": "sports",
+    "source_domain": "www.independent.co.uk",
+    "location": "national",
+    "published": "Sun, 05 Oct 2025 07:48:38 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "Sportsnet",
+      "Sky Sports",
+      "Yahoo Sports"
+    ],
+    "domains": [
+      "www.skysports.com",
+      "www.sportsnet.ca",
+      "www.independent.co.uk"
+    ],
+    "snippets": [
+      "Former NFL quarterback Mark Sanchez arrested and hospitalised after Indianapolis stabbing - Sanchez, who currently works as an analyst for Fox Sports, was arrested for his role in the incident and is in a stable condition in hospital",
+      "Mark Sanchez, the former NFL quarterback and current Fox Sports analyst, is in a stable condition after reportedly being stabbed early Saturday morning in Indianapolis.",
+      "<p>Former NFL quarterback and current Fox Sports analyst Mark Sanchez was arrested Saturday after he was apparently stabbed in an overnight altercation in downtown Indianapolis.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Former NFL quarterback Mark Sanchez arrested and hospitalised after Indianapolis stabbing",
+      "Former NFL quarterback Sanchez in stable condition after being stabbed",
+      "Mark Sanchez hospitalized, facing multiple charges after stabbing incident"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.993,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.735,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Experts at CBS Sports and SportsLine's Daniel Vithlani have made their picks for the UFC 320: Ankalaev vs. Pereira light heavyweight title fight at T-Mobile Arena in Las Vegas. Additionally, the event presents various betting opportunities for viewers this weekend in Chicago.",
+    "summary": "Former NFL quarterback and Fox Sports analyst Mark Sanchez was arrested and charged with battery following a fight in downtown Indianapolis that occurred shortly after midnight on Saturday. The altercation resulted in Sanchez being hospitalized with stab wounds. While details of the incident remain unclear, and Sanchez has not yet been booked in detention, Indianapolis police have confirmed his arrest.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Pereira Wins UFC Light Heavyweight Title in 80 Seconds at UFC 320",
+    "domain": "sports",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Sun, 05 Oct 2025 05:51:33 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Sky Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.aljazeera.com",
+      "www.skysports.com"
+    ],
+    "snippets": [
+      "Alex Pereira won back the light heavyweight title with a technical knockout of Magomed Ankalaev at UFC 320 in Las Vegas.",
+      "Alex Pereira is the champion of the light heavyweights again after crushing Magomed Ankalaev in 80 seconds of Round 1 on Saturday at UFC 320.",
+      "Brazilian Alex Pereira scored a stunning first-round knockout win over Magomed Ankalaev to reclaim the UFC light heavyweight title at UFC 320 on Saturday night, with Merab Dvalishvili retaining his bantamweight crown in the co-main event."
+    ],
+    "image_url": "",
+    "titles": [
+      "UFC 320: Pereira stuns Ankalaev with TKO to regain light heavyweight title",
+      "Pereira reclaims title in 80-second TKO of Ankalaev",
+      "Pereira dethrones Ankalaev to reclaim light heavyweight belt at UFC 320"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.953,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.727,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Alex Pereira reclaimed the UFC light heavyweight title with a first-round technical knockout victory over Magomed Ankalaev at UFC 320 in Las Vegas. The fight concluded in just 80 seconds, marking a significant win for the Brazilian fighter. In the same event, Merab Dvalishvili retained his bantamweight title.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "South Africa Wins Rugby Championship Title at Twickenham",
+    "domain": "sports",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sun, 05 Oct 2025 05:15:06 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "Sky Sports",
+      "Yahoo Sports"
+    ],
+    "domains": [
+      "www.bbc.com",
+      "www.skysports.com"
+    ],
+    "snippets": [
+      "South Africa beat Argentina to retain the Rugby Championship, but what did we learn about all four sides before they head to the northern hemisphere?",
+      "South Africa beat Argentina to retain the Rugby Championship, but what did we learn about all four sides before they head to the northern hemisphere?",
+      "Highlights from The Rugby Championship clash between Argentina and South Africa at Twickenham."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5695/live/481e3670-a15f-11f0-928c-71dbb8619e94.jpg",
+    "titles": [
+      "South Africa juggernaut rolls on - what we learned from Rugby Championship",
+      "What did we learn from the Rugby Championship?",
+      "Springboks defend Rugby Championship at Twickenham"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.922,
+      "consensus": 0.769,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.716,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "South Africa defeated Argentina to retain the Rugby Championship title. The match, held at Twickenham, offered insights into the strengths and weaknesses of all four participating teams before they proceed to competitions in the northern hemisphere.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -413,18 +523,18 @@
     "published": "Sat, 04 Oct 2025 21:38:01 GMT",
     "source": "BBC",
     "sources": [
-      "Deutsche Welle",
       "BBC",
-      "New York Times"
+      "New York Times",
+      "Deutsche Welle"
     ],
     "domains": [
-      "www.bbc.com",
       "www.nytimes.com",
+      "www.bbc.com",
       "www.dw.com"
     ],
     "snippets": [
       "Hamas will disarm \"the easy way or the hard way\", Israel's PM says after the group gave its response to a peace plan.",
-      "Israeli Prime Minister Netanyahu said he wants to see hostages returned in the coming days. He also said a team has been sent to Egypt \"to finalize technical details\" of Trump's plan for the future of Gaza. Follow DW.",
+      "Israeli Prime Minister Netanyahu said he wants to see hostages returned in the coming days. He also said a team has been sent to Egypt \"to finalize technical details\" of Trump's plan for the future of Gaza.",
       "Both sides have reacted positively to a United States proposal for a cease-fire, but many details remain to be ironed out, including whether Hamas will disarm."
     ],
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec7/live/17f63870-a160-11f0-8480-e139cd7c3f3c.jpg",
@@ -435,12 +545,12 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.855,
+      "recency": 0.787,
       "consensus": 0.789,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.718,
+    "score": 0.704,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Israeli Prime Minister Netanyahu announced intentions to secure the return of hostages within days and has dispatched a team to Egypt to conclude technical aspects of Trump's Gaza plan. The hostages' families express cautious optimism, urging the government to seize this chance for resolution.",
@@ -449,44 +559,44 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Fatal Attack at Manchester Synagogue; Japan Nears Historic Election",
+    "title": "Brewers' Chourio Exits NLDS Game 1 with Hamstring Issue",
     "domain": "sports",
-    "source_domain": "www.bbc.com",
+    "source_domain": "www.forbes.com",
     "location": "global",
-    "published": "Sat, 04 Oct 2025 21:21:06 GMT",
-    "source": "BBC",
+    "published": "Sat, 04 Oct 2025 17:50:15 -0400",
+    "source": "Forbes",
     "sources": [
-      "BBC",
-      "NHL",
-      "New York Times"
+      "Sports Illustrated",
+      "Sportsnet",
+      "Forbes"
     ],
     "domains": [
-      "www.bbc.com",
-      "www.nytimes.com",
+      "www.forbes.com",
+      "www.sportsnet.ca",
       "news.google.com"
     ],
     "snippets": [
-      "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
-      "Japan’s beleaguered governing party will convene for a crucial election that could pave the way for the first female prime minister or the youngest leader in 140 years.",
-      "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOb2U1VVVzWWcyS0tYUktnRlhRRHNSQkNrTUhMSU1CMERCQXAwa3RHM0t4bzhOUzM4WTZVLWVaczR2bmczX1JaanhUS01WSlVLV1lQT0x3elBzTWFwRmlvZ0ZONnFGTUU2WjgzY19neDk4QzRoamxkbWc4azJGWkNnTg?oc=5\" target=\"_blank\">OTT@MTL: What you need to know</a>&nbsp;&nbsp;<font c"
+      "After getting three hits in two innings, Brewers star Jackson Chourio had to leave the first game of the National League Division Series with an apparent re-injury of his hamstring.",
+      "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1lQjYzUG03QTlKcmRFSVJvT1ZhUUNCMEFCQmduNHFENlZhVUtRc3BlQk9nWVNrMDAycDlwR1pOU0hfUWdXMW1iUnNEX0JVQXo1dGFHeVlKcFk5aktFUmNVMmtnWHUwT1Utb3ZvVFJISjJTT2doS215VFFESUVtQQ?oc=5\" target=\"_blank\">Brewers Pull Jackson Chourio From Game 1 vs. Cubs With Ap",
+      "<p>After becoming the first player to collect three hits in the first two innings of a postseason game, Jackson Chourio left Saturday&#8217;s 9-3 NL Division Series victory over the Chicago Cubs with tightness in his right hamstring.</p>"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75f/live/9e76f8a0-a109-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68e195acb3f3ec2646e41854/0x0.jpg?width=960",
     "titles": [
-      "What we know about the attack",
-      "What to Know About Japan’s Leadership Election",
-      "OTT@MTL: What you need to know - NHL.com"
+      "Milwaukee Brewers’ Jackson Chourio Exits Game 1 With Hamstring Issue",
+      "Brewers Pull Jackson Chourio From Game 1 vs. Cubs With Apparent Injury - Sports Illustrated",
+      "Brewers star Jackson Chourio undergoes MRI after early exit vs. Cubs"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.85,
+      "recency": 0.806,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.707,
+    "score": 0.698,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Two individuals were killed in an attack involving a car and stabbing at Heaton Park Hebrew Congregation Synagogue in Manchester on the most sacred day of the Jewish calendar. Meanwhile, Japan's governing party faces a significant election that could result in either the first female prime minister or the youngest leader in over a century.",
+    "summary": "Jackson Chourio, a star player for the Brewers, exited the first game of the National League Division Series due to an apparent hamstring re-injury. This occurred after he secured three hits in two innings and ran hard through first base on an infield hit.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -499,14 +609,14 @@
     "published": "Sat, 04 Oct 2025 19:34:47 +0000",
     "source": "Al Jazeera",
     "sources": [
-      "Deutsche Welle",
+      "Financial Post",
       "Al Jazeera",
-      "Financial Post"
+      "Deutsche Welle"
     ],
     "domains": [
-      "financialpost.com",
       "www.aljazeera.com",
-      "www.dw.com"
+      "www.dw.com",
+      "financialpost.com"
     ],
     "snippets": [
       "Opposition protests turned violent as riot police used tear gas and water cannon after disputed local elections.",
@@ -521,136 +631,15 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.836,
+      "recency": 0.769,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.704,
+    "score": 0.691,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "In Tbilisi, Georgia, police deployed water cannons and pepper spray to repel protesters attempting to storm the presidential palace following a municipal election. The demonstrations, which turned violent, were part of opposition protests against the election results, viewed as the \"last chance\" to save the country according to a former president. The main opposition blocs had boycotted the election, citing a crackdown on dissent.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Eventful Saturday for B.C. Lions and Nathan Rourke",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Sun, 05 Oct 2025 03:40:39 +0000",
-    "source": "Global News",
-    "sources": [
-      "Global News",
-      "Sportsnet"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "globalnews.ca"
-    ],
-    "snippets": [
-      "Things got way more exciting for the B.C. Lions on Saturday than Nathan Rourke wanted them to be.",
-      "<p>Things got way more exciting for the B.C. Lions on Saturday than Nathan Rourke wanted them to be.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Lions clinch playoff berth with win over Stamps",
-      "Surging Lions clinch playoff berth with win over Stampeders"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.99,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.703,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "B.C. Lions experienced an eventful Saturday, with Nathan Rourke facing unexpected excitement. The team's situation intensified, but specific details or outcomes are not provided in the sources.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Arsenal's Ødegaard, West Ham's Rice Injured in 2-0 Game",
-    "domain": "sports",
-    "source_domain": "www.theguardian.com",
-    "location": "global",
-    "published": "Sat, 04 Oct 2025 17:37:23 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "Sports Illustrated",
-      "Sky Sports",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.skysports.com",
-      "www.theguardian.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "<ul><li><p>Declan Rice also taken off in 2-0 win with back problem</p></li><li><p>Mikel Arteta: ‘Let’s wait, hopefully it’s not that bad’</p></li></ul><p>Mikel Arteta is concerned about Martin Ødegaard’s knee injury after the captain limped out of Arsenal’s<a href=\"https://www.theguardian.com/footba",
-      "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUdTQlVndFFCOWs4XzN4TjlNVlZkWjU2cDFPZHVzeXpyaFBNOFNOT0JzUk8yYmhHMk5tOEFxY0JKczlRWHQ4LVFieXh0XzRlcmNraXVrNTVYVUFVUk01M0pwQmI5VGYxY0dsTTFqRzA0YWpEMzdOMURuRzNMN1dpWjYtcUU?oc=5\" target=\"_blank\">Arsenal Rocked by Fresh Martin Odegaard Injury A",
-      "FREE TO WATCH: Highlights from Arsenal&#8217;s match against West Ham in the Premier League."
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/46c8b60b7257595746c0a395bdb4661905bdfaf6/256_0_2688_2150/master/2688.jpg?width=140&quality=85&auto=format&fit=max&s=db90c7517d7b4288e29795e30465b75e",
-    "titles": [
-      "Martin Ødegaard injury takes shine off Arsenal’s victory over West Ham",
-      "Arsenal Rocked by Fresh Martin Odegaard Injury Against West Ham - Sports Illustrated",
-      "Arsenal dominate West Ham to go top!"
-    ],
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.786,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.694,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Arsenal's captain, Martin Ødegaard, suffered a knee injury during their 2-0 victory over West Ham, prompting concern from manager Mikel Arteta about its severity. Declan Rice also exited the game with a back issue. Arteta expressed hope that the injuries would not be significant.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Mitchell Leads Tiger-Cats to Victory, Argonauts Out of Playoffs",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Sat, 04 Oct 2025 23:41:27 +0000",
-    "source": "Global News",
-    "sources": [
-      "Global News",
-      "Sportsnet"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "globalnews.ca"
-    ],
-    "snippets": [
-      "Bo Levi Mitchell and the Hamilton Tiger-Cats moved closer to cementing first in the East Division while ending the Toronto Argonauts' playoff hopes.",
-      "<p>Bo Levi Mitchell threw four touchdown passes as the Hamilton Tiger-Cats defeated the Toronto Argonauts 47-29 on Saturday afternoon, eliminating the defending Grey Cup champions from playoff contention.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Ticats end Argos playoff hopes with 47-29 win",
-      "Tiger-Cats strengthen East lead with win, end Argonauts’ playoff hopes"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.911,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.687,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Bo Levi Mitchell led the Hamilton Tiger-Cats to a 47-29 victory over the Toronto Argonauts, throwing four touchdown passes. This win moved the Tiger-Cats closer to securing first place in the East Division and eliminated the Argonauts, the defending Grey Cup champions, from playoff contention.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -681,13 +670,13 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.922,
+      "recency": 0.848,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.671,
-    "summary_source": "gpt",
+    "score": 0.657,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "A federal judge has temporarily halted President Trump's order to deploy the National Guard to Portland, Oregon, against local leaders' wishes. This decision stops the federalization and deployment of the Oregon National Guard to address unrest in Portland.",
     "constructiveness_score": 0.0,
@@ -702,12 +691,12 @@
     "published": "Sat, 04 Oct 2025 18:05:36 +0000",
     "source": "Financial Post",
     "sources": [
-      "CityNews",
-      "Financial Post"
+      "Financial Post",
+      "CityNews"
     ],
     "domains": [
-      "financialpost.com",
-      "ottawa.citynews.ca"
+      "ottawa.citynews.ca",
+      "financialpost.com"
     ],
     "snippets": [
       "The union representing Canada Post workers says the Crown corporation is &#8220;making a mockery of the collective bargaining process&#8221; with its latest contract offers. In a statement released Friday, the union said it is disappointed with the latest offer, which it calls a &#8220;major step ba",
@@ -720,12 +709,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.811,
+      "recency": 0.746,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.667,
+    "score": 0.654,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The union for Canada Post workers criticized the corporation's latest contract offers as a \"mockery of the collective bargaining process\" and a \"major step back.\" They expressed disappointment in a statement released Friday.",
@@ -734,79 +723,79 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "U.S. Treasury Considers New $1 Coin with Trump for 250th Anniversary",
+    "title": "UK Grants Police New Powers After Pro-Palestinian Protest Arrests",
     "domain": "general",
-    "source_domain": "abcnews.go.com",
-    "location": "national",
-    "published": "Sat, 04 Oct 2025 22:20:01 -0400",
-    "source": "ABC News",
+    "source_domain": "www.bbc.com",
+    "location": "global",
+    "published": "Sun, 05 Oct 2025 07:43:13 GMT",
+    "source": "BBC",
     "sources": [
-      "ABC News",
+      "BBC",
       "The Guardian"
     ],
     "domains": [
       "www.theguardian.com",
-      "abcnews.go.com"
+      "www.bbc.com"
     ],
     "snippets": [
-      "The U.S. treasurer said on Friday that Treasury is considering minting new one-dollar coins for the nation's 250th anniversary featuring President Trump's image.",
-      "<p>US treasurer says officials looking at drafts for country’s 250th anniversary featuring president with raised fist</p><p>To commemorate the 250th anniversary of the US’s independence, the treasury department is mulling production of a $1 coin displaying <a href=\"https://www.theguardian.com/us-new"
+      "Officers will be able to tell organisers to move demonstrations if protests have caused \"repeated disorder\".",
+      "<p>Move follows arrest of almost 500 people at latest pro-Palestinian demonstration in London on Saturday</p><p>Ministers are to give police new powers to target repeated protests, aimed particularly at cracking down on demonstrations connected to Gaza, the Home Office has said.</p><p>The announceme"
     ],
-    "image_url": "https://s.abcnews.com/images/US/donald-trump-33-rt-gmh-250930_1759256171129_hpMain_4x3t_384.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b0e/live/83592530-a1b7-11f0-928c-71dbb8619e94.jpg",
     "titles": [
-      "Trump administration considers minting a $1 Trump coin",
-      "US treasury considers special $1 Trump coin reading ‘fight, fight, fight’"
+      "Police to get broader powers to restrict repeated protests",
+      "Police to get new powers to crack down on repeated protests, says Home Office"
     ],
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.963,
+      "magnitude": 0.735,
+      "recency": 0.97,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.655,
-    "summary_source": "cache",
+    "score": 0.649,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The U.S. Treasury is exploring the creation of a new one-dollar coin to celebrate the country's 250th anniversary, featuring an image of President Trump with a raised fist. This consideration was confirmed by the U.S. Treasurer on Friday.",
+    "summary": "The UK Home Office announced new police powers to move demonstrations that cause \"repeated disorder,\" following the arrest of nearly 500 people at a pro-Palestinian protest in London. These measures specifically aim to address protests related to Gaza.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Ohtani Makes History in Game 1 as Dodgers Secure NLDS Victory",
-    "domain": "business",
-    "source_domain": "www.sportingnews.com",
-    "location": "national",
-    "published": "Sun, 05 Oct 2025 03:35:07 +0000",
-    "source": "Yahoo Sports",
+    "title": "Three States Ban Coldrif Syrup After Deaths, Toxic Solvent Found",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Sun, 05 Oct 2025 06:25:08 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "Yahoo Sports",
-      "Forbes"
+      "Al Jazeera",
+      "Deutsche Welle"
     ],
     "domains": [
-      "www.forbes.com",
-      "www.sportingnews.com"
+      "www.aljazeera.com",
+      "www.dw.com"
     ],
     "snippets": [
-      "This is a slice of Japanese baseball history.",
-      "Shohei Ohtani didn't have his best game in Game 1 of the NLDS. But he did something historic, and the Los Angeles Dodgers won. That was always the plan."
+      "Three states ban the cough syrup after children die allegedly after consuming the product.",
+      "The Indian Health Ministry said in a statement that test samples of Coldrif cough syrup found a highly toxic industrial solvent. At least nine children died allegedly after consuming it."
     ],
     "image_url": "",
     "titles": [
-      "Dodgers' Shohei Ohtani, Roki Sasaki make MLB history for 1st time ever in playoff win",
-      "Shohei Ohtani Makes History For Los Angeles Dodgers: ‘That’s Who I Am’"
+      "India probes possible cough syrup link to deaths of at least nine children",
+      "India: 3 states ban cough syrup after several children die"
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.988,
+      "recency": 0.964,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.653,
+    "score": 0.648,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Shohei Ohtani made history in Game 1 of the NLDS despite not performing at his best. The Los Angeles Dodgers, his team, secured a victory in the game, aligning with their strategy.",
+    "summary": "Three states have banned Coldrif cough syrup after the Indian Health Ministry found a toxic industrial solvent in test samples. Nine children have reportedly died after consuming the product.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -837,12 +826,12 @@
     ],
     "score_components": {
       "magnitude": 0.795,
-      "recency": 0.873,
+      "recency": 0.804,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.651,
+    "score": 0.637,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Israel ceased its military strikes in Gaza following a request from Trump, as reported. Additionally, Turkey is preparing for the return of 36 of its citizens through a special arrangement. The current status of the conflict and the specifics of the arrangement for the Turkish citizens' return were not detailed in the provided content.",
@@ -851,118 +840,79 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Nearly 500 Arrested at London Protest Against Palestine Action Ban",
+    "title": "Security Fears Exclude Three Provinces from Election, Sparking Debate",
     "domain": "general",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Sat, 04 Oct 2025 21:03:08 GMT",
+    "published": "Sun, 05 Oct 2025 00:04:50 GMT",
     "source": "BBC",
     "sources": [
       "BBC",
-      "The Guardian"
-    ],
-    "domains": [
-      "www.theguardian.com",
-      "www.bbc.com"
-    ],
-    "snippets": [
-      "Demonstrations went ahead despite calls from politicians and police leaders for the protests to be postponed in wake of the Manchester synagogue attack.",
-      "<p>Officers arrest activists at silent vigil in support of banned organisation, as demos go ahead despite PM’s pleas</p><p>Police have arrested almost 500 people in London at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png",
-    "titles": [
-      "Nearly 500 arrested at Palestine Action protest in London",
-      "Police make almost 500 arrests at Palestine Action protest in London"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.844,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.641,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "In London, nearly 500 people were arrested during a large demonstration against the ban on Palestine Action, despite requests from politicians and police to postpone protests following the Manchester synagogue attack. The arrests occurred at a silent vigil supporting the banned organization, highlighting the tension between public expressions of dissent and law enforcement responses.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: support",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Babis Wins Czech Election, Proposes Ukraine Aid Cuts",
-    "domain": "general",
-    "source_domain": "www.dw.com",
-    "location": "global",
-    "published": "2025-10-04T15:30:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "Deutsche Welle",
       "New York Times"
     ],
     "domains": [
-      "www.nytimes.com",
-      "www.dw.com"
+      "www.bbc.com",
+      "www.nytimes.com"
     ],
     "snippets": [
-      "Billionaire Andrej Babis wants to cut aid to Ukraine, and now he is the projected winner of the Czech parliamentary elections. Though he didn't win a majority, Babis said he aims to form a one-party government.",
-      "The party of Andrej Babis, former leader of the Czech government, is expected to prevail in parliamentary elections that begin Friday."
+      "Three provinces will not be included \"for security reasons\", amid concerns over how representative the polls will be.",
+      "Supporters argue the vote could be a milestone for the country, but critics say it is a divisive move by President Ahmed al-Shara to consolidate power."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba5/live/7fd003f0-a042-11f0-92db-77261a15b9d2.jpg",
     "titles": [
-      "Czech Republic: 'Trumpist' ex-PM Babis wins elections",
-      "‘Czech Trump’ Andrej Babis Is Poised to Return as Prime Minister in Elections"
+      "Syria holds first elections since Assad, but not in all provinces",
+      "Syria Holds First Parliamentary Elections Since End of Civil War"
     ],
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.768,
+      "magnitude": 0.735,
+      "recency": 0.828,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.623,
-    "summary_source": "cache",
+    "score": 0.621,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Andrej Babis, a billionaire who has proposed cutting aid to Ukraine, is the projected winner of the Czech parliamentary elections, with his party securing 36% of the vote after 90% of districts reported.",
+    "summary": "Three provinces are excluded from upcoming polls in an unnamed country due to security concerns, raising doubts about the election's representativeness. While supporters see the vote as a potential milestone, critics view it as President Ahmed al-Shara's attempt to strengthen his power.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Drone Kills Journalist in Ukraine, a First: European Federation",
+    "title": "Japan Set to Welcome First Female Prime Minister Inspired by Thatcher",
     "domain": "general",
-    "source_domain": "www.theguardian.com",
+    "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Sat, 04 Oct 2025 15:43:57 GMT",
-    "source": "The Guardian",
+    "published": "Sat, 04 Oct 2025 22:09:29 GMT",
+    "source": "BBC",
     "sources": [
-      "The Guardian",
+      "BBC",
       "New York Times"
     ],
     "domains": [
-      "www.theguardian.com",
+      "www.bbc.com",
       "www.nytimes.com"
     ],
     "snippets": [
-      "<p>Two trains were hit in Ukraine’s northern Sumy region, killing one and injuring about 30 others, officials say</p><p>Two Russian drones struck trains at a station in Ukraine’s northern Sumy region, killing one person and injuring about 30 others, officials said on Saturday, with Ukraine’s foreign",
-      "Antoni Lallican, a Paris-based photographer, is the first working journalist to be killed by a remotely piloted drone during the war, according to press associations."
+      "The conservative politician, who sees Margaret Thatcher as an inspiration, is set to be Japan's first female prime minister.",
+      "Ms. Takaichi would be Japan’s first female prime minister in a country where women are drastically underrepresented at the highest levels of power."
     ],
-    "image_url": "https://i.guim.co.uk/img/media/fa4a46a22559e2126e9fbdd39b86a1bd14282cdd/10_0_867_694/master/867.jpg?width=140&quality=85&auto=format&fit=max&s=aff3c39ed9670e4982145e59c875f7be",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ee2/live/3948ea70-a19e-11f0-92db-77261a15b9d2.jpg",
     "titles": [
-      "Person killed in drone attack as Ukraine accuses Russia of targeting passenger trains",
-      "French Photojournalist Killed in Drone Attack in Ukraine"
+      "Who is Japan's 'Iron Lady' Sanae Takaichi?",
+      "Sanae Takaichi Is Likely to Be Japan’s Next Leader. Who Is She?"
     ],
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.756,
+      "magnitude": 0.735,
+      "recency": 0.795,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.62,
-    "summary_source": "cache",
+    "score": 0.614,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Antoni Lallican, a Paris-based photographer, became the first journalist to be killed by a drone in the Ukraine conflict, as confirmed by the European Federation of Journalists. This incident marks a tragic milestone in the war, highlighting the dangers journalists face while reporting.",
+    "summary": "A conservative politician inspired by Margaret Thatcher is poised to become Japan's first female prime minister. This marks a significant milestone in a country where women are significantly underrepresented in top political positions.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -975,8 +925,8 @@
     "published": "Sat, 04 Oct 2025 12:00:01 GMT",
     "source": "CNBC",
     "sources": [
-      "CNBC",
-      "TechCrunch"
+      "TechCrunch",
+      "CNBC"
     ],
     "domains": [
       "techcrunch.com",
@@ -993,12 +943,12 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.699,
+      "recency": 0.643,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.612,
+    "score": 0.601,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "OpenAI's new video app Sora, as observed by CNBC, features characters from copyrighted shows like \"SpongeBob SquarePants.\" This development suggests that OpenAI might be changing its approach to copyright and intellectual property rights in its applications.",
@@ -1030,12 +980,12 @@
     ],
     "score_components": {
       "magnitude": 0.373,
-      "recency": 0.831,
+      "recency": 0.765,
       "consensus": 0.35,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.434,
+    "score": 0.421,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Taylor Swift released her 12th studio album, \"The Life of a Showgirl,\" on Friday, which is already setting new records. The album's immediate impact was highlighted in the Saturday edition of Business Insider Today.",
