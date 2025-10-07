@@ -7,20 +7,20 @@
     "published": "Mon, 06 Oct 2025 19:11:11 GMT",
     "source": "BBC",
     "sources": [
-      "Forbes",
       "CNBC",
+      "Al Jazeera",
       "ABC News",
-      "Axios",
       "BBC",
-      "Al Jazeera"
+      "Forbes",
+      "Axios"
     ],
     "domains": [
-      "www.bbc.com",
-      "www.cnbc.com",
-      "abcnews.go.com",
       "news.google.com",
       "www.aljazeera.com",
-      "www.forbes.com"
+      "abcnews.go.com",
+      "www.cnbc.com",
+      "www.forbes.com",
+      "www.bbc.com"
     ],
     "snippets": [
       "The British socialite is serving a 20-year prison sentence on sex-trafficking charges related to former boyfriend Jeffrey Epstein.",
@@ -41,12 +41,12 @@
     ],
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.882,
+      "recency": 0.811,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.826,
+    "score": 0.812,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Ghislaine Maxwell, associated with Jeffrey Epstein, is serving a 20-year sentence for sex trafficking and related crimes as of 2022. Her appeal to the US Supreme Court was declined. Maxwell attempted to argue her indictment was invalid due to Epstein's 2007 non-prosecution agreement. Recently, she was transferred from a low-security prison in Florida to a minimum-security camp in Texas.",
@@ -55,48 +55,101 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "ICC Convicts Janjaweed Leader of War Crimes in Darfur",
-    "domain": "general",
-    "source_domain": "www.npr.org",
-    "location": "national",
-    "published": "Mon, 06 Oct 2025 15:05:55 -0400",
-    "source": "NPR",
+    "title": "Trump Suggests Insurrection Act to Deploy National Guard Amid Opposition",
+    "domain": "business",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Mon, 06 Oct 2025 17:15:56 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "Deutsche Welle",
-      "NPR",
+      "The Guardian",
+      "Financial Times",
+      "ABC News",
       "Al Jazeera",
-      "The Guardian"
+      "Axios"
     ],
     "domains": [
-      "www.theguardian.com",
+      "news.google.com",
       "www.aljazeera.com",
-      "www.npr.org",
-      "www.dw.com"
+      "abcnews.go.com",
+      "www.ft.com",
+      "www.theguardian.com"
     ],
     "snippets": [
-      "The International Criminal Court in The Hague handed down its first-ever Darfur war crimes conviction, finding Janjaweed leader Ali Kushayb, guilty of atrocities committed more than two decades ago.",
-      "The International Criminal Court has found Sudanese militia chief Ali Muhammad Ali Abd-Al-Rahman guilty of war crimes.",
-      "For the first time, the ICC has found a militia leader guilty of war crimes committed in Sudan's Darfur region more than 20 years ago.",
-      "<p>Janjaweed commander Ali Muhammad Ali Abd-al-Rahman, known as Ali Kushayb, found guilty over atrocities</p><p>The international criminal court has convicted a leader of the Janjaweed militia of playing a leading role in a campaign of atrocities committed in the Sudanese region of Darfur more than "
+      "US president&#039;s comments came as Portland, Chicago continue to fight the deployment of the national guard in the courts.",
+      "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPaTloMElYeEl6RXlMdEtxOGNKMVJzNWdqczg1bWdTcFpaZFZNTmZEeEV3Y3JEYkd5VTF0Wm5yZUNHR3Q2bDRiY2lFdU1Cbl9IZWd5OGxUQTRtaGtOZTZ3RXFNN3NxdEkwRm95THVyNHBVQkFxVUFESzFOdU44VE02R3BiOWpxdTBDLUxuZGU3QWNXUQ?oc=5\" target=\"_blank\">Trump floats Insurrection Act",
+      "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPWkI3UmdwUUFlb1F6Nlo4dWJZT09WeWpibEtiNXF1OS1DRVBkNUwyWGFIcTFicUxST3c5WEU3cHVDaGJDbTlpcmFhdEpzUEdyZjd1MEtJY2RWWld2amcwVDZKSTk0MW9EWkJGT0tfWGlWeFNySWhlR0JMb1Vxck9ZQ3F5Yw?oc=5\" target=\"_blank\">MAGA calls for Trump to overrule judges on Nation",
+      "<p>The president threatened the use of emergency powers after a federal judge temporarily halted national guard deployment in Portland. Key US politics stories from 6 October at a glance</p><p>Donald Trump threatened to use emergency powers to deploy more troops into Democrat-led cities, as his atte",
+      "Illinois Gov. JB Pritzker on Monday accused the Trump administration of staging a \"military-style invasion\" of Chicago.",
+      "Warning to use 19th century law comes as president faces legal setbacks in bid to put soldiers on streets of US cities"
     ],
     "image_url": "",
     "titles": [
-      "ICC finds former Sudan militia leader guilty of war crimes in Darfur",
-      "ICC convicts first militia leader for brutal attacks in Darfur",
-      "Darfur militia leader convicted by ICC for war crimes",
-      "ICC convicts former Sudan militia leader for war crimes in Darfur"
+      "Trump threatens use of Insurrection Act to deploy troops to cities",
+      "Trump floats Insurrection Act use amid National Guard standoff with states - Axios",
+      "MAGA calls for Trump to overrule judges on National Guard deployments - Axios",
+      "Trump news at a glance: President mulls use of insurrection act as national guard deployment faces legal issues",
+      "Trump threatens use of Insurrection Act as governor says Black Hawks used in ICE raid",
+      "Donald Trump threatens to invoke 200-year-old Insurrection Act to deploy troops"
     ],
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.898,
+      "magnitude": 0.964,
+      "recency": 0.795,
+      "consensus": 0.995,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.795,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "President Trump suggested using the Insurrection Act to deploy the National Guard in cities like Portland and Chicago, despite legal challenges and opposition from local leaders. This follows a federal judge's temporary block on the deployment in Portland. Illinois Governor JB Pritzker criticized the move as a \"military-style invasion\" of Chicago. The situation highlights Trump's intent to override local authorities amid legal setbacks.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "US Government Shutdown Enters Second Week; Negotiations Ongoing",
+    "domain": "business",
+    "source_domain": "www.dw.com",
+    "location": "global",
+    "published": "2025-10-07T02:09:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "The Guardian",
+      "Forbes",
+      "ABC News",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "www.forbes.com",
+      "www.theguardian.com",
+      "abcnews.go.com",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "Democrats and Republicans traded blame for the ongoing shutdown as the Senate rejected two proposals to fund the federal government.",
+      "The Senate on Monday again rejected Democratic and Republican proposals to fund the government and end the shutdown, now in its sixth day.",
+      "<p>Competing bills fail to pass 60-vote threshold, while Trump hints at possible deal with Democrats over health subsidies </p><p>The US government shutdown entered its second week as the Senate again rejected rival bills to restart funding and Donald Trump suggested he might be open to negotiating ",
+      "The government shut down began at midnight on Wednesday as Democrats and Republicans appeared to be nowhere close to reaching a funding deal."
+    ],
+    "image_url": "",
+    "titles": [
+      "US in shutdown impasse as Senate again rejects funding bill",
+      "Government shutdown updates: Senate again fails to pass funding bills",
+      "US shutdown enters second week as Senate again rejects rival funding bills",
+      "Government Shutdown: Deadlocked Senate Again Fails To Pass Funding Bills As Shutdown Hits Week 2"
+    ],
+    "score_components": {
+      "magnitude": 0.912,
+      "recency": 0.957,
       "consensus": 0.908,
       "constructiveness": 0.0,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.794,
+    "score": 0.788,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "The International Criminal Court (ICC) has convicted Janjaweed militia leader Ali Muhammad Ali Abd-Al-Rahman, known as Ali Kushayb, of war crimes in Sudan's Darfur region, marking the court's first conviction for crimes in this area. Abd-Al-Rahman was found guilty on 27 counts of war crimes committed over 20 years ago.",
+    "summary": "The US government shutdown extended into its second week after the Senate failed to pass both Democratic and Republican funding bills. Negotiations continue as President Trump hints at a possible compromise involving health subsidies.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -109,16 +162,16 @@
     "published": "Mon, 06 Oct 2025 17:41:00 +0000",
     "source": "Al Jazeera",
     "sources": [
+      "Al Jazeera",
       "Deutsche Welle",
       "Fortune",
-      "Al Jazeera",
       "The Guardian"
     ],
     "domains": [
+      "fortune.com",
       "www.theguardian.com",
-      "www.aljazeera.com",
       "www.dw.com",
-      "fortune.com"
+      "www.aljazeera.com"
     ],
     "snippets": [
       "Trump had imposed a 40% tariff on Brazil in July on top of a 10% earlier even though US has a trade surplus with Brazil.",
@@ -135,12 +188,12 @@
     ],
     "score_components": {
       "magnitude": 0.952,
-      "recency": 0.872,
+      "recency": 0.802,
       "consensus": 0.908,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.785,
+    "score": 0.771,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "In July, President Trump imposed a 40% tariff on Brazil, adding to a previous 10% tariff despite the US having a trade surplus with Brazil. Following a \"positive\" video call between Brazil's President Luiz Inácio Lula da Silva and Trump, discussions were held on the punitive measures, including tariffs and sanctions against Brazilian officials. The call also touched on cooperation opportunities, such as in Haiti. Lula urged Trump to reconsider the tariffs and sanctions.",
@@ -149,47 +202,87 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Harry Kane Open to New Contract Talks with Bayern, Less Keen on Premier League R",
-    "domain": "sports",
+    "title": "Israel-Hamas Talks in Egypt Show Progress, Set to Continue",
+    "domain": "general",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Mon, 06 Oct 2025 22:00:58 GMT",
+    "published": "Tue, 07 Oct 2025 02:07:21 GMT",
     "source": "BBC",
     "sources": [
-      "Sky Sports",
       "BBC",
-      "Yahoo Sports",
-      "The Guardian"
+      "Al Jazeera",
+      "Axios"
     ],
     "domains": [
+      "news.google.com",
       "www.bbc.com",
-      "www.theguardian.com",
-      "www.skysports.com"
+      "www.aljazeera.com"
     ],
     "snippets": [
-      "Harry Kane says his interest in returning to the Premier League has cooled and he is willing to open talks with Bayern Munich over a new contract.",
-      "Harry Kane says his interest in returning to the Premier League has cooled and he is willing to open talks with Bayern Munich over a new contract.",
-      "<ul><li><p>Kane’s current deal at German club expires in 2027</p></li><li><p>‘In terms of staying longer I could definitely see that’</p></li></ul><p>Harry Kane says he is open to extending his stay at Bayern Munich and believes a return to the Premier League is no longer guaranteed.</p><p>The Engla",
-      "Harry Kane has revealed that his desire to play in the Premier League again has cooled, as he suggested he is open to extending his Bayern Munich stay."
+      "The talks in Egypt are expected to be among the most consequential since the start of the war two years ago.",
+      "Sources familiar with the talks with Israel and Hamas say that progress was made on Monday, negotiations to continue.",
+      "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAwS0N3djJhQVdKMGgzc2FYSUxMakxndzIxc3dGM1ZRdE5oTWp5cngtcUxqWmYtZkhBRkFiMzh2Mjg4WGMtYTRPd0FQNU9pQUJka1pSS0ZBNVpUX3ZNU3F0aVQ4S1RVY2lfd09kNjJJQV9EVy1rZnc?oc=5\" target=\"_blank\">Amid talks in Egypt, Trump says there's \"a really good chance\" for a"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8504/live/d1758290-a2f2-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e99/live/02c2b3f0-a324-11f0-92db-77261a15b9d2.jpg",
     "titles": [
-      "'I'm fully all in with Bayern' - Kane cools on Premier League return",
-      "'I am fully all in' - Kane open to new Bayern deal",
-      "Harry Kane open to Bayern Munich stay and unsure of Premier League return",
-      "Kane open to new Bayern deal as he dampens Premier League return talk"
+      "Trump says chance of Gaza peace deal 'really good' as talks to continue in Egypt",
+      "Day one of Gaza peace talks ends on ‘positive’ note in Egypt",
+      "Amid talks in Egypt, Trump says there's \"a really good chance\" for a Gaza deal - Axios"
     ],
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.935,
-      "consensus": 0.888,
+      "magnitude": 0.847,
+      "recency": 0.937,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.771,
+    "score": 0.731,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Harry Kane has expressed a diminished interest in returning to the Premier League, indicating openness to discussing a new contract with Bayern Munich. His current deal with the German club is set to expire in 2027, and he sees potential for an extended stay.",
+    "summary": "Talks in Egypt, deemed crucial since the war began two years ago, have shown progress between Israel and Hamas, with negotiations set to continue. These discussions are highlighted as some of the most significant in recent times, aiming to address and potentially resolve ongoing conflict issues.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "ICC Convicts Janjaweed Leader of War Crimes in Darfur",
+    "domain": "general",
+    "source_domain": "www.npr.org",
+    "location": "national",
+    "published": "Mon, 06 Oct 2025 15:05:55 -0400",
+    "source": "NPR",
+    "sources": [
+      "The Guardian",
+      "NPR",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "www.npr.org",
+      "www.theguardian.com",
+      "www.dw.com"
+    ],
+    "snippets": [
+      "The International Criminal Court in The Hague handed down its first-ever Darfur war crimes conviction, finding Janjaweed leader Ali Kushayb, guilty of atrocities committed more than two decades ago.",
+      "For the first time, the ICC has found a militia leader guilty of war crimes committed in Sudan's Darfur region more than 20 years ago.",
+      "<p>Janjaweed commander Ali Muhammad Ali Abd-al-Rahman, known as Ali Kushayb, found guilty over atrocities</p><p>The international criminal court has convicted a leader of the Janjaweed militia of playing a leading role in a campaign of atrocities committed in the Sudanese region of Darfur more than "
+    ],
+    "image_url": "",
+    "titles": [
+      "ICC finds former Sudan militia leader guilty of war crimes in Darfur",
+      "Darfur militia leader convicted by ICC for war crimes",
+      "ICC convicts former Sudan militia leader for war crimes in Darfur"
+    ],
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.826,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.727,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The International Criminal Court (ICC) has convicted Janjaweed militia leader Ali Muhammad Ali Abd-Al-Rahman, known as Ali Kushayb, of war crimes in Sudan's Darfur region, marking the court's first conviction for crimes in this area. Abd-Al-Rahman was found guilty on 27 counts of war crimes committed over 20 years ago.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -203,13 +296,13 @@
     "source": "Al Jazeera",
     "sources": [
       "Al Jazeera",
-      "The Guardian",
-      "Axios"
+      "Axios",
+      "The Guardian"
     ],
     "domains": [
+      "news.google.com",
       "www.theguardian.com",
-      "www.aljazeera.com",
-      "news.google.com"
+      "www.aljazeera.com"
     ],
     "snippets": [
       "Trump administration continues to send individuals to countries where they have no ties amid mass deportation push.",
@@ -224,13 +317,13 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.965,
+      "recency": 0.887,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.73,
-    "summary_source": "gpt",
+    "score": 0.714,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The U.S. has deported ten more individuals to Eswatini as part of its third-country deportation policy, despite criticisms from NGOs and lawyers who argue this violates human rights. This marks the second instance of deportees with no ties to the African kingdom being sent there, following an agreement between the U.S. and Eswatini.",
     "constructiveness_score": 0.0,
@@ -245,14 +338,14 @@
     "published": "Mon, 06 Oct 2025 19:57:14 GMT",
     "source": "Financial Times",
     "sources": [
-      "Washington Post",
+      "Financial Times",
       "New York Times",
-      "Financial Times"
+      "Washington Post"
     ],
     "domains": [
+      "www.nytimes.com",
       "www.washingtonpost.com",
-      "www.ft.com",
-      "www.nytimes.com"
+      "www.ft.com"
     ],
     "snippets": [
       "Sébastien Lecornu, who quit on Monday, is asked by Emmanuel Macron to quickly negotiate a stability plan",
@@ -267,12 +360,12 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.896,
+      "recency": 0.824,
       "consensus": 0.789,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.726,
+    "score": 0.712,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Sébastien Lecornu, France's newly appointed Prime Minister, resigned less than 24 hours after forming his government and less than a month in office, citing deep political divisions and criticism from various factions, including threats from rightwing allies to withdraw support. His resignation, accepted by President Emmanuel Macron, follows criticism over the largely unchanged cabinet lineup and plunges the country into a political crisis. Lecornu, a former defense minister, had assumed the role after a no-confidence vote ousted his predecessor.",
@@ -281,53 +374,46 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Netanyahu Optimistic on Hostage Release by Oct. 13 Amid Gaza Ceasefire Talks",
-    "domain": "general",
+    "title": "Harry Kane Open to New Contract Talks with Bayern, Less Keen on Premier League R",
+    "domain": "sports",
     "source_domain": "www.bbc.com",
     "location": "global",
-    "published": "Mon, 06 Oct 2025 17:27:02 GMT",
+    "published": "Mon, 06 Oct 2025 22:00:58 GMT",
     "source": "BBC",
     "sources": [
       "BBC",
-      "The Guardian",
-      "New York Times"
+      "Sky Sports",
+      "The Guardian"
     ],
     "domains": [
+      "www.skysports.com",
       "www.bbc.com",
-      "www.theguardian.com",
-      "www.bbc.co.uk",
-      "www.nytimes.com"
+      "www.theguardian.com"
     ],
     "snippets": [
-      "The talks are expected to be among the most consequential since the start of the war two years ago.",
-      "Negotiators from Israel and Hamas are heading to Sharm El-Sheikh, Egypt, to start indirect talks about ending the Israel-Gaza war.",
-      "Trump urges mediators to “move fast” as key Gaza talks begin.",
-      "Though significant issues remain to be hashed out between Israel and Hamas, some are saying that after two years of death and destruction, a breakthrough may be near.",
-      "Israel and Hamas said they will work with President Trump’s proposal to end the Gaza war. But persistent sticking points could derail a diplomatic breakthrough.",
-      "<p>Hamas’s acceptance of key conditions of deal galvanises momentum but large gaps remain between camps</p><p>Israel and Hamas have begun indirect talks in Egypt on a US ceasefire proposal amid cautious optimism that the nearly two-year war in Gaza may be nearing its end, despite deep divisions betw"
+      "Harry Kane says his interest in returning to the Premier League has cooled and he is willing to open talks with Bayern Munich over a new contract.",
+      "<ul><li><p>Kane’s current deal at German club expires in 2027</p></li><li><p>‘In terms of staying longer I could definitely see that’</p></li></ul><p>Harry Kane says he is open to extending his stay at Bayern Munich and believes a return to the Premier League is no longer guaranteed.</p><p>The Engla",
+      "Harry Kane has revealed that his desire to play in the Premier League again has cooled, as he suggested he is open to extending his Bayern Munich stay."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3501/live/d3778430-a2de-11f0-a01f-432b14e9b57f.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8504/live/d1758290-a2f2-11f0-b741-177e3e2c2fc7.jpg",
     "titles": [
-      "Israel and Hamas begin indirect talks in Egypt on Trump's Gaza peace plan",
-      "What are the key sticking points in Trump's Gaza peace plan?",
-      "Will Trump’s Gaza Peace Plan Work?",
-      "Israel and Hamas Meet in Egypt to Discuss Gaza Peace Plan",
-      "Trump’s Gaza Peace Plan: What to Know",
-      "Israel and Hamas begin indirect talks as hopes rise of ending Gaza war"
+      "'I'm fully all in with Bayern' - Kane cools on Premier League return",
+      "Harry Kane open to Bayern Munich stay and unsure of Premier League return",
+      "Kane open to new Bayern deal as he dampens Premier League return talk"
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.85,
-      "consensus": 0.809,
-      "constructiveness": 0.1,
+      "recency": 0.86,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.722,
+    "score": 0.709,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Israeli Prime Minister Netanyahu expressed hope for the release of all hostages by Hamas by Oct. 13, following partial agreement to President Trump's 20-point Gaza ceasefire plan. While Hamas has agreed to release hostages and discuss governing Gaza with Palestinian technocrats, negotiations on several aspects of the plan remain. Both Israel and Hamas have shown willingness to work towards ending the conflict, but unresolved issues could impede a diplomatic breakthrough. The US President has cautioned Hamas about the limited time available to finalize the deal.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
+    "summary": "Harry Kane has expressed a diminished interest in returning to the Premier League, indicating openness to discussing a new contract with Bayern Munich. His current deal with the German club is set to expire in 2027, and he sees potential for an extended stay.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
@@ -338,14 +424,14 @@
     "published": "Mon, 06 Oct 2025 12:38:23 -0400",
     "source": "ABC News",
     "sources": [
+      "ABC News",
       "Washington Post",
-      "New York Times",
-      "ABC News"
+      "New York Times"
     ],
     "domains": [
-      "www.nytimes.com",
       "www.washingtonpost.com",
-      "abcnews.go.com"
+      "abcnews.go.com",
+      "www.nytimes.com"
     ],
     "snippets": [
       "An effort is underway to rescue hundreds of hikers who became trapped on Mount Everest due to an unexpected blizzard.",
@@ -360,12 +446,12 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.854,
+      "recency": 0.785,
       "consensus": 0.789,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.718,
+    "score": 0.704,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Rescue workers in Tibet are assisting hundreds of hikers trapped by a snowstorm on Mount Everest's northern slope. Chinese state media reported that tents at tourist campsites were damaged, and there are casualties. The heavy snowfall has buried tents and blocked rescue roads, but local authorities are in contact with the hikers and rescue efforts are ongoing.",
@@ -381,13 +467,13 @@
     "published": "Mon, 06 Oct 2025 20:08:48 GMT",
     "source": "BBC",
     "sources": [
-      "New York Times",
       "BBC",
+      "New York Times",
       "Axios"
     ],
     "domains": [
-      "www.bbc.com",
       "news.google.com",
+      "www.bbc.com",
       "www.nytimes.com"
     ],
     "snippets": [
@@ -403,54 +489,15 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.899,
+      "recency": 0.827,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.717,
+    "score": 0.702,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Supreme Court's new term starts today, amid concerns over its failure to limit presidential power, which critics argue has had negative consequences. This term's outcomes could have significant implications, especially in the context of global authoritarian trends highlighted by leaders like Hungary's Viktor Orbán and Turkey's Recep Tayyip Erdoğan.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Trump Orders Approval of Alaska Mining Road to Boost Tech Minerals Access",
-    "domain": "business",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Mon, 06 Oct 2025 23:01:18 +0000",
-    "source": "Global News",
-    "sources": [
-      "Financial Post",
-      "Global News"
-    ],
-    "domains": [
-      "financialpost.com",
-      "globalnews.ca"
-    ],
-    "snippets": [
-      "U.S. Interior Secretary Doug Burgum said approval of Ambler Road will unlock access to critical minerals 'that we need to win the AI arms race against China.'",
-      "WASHINGTON (AP) &#8212; President Donald Trump on Monday ordered approval of a proposed 211-mile road through an Alaska wilderness to allow mining of copper, cobalt, gold and other minerals. The long-debated Ambler Road project was approved in Trump&#8217;s first term, but was later blocked by the B"
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/10/CP175122263.jpg?quality=65&strip=all",
-    "titles": [
-      "Trump approves Alaska mining road, stake in Canadian firm behind project",
-      "Trump approves Alaska mining road to boost copper, zinc production"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.975,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.707,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "President Donald Trump ordered the approval of the Ambler Road project, a 211-mile road through Alaska wilderness, to facilitate mining of copper, cobalt, gold, and other minerals. Initially approved during Trump's first term, the project aims to access critical minerals for technological advancements, as highlighted by U.S. Interior Secretary Doug Burgum, emphasizing its importance in the AI arms race against China.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -463,8 +510,8 @@
     "published": "Mon, 06 Oct 2025 23:38:01 +0000",
     "source": "Global News",
     "sources": [
-      "CityNews",
-      "Global News"
+      "Global News",
+      "CityNews"
     ],
     "domains": [
       "ottawa.citynews.ca",
@@ -481,13 +528,13 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.987,
+      "recency": 0.908,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.702,
-    "summary_source": "gpt",
+    "score": 0.687,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Coffee prices in Canada have risen due to a 28% increase in coffee bean costs compared to last year. Climate change, affecting temperature-sensitive coffee crops, is a major factor behind this surge. This has led to higher prices for consumers at roasters and cafés.",
     "constructiveness_score": 0.0,
@@ -502,14 +549,14 @@
     "published": "2025-10-06T09:51:00Z",
     "source": "Deutsche Welle",
     "sources": [
+      "Ars Technica",
       "Deutsche Welle",
-      "New Scientist",
-      "Ars Technica"
+      "New Scientist"
     ],
     "domains": [
       "www.newscientist.com",
-      "arstechnica.com",
-      "www.dw.com"
+      "www.dw.com",
+      "arstechnica.com"
     ],
     "snippets": [
       "Mary E. Brunkow, Fred Ramsdell, and Shimon Sakaguchi will be awarded the Nobel Prize in physiology or medicine for their instrumental work in improving our understanding of how the immune system functions.",
@@ -524,12 +571,12 @@
     ],
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.741,
+      "recency": 0.682,
       "consensus": 0.789,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.695,
+    "score": 0.683,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Mary E. Brunkow, Fred Ramsdell, and Shimon Sakaguchi were awarded the 2025 Nobel Prize in Physiology or Medicine for their groundbreaking research on how the immune system is regulated to prevent it from attacking the body's own tissues. Their work, which involves the identification of mechanisms that help maintain immune system balance, has been pivotal in advancing our understanding of autoimmunity. This US-Japanese team's discoveries have significantly contributed to the field of immunology.",
@@ -545,9 +592,9 @@
     "published": "2025-10-06T07:20:00Z",
     "source": "Deutsche Welle",
     "sources": [
+      "The Guardian",
       "Deutsche Welle",
-      "Washington Post",
-      "The Guardian"
+      "Washington Post"
     ],
     "domains": [
       "www.washingtonpost.com",
@@ -567,12 +614,12 @@
     ],
     "score_components": {
       "magnitude": 0.867,
-      "recency": 0.703,
+      "recency": 0.647,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.691,
+    "score": 0.68,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "US President Donald Trump expressed optimism about the speed of negotiations between Israel and Hamas, focusing on the release of hostages and ending the conflict. This comes as talks are set to begin, following a deadly day in Gaza where 63 people were killed by Israeli forces. Trump has urged for quick action in these discussions.",
@@ -581,253 +628,19 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Chargers' Omarion Hampton on Injured Reserve, Haskins and Vidal to Step Up",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Mon, 6 Oct 2025 19:57:34 EST",
-    "source": "ESPN",
-    "sources": [
-      "CBS Sports",
-      "ESPN"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "www.espn.com"
-    ],
-    "snippets": [
-      "Chargers starting running back Omarion Hampton will be placed on injured reserve due to an ankle injury, coach Jim Harbaugh said Monday.",
-      "Hassan Haskins and Kimani Vidal are next up in the Chargers' backfield"
-    ],
-    "image_url": "",
-    "titles": [
-      "Chargers placing top RB Hampton (ankle) on IR",
-      "Omarion Hampton injury update: Chargers RB (ankle) joins Najee Harris on IR, will miss at least four games"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.994,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.679,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Los Angeles Chargers' starting running back, Omarion Hampton, has been placed on injured reserve due to an ankle injury, as announced by coach Jim Harbaugh. Hassan Haskins and Kimani Vidal are set to take over duties in the Chargers' backfield following Hampton's injury.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Cardinals Coach Apologizes to Demercado After Sideline Dispute",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Mon, 6 Oct 2025 19:57:34 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "www.espn.com",
-      "www.nbcsports.com"
-    ],
-    "snippets": [
-      "Arizona Cardinals coach Jonathan Gannon said he apologized to Emari Demercado after a heated sideline conversation following the RB's unforced fumble.",
-      "After Cardinals running back Emari Demercado dropped the football inches short of capping a 72-yard run with a score, TV cameras captured images of coach Jonathan Gannon berating Demercado."
-    ],
-    "image_url": "",
-    "titles": [
-      "Gannon apologizes to Demercado for sideline spat",
-      "Cardinals coach Jonathan Gannon apologized to RB Emari Demercado for sideline interaction"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.994,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.679,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Arizona Cardinals coach Jonathan Gannon apologized to running back Emari Demercado after a heated exchange on the sideline, which occurred when Demercado fumbled the ball just short of scoring following a 72-yard run. The incident and subsequent apology were captured and reported by TV cameras.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Mark Sanchez Charged With Felony Battery After Altercation in Indianapolis",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Mon, 6 Oct 2025 19:57:34 EST",
-    "source": "ESPN",
-    "sources": [
-      "Sportsnet",
-      "ESPN"
-    ],
-    "domains": [
-      "www.sportsnet.ca",
-      "www.espn.com"
-    ],
-    "snippets": [
-      "Mark Sanchez is facing a felony battery charge over the altercation between the former NFL quarterback and a 69-year-old truck driver early Saturday in Indianapolis.",
-      "<p>Former NFL quarterback Mark Sanchez is now facing a felony charge of battery involving serious bodily injury in addition to the misdemeanor charges stemming from a weekend incident in Indianapolis that led to his arrest.</p>"
-    ],
-    "image_url": "",
-    "titles": [
-      "Sanchez now facing felony charge for altercation",
-      "Former NFL QB Mark Sanchez facing felony charge in Indianapolis altercation"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.994,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.679,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Former NFL quarterback and Fox Sports commentator Mark Sanchez has been charged with felony battery following an altercation with a 69-year-old truck driver in Indianapolis early Saturday.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Bills' Keon Coleman Benched for Discipline, Coach Seeks Consistency",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Mon, 6 Oct 2025 19:57:34 EST",
-    "source": "ESPN",
-    "sources": [
-      "CBS Sports",
-      "ESPN"
-    ],
-    "domains": [
-      "www.cbssports.com",
-      "www.espn.com"
-    ],
-    "snippets": [
-      "Buffalo Bills wide receiver Keon Coleman was benched for the first offensive series of Sunday night's loss to the New England Patriots due to \"discipline,\" head coach Sean McDermott said Monday.",
-      "McDermott wants to see 'more consistency' from the second-year wideout"
-    ],
-    "image_url": "",
-    "titles": [
-      "Bills benched WR Coleman for disciplinary reasons",
-      "Bills benched Keon Coleman for first series vs. Patriots due to disciplinary reasons, Sean McDermott reveals"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.994,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.679,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Buffalo Bills wide receiver Keon Coleman was benched for the first offensive series during Sunday night's game against the New England Patriots as a disciplinary action, according to head coach Sean McDermott. McDermott emphasized the need for \"more consistency\" from the second-year player.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Florida Panthers Receive Rings for Second Stanley Cup Win",
-    "domain": "sports",
-    "source_domain": "www.espn.com",
-    "location": "national",
-    "published": "Mon, 6 Oct 2025 19:57:34 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "www.usatoday.com",
-      "www.espn.com"
-    ],
-    "snippets": [
-      "The Florida Panthers handed out the rings from their second consecutive Stanley Cup title Monday, a day before the franchise will raise its back-to-back title banner on Opening Night, when they take on the Chicago Blackhawks at Amerant Bank Arena.",
-      "The Panthers got their NHL championship rings that pay homage to the fans' tradition of throwing plastic rats on the ice rink after victories."
-    ],
-    "image_url": "",
-    "titles": [
-      "Panthers receive Cup rings, prep for banner night",
-      "Florida Panthers receive NHL championship rings with engraved rat"
-    ],
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.994,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.679,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Florida Panthers received their NHL championship rings for their second consecutive Stanley Cup title on Monday. These rings honor the fans' tradition of throwing plastic rats on the ice after wins. The team will raise their back-to-back title banner during the season opener against the Chicago Blackhawks at Amerant Bank Arena.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Ja Morant Sidelined Indefinitely with Left Ankle Sprain",
-    "domain": "sports",
-    "source_domain": "www.nbcsports.com",
-    "location": "national",
-    "published": "Mon, 06 Oct 2025 23:44:33 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Sports Illustrated",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "news.google.com",
-      "www.nbcsports.com"
-    ],
-    "snippets": [
-      "Memphis already has its entire starting frontcourt out through training camp and into the season, now this.",
-      "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1IeVZmRGpvX0NYOGhBMm43NU1UeVhJcjdqTE5jQU5iSEM5bi1nU3BBWF9GRWNHOTRndVpPMGtLTkRiNnlkM29PaWw3VHFoXzEtaTN2UnF0YVd0c045cHhuSlZ4Uk1SV2llaC1aMnhOaw?oc=5\" target=\"_blank\">Ja Morant Suffers Ankle Injury in Practice as Grizzlies’ Injury Woes Continue"
-    ],
-    "image_url": "",
-    "titles": [
-      "Another Grizzlies injury: Ja Morant week-to-week with a sprained ankle",
-      "Ja Morant Suffers Ankle Injury in Practice as Grizzlies’ Injury Woes Continue - Sports Illustrated"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.99,
-      "consensus": 0.591,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.67,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Ja Morant, the Memphis Grizzlies all-star guard, is out on a week-to-week basis following a left ankle sprain sustained during practice. This injury puts his availability for the start of the regular season in doubt.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: sustain",
-    "constructiveness_source": "heuristic"
-  },
-  {
     "title": "Connor McDavid Signs Extension with Oilers Through 2027-28",
     "domain": "sports",
     "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Mon, 6 Oct 2025 15:44:48 EST",
+    "published": "Mon, 6 Oct 2025 23:47:26 EST",
     "source": "ESPN",
     "sources": [
       "Sportsnet",
       "ESPN"
     ],
     "domains": [
-      "www.sportsnet.ca",
-      "www.espn.com"
+      "www.espn.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
       "No. 97 is sticking with the Oilers through 2027-28 -- with a wide range of downstream impacts around the NHL.",
@@ -840,12 +653,12 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.911,
+      "recency": 0.99,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.662,
+    "score": 0.678,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Connor McDavid has extended his contract with the Edmonton Oilers through the 2027-28 season. The decision, discussed by Mark Spector on The FAN Hockey Show, reflects strategic planning for the Oilers' future success around McDavid. This extension is expected to have significant implications for the NHL.",
@@ -854,40 +667,318 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "US Government Shutdown Enters Second Week; Negotiations Ongoing",
-    "domain": "general",
-    "source_domain": "abcnews.go.com",
+    "title": "Dodgers Beat Phillies 4-3 in NLDS Game 2, Snell Dominates",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
     "location": "national",
-    "published": "Mon, 06 Oct 2025 19:46:59 -0400",
-    "source": "ABC News",
+    "published": "Mon, 6 Oct 2025 21:19:53 EST",
+    "source": "ESPN",
     "sources": [
-      "ABC News",
-      "The Guardian"
+      "Sportsnet",
+      "ESPN"
     ],
     "domains": [
-      "www.theguardian.com",
-      "abcnews.go.com"
+      "www.espn.com",
+      "www.sportsnet.ca"
     ],
     "snippets": [
-      "The Senate on Monday again rejected Democratic and Republican proposals to fund the government and end the shutdown, now in its sixth day.",
-      "<p>Competing bills fail to pass 60-vote threshold, while Trump hints at possible deal with Democrats over health subsidies </p><p>The US government shutdown entered its second week as the Senate again rejected rival bills to restart funding and Donald Trump suggested he might be open to negotiating "
+      "With a dominant effort from Blake Snell, a well executed wheel play, and one fortuitous scoop from Freddie Freeman for the final out, the Los Angeles Dodgers escaped with a thrilling 4-3 victory over the Philadelphia Phillies Monday in Game 2 of the NLDS.",
+      "<p>Blake Snell stuck out nine over six shutout innings of one-hit ball for the Dodgers before relievers Alex Vesia and Roki Sasaki thwarted Philadelphia&#8217;s ninth-inning rally, sending Los Angeles to a 4-3 victory over the Phillies in Game 2 of their NL Division Series on Monday night.</p>"
     ],
-    "image_url": "https://s.abcnews.com/images/US/shutdown-5-ap-gmh-251006_1759765397783_hpMain_4x3t_384.jpg",
+    "image_url": "",
     "titles": [
-      "Government shutdown updates: Senate again fails to pass funding bills",
-      "US shutdown enters second week as Senate again rejects rival funding bills"
+      "Dodgers spin wheel play into win, 2-0 NLDS lead",
+      "Dodgers’ bullpen holds off Phillies for commanding 2-0 lead in NLDS"
     ],
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.991,
+      "magnitude": 0.735,
+      "recency": 0.941,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.668,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The Los Angeles Dodgers won 4-3 against the Philadelphia Phillies in Game 2 of the NLDS, thanks to Blake Snell's six shutout innings with nine strikeouts and one hit allowed. Key defensive plays and effective relief pitching from Alex Vesia and Roki Sasaki halted a late Phillies rally, securing the Dodgers' victory.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Chargers' Omarion Hampton on Injured Reserve, Haskins and Vidal to Step Up",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Mon, 6 Oct 2025 21:19:53 EST",
+    "source": "ESPN",
+    "sources": [
+      "CBS Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Chargers starting running back Omarion Hampton will be placed on injured reserve due to an ankle injury, coach Jim Harbaugh said Monday.",
+      "Hassan Haskins and Kimani Vidal are next up in the Chargers' backfield"
+    ],
+    "image_url": "",
+    "titles": [
+      "Chargers placing top RB Hampton (ankle) on IR",
+      "Omarion Hampton injury update: Chargers RB (ankle) joins Najee Harris on IR, will miss at least four games"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.941,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.668,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The Los Angeles Chargers' starting running back, Omarion Hampton, has been placed on injured reserve due to an ankle injury, as announced by coach Jim Harbaugh. Hassan Haskins and Kimani Vidal are set to take over duties in the Chargers' backfield following Hampton's injury.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Mark Sanchez Charged With Felony Battery After Altercation in Indianapolis",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Mon, 6 Oct 2025 21:19:53 EST",
+    "source": "ESPN",
+    "sources": [
+      "Sportsnet",
+      "ESPN"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.sportsnet.ca"
+    ],
+    "snippets": [
+      "Mark Sanchez is facing a felony battery charge over the altercation between the former NFL quarterback and a 69-year-old truck driver early Saturday in Indianapolis.",
+      "<p>Former NFL quarterback Mark Sanchez is now facing a felony charge of battery involving serious bodily injury in addition to the misdemeanor charges stemming from a weekend incident in Indianapolis that led to his arrest.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Sanchez now facing felony charge for altercation",
+      "Former NFL QB Mark Sanchez facing felony charge in Indianapolis altercation"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.941,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.668,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Former NFL quarterback and Fox Sports commentator Mark Sanchez has been charged with felony battery following an altercation with a 69-year-old truck driver in Indianapolis early Saturday.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Bills' Keon Coleman Benched for Discipline, Coach Seeks Consistency",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Mon, 6 Oct 2025 21:19:53 EST",
+    "source": "ESPN",
+    "sources": [
+      "CBS Sports",
+      "ESPN"
+    ],
+    "domains": [
+      "www.espn.com",
+      "www.cbssports.com"
+    ],
+    "snippets": [
+      "Buffalo Bills wide receiver Keon Coleman was benched for the first offensive series of Sunday night's loss to the New England Patriots for \"discipline,\" head coach Sean McDermott said Monday.",
+      "McDermott wants to see 'more consistency' from the second-year wideout"
+    ],
+    "image_url": "",
+    "titles": [
+      "Bills benched WR Coleman for disciplinary reasons",
+      "Bills benched Keon Coleman for first series vs. Patriots due to disciplinary reasons, Sean McDermott reveals"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.941,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.668,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Buffalo Bills wide receiver Keon Coleman was benched for the first offensive series during Sunday night's game against the New England Patriots as a disciplinary action, according to head coach Sean McDermott. McDermott emphasized the need for \"more consistency\" from the second-year player.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Florida Panthers Receive Rings for Second Stanley Cup Win",
+    "domain": "sports",
+    "source_domain": "www.espn.com",
+    "location": "national",
+    "published": "Mon, 6 Oct 2025 21:19:53 EST",
+    "source": "ESPN",
+    "sources": [
+      "NHL",
+      "ESPN"
+    ],
+    "domains": [
+      "www.espn.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "The Florida Panthers handed out the rings from their second consecutive Stanley Cup title Monday, a day before the franchise will raise its back-to-back title banner on Opening Night, when they take on the Chicago Blackhawks at Amerant Bank Arena.",
+      "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOTktMUDg3cHhiUFQ4TUdMVmNUNjZKRkZYcU1GTks4dXp0eGtjMmZyT1hzLV82bW9PaXVYdDlYTkJvZS1oNU5lV0JpaUxzQ0t5LXpFM2RLWEM3VGVqUGt1dV93bkd0QWY0UVZSQjFna09lN0VOeG9WZHhYWVVkYXZZM3RkRGpOdFN1Q0xWZQ?oc=5\" target=\"_blank\">Panthers receive Stanley Cup rings in",
+      "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkQzV2p5bUtSUXNMRTBXSThTbWttbHprel9XdUwxTklpcTE3WVdSbm5MQlRSLWpvUjJXQVVfNjFiZndwSE5QTW1lMFRxLVhEMjhuZUxEQ3RUY2J0Ym81dEhTZFF0OTVIczJWYUpBMEJuamhRTGZhMkp0Z2J1ZFdkSDFyb0lWQ1hHd3JxWmxBSHpJQ3Z1ZmZlbXd3?oc=5\" target=\"_blank\">Florida Panthers Re"
+    ],
+    "image_url": "",
+    "titles": [
+      "Panthers receive Cup rings, prep for banner night",
+      "Panthers receive Stanley Cup rings in championship celebration - NHL.com",
+      "Florida Panthers Receive 2025 Stanley Cup Championship Rings - NHL.com"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.941,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.668,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The Florida Panthers received their NHL championship rings for their second consecutive Stanley Cup title on Monday. These rings honor the fans' tradition of throwing plastic rats on the ice after wins. The team will raise their back-to-back title banner during the season opener against the Chicago Blackhawks at Amerant Bank Arena.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Trump: Talks with Democrats Post-Shutdown; Asserts Authority in Portland Crackdo",
+    "domain": "general",
+    "source_domain": "www.aljazeera.com",
+    "location": "global",
+    "published": "Tue, 07 Oct 2025 03:11:52 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "LA Times"
+    ],
+    "domains": [
+      "www.latimes.com",
+      "www.aljazeera.com"
+    ],
+    "snippets": [
+      "US President Donald Trump says Democrats must end the shutdown before talks can start after six days of gridlock.",
+      "<p>Miller's rhetoric comes amid a federal crackdown on Portland, Ore., where he says the president has unchecked authority to protect federal lives and property.</p>"
+    ],
+    "image_url": "",
+    "titles": [
+      "Trump walks back offer to talk to Democrats as government shutdown extends",
+      "Trump advisors amp up extreme rhetoric against Democrats during government shutdown, immigration raids"
+    ],
+    "score_components": {
+      "magnitude": 0.775,
+      "recency": 0.978,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.66,
+    "score": 0.665,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The US government shutdown extended into its second week after the Senate failed to pass both Democratic and Republican funding bills. Negotiations continue as President Trump hints at a possible compromise involving health subsidies.",
+    "summary": "US President Donald Trump stated that discussions with Democrats would only begin after the shutdown ends, amidst a six-day gridlock. Concurrently, amid a federal crackdown in Portland, Oregon, Miller emphasized the president's authority to safeguard federal lives and property.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Tampa Bay's Last-Second Wins Shake Up NFL Rankings as Week 6 Nears",
+    "domain": "sports",
+    "source_domain": "sports.yahoo.com",
+    "location": "national",
+    "published": "Tue, 07 Oct 2025 03:37:24 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "Bleacher Report",
+      "Yahoo Sports"
+    ],
+    "domains": [
+      "news.google.com",
+      "thelistwire.usatoday.com",
+      "sports.yahoo.com"
+    ],
+    "snippets": [
+      "Tampa Bay is living off close, last-second wins so far.",
+      "The Eagles and Bills fell from the unbeaten ranks, while the Jaguars pulled of a stunner on Monday night. Heading into Week 6, a new top team appears.",
+      "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0pjczhBQmdkLUF3MUxIWUZZNkNfTW83eWRTeXVVUUxzRlprM09kSmV5Rzd4ZjJybVNvbGlHUjA3clhMT0tzZmJ1WEtBcHlvb2ZLWDduZWNWZEkzQzVMcmlXQ2dkR0p1eUxfQWZnZVlJVFZMeUEtME9BWmhHWmdGS1poMDNHazlR?oc=5\" target=\"_blank\">B/R Experts Week 6 NFL Power Rankings</a>&n"
+    ],
+    "image_url": "",
+    "titles": [
+      "NFL Power Rankings entering Week 6: Are the Buccaneers good, or just lucky?",
+      "NFL Power Rankings entering Week 6",
+      "B/R Experts Week 6 NFL Power Rankings - Bleacher Report"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.987,
+      "consensus": 0.611,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.657,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Tampa Bay has secured multiple narrow victories with last-second wins. Both the Eagles and Bills experienced their first losses, shaking up the rankings as Week 6 approaches. Meanwhile, the Jaguars achieved a surprising win on Monday night. Heading into the sixth week of NFL action, there's anticipation for a new top team to emerge in the power rankings.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Supreme Court Denies Google Appeal in Epic Games Case, Upholds Ruling",
+    "domain": "business",
+    "source_domain": "www.businessinsider.com",
+    "location": "global",
+    "published": "2025-10-07T02:03:10Z",
+    "source": "Business Insider",
+    "sources": [
+      "Financial Post",
+      "Business Insider"
+    ],
+    "domains": [
+      "financialpost.com",
+      "www.businessinsider.com"
+    ],
+    "snippets": [
+      "The Supreme Court denied Google's bid to temporarily block parts of a lower court ruling in its legal fight with Epic Games, the maker of Fortnite.",
+      "The U.S. Supreme Court on Monday refused to protect Google from a year-old order requiring a major makeover of its Android app store that&#8217;s designed to unleash more competition against a system that a jury declared an illegal monopoly. The rebuff delivered in a one-sentence decision by the Sup"
+    ],
+    "image_url": "https://i.insider.com/68e44a605dbc4fd10daa4aac?format=jpeg",
+    "titles": [
+      "Play Store downloads could soon get cheaper after the Supreme Court denies Google's bid to delay antitrust changes",
+      "Google’s Play Store shake-up looms after Supreme Court refuses to delay overhaul of the monopoly"
+    ],
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.955,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.646,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The U.S. Supreme Court declined Google's request to halt parts of a lower court's decision in its battle with Epic Games. This decision upholds a mandate for Google to modify its Android app store practices, following a jury's finding that the current system constitutes an illegal monopoly.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -897,15 +988,15 @@
     "domain": "technology",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Mon, 06 Oct 2025 18:54:57 GMT",
+    "published": "Mon, 06 Oct 2025 21:17:33 GMT",
     "source": "Axios",
     "sources": [
-      "TechCrunch",
-      "Axios"
+      "Axios",
+      "TechCrunch"
     ],
     "domains": [
-      "techcrunch.com",
-      "news.google.com"
+      "news.google.com",
+      "techcrunch.com"
     ],
     "snippets": [
       "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9BME9PcGhMV0FFcEdkTXlDclRQMlRQdTk1RWtKZEF5NWJEZExxM1VnQVRldWZUVTB1elZibk9xR3JodTVWWnhTa05vWUxrUkM0SnlQT1VzZkc1UUpUNDlaU3FUaUxrZS1XSnc?oc=5\" target=\"_blank\">OpenAI launches new feature to integrate third-party apps</a>&nbsp;&nbsp;<font color",
@@ -918,13 +1009,13 @@
     ],
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.877,
+      "recency": 0.847,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.637,
-    "summary_source": "gpt",
+    "score": 0.631,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "OpenAI has introduced a feature allowing developers to create apps within ChatGPT conversations. This new integration aims to enhance user experience and functionality within the platform.",
     "constructiveness_score": 0.0,
@@ -936,15 +1027,15 @@
     "domain": "business",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Mon, 06 Oct 2025 12:48:54 GMT",
+    "published": "Mon, 06 Oct 2025 13:19:28 GMT",
     "source": "Axios",
     "sources": [
       "CNBC",
       "Axios"
     ],
     "domains": [
-      "www.cnbc.com",
-      "news.google.com"
+      "news.google.com",
+      "www.cnbc.com"
     ],
     "snippets": [
       "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOMFB6eHNlOTdvV1NnV2tueE9QOW9VRTlBcnctbnZfX1hNQURLQ0JJbFJ4RXFkTUJEUDJ0NlI5VXlIQWM3UW5Ic2FsM3RMUExuNVNoYk9UQTBQSkNpcW4yRVZsa1JFUUtmMWgxeG1kYWgzMk5HTGtJT21BN2FRTGdzYw?oc=5\" target=\"_blank\">Paramount Skydance acquires The Free Press for $150M<",
@@ -957,13 +1048,13 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.772,
+      "recency": 0.718,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.619,
-    "summary_source": "gpt",
+    "score": 0.609,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Paramount Skydance has purchased The Free Press for $150 million. The online publication was founded by Bari Weiss. The acquisition marks a significant development in the media industry.",
     "constructiveness_score": 0.1,
@@ -982,8 +1073,8 @@
       "TechCrunch"
     ],
     "domains": [
-      "www.cnbc.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "www.cnbc.com"
     ],
     "snippets": [
       "Winners will be chosen by a panel including Instagram chief Adam Mosseri, filmmaker Spike Lee, designer Marc Jacobs and YouTuber Marques Brownlee.",
@@ -996,54 +1087,15 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.808,
+      "recency": 0.743,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.617,
-    "summary_source": "gpt",
+    "score": 0.604,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Meta has announced a competition with winners selected by a panel featuring Instagram's Adam Mosseri, filmmaker Spike Lee, designer Marc Jacobs, and YouTuber Marques Brownlee. This occurs as Meta reduces its creator payout programs.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Sharma: AI Vital for US Economic Stability, Warns of Risks Without It",
-    "domain": "business",
-    "source_domain": "www.ft.com",
-    "location": "global",
-    "published": "Mon, 06 Oct 2025 04:00:22 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Fortune",
-      "Financial Times"
-    ],
-    "domains": [
-      "www.ft.com",
-      "fortune.com"
-    ],
-    "snippets": [
-      "It’s seen as the magic fix for every threat to the US economy",
-      "“AI better deliver for the U.S., or its economy and markets will lose the one leg they are now standing on,” warns Ruchir Sharma of Rockefeller International."
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbe7daf2f-242b-4a43-812b-21e3de3be5eb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "America is now one big bet on AI",
-      "AI is becoming the ‘magic fix’ as America places ‘one big bet’ on it not being a bubble, market veteran warns"
-    ],
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.643,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.591,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Ruchir Sharma of Rockefeller International has highlighted the importance of artificial intelligence (AI) for the U.S. economy, indicating that it is crucial for maintaining economic and market stability. Sharma warns that without AI's success, the U.S. could face significant economic challenges.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1060,8 +1112,8 @@
       "Ars Technica"
     ],
     "domains": [
-      "arstechnica.com",
-      "www.theguardian.com"
+      "www.theguardian.com",
+      "arstechnica.com"
     ],
     "snippets": [
       "<p>Partial refund to be issued after several errors were found in a report into a department’s compliance framework</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"ht",
@@ -1074,52 +1126,15 @@
     ],
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.681,
+      "recency": 0.626,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.591,
+    "score": 0.58,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "A consulting firm will issue a partial refund due to multiple errors, including fake citations, found in a compliance framework report. The errors were acknowledged after the firm admitted to using GPT-4o in August.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "De Beers Unveils Major \"Desert Diamonds\" Campaign After a Decade",
-    "domain": "business",
-    "source_domain": "www.forbes.com",
-    "location": "global",
-    "published": "Mon, 06 Oct 2025 14:54:36 -0400",
-    "source": "Forbes",
-    "sources": [
-      "Forbes"
-    ],
-    "domains": [
-      "www.forbes.com"
-    ],
-    "snippets": [
-      "The London-based gemstone mining, distribution, and retail company is responding to consumer insights to promote its neutral range of colored diamonds.",
-      "De Beers launched its largest diamond campaign in a decade to promote \"Desert Diamonds,\" natural colored stones, emphasizing rarity, uniqueness and connection to nature."
-    ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68e40723d9699abdac24e882/0x0.jpg?width=960",
-    "titles": [
-      "De Beers Launches Desert Diamonds Campaign With Splashy New York Event",
-      "De Beers Unveils ‘Desert Diamonds’ In Major Campaign For Natural Over Lab-Grown Diamonds"
-    ],
-    "score_components": {
-      "magnitude": 0.393,
-      "recency": 0.895,
-      "consensus": 0.35,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.454,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "De Beers, a London-based gemstone company, has launched its biggest diamond campaign in ten years, focusing on \"Desert Diamonds.\" These natural colored diamonds are marketed for their rarity, uniqueness, and natural origin, responding to consumer demand for neutral-colored gemstones.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
