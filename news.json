@@ -64,13 +64,13 @@
     "link": "https://www.npr.org/2025/10/10/g-s1-93066/france-government-prime-minister-lecornu-macron",
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.942,
+      "recency": 0.866,
       "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.863,
-    "summary_source": "gpt",
+    "score": 0.848,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "French President Emmanuel Macron has reappointed Sébastien Lecornu as Prime Minister just days after Lecornu resigned from the position. Lecornu, who had left the role after less than a month and a new government collapse within 14 hours, is tasked with forming a government again and producing a budget for 2026. This move aims to address the political crisis and ensure the passage of a crucial budget.",
     "constructiveness_score": 0.0,
@@ -86,11 +86,10 @@
     "source": "BBC",
     "sources": [
       "BBC",
-      "Al Jazeera",
       "Deutsche Welle",
-      "Financial Times",
-      "Bloomberg",
       "Axios",
+      "CNBC",
+      "Financial Times",
       "The Guardian",
       "New York Times",
       "Ars Technica",
@@ -98,10 +97,10 @@
     ],
     "domains": [
       "bbc.com",
-      "aljazeera.com",
       "dw.com",
-      "ft.com",
       "news.google.com",
+      "cnbc.com",
+      "ft.com",
       "theguardian.com",
       "nytimes.com",
       "arstechnica.com",
@@ -109,11 +108,10 @@
     ],
     "snippets": [
       "The S&P 500 closed down 2.7%, its steepest fall since April, after the US president hit out at China.",
-      "The US president's announcement comes after China pledged to impose restrictions on the export of rare earth minerals.",
       "The new tariffs on Chinese goods will kick in on November 1. These tariffs are on top of the 30% duties already in place on Chinese imports.",
+      "Trump threatens 100% tariff on Chinese goods over rare earth restrictions Axios",
+      "Stock markets dropped on Trump's bellicose Truth Social post that said China is \"becoming very hostile\" in seeking tough export controls on rare earths.",
       "President says measures will include export controls on software and take effect from November 1 ‘or sooner’",
-      "Trump Announces Additional 100% Tariff on China, Export Controls Bloomberg.com",
-      "Trump threatens 100% tariff on Chinese goods over over rare earth restrictions Axios",
       "President accuses China of ‘very hostile’ moves and says additional tariffs could come on 1 November ‘or sooner’ Donald Trump has threatened to impose additional US tariffs of 100% on China from next month, accusing Beijing of “very hostile” moves to restrict exports of rare earths needed for Americ",
       "The president made the threat after Beijing imposed new global restrictions on the use of rare earth minerals, which are vital supplies for U.S. makers of chips and batteries.",
       "Trump claimed China's export controls on rare earths came \"out of nowhere.\"",
@@ -122,11 +120,10 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52b/live/d6a268a0-a5ef-11f0-af09-bf7f0464c1dc.jpg",
     "titles": [
       "Trump threatens to impose additional 100% tariff on China",
-      "Trump to hit China with 100 percent tariff amid escalating trade spat",
       "Trump says he will impose additional 100% tariffs on China",
-      "Trump reignites trade war with threat of additional 100% tariff on China",
-      "Trump Announces Additional 100% Tariff on China, Export Controls - Bloomberg.com",
-      "Trump threatens 100% tariff on Chinese goods over over rare earth restrictions - Axios",
+      "Trump threatens 100% tariff on Chinese goods over rare earth restrictions - Axios",
+      "Trump threatens 'massive' tariff hike on China over rare earths dispute",
+      "Donald Trump threatens extra 100% tariff as he retaliates against China",
       "Trump threatens 100% China tariffs as Beijing restricts rare-earth exports",
       "Trump Threatens 100% Tariffs on Chinese Goods",
       "“Extremely angry” Trump threatens “massive” tariff on all Chinese exports",
@@ -134,11 +131,10 @@
     ],
     "url": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
     "alternate_urls": [
-      "https://www.aljazeera.com/news/2025/10/10/trump-threatens-to-nix-meeting-with-chinas-xi-jinping-over-trade-tensions?traffic_source=rss",
       "https://www.dw.com/en/trump-says-he-will-impose-additional-100-tariffs-on-china/a-74315664?maca=en-rss-en-top-1022-rdf",
-      "https://www.ft.com/content/328e3195-909a-45fb-b118-9dafbd41262b",
-      "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjYtb2VrYzBnbExiSTlsMjJqaGlzWGJiOF8zSzRQajJocWUyeHV1N1B1VXBBNXZTdmFaSC1tOE5KUklSeWJUR3FYSmR2aGJ3N2ZMVkhJZkptNE1XQzR4Nm5ZbWVXWDRDS29JdFNjbGdnYmU5Qm5aMndJRjlxOG0yZlB4ZXJSR1lnVHlxSE5mWV9JVDFJbVVhYUloS3hQWWxrazhKblh0MDRVbFkxampiSTNR?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lcFF0emJhMzc2ZGlPa0VaSmhhc0ZkVGc4c0NsSFZrMVYxSlZnNXJmSzdNZTVac1ItMVRnSVhsNGRIbXdHX2tYTUFwMzB5b1VWTk1OVE9tQUh3VzdzT0x4M1A5b0kzZ1VVeU10Q0dxbU1MVUEy?oc=5",
+      "https://www.cnbc.com/2025/10/10/trump-china-tariffs-rare-earths.html",
+      "https://www.ft.com/content/328e3195-909a-45fb-b118-9dafbd41262b",
       "https://www.theguardian.com/us-news/2025/oct/10/trump-china-tariffs",
       "https://www.nytimes.com/2025/10/10/us/politics/trump-xi-china-tariffs-rare-earth.html",
       "https://arstechnica.com/tech-policy/2025/10/extremely-angry-trump-threatens-massive-tariff-on-all-chinese-exports/",
@@ -147,17 +143,75 @@
     "link": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.947,
+      "recency": 0.871,
       "consensus": 1.0,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.849,
-    "summary_source": "gpt",
+    "score": 0.834,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The S&P 500 dropped 2.7% after President Trump announced plans to impose an additional 100% tariff on Chinese goods and export controls on software, starting November 1 or sooner. This decision follows China's new restrictions on rare earth mineral exports, essential for U.S. tech manufacturing. These measures add to the existing 30% duties on Chinese imports, escalating tensions between the U.S. and China. Trump criticized China's actions as \"very hostile,\" citing the impact on American industries.",
     "constructiveness_score": 0.1,
     "constructiveness_reason": "keywords: plan",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "AstraZeneca Cuts Drug Costs for Medicaid Under Trump Deal",
+    "domain": "business",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Fri, 10 Oct 2025 23:41:19 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Axios",
+      "CNBC",
+      "The Guardian",
+      "Bloomberg"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "news.google.com",
+      "cnbc.com",
+      "theguardian.com"
+    ],
+    "snippets": [
+      "The US president told reporters he didn't think the deal would have been possible without his 100-percent tariff threat.",
+      "Trump unveils drug price deal with AstraZeneca Axios",
+      "Trump announced the agreement with AstraZeneca on Friday, after striking a similar deal with Pfizer late last month.",
+      "Company to sell some medicines at a discount to US’s Medicaid health plan in exchange for tariff relief Donald Trump announced a deal with the British-based drugmaker AstraZeneca for a “most-favored-nation” drug-pricing model aimed at making prescription medicines more affordable and avoiding the ad",
+      "Trump Announces AstraZeneca Drug Price Cuts for Tariff Reprieve Bloomberg.com"
+    ],
+    "image_url": "",
+    "titles": [
+      "Trump reveals prescription drug deal with pharmaceutical giant AstraZeneca",
+      "Trump unveils drug price deal with AstraZeneca - Axios",
+      "Trump reaches deal with AstraZeneca to lower U.S. drug prices",
+      "AstraZeneca makes deal with Trump to lower drug prices and avoid tariffs",
+      "Trump Announces AstraZeneca Drug Price Cuts for Tariff Reprieve - Bloomberg.com"
+    ],
+    "url": "https://www.aljazeera.com/news/2025/10/10/trump-reveals-prescription-drug-deal-with-pharmaceutical-giant-astrazeneca?traffic_source=rss",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VaW5WTVZESTRmODJmUGo1aUZpMkJXNmhqazlIVUUzRTBxUVRqTE56VE16bTJST1lIOXJiMDFxWEV2WVNlT0dnQklIT2NrUWhNMmZrRUx0dEF2RWFBODJJN3NIcEZhd0NfTjlMRU5FNjk?oc=5",
+      "https://www.cnbc.com/2025/10/10/trump-astrazeneca-drug-pricing-deal.html",
+      "https://www.theguardian.com/us-news/2025/oct/10/trump-astrazeneca-drug-prices",
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVVPRkNqeGdpU0R1WExVcmFHbVRjUWdDR28zNEFvWmw0TTc1b0N6V0ZYSlRBZTVQRUpFR212cV9KdlVfbk5oR2pFRG9NS2FnNGZhbDdMUWc4OVNvTFM0ODdvb29vLVJuM3p5S2luNnJDY19qTUdMU1B1NmJnRkJTRzRsanM0TzI3M1lpcG9zVE1WMzZYNlBhbldSbjJpbE9iZ2hFX3pkUFlTcC1SanBrMzctbkdlUQ?oc=5"
+    ],
+    "link": "https://www.aljazeera.com/news/2025/10/10/trump-reveals-prescription-drug-deal-with-pharmaceutical-giant-astrazeneca?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.984,
+      "recency": 0.909,
+      "consensus": 0.975,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.83,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "AstraZeneca, a UK-based drugmaker, has agreed to lower prescription drug costs for Medicaid in the US as part of a deal with the Trump administration. This agreement, aimed at making prescription medicines more affordable, involves selling some medicines at a discount to Medicaid in exchange for tariff relief. This makes AstraZeneca the second company to strike such a deal under Trump's initiative to reduce U.S. drug prices.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: initiative",
     "constructiveness_source": "heuristic"
   },
   {
@@ -189,7 +243,7 @@
       "Machado is recognised for \"tireless work promoting democratic rights\" in Venezuela, the Nobel Committee says.",
       "Maria Corina Machado called on Donald Trump directly to help her country which continues to be at crisis.",
       "Former Venezuelan opposition leader Maria Corina Machado, who's in hiding, is the 2025 Nobel Peace Prize winner.",
-      "The Nobel Peace Prize for 2025 has gone to Maria Corina Machado. The committee lauded \"her tireless work promoting democratic rights for the people of Venezuela.\" Follow DW for more.",
+      "The Nobel Peace Prize for 2025 has gone to Maria Corina Machado. The committee lauded \"her tireless work promoting democratic rights for the people of Venezuela.\"",
       "Opponent of Maduro regime receives award and praise for keeping ‘flame of democracy burning’ The Venezuelan opposition politician María Corina Machado has won the Nobel peace prize for her dogged struggle to rescue the South American country from its fate as “a brutal, authoritarian state”. Machado,",
       "The Nobel Prize Committee honored Machado, who is in hiding, for keeping “the flame of democracy burning.” The White House accused members of “placing politics over peace.”",
       "The Norwegian Nobel Committee praised “her tireless work promoting democratic rights.” Ms. Machado, who built one of Venezuela’s most important political movements, has been in hiding since last year.",
@@ -225,12 +279,12 @@
     "link": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss",
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.868,
+      "recency": 0.798,
       "consensus": 1.0,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.834,
+    "score": 0.82,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The 2025 Nobel Peace Prize has been awarded to Venezuelan opposition leader María Corina Machado for her efforts in promoting democratic rights in Venezuela. The Norwegian Nobel Committee praised her as an exemplar of civilian courage in Latin America, highlighting her work towards a peaceful transition from dictatorship to democracy. Machado, who is currently in hiding from President Nicolás Maduro's government, has been recognized for keeping the flame of democracy alive in Venezuela. This announcement has overshadowed speculation about other potential recipients, including former U.S. Presi",
@@ -239,103 +293,60 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "AstraZeneca Cuts Drug Costs for Medicaid Under Trump Deal",
-    "domain": "general",
-    "source_domain": "npr.org",
-    "location": "national",
-    "published": "Fri, 10 Oct 2025 19:21:23 -0400",
-    "source": "NPR",
+    "title": "Qatar to Build Air Force Training Facility in Idaho, US Announces",
+    "domain": "business",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Fri, 10 Oct 2025 21:37:32 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "NPR",
-      "ABC News",
+      "Al Jazeera",
+      "Axios",
+      "CNBC",
+      "Financial Times",
       "The Guardian"
     ],
     "domains": [
-      "npr.org",
-      "abcnews.go.com",
+      "aljazeera.com",
+      "news.google.com",
+      "cnbc.com",
+      "ft.com",
       "theguardian.com"
     ],
     "snippets": [
-      "The U.K.-based drugmaker became the second to strike a deal with the Trump administration as part of the president's push to rein in U.S. drug prices.",
-      "AstraZeneca has agreed to lower prescription drug costs for Medicaid under a deal with the Trump administration",
-      "Company to sell some medicines at a discount to US’s Medicaid health plan in exchange for tariff relief Donald Trump announced a deal with the British-based drugmaker AstraZeneca for a “most-favored-nation” drug-pricing model aimed at making prescription medicines more affordable and avoiding the ad"
+      "US, Qatar sign letter of agreement to bring Qatari F-15 fighter jet contingent to US base, hail increased cooperation.",
+      "Qatar to build air force facility on U.S. base in Idaho Axios",
+      "Hegseth The Defense secretary made the announcement at a Pentagon press conference with Sheikh Saoud bin Abdulrahman Al Thani, Qatar's defense minister.",
+      "Pentagon’s approval for project draws fire from Maga influencer and Trump ally Laura Loomer",
+      "Earlier, Pentagon chief shared that location would host ‘contingent of Qatari F-15s and pilots’. This blog is now closed. White House announces federal worker layoffs as government shutdown nears third week As the shutdown enters its 10th day, and both chambers are out of session today, House speake"
     ],
     "image_url": "",
     "titles": [
-      "AstraZeneca makes deal with White House to lower drug prices",
-      "AstraZeneca agrees to lower drug prices for Medicaid under Trump administration deal",
-      "AstraZeneca makes deal with Trump to lower drug prices and avoid tariffs"
+      "Pentagon chief Hegseth announces Qatari Air Force facility at Idaho base",
+      "Qatar to build air force facility on U.S. base in Idaho - Axios",
+      "Qatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth says",
+      "Qatar to build fighter jet facility at US base in Idaho",
+      "After uproar, Pete Hegseth clarifies Qatari air force facility in Idaho is not a foreign base – as it happened"
     ],
-    "url": "https://www.npr.org/sections/shots-health-news/2025/10/10/nx-s1-5571070/astrazeneca-trump-drug-prices",
+    "url": "https://www.aljazeera.com/news/2025/10/10/pentagon-chief-hegseth-announces-qatari-air-force-facility-at-idaho-base?traffic_source=rss",
     "alternate_urls": [
-      "https://abcnews.go.com/Politics/wireStory/astrazeneca-agrees-lower-drug-prices-medicaid-trump-administration-126418888",
-      "https://www.theguardian.com/us-news/2025/oct/10/trump-astrazeneca-drug-prices"
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJd2VKcU0xaVpkVXBRb0dfQzhBUXNURHZmOUZicXBBLUZxZmIzbHBuaEx0elVLd0UzTzUxa3gwRklUV1JRSkpIc1FGaEQwSVBzYTdTUHd2Y2dFblhwMndvc05zT2JJTEdIdFF6NE5LR1o1cGdSTmVZ?oc=5",
+      "https://www.cnbc.com/2025/10/10/us-qatar-air-force-idaho-hegseth-defense.html",
+      "https://www.ft.com/content/7d4410d7-1525-42e2-a610-0df13556e3f9",
+      "https://www.theguardian.com/us-news/live/2025/oct/10/letitia-james-donald-trump-us-politics-live-news-updates"
     ],
-    "link": "https://www.npr.org/sections/shots-health-news/2025/10/10/nx-s1-5571070/astrazeneca-trump-drug-prices",
+    "link": "https://www.aljazeera.com/news/2025/10/10/pentagon-chief-hegseth-announces-qatari-air-force-facility-at-idaho-base?traffic_source=rss",
     "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.982,
-      "consensus": 0.789,
-      "constructiveness": 0.1,
-      "proximity": 0.75
-    },
-    "score": 0.782,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "AstraZeneca, a UK-based drugmaker, has agreed to lower prescription drug costs for Medicaid in the US as part of a deal with the Trump administration. This agreement, aimed at making prescription medicines more affordable, involves selling some medicines at a discount to Medicaid in exchange for tariff relief. This makes AstraZeneca the second company to strike such a deal under Trump's initiative to reduce U.S. drug prices.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: initiative",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Cody Bellinger Expected to Opt Out, Enter Free Agency",
-    "domain": "sports",
-    "source_domain": "cbssports.com",
-    "location": "national",
-    "published": "Fri, 10 Oct 2025 20:23:20 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "CBS Sports",
-      "Yahoo Sports",
-      "Sports Illustrated",
-      "Sportsnet"
-    ],
-    "domains": [
-      "cbssports.com",
-      "sports.yahoo.com",
-      "news.google.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "Bellinger, a Yankee in 2025, is coming off his best season since 2019",
-      "If the Yankees want Cody Bellinger back, it probably won't be cheap.",
-      "Yankees Outfielder Cody Bellinger Expected to Opt for Free Agency Sports Illustrated",
-      "Outfielder Cody Bellinger is planning to opt out of his contract with the Yankees and become a free agent, ESPN’s Jorge Castillo reported on Friday."
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/10/10/3f2f5c84-85d2-4e32-bf48-d731b05d415c/cody-bellinger-getty-4.png",
-    "titles": [
-      "Yankees' Cody Bellinger to opt out of contract and hit free agency, per report",
-      "Cody Bellinger to opt out of contract, adding another item to Yankees' offseason checklist",
-      "Yankees Outfielder Cody Bellinger Expected to Opt for Free Agency - Sports Illustrated",
-      "Report: Yankees’ Cody Bellinger to opt out of contract, become free agent"
-    ],
-    "url": "https://www.cbssports.com/mlb/news/yankees-cody-bellinger-to-opt-out-of-contract-and-hit-free-agency-per-report/",
-    "alternate_urls": [
-      "https://sports.yahoo.com/mlb/breaking-news/article/cody-bellinger-to-opt-out-of-contract-adding-another-item-to-yankees-offseason-checklist-232228391.html",
-      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjl4N29NNzRLQk1VME5ydnUxclAzQUdiaHBuRFNYSGlZMzNGX0JOa0JLLUxoby1WNjk0V2hCWjVCZU9nZUNtWHoxVzdHNll3WG5tYlQtUzBHRlZ6UzMyZkhOWUdIRnc3U0hBbzdzaWw3MGRBYWg0dlpRS0IyRE1OemxHYnVhd0J6?oc=5"
-    ],
-    "link": "https://www.cbssports.com/mlb/news/yankees-cody-bellinger-to-opt-out-of-contract-and-hit-free-agency-per-report/",
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.923,
-      "consensus": 0.908,
+      "magnitude": 0.964,
+      "recency": 0.87,
+      "consensus": 0.995,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.774,
-    "summary_source": "gpt",
+    "score": 0.81,
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "Cody Bellinger, having had his best season since 2019, is expected to opt out of his contract with the Yankees and enter free agency, according to ESPN's Jorge Castillo. This move suggests that if the Yankees wish to retain Bellinger, it may come at a higher cost.",
+    "summary": "The US Defense Secretary announced at a Pentagon press conference with Qatar's Defense Minister, Sheikh Saoud bin Abdulrahman Al Thani, that Qatar will construct an air force facility in Idaho. This facility will be used for training Qatari pilots to operate F-15 fighter jets.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -343,45 +354,50 @@
   {
     "title": "Trump Administration Begins Federal Worker Layoffs Amid Shutdown",
     "domain": "business",
-    "source_domain": "npr.org",
-    "location": "national",
-    "published": "Fri, 10 Oct 2025 14:27:00 -0400",
-    "source": "NPR",
+    "source_domain": "dw.com",
+    "location": "global",
+    "published": "2025-10-11T00:00:00Z",
+    "source": "Deutsche Welle",
     "sources": [
-      "NPR",
-      "Axios",
+      "Deutsche Welle",
+      "The Guardian",
+      "Forbes",
       "Business Insider"
     ],
     "domains": [
-      "npr.org",
-      "news.google.com",
+      "dw.com",
+      "theguardian.com",
+      "forbes.com",
       "businessinsider.com"
     ],
     "snippets": [
-      "The Trump administration says it has started the process of issuing \"substantial\" reduction-in-force notices to federal employees. Court filings suggest around 4,200 affected so far.",
-      "Trump officials say at least 4,100 federal worker layoffs have begun Axios",
+      "The White House has begun what it called \"substantial\" mass layoffs, as Republicans and Democrats continue to spar over the state budget. Trump suggested the layoffs were a tool to pressure the Democrats.",
+      "AFL-CIO fights issue in court as union leader warns of ‘devastating effects’ for Americans The White House announced layoffs of federal workers on Friday, making good on a threat it had made in response to the US government shutdown , which now appears set to stretch into a third straight week. Russ",
+      "The Office Of Management and Budget said the layoffs are “substantial,” multiple outlets reported.",
       "The federal government has begun to fire employees. Thousands remain furloughed or are working without pay."
     ],
     "image_url": "",
     "titles": [
-      "White House says 'substantial' layoffs of federal workers have begun, with few details",
-      "Trump officials say at least 4,100 federal worker layoffs have begun - Axios",
+      "US: White House starts mass layoffs amid shutdown impasse",
+      "White House announces federal worker layoffs as shutdown nears third week",
+      "Trump Begins Threatened Mass Layoffs During Shutdown",
       "The White House has identified more than 4,100 federal workers for layoffs as the shutdown drags on"
     ],
-    "url": "https://www.npr.org/2025/10/10/nx-s1-5570933/shutdown-federal-workers-rifs-layoffs-vought",
+    "url": "https://www.dw.com/en/us-white-house-starts-mass-layoffs-amid-shutdown-impasse/a-74315245?maca=en-rss-en-top-1022-rdf",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMickFVX3lxTFBrQ2JaWW5VWl84cE9Md0x0dnRYdVVTMXFNWDFfdjh0NW9LSlNxZ0FwOVJQMWxqaEIyN0F4OWJoMHFxWUxXa25HX0hVLUdHZHdiV2hhcngybGhJd2lud1BHX3hhdTExcDhJMHk5emFveGVsZw?oc=5",
+      "https://www.theguardian.com/us-news/2025/oct/10/federal-workers-pay-government-shutdown",
+      "https://www.forbes.com/sites/saradorn/2025/10/10/trump-begins-threatened-mass-layoffs-during-shutdown/",
       "https://www.businessinsider.com/federal-worker-firings-during-government-shutdown-what-we-know-2025-10"
     ],
-    "link": "https://www.npr.org/2025/10/10/nx-s1-5570933/shutdown-federal-workers-rifs-layoffs-vought",
+    "link": "https://www.dw.com/en/us-white-house-starts-mass-layoffs-amid-shutdown-impasse/a-74315245?maca=en-rss-en-top-1022-rdf",
     "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.886,
-      "consensus": 0.789,
+      "magnitude": 0.932,
+      "recency": 0.914,
+      "consensus": 0.908,
       "constructiveness": 0.1,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.763,
+    "score": 0.796,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Trump administration has initiated layoffs of federal workers, following through on a threat linked to the US government shutdown. While the exact number of affected employees and agencies remains unspecified, the move has prompted significant concern, with unions like AFL-CIO planning legal action due to the anticipated negative impact on Americans. This development comes as thousands of federal employees continue to be furloughed or work without pay.",
@@ -390,49 +406,109 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Tigers Face Mariners in Game 5 Showdown for ALCS Spot",
-    "domain": "sports",
-    "source_domain": "espn.com",
-    "location": "national",
-    "published": "Fri, 10 Oct 2025 19:45:12 EST",
-    "source": "ESPN",
+    "title": "Explosion at Tennessee Munitions Plant: Unknown Fatalities, 19 Missing",
+    "domain": "business",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Fri, 10 Oct 2025 22:58:15 GMT",
+    "source": "BBC",
     "sources": [
-      "ESPN",
-      "Sports Illustrated",
-      "Sportsnet"
+      "BBC",
+      "Al Jazeera",
+      "The Guardian",
+      "Forbes"
     ],
     "domains": [
-      "espn.com",
-      "news.google.com",
-      "sportsnet.ca"
+      "bbc.com",
+      "aljazeera.com",
+      "theguardian.com",
+      "forbes.com"
     ],
     "snippets": [
-      "Will Detroit secure the win in Seattle to advance to the ALCS or will the Mariners move on to face Toronto?",
-      "Mariners will Start George Kirby against Tiger's Tarik Skubal in Deciding Game 5 Sports Illustrated",
-      "Tarik Skubal gets the ball for Detroit as the Tigers face George Kirby and the Seattle Mariners in a winner-take-all Game 5 to set up a date with the Blue Jays. First pitch is at 8:08 p.m. ET / 5:08 p.m. PT on Sportsnet and Sportsnet +."
+      "\"There's nothing to describe, it's gone,\" says Humphreys County Sheriff Mike Davis, who grew emotional while providing an update about the most devastating incident of his career.",
+      "Authorities in the southern US state have called the blast 'devastating', with many of the missing presumed dead.",
+      "Police chief calls explosion near Bucksnort, south-west of Nashville, ‘devastating’ and says ‘we have some deceased’ Nineteen people are missing and feared dead following a huge explosion at a military munitions plant in Tennessee. The powerful blast ripped through the explosives manufacturing plant",
+      "The early morning blast leveled a building, prompting a joint investigation and search for missing workers."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e13a/live/96ab36a0-a621-11f0-92db-77261a15b9d2.jpg",
+    "titles": [
+      "Nineteen missing after explosion at Tennessee munitions factory",
+      "Massive explosion at Tennessee munitions factory leaves 19 people missing",
+      "Nineteen people feared dead after blast at Tennessee munitions plant",
+      "Tennessee Munitions Plant Explosion – What We Know"
+    ],
+    "url": "https://www.bbc.com/news/articles/c89d4zw8704o?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://www.aljazeera.com/news/2025/10/11/massive-explosion-at-tennessee-munitions-factory-leaves-19-people-missing?traffic_source=rss",
+      "https://www.theguardian.com/us-news/2025/oct/10/tennessee-military-explosives-plant-explosion",
+      "https://www.forbes.com/sites/martinacastellanos/2025/10/10/tennessee-munitions-plant-explosion--what-we-know/"
+    ],
+    "link": "https://www.bbc.com/news/articles/c89d4zw8704o?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.877,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.765,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "A massive explosion at a military munitions plant in Tennessee resulted in an unknown number of fatalities, with 19 people missing and feared dead. The incident, described as \"devastating\" by local law enforcement, occurred early in the morning, completely destroying a building. Humphreys County Sheriff Mike Davis and the police chief of Bucksnort confirmed the severity of the situation and a joint investigation is underway to search for missing workers and determine the cause.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "US Government Issues Layoff Notices Amid Shutdown, Affecting Thousands",
+    "domain": "business",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Fri, 10 Oct 2025 19:46:17 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Axios",
+      "CNBC",
+      "Ars Technica"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "news.google.com",
+      "cnbc.com",
+      "arstechnica.com"
+    ],
+    "snippets": [
+      "Reduction-in-force notifications have gone out to employees in departments including the Treasury and Homeland Security.",
+      "Trump officials lay off more HHS employees amid government shutdown Axios",
+      "The Trump administration and Republicans have sought to blame Democrats for the government shutdown, and any negative fallout from it.",
+      "HHS would not say how many are being let go, but union says \"thousands.\""
     ],
     "image_url": "",
     "titles": [
-      "How Mariners, Tigers can win decisive Game 5",
-      "Mariners will Start George Kirby against Tiger's Tarik Skubal in Deciding Game 5 - Sports Illustrated",
-      "ALDS on Sportsnet: Tigers vs. Mariners, Game 5"
+      "Trump announces layoffs amid government shutdown, despite legal questions",
+      "Trump officials lay off more HHS employees amid government shutdown - Axios",
+      "Trump says 'a lot' of federal workers are being laid off during government shutdown",
+      "Trump admin fires more health employees amid government shutdown"
     ],
-    "url": "https://www.espn.com/mlb/story/_/id/46546182/mlb-playoffs-2025-division-series-alds-game-5-mariners-tigers-updates-analysis",
+    "url": "https://www.aljazeera.com/news/2025/10/10/trump-announces-layoffs-amid-government-shutdown-despite-legal-questions?traffic_source=rss",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXZJLWhDbktGci1QQ0lUMjA2VGU3Vmd4RmN0aTBZSWVGaWJVOEE0bDZPbG1DS2lYWDhEMEJlRjBPbi1aaVJEbjVldDVJTFV6R3hfbGJiQkhZYTdqM2ZQNERkRXhWSloyRkY3VWdkLU1peGdleG1LdTZQM0s5MS1XZDNRQ2x5dWlqZGI1cndxLWkzWk1NWlU1N2lfa0I1emFZcVVCblNFY29UQ0U?oc=5"
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlNoVXdMOFhhdWlhQnJEMnNfWjJ3c1lFU2NncjlqSktSbm9wV0NwbkV4cm9PX0FGS1Q4Z2FLMS1HMWhGS2JPTHM4WTAyR2hZY2dMT0o3cnBVdnNZeXZ0YUxudFlKYmR1WThpWWl3QXpOUGxCb1o4N0tyV0k4cDhTX2JGc3E?oc=5",
+      "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
+      "https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/"
     ],
-    "link": "https://www.espn.com/mlb/story/_/id/46546182/mlb-playoffs-2025-division-series-alds-game-5-mariners-tigers-updates-analysis",
+    "link": "https://www.aljazeera.com/news/2025/10/10/trump-announces-layoffs-amid-government-shutdown-despite-legal-questions?traffic_source=rss",
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.99,
-      "consensus": 0.789,
+      "magnitude": 0.912,
+      "recency": 0.837,
+      "consensus": 0.908,
       "constructiveness": 0.0,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.76,
+    "score": 0.764,
     "summary_source": "cache",
     "summary_reason": "",
-    "summary": "In a decisive Game 5 on Friday night, the Detroit Tigers and Seattle Mariners will compete to advance to the ALCS. The Tigers, with Tarik Skubal pitching, aim to upset the Mariners in Seattle and secure a spot to face the Toronto Blue Jays. This marks the second consecutive year the Tigers are on the cusp of reaching the ALCS.",
+    "summary": "The US government has issued reduction-in-force notifications to employees in several departments, including the Treasury and Homeland Security, amid a government shutdown. Additionally, Trump administration officials have laid off more employees within the Department of Health and Human Services (HHS), though the exact number has not been disclosed. However, the union representing these workers claims that \"thousands\" are being affected by these layoffs.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -442,7 +518,7 @@
     "domain": "sports",
     "source_domain": "espn.com",
     "location": "national",
-    "published": "Fri, 10 Oct 2025 19:03:33 EST",
+    "published": "Fri, 10 Oct 2025 22:43:45 EST",
     "source": "ESPN",
     "sources": [
       "ESPN",
@@ -472,13 +548,13 @@
     "link": "https://www.espn.com/nfl/story/_/id/46555406/niners-jones-start-again-purdy-place-pearsall-out",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.976,
+      "recency": 0.968,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.757,
-    "summary_source": "gpt",
+    "score": 0.755,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Mac Jones is expected to start as quarterback for San Francisco against Tampa Bay on Sunday, stepping in for the injured Brock Purdy, who will miss his fourth game of the season due to a toe injury. Despite battling knee and oblique injuries, Jones, who has not lost a start this season, will take the field. Meanwhile, receiver Ricky Pearsall will be sidelined for the second consecutive game. Purdy remains the team's franchise quarterback.",
     "constructiveness_score": 0.0,
@@ -486,99 +562,97 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Qatar to Build Air Force Training Facility in Idaho, US Announces",
-    "domain": "business",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Fri, 10 Oct 2025 21:37:32 +0000",
-    "source": "Al Jazeera",
+    "title": "Pujols Talks Angels Manager Role with GM, No Offer Yet",
+    "domain": "sports",
+    "source_domain": "espn.com",
+    "location": "national",
+    "published": "Fri, 10 Oct 2025 22:43:46 EST",
+    "source": "ESPN",
     "sources": [
-      "Al Jazeera",
-      "Axios",
-      "Financial Times"
+      "ESPN",
+      "Sports Illustrated",
+      "Sportsnet"
     ],
     "domains": [
-      "aljazeera.com",
+      "espn.com",
       "news.google.com",
-      "ft.com"
+      "sportsnet.ca"
     ],
     "snippets": [
-      "US, Qatar sign letter of agreement to bring Qatari F-15 fighter jet contingent to US base, hail increased cooperation.",
-      "Qatar to build air force facility on U.S. base in Idaho Axios",
-      "Pentagon’s approval for project draws fire from Maga influencer and Trump ally Laura Loomer"
+      "Albert Pujols met with Angels general manager Perry Minasian about the team's managerial vacancy Thursday night but hasn't been offered the job, a source told ESPN.",
+      "Angels in Discussions With Albert Pujols on Manager Opening: Report Sports Illustrated",
+      "Albert Pujols has met with the Los Angeles Angels about returning to their dugout as their next manager, a person with knowledge of the meeting told The Associated Press on Friday."
     ],
     "image_url": "",
     "titles": [
-      "Pentagon chief Hegseth announces Qatari Air Force facility at Idaho base",
-      "Qatar to build air force facility on U.S. base in Idaho - Axios",
-      "Qatar to build fighter jet facility at US base in Idaho"
+      "Source: Pujols, Angels discuss managerial opening",
+      "Angels in Discussions With Albert Pujols on Manager Opening: Report - Sports Illustrated",
+      "Report: Albert Pujols has met with Angels about managerial opening"
     ],
-    "url": "https://www.aljazeera.com/news/2025/10/10/pentagon-chief-hegseth-announces-qatari-air-force-facility-at-idaho-base?traffic_source=rss",
+    "url": "https://www.espn.com/mlb/story/_/id/46555875/pujols-meets-angels-managerial-opening",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJd2VKcU0xaVpkVXBRb0dfQzhBUXNURHZmOUZicXBBLUZxZmIzbHBuaEx0elVLd0UzTzUxa3gwRklUV1JRSkpIc1FGaEQwSVBzYTdTUHd2Y2dFblhwMndvc05zT2JJTEdIdFF6NE5LR1o1cGdSTmVZ?oc=5",
-      "https://www.ft.com/content/7d4410d7-1525-42e2-a610-0df13556e3f9"
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX3A0T1dXaktsMlRWNDdLdFZHUzVmQlM3Q19pWkRZZVFGR1daRmtVSXRTbmJ5ZHFndmV4MjJJQkdDeGJ6RllRbDNyRnhtcjlGRDZhVU5VVjVKeVZCTkMtZG5XYnlBdmVpcHF6dXNMZjlQMlFHcnhsVDFMWDByWW5pV3R6dWhhRHZIT29nMWl6Ui1lRkE?oc=5"
     ],
-    "link": "https://www.aljazeera.com/news/2025/10/10/pentagon-chief-hegseth-announces-qatari-air-force-facility-at-idaho-base?traffic_source=rss",
+    "link": "https://www.espn.com/mlb/story/_/id/46555875/pujols-meets-angels-managerial-opening",
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.947,
+      "magnitude": 0.827,
+      "recency": 0.968,
       "consensus": 0.789,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.733,
-    "summary_source": "cache",
+    "score": 0.755,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The US Defense Secretary announced at a Pentagon press conference with Qatar's Defense Minister, Sheikh Saoud bin Abdulrahman Al Thani, that Qatar will construct an air force facility in Idaho. This facility will be used for training Qatari pilots to operate F-15 fighter jets.",
+    "summary": "Albert Pujols discussed the Los Angeles Angels' managerial vacancy with General Manager Perry Minasian but has not received a job offer. The meeting, confirmed by sources to ESPN, Sports Illustrated, and The Associated Press, marks Pujols' potential return to the Angels in a new role.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Explosion at Tennessee Munitions Plant: Unknown Fatalities, 19 Missing",
-    "domain": "business",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Fri, 10 Oct 2025 22:58:15 GMT",
-    "source": "BBC",
+    "title": "Las Vegas Aces Sweep Mercury for Third WNBA Title in Four Years",
+    "domain": "sports",
+    "source_domain": "abcnews.go.com",
+    "location": "national",
+    "published": "Fri, 10 Oct 2025 22:42:44 -0400",
+    "source": "ABC News",
     "sources": [
-      "BBC",
-      "The Guardian",
-      "Forbes"
+      "ABC News",
+      "CBS Sports",
+      "Sportsnet"
     ],
     "domains": [
-      "bbc.com",
-      "theguardian.com",
-      "forbes.com"
+      "abcnews.go.com",
+      "cbssports.com",
+      "sportsnet.ca"
     ],
     "snippets": [
-      "\"There's nothing to describe, it's gone,\" says Humphreys County Sheriff Mike Davis, who grew emotional while providing an update about the most devastating incident of his career.",
-      "Police chief calls explosion near Bucksnort, south-west of Nashville, ‘devastating’ and says ‘we have some deceased’ Nineteen people are missing and feared dead following a huge explosion at a military munitions plant in Tennessee. The powerful blast ripped through the explosives manufacturing plant",
-      "The early morning blast leveled a building, prompting a joint investigation and search for missing workers."
+      "A’ja Wilson scored 31 points, Chelsea Gray and Jackie Young both added 18 and the Las Vegas Aces beat the Phoenix Mercury 97-86 in Game 4 of the WNBA Finals, sweeping their way to a third championship in four seasons",
+      "The Aces are one win away from their third title in four seasons",
+      "PHOENIX — A’ja Wilson scored 31 points, Chelsea Gray and Jackie Young both added 18 and the Las Vegas Aces won their third WNBA championship in four seasons, beating the Phoenix Mercury 97-86 on Friday night for a four-game sweep of the Finals. The Aces made quick work of the league’s first best-of-seven Finals. It was another offensive onslaught from Las Vegas, which scored 54 points in the first half and averaged more than 90 points per game in the series. Wilson — a four-time MVP — was in the middle of the action once again even if she didn’t have the best shooting night. She finished 7 of..."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e13a/live/96ab36a0-a621-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://s.abcnews.com/images/Sports/wirestory_84c5472133aecf0d091d380583f4d018_4x3_384.jpg",
     "titles": [
-      "Nineteen missing after explosion at Tennessee munitions factory",
-      "Nineteen people feared dead after blast at Tennessee munitions plant",
-      "Tennessee Munitions Plant Explosion – What We Know"
+      "Aces win third WNBA title in 4 seasons, beating Mercury 97-86 for 4-game sweep",
+      "WNBA playoff bracket: Aces complete sweep of Mercury for third title in four years",
+      "Aces complete sweep of Mercury to win third WNBA title in four seasons"
     ],
-    "url": "https://www.bbc.com/news/articles/c89d4zw8704o?at_medium=RSS&at_campaign=rss",
+    "url": "https://abcnews.go.com/Sports/wireStory/wilson-scores-31-aces-win-wnba-title-4-126422706",
     "alternate_urls": [
-      "https://www.theguardian.com/us-news/2025/oct/10/tennessee-military-explosives-plant-explosion",
-      "https://www.forbes.com/sites/martinacastellanos/2025/10/10/tennessee-munitions-plant-explosion--what-we-know/"
+      "https://www.cbssports.com/wnba/news/wnba-playoff-bracket-aces-complete-sweep-of-mercury-for-third-title-in-four-years/"
     ],
-    "link": "https://www.bbc.com/news/articles/c89d4zw8704o?at_medium=RSS&at_campaign=rss",
+    "link": "https://abcnews.go.com/Sports/wireStory/wilson-scores-31-aces-win-wnba-title-4-126422706",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.954,
+      "recency": 0.968,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.728,
+    "score": 0.73,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "A massive explosion at a military munitions plant in Tennessee resulted in an unknown number of fatalities, with 19 people missing and feared dead. The incident, described as \"devastating\" by local law enforcement, occurred early in the morning, completely destroying a building. Humphreys County Sheriff Mike Davis and the police chief of Bucksnort confirmed the severity of the situation and a joint investigation is underway to search for missing workers and determine the cause.",
+    "summary": "The Las Vegas Aces won their third WNBA championship in four seasons, defeating the Phoenix Mercury 97-86 in Game 4 to complete a sweep of the Finals. A’ja Wilson led the team with 31 points, while Chelsea Gray and Jackie Young each contributed 18 points. The Aces dominated the series, averaging over 90 points per game and showcasing a strong offensive performance throughout.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -603,28 +677,28 @@
     "snippets": [
       "A massive blast at a military explosives factory in the US state of Tennessee has left multiple people dead and missing.",
       "The Humphreys County sheriff confirmed fatalities but gave no tolls, suggesting those missing might already be dead.",
-      "McEWEN, Tenn. (AP) — A blast leveled an explosives plant Friday in rural Tennessee, leaving behind a mass of twisted metal, burned-out shells of cars and at least 19 people missing and feared dead, authorities said. “There’s nothing to describe. It’s gone,” Humphreys County Sheriff Chris Davis said"
+      "McEWEN, Tenn. (AP) — A blast leveled an explosives plant Friday in rural Tennessee, leaving behind a mass of twisted metal, burned-out shells of cars and at least 18 people missing and feared dead, authorities said. “There’s nothing to describe. It’s gone,” Humphreys County Sheriff Chris Davis said"
     ],
     "image_url": "",
     "titles": [
       "Blast rips through US military explosives factory in Tennessee",
-      "Tennessee: 19 missing after deadly explosives plant blast",
-      "Blast at a Tennessee explosives plant leaves 19 people missing and feared dead, sheriff says"
+      "Tennessee: 18 missing after deadly explosives plant blast",
+      "Blast at a Tennessee explosives plant leaves 18 missing and feared dead, sheriff says"
     ],
     "url": "https://www.aljazeera.com/video/newsfeed/2025/10/10/blast-rips-through-us-military-explosives-factory-in-tennessee?traffic_source=rss",
     "alternate_urls": [
-      "https://www.dw.com/en/tennessee-19-missing-after-deadly-explosives-plant-blast/a-74314679?maca=en-rss-en-top-1022-rdf",
+      "https://www.dw.com/en/tennessee-18-missing-after-deadly-explosives-plant-blast/a-74314679?maca=en-rss-en-top-1022-rdf",
       "https://ottawa.citynews.ca/2025/10/10/blast-at-a-tennessee-explosives-plant-leaves-multiple-people-dead-and-missing-sheriff-says/"
     ],
     "link": "https://www.aljazeera.com/video/newsfeed/2025/10/10/blast-rips-through-us-military-explosives-factory-in-tennessee?traffic_source=rss",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.901,
+      "recency": 0.828,
       "consensus": 0.789,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.727,
+    "score": 0.712,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "A significant explosion at the Accurate Energetic Systems military munitions plant in McEwen, Tennessee, resulted in 19 people missing and feared dead. The incident occurred on Friday, with secondary explosions hindering initial rescue efforts. Humphreys County Sheriff Chris Davis described the scene as one of the worst he has witnessed.",
@@ -633,104 +707,97 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "US Government Issues Layoff Notices Amid Shutdown, Affecting Thousands",
-    "domain": "technology",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Fri, 10 Oct 2025 19:46:17 +0000",
-    "source": "Al Jazeera",
+    "title": "Cody Bellinger Expected to Opt Out, Enter Free Agency",
+    "domain": "sports",
+    "source_domain": "cbssports.com",
+    "location": "national",
+    "published": "Fri, 10 Oct 2025 20:23:20 +0000",
+    "source": "CBS Sports",
     "sources": [
-      "Al Jazeera",
-      "Axios",
-      "Ars Technica"
+      "CBS Sports",
+      "Sports Illustrated",
+      "Sportsnet"
     ],
     "domains": [
-      "aljazeera.com",
+      "cbssports.com",
       "news.google.com",
-      "arstechnica.com"
+      "sportsnet.ca"
     ],
     "snippets": [
-      "Reduction-in-force notifications have gone out to employees in departments including the Treasury and Homeland Security.",
-      "HHS layoffs: Trump officials lay off more employees amid government shutdown Axios",
-      "HHS would not say how many are being let go, but union says \"thousands.\""
+      "Bellinger, a Yankee in 2025, is coming off his best season since 2019",
+      "Yankees Outfielder Cody Bellinger Expected to Opt for Free Agency Sports Illustrated",
+      "Outfielder Cody Bellinger is planning to opt out of his contract with the Yankees and become a free agent, ESPN’s Jorge Castillo reported on Friday."
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/10/10/3f2f5c84-85d2-4e32-bf48-d731b05d415c/cody-bellinger-getty-4.png",
     "titles": [
-      "Trump announces layoffs amid government shutdown, despite legal questions",
-      "HHS layoffs: Trump officials lay off more employees amid government shutdown - Axios",
-      "Trump admin fires more health employees amid government shutdown"
+      "Yankees' Cody Bellinger to opt out of contract and hit free agency, per report",
+      "Yankees Outfielder Cody Bellinger Expected to Opt for Free Agency - Sports Illustrated",
+      "Report: Yankees’ Cody Bellinger to opt out of contract, become free agent"
     ],
-    "url": "https://www.aljazeera.com/news/2025/10/10/trump-announces-layoffs-amid-government-shutdown-despite-legal-questions?traffic_source=rss",
+    "url": "https://www.cbssports.com/mlb/news/yankees-cody-bellinger-to-opt-out-of-contract-and-hit-free-agency-per-report/",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlNoVXdMOFhhdWlhQnJEMnNfWjJ3c1lFU2NncjlqSktSbm9wV0NwbkV4cm9PX0FGS1Q4Z2FLMS1HMWhGS2JPTHM4WTAyR2hZY2dMT0o3cnBVdnNZeXZ0YUxudFlKYmR1WThpWWl3QXpOUGxCb1o4N0tyV0k4cDhTX2JGc3E?oc=5",
-      "https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/"
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjl4N29NNzRLQk1VME5ydnUxclAzQUdiaHBuRFNYSGlZMzNGX0JOa0JLLUxoby1WNjk0V2hCWjVCZU9nZUNtWHoxVzdHNll3WG5tYlQtUzBHRlZ6UzMyZkhOWUdIRnc3U0hBbzdzaWw3MGRBYWg0dlpRS0IyRE1OemxHYnVhd0J6?oc=5"
     ],
-    "link": "https://www.aljazeera.com/news/2025/10/10/trump-announces-layoffs-amid-government-shutdown-despite-legal-questions?traffic_source=rss",
+    "link": "https://www.cbssports.com/mlb/news/yankees-cody-bellinger-to-opt-out-of-contract-and-hit-free-agency-per-report/",
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.911,
+      "magnitude": 0.827,
+      "recency": 0.848,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.726,
-    "summary_source": "gpt",
+    "score": 0.706,
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "The US government has issued reduction-in-force notifications to employees in several departments, including the Treasury and Homeland Security, amid a government shutdown. Additionally, Trump administration officials have laid off more employees within the Department of Health and Human Services (HHS), though the exact number has not been disclosed. However, the union representing these workers claims that \"thousands\" are being affected by these layoffs.",
+    "summary": "Cody Bellinger, having had his best season since 2019, is expected to opt out of his contract with the Yankees and enter free agency, according to ESPN's Jorge Castillo. This move suggests that if the Yankees wish to retain Bellinger, it may come at a higher cost.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Secures Deal with AstraZeneca to Lower Drug Prices, Avoid Tariffs",
-    "domain": "business",
-    "source_domain": "news.google.com",
+    "title": "Raptors Clinch Pre-Season Victory Over Celtics 107-105 with Buzzer-Beater",
+    "domain": "sports",
+    "source_domain": "globalnews.ca",
     "location": "national",
-    "published": "Fri, 10 Oct 2025 18:27:10 GMT",
-    "source": "Axios",
+    "published": "Sat, 11 Oct 2025 01:53:51 +0000",
+    "source": "Global News",
     "sources": [
-      "Axios",
-      "Business Insider",
-      "Bloomberg"
+      "Global News",
+      "Sportsnet"
     ],
     "domains": [
-      "news.google.com",
-      "businessinsider.com"
+      "globalnews.ca",
+      "sportsnet.ca"
     ],
     "snippets": [
-      "Trump cuts pricing deal with AstraZeneca Axios",
-      "Trump's pharmaceutical venture strikes a deal with AstraZeneca.",
-      "Trump Announces AstraZeneca Drug Price Cuts for Tariff Reprieve Bloomberg.com"
+      "The Toronto Raptors, who trailed 63-42 at halftime and watched the visiting Boston Celtics close the second quarter on a 20-3 run, pulled off an entertaining pre-season comeback on Friday with a 107-105 decision.",
+      "The Toronto Raptors , who trailed 63-42 at halftime and watched the visiting Boston Celtics close the second quarter on a 20-3 run, pulled off an entertaining pre-season comeback on Friday with a 107-105 decision. Jonathan Mogbo ‘s buzzer beater finished off an 18-2 Raptors run to record the thrilling NBA victory. The teams were tied 103-103 with 41 seconds left in the fourth quarter when Wendell Moore Jr. scored a layup for the Celtics to make it a two-point game. David Roddy of the Raptors tied it at 105-105 with a layup of his own six seconds later. Gradey Dick led the Raptors with 22..."
     ],
-    "image_url": "",
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/10/975e9b69b8ec5d28515d5793fa25797ebde009f2d34b438d8b29ea67fc86a373.jpg?quality=65&strip=all",
     "titles": [
-      "Trump cuts pricing deal with AstraZeneca - Axios",
-      "TrumpRx makes more drug pricing moves and strikes a deal with AstraZeneca",
-      "Trump Announces AstraZeneca Drug Price Cuts for Tariff Reprieve - Bloomberg.com"
+      "Raptors rally to sink Celtics 107-105",
+      "Mogbo helps Raptors finish rally with pre-season win over Celtics"
     ],
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VaW5WTVZESTRmODJmUGo1aUZpMkJXNmhqazlIVUUzRTBxUVRqTE56VE16bTJST1lIOXJiMDFxWEV2WVNlT0dnQklIT2NrUWhNMmZrRUx0dEF2RWFBODJJN3NIcEZhd0NfTjlMRU5FNjk?oc=5",
-    "alternate_urls": [
-      "https://www.businessinsider.com/trumprx-makes-drug-pricing-moves-and-strikes-deal-with-astrazeneca-2025-10",
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVVPRkNqeGdpU0R1WExVcmFHbVRjUWdDR28zNEFvWmw0TTc1b0N6V0ZYSlRBZTVQRUpFR212cV9KdlVfbk5oR2pFRG9NS2FnNGZhbDdMUWc4OVNvTFM0ODdvb29vLVJuM3p5S2luNnJDY19qTUdMU1B1NmJnRkJTRzRsanM0TzI3M1lpcG9zVE1WMzZYNlBhbldSbjJpbE9iZ2hFX3pkUFlTcC1SanBrMzctbkdlUQ?oc=5"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VaW5WTVZESTRmODJmUGo1aUZpMkJXNmhqazlIVUUzRTBxUVRqTE56VE16bTJST1lIOXJiMDFxWEV2WVNlT0dnQklIT2NrUWhNMmZrRUx0dEF2RWFBODJJN3NIcEZhd0NfTjlMRU5FNjk?oc=5",
+    "url": "https://globalnews.ca/news/11474518/raptors-rally-to-sink-celtics-107-105/",
+    "alternate_urls": [],
+    "link": "https://globalnews.ca/news/11474518/raptors-rally-to-sink-celtics-107-105/",
     "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.868,
-      "consensus": 0.769,
+      "magnitude": 0.735,
+      "recency": 0.951,
+      "consensus": 0.591,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 1.0
     },
-    "score": 0.719,
+    "score": 0.695,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Donald Trump's pharmaceutical venture has successfully negotiated a deal with AstraZeneca to lower drug prices in exchange for a reprieve from tariffs. This agreement was announced by Trump and has been confirmed by sources including Axios and Bloomberg.com.",
+    "summary": "The Toronto Raptors achieved a comeback victory against the Boston Celtics with a final score of 107-105 in a pre-season game. After trailing 63-42 at halftime, the Raptors closed the game with an 18-2 run, capped by Jonathan Mogbo's buzzer-beater. The game was tied at 103-103 before the final moments, with key plays from both teams in the closing seconds. Gradey Dick was the top scorer for the Raptors.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Israel, Hamas Agree on Ceasefire in US-Brokered Peace Deal",
+    "title": "Israel Begins Troop Withdrawal from Gaza, Hostage-Prisoner Swap Underway",
     "domain": "general",
     "source_domain": "bbc.co.uk",
     "location": "global",
@@ -749,34 +816,75 @@
     "snippets": [
       "Palestinians begin returning to Gaza's north.",
       "Families eager to return to what's left of their homes are walking back to Gaza City as Israel begins its withdrawal.",
-      "Israel began to reposition troops Friday as the clock started on the first phase of an agreement for the release of hostages in exchange for Palestinian prisoners.",
-      "Trump’s framework to end the war in Gaza is the basis for an initial agreement between Israel and Hamas."
+      "Israel began to reposition troops Friday as the clock started on the first phase of an agreement for the release of hostages in exchange for Palestinian prisoners."
     ],
     "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
     "titles": [
       "Israel-Gaza: The Ceasefire Is Now \"In Effect\"",
       "Families walk back to Gaza City minutes after ceasefire goes into effect",
-      "What to know about the Gaza ceasefire deal as it takes effect",
-      "What to know about the Gaza ceasefire deal"
+      "What to know about the Gaza ceasefire deal as it takes effect"
     ],
     "url": "https://www.bbc.co.uk/programmes/p0m7y2cg?at_medium=RSS&at_campaign=rss",
     "alternate_urls": [
       "https://www.aljazeera.com/video/newsfeed/2025/10/10/families-walk-back-to-gaza-city-minutes-after-ceasefire-goes-into-effect?traffic_source=rss",
-      "https://www.washingtonpost.com/world/2025/10/10/gaza-ceasefire-trump-israel-hamas/",
-      "https://www.washingtonpost.com/world/2025/10/08/gaza-peace-talks-trump-plan-ceasefire-israel-hamas-egypt/"
+      "https://www.washingtonpost.com/world/2025/10/10/gaza-ceasefire-trump-israel-hamas/"
     ],
     "link": "https://www.bbc.co.uk/programmes/p0m7y2cg?at_medium=RSS&at_campaign=rss",
     "score_components": {
       "magnitude": 0.847,
-      "recency": 0.818,
+      "recency": 0.752,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.707,
-    "summary_source": "cache",
+    "score": 0.694,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Israel and Hamas have agreed to the first phase of a peace deal brokered by the US, aiming to end hostilities in Gaza. The deal, approved by Israeli Prime Minister Benjamin Netanyahu's cabinet, includes a ceasefire and the exchange of Israeli hostages for Palestinian prisoners. This agreement marks a significant step towards resolving the two-year conflict, with the ceasefire now in effect.",
+    "summary": "Palestinians are returning to Gaza City's northern areas as Israel starts withdrawing troops, following the initiation of an agreement that involves the exchange of hostages for Palestinian prisoners. This move marks the beginning of the agreement's first phase, with families heading back to their homes.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "US Secures 1-1 Draw Against Ecuador in Soccer Match",
+    "domain": "sports",
+    "source_domain": "espn.com",
+    "location": "national",
+    "published": "Fri, 10 Oct 2025 22:43:46 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Yahoo Sports"
+    ],
+    "domains": [
+      "espn.com",
+      "sports.yahoo.com"
+    ],
+    "snippets": [
+      "The United States battled back for a 1-1 draw with Ecuador after Folarin Balogun scored in the second half of a back-and-forth match at Q2 Stadium in Austin, Texas, on Friday night.",
+      "The US results still aren’t matching performances, but now there are more reasons for optimism than ever"
+    ],
+    "image_url": "",
+    "titles": [
+      "Balogun strikes as USMNT rallies for Ecuador draw",
+      "Folarin Balogun scores again and US improvement continues in 1-1 draw with Ecuador"
+    ],
+    "url": "https://www.espn.com/soccer/report/_/gameId/753161",
+    "alternate_urls": [
+      "https://sports.yahoo.com/article/folarin-balogun-scores-again-us-031310865.html"
+    ],
+    "link": "https://www.espn.com/soccer/report/_/gameId/753161",
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.968,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.75
+    },
+    "score": 0.681,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The United States secured a 1-1 draw against Ecuador in a soccer match at Q2 Stadium in Austin, Texas, with Folarin Balogun scoring in the second half. Despite ongoing challenges in matching results with performances, the game has provided increased optimism for the team's future.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -786,7 +894,7 @@
     "domain": "sports",
     "source_domain": "espn.com",
     "location": "national",
-    "published": "Fri, 10 Oct 2025 19:03:33 EST",
+    "published": "Fri, 10 Oct 2025 22:43:45 EST",
     "source": "ESPN",
     "sources": [
       "ESPN",
@@ -812,13 +920,13 @@
     "link": "https://www.espn.com/nba/story/_/id/46555147/new-york-knicks-toronto-raptors-agree-voluntarily-dismiss-2023-lawsuit",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.976,
+      "recency": 0.968,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.675,
-    "summary_source": "gpt",
+    "score": 0.674,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Knicks and Raptors have mutually agreed to dismiss a lawsuit from 2023, where the Knicks accused the Raptors of stealing thousands of confidential files. This decision, documented in a court filing obtained by ESPN, ends a legal dispute that lasted over two years.",
     "constructiveness_score": 0.0,
@@ -826,131 +934,35 @@
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "S&P 500 Plummets After Trump's New Tariff Threats on China",
-    "domain": "business",
-    "source_domain": "ft.com",
-    "location": "global",
-    "published": "Fri, 10 Oct 2025 20:04:52 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times",
-      "Bloomberg"
-    ],
-    "domains": [
-      "ft.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Biggest one-day drop in S&P 500 since April brings weeks long rally to a halt",
-      "VIX Soars But Equity Market Remains Orderly After Trump Threatens China Tariffs Bloomberg.com",
-      "Copper Tumbles as Trump Threatens Massive New Tariffs on China Bloomberg.com",
-      "Treasuries Climb After Trump Threatens Higher Tariffs on China Bloomberg.com"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F23a8ba08-92d0-43e2-acc7-02f55c62c950.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "US stocks close sharply lower after Trump threatens new China tariffs",
-      "VIX Soars But Equity Market Remains Orderly After Trump Threatens China Tariffs - Bloomberg.com",
-      "Copper Tumbles as Trump Threatens Massive New Tariffs on China - Bloomberg.com",
-      "Treasuries Climb After Trump Threatens Higher Tariffs on China - Bloomberg.com"
-    ],
-    "url": "https://www.ft.com/content/b9ae2417-2e89-4b0a-bad5-d94f4e980ecc",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ0xVdjduSTA2OEpGT2RhT2YwQjVVMmpwbzRWOFVyZ1ppbkdZR25oOFJkN281MU44a00tY1EzVUFxMkUzd1M5NUs5MFl6dkRuc2lpZlNCQlBnYzROaFhnWGVwenloX19jSmpmcUdaY2RkdVhYTEdiaU1rUGR0azFnMjF0OUZCR1JwbERsRDhTa0ZjcWpucG1HSjhWUmJtMldjMC1kV0pKZlZUeEFQTDN2ZGZIODVKcW56WmVXbEliQ1BCZGIyTTR3cU5B?oc=5",
-      "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVXpDLXR2SHV0cDltNk9ES2syVjlkM05TVEtPc3JGaFhMLXVfT2VoQ0hhWHRxZkpkZDdyTm5SM3lGNFFMbTB3QXBTRzVrbnhEb1V6dE9odkgzR1hDWVliV1pwTS1BTktSY2hOTUZxYmNkam9KS2hpb2VGLVN1Snc2MFZCeDd5MWNUWk83cUNtMU5wTFFtRXhiVDgyT2VSWXg5eDFqRkNqSzZXVS02Z3BNT2RfOA?oc=5",
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmJ5R3JfWm42RzYycFpNeUJaUHA3MlFuVDB3VGY5WF81Mnlac0hwLVJ3ODFEQUNBM1lLXzdkeHkwcFRGZmJ1THJPYWlta1lNSTI3QnEwaURFa0pwdXNXNVNrZDFBcVp1MjJ3OFpkM0JPc0ZsdDdkejNXQlAwTlhfQkZSM3Q5Z3FsOHpNQTE4QTRZbzN4bHZWRndSUEFiUEpIN1dDaWhlQU00U1Q3YnVpRzg0VzI?oc=5"
-    ],
-    "link": "https://www.ft.com/content/b9ae2417-2e89-4b0a-bad5-d94f4e980ecc",
-    "score_components": {
-      "magnitude": 0.795,
-      "recency": 0.898,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.656,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The S&P 500 experienced its largest one-day decline since April, ending a weeks-long rally, following President Trump's threat of new tariffs on China. This announcement also led to a significant increase in the VIX, indicating higher market volatility, though the equity market remained orderly. Additionally, the price of copper fell sharply, and U.S. Treasuries saw a rise as investors sought safer assets amid the heightened trade tensions between the U.S. and China.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Pujols Meets with Angels GM as Managerial Decision Nears",
+    "title": "A’ja Wilson Wins Second Finals MVP, Joins Elite Group of Six",
     "domain": "sports",
     "source_domain": "cbssports.com",
     "location": "national",
-    "published": "Fri, 10 Oct 2025 23:39:58 +0000",
+    "published": "Sat, 11 Oct 2025 03:35:47 +0000",
     "source": "CBS Sports",
     "sources": [
       "CBS Sports",
-      "Yahoo Sports"
+      "Sportsnet"
     ],
     "domains": [
       "cbssports.com",
-      "sportingnews.com"
+      "sportsnet.ca"
     ],
     "snippets": [
-      "Pujols met this week with GM Perry Minasian",
-      "The Angels are closing in on their manager of the future."
+      "Wilson is the sixth player to win multiple Finals MVPs",
+      "A’ja Wilson and the Las Vegas Aces are in rarified air."
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/10/10/51f056b9-084f-40cb-b071-8e5432a90098/albert-pujols-getty.png",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/10/11/b25bb759-58ba-4145-a798-0d9633cd4eb3/untitled-design-52.png",
     "titles": [
-      "Albert Pujols in talks with Angels about taking over as team's new manager, per report",
-      "Angels reportedly in contract talks with Albert Pujols to become manager, replacing Ron Washington"
+      "2025 WNBA Finals: A'ja Wilson named Finals MVP after leading Aces to third title in four years",
+      "Aces’ Wilson named Finals MVP to cap off historic season"
     ],
-    "url": "https://www.cbssports.com/mlb/news/albert-pujols-in-talks-with-angels-about-taking-over-as-teams-new-manager-per-report/",
-    "alternate_urls": [
-      "https://www.sportingnews.com/us/mlb/los-angeles-angels/news/angels-reportedly-contract-talks-albert-pujols-become-manager-replacing-ron-washington/caf3b173076a53b38cc6f34e"
-    ],
-    "link": "https://www.cbssports.com/mlb/news/albert-pujols-in-talks-with-angels-about-taking-over-as-teams-new-manager-per-report/",
+    "url": "https://www.cbssports.com/wnba/news/2025-wnba-finals-aja-wilson-named-finals-mvp-after-leading-aces-to-third-title-in-four-years/",
+    "alternate_urls": [],
+    "link": "https://www.cbssports.com/wnba/news/2025-wnba-finals-aja-wilson-named-finals-mvp-after-leading-aces-to-third-title-in-four-years/",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.988,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.653,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Albert Pujols met with Angels GM Perry Minasian this week as the team is nearing a decision on their future manager. The Angels are in the process of finalizing their managerial choice.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Flyers Lose to Panthers in Tocchet's Debut as Coach",
-    "domain": "sports",
-    "source_domain": "thehockeynews.com",
-    "location": "national",
-    "published": "Fri, 10 Oct 2025 23:25:26 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Yahoo Sports",
-      "NHL"
-    ],
-    "domains": [
-      "thehockeynews.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Just one game into the season, and Rick Tocchet's tenure as the head coach of the Philadelphia Flyers, fans can already say they've seen this movie before.",
-      "Marchand, Panthers edge Flyers to spoil Tocchet’s debut as coach NHL.com"
-    ],
-    "image_url": "",
-    "titles": [
-      "Rick Tocchet's Debut as Flyers Coach Didn't Check All the Boxes",
-      "Marchand, Panthers edge Flyers to spoil Tocchet’s debut as coach - NHL.com"
-    ],
-    "url": "https://thehockeynews.com/philadelphia-flyers/latest-news/rick-tocchet-s-debut-as-flyers-coach-didn-t-check-all-the-boxes",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjNHZHNKMF8zSGFIR3RmM3RERmdfZ1FUZGpzZWxRS1I4elU5ZW11YzNCNE1iamFDWExkRXVCdkZ3ODVPS29ZdFNBUloxcTh1Zzk0enRsV0xBUFFGWGhBSWFCU1JwUWJVcHpSRW9lZnlwRWJYV2NkVlRjT1dzR3dCUm5DVDZJWDdId05aVEFiSXQ?oc=5"
-    ],
-    "link": "https://thehockeynews.com/philadelphia-flyers/latest-news/rick-tocchet-s-debut-as-flyers-coach-didn-t-check-all-the-boxes",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.983,
+      "recency": 0.986,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
@@ -958,101 +970,51 @@
     "score": 0.652,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Rick Tocchet's debut as the head coach of the Philadelphia Flyers ended in a loss, as the team was defeated by the Panthers, with Brad Marchand playing a key role in the Panthers' victory. This outcome has left Flyers fans feeling a sense of déjà vu just one game into the season.",
+    "summary": "A’ja Wilson has won her second Finals MVP, making her the sixth player in history to achieve this feat. This accomplishment underscores the Las Vegas Aces' exceptional performance.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Live: Week 6 High School Football Updates in Texas, Illinois, Raleigh",
-    "domain": "sports",
-    "source_domain": "democratandchronicle.com",
-    "location": "national",
-    "published": "Fri, 10 Oct 2025 23:15:38 +0000",
-    "source": "Yahoo Sports",
+    "title": "Israeli Forces Begin Gaza Withdrawal After Ceasefire Ends 6-Month Conflict",
+    "domain": "general",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Sat, 11 Oct 2025 00:00:00 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "Yahoo Sports",
-      "Sports Illustrated"
+      "Al Jazeera",
+      "The Guardian"
     ],
     "domains": [
-      "democratandchronicle.com",
-      "news.google.com"
+      "aljazeera.com",
+      "theguardian.com"
     ],
     "snippets": [
-      "This page will be updated throughout the night with scores, highlights and stats from Week 6.",
-      "Texas High School Football Scores, Results and Live Updates (UIL) - October 10, 2025 Sports Illustrated",
-      "Illinois High School Football Schedule & Scores (IHSA) — Friday October 10, 2025 Sports Illustrated",
-      "Raleigh Metro High School Football Schedule & Scores - October 10, 2025 Sports Illustrated"
+      "US President Donald Trump says Israeli captives held in Gaza will be released on Monday.",
+      "Thousands walk north along coastal road after Israel-Hamas agreement puts stop to fighting for first time in six months Tens of thousands of displaced Palestinians in Gaza have begun to return to the ruins of their homes after the ceasefire rapidly negotiated in recent days between Hamas and Israel"
     ],
     "image_url": "",
     "titles": [
-      "Section V football: Scores, live updates, highlights from Week 6",
-      "Texas High School Football Scores, Results and Live Updates (UIL) - October 10, 2025 - Sports Illustrated",
-      "Illinois High School Football Schedule & Scores (IHSA) — Friday October 10, 2025 - Sports Illustrated",
-      "Raleigh Metro High School Football Schedule & Scores - October 10, 2025 - Sports Illustrated"
+      "LIVE: Palestinians return to northern Gaza as Israel-Hamas ceasefire holds",
+      "Palestinians displaced to southern Gaza begin journey home as ceasefire comes into effect"
     ],
-    "url": "https://www.democratandchronicle.com/story/sports/high-school/football/2025/10/10/section-v-football-scores-updates-highlights-from-week-6/86632420007/",
+    "url": "https://www.aljazeera.com/news/liveblog/2025/10/11/live-trump-says-captive-swap-due-monday-as-israel-gaza-ceasefire-unfolds?traffic_source=rss",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY0loQW1YZDdqVVd5ejE2djUzSXRQNXozakppaUpPVmFfR2NtQ201cDBVcUpvdXgyX1RPZllGc3F2RFoxR1kzTWxpb21yTG9CWjRaRmFBMW5KaDc0TkdaN0NLVWRreUZ0cFVfMFB3R25ITHg0cXRyU0FtajBHVVd4QjBQVkNwV2xuTFU2SFRjanZFTzdWOU5nUUhZeWpMMDJHaFJYYUlWRGlMM2VINnd1SFNsOHBQa05Pemtibm9odlBLRVN1Uk9F?oc=5",
-      "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYkU2LWt1YnNYdVVwcnE3LVM2S3psTWNLenZKWkF5alEzU09TUFNMb2REeFVUOFJCS2gyWEg1YnJQWWVSMWg1VEdFX00xQXQwZmJfaS16NHd6bEhFTjlWTWgtbVFtZTRtSlFjX3IzSl9tZENITVl0V1BYUlJQS04tcjFIQnNjeGVWdzdLdDNSR1JkNmR4LXdQaVkxV2o4SFl2dVRMeE91WnFrOG4wNFo0cVlqQXIxSnJuT1FHak1hRjhkaTQw?oc=5",
-      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONW1JdGt2TWVOZlZyMENwMlAwMkZ1Q2stb0NrZ2FCajdaN0Q3QmpFOFFaYTc3dHJCc0hlWm5hOG02Q2V1WU9qUFNKU2RHS3pLbTUzOENKdmVaMkxFYW5lZVRaa0xTUEotZXpFZ3RnNWgxRWRiQjZXWGdNT1A3aWdhdWI0WDdwQ003b0JtUU9taGdlT08tOG5qVlFDNWNGbjlWMkhNQzdhNXkxZWJNY2ZCRlVvYVVMdVlDa3gwNThNUElsY3c?oc=5"
+      "https://www.theguardian.com/world/2025/oct/10/palestinians-displaced-gaza-home-ceasefire-israel-hamas"
     ],
-    "link": "https://www.democratandchronicle.com/story/sports/high-school/football/2025/10/10/section-v-football-scores-updates-highlights-from-week-6/86632420007/",
+    "link": "https://www.aljazeera.com/news/liveblog/2025/10/11/live-trump-says-captive-swap-due-monday-as-israel-gaza-ceasefire-unfolds?traffic_source=rss",
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.98,
+      "magnitude": 0.755,
+      "recency": 0.914,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.651,
-    "summary_source": "gpt",
+    "score": 0.645,
+    "summary_source": "cache",
     "summary_reason": "",
-    "summary": "On October 10, 2025, Sports Illustrated provided live updates, scores, and highlights for Week 6 of high school football games across Texas, Illinois, and the Raleigh metro area. These updates included the full schedule and results from the games.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Rahm Eyes Fourth Spanish Open Title; Lowry Misses Cut",
-    "domain": "sports",
-    "source_domain": "nbcsports.com",
-    "location": "national",
-    "published": "Fri, 10 Oct 2025 23:05:19 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Yahoo Sports",
-      "Sky Sports"
-    ],
-    "domains": [
-      "nbcsports.com",
-      "skysports.com"
-    ],
-    "snippets": [
-      "Jon Rahm made seven birdies to get back into contention for a fourth title at the Spanish Open on Friday.",
-      "Jon Rahm raced back into contention for the weekend, but Ryder Cup-winning team-mate Shane Lowry missed the cut, on the second day of the Open de Espana presented by Madrid."
-    ],
-    "image_url": "",
-    "titles": [
-      "Jon Rahm surges into contention for fourth Spanish Open title; Shane Lowry misses cut",
-      "Rahm surges back but Ryder Cup hero Lowry misses cut in Madrid"
-    ],
-    "url": "https://www.nbcsports.com/golf/news/jon-rahm-surges-into-contention-for-fourth-spanish-open-title-shane-lowry-misses-cut",
-    "alternate_urls": [
-      "https://www.skysports.com/golf/news/12040/13448194/jon-rahm-back-in-mix-shane-lowry-misses-cut-in-18th-hole-frustration-as-marco-penge-leads-open-de-espana-presented-by-madrid"
-    ],
-    "link": "https://www.nbcsports.com/golf/news/jon-rahm-surges-into-contention-for-fourth-spanish-open-title-shane-lowry-misses-cut",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.976,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.65,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Jon Rahm made a strong comeback at the Spanish Open with seven birdies, positioning himself for a potential fourth title. Meanwhile, Shane Lowry, his Ryder Cup teammate, missed the cut. Rahm's performance puts him in contention for the weekend rounds.",
+    "summary": "Israeli forces started withdrawing from key areas in Gaza, following a ceasefire agreement with Hamas, ending six months of fighting. This move came after intense US-led diplomacy. Thousands of displaced Palestinians are returning home as the ceasefire takes effect, marking a significant pause in the conflict.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1088,13 +1050,13 @@
     "link": "https://ottawacitizen.com/news/50000-reward-offered-in-case-of-smiths-falls-man-missing-for-two-years",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.966,
+      "recency": 0.888,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.648,
-    "summary_source": "gpt",
+    "score": 0.633,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Government of Ontario is offering a $50,000 reward for information leading to a conviction in the disappearance of Robbie Thomson, 36, from Smith Falls. Reported missing on Oct. 19, 2023, it's believed he went missing between Oct. 12 and Oct. 18. The Ontario Provincial Police are investigating.",
     "constructiveness_score": 0.0,
@@ -1132,12 +1094,12 @@
     "link": "https://www.theguardian.com/world/2025/oct/10/tsunami-warning-philippines-indonesia-earthquake-mindanao",
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.806,
+      "recency": 0.741,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.623,
+    "score": 0.61,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Two offshore earthquakes, magnitudes 7.4 and 6.8, hit near the southern Philippines, causing at least seven deaths and structural damage in coastal towns. The quakes occurred off Mindanao island's eastern coast, prompting a tsunami warning and evacuation advisories.",
@@ -1176,59 +1138,15 @@
     "link": "https://techcrunch.com/2025/10/10/musks-boring-co-violated-environmental-regulations-nearly-800-times-nevada-alleges/",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.838,
+      "recency": 0.77,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.623,
+    "score": 0.609,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The Boring Co. breached state environmental laws almost 800 times, including unauthorized digging and disposing of wastewater in storm drains. These infractions persisted even after the company agreed to follow regulations.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Afghan Man Found Guilty of Threatening Nigel Farage on TikTok",
-    "domain": "general",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Fri, 10 Oct 2025 15:03:10 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "The Guardian"
-    ],
-    "domains": [
-      "bbc.com",
-      "theguardian.com"
-    ],
-    "snippets": [
-      "Fayaz Khan, 26, is described by the prosecution as \"a dangerous man with an interest in firearms\".",
-      "Fayaz Khan, 26, made the threat in a TikTok video that Reform UK leader told the court was ‘pretty chilling’ A man who came to the UK on a small boat has been found guilty of making a threat to kill Nigel Farage in a TikTok video. Fayaz Khan, 26, an Afghan national, was found guilty by a majority of"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/343f/live/f5763790-a5e3-11f0-92db-77261a15b9d2.jpg",
-    "titles": [
-      "Man guilty of threatening to kill Nigel Farage",
-      "Man who entered UK on small boat found guilty of threatening to kill Nigel Farage"
-    ],
-    "url": "https://www.bbc.com/news/articles/cdx216n1529o?at_medium=RSS&at_campaign=rss",
-    "alternate_urls": [
-      "https://www.theguardian.com/politics/2025/oct/10/fayaz-khan-small-boat-nigel-farage"
-    ],
-    "link": "https://www.bbc.com/news/articles/cdx216n1529o?at_medium=RSS&at_campaign=rss",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.809,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.617,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Fayaz Khan, 26, an Afghan national who arrived in the UK on a small boat, was found guilty of making a threat to kill Nigel Farage in a TikTok video, described by the prosecution as chilling. Khan, characterized as dangerous and interested in firearms, was convicted by a majority verdict.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
@@ -1264,12 +1182,12 @@
     "link": "https://www.theguardian.com/environment/2025/oct/10/biodiversity-conservation-world-bird-species-declining-arctic-seals-green-turtles-iucn-uae-aoe",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.702,
+      "recency": 0.645,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.605,
+    "score": 0.594,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "The International Union for Conservation of Nature (IUCN) reports significant biodiversity losses, with over half of bird species worldwide in decline due to deforestation and agricultural expansion. The annual assessment also highlights the threat of climate change on Arctic seals, pushing them closer to extinction. However, the recovery of green turtles serves as a positive reminder that conservation efforts can be effective.",
@@ -1308,12 +1226,12 @@
     "link": "https://www.theguardian.com/world/2025/oct/10/peru-congress-vote-oust-president-dina-boluarte-gang-violence",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.682,
+      "recency": 0.627,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 0.5
     },
-    "score": 0.601,
+    "score": 0.59,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Peruvian lawmakers voted to impeach President Dina Boluarte, marking a significant political change in a country facing violence and instability. This decision, supported by almost all legislative factions, follows Boluarte's criticized handling of rising crime rates. José Jerí, a Congress leader, was sworn in as interim president until the April 2026 elections, succeeding Boluarte who faced protests and accusations during her term.",
@@ -1352,17 +1270,59 @@
     "link": "https://www.sciencedaily.com/releases/2025/10/251009033212.htm",
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.669,
+      "recency": 0.615,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.596,
+    "score": 0.585,
     "summary_source": "cache",
     "summary_reason": "",
     "summary": "Researchers found that stevioside from the Stevia plant increases skin absorption of minoxidil, a common baldness treatment, promoting hair growth in mice. Additionally, a serum with tropical plant extracts improved hair density and thickness in 56 days, suggesting potential for natural, effective hair loss treatments.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Trump Administration Begins Federal Worker Layoffs Amid Shutdown",
+    "domain": "general",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Sat, 11 Oct 2025 00:42:31 GMT",
+    "source": "Axios",
+    "sources": [
+      "Axios"
+    ],
+    "domains": [
+      "news.google.com"
+    ],
+    "snippets": [
+      "These are the federal agencies Trump is targeting for layoffs Axios",
+      "Trump officials say \"substantial\" federal worker layoffs have begun Axios"
+    ],
+    "image_url": "",
+    "titles": [
+      "These are the federal agencies Trump is targeting for layoffs - Axios",
+      "Trump officials say \"substantial\" federal worker layoffs have begun - Axios"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVBKWGlleDdxa1ZsSDhrMHBscmhfdkNjVnhEUXdzMWM0ZVI5S3VENzFveFhBajB0enNLU0JlTTFXc2RzQU1iWG1HQmRhQzdMQTNjZ19faVZ4MnctR0VadERWWmJjNFdRX3QxZFQycVBna0ltWXVFY2pvSFVwNVl4amxGN1hIZzQ?oc=5",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMickFVX3lxTFBrQ2JaWW5VWl84cE9Md0x0dnRYdVVTMXFNWDFfdjh0NW9LSlNxZ0FwOVJQMWxqaEIyN0F4OWJoMHFxWUxXa25HX0hVLUdHZHdiV2hhcngybGhJd2lud1BHX3hhdTExcDhJMHk5emFveGVsZw?oc=5"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVBKWGlleDdxa1ZsSDhrMHBscmhfdkNjVnhEUXdzMWM0ZVI5S3VENzFveFhBajB0enNLU0JlTTFXc2RzQU1iWG1HQmRhQzdMQTNjZ19faVZ4MnctR0VadERWWmJjNFdRX3QxZFQycVBna0ltWXVFY2pvSFVwNVl4amxGN1hIZzQ?oc=5",
+    "score_components": {
+      "magnitude": 0.413,
+      "recency": 0.909,
+      "consensus": 0.35,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.474,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The Trump administration has initiated layoffs of federal workers, following through on a threat linked to the US government shutdown. While the exact number of affected employees and agencies remains unspecified, the move has prompted significant concern, with unions like AFL-CIO planning legal action due to the anticipated negative impact on Americans. This development comes as thousands of federal employees continue to be furloughed or work without pay.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: development",
     "constructiveness_source": "heuristic"
   },
   {
@@ -1394,13 +1354,13 @@
     "link": "https://www.npr.org/sections/the-picture-show/2025/10/10/nx-s1-5549181/cumbia-in-peru",
     "score_components": {
       "magnitude": 0.373,
-      "recency": 0.893,
+      "recency": 0.821,
       "consensus": 0.35,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.472,
-    "summary_source": "gpt",
+    "score": 0.457,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Photographers Karla Gachet and Ivan Kashinsky have documented the cumbia music genre across Colombia, Mexico, Ecuador, Peru, Argentina, and the United States, showcasing its popularity in the Americas.",
     "constructiveness_score": 0.0,
