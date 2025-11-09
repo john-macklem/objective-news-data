@@ -1,72 +1,186 @@
 [
   {
-    "title": "UPS, FedEx Ground MD-11 Fleet After Fatal Kentucky Crash",
+    "title": "Super Typhoon Fung-wong Targets Luzon, Philippines; Evacuations Underway",
+    "domain": "science",
+    "source_domain": "npr.org",
+    "location": "national",
+    "published": "Sun, 09 Nov 2025 01:44:36 -0500",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "Reuters",
+      "BBC",
+      "Al Jazeera",
+      "Deutsche Welle",
+      "The Guardian",
+      "Phys.org",
+      "New York Times"
+    ],
+    "domains": [
+      "npr.org",
+      "news.google.com",
+      "bbc.com",
+      "aljazeera.com",
+      "dw.com",
+      "theguardian.com",
+      "phys.org",
+      "nytimes.com"
+    ],
+    "snippets": [
+      "Super Typhoon Fung-wong, the biggest storm to threaten the Philippines this year, started battering the country's northeastern coast ahead of landfall on Sunday.",
+      "Philippines braces for Super Typhoon Fung-wong, still reeling from Kalmaegi Reuters",
+      "Typhoon Fung-wong with sustained winds of 185 km/h (115mph) is expected to make landfall on Sunday evening.",
+      "Philippines weather bureau warns of 'life-threatening conditions' as super storm heads for its largest island.",
+      "The Philippines is bracing for Fung-wong, set to be its biggest storm this year, just days after Typhoon Kalmaegi devastated the country. Almost a million people have been evacuated amid high winds and torrential rain.",
+      "Fung-wong was preparing to hit the Philippines just days after the country was battered by typhoon Kalmaegi which killed 204 people More than 900,000 people have been evacuated from eastern and northern regions of the Philippines as the latest storm to hit the country – Fung-wong – intensified on Su",
+      "Nearly a million people have been evacuated and floodwaters were rising in the Philippines on Sunday before Typhoon Fung-wong's expected late-night landfall on the east coast.",
+      "Typhoon Fung-wong is heading for the main island of Luzon, causing tens of thousands to be evacuated after another storm killed more than 200 last week."
+    ],
+    "image_url": "",
+    "titles": [
+      "Nearly a million people evacuate as Super Typhoon Fung-wong threatens the Philippines",
+      "Philippines braces for Super Typhoon Fung-wong, still reeling from Kalmaegi - Reuters",
+      "Nearly a million evacuated as Philippines braces for 'super typhoon'",
+      "Super Typhoon Fung-wong approaches Philippines, nearly 1 million evacuated",
+      "Philippines: Tens of thousands evacuate as super typhoon nears",
+      "More than 900,000 evacuated in the Philippines as Fung-wong intensifies into super typhoon",
+      "Philippines evacuates hundreds of thousands as super typhoon nears",
+      "Philippines Braces for Typhoon Fung-Wong, While Still Reeling From the Last Storm"
+    ],
+    "url": "https://www.npr.org/2025/11/09/g-s1-97091/nearly-a-million-people-evacuate-as-super-typhoon-fung-wong-threatens-the-philippines",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM0lMOURwdWNUalpaMVU0ODFGUzlkMnk5VGpfYm9pRWJKNTFZOVpCVGlPM3ZGN3NoX1pORE1heEwyRHJ1SU16TklueG9uQ0NQWkFMNnhleGs2bzlwODlPZTRVb0k3Smk0ZlVrXy1Ic1JVQW1mdHdqcHR2N1ZUdjZzNE1WNnZaVk56YU5CZVMzRFV2SlpkVGlPQVNsbHpXMF9zWmpjMVNOMHdRYTgzOXZqaDNsTzBLZHVGUmU1YXZYeGdYVnlUMEtkM3ltVm5oUQ?oc=5",
+      "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2025/11/9/nearly-1-million-filipinos-evacuate-as-super-typhoon-fung-wong-approaches?traffic_source=rss",
+      "https://www.dw.com/en/philippines-tens-of-thousands-evacuate-as-super-typhoon-nears/a-74676370?maca=en-rss-en-top-1022-rdf",
+      "https://www.theguardian.com/world/2025/nov/09/more-than-100000-evacuated-in-the-philippines-as-fung-wong-intensifies-into-super-typhoon",
+      "https://phys.org/news/2025-11-philippines-evacuates-hundreds-thousands-super.html",
+      "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html"
+    ],
+    "link": "https://www.npr.org/2025/11/09/g-s1-97091/nearly-a-million-people-evacuate-as-super-typhoon-fung-wong-threatens-the-philippines",
+    "score_components": {
+      "magnitude": 1.0,
+      "recency": 0.931,
+      "consensus": 1.0,
+      "constructiveness": 0.1,
+      "proximity": 0.75
+    },
+    "score": 0.871,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Super Typhoon Fung-wong, with sustained winds of 185 km/h, is set to make landfall in the Philippines on Sunday evening, targeting the main island of Luzon. This comes shortly after Typhoon Kalmaegi resulted in 204 deaths. Nearly a million people have been evacuated from the eastern and northern regions due to the threat of life-threatening conditions, including high winds and torrential rain. The Philippines weather bureau has warned of severe impacts as the country braces for its biggest storm of the year.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: sustain",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "US Airlines Cancel 2,500 Flights Amid Government Shutdown",
     "domain": "business",
     "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Sat, 08 Nov 2025 17:14:27 GMT",
-    "source": "Reuters",
+    "location": "national",
+    "published": "Sun, 09 Nov 2025 02:52:00 GMT",
+    "source": "Associated Press",
     "sources": [
-      "Reuters",
       "Associated Press",
-      "Deutsche Welle",
-      "CBC News",
-      "Bloomberg",
+      "Al Jazeera",
+      "CNBC",
       "Business Insider"
     ],
     "domains": [
       "news.google.com",
-      "dw.com",
-      "cbc.ca",
+      "aljazeera.com",
+      "cnbc.com",
       "businessinsider.com"
     ],
     "snippets": [
-      "UPS, FedEx ground MD-11 fleets after deadly Louisville crash Reuters",
-      "UPS and FedEx grounding MD-11 planes following deadly Kentucky crash AP News",
-      "The world's largest cargo carriers, UPS and FedEx, grounded their MD-11 freighter fleets at the recommendation of Boeing, the aircraft's manufacturer.",
-      "United Parcel Service and FedEx said on Friday they have grounded their combined fleet of more than 50 McDonnell Douglas MD-11 cargo planes following a crash in Louisville, Ky., this week that killed at least 14 people.",
-      "UPS Grounds MD-11 Fleet After Deadly Crash in Louisville Bloomberg.com",
-      "Delivery giants UPS and FedEx said they had made the decision to ground the fleet of aircraft after advice from the aircraft manufacturer."
+      "US airlines cancel more than 2,500 weekend flights largely due to government shutdown AP News",
+      "The Federal Aviation Administration is temporarily cutting air traffic by 10 percent to maintain safety standards.",
+      "Airlines will have to slash hundreds of more flights if shutdown continues into next week.",
+      "The government shutdown is disrupting travel plans for thousands across the US. Follow the latest updates on the FAA's traffic reduction here."
     ],
     "image_url": "",
     "titles": [
-      "UPS, FedEx ground MD-11 fleets after deadly Louisville crash - Reuters",
-      "UPS and FedEx grounding MD-11 planes following deadly Kentucky crash - AP News",
-      "UPS, FedEx ground planes after Louisville crash",
-      "UPS, FedEx ground MD-11 air cargo fleets after deadly Louisville, Ky., crash",
-      "UPS Grounds MD-11 Fleet After Deadly Crash in Louisville - Bloomberg.com",
-      "FedEx and UPS have grounded their fleets of MD-11 cargo planes after the crash in Kentucky"
+      "US airlines cancel more than 2,500 weekend flights largely due to government shutdown - AP News",
+      "Thousands of US flights cancelled, delayed as government shutdown continues",
+      "FAA-mandated flight cancellations to worsen next week if shutdown continues",
+      "Flight cancellation updates: FAA's government shutdown traffic reduction continues"
     ],
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUlZVTBPakVsWExvZjRnQ1g5djZ4bXdkcFBLTElYY3lIZ0dHdHBacTl1RXBHT0dEZUU5Q0JjcUtEdldmVlk4YTU1Wko5LU5kYUpuUGtSUEZaVEt5MXQzcEJqbFd0MlozQkwzQTJtTWNSVzZocGFNaTRzN1oySmdLXzhCVC04QThBZmJYbHkxSFY5UWlibTZUdTZrNUNjenRhV1psM240bDZILWFDN0J2TDJ4dw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXEzNlVxa0F5ZTV0c3YyQmxJX3p5VDJGdDNjNjg5WFd4aGJ3SWNHVGFidGg2VG80bGJOdk9JN3BvQ2FZbC1vb3NTTWIwUzdOR1JoSTNxZ01GbS1YeS1jVHN2ZzhaNkRET1hXOG9PSFh5amRuWXBscFA4ZFFfY2hfVjB1Tmo4VGNPV01Wc05TZ01rLTE3OTdWSDhZM2RMb2Y2ZW1TZHBVc256N0lfMW5VZmNRaw?oc=5",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWNJd196eDRHYzIxRkdDSk5BS2xRdDhvcUtQZ1NWMzlDalY4VmljN1V3aktpYmxCNWxBUlpFYUNJUnVpOXQwVE85bGJyWnI5QmNUTWVCd2V6RTJKajh6b2hkOGpHRElQWnhGZlpiUDBtRTZxTlNPVzhPY09LSHhFeGx2Z0dsdWplQVhrWnpRZVlVdUVMRVgwQmR1WUsyT0lC?oc=5",
-      "https://www.dw.com/en/ups-fedex-ground-planes-after-louisville-crash/a-74673334?maca=en-rss-en-top-1022-rdf",
-      "https://www.cbc.ca/news/world/ups-fedex-ground-fleets-9.6972228?cmp=rss",
-      "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3VVTVU5TU90YnBGb0h4UUM4MHA0WDJXeFkxWkFNS3pGbE9hT0pydjdLY1dvX0JHTTNTcXRoZW12b1NFdmZpQ01BRGdad193UWZxZ28wbUNwX0h4SXBfRkVxbTlCbWx0NTRXU2Y5UFR1QTRGVERJMlRyMWNkZFdIRkNsWGVBMzg3Y2lmdlVMdHFxNExQUTctMVZ1Q1F3c3pF?oc=5",
-      "https://www.businessinsider.com/fedex-ups-ground-fleet-md-11-cargo-planes-kentucky-crash-2025-11"
+      "https://www.aljazeera.com/news/2025/11/9/thousands-of-us-flights-cancelled-delayed-as-government-shutdown-continues?traffic_source=rss",
+      "https://www.cnbc.com/2025/11/08/government-shutdown-flight-cancelations-faa.html",
+      "https://www.businessinsider.com/faa-flight-cuts-cancellations-traffic-reduction-government-shutdown-live-updates-2025-11"
     ],
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUlZVTBPakVsWExvZjRnQ1g5djZ4bXdkcFBLTElYY3lIZ0dHdHBacTl1RXBHT0dEZUU5Q0JjcUtEdldmVlk4YTU1Wko5LU5kYUpuUGtSUEZaVEt5MXQzcEJqbFd0MlozQkwzQTJtTWNSVzZocGFNaTRzN1oySmdLXzhCVC04QThBZmJYbHkxSFY5UWlibTZUdTZrNUNjenRhV1psM240bDZILWFDN0J2TDJ4dw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXEzNlVxa0F5ZTV0c3YyQmxJX3p5VDJGdDNjNjg5WFd4aGJ3SWNHVGFidGg2VG80bGJOdk9JN3BvQ2FZbC1vb3NTTWIwUzdOR1JoSTNxZ01GbS1YeS1jVHN2ZzhaNkRET1hXOG9PSFh5amRuWXBscFA4ZFFfY2hfVjB1Tmo4VGNPV01Wc05TZ01rLTE3OTdWSDhZM2RMb2Y2ZW1TZHBVc256N0lfMW5VZmNRaw?oc=5",
     "score_components": {
-      "magnitude": 0.986,
-      "recency": 0.866,
-      "consensus": 1.0,
-      "constructiveness": 0.1,
+      "magnitude": 0.932,
+      "recency": 0.859,
+      "consensus": 0.908,
+      "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.828,
+    "score": 0.775,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "UPS and FedEx have grounded their combined fleet of over 50 MD-11 cargo planes following a deadly crash in Louisville, Kentucky, which resulted in at least 14 fatalities. This decision was made after Boeing, the aircraft's manufacturer, recommended grounding the fleets.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
+    "summary": "US airlines canceled over 2,500 flights during the weekend, mainly due to a government shutdown. The Federal Aviation Administration (FAA) has reduced air traffic by 10% to uphold safety standards. If the shutdown persists into the next week, airlines will need to cancel additional flights, affecting travel for thousands nationwide.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Former NHL Player and Ottawa Senators GM Mel Bridgman Dies at 70",
+    "title": "Avalanche Crush Oilers 9-1, MacKinnon Stars with 4 Points",
     "domain": "sports",
     "source_domain": "globalnews.ca",
     "location": "national",
-    "published": "Sat, 08 Nov 2025 22:06:07 +0000",
+    "published": "Sun, 09 Nov 2025 06:07:06 +0000",
+    "source": "Global News",
+    "sources": [
+      "Global News",
+      "NHL",
+      "Sportsnet"
+    ],
+    "domains": [
+      "globalnews.ca",
+      "news.google.com",
+      "sportsnet.ca"
+    ],
+    "snippets": [
+      "Nathan MacKinnon had two goals and a pair of assists as the Western Conference-leading Colorado Avalanche embarrassed the Edmonton Oilers 9-1 on Saturday.",
+      "MacKinnon has 4 points, Avalanche score 9 to cruise past Oilers NHL.com",
+      "Nathan MacKinnon had a four-point night, Devon Toews picked up three assists, while Cale Makar, Parker Kelly, and Jack Drury each scored twice as the Colorado Avalanche dominated the Edmonton Oilers, winning 9-1."
+    ],
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/11/0c4163c1e76453b83a39e7e1e7fbfe47dfb8ae36dcda9364a2e6cc010d8b7ce2.jpg?quality=65&strip=all",
+    "titles": [
+      "MacKinnon helps Avalanche crush Oilers 9-1",
+      "MacKinnon has 4 points, Avalanche score 9 to cruise past Oilers - NHL.com",
+      "NHL Highlights: Avalanche 9, Oilers 1"
+    ],
+    "url": "https://globalnews.ca/news/11518421/mackinnon-helps-avalanche-crush-oilers-9-1/",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd1F5VjNIOTVad3VGTFNyMk9qaWFlRm9qZ1BLaVM0b1lOZUxXUmRiSHpJUDVSWk9MU2Z1UFBlclc0UEk1d3UxN0RPS1ZkZ2x0NVBlV1BOTl94ZnJFakRkblM4cmd6SGhJU2pFRDFLSzBKNC1CSThpWjE2QUU2REUtV1VMU2x3UGFjb0s5WGp2TQ?oc=5"
+    ],
+    "link": "https://globalnews.ca/news/11518421/mackinnon-helps-avalanche-crush-oilers-9-1/",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.919,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 1.0
+    },
+    "score": 0.77,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Nathan MacKinnon led the Colorado Avalanche with two goals and two assists in a dominant 9-1 victory over the Edmonton Oilers. Devon Toews added three assists, while Cale Makar, Parker Kelly, and Jack Drury each scored twice, underlining the Avalanche's offensive prowess as they continue to lead the Western Conference.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Nield's Late TD Sends Roughriders to Grey Cup Over Lions",
+    "domain": "sports",
+    "source_domain": "globalnews.ca",
+    "location": "national",
+    "published": "Sun, 09 Nov 2025 02:44:44 +0000",
     "source": "Global News",
     "sources": [
       "Global News",
@@ -79,246 +193,241 @@
       "ottawa.citynews.ca"
     ],
     "snippets": [
-      "Former NHLer with the Calgary Flames and the first Ottawa Senators general manager Mel Bridgman has died, the team announced Saturday. He was 70.",
-      "Former NHLer and Ottawa Senators general manager Mel Bridgman has died. He was 70.",
-      "Former NHLer and Ottawa Senators general manager Mel Bridgman has died. He was 70. The NHL Alumni Association announced his death on Saturday. The cause of death was not disclosed. Bridgman was the first overall pick in the 1975 NHL draft by the Philadelphia Flyers, where he spent his first six-plus"
+      "Tommy Nield's three-yard touchdown reception with 11 seconds left in the fourth quarter lifted the Saskatchewan Roughriders to a 24-21 victory over the B.C. Lions in the West Division final Saturday, sending the Riders to the Grey Cup.",
+      "Corey Mace’s boldest decision of the season came with the Saskatchewan Roughriders’ season on the line — and it paid off. Facing third down late in the fourth quarter and trailing by four, Mace made the bold decision to punt the ball away with 1:48 left on the clock, betting on his defence to deliver one more stop. The Riders’ defence forced a quick two-and-out, giving Trevor Harris one more chance — and the 39-year-old quarterback delivered when called upon. He marched the offence down the field, and found Tommy Nield in the endzone to stun Nathan Rourke and the B.C. Lions. It’s the type of...",
+      "Tommy Nield’s three-yard touchdown reception with 11 seconds left in the fourth quarter lifted the Saskatchewan Roughriders to a 24-21 victory over the B.C. Lions in the West Division final Saturday, sending the Riders to the Grey Cup. Trailing 21-17 with 1:03 left in the fourth quarter, the Riders",
+      "HAMILTON – Davis Alexander will carry a perfect record into the Grey Cup. He’ll bring a stingy defence along for the ride, too. The Montreal quarterback improved to 13-0 as a starter, and the Alouettes’ defence stood tall in a walk-off 19-16 win over the host Hamilton Tiger-Cats in the East final on"
     ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/11/17ee23502e7ab519b7074b5a5ee07314de21b828197b92fb2c429c018e55b8f2.jpg?quality=65&strip=all",
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/11/977f3a22710cf04bc53f8ed6e54e5bbf262abc1ac2da9a604ffea1e2abcc6b8d.jpg?quality=65&strip=all",
     "titles": [
-      "Former NHLer, GM Mel Bridgman dead at 70",
-      "Former NHLer, Senators GM Mel Bridgman dead at 70",
-      "Former NHLer, Ottawa Senators GM Mel Bridgman dead at 70"
+      "Roughriders off to Grey Cup after beating Lions",
+      "Harris, Roughriders rise late against Lions to earn long-awaited Grey Cup shot",
+      "Roughriders advance to Grey Cup after win over Lions in West final",
+      "Alouettes advance to Grey Cup after beating Tiger-Cats in East Final"
     ],
-    "url": "https://globalnews.ca/news/11518115/former-nhler-gm-mel-bridgman-dead-at-70/",
+    "url": "https://globalnews.ca/news/11518266/roughriders-off-to-grey-cup-after-beating-lions/",
     "alternate_urls": [
-      "https://ottawa.citynews.ca/2025/11/08/former-nhler-ottawa-senators-gm-mel-bridgman-dead-at-70/"
+      "https://ottawa.citynews.ca/2025/11/08/roughriders-advance-to-grey-cup-after-win-over-lions-in-west-final/",
+      "https://ottawa.citynews.ca/2025/11/08/alouettes-advance-to-grey-cup-after-beating-tiger-cats-in-east-final/"
     ],
-    "link": "https://globalnews.ca/news/11518115/former-nhler-gm-mel-bridgman-dead-at-70/",
+    "link": "https://globalnews.ca/news/11518266/roughriders-off-to-grey-cup-after-beating-lions/",
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.958,
+      "magnitude": 0.827,
+      "recency": 0.857,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.785,
+    "score": 0.758,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Mel Bridgman, former NHL player and the first general manager of the Ottawa Senators, has passed away at the age of 70, announced by the NHL Alumni Association on Saturday. Bridgman, who was the first overall pick in the 1975 NHL draft by the Philadelphia Flyers and also played for the Calgary Flames, had his cause of death undisclosed.",
+    "summary": "Tommy Nield's late three-yard touchdown reception secured a 24-21 victory for the Saskatchewan Roughriders over the B.C. Lions in the West Division final, propelling them into the Grey Cup. In a strategic move, Coach Corey Mace chose to punt with 1:48 remaining, relying on his defense to regain possession. This decision paid off, allowing quarterback Trevor Harris to lead a successful final drive, culminating in Nield's game-winning catch with only 11 seconds left. The Riders will face the Montreal Alouettes, led by undefeated quarterback Davis Alexander, in the Grey Cup.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Seeks Naming Rights for New $3.7B Commanders Stadium",
+    "title": "Week 11 College Football Narrows Undefeated Teams, Updates Rankings",
     "domain": "sports",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Sat, 08 Nov 2025 16:56:16 GMT",
-    "source": "Reuters",
+    "source_domain": "cbssports.com",
+    "location": "national",
+    "published": "Sun, 09 Nov 2025 05:01:28 +0000",
+    "source": "CBS Sports",
     "sources": [
-      "Reuters",
-      "ESPN",
-      "The Guardian",
+      "CBS Sports",
+      "Bleacher Report",
       "Forbes"
     ],
     "domains": [
+      "cbssports.com",
       "news.google.com",
-      "espn.com",
-      "theguardian.com",
       "forbes.com"
     ],
     "snippets": [
-      "Report: Trump wants D.C. stadium named after him Reuters",
-      "A senior White House source said there have been back-channel communications with a member of the Commanders ownership group, led by Josh Harris, to express Trump's desire to have the $3.7 billion domed stadium in the nation's capital bear his name.",
-      "Trump wants name on Commanders home, per ESPN White House source says move ‘will probably happen’ $3.7bn, 65,000-seat stadium expected to open in 2030 Donald Trump is pressing the NFL’s Washington Commanders to name their planned $3.7bn stadium after him, a bid he is pursuing through back-channel co",
-      "Trump is expected to attend the Commanders home game against the Detroit Lions on Sunday."
+      "Week 11 of the college football season saw the number of unbeaten teams dwindle again",
+      "B/R's 2025 College Football Winners and Losers from Week 11 Bleacher Report",
+      "B/R's 2025 College Football Experts Top 25 Rankings After Week 11 Bleacher Report",
+      "See which college football teams are bowl eligible heading into Week 12 and who’s in the mix for a postseason spot in the 2025 bowl season."
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/11/09/d4abb204-05a0-410c-9c12-6a9b7365f461/a-m-sway-1.jpg",
     "titles": [
-      "Report: Trump wants D.C. stadium named after him - Reuters",
-      "Sources: Trump wants D.C. stadium named for him",
-      "Trump reportedly wants new NFL stadium in Washington named after him",
-      "Trump Wants Washington Commanders Stadium Named After Him, Report Says"
+      "College football winners, losers in Week 11: Texas A&M is different in 2025 (really), Big Ten leaders survive",
+      "B/R's 2025 College Football Winners and Losers from Week 11 - Bleacher Report",
+      "B/R's 2025 College Football Experts Top 25 Rankings After Week 11 - Bleacher Report",
+      "2025 College Football Bowl Eligibility Tracker: Week 12"
     ],
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1hjOEZEdEZmVDJ1WnR3TGRLc3cxTGx3WFd1eHhIN2hyc2F6NHNDcTVGQXVfdkZOZUI4NFNqVERaYXM4cm5UaFhqakZRMVdLX3VpMHRabnhNMVgyQ1lvM3dSbU1OR0Q2N1BmMGMzZmpWa2RWdnUzbFBoUExMWWs4eDhuM0p6akV6amZYbnFlWFJwMVZLeUhtQw?oc=5",
+    "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-11-texas-a-m-different-really-big-ten-leaders-survive/",
     "alternate_urls": [
-      "https://www.espn.com/nfl/story/_/id/46892115/trump-wants-commanders-stadium-named-him",
-      "https://www.theguardian.com/sport/2025/nov/08/trump-name-washington-commanders-stadium",
-      "https://www.forbes.com/sites/saradorn/2025/11/08/trump-wants-washington-commanders-stadium-named-after-him-report-says/"
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxOZU1iU3R2SUlzbG1aRGVQa084a2xvWm1DTUJjT1E4Nl80QkpnV1Q3VmJnV3NOR2RJLUxrYkF6VW82ZkdIT1BCMDJPaGZkS3NvcXB1TWpZQ0ZIVzlwSkZLRGxVdVdWYXprekt2Y3hrZXNBcjRpUlFwODVFZnVhUmFmbzNiNEFhaTNlVmN1dWhkbUgwcmVQcWU5LUJPQlNkZw?oc=5",
+      "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnIwcmJIX2dqM0UxSzJHNGNyaXREdko4aGNIU2IwNmpHdkhlT21nOEdjUjUxYjlQdWJVMk9LclhieHAwUk1fckY0QUlyZm56YTd1MmpVUVk4LTB0VWU0WXFPNTc0azhLWUpqWXg5NWM4bU4xbS1xNjQxOEdQMzNmM2duOUpwSGFWMnpNYmx2ZWJ5MDdUYTBjNHNKSGdBdEVrZDFwVUh0V0JDX1hl?oc=5",
+      "https://www.forbes.com/sites/erikbuchinger/2025/11/09/2025-college-football-bowl-eligibility-tracker-week-12/"
     ],
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1hjOEZEdEZmVDJ1WnR3TGRLc3cxTGx3WFd1eHhIN2hyc2F6NHNDcTVGQXVfdkZOZUI4NFNqVERaYXM4cm5UaFhqakZRMVdLX3VpMHRabnhNMVgyQ1lvM3dSbU1OR0Q2N1BmMGMzZmpWa2RWdnUzbFBoUExMWWs4eDhuM0p6akV6amZYbnFlWFJwMVZLeUhtQw?oc=5",
+    "link": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-11-texas-a-m-different-really-big-ten-leaders-survive/",
     "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.86,
-      "consensus": 0.908,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.778,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Donald Trump has expressed interest in having the Washington Commanders' planned $3.7 billion, 65,000-seat stadium in D.C. named after him. This has been pursued through back-channel communications with the Commanders' ownership group. A White House source suggests this move is likely to happen. The stadium is expected to open in 2030, and Trump plans to attend a Commanders game against the Detroit Lions on Sunday.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: plan",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Federal Shutdown Triggers 1,000+ Flight Cancellations for Second Day",
-    "domain": "business",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Sat, 08 Nov 2025 22:07:58 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "The Guardian",
-      "Forbes"
-    ],
-    "domains": [
-      "bbc.com",
-      "theguardian.com",
-      "forbes.com"
-    ],
-    "snippets": [
-      "Thousands more flights have been delayed or cancelled as the reduction of air travel capacity continues during the federal government shutdown.",
-      "Charlotte, North Carolina, has the most cancellations – at 120 – as industry experts say other sectors might also feel effects US airlines again canceled more than 1,000 flights on Saturday, the second day of the Federal Aviation Administration’s order to reduce air traffic because of the government",
-      "Ground stops were in effect at several major airports Saturday."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c57/live/ae258c20-bcee-11f0-81cd-cf982342e1e7.jpg",
-    "titles": [
-      "More than 1,000 flights cancelled as US air traffic cuts enter second day",
-      "More than 1,000 flights canceled on second day of cuts tied to government shutdown",
-      "More Than 5,000 Flights Disrupted Saturday Amid Shutdown Staffing Shortages"
-    ],
-    "url": "https://www.bbc.com/news/articles/cj410k00yw8o?at_medium=RSS&at_campaign=rss",
-    "alternate_urls": [
-      "https://www.theguardian.com/us-news/2025/nov/08/flight-cancellations-government-shutdown",
-      "https://www.forbes.com/sites/saradorn/2025/11/08/more-than-5000-flights-delayed-and-cancelled-amid-shutdown-staffing-shortages/"
-    ],
-    "link": "https://www.bbc.com/news/articles/cj410k00yw8o?at_medium=RSS&at_campaign=rss",
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.959,
+      "magnitude": 0.827,
+      "recency": 0.898,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.736,
+    "score": 0.716,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The federal government shutdown has led to a significant reduction in air travel capacity, resulting in over 1,000 flight cancellations for the second consecutive day, with Charlotte, North Carolina, experiencing the highest number at 120. The Federal Aviation Administration ordered a reduction in air traffic, affecting several major airports with ground stops. This situation indicates broader impacts on various sectors beyond airlines.",
+    "summary": "Week 11 of the 2025 college football season resulted in fewer undefeated teams. Bleacher Report provided insights with winners, losers, and updated Top 25 rankings. Additionally, the week set the stage for determining bowl eligibility, highlighting teams poised for postseason play as Week 12 approaches.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Supreme Court Halts Order for Full SNAP Payments Amid Shutdown",
+    "title": "Messi Leads Inter Miami to Semifinals with 4-0 Win Over Nashville SC",
+    "domain": "sports",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Sun, 09 Nov 2025 04:42:00 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "CBS Sports",
+      "Sportsnet"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "cbssports.com",
+      "sportsnet.ca"
+    ],
+    "snippets": [
+      "Star forward Lionel Messi and Inter Miami advanced to MLS Cup East semifinals with Game 3 playoff win over Nashville.",
+      "The Herons won the series-clinching game on Saturday night, beating Nashville SC 4-0 in the decisive third game",
+      "Lionel Messi and Inter Miami are three wins away from an MLS Cup title."
+    ],
+    "image_url": "",
+    "titles": [
+      "Messi scores two goals as Inter Miami eliminate Nashville in playoffs",
+      "Lionel Messi produces clutch goals, ridiculous nutmeg to keep Inter Miami alive in MLS Cup Playoffs",
+      "Messi leads Inter Miami to semifinals with two goals, two assists"
+    ],
+    "url": "https://www.aljazeera.com/sports/2025/11/9/messi-scores-two-goals-as-inter-miami-eliminate-nashville-in-playoffs?traffic_source=rss",
+    "alternate_urls": [
+      "https://www.cbssports.com/soccer/news/lionel-messi-highlights-inter-miami-nashville-sc-score-mls-cup-playoffs-next-opponent/"
+    ],
+    "link": "https://www.aljazeera.com/sports/2025/11/9/messi-scores-two-goals-as-inter-miami-eliminate-nashville-in-playoffs?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.892,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.715,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Lionel Messi and Inter Miami advanced to the MLS Cup Eastern Conference semifinals after defeating Nashville SC 4-0 in Game 3 of their playoff series. This victory puts them three wins away from the MLS Cup title.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "FAA Halts MD-11 Flights; UPS, FedEx Ground Fleets After Crash",
     "domain": "business",
     "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Sat, 08 Nov 2025 02:48:00 GMT",
-    "source": "Associated Press",
+    "location": "global",
+    "published": "Sun, 09 Nov 2025 04:16:27 GMT",
+    "source": "Reuters",
     "sources": [
-      "Associated Press",
+      "Reuters",
       "Deutsche Welle",
-      "CNBC",
-      "LA Times"
+      "Business Insider"
     ],
     "domains": [
       "news.google.com",
       "dw.com",
-      "cnbc.com",
-      "latimes.com"
+      "businessinsider.com"
     ],
     "snippets": [
-      "Supreme Court issues emergency order to block full SNAP food aid payments AP News",
-      "Supreme Court issues emergency order to block a lower court order that required the Trump administration to disburse full SNAP food payments to states by Friday night.",
-      "The Trump administration tried not to pay for any food stamps in November because of the government shutdown. It now proposes partial SNAP benefits.",
-      "The Trump administration spent Friday fighting an appellate court battle to avoid restoring $4 billion in SNAP benefits in jeopardy due to the government shutdown."
+      "FAA bars MD-11 flights after fiery UPS jet crash Reuters",
+      "UPS, FedEx ground MD-11 fleets after deadly Louisville crash Reuters",
+      "The world's largest cargo carriers, UPS and FedEx, grounded their MD-11 freighter fleets at the recommendation of Boeing, the aircraft's manufacturer.",
+      "Delivery giants UPS and FedEx said they had made the decision to ground the fleet of aircraft after advice from the aircraft manufacturer."
     ],
     "image_url": "",
     "titles": [
-      "Supreme Court issues emergency order to block full SNAP food aid payments - AP News",
-      "US Supreme Court temporarily blocks order on full SNAP funds",
-      "Supreme Court pauses order that Trump administration must pay full SNAP benefits",
-      "Supreme Court blocks order for Trump administration to cover SNAP benefits — for now"
+      "FAA bars MD-11 flights after fiery UPS jet crash - Reuters",
+      "UPS, FedEx ground MD-11 fleets after deadly Louisville crash - Reuters",
+      "UPS, FedEx ground planes after Louisville crash",
+      "FedEx and UPS have grounded their fleets of MD-11 cargo planes after the crash in Kentucky"
     ],
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT2tqMXZkZHUyTk9ubGtWcE5FSWxBV0NKQUZJSDdpZmJkTzduVnYtNUJKbE9leWN2bThra0JneGJ0ZjRxNGthcTRWUmRBYm9KVTVucXBJOW1wNk9yYVB5RXdDbUI0VHQyN2JrOWRPYXVIVGNibUdfUG91VzZ0NVZZMGdkSXBfaENhZFVFWkVibjdOSnp2OUN6clZqTQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWhrOXF0YTlDSTZRQjRNN2FaZHRwLUxwOHJyX18yZFhnU1dQUXQyNFhLVzh4YUh2czY4b3BuT2FKazhtR2x5c1NmVlRlSXNZQ1hHNGlxSXNYNGp5ME53ZkZXUjFhLVMtQ1NOR0hOcUkyWk1YVzUxRmZfUGZIb2Ytc210VElDQWNQWFE4MmNxV3JUMWNSbmx0UXlrYTV5UGx5d0JFVnZkeWNCRzJKSG1nbnNKOGhFWGo4ZTJRbWZJVQ?oc=5",
     "alternate_urls": [
-      "https://www.dw.com/en/us-supreme-court-temporarily-blocks-order-on-full-snap-funds/a-74670142?maca=en-rss-en-top-1022-rdf",
-      "https://www.cnbc.com/2025/11/07/snap-trump-appeals-food-stamps.html",
-      "https://www.latimes.com/california/story/2025-11-07/trump-administration-snap-funding-appellate-court-california"
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUlZVTBPakVsWExvZjRnQ1g5djZ4bXdkcFBLTElYY3lIZ0dHdHBacTl1RXBHT0dEZUU5Q0JjcUtEdldmVlk4YTU1Wko5LU5kYUpuUGtSUEZaVEt5MXQzcEJqbFd0MlozQkwzQTJtTWNSVzZocGFNaTRzN1oySmdLXzhCVC04QThBZmJYbHkxSFY5UWlibTZUdTZrNUNjenRhV1psM240bDZILWFDN0J2TDJ4dw?oc=5",
+      "https://www.dw.com/en/ups-fedex-ground-planes-after-louisville-crash/a-74673334?maca=en-rss-en-top-1022-rdf",
+      "https://www.businessinsider.com/fedex-ups-ground-fleet-md-11-cargo-planes-kentucky-crash-2025-11"
     ],
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT2tqMXZkZHUyTk9ubGtWcE5FSWxBV0NKQUZJSDdpZmJkTzduVnYtNUJKbE9leWN2bThra0JneGJ0ZjRxNGthcTRWUmRBYm9KVTVucXBJOW1wNk9yYVB5RXdDbUI0VHQyN2JrOWRPYXVIVGNibUdfUG91VzZ0NVZZMGdkSXBfaENhZFVFWkVibjdOSnp2OUN6clZqTQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWhrOXF0YTlDSTZRQjRNN2FaZHRwLUxwOHJyX18yZFhnU1dQUXQyNFhLVzh4YUh2czY4b3BuT2FKazhtR2x5c1NmVlRlSXNZQ1hHNGlxSXNYNGp5ME53ZkZXUjFhLVMtQ1NOR0hOcUkyWk1YVzUxRmZfUGZIb2Ytc210VElDQWNQWFE4MmNxV3JUMWNSbmx0UXlrYTV5UGx5d0JFVnZkeWNCRzJKSG1nbnNKOGhFWGo4ZTJRbWZJVQ?oc=5",
     "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.641,
-      "consensus": 0.908,
-      "constructiveness": 0.1,
-      "proximity": 0.5
-    },
-    "score": 0.734,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Supreme Court issued an emergency order to block a lower court's directive for the Trump administration to distribute full SNAP (Supplemental Nutrition Assistance Program) food aid payments. This decision came after the administration sought to provide partial benefits instead of full payments due to the government shutdown, challenging an appellate court's effort to restore $4 billion in SNAP benefits at risk.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: effort",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "US Flight Cancellations Top 1,330 Amid Government Shutdown",
-    "domain": "general",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Sat, 08 Nov 2025 22:32:18 GMT",
-    "source": "Reuters",
-    "sources": [
-      "Reuters",
-      "Associated Press",
-      "Deutsche Welle"
-    ],
-    "domains": [
-      "news.google.com",
-      "dw.com"
-    ],
-    "snippets": [
-      "US airlines cancel 1,330 flights due to shutdown Reuters",
-      "US warns it could force 20% flight cuts if shutdown continues Reuters",
-      "US airlines cancel over 1,000 flights for a second straight day largely due to government shutdown AP News",
-      "Flights at 40 major airports were canceled as the US government shutdown fuels staffing shortages among air traffic controllers and baggage handlers."
-    ],
-    "image_url": "",
-    "titles": [
-      "US airlines cancel 1,330 flights due to shutdown - Reuters",
-      "US warns it could force 20% flight cuts if shutdown continues - Reuters",
-      "US airlines cancel over 1,000 flights for a second straight day largely due to government shutdown - AP News",
-      "US airlines ground 1,300 flights for second day"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObjRnOTZvSHpMbTc3cWVtQUp2NUs0MlFXaDZweWJfTGlOa3pIV20zeEgtMlllNnhIUUpvNUpEcVpsT3U0alQtN3NkOTFHU25YSG1pOEEzMlVuWlZwa2ZjZ1hFNnVwZ0lpV1M5WFJoRDJnZzVKcWZYbFU0TWRMT3JTLXVSMVRVRWNiRTJvSUNpV1lzTm5tVG9WdWxTYUhScmJjaUViMTgyempKbGFVOW56MnRpNlR6ZkozelV2c2R6eTBsWDZpLUNadW53?oc=5",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTU4Q20xd2FJRGtnSVlOcDFfUVBmLXFEVlZmdGF5SUNxV3ZYQncxWE9sY2NkY2ExR3k3U1B2X2t1eHFhN2NabXpoX2tueVdueVRJYlFPTkJpWGo1TUxZem56OGdVbmREOEZORkVLei0yWlRTLU40d3RSUlpKck5rR2kxZzRlOXlpLTJmb0ZrX3M4WUtuQnFRQ1BvSTdDMUlveXFtUw?oc=5",
-      "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXEzNlVxa0F5ZTV0c3YyQmxJX3p5VDJGdDNjNjg5WFd4aGJ3SWNHVGFidGg2VG80bGJOdk9JN3BvQ2FZbC1vb3NTTWIwUzdOR1JoSTNxZ01GbS1YeS1jVHN2ZzhaNkRET1hXOG9PSFh5amRuWXBscFA4ZFFfY2hfVjB1Tmo4VGNPV01Wc05TZ01rLTE3OTdWSDhZM2RMb2Y2ZW1TZHBVc256N0lfMW5VZmNRaw?oc=5",
-      "https://www.dw.com/en/us-airlines-ground-1-300-flights-for-second-day/a-74675462?maca=en-rss-en-top-1022-rdf"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObjRnOTZvSHpMbTc3cWVtQUp2NUs0MlFXaDZweWJfTGlOa3pIV20zeEgtMlllNnhIUUpvNUpEcVpsT3U0alQtN3NkOTFHU25YSG1pOEEzMlVuWlZwa2ZjZ1hFNnVwZ0lpV1M5WFJoRDJnZzVKcWZYbFU0TWRMT3JTLXVSMVRVRWNiRTJvSUNpV1lzTm5tVG9WdWxTYUhScmJjaUViMTgyempKbGFVOW56MnRpNlR6ZkozelV2c2R6eTBsWDZpLUNadW53?oc=5",
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.967,
-      "consensus": 0.769,
+      "magnitude": 0.827,
+      "recency": 0.884,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.732,
+    "score": 0.714,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "US airlines have canceled more than 1,330 flights for two consecutive days due to a government shutdown, leading to staffing shortages among air traffic controllers and baggage handlers. The US has warned that the shutdown could result in a forced 20% reduction in flights if it continues. The cancellations have affected 40 major airports across the country.",
+    "summary": "Following a fiery crash in Louisville, the FAA has barred MD-11 flights, leading UPS and FedEx, two of the world's largest cargo carriers, to ground their MD-11 fleets on Boeing's advice.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Elena Rybakina Wins First WTA Finals Title in Riyadh",
+    "title": "Infant Botulism Outbreak in 10 States Linked to Baby Formula, Recall Issued",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Sun, 09 Nov 2025 03:22:00 GMT",
+    "source": "Associated Press",
+    "sources": [
+      "Associated Press",
+      "Global News",
+      "Bloomberg"
+    ],
+    "domains": [
+      "news.google.com",
+      "globalnews.ca"
+    ],
+    "snippets": [
+      "Infant botulism in 10 US states linked to formula being recalled AP News",
+      "Federal and state health officials are investigating 13 cases in 10 states of infant botulism linked to baby formula that was being recalled, authorities said Saturday.",
+      "Baby Formula Recalled After Infant Botulism Outbreak Bloomberg.com"
+    ],
+    "image_url": "",
+    "titles": [
+      "Infant botulism in 10 US states linked to formula being recalled - AP News",
+      "Infant botulism in 10 US states linked to formula being recalled",
+      "Baby Formula Recalled After Infant Botulism Outbreak - Bloomberg.com"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnE5NVZoUXczd1FMNklEaW5KSGxsdmwwVnNWVzNwbGl5U2c3aTluTUQ3c2RkUjFLNFlybTlhZllBampSY0h0MGs2eE9VM3I5cndOc2UxYlZYdTU3T19CT0tabGtMOWZHaGJibHZKLTcwTnlTejFqN2Z5MWRINWtpWmh0MzhCZktxaUt2ckNUVG5WT012cVo3dkl1RWsza0NZaDQwbllhZUFoQQ?oc=5",
+    "alternate_urls": [
+      "https://globalnews.ca/news/11518322/infant-botulism-in-10-us-states-linked-to-formula-being-recalled/",
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEZjZ2VmbXNVenE2OTRPeDlBNWl2RmZfZzNFSkxFYVJQUGxuTlVjMi1tc0Y2RW41Xy1oYXd4R3BYWnpHWEM5Q2hINXVlWTBueEJVMWJOdnpMRHA5RTRSbHFmQU5pdWVLdXktaENLMzVDaml0QWt4dzFtOFdJSkg5VmY3T1ZQbkw4di1JSjdZUlJJN3I1azh5aUJOX3ZzQlVnVzBNYWZB?oc=5"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnE5NVZoUXczd1FMNklEaW5KSGxsdmwwVnNWVzNwbGl5U2c3aTluTUQ3c2RkUjFLNFlybTlhZllBampSY0h0MGs2eE9VM3I5cndOc2UxYlZYdTU3T19CT0tabGtMOWZHaGJibHZKLTcwTnlTejFqN2Z5MWRINWtpWmh0MzhCZktxaUt2ckNUVG5WT012cVo3dkl1RWsza0NZaDQwbllhZUFoQQ?oc=5",
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.868,
+      "consensus": 0.769,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.712,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Federal and state health officials are investigating 13 cases of infant botulism across 10 US states, linked to a specific baby formula. This has prompted a recall of the formula in question.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Elena Rybakina Wins First WTA Finals Crown in Riyadh",
     "domain": "sports",
     "source_domain": "news.google.com",
     "location": "global",
@@ -353,21 +462,21 @@
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdEIyQU9oeml5dTBnMzh2a0N1Q0ZTSmJpM1dLVExDX0NuSWRBODZyNTMyYVNNSkNrNHFCSzFOZjRaMWs0RmtfTTE4eGpibzFtNzVaTEY2d0FQbTlENUNscjBYOWY5VlRQemI4RjJoTmRaeDZpZ19ZWjg0blRSMDhpX2xHWlVwbUZJOGg4Z0JuQlRnOUFGQWJjSHF3aFFiSlVBSFUycmJOemVtU1BQamc?oc=5",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.939,
+      "recency": 0.762,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.725,
+    "score": 0.689,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Elena Rybakina won the WTA Finals, defeating Aryna Sabalenka 6-3, 7-6 (7-0) in Riyadh. This victory marks Rybakina's first WTA Finals crown and highlights her resurgence in women's tennis. She remained unbeaten throughout the tournament and earned £3.98m.",
+    "summary": "Elena Rybakina won the WTA Finals, defeating Aryna Sabalenka 6-3, 7-6 (7-0) in Riyadh. This victory marks Rybakina's first WTA Finals crown and highlights her resurgence in women's tennis. She remained unbeaten throughout the tournament and took home £3.98m in prize money.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "FAI Requests UEFA to Suspend Israel Over Actions in Palestinian Territories",
+    "title": "FAI Calls for Israel's Suspension from UEFA Over Alleged Statute Violations",
     "domain": "sports",
     "source_domain": "news.google.com",
     "location": "global",
@@ -402,122 +511,21 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckM5WTYyNU9MbnlLOGprX09MdGhjMFhTT1Q2NGI0dnhMenEta2tCdnlTR28xMUo1NkRLVnQtSnE3cVlveEkxdTBtUGNWcFJWSmZrTlVXSUtGU1RqQW03SGJSdmo4VU9fcURpdVdhNVNpYlhCUjdTZ29qTzQ5V1lhaTVFTF9jWmxwWDZPeThxSnJIZHc3bnB6OGU0c2lxaHpwbmw5Uk1OcURwSW9Fbmd3M0lB?oc=5",
     "score_components": {
       "magnitude": 0.867,
-      "recency": 0.829,
+      "recency": 0.673,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.717,
+    "score": 0.685,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The Football Association of Ireland (FAI) has passed a resolution to formally request UEFA to suspend Israel from European competitions, alleging Israel's actions in occupied Palestinian territories violate UEFA statutes.",
+    "summary": "The Football Association of Ireland (FAI) has officially approved a resolution to submit a motion to UEFA, calling for the immediate suspension of Israel from European club and international competitions. This action is in response to allegations of Israel violating UEFA's statutes in occupied Palestinian territories.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Supreme Court Lets Trump Admin Pause $4B in SNAP Aid for 42M People",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Sat, 08 Nov 2025 15:29:46 GMT",
-    "source": "Reuters",
-    "sources": [
-      "Reuters",
-      "Al Jazeera",
-      "Bloomberg"
-    ],
-    "domains": [
-      "news.google.com",
-      "aljazeera.com"
-    ],
-    "snippets": [
-      "US Supreme Court lets Trump withhold $4 billion in food aid funding for now Reuters",
-      "Forty-two million face food aid delays after the nation's top Court lets US president pause full SNAP payments.",
-      "Supreme Court Lets Trump Officials Limit Food Aid for Now Bloomberg.com"
-    ],
-    "image_url": "",
-    "titles": [
-      "US Supreme Court lets Trump withhold $4 billion in food aid funding for now - Reuters",
-      "US Supreme Court allows Trump to block $4bn in food aid to families in need",
-      "Supreme Court Lets Trump Officials Limit Food Aid for Now - Bloomberg.com"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFdTb1djUG1ZRHVDazVBMFRjUjE2aW1yeU1ETGZscmRCSkJrYW9NSzdnWHFrRlh1dzQ3d1Q2OGM3c3NUNVM2Z1FJVmFJNy1kOXpjNWJhRUo2RzR1UEVhQW1wQVE1VHdubXJiaUxUd1I3Y0ZJMG8ydWNNN0VMUGVGRmZTSWVZYXpON1N1VkQwVngzTlFzUl9YMWJ3Qjc2eGpVUVdidEc3bVo1VUx5VEc4X3ZrU2I?oc=5",
-    "alternate_urls": [
-      "https://www.aljazeera.com/economy/2025/11/8/us-supreme-court-allows-trump-to-block-4bn-in-food-aid-to-families-in-need?traffic_source=rss",
-      "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXJsRnFldk9Qdmd6QUNiX1Y4M2p6TlowOXpERGJBQ1hsRmhUNVVqV0NvYWl0a2IxaHNxV0Rhel9oV2hpbGxQb0RpR0gwZVRCQXg2cF85RFUtd0h6dkNBT1ZuYzM5UzZ2b2FNazVIQ3JGYVQ3RlJvTTh1ZEY3allpN2gxWEt1V3pRQUFkdnhjZzFkNWdydEpiZjQySnVlN2F1QXBZUl9hUzZRVllKbzAxTGxDUQ?oc=5"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFdTb1djUG1ZRHVDazVBMFRjUjE2aW1yeU1ETGZscmRCSkJrYW9NSzdnWHFrRlh1dzQ3d1Q2OGM3c3NUNVM2Z1FJVmFJNy1kOXpjNWJhRUo2RzR1UEVhQW1wQVE1VHdubXJiaUxUd1I3Y0ZJMG8ydWNNN0VMUGVGRmZTSWVZYXpON1N1VkQwVngzTlFzUl9YMWJ3Qjc2eGpVUVdidEc3bVo1VUx5VEc4X3ZrU2I?oc=5",
-    "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.835,
-      "consensus": 0.769,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.713,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The US Supreme Court has allowed the Trump administration to temporarily withhold $4 billion in food aid, affecting the distribution of full SNAP payments to 42 million individuals.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Trump Considers Sanction Exemption for Hungary on Russian Oil",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Sat, 08 Nov 2025 00:28:00 GMT",
-    "source": "Associated Press",
-    "sources": [
-      "Associated Press",
-      "Deutsche Welle",
-      "New York Times",
-      "Bloomberg"
-    ],
-    "domains": [
-      "news.google.com",
-      "dw.com",
-      "nytimes.com"
-    ],
-    "snippets": [
-      "Orbán says Trump will not punish Hungary for buying Russian energy, reducing impact of sanctions AP News",
-      "Viktor Orban, who has called access to Russian oil and gas a \"vital\" issue for his landlocked country, had the most to gain from a meeting with Donald Trump at the White House. And he did.",
-      "Despite a chummy relationship, new U.S. penalties on Russian energy were likely to be a sticking point as President Trump and Prime Minister Viktor Orban of Hungary met.",
-      "Trump Grants Hungary Exemption on Russian Oil in Orban Win Bloomberg.com"
-    ],
-    "image_url": "",
-    "titles": [
-      "Orbán says Trump will not punish Hungary for buying Russian energy, reducing impact of sanctions - AP News",
-      "Trump exempts Hungary from sanctions for buying Russian oil",
-      "Trump Signals Openness to Exempting Hungary from Russian Oil Sanctions",
-      "Trump Grants Hungary Exemption on Russian Oil in Orban Win - Bloomberg.com"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzlBQzVTLWRiVXhWMjhNMFpmY2VjdEVXdm9wXzFVZnFyQ2JDOURocW5WRmpGVmtLdWZXbWktem92ZUtaQnpjcjFwMGdrSVBQRGdEZ2ltRzVMNW1iNlpjcTJ5YnRJaVVNQ3NsZGpBWXNkSXdJeXNkOHhhNDlROWdFdF8xVE51cWozLUJ0Z0ln?oc=5",
-    "alternate_urls": [
-      "https://www.dw.com/en/trump-exempts-hungary-from-sanctions-for-buying-russian-oil/a-74668348?maca=en-rss-en-top-1022-rdf",
-      "https://www.nytimes.com/2025/11/07/world/europe/trump-orban-meeting-russia-sanctions.html",
-      "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3Y3bDVjVHhsSXZGbG9FNjJrN1pBNFZpeExEcVJSLWpnajc4THhnMWExMjI4b25vcEZqQTJ2V2FCMnFoa0xkME5rZTBWYzM3eGdvQUJBeEl0eXNRTVprQVV0ZU00UDI2a1I2V2pzVm1KbnozRE5zVWowTG1kb2FGV3B6cF9tQ0tJZ3dUdkl1Uy0yQUlYVTNTT0Z2MDJ3YnkxUDUtM2tNVGxxQ2phMUdqNkNmSQ?oc=5"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzlBQzVTLWRiVXhWMjhNMFpmY2VjdEVXdm9wXzFVZnFyQ2JDOURocW5WRmpGVmtLdWZXbWktem92ZUtaQnpjcjFwMGdrSVBQRGdEZ2ltRzVMNW1iNlpjcTJ5YnRJaVVNQ3NsZGpBWXNkSXdJeXNkOHhhNDlROWdFdF8xVE51cWozLUJ0Z0ln?oc=5",
-    "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.61,
-      "consensus": 0.888,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.713,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "During a meeting with Hungarian Prime Minister Viktor Orban, US President Donald Trump agreed to consider granting Hungary an exemption from sanctions on Russian oil. This decision comes amidst Trump's broader push for US allies to reduce their reliance on Russian energy. The exemption, seen as a victory for Orban, aims to mitigate the impact of sanctions on Hungary, highlighting the close relationship between the two leaders despite potential tensions over new US penalties on Russian energy.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Pfizer Buys Obesity Drugmaker Metsera for $10B, Outbids Novo Nordisk",
+    "title": "Pfizer Buys Obesity Drug Firm Metsera for $10B, Outbids Novo Nordisk",
     "domain": "business",
     "source_domain": "news.google.com",
     "location": "global",
@@ -551,21 +559,21 @@
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOXVDZXBDakdKWjJkc1FXaUYybjVkRDd5dHNRZG5PVFd3QU82YlFHdGdnaGdLejlZZ25ETmd2M3JyUVpiclczOHpibjFkbEV2Y1RzaHNOelJoOG9XTDZVTHh2Ykg1X0I4T1V1MVNJdXNOdDk2aXFkTFFVTjNZM2VXdHFZVGpVZnRCTUVXLWFhRmxYU2Z4SktrMko2bEhUR1hZdGdKcU1fMFE1YVRlNU5ELTZMZnJzTlB5VnB4Tkc1VEZhVUhPTjR0X1lBVmc3d2MzUGtiVTdsZ0RKblJhNGpsRG5vVQ?oc=5",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.849,
+      "recency": 0.689,
       "consensus": 0.769,
-      "constructiveness": 0.1,
+      "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.712,
+    "score": 0.67,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Pfizer has acquired New York-based, development-stage obesity drugmaker Metsera Inc. for $10 billion, outbidding Danish pharmaceutical company Novo Nordisk. Metsera, which currently has no products on the market, was at the center of a competitive bidding war before Pfizer secured the deal.",
-    "constructiveness_score": 0.1,
-    "constructiveness_reason": "keywords: development",
+    "summary": "Pfizer has acquired New York-based Metsera Inc., a company specializing in obesity drugs but without any products currently on the market, for $10 billion. This purchase concludes a competitive bidding war with Danish pharmaceutical company Novo Nordisk.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Tanzania Arrests Opposition Leader Amid Election Protest Dispute",
+    "title": "Tanzania Arrests Opposition Leader Amid Election Protest Controversy",
     "domain": "general",
     "source_domain": "news.google.com",
     "location": "global",
@@ -600,106 +608,65 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMENobEt5aDlLUElWWS1VMHpucE5CM3BxVXZ3UURrLVB3TWlFUTc1eVhDZk14SGU1ODlrVUVta1lnbHFfNU15aGMwcVdrT01XbzdidmFQS3JreGN3SmlCQU0walh4M1YyRzhZejR1cUZHaW5xVHdzbzZxSXVnRUtza3E3dGI0QlJ1WkNYYWpfeF9TODRiRkZ0MlBfaFhRVFlkTTc5VE83ZXJ4amIwaVJr?oc=5",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.812,
+      "recency": 0.659,
       "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.699,
+    "score": 0.669,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Tanzania police arrested a senior official of the opposition party, Chadema, following deadly election protests. Chadema disputes the election's legitimacy, calling it fraudulent. African Union observers also deemed the vote not credible, citing ballot box stuffing. The government, however, defends the election's fairness.",
+    "summary": "Tanzania police arrested a senior official from the opposition party, Chadema, following deadly protests linked to last week's elections. The party has denounced the reelection of the incumbent president as fraudulent. African Union observers have also questioned the credibility of the vote, citing instances of ballot box stuffing. However, the Tanzanian government insists the election was fair.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "\"Trailer Park Boys\" Actor Mike Smith Charged with Sexual Assault",
+    "title": "Indigenous Veterans Honored on Remembrance Day Amidst Treatment Disparities",
     "domain": "general",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Sat, 08 Nov 2025 20:04:00 +0000",
-    "source": "Global News",
+    "source_domain": "cbc.ca",
+    "location": "local",
+    "published": "Sat, 08 Nov 2025 19:38:49 EST",
+    "source": "CBC",
     "sources": [
-      "Global News",
-      "CityNews"
+      "CBC",
+      "Ottawa Citizen"
     ],
     "domains": [
-      "globalnews.ca",
-      "ottawa.citynews.ca"
+      "cbc.ca",
+      "ottawacitizen.com"
     ],
     "snippets": [
-      "Mike Smith, who plays Bubbles on 'Trailer Park Boys,' is facing a sexual assault charge for an alleged incident on Dec. 30, 2017, and is set to appear in Halifax court Monday.",
-      "Mike Smith, the actor behind the character Bubbles from “Trailer Park Boys,” has been charged with sexual assault for a 2017 incident. Court documents say Smith was charged by Halifax Regional Police on Oct. 2, and he is scheduled to appear in court Monday. A spokesperson with the Nova Scotia Public"
+      "Saturday's gathering on Indigenous Veterans Remembrance day allowed people to reflect on the sacrifices of Indigenous veterans and highlight how many have been treated differently than their non-Indigenous peers.",
+      "Indigenous Veteran's Day on Nov. 8 was an occasion to highlight and honour Indigenous veterans."
     ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/11/5ebd7024cd2541f4ed3a1ac3186d649c9c197365394cc0053ddec5ebb4507bae.jpg?quality=65&strip=all",
+    "image_url": "",
     "titles": [
-      "Trailer Park Boys actor Mike Smith charged with sexual assault for 2017 incident"
+      "Ottawa ceremony honours Indigenous veterans and reflects on reconciliation",
+      "Indigenous veterans' sacrifices at home and abroad recognized in Ottawa-area ceremony"
     ],
-    "url": "https://globalnews.ca/news/11518014/trailer-park-boys-charges/",
+    "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-ceremony-honours-indigenous-veterans-and-reflects-on-reconciliation-9.6972465?cmp=rss",
     "alternate_urls": [
-      "https://ottawa.citynews.ca/2025/11/08/trailer-park-boys-actor-mike-smith-charged-with-sexual-assault-for-2017-incident/"
+      "https://ottawacitizen.com/news/indigenous-veterans-ottawa-ceremony"
     ],
-    "link": "https://globalnews.ca/news/11518014/trailer-park-boys-charges/",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.918,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
-    },
-    "score": 0.696,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Mike Smith, known for playing Bubbles on \"Trailer Park Boys,\" has been charged with sexual assault related to an incident on Dec. 30, 2017. He was charged on Oct. 2 by Halifax Regional Police and is scheduled for a court appearance in Halifax on Monday.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Vancouver Canucks' Demko Out, Lankinen to Start Saturday",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Sat, 08 Nov 2025 22:02:41 +0000",
-    "source": "Global News",
-    "sources": [
-      "Global News",
-      "Sportsnet"
-    ],
-    "domains": [
-      "globalnews.ca",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "Goaltender Thatcher Demko will not dress Saturday night, meaning backup Kevin Lankinen will start when the Vancouver Canucks play the Columbus Blue Jackets in an NHL game.",
-      "Thatcher Demko will not be on the ice or the bench for the Vancouver Canucks on Saturday."
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/11/1cd893c29dfe6c4d7f87749dd9544a1d8f5f2186f431e0e9477f6d414c9ff76c.jpg?quality=65&strip=all",
-    "titles": [
-      "Canucks’ Demko won’t dress vs. Blue Jackets",
-      "Canucks’ Thatcher Demko won’t dress vs. Blue Jackets"
-    ],
-    "url": "https://globalnews.ca/news/11518127/canucks-demko-wont-dress-vs-blue-jackets/",
-    "alternate_urls": [],
-    "link": "https://globalnews.ca/news/11518127/canucks-demko-wont-dress-vs-blue-jackets/",
+    "link": "https://www.cbc.ca/news/canada/ottawa/ottawa-ceremony-honours-indigenous-veterans-and-reflects-on-reconciliation-9.6972465?cmp=rss",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.957,
+      "recency": 0.82,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.696,
+    "score": 0.669,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Thatcher Demko, the goaltender for the Vancouver Canucks, will be absent from Saturday's NHL game against the Columbus Blue Jackets. Backup goalie Kevin Lankinen will start in his place.",
+    "summary": "On Indigenous Veterans Remembrance Day, observed on Nov. 8, a gathering took place to honor the contributions and sacrifices of Indigenous veterans. The event also focused on the disparities in treatment between Indigenous and non-Indigenous veterans.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Perth Man Critically Injured in Single-Vehicle Crash on Highway 43",
+    "title": "Perth Man Critically Injured in Highway 43 Single-Vehicle Crash",
     "domain": "general",
     "source_domain": "cbc.ca",
     "location": "local",
@@ -729,113 +696,239 @@
     "link": "https://www.cbc.ca/news/canada/ottawa/man-in-life-threatening-condition-after-collision-in-smiths-falls-9.6972341?cmp=rss",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.897,
+      "recency": 0.728,
       "consensus": 0.591,
       "constructiveness": 0.1,
       "proximity": 1.0
     },
-    "score": 0.694,
+    "score": 0.661,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "A 33-year-old man from Perth, Ontario, sustained life-threatening injuries in a single-vehicle crash after his truck veered off Highway 43 west of Glenview Road early Saturday morning, as reported by the Ontario Provincial Police.",
+    "summary": "A 33-year-old man from Perth, Ontario, sustained life-threatening injuries in a single-vehicle crash early Saturday morning. The incident occurred when his westbound truck veered off Highway 43, west of Glenview Road, as reported by the Ontario Provincial Police.",
     "constructiveness_score": 0.1,
     "constructiveness_reason": "keywords: sustain",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Water Safe After Train Derailment Spills Fuel in B.C., Tests Confirm",
-    "domain": "business",
-    "source_domain": "globalnews.ca",
+    "title": "Former NHL Star Mel Bridgman Dies at 70",
+    "domain": "sports",
+    "source_domain": "sportsnet.ca",
     "location": "national",
-    "published": "Sat, 08 Nov 2025 19:19:58 +0000",
-    "source": "Global News",
+    "published": "Sat, 08 Nov 2025 17:00:23 EST",
+    "source": "Sportsnet",
     "sources": [
-      "Global News",
-      "Financial Post"
+      "Sportsnet",
+      "CityNews"
     ],
     "domains": [
-      "globalnews.ca",
-      "financialpost.com"
+      "sportsnet.ca",
+      "ottawa.citynews.ca"
     ],
     "snippets": [
-      "Tests show no contamination in Kamloops Lake’s water after 80,000 litres of aviation fuel spilled in a Nov. 1 train derailment near Cherry Creek, B.C., officials say.",
-      "VICTORIA — A local official said testing has revealed “no contamination” of a local water system on Kamloops Lake in B.C. after more than 80,000 litres of aviation fuel spilled on its shores in a train derailment last weekend. Michael Grenier, director for Area J of the Thompson-Nicola Regional Dist"
+      "Former NHLer and Ottawa Senators general manager Mel Bridgman has died. He was 70.",
+      "Former NHLer and Ottawa Senators general manager Mel Bridgman has died. He was 70. The NHL Alumni Association announced his death on Saturday. The cause of death was not disclosed. Bridgman was the first overall pick in the 1975 NHL draft by the Philadelphia Flyers, where he spent his first six-plus"
     ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/11/54353b38a8ff2856000fe83fc76b8d2fd8153e6b6ad37e7e1e93b88cda4a418a_8d3641.jpg?quality=65&strip=all",
+    "image_url": "https://www.sportsnet.ca/wp-content/uploads/2025/11/Mel-Bridgman.jpg",
     "titles": [
-      "Officials says no contamination of a B.C water system after train derailment",
-      "Official says test reveals no contamination of a local water system after derailment"
+      "Former NHLer, Senators GM Mel Bridgman dead at 70",
+      "Former NHLer, Ottawa Senators GM Mel Bridgman dead at 70"
     ],
-    "url": "https://globalnews.ca/news/11517950/train-derailment-bc/",
-    "alternate_urls": [
-      "https://financialpost.com/pmn/official-says-test-reveals-no-contamination-of-a-local-water-system-after-derailment"
-    ],
-    "link": "https://globalnews.ca/news/11517950/train-derailment-bc/",
+    "url": "https://ottawa.citynews.ca/2025/11/08/former-nhler-ottawa-senators-gm-mel-bridgman-dead-at-70/",
+    "alternate_urls": [],
+    "link": "https://ottawa.citynews.ca/2025/11/08/former-nhler-ottawa-senators-gm-mel-bridgman-dead-at-70/",
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.904,
+      "magnitude": 0.735,
+      "recency": 0.776,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.693,
+    "score": 0.66,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Following a train derailment near Cherry Creek, B.C., on Nov. 1, which resulted in a spill of over 80,000 litres of aviation fuel into Kamloops Lake, officials have confirmed that water tests show no contamination. This announcement was made by Michael Grenier, director for Area J of the Thompson-Nicola Regional District, ensuring the safety of the local water system after the incident.",
+    "summary": "Former NHL player and Ottawa Senators general manager Mel Bridgman passed away at the age of 70, as announced by the NHL Alumni Association. The cause of death was not provided. Bridgman, who was the first overall pick in the 1975 NHL draft by the Philadelphia Flyers, had a distinguished career before moving into management.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Trump Bars US Officials from G20 in South Africa Over Unfounded Claims",
-    "domain": "business",
-    "source_domain": "news.google.com",
+    "title": "Kenyan Activists Detained in Uganda Return Home After 39 Days",
+    "domain": "general",
+    "source_domain": "aljazeera.com",
     "location": "global",
-    "published": "Sat, 08 Nov 2025 09:03:39 GMT",
-    "source": "Reuters",
+    "published": "Sun, 09 Nov 2025 09:11:45 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "Reuters",
-      "Washington Post",
-      "Bloomberg"
+      "Al Jazeera",
+      "Deutsche Welle"
     ],
     "domains": [
-      "news.google.com",
-      "washingtonpost.com"
+      "aljazeera.com",
+      "dw.com"
     ],
     "snippets": [
-      "Trump says no US government official will attend G20 summit in South Africa Reuters",
-      "In making the announcement, the president repeated claims — which lack any evidence — that White South Africans are being murdered and persecuted.",
-      "Trump Says US Plans to Skip G-20 Summit in South Africa Bloomberg.com"
+      "Two Kenyan human rights activists have returned home after being secretly detained for 39 days in Uganda.",
+      "The two men, from the Free Kenya Movement, were in neighboring Uganda for a rally by presidential rival Bobi Wine when they were seized."
     ],
     "image_url": "",
     "titles": [
-      "Trump says no US government official will attend G20 summit in South Africa - Reuters",
-      "Trump says U.S. officials will not attend G-20 summit in South Africa",
-      "Trump Says US Plans to Skip G-20 Summit in South Africa - Bloomberg.com"
+      "Freed Kenyan activists allege mistreatment after month in Ugandan detention",
+      "Kenyan activists freed after monthlong Uganda abduction"
     ],
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXpjdUZLbDljUDdud1pQOU5kaFpwb2c0QVY0VE9LajBmY2RGOTdMNzJLQkpVdzBSelRTQzVtQ3c5WnBZRjBsREl2aHZ2dGVuX2ZneWEyeXBSY01WWDRfRE5pbDZiQ0ZlYmNTb1E5SVJBX2R1MG9jVDBVd1BraThFUldHTXlWYUg3QTZrZXBWdXhtbnFqQm5Ub09SRllQTnN3UUFWLUpXM1phMVhwUXFjUThRNEx6SmFhcmlkMEdn?oc=5",
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/11/9/freed-kenyan-activists-allege-mistreatment-after-month-in-ugandan-detention?traffic_source=rss",
     "alternate_urls": [
-      "https://www.washingtonpost.com/politics/2025/11/08/trump-g20-south-africa/",
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0RTN29JMVR1Qko1WDRXWWpsN0g0QmhoZjBUY09BU0swUW54ajNVRndINnNLZDZqX0o2bnNkZkZIZjFJRFJ0MjJRYlkzam1rM0J6SVAzY05DOTJZYi0xelZzWm5tNC1CSTEzX3REVjBSVmtndURGc2hxXzhSZlN0OHJhTkVKdE1MY2VRYVBsei1tUWtqN0hkN2IxVFZaR1FRbDNqTnIwR1pJQQ?oc=5"
+      "https://www.dw.com/en/kenyan-activists-freed-after-monthlong-uganda-abduction/a-74674225?maca=en-rss-en-top-1022-rdf"
     ],
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXpjdUZLbDljUDdud1pQOU5kaFpwb2c0QVY0VE9LajBmY2RGOTdMNzJLQkpVdzBSelRTQzVtQ3c5WnBZRjBsREl2aHZ2dGVuX2ZneWEyeXBSY01WWDRfRE5pbDZiQ0ZlYmNTb1E5SVJBX2R1MG9jVDBVd1BraThFUldHTXlWYUg3QTZrZXBWdXhtbnFqQm5Ub09SRllQTnN3UUFWLUpXM1phMVhwUXFjUThRNEx6SmFhcmlkMEdn?oc=5",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/11/9/freed-kenyan-activists-allege-mistreatment-after-month-in-ugandan-detention?traffic_source=rss",
     "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.73,
-      "consensus": 0.769,
+      "magnitude": 0.755,
+      "recency": 0.98,
+      "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.692,
+    "score": 0.658,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "President Trump announced that no US government officials will attend the G20 summit in South Africa, citing unsubstantiated claims of persecution and murder of White South Africans as the reason.",
+    "summary": "Two Kenyan human rights activists from the Free Kenya Movement, who were detained for 39 days in Uganda after attending a rally by presidential rival Bobi Wine, have safely returned home.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Jason Kelce Clarifies Remarks on Canada, Did Not Mean to Offend",
+    "title": "6.7 Magnitude Earthquake Strikes Near Yamada, Japan; Tsunami Warning Issued",
+    "domain": "general",
+    "source_domain": "abcnews.go.com",
+    "location": "national",
+    "published": "Sun, 09 Nov 2025 03:44:54 -0500",
+    "source": "ABC News",
+    "sources": [
+      "ABC News",
+      "New York Times"
+    ],
+    "domains": [
+      "abcnews.go.com",
+      "nytimes.com"
+    ],
+    "snippets": [
+      "A 6.7 magnitude earthquake struck Sunday off Yamada, Japan, the USGS said.",
+      "A tsunami was expected to come ashore with a maximum height of about three feet after a 6.7-magnitude quake struck off Japan’s coast early Sunday evening."
+    ],
+    "image_url": "https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_4x3t_384.jpg",
+    "titles": [
+      "Tsunami advisory issued as strong earthquake strikes off Japanese coast",
+      "Japan Issues Tsunami Advisory After Strong Earthquake Off Its Coast"
+    ],
+    "url": "https://abcnews.go.com/International/japan-earthquake-tsunami-advisory/story?id=127349100",
+    "alternate_urls": [
+      "https://www.nytimes.com/2025/11/09/world/asia/earthquake-japan-tsunami-warning.html"
+    ],
+    "link": "https://abcnews.go.com/International/japan-earthquake-tsunami-advisory/story?id=127349100",
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.971,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.656,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A 6.7 magnitude earthquake hit off the coast of Yamada, Japan, on Sunday, according to the USGS. Following the quake, a tsunami warning was issued, predicting waves up to three feet in height.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "US Government Shutdown Delays Jobs and Inflation Reports Amid Fed Challenges",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Sun, 09 Nov 2025 07:02:00 GMT",
+    "source": "Bloomberg",
+    "sources": [
+      "Bloomberg",
+      "Financial Post"
+    ],
+    "domains": [
+      "news.google.com",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "Data Fog Intensifying for Fed as Shutdown Delays US Inflation Numbers Bloomberg.com",
+      "Two monthly jobs reports have fallen victim to the longest US government shutdown and a key inflation snapshot due in the coming week is also in jeopardy, illustrating a thickening data fog for a Federal Reserve that’s the most divided in recent memory."
+    ],
+    "image_url": "",
+    "titles": [
+      "Data Fog Intensifying for Fed as Shutdown Delays US Inflation Numbers - Bloomberg.com",
+      "Data Fog Intensifying for Fed as Shutdown Delays US Inflation Numbers"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFdObElYdUN1VVprdG1ILUpNb3lYdGQwbXVJNEh0U3E1enNpZXh3UEtFeGN4Sjc3bkpmSmdZYlFhVWlWSmJyaXB4SXJocGV6c2pZaUJQb2hLWGxfbnVQX0I4MkJwWFZQNjlvZ3RiTTZnYlUzVEtCX2FHdEdCemo2aEd0bWtLUmtITlVLSlM0cXZvVnQzdEd2dEVKNFZVMkRsWWhZZllwemMycDF5c0E3cVJZQjdOcGdJVW9Taw?oc=5",
+    "alternate_urls": [
+      "https://financialpost.com/pmn/business-pmn/data-fog-intensifying-for-fed-as-shutdown-delays-us-inflation-numbers"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFdObElYdUN1VVprdG1ILUpNb3lYdGQwbXVJNEh0U3E1enNpZXh3UEtFeGN4Sjc3bkpmSmdZYlFhVWlWSmJyaXB4SXJocGV6c2pZaUJQb2hLWGxfbnVQX0I4MkJwWFZQNjlvZ3RiTTZnYlUzVEtCX2FHdEdCemo2aEd0bWtLUmtITlVLSlM0cXZvVnQzdEd2dEVKNFZVMkRsWWhZZllwemMycDF5c0E3cVJZQjdOcGdJVW9Taw?oc=5",
+    "score_components": {
+      "magnitude": 0.775,
+      "recency": 0.937,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.656,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "The longest US government shutdown has caused delays in releasing two monthly jobs reports and may also delay a key upcoming inflation report. This situation is creating challenges for the Federal Reserve, which is currently experiencing significant internal divisions.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Migrant Boat Sinks Near Malaysia-Thailand Border; 1 Dead, 10 Rescued",
+    "domain": "general",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Sun, 09 Nov 2025 08:20:23 GMT",
+    "source": "Reuters",
+    "sources": [
+      "Reuters",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "news.google.com",
+      "dw.com"
+    ],
+    "snippets": [
+      "Migrant vessel sinks off Malaysia-Thailand border, hundreds missing Reuters",
+      "At least one person has died and 10 have been rescued after a boat carrying undocumented migrants sank. Two other boats have also been reported missing."
+    ],
+    "image_url": "",
+    "titles": [
+      "Migrant vessel sinks off Malaysia-Thailand border, hundreds missing - Reuters",
+      "Hundreds missing as boat sinks near Malaysia-Thailand border"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT212VnNBVDVhakRfbWpNTHRiVE9JY09LYWhkQjI4M3FZX0xrLWdmeUJhRFdhcjFKYUZuaEpLRGVpNUxGZTRXQUMza1FDR3VUSl9KX3B4X01laERnMEVENFR5d1d6T3dsVkJBbFhQTjYtQkhZR2tHdWFBT2cyZHJyc012aktBaEhRN2lCYWdQMFB5b21rampyZDlZNVZoLXh6dDRFbUwwd0tkajhDUG1KQ2huLVRjejNLSnlrRFRB?oc=5",
+    "alternate_urls": [
+      "https://www.dw.com/en/hundreds-missing-as-boat-sinks-near-malaysia-thailand-border/a-74676861?maca=en-rss-en-top-1022-rdf"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT212VnNBVDVhakRfbWpNTHRiVE9JY09LYWhkQjI4M3FZX0xrLWdmeUJhRFdhcjFKYUZuaEpLRGVpNUxGZTRXQUMza1FDR3VUSl9KX3B4X01laERnMEVENFR5d1d6T3dsVkJBbFhQTjYtQkhZR2tHdWFBT2cyZHJyc012aktBaEhRN2lCYWdQMFB5b21rampyZDlZNVZoLXh6dDRFbUwwd0tkajhDUG1KQ2huLVRjejNLSnlrRFRB?oc=5",
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.962,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.654,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A boat carrying undocumented migrants sank off the Malaysia-Thailand border, resulting in at least one death and 10 rescues. Additionally, two other migrant vessels are reported missing.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Jason Kelce Clarifies Comments on Canada After Podcast Clip Sparks Reactions",
     "domain": "sports",
     "source_domain": "sportsnet.ca",
     "location": "national",
@@ -863,21 +956,153 @@
     "link": "https://ottawa.citynews.ca/2025/11/08/jason-kelce-says-he-didnt-mean-to-insult-canada-with-comments-about-world-series/",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.898,
+      "recency": 0.729,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.685,
+    "score": 0.651,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Jason Kelce, former Philadelphia Eagles centre, clarified on social media that he did not intend to insult Canada after questioning why he should care about the World Series on his \"New Heights\" podcast. The clarification was issued following reactions to a clip from the episode.",
+    "summary": "Jason Kelce, former Philadelphia Eagles center, clarified on social media that he did not intend to insult Canada after questioning his interest in the World Series on his \"New Heights\" podcast. The clarification came after a clip from the episode sparked reactions.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "19-Year-Old Critically Injured in Kingston Hit-and-Run; Police Investigating",
+    "title": "University of Stuttgart Develops High-Efficiency, Compact Laser",
+    "domain": "science",
+    "source_domain": "sciencedaily.com",
+    "location": "global",
+    "published": "Sun, 09 Nov 2025 00:17:12 EST",
+    "source": "ScienceDaily",
+    "sources": [
+      "ScienceDaily",
+      "SciTechDaily"
+    ],
+    "domains": [
+      "sciencedaily.com",
+      "scitechdaily.com"
+    ],
+    "snippets": [
+      "A team at the University of Stuttgart has engineered a compact short-pulse laser that achieves up to 80% efficiency—far surpassing current models. Their new multipass design reuses light within a small crystal, combining power and precision in a palm-sized system. It opens the door to portable, cost",
+      "Researchers have developed an innovative and versatile system designed for a new generation of short-pulse lasers. Lasers that produce extremely short bursts of light are known for their remarkable precision, making them indispensable tools in manufacturing, medical technology, and scientific resear"
+    ],
+    "image_url": "",
+    "titles": [
+      "Tiny laser could transform medicine and quantum science",
+      "How a Palm-Sized Laser Could Change Medicine and Manufacturing"
+    ],
+    "url": "https://www.sciencedaily.com/releases/2025/11/251108083854.htm",
+    "alternate_urls": [
+      "https://scitechdaily.com/how-a-palm-sized-laser-could-change-medicine-and-manufacturing/"
+    ],
+    "link": "https://www.sciencedaily.com/releases/2025/11/251108083854.htm",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.903,
+      "consensus": 0.591,
+      "constructiveness": 0.1,
+      "proximity": 0.5
+    },
+    "score": 0.646,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Researchers at the University of Stuttgart have developed a compact, short-pulse laser with up to 80% efficiency, significantly higher than existing models. By utilizing a new multipass design that recycles light within a small crystal, this palm-sized system combines high power with precision. This advancement promises to enhance applications in manufacturing, medical technology, and scientific research by making short-pulse lasers more portable and cost-effective.",
+    "constructiveness_score": 0.1,
+    "constructiveness_reason": "keywords: research",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Tornado Strikes Rio Bonito do Iguaçu, Brazil; 6 Dead, Major Damage Reported",
+    "domain": "general",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Sun, 09 Nov 2025 04:22:10 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "CBC News"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "cbc.ca"
+    ],
+    "snippets": [
+      "Tornado flattens homes in Rio Bonito do Iguacu, with one official describing the destruction as akin to a 'war zone'.",
+      "A tornado accompanied by strong winds and heavy rain struck the southern Brazilian state of Parana, killing six people, the state government said on Saturday. The town of Rio Bonito do Iguaçu was hit hardest late Friday."
+    ],
+    "image_url": "",
+    "titles": [
+      "Powerful tornado wrecks Brazil town, killing six and injuring hundreds",
+      "Tornado in Brazil kills 6, injures hundreds"
+    ],
+    "url": "https://www.aljazeera.com/news/2025/11/9/powerful-tornado-wrecks-brazil-town-killing-six-and-injuring-hundreds?traffic_source=rss",
+    "alternate_urls": [
+      "https://www.cbc.ca/news/world/fatal-tornado-brazil-9.6972299?cmp=rss"
+    ],
+    "link": "https://www.aljazeera.com/news/2025/11/9/powerful-tornado-wrecks-brazil-town-killing-six-and-injuring-hundreds?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.886,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.639,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A tornado hit Rio Bonito do Iguaçu in Paraná, Brazil, causing significant destruction, described as a 'war zone'. It occurred late Friday, bringing strong winds and heavy rain. The state government reported six fatalities as a result of the disaster.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "China Sees Unexpected Consumer Price Rise in October Amid Holiday Demand",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Sun, 09 Nov 2025 04:00:00 GMT",
+    "source": "Bloomberg",
+    "sources": [
+      "Bloomberg",
+      "Financial Post"
+    ],
+    "domains": [
+      "news.google.com",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "China Consumer Prices Unexpectedly Rise on Holiday Demand Bloomberg.com",
+      "China’s consumer prices unexpectedly increased in October, as holidays during the month boosted travel, food and transport demand."
+    ],
+    "image_url": "",
+    "titles": [
+      "China Consumer Prices Unexpectedly Rise on Holiday Demand - Bloomberg.com",
+      "China Consumer Prices Unexpectedly Rise on Holiday Demand"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkhSaklYeHVjOG1RMzZZUEJkODJWdTFtMzJXdXlSeEJfaDlyZ0w5RlBHWXNTYm1icGczU1g3aERfS1RTMTFFLXJvTGw5NFBXLThyc2ZrTWVCT1NkenB3YkxhWkR2UzNjZzFfOHhhTHNrWV9IcUVmMTQ5ZXRIdkJZbEExSHhzZVF1NjlaVGFqNXVMV0N6NElwSmZfdV9zN1g4ZDZkUnZNWUstd0tS?oc=5",
+    "alternate_urls": [
+      "https://financialpost.com/pmn/business-pmn/china-consumer-prices-unexpectedly-rise-on-holiday-demand"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkhSaklYeHVjOG1RMzZZUEJkODJWdTFtMzJXdXlSeEJfaDlyZ0w5RlBHWXNTYm1icGczU1g3aERfS1RTMTFFLXJvTGw5NFBXLThyc2ZrTWVCT1NkenB3YkxhWkR2UzNjZzFfOHhhTHNrWV9IcUVmMTQ5ZXRIdkJZbEExSHhzZVF1NjlaVGFqNXVMV0N6NElwSmZfdV9zN1g4ZDZkUnZNWUstd0tS?oc=5",
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.879,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.638,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "In October, China experienced an unexpected rise in consumer prices, attributed to increased demand for travel, food, and transport during holiday periods, as reported by Bloomberg.com.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "19-Year-Old Critically Injured in Kingston Hit-and-Run",
     "domain": "general",
     "source_domain": "cbc.ca",
     "location": "local",
@@ -907,244 +1132,108 @@
     "link": "https://www.cbc.ca/news/canada/ottawa/pedestrian-in-critical-condition-after-kingston-hit-and-run-9.6972210?cmp=rss",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.816,
+      "recency": 0.662,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 1.0
     },
-    "score": 0.668,
+    "score": 0.637,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "A 19-year-old pedestrian is in critical condition after a hit-and-run incident in Kingston, Ont. The collision occurred on Johnson Street near Albert Street. Kingston Police are investigating the incident, which took place Friday night.",
+    "summary": "A 19-year-old pedestrian is in critical condition after being struck by a vehicle in a hit-and-run incident in Kingston, Ont. The crash occurred on Johnson Street near Albert Street. Kingston Police are investigating the incident.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Hoosiers Stay Undefeated with Last-Minute Win, Mendoza Shines",
-    "domain": "sports",
-    "source_domain": "espn.com",
+    "title": "Ortiz Jr. Defeats Lubin with Second-Round Knockout, Eyes 154-Pound Division",
+    "domain": "business",
+    "source_domain": "cbssports.com",
     "location": "national",
-    "published": "Sat, 8 Nov 2025 16:06:40 EST",
-    "source": "ESPN",
+    "published": "Sun, 09 Nov 2025 04:53:27 +0000",
+    "source": "CBS Sports",
     "sources": [
-      "ESPN",
-      "CBS Sports"
+      "CBS Sports",
+      "Forbes"
     ],
     "domains": [
-      "espn.com",
-      "cbssports.com"
+      "cbssports.com",
+      "forbes.com"
     ],
     "snippets": [
-      "The Hoosiers and Nittany Lions put on a show and Fernando Mendoza had a Heisman moment.",
-      "The Hoosiers drove 80 yards in under two minutes to remain undefeated"
+      "Ortiz proved he's ready for a big-time showdown at 154 pounds with his performance on Saturday",
+      "Vergil Ortiz Jr. demolished Erickson Lubin with a second-round knockout, displaying dominant power from the opening bell in a fight that was never competitive."
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/11/09/7d8af777-e899-4c04-a4f1-8b6ad3ec48c4/vergil-ortiz-weighins.jpg",
     "titles": [
-      "No. 2 Indiana survives upset bid with wild winning TD",
-      "No. 2 Indiana survives upset bid from Penn State thanks to insane Omar Cooper Jr. touchdown catch"
+      "Vergil Ortiz smashes Erickson Lubin for second-round TKO, sets up fight with Jaron 'Boots' Ennis",
+      "Vergil Ortiz Jr. Vs. Erickson Lubin Results, KO And Highlights"
     ],
-    "url": "https://www.espn.com/college-football/story/_/page/gamedayfinal110825/college-football-week-11-highlights-top-plays-games-takeaways-2025",
+    "url": "https://www.cbssports.com/boxing/news/vergil-ortiz-erickson-lubin-results-highlights-knockout-jaron-boots-ennis/",
     "alternate_urls": [
-      "https://www.cbssports.com/college-football/news/indiana-penn-state-score-big-ten-fernando-mendoza-omar-cooper-highlights/"
+      "https://www.forbes.com/sites/brianmazique/2025/11/09/vergil-ortiz-jr-vs-erickson-lubin-results-ko-and-highlights/"
     ],
-    "link": "https://www.espn.com/college-football/story/_/page/gamedayfinal110825/college-football-week-11-highlights-top-plays-games-takeaways-2025",
+    "link": "https://www.cbssports.com/boxing/news/vergil-ortiz-erickson-lubin-results-highlights-knockout-jaron-boots-ennis/",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.938,
+      "recency": 0.896,
       "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.668,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Hoosiers maintained their undefeated status by driving 80 yards in under two minutes to secure a victory against the Nittany Lions. Fernando Mendoza delivered a standout performance, contributing to what was described as a Heisman moment during the game.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "Judge: Trump Admin Violated First Amendment with Partisan Auto-replies",
-    "domain": "general",
-    "source_domain": "npr.org",
-    "location": "national",
-    "published": "Sat, 08 Nov 2025 13:21:56 -0500",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "Axios"
-    ],
-    "domains": [
-      "npr.org",
-      "news.google.com"
-    ],
-    "snippets": [
-      "A federal judge says the Trump administration \"overplayed its hand\" by inserting partisan language into workers' out-of-office autoreplies.",
-      "Trump violated Education Dept. workers' First Amendment rights, court rules Axios"
-    ],
-    "image_url": "",
-    "titles": [
-      "Judge says Education Dept. partisan out-of-office emails violated First Amendment",
-      "Trump violated Education Dept. workers' First Amendment rights, court rules - Axios"
-    ],
-    "url": "https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUVyXzBOZ1VuNGNUX3ExQUtBVlBabFk3WnBSenY3d3Nwb0hTTTlQaVM5c2pSQlJIUGJSYjRqUWJUWHNmN01BakFnd1RVTHdrUDVxQ3VMM1NqOHM1b3lycmYzcGM1ZDRyMnB6LTh2VE5lMl8xOWdtek9iUXBJSlJJc2NR?oc=5"
-    ],
-    "link": "https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.886,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.664,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "A federal judge ruled that the Trump administration violated the First Amendment rights of Education Department workers by including partisan language in their out-of-office autoreplies, stating the administration \"overplayed its hand.\"",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "UFC Vegas 111: Bonfim vs. Brown Main Event Tonight",
-    "domain": "sports",
-    "source_domain": "mmamania.com",
-    "location": "national",
-    "published": "Sat, 08 Nov 2025 23:33:20 +0000",
-    "source": "Yahoo Sports",
-    "sources": [
-      "Yahoo Sports",
-      "Sportsnet"
-    ],
-    "domains": [
-      "mmamania.com",
-      "sportsnet.ca",
-      "app"
-    ],
-    "snippets": [
-      "UFC Vegas 111 happens LIVE on ESPN+ TONIGHT (Sat., Nov. 8, 2025) with Gabriel Bonfim vs.Randy Brown in the main event. Watch all the action right here!",
-      "The UFC heads back to the Apex in Las Vegas for a Fight Night showdown featuring a five-round welterweight showdown between Gabriel Bonfim and Randy Brown. Catch the action on Sportsnet 360, with prelim coverage starting at 5 p.m. ET / 2 p.m. PT.",
-      "The UFC heads back to the Apex in Las Vegas for a Fight Night showdown featuring a five-round showdown between welterweights Gabriel Bonfim and Randy Brown. Catch the action on Sportsnet 360, with prelim coverage starting at 5 p.m. ET / 2 p.m. PT."
-    ],
-    "image_url": "",
-    "titles": [
-      "UFC Vegas 111 results, live streaming update | Bonfim vs. Brown",
-      "UFC Fight Night: Bonfim vs. Brown official results",
-      "UFC Fight Night on Sportsnet: Bonfim vs. Brown"
-    ],
-    "url": "https://www.mmamania.com/ufc-live-stream-watch-free/400536/ufc-vegas-111-results-live-streaming-update-bonfim-vs-brown",
-    "alternate_urls": [
-      "sportsnetca://app/watch/event?event_id=d44a6jmsmitem2og7rbg"
-    ],
-    "link": "https://www.mmamania.com/ufc-live-stream-watch-free/400536/ufc-vegas-111-results-live-streaming-update-bonfim-vs-brown",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.987,
-      "consensus": 0.611,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.664,
+    "score": 0.634,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "UFC Vegas 111, featuring a welterweight main event between Gabriel Bonfim and Randy Brown, takes place tonight, Nov. 8, 2025, at the Apex in Las Vegas. The event will be broadcast live on ESPN+ and Sportsnet 360, with prelims starting at 5 p.m. ET / 2 p.m. PT.",
+    "summary": "Vergil Ortiz Jr. secured a second-round knockout victory over Erickson Lubin, demonstrating his readiness for bigger challenges at 154 pounds. Ortiz showed dominant power from the start, making the fight non-competitive.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Russia's Missile and Drone Attack on Ukraine Kills 7, Damages Infrastructure",
-    "domain": "general",
+    "title": "Visa, Mastercard Near Settlement to Lower Merchant Fees",
+    "domain": "business",
     "source_domain": "news.google.com",
     "location": "global",
-    "published": "Sat, 08 Nov 2025 22:02:46 GMT",
+    "published": "Sun, 09 Nov 2025 03:02:00 GMT",
     "source": "Reuters",
     "sources": [
       "Reuters",
-      "The Guardian"
+      "Bloomberg"
     ],
     "domains": [
-      "news.google.com",
-      "theguardian.com"
+      "news.google.com"
     ],
     "snippets": [
-      "Russian attacks target nuclear substations, kill seven, Ukraine says Reuters",
-      "Volodymr Zelenskyy calls for more sanctions on Moscow after 45 missiles and 450 drones launched at Ukraine Russia launched a barrage of drones and missiles at Ukraine overnight, killing at least seven people and damaging energy infrastructure in three regions, according to Ukrainian officials. Ukrai"
+      "Visa and Mastercard near settlement with merchants, would lower fees, WSJ reports Reuters",
+      "Visa, Mastercard Near Settlement of Dispute With Merchants: WSJ Bloomberg.com"
     ],
     "image_url": "",
     "titles": [
-      "Russian attacks target nuclear substations, kill seven, Ukraine says - Reuters",
-      "Russian missile attacks on Ukrainian energy facilities kill at least seven"
+      "Visa and Mastercard near settlement with merchants, would lower fees, WSJ reports - Reuters",
+      "Visa, Mastercard Near Settlement of Dispute With Merchants: WSJ - Bloomberg.com"
     ],
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcTRxbklJdmFOeUJ1WkpDZE1SUUJCM0pUcWhkTUo0TXNPRlljb2ZFbGxKc1B0bWFNWVVBREthaWw1ZGxBbGtqZ3Z2V090Tl9UVGFWeVI5dVluWlI0YWlOSG5LNk4tRDRjekVKZGhLNUFmT3FiOXBrZGE2SEpPbWxKQVVqeXFPTjVyRE5TTWpkWGw5UnFQcXpQcV9EUXpNdmYycmxoS0ppYWFiTmJXaU1CQUN6NWhZdWpR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXZNY2RVVV9vbV9FUExjYmdvZkJLV2dQb0Z3YmkySG5wZ0NTamlYX0QzZUVRNXRFQXpxX1RwMUhCaXk3czh1THRPeXN3MTFucnktMnh0MTJmQTItT1Q2WEpDQzJKZllXT3ctQnZDMjlaeVk1ZlNVdm4wWkdvdVB6ZEI2aXhVejFGQ2E1THUyaUNySHJuWnZfZVVNRGVlTlNVN3o1YmJPLVhqVzdwNGl6bnBkTEdMNDBsOEs2ZA?oc=5",
     "alternate_urls": [
-      "https://www.theguardian.com/world/2025/nov/08/russia-ukraine-drone-missile-attacks-energy-infrastructure-casualties"
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZE4zQlk0Q2VZeDViT2pRTXc3eU1mYjFvMGxfWHk4dll6Q2xEOGdxSnItM3lvbmI1WFhORUMxWlNTMFFzUFdzcTZXUklhSVNHdzdRM3M0NVpIUTZNWUF6QnlNSDZyVzNWc2ZtUjdQaTNNeHYwXzJ0S05SVGJXb3NMN1JQVmpPOWxrRHViOHVVNWJ0ZDZYWkdKVzR5OExZUlE4NmgyOVV5MjhfSXNSVWwzWE5B?oc=5"
     ],
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcTRxbklJdmFOeUJ1WkpDZE1SUUJCM0pUcWhkTUo0TXNPRlljb2ZFbGxKc1B0bWFNWVVBREthaWw1ZGxBbGtqZ3Z2V090Tl9UVGFWeVI5dVluWlI0YWlOSG5LNk4tRDRjekVKZGhLNUFmT3FiOXBrZGE2SEpPbWxKQVVqeXFPTjVyRE5TTWpkWGw5UnFQcXpQcV9EUXpNdmYycmxoS0ppYWFiTmJXaU1CQUN6NWhZdWpR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXZNY2RVVV9vbV9FUExjYmdvZkJLV2dQb0Z3YmkySG5wZ0NTamlYX0QzZUVRNXRFQXpxX1RwMUhCaXk3czh1THRPeXN3MTFucnktMnh0MTJmQTItT1Q2WEpDQzJKZllXT3ctQnZDMjlaeVk1ZlNVdm4wWkdvdVB6ZEI2aXhVejFGQ2E1THUyaUNySHJuWnZfZVVNRGVlTlNVN3o1YmJPLVhqVzdwNGl6bnBkTEdMNDBsOEs2ZA?oc=5",
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.957,
-      "consensus": 0.591,
+      "magnitude": 0.735,
+      "recency": 0.862,
+      "consensus": 0.571,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.66,
+    "score": 0.622,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Russia launched 45 missiles and 450 drones at Ukraine, resulting in at least seven deaths and damage to energy infrastructure in three regions, per Ukrainian officials. President Volodymyr Zelenskyy has called for increased sanctions on Moscow in response to these attacks.",
+    "summary": "Visa and Mastercard are reportedly close to settling a dispute with merchants, according to the Wall Street Journal. The settlement is expected to lower the fees that merchants pay to process transactions.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
   },
   {
-    "title": "Florida Man Arrested After Crash Kills 4, Injures 11 in Tampa",
-    "domain": "general",
-    "source_domain": "npr.org",
-    "location": "national",
-    "published": "Sat, 08 Nov 2025 11:52:57 -0500",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "BBC"
-    ],
-    "domains": [
-      "npr.org",
-      "bbc.com"
-    ],
-    "snippets": [
-      "A deadly crash in Tampa's Ybor City neighborhood early Saturday morning has left four people dead and 11 injured.",
-      "A Florida man has been arrested after he lost control of his speeding car, which slammed into the patio of a bar in Tampa early on Saturday."
-    ],
-    "image_url": "",
-    "titles": [
-      "4 dead, 11 injured after a car chased by police plows into a crowd outside Tampa bar",
-      "4 dead, 13 injured after street racer slams into crowd at Tampa bar"
-    ],
-    "url": "https://www.npr.org/2025/11/08/nx-s1-5602823/tampa-speeding-car-chase-deaths-bar-ybor-city",
-    "alternate_urls": [
-      "https://www.bbc.com/news/articles/clyl6jwx2v8o?at_medium=RSS&at_campaign=rss"
-    ],
-    "link": "https://www.npr.org/2025/11/08/nx-s1-5602823/tampa-speeding-car-chase-deaths-bar-ybor-city",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.859,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.652,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "A Florida man was arrested following a car crash in Tampa's Ybor City neighborhood early Saturday, which resulted in four fatalities and 11 injuries. The man lost control of his speeding vehicle, causing it to hit the patio of a bar.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "no heuristic matches",
-    "constructiveness_source": "heuristic"
-  },
-  {
-    "title": "DNA Pioneer James Watson Dies at 97, Leaves Complex Legacy",
+    "title": "DNA Structure Co-Discoverer James D. Watson Dies at 97",
     "domain": "science",
     "source_domain": "news.google.com",
     "location": "national",
@@ -1174,15 +1263,59 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLTdIV205eFdoeTRNRXp1b1laS0U5TWwxVlI4LUZ1bXd4U1RHSF8tTC1kY1ZrbkpCdDJEUUd2Qjc5eS1wMXA5UHUxaEZKX1hzRjlpUGttNkdLYWFsTnU2MjByWDdMelRLbFN5cjBvTnk4cGR0Y0YxZ3pGd09zR2l4eFNHclFNbEE3aVVhU19aOE5jQkFGSVFnQlg4ckRjU2VFc1pJbzVUYw?oc=5",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.912,
+      "recency": 0.741,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.637,
-    "summary_source": "cache",
+    "score": 0.603,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "James Watson, a pioneering scientist who co-discovered the DNA double helix, has died at 97. Awarded the Nobel Prize in 1962 with Francis Crick and Maurice Wilkins, his later years were overshadowed by controversy due to his racist and sexist comments. Despite his significant contributions to genetics and science, his remarks led to widespread criticism and ostracization from the scientific community. Watson's legacy remains complex, marked by groundbreaking achievements and contentious views.",
+    "summary": "James D. Watson, renowned for co-discovering the double-helix structure of DNA in 1953, a breakthrough that revolutionized medicine, crimefighting, genealogy, and ethics, has passed away at the age of 97.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "no heuristic matches",
+    "constructiveness_source": "heuristic"
+  },
+  {
+    "title": "Crispr Therapy Halves 'Bad' Cholesterol in Study, Shows Heart Disease Promise",
+    "domain": "science",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Sat, 08 Nov 2025 15:03:06 GMT",
+    "source": "Reuters",
+    "sources": [
+      "Reuters",
+      "Wired"
+    ],
+    "domains": [
+      "news.google.com",
+      "wired.com"
+    ],
+    "snippets": [
+      "CRISPR gene therapy slashes 'bad' cholesterol, triglycerides by half in small study Reuters",
+      "An experimental gene-editing therapy developed by Crispr Therapeutics is showing promise for treating heart disease."
+    ],
+    "image_url": "",
+    "titles": [
+      "CRISPR gene therapy slashes 'bad' cholesterol, triglycerides by half in small study - Reuters",
+      "A Gene Editing Therapy Cut Cholesterol Levels by Half"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYVpETUwzOTljUUpaRFVfLWJ0VXhqU05rd0YwWVA1Z2RjR1duQzRRa1dtaDJoQWF1RUJKWTl2OExzZVl0V2tmVHlNQlFOV0JVbU5Ld0dVV3paa3ZNSlBBWV9MQnRZMlFldnN2cm5HVy1nbWFhYmJSeXh4Y1M0Zkw4NVFLcnRDNURpd1VYd2ZQNGp3VEE1ZjBrQ19PWk9ZUkhKc1RHUEtXRVBlV0VPUnRSa0czUVpmVXotNXJMNnNZR0VqblQ5ZEltOW4yM2F3MktDS0tfS3VGbmZLMEYxVDQzRnRKQQ?oc=5",
+    "alternate_urls": [
+      "https://www.wired.com/story/a-gene-editing-therapy-cut-cholesterol-levels-by-half/"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYVpETUwzOTljUUpaRFVfLWJ0VXhqU05rd0YwWVA1Z2RjR1duQzRRa1dtaDJoQWF1RUJKWTl2OExzZVl0V2tmVHlNQlFOV0JVbU5Ld0dVV3paa3ZNSlBBWV9MQnRZMlFldnN2cm5HVy1nbWFhYmJSeXh4Y1M0Zkw4NVFLcnRDNURpd1VYd2ZQNGp3VEE1ZjBrQ19PWk9ZUkhKc1RHUEtXRVBlV0VPUnRSa0czUVpmVXotNXJMNnNZR0VqblQ5ZEltOW4yM2F3MktDS0tfS3VGbmZLMEYxVDQzRnRKQQ?oc=5",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.671,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.589,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "A small study reported by Reuters reveals that an experimental gene-editing therapy created by Crispr Therapeutics has significantly reduced 'bad' cholesterol and triglycerides by half, indicating potential for treating heart disease.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "no heuristic matches",
     "constructiveness_source": "heuristic"
