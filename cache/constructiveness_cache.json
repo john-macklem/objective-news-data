@@ -303,5 +303,55 @@
     "score": 0.027,
     "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.03",
     "source": "heuristic"
+  },
+  "445105312378477824796140506e5128": {
+    "score": 0.5,
+    "reason": "The news story provides basic awareness about a tragic incident. However, it does not provide actionable insights, solutions, or a deeper understanding of the cause of the crash or its broader implications.",
+    "source": "gpt"
+  },
+  "b82e47dec6db231ec56cc57c5c645391": {
+    "score": 0.6,
+    "reason": "The story informs about an ongoing conflict, providing context and awareness. However, it does not highlight any solutions or improvements, nor does it offer actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "b6daac40c911340c15c1714b778b6ac6": {
+    "score": 0.6,
+    "reason": "This story provides useful information for fans and stakeholders of the NFL and the Jacksonville Jaguars. However, it does not report on solutions, improvements, or innovations, and its scope is limited to a specific incident without broader implications.",
+    "source": "gpt"
+  },
+  "b8a0def2fe8f877457ab2a082e0781bf": {
+    "score": 0.8,
+    "reason": "This story is constructive as it provides actionable insights for fantasy football players. It offers information on top-ranking players in various positions and formats, and also gives advice on trading decisions. However, it does not report on any solutions, improvements, or attempts to solve problems, and does not significantly increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "0b1292b0cfc7a128726ea8e6fe88eea5": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness of the legal situation of a former NFL star, but it doesn't provide much depth or insight beyond the fact that he pleaded not guilty. It does not provide actionable insights, report on solutions or improvements, or increase understanding of broader trends or systems.",
+    "source": "gpt"
+  },
+  "fdcc16d4f04dae0211c2439fcabf8ffe": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the focus of North Carolina coach Bill Belichick amidst rumors about a potential career move. It helps readers understand his current priorities. However, it doesn't report on solutions or improvements, nor does it significantly increase understanding of broader trends or systems.",
+    "source": "gpt"
+  },
+  "1adc0cbdab31471ea1e28d6201dd2a6c": {
+    "score": 0.6,
+    "reason": "This story provides useful context about the team's performance and the management's perspective, but it doesn't offer much in the way of solutions or deeper insights into the systemic issues affecting the team.",
+    "source": "gpt"
+  },
+  "489da6ca7e9975d105679ef8fd718bfd": {
+    "score": 0.8,
+    "reason": "The story informs readers about a significant shift in Meta's AI team and gives insight into the future plans of a key figure in the field. However, it doesn't delve into the potential impacts or solutions to the challenges Meta may face in the wake of this departure.",
+    "source": "gpt"
+  },
+  "7d5531d4cd567329ec8bad8458ca29b4": {
+    "score": 0.9,
+    "reason": "This story clearly reports on a solution to a major problem, the government shutdown. It also provides useful context about the political dynamics and compromises that led to this decision, empowering readers with a deeper understanding of the situation.",
+    "source": "gpt"
+  },
+  "09d9ace0cc56d5e977c5f1aa2a211252": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the valuation of the Mercedes Formula 1 team, but it doesn't provide any actionable insights or deeper understanding about the implications of this valuation. It also doesn't report on any solutions, improvements, or innovations. The story also lacks information that would increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
   }
 }
