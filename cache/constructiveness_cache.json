@@ -2123,5 +2123,120 @@
     "score": 0.3,
     "reason": "This story provides basic awareness of the results of several NHL games, but it doesn't provide any deeper insights or actionable information for the reader. It doesn't report on any solutions, improvements, or attempts to solve problems.",
     "source": "gpt"
+  },
+  "77d7a067f2be7110dfd25a71ce46b268": {
+    "score": 0.05,
+    "reason": "keywords (1): support; semantic: pos_sim=0.06, neg_sim=0.07",
+    "source": "heuristic"
+  },
+  "1a398bba5665a2ecc8be6d4889bca363": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.06, neg_sim=0.07",
+    "source": "heuristic"
+  },
+  "2d6c58cc4e9c9281c2af65c70f7862ad": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.03, neg_sim=0.09",
+    "source": "heuristic"
+  },
+  "9915003ed9616b88b8d7cbf1c0ae15c6": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "a2f9dc74d4836322fdee9b063e04bb8e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.14",
+    "source": "heuristic"
+  },
+  "b1ee13f6a8f61b5220ff4734c0771931": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "3d3cb1fb22d8ae54f6497feca5095146": {
+    "score": 0.019,
+    "reason": "keywords (1): access; negative_penalty=0.05 (keywords: ban); semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "94791306dd7a2cdccda2165f0f3415a9": {
+    "score": 0.0,
+    "reason": "keywords (1): support; negative_penalty=0.05 (keywords: attack); semantic: pos_sim=0.00, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "29abf2261d02015016c9efdfc55e0a14": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the ongoing conflict between Israel and Hamas, including the violation of a ceasefire agreement. However, it lacks depth in explaining the causes, trends, and impacts of these events, and does not highlight any potential solutions or improvements.",
+    "source": "gpt"
+  },
+  "54b4b661bea6b500975c9de843c79e47": {
+    "score": 0.3,
+    "reason": "While the story provides some awareness about alleged corruption in the Miss Universe competition, it doesn't offer any actionable insights for the reader or deeper understanding of the issue. It also doesn't report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "63120750ea22ba10b62e746a72f2a08b": {
+    "score": 0.6,
+    "reason": "This story provides useful context about the ongoing conflict between Israel and Hezbollah. However, it doesn't provide a deeper understanding of the causes, trends, or impacts of the conflict, nor does it report on any attempts to solve the problem or make improvements.",
+    "source": "gpt"
+  },
+  "9f4817497b75d79bb9525513ddd32652": {
+    "score": 0.6,
+    "reason": "This story provides useful information about an ongoing international legal case, however, it does not delve into details about the implications of the extradition or the context of the Nord Stream pipeline sabotage. It lacks elements of progress or solutions.",
+    "source": "gpt"
+  },
+  "0c1957db5cea843ddac45b3b7e4c177e": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about a change in the team lineup for an upcoming NFL game. While it might be useful for fans or those following the sport, it doesn't provide deeper insights or context about the decision, nor does it highlight any progress, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "76b4ee484187bd1a78f761d88a07d42b": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a recent development in the NFL. However, it does not provide in-depth analysis or context about the decision to release Brandin Cooks or potential impacts on the playoff landscape. It lacks elements of progress, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "a7ca52800e3b73bb3dcdbf0682cff905": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the new retro jerseys for the Florida Panthers and New York Rangers. However, it does not offer deeper insights or actionable information for the reader.",
+    "source": "gpt"
+  },
+  "07691c3394ff9d25ef4556ee7c6118f9": {
+    "score": 0.8,
+    "reason": "This story provides useful context about the potential link between the NBA's increased pace, more aggressive defensive strategies, and a higher rate of injuries. It helps increase awareness about a significant issue in the sport, even though it does not directly report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "411ad91ed9136547d7afed71ad02c39d": {
+    "score": 0.3,
+    "reason": "This story provides basic information about the death of Randy Jones, a celebrated baseball player. However, it does not provide deeper insights, actionable information, or a broader context that could be useful for the reader.",
+    "source": "gpt"
+  },
+  "f47dccf5753c2636c4915547b46a2679": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the injury of a key player in the Falcons' team and its impact on the team's season. However, it lacks depth or insight into what this could mean for the team's strategies or the player's career.",
+    "source": "gpt"
+  },
+  "6adcd1d8dd3706d73f3e4135bf193703": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the strategies of the coaches for the upcoming match, which could inform the reader's understanding of the game. However, it doesn't report on any solutions, improvements, or innovations that could contribute to progress.",
+    "source": "gpt"
+  },
+  "7a6204740c186fc9cfa945dcb848f7c5": {
+    "score": 0.8,
+    "reason": "This story provides a useful context around Larry Summers' resignation from the OpenAI board and the subsequent investigation by Harvard University. It increases awareness about the potential consequences of unethical behavior, even if the topic is negative. However, it doesn't highlight any progress or solutions.",
+    "source": "gpt"
+  },
+  "8571a3f4ad4295a3e414fb30b5549e64": {
+    "score": 0.7,
+    "reason": "The story provides useful information about Adobe's acquisition of Semrush and its potential impact on the marketing industry. However, it doesn't highlight any specific solutions or progress, nor does it delve deep into the implications for the industry or the users of these tools.",
+    "source": "gpt"
+  },
+  "c09972c2a4d8caba5e343f8aebcd77cd": {
+    "score": 0.5,
+    "reason": "While the story provides awareness about the sale of a historic artwork and its impact on the art market, it does not provide actionable insights or deeper understanding. It also lacks a focus on progress or solutions, and doesn't discuss the systems or impacts in-depth.",
+    "source": "gpt"
+  },
+  "b0afc9029fbee36e1c3586607d426d98": {
+    "score": 0.6,
+    "reason": "This story informs readers about the UK's response to a specific incident involving a Russian ship. It provides context about the changing geopolitical landscape. However, it doesn't offer specific solutions or progress, nor does it provide a deep understanding of the systems or impacts involved.",
+    "source": "gpt"
   }
 }
