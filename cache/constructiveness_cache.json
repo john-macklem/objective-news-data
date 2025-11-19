@@ -1993,5 +1993,135 @@
     "score": 0.8,
     "reason": "This story is constructive as it provides useful information about a significant outage affecting numerous websites and how the issue was resolved. However, it doesn't delve into the causes of the outage, potential solutions to prevent similar incidents in the future, or the broader implications for internet infrastructure.",
     "source": "gpt"
+  },
+  "2e0cd0633a0efa76ea53ca679de1fa54": {
+    "score": 0.1,
+    "reason": "keywords (2): development, launch; semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "72ff43b123842d498a6fd95d8fed733e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "1df0b64e36028d4e71c2a5e05bdd116b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "1cbef69c5aa46680cbac26ca927d908d": {
+    "score": 0.057,
+    "reason": "keywords (1): improve; semantic: pos_sim=0.11, neg_sim=0.06; semantic_boost=0.01",
+    "source": "heuristic"
+  },
+  "00538ceffd172ad433fa22bc16051b30": {
+    "score": 0.072,
+    "reason": "keywords (1): research; semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "53fbfa574832463987bd5c6826fd7edc": {
+    "score": 0.108,
+    "reason": "keywords (1): development; semantic: pos_sim=0.23, neg_sim=0.00; semantic_boost=0.06",
+    "source": "heuristic"
+  },
+  "d2c634863c2a8e462cff3d44555f27f3": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "f4c0e97f5639374a6257043fb78288a9": {
+    "score": 0.12,
+    "reason": "keywords (2): launch, plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "a46ac272fa2fbfe639bac2965a47eb11": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: dead); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a341c106dc7e257e9be738bd0f6ec1b9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "872c5e2206cb2ecfbefdceb5a6f8c5d8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "feb271c8a17fd430487706e66ef21e5c": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the current state of the ceasefire between Israel and Hezbollah, and the potential implications of its violation. However, it does not delve into possible solutions or progress in addressing the conflict, nor does it provide a deep understanding of the underlying systems or causes.",
+    "source": "gpt"
+  },
+  "44848450c23b9525e5674f36fdda0467": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about the accident and its cause, but it does not provide actionable insights for readers or report on any improvements, solutions, or attempts to solve the problem. It also does not increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "7b97ad542947a5575a177ad0572da6b7": {
+    "score": 0.9,
+    "reason": "This story clearly highlights progress in addressing racial gerrymandering, a problem of significant public concern. It provides useful information about the court's decision and its implications for future elections, thereby contributing to readers' understanding and decision-making. The mention of a bipartisan effort to adjust voting areas also suggests potential solutions to the issue.",
+    "source": "gpt"
+  },
+  "6bfaddb58cb9b84e246ab9aeaf805223": {
+    "score": 0.6,
+    "reason": "The story gives the reader a deeper understanding of the escalating diplomatic dispute between Japan and China, which can be useful for those interested in international relations. However, it does not report on any solutions or attempts to resolve the issue, and it does not provide a lot of context about the systems, causes, or impacts involved.",
+    "source": "gpt"
+  },
+  "e1df74987a2d90abffa526f7e3bc89c9": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of an ongoing fire in Japan, but it offers minimal depth or insight. It does not report on any solutions or attempts to control the fire, nor does it provide any actionable insights for the reader. The cause of the fire is unknown, and there is no discussion of the systems or impacts involved.",
+    "source": "gpt"
+  },
+  "f07b0b4afbd3f9c8bd12f2d3abfa4509": {
+    "score": 0.6,
+    "reason": "This story informs readers about alleged Chinese spying on UK lawmakers, providing some context and understanding of international espionage. However, it does not report on any solutions or attempts to address the issue, and it does not provide a lot of depth or insight into the systems, causes, or impacts involved.",
+    "source": "gpt"
+  },
+  "09fa294ac147a339776ab0aa035b1ff8": {
+    "score": 0.6,
+    "reason": "The story provides useful awareness about the ongoing conflict in Ukraine and the US's involvement in peace talks. However, it does not offer potential solutions or progress, nor does it delve deeply into the causes or impacts of the issue.",
+    "source": "gpt"
+  },
+  "d0109446d7ee3168fcdec88a5580e905": {
+    "score": 0.3,
+    "reason": "While the story provides basic awareness of a significant event in Scottish sports history, it does not offer any deeper insights or understanding, nor does it highlight any solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "ce5bde7eb660ffdea95ace42b8ab2f04": {
+    "score": 0.6,
+    "reason": "The story provides useful information about England's strategy for the upcoming Ashes Test, which could be useful for readers interested in cricket. However, it does not report on any solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "58a44c0ad017cca88410a760430ab5fe": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; fallback from GPT error",
+    "source": "heuristic"
+  },
+  "5366ab6ae4ff3d13dbc312ce1eb50e3d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; fallback from GPT error",
+    "source": "heuristic"
+  },
+  "58d47b025daafffd9885eeb940f12fc8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; fallback from GPT error",
+    "source": "heuristic"
+  },
+  "af4e83b3bc70b752e70bf57ed1236e1d": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of the events that took place during the games, but it doesn't offer any deeper insights or actionable information for the reader. It doesn't report on any solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "4236546f7ddf06c9d106ad7f42db6e0e": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of the game's outcome and the key players. However, it doesn't offer deeper understanding or insights, nor does it report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "5509014596a16e604b24bec0e94917e7": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of the results of several NHL games, but it doesn't provide any deeper insights or actionable information for the reader. It doesn't report on any solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
   }
 }
