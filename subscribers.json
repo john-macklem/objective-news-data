@@ -1,1 +1,31 @@
-[]
+{
+  "subscribers": [
+    {
+      "email": "test@example.com",
+      "status": "active",
+      "subscribed_at": "2025-11-17T03:37:36.701981+00:00",
+      "unsubscribed_at": null,
+      "unsubscribe_token": "NVM_t_UCFnvXJbMJ-IMv35nVykIOVfit",
+      "source": "public_form",
+      "last_sent_at": null
+    },
+    {
+      "email": "john.macklem@gmail.com",
+      "status": "active",
+      "subscribed_at": "2025-11-17T04:42:53.704686+00:00",
+      "unsubscribed_at": null,
+      "unsubscribe_token": "YnEu4VqYQCxwTRDEdVg-7xWT9e9uuypQ",
+      "source": "static_site_footer",
+      "last_sent_at": null
+    },
+    {
+      "email": "oliviastanton26@gmail.com",
+      "status": "active",
+      "subscribed_at": "2025-11-18T00:45:25.468625+00:00",
+      "unsubscribed_at": null,
+      "unsubscribe_token": "1qCcWK_00FvfbHPkCDTKZVxEGTG2Z7Yk",
+      "source": null,
+      "last_sent_at": null
+    }
+  ]
+}
