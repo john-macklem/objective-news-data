@@ -2428,5 +2428,155 @@
     "score": 0.8,
     "reason": "This story provides useful information about the EU's stance on the Ukraine conflict and the importance of a collaborative approach. It highlights the issue of corruption within Ukraine's government, which is crucial for understanding the context of the conflict. However, it does not report on specific solutions or progress.",
     "source": "gpt"
+  },
+  "554ab155aa9a34339de040c1e432f17b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "b915c18de646e1828b6fea15694dae6f": {
+    "score": 0.05,
+    "reason": "keywords (1): support; semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "5d559d47986b3ed0e59c4afb4d13666a": {
+    "score": 0.076,
+    "reason": "keywords (1): plan; semantic: pos_sim=0.13, neg_sim=0.02; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "c8dc6a658ab9bef228a9d4d488b6e7fb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.04, neg_sim=0.08",
+    "source": "heuristic"
+  },
+  "62a0d57e09f58ca8bd52d7489745e9ea": {
+    "score": 0.133,
+    "reason": "keywords (2): plan, support; semantic: pos_sim=0.13, neg_sim=0.00; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "9af719dae331bbcf724a2c77b01d07ff": {
+    "score": 0.1,
+    "reason": "keywords (1): plan; semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "aefe5a6147eb2810d34e9f7db73eeeba": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "61b64b6466f8e830fa1c373828965ffd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.15",
+    "source": "heuristic"
+  },
+  "efc80e6f1eadff3a3d3ce3fe5fd439c5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.05, neg_sim=0.13",
+    "source": "heuristic"
+  },
+  "46460ef01e9ce953de989e2b5edd7c2a": {
+    "score": 0.013,
+    "reason": "semantic: pos_sim=0.11, neg_sim=0.04; semantic_boost=0.01",
+    "source": "heuristic"
+  },
+  "d07c318dc3551710d33b9d2f30145c13": {
+    "score": 0.05,
+    "reason": "keywords (1): support; semantic: pos_sim=0.00, neg_sim=0.09",
+    "source": "heuristic"
+  },
+  "4a7fa3d558f573526333285f2a7fbae4": {
+    "score": 0.101,
+    "reason": "keywords (1): research; semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "b1e6db796579a81484fdc4ba9157c37b": {
+    "score": 0.122,
+    "reason": "keywords (2): development, research; semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "3c035a40c214e22cb0ba86313dd94187": {
+    "score": 0.069,
+    "reason": "keywords (1): launch; semantic: pos_sim=0.15, neg_sim=0.06; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "5a18328bde297d2ae3e3cadfd2a0f264": {
+    "score": 0.05,
+    "reason": "keywords (1): access; semantic: pos_sim=0.00, neg_sim=0.14",
+    "source": "heuristic"
+  },
+  "8a53768a8641675acf759444a9e4a33f": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about an incident at the COP30 climate summit but offers minimal depth or insight. It does not give the reader actionable insights or deeper understanding, nor does it report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "9d9b86b036571647ef6ade2882170477": {
+    "score": 0.5,
+    "reason": "This story provides awareness about the ongoing conflict and ceasefire instability between Israel and Palestine. However, it lacks depth and insight into the causes or potential solutions to the conflict, and does not provide actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "e5a3211792f81dd8478ac69a732de1a0": {
+    "score": 0.6,
+    "reason": "This story informs readers about the sentencing of a key figure in the Biafra secession movement, providing some context to the ongoing conflict in Nigeria. However, it doesn't delve into potential solutions or progress towards resolving the conflict, nor does it provide actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "c00cacc3d0ca66c775bad89db230d609": {
+    "score": 0.2,
+    "reason": "This story is primarily reactive and sensational. It does not provide any actionable insights or deeper understanding. It also does not report on solutions, improvements, innovations, or attempts to solve problems. Lastly, it does not increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "9cc93ef1f679869344d64219f8150ee2": {
+    "score": 0.7,
+    "reason": "This story provides useful information about the FCC's investigation into a potential violation of US broadcasting rules. It provides context around the issue, even if the topic is negative. However, it does not report on solutions, improvements, or innovations, and does not increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "99084cf4d19ffa6955e08aa2b4fa233e": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a current event, but it does not provide any actionable insights or deeper understanding. It also does not report on solutions, improvements, innovations, or attempts to solve problems. Lastly, it does not increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "5b8238119b6abdf5f82bc0586c88eccf": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the event but doesn't offer much depth or insight. It doesn't contribute to the reader's understanding or decision-making, nor does it report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "0560722108b7f07f419627feafe1b21b": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the passing of a notable figure in music, but it lacks depth or insight into his influence or the impact of his work. It doesn't provide actionable insights or deeper understanding for the reader.",
+    "source": "gpt"
+  },
+  "646c9adecd83845038ab498663980fb9": {
+    "score": 0.5,
+    "reason": "This news provides some useful information for fans and those interested in the sports industry. However, it doesn't provide much depth or insight beyond the basic facts of the contract extension, nor does it report on broader trends or impacts in the sports industry.",
+    "source": "gpt"
+  },
+  "a6852e8d9ee92ee47ddf82cd3cf5037a": {
+    "score": 0.6,
+    "reason": "This story provides useful information for sports fans, especially those following USC's progress in the College Football Playoff. It also gives an insight into the coach's strategy and the importance of the quarterback's role. However, it doesn't provide in-depth analysis or report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "39d75a83c3e6d880318a700069bdf3c1": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a potential issue within the refereeing community, but it doesn't offer much in terms of depth or insight. There is no discussion of potential solutions or improvements to ensure such situations don't occur in the future.",
+    "source": "gpt"
+  },
+  "29f1908e7e85fcf08ea10ffd8349fb39": {
+    "score": 0.8,
+    "reason": "This story provides actionable insights for readers who are interested in betting on football games. It reports on the predictions of experts and computer models, which can help readers make informed decisions. However, it doesn't delve into the reasons behind these predictions or the systems used to generate them.",
+    "source": "gpt"
+  },
+  "6e0411547d845a7f4f18ec86646fc7a0": {
+    "score": 0.6,
+    "reason": "This story provides useful information for fans and followers of the Miami Dolphins and the NFL in general. It gives insight into the team's strategy and roster changes. However, it doesn't offer much depth or context beyond the basic facts of the signing.",
+    "source": "gpt"
+  },
+  "8baa20e1ad654dc798f40a150ed27c41": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about the health status of a key player on the Houston Texans team, which could impact the team's performance. However, it lacks depth or insight into the implications of this development or potential solutions the team might employ.",
+    "source": "gpt"
+  },
+  "90a20a266b571eeee65d372aa1968d13": {
+    "score": 0.8,
+    "reason": "This story provides useful information about a significant change in how the UEFA Champions League will be broadcast in the UK. It gives readers an understanding of the business side of sports broadcasting, and how it may impact their viewing habits in the future.",
+    "source": "gpt"
   }
 }
