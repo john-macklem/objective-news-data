@@ -1,8 +1,8 @@
 {
-  "fetched": 2146,
-  "filtered": 1025,
-  "clustered": 71,
-  "scored": 30,
+  "fetched": 2145,
+  "filtered": 1020,
+  "clustered": 65,
+  "scored": 31,
   "feeds": {
     "feeds_total": 51,
     "url_normalized": 11,
@@ -14,25 +14,27 @@
       "goosefeed.com": 8,
       "r.jina.ai": 8,
       "rsshub.app": 2,
-      "feeds.reuters.com": 1,
       "english.alarabiya.net": 1,
-      "www.nature.com": 1,
+      "feeds.reuters.com": 1,
       "www.investopedia.com": 1,
+      "www.nature.com": 1,
       "www.theglobeandmail.com": 1,
       "rss.sciam.com": 1
     }
   },
   "cache_metrics": {
     "summary": {
-      "stale_version": 791,
-      "load_ms": 19,
-      "miss": 30
+      "load_ms": 1,
+      "hit": 24,
+      "miss": 7
     },
     "headline": {
-      "miss": 30
+      "hit": 24,
+      "miss": 7
     },
     "constructiveness": {
-      "miss": 45
+      "hit": 24,
+      "miss": 7
     }
   }
 }
