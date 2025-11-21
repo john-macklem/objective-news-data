@@ -2758,5 +2758,130 @@
     "score": 0.8,
     "reason": "This story provides useful information about ongoing peace talks and a potential plan to end the war with Russia. It increases awareness of the political dynamics involved, even though it does not provide detailed information about the plan or Russia's response. The story does indicate progress towards a solution, but the outcome is still uncertain.",
     "source": "gpt"
+  },
+  "02d9a1b96d08535daa327459d4cf25d4": {
+    "score": 0.112,
+    "reason": "keywords (2): plan, support; semantic: pos_sim=0.08, neg_sim=0.02; semantic_boost=0.01",
+    "source": "heuristic"
+  },
+  "165bba2749809608c72af93845919015": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "82d2e9a452b4b36faa878dec0e1193a6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "6f00f0d2e653248a881f112026d53238": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.15",
+    "source": "heuristic"
+  },
+  "2f90436ef108fdd68280ce4f7eba613b": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "3a31334594116920f7dac3451341d388": {
+    "score": 0.059,
+    "reason": "keywords (1): plan; semantic: pos_sim=0.08, neg_sim=0.03; semantic_boost=0.01",
+    "source": "heuristic"
+  },
+  "d95216b59261532bb8d07ae44152a24e": {
+    "score": 0.07,
+    "reason": "keywords (1): plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "07e4ec2d0979088c518eda06f05fbe05": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "a9cb8f4bbf7e3132e9c65f15e69a1944": {
+    "score": 0.05,
+    "reason": "negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "be3f7acecba612bf35c44746d96c8d34": {
+    "score": 0.05,
+    "reason": "keywords (1): launch; semantic: pos_sim=0.00, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "30ffd150131d97188e4c6b0f464d3052": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the incident and its impact on the UN climate talks. However, it does not delve into the causes of the fire or the potential implications for the climate talks. It also does not report any progress or solutions.",
+    "source": "gpt"
+  },
+  "edf589de61e42c708a5afdf4e5504bba": {
+    "score": 0.6,
+    "reason": "The story provides a basic understanding of the diplomatic tensions between the US and South Africa due to the US boycott of the G20 Summit. However, it does not provide deeper insights into the reasons for the boycott, its implications, or potential solutions to the issue.",
+    "source": "gpt"
+  },
+  "14979dd15eda280c2b92d21f3bfa4918": {
+    "score": 0.5,
+    "reason": "The story raises awareness about the security situation in Nigeria but does not provide deeper insights into the causes, trends, or impacts of these kidnappings. It also does not report on any potential solutions or progress in addressing the issue.",
+    "source": "gpt"
+  },
+  "cd2cc1474d8b74bb0d3bd3bb48924728": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a significant event in UK politics and contributes to the reader's understanding of corruption within political systems. However, it doesn't report on solutions to the problem or offer actionable insights.",
+    "source": "gpt"
+  },
+  "5980d2d753461ba57b652783552a9452": {
+    "score": 0.8,
+    "reason": "The story informs readers about an upcoming meeting between two political figures who are known for their differences. It provides an insight into the potential for dialogue and compromise in politics. However, it doesn't provide clear details about the issues they will discuss or potential outcomes.",
+    "source": "gpt"
+  },
+  "507106cd278bf892be102a98b3761e49": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the ongoing issue of mass kidnappings in Nigeria, particularly targeting schools. However, it offers minimal depth or insight into the causes, systems, or impacts of these incidents, and it doesn't report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "25ff03788224191a7edf50de380d02a9": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant change in the coaching staff of the New York Liberty, providing useful information for fans and followers of the team. However, it does not delve into what this change could mean for the team's strategies or future performance, thus lacking depth and insight.",
+    "source": "gpt"
+  },
+  "520b8ef6dcf2e5a6aa85d5e0dd9ba231": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the health status of a key player in the Winnipeg Jets team, which is important for fans and followers. However, it does not offer deeper insights into how the team plans to cope with the player's absence or what the surgery entails, limiting its depth.",
+    "source": "gpt"
+  },
+  "1123c095b4d58e9f62bff02dc112e1d3": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the closure of a football club, which is important news for fans and stakeholders. However, it does not provide any insights into why this decision was made, the impact on the players, or the future of the league without this team, thus lacking in depth and insight.",
+    "source": "gpt"
+  },
+  "b95dd59d7d8daba8e0eff3002757c4b4": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the disciplinary action taken by the Ontario Hockey League against a player for his misconduct. However, it does not offer any deeper insights, solutions, or improvements to prevent such incidents in the future.",
+    "source": "gpt"
+  },
+  "bb211cdde398ab347e1e16d0096a8f51": {
+    "score": 0.6,
+    "reason": "The story informs readers about a recurring safety issue at the Las Vegas Grands Prix, providing useful context about the incidents. However, it does not report on any solutions or improvements being made to address these safety concerns.",
+    "source": "gpt"
+  },
+  "1c5027f65cfb854e0110d0ebe0fca493": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a player's injury and his absence from an upcoming tournament. However, it lacks depth and does not provide any actionable insights or solutions.",
+    "source": "gpt"
+  },
+  "81b60ca0f0b92f458f321c285d57c6dc": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness of Sung-mun Song's availability for MLB teams to negotiate and sign. However, it lacks depth or insight into what this means for the teams, the player, or the sport itself.",
+    "source": "gpt"
+  },
+  "4b9898b1524be21b31c52311380cb9d9": {
+    "score": 0.7,
+    "reason": "The story provides useful information about Brandon Aiyuk's progress and potential as a top NFL receiver. It contextualizes his importance to the 49ers' future plans. However, it doesn't report on any specific solutions or innovations.",
+    "source": "gpt"
+  },
+  "ec02c5e69d25d48e3a9b4291c353ee62": {
+    "score": 0.6,
+    "reason": "While the story is negative, it provides important information about a significant incident at the Dubai Airshow. It also provides context about the Tejas jet's role in India's air force modernization efforts. However, it doesn't provide any insight into the causes of the crash or potential solutions.",
+    "source": "gpt"
   }
 }

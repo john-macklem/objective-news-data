@@ -1,8 +1,8 @@
 {
-  "fetched": 2163,
-  "filtered": 1047,
-  "clustered": 91,
-  "scored": 30,
+  "fetched": 2136,
+  "filtered": 1005,
+  "clustered": 77,
+  "scored": 29,
   "feeds": {
     "feeds_total": 51,
     "url_normalized": 11,
@@ -16,8 +16,8 @@
       "rsshub.app": 2,
       "feeds.reuters.com": 1,
       "english.alarabiya.net": 1,
-      "www.investopedia.com": 1,
       "www.nature.com": 1,
+      "www.investopedia.com": 1,
       "www.theglobeandmail.com": 1,
       "rss.sciam.com": 1
     }
@@ -25,16 +25,16 @@
   "cache_metrics": {
     "summary": {
       "load_ms": 2,
-      "miss": 22,
-      "hit": 8
+      "hit": 4,
+      "miss": 25
     },
     "headline": {
-      "miss": 22,
-      "hit": 8
+      "hit": 4,
+      "miss": 25
     },
     "constructiveness": {
-      "miss": 29,
-      "hit": 8
+      "hit": 4,
+      "miss": 35
     }
   }
 }
