@@ -1,107 +1,166 @@
 [
   {
-    "title": "Rep. Marjorie Taylor Greene to Resign from Congress in January 2026",
-    "domain": "business",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Sat, 22 Nov 2025 04:12:35 GMT",
-    "source": "BBC",
+    "title": "Bolsonaro Arrested in Brasilia After Alleged Escape Plot and Tampered Ankle Moni",
+    "domain": "general",
+    "source_domain": "npr.org",
+    "location": "national",
+    "published": "Sat, 22 Nov 2025 08:50:30 -0500",
+    "source": "NPR",
     "sources": [
-      "BBC",
       "NPR",
       "Al Jazeera",
-      "Deutsche Welle",
-      "Axios",
-      "ABC News",
       "Reuters",
+      "Washington Post",
+      "New York Times",
+      "Associated Press",
+      "CBC News"
+    ],
+    "domains": [
+      "npr.org",
+      "aljazeera.com",
+      "news.google.com",
+      "washingtonpost.com",
+      "nytimes.com",
+      "cbc.ca"
+    ],
+    "snippets": [
+      "Brazil's Supreme Court ordered the arrest of Jair Bolsonaro, with a judge claiming the former president was intent on escaping as he was set to begin his prison sentence for leading a coup attempt.",
+      "The former president is taken in Brasilia due to alleged escape plan before prison time for leading a coup attempt.",
+      "Brazil's ex-president Bolsonaro detained by police over flight risk Reuters",
+      "A judge said he ordered the arrest after learning Bolsonaro’s ankle monitor had been tampered with. The Trump ally was convicted earlier this year of attempting a military coup.",
+      "The arrest came days before the former president was expected to be ordered to begin a 27-year prison sentence for staging a failed coup.",
+      "Brazil's ex-president Bolsonaro arrested over alleged plot to escape and avoid 27-year prison term AP News",
+      "Former Brazilian president Jair Bolsonaro was taken into federal police custody on Saturday before a planned supporters' vigil near his home, ending months of house arrest as he appealed a Supreme Court conviction for plotting a coup."
+    ],
+    "image_url": "",
+    "titles": [
+      "Brazil's Bolsonaro arrested for allegedly plotting escape ahead of prison term",
+      "Brazil’s Bolsonaro arrested as flight risk days before start of prison term",
+      "Brazil's ex-president Bolsonaro detained by police over flight risk - Reuters",
+      "Brazil’s ex-leader Bolsonaro arrested over allegations of escape plot",
+      "Jair Bolsonaro Arrested in Brazil Amid Fears He Might Flee to Avoid Prison",
+      "Brazil's ex-president Bolsonaro arrested over alleged plot to escape and avoid 27-year prison term - AP News",
+      "Bolsonaro detained by police ahead of prison sentence"
+    ],
+    "url": "https://www.npr.org/2025/11/22/nx-s1-5617668/brazil-bolsonaro-arrest-order-supreme-court",
+    "alternate_urls": [
+      "https://www.aljazeera.com/news/2025/11/22/brazils-bolsonaro-arrested-days-before-start-of-27-year-prison-sentence?traffic_source=rss",
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaS1qR21weS01MGl2VlNQOEJxQ0dFVWNDdGM4T2cweTN0cDNJMF9JaUU2OVNFRHNYa2k2bl91b3I2ZXhTUHVGU19XZTc2S2sxajlXTENJNWlxdFVRcmFWUWdjMnJfM2hqcTY3YzVTQkY4NXEyUzlXLUo5VDg1aHlhLTdpWlVQdUdPRkd4ZmoyWHJwOERQRW5QVndWaWpGNWRVU2p1SEtUeHJJc1ktQlZQZmxsRzhWaFppRHNr?oc=5",
+      "https://www.washingtonpost.com/world/2025/11/22/brazil-bolosnaro-arrested-vigil-disorder/",
+      "https://www.nytimes.com/2025/11/22/world/americas/jair-bolsonaro-brazil-arrest.html",
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaG1MSUZrbmtULUE2NGkwTEhNakZCRUpKWmEyU3J3dWhtbncyZFhjNGxCaVM5SlNDbUpqeldjNmxQVjZoNWg2SUJHcHRLbVdVR0JfczhDYmJ6UDhCZW93ZDc1ZkQzdHpvejdLam5neHVGM3RmaVRVUHJYVVBSSUJKd0xBeFNtSHlhN09JVlpfcGtCN3Ey?oc=5",
+      "https://www.cbc.ca/news/world/bolsonaro-detained-police-ahead-of-prison-sentence-9.6989009?cmp=rss"
+    ],
+    "location_scope": "national",
+    "link": "https://www.npr.org/2025/11/22/nx-s1-5617668/brazil-bolsonaro-arrest-order-supreme-court",
+    "score_components": {
+      "magnitude": 1.0,
+      "recency": 0.877,
+      "consensus": 1.0,
+      "constructiveness": 0.5,
+      "proximity": 0.75
+    },
+    "score": 0.9,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Former Brazilian president Jair Bolsonaro was arrested in Brasilia after a Supreme Court judge ordered his detention, citing an alleged plan to escape before starting a 27-year prison sentence for leading a failed coup attempt. Bolsonaro’s ankle monitor had reportedly been tampered with. The arrest ends months of house arrest as he appealed his conviction. He is now in federal police custody.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about the arrest of former Brazilian president Jair Bolsonaro. However, it does not offer any actionable insights or deeper understanding of the implications of this event. It also does not report on any solutions, improvements, or attempts to solve problems.",
+    "constructiveness_source": "gpt",
+    "is_trending": true,
+    "trending_score": 0.75
+  },
+  {
+    "title": "Rep. Marjorie Taylor Greene to Resign from Congress in January 2026",
+    "domain": "business",
+    "source_domain": "npr.org",
+    "location": "national",
+    "published": "Sat, 22 Nov 2025 05:00:00 -0500",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "BBC",
+      "ABC News",
+      "Axios",
+      "Deutsche Welle",
       "CNBC",
+      "Reuters",
       "Financial Times",
-      "The Guardian",
       "CBC News",
       "Bloomberg",
-      "Fortune",
       "Globe and Mail",
       "Associated Press"
     ],
     "domains": [
-      "bbc.com",
       "npr.org",
-      "aljazeera.com",
-      "dw.com",
-      "news.google.com",
+      "bbc.com",
       "abcnews.go.com",
+      "news.google.com",
+      "dw.com",
       "cnbc.com",
       "ft.com",
-      "theguardian.com",
-      "cbc.ca",
-      "fortune.com"
+      "cbc.ca"
     ],
     "snippets": [
-      "A falling out with the US president erupted amid her relentless calls to release documents on the late paedophile.",
+      "Georgia Rep. Marjorie Taylor Greene was one of President Trump's most outspoken supporters. But she is planning to leave office following a growing rift with the president.",
       "Republican Georgia Rep. Marjorie Taylor Greene, an \"America First\" conservative who has clashed with President Trump and her party, said Friday she would resign from Congress Jan. 5, 2026.",
-      "Greene says 'standing up for American women raped at 14' should not lead to being branded a 'traitor' by Trump.",
-      "The congresswoman, a once-loyal supporter of President Donald Trump, has recently taken positions at odds with his administration and some of her fellow Republicans.",
-      "Rep. Marjorie Taylor Greene resigning from Congress Axios",
+      "A falling out with the US president erupted amid her relentless calls to release documents on the late paedophile.",
       "Georgia Republican Rep. Marjorie Taylor Greene announces she is resigning from Congress effective January 5, 2026.",
+      "Rep. Marjorie Taylor Greene resigning from Congress Axios",
+      "The congresswoman, a once-loyal supporter of President Donald Trump, has recently taken positions at odds with his administration and some of her fellow Republicans.",
+      "Rep. Marjorie Taylor Greene on Friday said she would resign in early January, after saying President Donald Trump unfairly criticized her.",
       "MAGA favorite Marjorie Taylor Greene to resign after split with Trump Reuters",
-      "Rep. Marjorie Taylor Greene supported a bill compelling the release of the Jeffrey Epstein files by the DOJ, putting her on the bad side of President Trump.",
       "US president threatened primary challenge against the Republican firebrand over her campaign to release the Epstein files",
-      "Decision by Georgia Republican and leading Maga figure to give up House seat comes after dramatic break with Trump, lately over the Epstein files bill Reaction: Trump calls resignation ‘great news for the country’ From staunch Trump ally to ‘traitor’: key takeaways of Marjorie Taylor Greene’s career",
-      "President says ‘I think she should be happy’ while Democratic colleague praises her for stance on Epstein files Full report: Marjorie Taylor Greene to resign from Congress in January From staunch Trump ally to ‘traitor’: key takeaways of Marjorie Taylor Greene’s career Marjorie Taylor Greene, the Re",
       "U.S. Rep. Marjorie Taylor Greene of Georgia, a once-loyal supporter of Donald Trump who has become a critic of the president, said Friday she is resigning from Congress in January.",
-      "Marjorie Taylor Greene to Resign From Congress Jan. 5 Bloomberg.com",
-      "Trump branded her a “traitor” and “wacky” and said he would endorse a challenger against her when she ran for reelection next year.",
+      "Marjorie Taylor Greene to Quit Congress After Trump Feud Bloomberg.com",
       "Former Trump loyalist Marjorie Taylor Greene resigning from Congress The Globe and Mail",
-      "Rep. Marjorie Taylor Greene of Georgia, former Trump loyalist, says she is resigning from Congress AP News"
+      "Rep. Marjorie Taylor Greene of Georgia, former Trump loyalist, says she is resigning from Congress AP News",
+      "Rep. Marjorie Taylor Greene will leave office in January after clashing with Trump AP News"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f27/live/b0083d80-c770-11f0-a882-55e7f9e7585f.jpg",
+    "image_url": "",
     "titles": [
-      "Trump ally Marjorie Taylor Greene to quit Congress after Epstein files feud",
+      "How Marjorie Taylor Greene went from a top Trump ally to choosing to resign",
       "After break with Trump, Marjorie Taylor Greene will resign",
-      "Major MAGA figure Marjorie Taylor Greene resigns after Trump clash",
-      "Marjorie Taylor Greene resigns after public feud with Trump",
-      "Rep. Marjorie Taylor Greene resigning from Congress - Axios",
+      "Trump ally Marjorie Taylor Greene to quit Congress after Epstein files feud",
       "Rep. Marjorie Taylor Greene says she will resign from Congress in January",
+      "Rep. Marjorie Taylor Greene resigning from Congress - Axios",
+      "Marjorie Taylor Greene resigns after public feud with Trump",
+      "Trump on Marjorie Taylor Greene's resignation: She 'went BAD'",
       "MAGA favorite Marjorie Taylor Greene to resign after split with Trump - Reuters",
-      "Rep. Marjorie Taylor Greene will resign after fallout with Trump",
       "Marjorie Taylor Greene to resign from Congress after clash with Trump",
-      "Marjorie Taylor Greene to resign from Congress in January amid fallout with Trump",
-      "Trump calls Marjorie Taylor Greene resignation ‘great news for the country’",
       "Trump loyalist-turned-critic Marjorie Taylor Greene resigning from Congress",
-      "Marjorie Taylor Greene to Resign From Congress Jan. 5 - Bloomberg.com",
-      "MAGA stalwart Marjorie Taylor Greene, who defied Trump on Epstein files, will resign from Congress to avoid ‘hurtful and hateful primary’",
+      "Marjorie Taylor Greene to Quit Congress After Trump Feud - Bloomberg.com",
       "Former Trump loyalist Marjorie Taylor Greene resigning from Congress - The Globe and Mail",
-      "Rep. Marjorie Taylor Greene of Georgia, former Trump loyalist, says she is resigning from Congress - AP News"
+      "Rep. Marjorie Taylor Greene of Georgia, former Trump loyalist, says she is resigning from Congress - AP News",
+      "Rep. Marjorie Taylor Greene will leave office in January after clashing with Trump - AP News"
     ],
-    "url": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.npr.org/2025/11/22/g-s1-98793/marjorie-taylor-greene-resignation",
     "alternate_urls": [
       "https://www.npr.org/2025/11/21/nx-s1-5617227/marjorie-taylor-greene-resignation-trump",
-      "https://www.aljazeera.com/news/2025/11/22/major-maga-figure-marjorie-taylor-greene-resigns-after-trump-clash?traffic_source=rss",
-      "https://www.dw.com/en/marjorie-taylor-greene-resigns-after-public-feud-with-trump/a-74845585?maca=en-rss-en-top-1022-rdf",
-      "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVW80Q1Z0QW5LVU9QaVUxWEJmdFV3dUJwQ2lUU3ZPOVA1ak1XUkJkOThHbDYza3BicklUU3NVX2h3T2ZUSDlRMzY1azJMdGZRSEppaFdYM0lfeGVMbTMtQ0NXV2ZIc2RvdTJFeHFhb25HUEQ2bFVYY05hRWM2T0RGbTBrcw?oc=5",
+      "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss",
       "https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912",
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVW80Q1Z0QW5LVU9QaVUxWEJmdFV3dUJwQ2lUU3ZPOVA1ak1XUkJkOThHbDYza3BicklUU3NVX2h3T2ZUSDlRMzY1azJMdGZRSEppaFdYM0lfeGVMbTMtQ0NXV2ZIc2RvdTJFeHFhb25HUEQ2bFVYY05hRWM2T0RGbTBrcw?oc=5",
+      "https://www.dw.com/en/marjorie-taylor-greene-resigns-after-public-feud-with-trump/a-74845585?maca=en-rss-en-top-1022-rdf",
+      "https://www.cnbc.com/2025/11/22/trump-marjorie-taylor-greene-mtg-resigns.html",
       "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3lfNjZ5UHItMTRnVFdRSkZfaWwyWFZ0XzFhUm5neTlfWUpYakoyQ1haZVVVNmlRTEo2Q05FZlluNTU2OFY1eUVZWHBYc2RySGdGSEVrMVowTzJLam9vZV90VGtuOFItM25wSTdzNUd6bFVFS2NGTU9ERDZBVnNPRW5iVDZIWHZweDBpamNtLVlvalV1djNuVDRpMWpYVDVzVDFnNkJJU0NOQVI4TW4xeVhwZjRTNGFW?oc=5",
-      "https://www.cnbc.com/2025/11/21/marjorie-taylor-greene-resign-trump-epstein-mtg.html",
       "https://www.ft.com/content/a902af96-1e44-4d55-b020-67e93bb88c97",
-      "https://www.theguardian.com/us-news/2025/nov/21/marjorie-taylor-greene-resigns",
-      "https://www.theguardian.com/us-news/2025/nov/21/trump-marjorie-taylor-greene",
       "https://www.cbc.ca/news/world/marjorie-taylor-greene-resignation-9.6988817?cmp=rss",
       "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZk0zR2pKazdEUDVPN255bDhwVjFITUVaSHlPYks3b3lTaDBRMHJtdnpLUHBJUkx0QjVmbE80ekxXM1BTa1o2N0dyVjM3LVFpd19UaXJzZ0hDdTlqSi1mVGdaX2VHZm5xTlZLMXZ1TUl6V3p1TTFyVEk3SDZJMnhoZ19nTDBmUkdzVTVQbHd3ZmJUVTdMTmFJMmJpUDdrTlg5WlE2OGl3?oc=5",
-      "https://fortune.com/2025/11/21/marjorie-taylor-greene-trump-epstein-files-resignation-congress-primary-challenge/",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmxfaXAwTTgwTjljQnZyREZIdlo2Rk9lWUZlb01iUjQtTllCTEFJWS1LcUF5X3o1TUtqaV9ha18tSlhMb01yVU1tWnJ1ZmZESFdBQVBNQk4zWERWdE9DYmhTaTZ1OERFSGxmTVNPeDZtRGpwdVFYd3h2Z2k4UGk0cEZRSnhuRXluRmh5U2k1TXdVOHRyN2pwS0Z6eU1mOVItbTVVTE5JZ2F2YWVOa0hUMUdBZVhyRDJQeEhERklYR2lGU2NBb0E?oc=5",
-      "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU0lveUpzSFo2WUEyVUFISHR4Q0dfNVk4UXBoZzMzSHZxRHVWMVpXS2FIRFVOVS0wQ21KalNIbTZaS04zSXNUYzlEM1Q4NF9XT3FLUkw0RDNDRlBqb0JqR3ZNbXRyTVpWWlhZc3JVSFZIRTZiNVI0WWxfM3hPLWFaODZuRW1fOC1RV3M4OUd2ZEZyT20zdmlsWFdkUHdlS181NWJZa3ZYOGVONFBNeFE?oc=5"
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU0lveUpzSFo2WUEyVUFISHR4Q0dfNVk4UXBoZzMzSHZxRHVWMVpXS2FIRFVOVS0wQ21KalNIbTZaS04zSXNUYzlEM1Q4NF9XT3FLUkw0RDNDRlBqb0JqR3ZNbXRyTVpWWlhZc3JVSFZIRTZiNVI0WWxfM3hPLWFaODZuRW1fOC1RV3M4OUd2ZEZyT20zdmlsWFdkUHdlS181NWJZa3ZYOGVONFBNeFE?oc=5",
+      "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FQ01CeGMwdnMwb0dTS25hMExTaGd6VFNtbXc3SXFKaU1kX3VrNFhwaFJwT2FsNC1Ld2hsU0E0eWtRYUZHdjljWWZEUzF4aTBUbk40eE5LVlpfOXhuRTA3NklnRTg1TnluUDhOQw?oc=5"
     ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss",
+    "location_scope": "national",
+    "link": "https://www.npr.org/2025/11/22/g-s1-98793/marjorie-taylor-greene-resignation",
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.882,
+      "recency": 0.81,
       "consensus": 1.0,
       "constructiveness": 0.6,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.886,
-    "summary_source": "gpt",
+    "score": 0.897,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "Rep. Marjorie Taylor Greene, a Republican from Georgia and former Trump ally, announced she will resign from Congress effective January 5, 2026. Her decision follows a public split with President Trump, notably over her push to release the Jeffrey Epstein files. Trump criticized Greene and vowed to support a primary challenger against her. Greene cited her advocacy for victims as a reason for her actions.",
     "constructiveness_score": 0.6,
@@ -111,289 +170,526 @@
     "trending_score": 0.75
   },
   {
-    "title": "Lando Norris Claims Pole for McLaren in Rainy Las Vegas Grand Prix Qualifying",
-    "domain": "sports",
-    "source_domain": "espn.com",
+    "title": "Over 200 Students, Staff Kidnapped from Nigerian Catholic School; Search Ongoing",
+    "domain": "general",
+    "source_domain": "npr.org",
     "location": "national",
-    "published": "Sat, 22 Nov 2025 02:22:07 EST",
-    "source": "ESPN",
+    "published": "Sat, 22 Nov 2025 09:37:45 -0500",
+    "source": "NPR",
     "sources": [
-      "ESPN",
-      "The Guardian",
-      "Sky Sports",
-      "Sportsnet"
+      "NPR",
+      "Al Jazeera",
+      "Reuters",
+      "CBC News",
+      "Associated Press"
     ],
     "domains": [
-      "espn.com",
-      "theguardian.com",
-      "skysports.com",
-      "sportsnet.ca"
+      "npr.org",
+      "aljazeera.com",
+      "news.google.com",
+      "cbc.ca"
     ],
     "snippets": [
-      "Lando Norris' march toward a first world title continued apace Friday after he took pole position in a wet and perilous qualifying session at the Las Vegas Grand Prix while his teammate Oscar Piastri could manage only fifth.",
-      "Title race leader first in qualifying ahead of Verstappen Hamilton woes continue with last-place finish for Ferrari Lando Norris claimed pole position for McLaren at the Las Vegas Grand Prix with a superb lap in treacherous wet conditions on the street circuit in Nevada, and with it moved one step c",
-      "Highlights from qualifying at the Las Vegas Grand Prix.",
-      "Formula 1’s title contenders mastered the wet and slick Las Vegas Strip in a rainy Friday night qualifying session that saw championship leader Lando Norris take pole."
+      "A total of 303 schoolchildren and 12 teachers were abducted by gunmen during an attack on St. Mary's School, a Catholic institution in north-central Nigeria's Niger state, the Christian Association of Nigeria said.",
+      "No group has yet claimed responsibility for this or a previous abduction, as authorities deploy rescue squads.",
+      "Gunmen in Nigeria kidnap over 200 Catholic school students, Christian association says Reuters",
+      "A total of 303 schoolchildren and 12 teachers were abducted by gunmen during an attack on St. Mary's School, a Catholic institution in north-central Nigeria's Niger state, the Christian Association of Nigeria said Saturday, updating an earlier tally of 215 schoolchildren.",
+      "Number of children abducted in Nigerian school attack raised to more than 300 AP News"
     ],
     "image_url": "",
     "titles": [
-      "Norris takes pole in wet Las Vegas qualifying",
-      "Lando Norris claims F1 Las Vegas GP pole in wet as Oscar Piastri slips to fifth",
-      "Last-gasp pole for Norris and Hamilton Q1 exit! Las Vegas Qualifying highlights",
-      "Lando Norris takes pole in rainy Las Vegas qualifying, Verstappen bumped to second"
+      "More than 300 children were abducted in an attack on a Catholic school in Nigeria",
+      "Over 300 students were abducted by Nigerian gunmen from Catholic school",
+      "Gunmen in Nigeria kidnap over 200 Catholic school students, Christian association says - Reuters",
+      "More than 300 Nigerian schoolchildren abducted by gunmen",
+      "Number of children abducted in Nigerian school attack raised to more than 300 - AP News"
     ],
-    "url": "https://www.espn.com/f1/story/_/id/47023107/norris-beats-verstappen-pole-wet-qualifying",
+    "url": "https://www.npr.org/2025/11/22/nx-s1-5617680/nigeria-catholic-school-children-abducted",
     "alternate_urls": [
-      "https://www.theguardian.com/sport/2025/nov/22/formula-one-las-vegas-grand-prix-f1-qualifying-pole-lando-norris-oscar-piastri-report",
-      "https://www.skysports.com/watch/video/13473828/las-vegas-grand-prix-qualifying-highlights"
+      "https://www.aljazeera.com/news/2025/11/22/over-300-students-were-abducted-by-nigerian-gunmen-from-catholic-school?traffic_source=rss",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTllub19renlhV05PbE5RUE95eVJuVjh3bUpuSk1JTDRVOXhpWUxHNFBnczdWY1FOUk9SaDJ4dTdBdG9OYVZZdGJzTGNTQVhuVWgyWm0taFRINHUxQVAyX09WclFsRGFmM0xqeXhyZ1A2SG5JUVZTRmhwenB5eWNoU29TdWZVMXRqeVNocmNEdVNHeHFiVjZKOTdHUGtkU2VoVzY3a0tEemUwUQ?oc=5",
+      "https://www.cbc.ca/news/world/children-abducted-nigeria-school-9.6989006?cmp=rss",
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmNEbDRaLW5MYW1fdGVSY01RRjA1MVRSYUZZNWZkT3J2NXE0TXBMUHhGUjZwdVg0Y3JpYlpacDBWdWZ6QnZ3Y3ZHX0dMLUlkZEJfNEg0OGdHV3UyUVRWZ3JGemdjUlhmMjlQSEYzT0QxeS16MTUxaFVGMXU3a3l5MzM1WUE5Q0dKc3pCZGxR?oc=5"
     ],
     "location_scope": "national",
-    "link": "https://www.espn.com/f1/story/_/id/47023107/norris-beats-verstappen-pole-wet-qualifying",
+    "link": "https://www.npr.org/2025/11/22/nx-s1-5617680/nigeria-catholic-school-children-abducted",
     "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.942,
-      "consensus": 0.908,
-      "constructiveness": 0.6,
+      "magnitude": 0.944,
+      "recency": 0.892,
+      "consensus": 0.975,
+      "constructiveness": 0.5,
       "proximity": 0.75
     },
-    "score": 0.87,
+    "score": 0.878,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Gunmen kidnapped at least 215 students and 12 staff members from a Catholic school in Nigeria on Friday, according to the Christian Association of Nigeria. Police and military forces have been deployed to search for the missing individuals. The incident is part of a series of similar attacks that have raised concerns about security in the country. The students and staff remain missing as search efforts continue.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "While the story raises awareness about a serious security issue in Nigeria, it doesn't provide any deeper understanding or actionable insights for the reader. It also doesn't report on any potential solutions or attempts to address the larger problem.",
+    "constructiveness_source": "gpt",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Trump Sets Thursday Deadline for Ukraine to Respond to US Peace Plan",
+    "domain": "general",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Sat, 22 Nov 2025 15:23:10 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "BBC",
+      "Deutsche Welle",
+      "Globe and Mail"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "bbc.com",
+      "dw.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "US President Donald Trump gave Ukraine until Thursday to approve the 28-point plan to end the nearly four-year war.",
+      "Leaders from Europe, Canada and Japan say the plan needs \"additional work\" but includes elements \"essential for a just and lasting peace\".",
+      "Kyiv's allies in Europe have said the US draft proposal that seems to favor Moscow is a \"basis\" that needs more work. Donald Trump has set a Thursday deadline for Ukraine to accept the deal. DW has the latest.",
+      "Ukraine’s allies, including Canada, push to revise U.S. peace plan The Globe and Mail"
+    ],
+    "image_url": "",
+    "titles": [
+      "Ukraine’s allies say more work needed on US plan to end Russia’s war",
+      "Ukraine's allies voice concerns over US plan to end war",
+      "Ukraine's European allies say US peace plan needs 'additional work'",
+      "Ukraine’s allies, including Canada, push to revise U.S. peace plan - The Globe and Mail"
+    ],
+    "url": "https://www.aljazeera.com/news/2025/11/22/russia-claims-more-land-in-ukraine-as-us-pushes-its-plan-eu-uk-regroup?traffic_source=rss",
+    "alternate_urls": [
+      "https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/ukraine-s-european-allies-say-us-peace-plan-needs-additional-work/live-74845963?maca=en-rss-en-top-1022-rdf",
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaG9LOFItSmlMRm1LUDJNMWZ4ZFlUWm1OaU9VTDdDV3VDb0hseWgwOFZsQ3lKTngwNXF2LTI2WGtVYVRrNDBUNFdaWUMxZzZLRXdlS190c0RvYkVjZVZrdTNXeERCSExpVDRSMkRkUHNGVGFHb2pZeGRGdm1BLVFuZ3A1WklGUERHU0RYdHo5cm1aOHF4amc?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.aljazeera.com/news/2025/11/22/russia-claims-more-land-in-ukraine-as-us-pushes-its-plan-eu-uk-regroup?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.952,
+      "recency": 0.906,
+      "consensus": 0.908,
+      "constructiveness": 0.8,
+      "proximity": 0.5
+    },
+    "score": 0.871,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Lando Norris secured pole position for McLaren at the Las Vegas Grand Prix after a challenging, rain-affected qualifying session. Norris outpaced title rivals, including Max Verstappen, while his teammate Oscar Piastri qualified fifth. Ferrari struggled, with Lewis Hamilton finishing last in qualifying. Norris’s result strengthens his position in the championship race.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story provides useful information for Formula 1 fans about the results of a qualifying session, and how it impacts the championship race. However, it doesn't offer much in terms of broader insights or knowledge.",
+    "summary": "US President Donald Trump has given Ukraine until Thursday to accept a 28-point peace plan aimed at ending the nearly four-year war. European, Canadian, and Japanese leaders acknowledge the plan contains important elements but say it requires further revisions. Ukraine's allies view the current U.S. proposal as a starting point but believe more work is needed before it can be accepted. The deadline for Ukraine's response is Thursday.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story provides useful information about the US peace plan for Ukraine and the deadline set for its acceptance. It informs readers about the international perspective on the plan and the need for further revisions. However, it does not explicitly highlight solutions or progress, although it does hint at ongoing efforts to end the war.",
+    "constructiveness_source": "gpt",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "UN Climate Deal Boosts Aid for Poor Nations, Omits Fossil Fuel Phase-Out",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Sat, 22 Nov 2025 17:49:42 GMT",
+    "source": "Axios",
+    "sources": [
+      "Axios",
+      "Reuters",
+      "CBC News",
+      "Financial Post"
+    ],
+    "domains": [
+      "news.google.com",
+      "cbc.ca",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "Fractious UN climate talks end with no direct push on fossil fuels in deal Axios",
+      "COP30 seals uneasy climate deal that sidesteps fossil fuels Reuters",
+      "Brazil's COP30 presidency pushed through a compromise climate deal on Saturday that would boost finance for poor nations coping with global warming but that omitted any mention of the fossil fuels driving it.",
+      "An international climate deal emerged Saturday meant to spur more concrete plans to transition away from fossil fuels, winning grudging acceptance from nations that insisted on stronger ambition in the fight against global warming."
+    ],
+    "image_url": "",
+    "titles": [
+      "Fractious UN climate talks end with no direct push on fossil fuels in deal - Axios",
+      "COP30 seals uneasy climate deal that sidesteps fossil fuels - Reuters",
+      "COP30 pushes through uneasy climate deal that sidesteps fossil fuels concerns",
+      "Global Climate Deal Closes In on Effort to Curb Fossil Fuels"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRSkptb2VONUQzZWoxbnRscUphOEtJNXNQZ1BkNU1QWmcwWVMyS001eWtqdGhCYUthU0NvSTZMOWk0RUllWUNjSTU2SnM3aGJYdEVHQmlXNkhjb0tjS3duMklab3o0N1hqLXlPZzRUWQ?oc=5",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0xNSXVjSFByZzk4RzhYZFRqV1F3QldDdEgwOWNNaWZ0MFdhbVZDc0ZNVExUemdRRWVZbk5DQVRhYUZtREVaX2JTTVZFWXNVUm5SR0NXaTB2UW5xS01KN2l4TlI5a1lvdTVoeHU0eE0zWEk3cUJjMVNSMkV4MG4tazRWSFQwZWZjdUdsRXR2OUZrZE9CNWc1ZWp5c1FOZ3czS2h5eG5BLWtQOVFidkpVSA?oc=5",
+      "https://www.cbc.ca/news/world/cop30-deal-fossil-fuels-climate-change-crisis-9.6989208?cmp=rss",
+      "https://financialpost.com/pmn/business-pmn/uks-miliband-optimistic-on-cop30-deal-after-talks-drag-on"
+    ],
+    "location_scope": "national",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRSkptb2VONUQzZWoxbnRscUphOEtJNXNQZ1BkNU1QWmcwWVMyS001eWtqdGhCYUthU0NvSTZMOWk0RUllWUNjSTU2SnM3aGJYdEVHQmlXNkhjb0tjS3duMklab3o0N1hqLXlPZzRUWQ?oc=5",
+    "score_components": {
+      "magnitude": 0.912,
+      "recency": 0.953,
+      "consensus": 0.888,
+      "constructiveness": 0.7,
+      "proximity": 0.5
+    },
+    "score": 0.852,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "UN climate talks concluded with a compromise deal that increases financial support for poorer countries facing climate change but does not directly address or call for a phase-out of fossil fuels. The agreement, led by Brazil’s COP30 presidency, was accepted by participating nations despite calls for stronger action on fossil fuel reduction. The deal aims to encourage more concrete climate plans in the future.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "The story informs about a recent UN climate deal, its implications for poorer countries, and the ongoing controversy around fossil fuel phase-out. It provides awareness about the current state of international climate policy but lacks a deeper examination of potential solutions or progress.",
     "constructiveness_source": "gpt",
     "is_trending": true,
     "trending_score": 0.75
   },
   {
-    "title": "Trump, NYC Mayor-Elect Mamdani Meet, Pledge Cooperation on City Issues",
-    "domain": "business",
-    "source_domain": "dw.com",
+    "title": "Gunmen Abduct Students, Teachers from Catholic School in Central Nigeria",
+    "domain": "general",
+    "source_domain": "bbc.com",
     "location": "global",
-    "published": "2025-11-21T21:20:00Z",
-    "source": "Deutsche Welle",
+    "published": "Sat, 22 Nov 2025 11:32:39 GMT",
+    "source": "BBC",
     "sources": [
+      "BBC",
       "Deutsche Welle",
-      "ABC News",
       "Reuters",
-      "CNBC"
+      "The Guardian",
+      "New York Times"
     ],
     "domains": [
+      "bbc.com",
       "dw.com",
-      "abcnews.go.com",
       "news.google.com",
-      "cnbc.com"
+      "theguardian.com",
+      "nytimes.com"
     ],
     "snippets": [
-      "After a first face-to-face meeting, US President Donald Trump and New York City Mayor-elect Zohran Mamdani both struck a cordial tone and promised to cooperate, despite their differences.",
-      "Trump and Mamdani committed to working together after a White House meeting on Friday, with Trump sharing that it was a \"very productive meeting\" and saying he will be \"helping him.\"",
-      "Trump and Mamdani met in the Oval Office to discuss affordability and safety in New York City.",
-      "President Trump said he \"would feel very, very comfortable\" living in New York City when Mayor-elect Zohran Mamdani takes office after their meeting at the White House on Friday.",
-      "Trump lavishes praise on New York's mayor-elect Mamdani at warm White House meeting Reuters",
-      "The meeting with Trump was requested by Mamdani, whose victory over ex-New York Gov. Andrew Cuomo in NYC's mayoral race put him at the center of U.S. politics."
+      "The kidnapping comes amid a surge of attacks by armed groups in the African nation.",
+      "A Christian group now says 315 students and teachers were kidnapped in the country's second school abduction in a week. No group has yet taken responsibility for the abductions",
+      "More than 300 taken from Nigeria school in one of worst mass abductions Reuters",
+      "Twelve teachers also kidnapped from Catholic school amid threats from Trump to intervene over ‘Christian genocide’ Unknown gunmen have abducted 215 schoolchildren and 12 teachers from a Catholic school in central Nigeria, the second mass abduction in the country in a week. The latest kidnapping, in",
+      "Students and teachers were taken captive from a Catholic school in the latest in a wave of such attacks in the country."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac15/live/18ee9de0-c78e-11f0-bca8-3f3db1bd72a1.png",
+    "titles": [
+      "Nigeria sees one of worst mass abductions as 315 taken from school",
+      "Nigeria: At least 315 taken in school abduction — report",
+      "More than 300 taken from Nigeria school in one of worst mass abductions - Reuters",
+      "Nigeria reels after 215 children taken in second mass school abduction in a week",
+      "At Least 52 Kidnapped From Nigeria School in Second Mass Abduction This Week"
+    ],
+    "url": "https://www.bbc.com/news/articles/c3w7621xypyo?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://www.dw.com/en/nigeria-at-least-315-taken-in-school-abduction-report/a-74847071?maca=en-rss-en-top-1022-rdf",
+      "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYi1RNFVXcXFyb3JmMEd6cjVBdFVJUkVjMVhuV0Y0ZmpCWE9Pa2JBNXN2bGVJb3lSY2pGY1pNakhkczU5bVF5bkZ4T3BMUmVoc0dPM3J6U1BkTF9mYXVPdG82MWlkdUZfbHlmTy1LSFJiVTdKeEE0UFdxWGl0OEs3LTNTbnJBdE5rbkRSTjZCNlVZRXB0N0dRemRpLTN1cmpKQmU0ejN2bHdEU2xuLTY4OXBsaGgyci1Xc1BMdmZfU1hUQzVG?oc=5",
+      "https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week",
+      "https://www.nytimes.com/2025/11/21/world/africa/nigeria-school-abduction.html"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/news/articles/c3w7621xypyo?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 0.944,
+      "recency": 0.836,
+      "consensus": 0.995,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.846,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "Unknown gunmen abducted an unspecified number of students and teachers from a Catholic school in Niger state, central Nigeria, marking the second mass kidnapping in the country within a week. The incident is part of a series of abductions targeting schools. Authorities have launched rescue efforts, but the victims' whereabouts remain unknown.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story raises awareness about the ongoing issue of mass kidnappings in Nigeria, particularly targeting schools. However, it offers minimal depth or insight into the causes, systems, or impacts of these incidents, and it doesn't report on any solutions or improvements.",
+    "constructiveness_source": "gpt",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "G20 Leaders Urge More Work on US Ukraine Peace Plan, No Deal Reached",
+    "domain": "business",
+    "source_domain": "theguardian.com",
+    "location": "global",
+    "published": "Sat, 22 Nov 2025 15:45:56 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "The Guardian",
+      "Global News",
+      "Bloomberg",
+      "Financial Post"
+    ],
+    "domains": [
+      "theguardian.com",
+      "globalnews.ca",
+      "news.google.com",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "This blog is now closed, you can read more on this story here Leaders from Europe , Canada , Japan and Australia are expected to huddle on the sidelines of the G20 summit on Saturday to “discuss the way ahead on Ukraine”, an EU official said. A European diplomatic source told Agence France-Presse (A",
+      "Ukraine peace talks take centre stage at the G20 Summit in Johannesburg, with the United States, Russia and China notably absent from the summit.",
+      "Cornered Europeans Tell Trump His Ukraine Plan Needs More Work Bloomberg.com",
+      "European leaders and other allies told the US that its peace plan for Ukraine needed “additional work,” in a rushed bid to try and slow walk a Trump administration determined to give concessions to Russia and impose terms by Thanksgiving."
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/8308d1405a36f6736e1e18370e62202c869ca965/688_0_5758_4606/master/5758.jpg?width=140&quality=85&auto=format&fit=max&s=a87de4c2849a8496e77dd4811ea9155e",
+    "titles": [
+      "US plan for Ukraine needs ‘additional work’, say Kyiv’s allies at G20 summit – as it happened",
+      "Carney says U.S. peace plan for Ukraine needs ‘more work’; expert calls it a ‘disaster’",
+      "Cornered Europeans Tell Trump His Ukraine Plan Needs More Work - Bloomberg.com",
+      "Cornered Europeans Tell Trump His Ukraine Plan Needs More Work"
+    ],
+    "url": "https://www.theguardian.com/world/live/2025/nov/22/russia-ukraine-war-trump-peace-plan-g20-zelenskyy-putin-europe-latest-news-updates",
+    "alternate_urls": [
+      "https://globalnews.ca/news/11538762/us-peace-plan-ukraine-g20/",
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUTFMYm1JalM1SXZBNFFON1dJZTFyX1pVQ2NBdllXVzlaLUs4WmtXTjR2dzVjdnoyRVhGSWlUcW16WjltcHVJd21PbE5RckwyN01ndGdZNGRfSFZnTDlEcl90Q1JaVm1KcmMtZnIxZ3FVamE3ckRGaUkwX1RERlRUQWdHM0JHQ3V6WXYtbi1OTlozbjNTZnFXem5wMWhfamZBRlRZNEswREVpYjYyQkJGQw?oc=5",
+      "https://financialpost.com/pmn/business-pmn/europeans-insist-trumps-ukraine-peace-plan-needs-more-work"
+    ],
+    "location_scope": "global",
+    "link": "https://www.theguardian.com/world/live/2025/nov/22/russia-ukraine-war-trump-peace-plan-g20-zelenskyy-putin-europe-latest-news-updates",
+    "score_components": {
+      "magnitude": 0.932,
+      "recency": 0.913,
+      "consensus": 0.908,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.846,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "At the G20 Summit in Johannesburg, leaders from Europe, Canada, Japan, and Australia met to discuss Ukraine peace efforts, with the US, Russia, and China absent. European and allied leaders told the US its proposed Ukraine peace plan needed further development, opposing efforts to quickly reach a deal with Russia. Talks are ongoing, with no agreement reached.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about the ongoing peace efforts for Ukraine, and the stance of various world leaders. However, it does not offer a deep analysis of the situation or potential solutions.",
+    "constructiveness_source": "gpt",
+    "is_trending": true,
+    "trending_score": 0.75
+  },
+  {
+    "title": "Daily Mail Owner Agrees to Buy Telegraph in £500m Deal, Faces Regulator Review",
+    "domain": "business",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Sat, 22 Nov 2025 12:22:39 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "Reuters",
+      "Financial Times",
+      "Financial Post"
+    ],
+    "domains": [
+      "bbc.com",
+      "news.google.com",
+      "ft.com",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "The publisher of the Daily Mail says it is in talks to buy the Daily and Sunday Telegraph for £500m.",
+      "Daily Mail owner strikes $650 million deal to buy the Telegraph Reuters",
+      "Tie-up would create one of the most powerful right-leaning media groups in Britain",
+      "LONDON (AP) — The publisher of Britain’s Daily Mail has entered exclusive talks to buy Telegraph Media Group in a deal that would link two news groups that have traditionally supported the right-leaning Conservative Party. Daily Mail and General Trust plc said on Saturday that the talks were designe"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/138c/live/d7ae3fa0-c154-11f0-9c9a-1124134b6598.jpg",
+    "titles": [
+      "Daily Mail publisher agrees to buy Daily Telegraph for £500m",
+      "Daily Mail owner strikes $650 million deal to buy the Telegraph - Reuters",
+      "Daily Mail owner strikes £500mn deal for Telegraph",
+      "Britain’s Daily Mail publisher enters exclusive talks to buy Telegraph Media Group for $654 million"
+    ],
+    "url": "https://www.bbc.com/news/articles/cx2eg1w0n81o?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTndZQXJqZEw2amYwRmNqZlY0M3NOS2pmNlMzX0c0c2tpanUwUjRfcGFOUjVOcWZLQm9zdTN3cjdNVkxvTW52ci1wNHdkNGFkaUxYZVJOMjJBTXFrQUppUlB4SE9DcW9naUtjc2duZW9vY3pScHRTR2k1ZmpjaHFWSEFUQUFQdmhpZ2JJU2Y3b3JoaEVxdDQ0TTFGMXkta3M0aWtRZE8wYXJXajMtbTk4bW5Lcw?oc=5",
+      "https://www.ft.com/content/cd8e28fc-0936-45f5-83db-0574b657f9d0",
+      "https://financialpost.com/pmn/britains-daily-mail-publisher-enters-exclusive-talks-to-buy-telegraph-media-group-for-654-million"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/news/articles/cx2eg1w0n81o?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 0.912,
+      "recency": 0.851,
+      "consensus": 0.908,
+      "constructiveness": 0.7,
+      "proximity": 0.5
+    },
+    "score": 0.836,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "summary": "The owner of the Daily Mail, Daily Mail & General Trust (DMGT), has agreed to buy the Telegraph newspapers in a £500 million deal with Redbird IMI. The acquisition would create one of Britain's largest right-leaning media groups. The deal is expected to face an in-depth investigation by UK regulators. The agreement is not yet finalized pending regulatory approval.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story provides useful information about a major media acquisition and potential regulatory challenges. However, it lacks depth regarding the potential impacts on media diversity and the public discourse.",
+    "constructiveness_source": "gpt",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "G20 Leaders Call for Revisions to US Ukraine Peace Plan at Johannesburg Summit",
+    "domain": "general",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Sat, 22 Nov 2025 18:23:45 GMT",
+    "source": "Reuters",
+    "sources": [
+      "Reuters",
+      "The Guardian",
+      "New York Times"
+    ],
+    "domains": [
+      "news.google.com",
+      "theguardian.com",
+      "nytimes.com"
+    ],
+    "snippets": [
+      "Western leaders say Ukraine plan needs work, Trump signals scope for changes Reuters",
+      "European leaders say US peace plan for Ukraine needs work Reuters",
+      "G7 and European leaders discuss Ukraine plan on margins of G20, sources say Reuters",
+      "European leaders say Washington’s proposal needs major changes, as Macron warns G20 risks losing relevance Western leaders have said the US peace plan for ending the war in Ukraine “will require additional work” at the G20 summit in Johannesburg, which Trump boycotted. The draft plan , which was lea",
+      "In a joint statement, the leaders reaffirmed their commitment to Ukraine, which faces the prospect of losing American support if it rejects the latest proposal."
     ],
     "image_url": "",
     "titles": [
-      "Trump meets New York City Mayor-elect Mamdani",
+      "Western leaders say Ukraine plan needs work, Trump signals scope for changes - Reuters",
+      "European leaders say US peace plan for Ukraine needs work - Reuters",
+      "G7 and European leaders discuss Ukraine plan on margins of G20, sources say - Reuters",
+      "Western leaders at G20 say US peace plan for Ukraine ‘will require work’",
+      "G20 Leaders Push Back on Trump’s Ukraine Peace Plan"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMm5TYmlndm41QndIMHJSbVo1NEItdjdQeUVxMk1MUWhaWTF6TFh5ZVVFbXdzek15djlOREhqTnQ5VE9Fc3N6QlhubnV5Z0FRODVrVFBlY1FLdzU0VEJEUENhdGpKeWZqamk1RXhKZFRSVU55Uy1UX0Yzdzh1SXhkT2dxTldyeThOaGt3SmR1TjI4OUk5U1ZJQS11UV9GOFZGZkdvMnZPXzlkYm1G?oc=5",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNV9RUXpFRURNQ0ZPWlVrbjJSUlllM1dVSHlaYzY4NTE2Q01vXzd5X0ZQV3RicVJpX1dxLS1JOWVMYkxEbktNWWhjUlRrVnRrV1BTU1EwLWJXbzlWQm1NUnJrREQzYjBmSm9VOEd1VHR0Y1FMZG1TcS1UamRGdlhOMG9TUEc3NWVhWmw4dG82ZkRoeGV1SnZpakhiZi0xUlM3YlBlMA?oc=5",
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHlVRW1QeTRUbDFWVXFCR0t4RWwzRUxLbHpVanItYl9ZOUxuU3J0Y3VtbDhOZFNBX25YakNjN0F4YUI2MlZ3Y192UUh4MjNNb1A4SmtNOUQ0SUFnUFhhcU5QMjFjd3QyaEtWbmVlOXZPQ2NKU21ob3NnWXpVdUVaQlU4dW9sUFBiZ1RFYTgyelFxWk5OZzhEc1VnSkRwRWx5ZTVnTzAydEJGUklYQlplMEx4SlNUejNJNGJ4MlhGVQ?oc=5",
+      "https://www.theguardian.com/world/2025/nov/22/us-peace-plan-ukraine-g20-changes",
+      "https://www.nytimes.com/2025/11/22/world/africa/g20-south-africa-ukraine-russia-united-states.html"
+    ],
+    "location_scope": "global",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMm5TYmlndm41QndIMHJSbVo1NEItdjdQeUVxMk1MUWhaWTF6TFh5ZVVFbXdzek15djlOREhqTnQ5VE9Fc3N6QlhubnV5Z0FRODVrVFBlY1FLdzU0VEJEUENhdGpKeWZqamk1RXhKZFRSVU55Uy1UX0Yzdzh1SXhkT2dxTldyeThOaGt3SmR1TjI4OUk5U1ZJQS11UV9GOFZGZkdvMnZPXzlkYm1G?oc=5",
+    "score_components": {
+      "magnitude": 0.867,
+      "recency": 0.964,
+      "consensus": 0.789,
+      "constructiveness": 0.9,
+      "proximity": 0.5
+    },
+    "score": 0.834,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "At the G20 summit in Johannesburg, Western and European leaders stated that the US peace plan for Ukraine requires significant revisions. French President Macron cautioned that the G20 risks losing relevance. Leaders reaffirmed their support for Ukraine, which may risk losing US backing if it rejects the current proposal. Former President Trump signaled openness to changes but did not attend the summit.",
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story clearly highlights the call for revisions to the US peace plan for Ukraine by G20 leaders. It provides a deeper understanding of the international dynamics and the potential implications for Ukraine. It also empowers readers with knowledge about the ongoing efforts to bring peace to Ukraine.",
+    "constructiveness_source": "gpt",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "G20 Adopts Climate and Debt Declaration Despite US Boycott at South Africa Summi",
+    "domain": "general",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Sat, 22 Nov 2025 18:09:05 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Reuters",
+      "Globe and Mail"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "World leaders broke with tradition and quickly adopted a new declaration at the start of the G20 summit.",
+      "G20 summit in South Africa adopts declaration despite US boycott, opposition Reuters",
+      "G20 leaders release declaration on climate change and debt, defying U.S. pressure The Globe and Mail",
+      "The summit declaration urges more help against the climate crisis and reduced debt burden for poor countries."
+    ],
+    "image_url": "",
+    "titles": [
+      "G20 leaders adopt new declaration, even as US boycotts summit",
+      "G20 summit in South Africa adopts declaration despite US boycott, opposition - Reuters",
+      "G20 leaders release declaration on climate change and debt, defying U.S. pressure - The Globe and Mail",
+      "Historic South Africa G20 summit declaration prioritises developing world"
+    ],
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/g20-leaders-adopt-new-declaration-even-as-us-boycotts-summit?traffic_source=rss",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb3hRNU9yVldsQ1ZyLWVOWmhjSk4yZUZfcmhjUWlraHRlQWlUVzNUMjVhQ0hxQTAzbms4TTFDbFNHRTdBSjlGWDJhaW5qSUJ1RkVtaWR4QnFPQVZIVElRaW5JcWJXS2tpTHRNUVJFQ2pISWs2VnpDY3Ywc1pLcG5vaHpuNV9zV1BzU0ZtbHdKRjEwd2J0YUZNclZsUHZ3R3pDZVktTzlTX2tlRHIzejl1OTVLcHAyM2lKTnRLSzMxbU9iSkh2aXlOV0tabzM?oc=5",
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmdNbjJzQXJFS1hERXVQWkZjRU10MVVRUERjZ3p3SmlBQi1zdnIyN1J3X01Rd1ZxcHJfdVZGbnp4LUtDc0swV0VKdTQweDhIT2ZPeXpTUWpCWmV4Vi1nTXRLS2lFdmgyT0VRQ0ZlUnUtQWE5dDRlUHFhdVNZc2FRdUZMaWJOS0tETUdwajZoMmdfSFNrWkR5aE5XSVFweXdDaUE?oc=5",
+      "https://www.aljazeera.com/news/2025/11/22/south-africa-seeks-to-prioritise-developing-world-at-historic-g20-summit?traffic_source=rss"
+    ],
+    "location_scope": "global",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/11/22/g20-leaders-adopt-new-declaration-even-as-us-boycotts-summit?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.959,
+      "consensus": 0.769,
+      "constructiveness": 0.8,
+      "proximity": 0.5
+    },
+    "score": 0.804,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "At the G20 summit in South Africa, world leaders swiftly adopted a new declaration at the start of the meeting, despite opposition and a boycott from the United States. The declaration calls for increased international support to address the climate crisis and urges efforts to reduce the debt burden on poorer countries. The agreement was reached more quickly than in previous years.",
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story is constructive as it provides useful information about the international response to the climate crisis and debt issues. It increases awareness about the positions of different countries, particularly the US, and the progress being made at the G20 summit. However, it doesn't provide specific solutions or actionable insights for the reader.",
+    "constructiveness_source": "gpt",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "Trump, NYC Mayor-Elect Mamdani Meet, Pledge Cooperation on City Issues",
+    "domain": "business",
+    "source_domain": "abcnews.go.com",
+    "location": "national",
+    "published": "Fri, 21 Nov 2025 17:48:48 -0500",
+    "source": "ABC News",
+    "sources": [
+      "ABC News",
+      "Deutsche Welle",
+      "CNBC",
+      "Reuters"
+    ],
+    "domains": [
+      "abcnews.go.com",
+      "dw.com",
+      "cnbc.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "Trump and Mamdani committed to working together after a White House meeting on Friday, with Trump sharing that it was a \"very productive meeting\" and saying he will be \"helping him.\"",
+      "Trump and Mamdani met in the Oval Office to discuss affordability and safety in New York City.",
+      "President Trump said he \"would feel very, very comfortable\" living in New York City when Mayor-elect Zohran Mamdani takes office after their meeting at the White House on Friday.",
+      "After a first face-to-face meeting, US President Donald Trump and New York City Mayor-elect Zohran Mamdani both struck a cordial tone and promised to cooperate, despite their differences.",
+      "The meeting with Trump was requested by Mamdani, whose victory over ex-New York Gov. Andrew Cuomo in NYC's mayoral race put him at the center of U.S. politics.",
+      "Trump lavishes praise on New York's mayor-elect Mamdani at warm White House meeting Reuters"
+    ],
+    "image_url": "https://s.abcnews.com/images/Politics/251121_abc_social_trump_mamdani_top_hpMain_4x3_384.jpg",
+    "titles": [
       "WATCH:  President Trump congratulates NYC mayor-elect Zohran Mamdani after WH meeting",
       "WATCH:  President Trump says NYC mayor-elect Mamdani wants to 'see New York be great again'",
       "WATCH:  Trump says he'd be 'comfortable' living in NYC after meeting with Mamdani",
-      "Trump lavishes praise on New York's mayor-elect Mamdani at warm White House meeting - Reuters",
-      "Trump praises NYC Mayor-elect Mamdani after White House meeting, shrugs off being called 'fascist'"
+      "Trump meets New York City Mayor-elect Mamdani",
+      "Trump praises NYC Mayor-elect Mamdani after White House meeting, shrugs off being called 'fascist'",
+      "Trump lavishes praise on New York's mayor-elect Mamdani at warm White House meeting - Reuters"
     ],
-    "url": "https://www.dw.com/en/trump-meets-new-york-city-mayor-elect-mamdani/a-74844475?maca=en-rss-en-top-1022-rdf",
+    "url": "https://abcnews.go.com/Politics/video/president-trump-congratulates-nyc-mayor-elect-zohran-mamdani-127767260",
     "alternate_urls": [
-      "https://abcnews.go.com/Politics/video/president-trump-congratulates-nyc-mayor-elect-zohran-mamdani-127767260",
       "https://abcnews.go.com/Politics/video/president-trump-nyc-mayor-elect-mamdani-new-york-127767264",
       "https://abcnews.go.com/US/video/trump-hed-comfortable-living-nyc-after-meeting-mamdani-127767776",
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnhDX3NCQTV4Q1hZa2NlUVhGSWxUUXpDbVVUN3VUbURWQ3dLMzE5Mk1xS2JPQTlENGxsS0gxSHdoN0UwRmI0NjVpZ3NrNHg0d2hYaVRzelh6MnpGYno2ZHUxYnZmVDBXeWxDVU05dFVxZ0prbWFwcWtGRmVmcWIzT0JTNzgtVTVwZmpfenVNRkNFdkJwdXJwME42TjYtVGs3Q0ZMcFU3b1hkZw?oc=5",
-      "https://www.cnbc.com/2025/11/21/trump-mamdani-meeting-white-house-nyc.html"
+      "https://www.dw.com/en/trump-meets-new-york-city-mayor-elect-mamdani/a-74844475?maca=en-rss-en-top-1022-rdf",
+      "https://www.cnbc.com/2025/11/21/trump-mamdani-meeting-white-house-nyc.html",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnhDX3NCQTV4Q1hZa2NlUVhGSWxUUXpDbVVUN3VUbURWQ3dLMzE5Mk1xS2JPQTlENGxsS0gxSHdoN0UwRmI0NjVpZ3NrNHg0d2hYaVRzelh6MnpGYno2ZHUxYnZmVDBXeWxDVU05dFVxZ0prbWFwcWtGRmVmcWIzT0JTNzgtVTVwZmpfenVNRkNFdkJwdXJwME42TjYtVGs3Q0ZMcFU3b1hkZw?oc=5"
     ],
-    "location_scope": "global",
-    "link": "https://www.dw.com/en/trump-meets-new-york-city-mayor-elect-mamdani/a-74844475?maca=en-rss-en-top-1022-rdf",
+    "location_scope": "national",
+    "link": "https://abcnews.go.com/Politics/video/president-trump-congratulates-nyc-mayor-elect-zohran-mamdani-127767260",
     "score_components": {
       "magnitude": 0.912,
-      "recency": 0.764,
+      "recency": 0.641,
       "consensus": 0.908,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.829,
-    "summary_source": "gpt",
+    "score": 0.804,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "US President Donald Trump and New York City Mayor-elect Zohran Mamdani met at the White House on Friday for their first face-to-face meeting. Both leaders described the discussion as productive and pledged to cooperate on issues such as affordability and safety in New York City. Trump expressed confidence in Mamdani's leadership and said he would support him. The meeting followed Mamdani's recent mayoral victory over former Governor Andrew Cuomo.",
     "constructiveness_score": 0.8,
     "constructiveness_reason": "The story informs about the cooperation between two political figures which could lead to progress on city issues. However, it doesn't provide specific details about the solutions or improvements they plan to implement.",
-    "constructiveness_source": "gpt",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Jake Paul to Face Anthony Joshua in Netflix Boxing Match on December 19",
-    "domain": "sports",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Sat, 22 Nov 2025 08:00:44 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Forbes",
-      "Sports Illustrated",
-      "Bleacher Report"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "forbes.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Social media boxing star Jake Paul predicts big win over two-time heavyweight champ Anthony Joshua at official launch.",
-      "Eddie Hearn reveals official fight rules for Jake Paul vs Anthony Joshua Netflix boxing match including rounds, gloves, and weight limit for December 19 bout.",
-      "Time Will Tell How Mismatched Jake Paul vs. Anthony Joshua Is Sports Illustrated",
-      "Jake Paul's Wild Diamond Chain for Anthony Joshua Fight Shown Off in Photos Bleacher Report"
-    ],
-    "image_url": "",
-    "titles": [
-      "Jake Paul dwarfed by Anthony Joshua in heavyweight boxing face-off",
-      "Jake Paul Vs. Anthony Joshua Fight Rules Explained",
-      "Time Will Tell How Mismatched Jake Paul vs. Anthony Joshua Is - Sports Illustrated",
-      "Jake Paul's Wild Diamond Chain for Anthony Joshua Fight Shown Off in Photos - Bleacher Report"
-    ],
-    "url": "https://www.aljazeera.com/sports/2025/11/22/jake-paul-dwarfed-by-anthony-joshua-in-heavyweight-fight-face-off?traffic_source=rss",
-    "alternate_urls": [
-      "https://www.forbes.com/sites/brianmazique/2025/11/22/jake-paul-vs-anthony-joshua-fight-rules-explained/",
-      "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUFJDMWV6V0lqWVVfS1JKSnFnb2ZnN3hUSWx4ZXNSNmNpcWM2cUVjbTFLUnp6MDZHM3hQUE5LRFNwMmR1b2VhZDlkNU9ZZDFaZmZvU05GaEUyRDBzN0dkR2NlOGNLU3JxQS1zNGFZbTZ5MzJGOGdUV05xZHlZVjJlcHZPWlcwX2tQQmJxd1F0dw?oc=5",
-      "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFdZaVgyTDJ6MUtiRllPa0FiWEtHazR1X1Z4Qmk3b1pWVTUxNG5TMExrRkNXbWNYc3oxVEctQ3FOOVB4UlJmckpkWGNaZE9lcW11SzJRYXhqamp0ZXYtR3lCcWRtTzhuc09LTmtVYVpIWTBucFZWOHZQZm9Ic1RaUUJ6d3RXRGFRTkNOQlc1aXM4TlBWNG5ONEk3X01kYmpWWTRhcF9VUEpYVEdV?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/sports/2025/11/22/jake-paul-dwarfed-by-anthony-joshua-in-heavyweight-fight-face-off?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.954,
-      "consensus": 0.888,
-      "constructiveness": 0.5,
-      "proximity": 0.5
-    },
-    "score": 0.825,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "Jake Paul and Anthony Joshua will fight in a Netflix-streamed boxing match on December 19. Promoter Eddie Hearn has announced the official rules, including details on rounds, gloves, and weight limits. Jake Paul has publicly predicted a decisive win over Joshua, a two-time heavyweight champion. The matchup has drawn attention for the perceived skill gap between the fighters.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness of an upcoming event but does not provide much depth or insight. There is no information on the implications of the match, the background of the fighters, or the significance of the match in the context of their careers or the sport of boxing.",
-    "constructiveness_source": "gpt",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "49ers Void Brandon Aiyuk's 2026 Guarantees, Future With Team Uncertain",
-    "domain": "sports",
-    "source_domain": "espn.com",
-    "location": "national",
-    "published": "Sat, 22 Nov 2025 02:22:07 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "CBS Sports",
-      "Sportsnet"
-    ],
-    "domains": [
-      "espn.com",
-      "cbssports.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "During training camp, the 49ers voided the guaranteed money receiver Brandon Aiyuk has in his contract for 2026 because he had not been meeting the requirements of that deal, a league source said Friday, confirming a report by The Athletic.",
-      "Aiyuk's status in San Francisco continues to get more and more unclear",
-      "Brandon Aiyuk’s time in San Francisco appears to be coming to an end. Just a year after signing a four-year, $120 million extension, the superstar wide receiver and the 49ers are laying the groundwork to part ways, Dianna Russini and Michael Silver of The Athletic reported on Friday."
-    ],
-    "image_url": "",
-    "titles": [
-      "Source: 49ers voided Aiyuk's guarantees for 2026",
-      "San Francisco 49ers void Brandon Aiyuk's contract guarantees for 2026, per reports",
-      "Report: 49ers void Aiyuk’s 2026 guarantees"
-    ],
-    "url": "https://www.espn.com/nfl/story/_/id/47053369/san-francisco-49ers-voided-guaranteed-money-brandon-aiyuk-deal-2026",
-    "alternate_urls": [
-      "https://www.cbssports.com/nfl/news/san-fransisco-49ers-brandon-aiyuk-contract/"
-    ],
-    "location_scope": "national",
-    "link": "https://www.espn.com/nfl/story/_/id/47053369/san-francisco-49ers-voided-guaranteed-money-brandon-aiyuk-deal-2026",
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.942,
-      "consensus": 0.789,
-      "constructiveness": 0.6,
-      "proximity": 0.75
-    },
-    "score": 0.817,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The San Francisco 49ers have voided the guaranteed money in wide receiver Brandon Aiyuk's contract for 2026 due to unmet requirements, according to league sources. This move follows recent reports that the team and Aiyuk are preparing to part ways, despite his four-year, $120 million extension signed last year. Aiyuk's future with the 49ers is now uncertain.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story informs about a significant development in the contract of a player and the potential implications for his future with the team. However, it does not provide much context or analysis on why the team made this decision, how it affects the player's career, or what it means for the team's strategy going forward.",
-    "constructiveness_source": "gpt",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Indian HAL Tejas Fighter Jet Crashes at Dubai Airshow, Pilot Killed",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Fri, 21 Nov 2025 14:34:43 GMT",
-    "source": "Reuters",
-    "sources": [
-      "Reuters",
-      "Al Arabiya",
-      "CBC News",
-      "Bloomberg",
-      "Associated Press"
-    ],
-    "domains": [
-      "news.google.com",
-      "cbc.ca"
-    ],
-    "snippets": [
-      "Indian Tejas fighter jet crashes in a ball of fire at Dubai Airshow, killing pilot Reuters",
-      "Indian plane crashes during a demonstration at the Dubai air show, AP reports Reuters",
-      "Pilot dies after Indian Tejas fighter jet crashes during Dubai Airshow demo Al Arabiya English",
-      "An Indian HAL Tejas crashed Friday local time while flying a demonstration flight for a crowd at the Dubai Air Show, sending black smoke over the Maktoum International Airport in the Emirates. It wasn't immediately clear if the pilot ejected the aircraft.",
-      "Indian Fighter Jet Crashes During Dubai Air Show Display Bloomberg.com",
-      "Indian fighter jet crashes during a demonstration flight at Dubai Air Show, killing the pilot AP News"
-    ],
-    "image_url": "",
-    "titles": [
-      "Indian Tejas fighter jet crashes in a ball of fire at Dubai Airshow, killing pilot - Reuters",
-      "Indian plane crashes during a demonstration at the Dubai air show, AP reports - Reuters",
-      "Pilot dies after Indian Tejas fighter jet crashes during Dubai Airshow demo - Al Arabiya English",
-      "Pilot killed as Indian fighter jet crashes at Dubai Air Show",
-      "Indian Fighter Jet Crashes During Dubai Air Show Display - Bloomberg.com",
-      "Indian fighter jet crashes during a demonstration flight at Dubai Air Show, killing the pilot - AP News"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVVFiemRzWW1vSThwdUZJNmkycHBmVUhyaHJYRTZBdzBPOHBFSDdVVG90dzA1TG1vNWhDeGpUTGtRb0VPQkpQbk1kSjVNUkY0RkVUNXZET3JwYjhzTUZVSWRLRksxNm9Fell5SFVJdG5ldEIybVpoOEZWSU1XdENxdnROY1REVDE1d0xPU1ROWjYwUEhBWS1ReW9kdTZTNkVUakMyV2hCYzhfUQ?oc=5",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnNjbEFmbm1aMnE0ZEdMT21WSjUxZlJLVHVCSW1JVndQTURPUXlxZURfZ1lhNEJhb0UwWDliaVpVQ3FacVR0S3gxZ2ZBQm45dGFMZEpaZzNUb3R6STg3Ul9TN18yZXFDRHJfR2JyUVJ6NzhJRGFkZURENUdPU2VMaEpFZTZzeUJJZndmbm14MmhHeVV1TlZScjRac3VVRHpLOU16dEw5eWJuOFlScDFrcTlBWV9Odw?oc=5",
-      "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGFfTkhnRVNuLVg4RWsydGFUVm1IcjVrMWFTWnBYUGR5VXlIT3NzNlVBbENya0V6Ui00T1VoTW1Zb1l1X1VzLUJmUXhSVW1BYnZkY3c4THpvcjhrYmVDQnBzTWZoTWlzWS1QNzM5Z1JpVk0yUzVQeV9aMXZ1YkRmbnRpTUlaN0kwQVlKQ3RrbzBNaW9IeXBLUXJhajFkVEJkSEJKRlR30gGrAUFVX3lxTE4wMDdEcDU0MjRfTndQWmxzM1VMNHBWOVZodVdYUTROZUVWVGZlLVpSXzQ2ZnhCUTNQYmNvNTRwY21saEhfX2ZmNWRkTmxoSlVDZ29aNGpLZWpmN3N5SUlzdXRVOVl3dkg4aGRqbVMxUmFBSHY2NkpkVjZaS2RaMmhWc1NOM2Q5d0VDcTZ6Uk1fVi0wSi1mdnJCVENjM3czN0h2Z2x1S29CTGxlVQ?oc=5",
-      "https://www.cbc.ca/news/world/uae-dubai-air-show-accident-9.6987354?cmp=rss",
-      "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjB2aThsMWxPRktidktObVdjYU5mVkNmZVFOc29id01QRDU1UEk5TVJXMXFQZWtibUxra0x3cXdOcncwN3VhMGoxbURRbXJKQUdUZWY0a0dXUTlYNGYyQVFfakdHeWpxMEZlNWhYb01LRGlPbXNkV2xsVUVrdmFWNHlNeHRjbFpFMFNnWmdrRXRneXI0WWZtQ3Q4VTl1VDdtb0JfbGlxTWk4RDFDb3QyNXJUUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNkpZbmxNaXBSNE9aV1h0c3RjTERnRFpxUHZ3OUNtN2tIWWRWQ0pqUmFTeWFJb1prV1hFNEJQRkFrbGs1eGdJLTNkS1dMLVV6dlp0X3Fjd3c5VVhkRmVybjBxVS1aWTdFRU1lb3E1czlnNlVERmw2cWRjcDNmTjk3Q0NwZzI2WEdfS1hnSnZ4MA?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVVFiemRzWW1vSThwdUZJNmkycHBmVUhyaHJYRTZBdzBPOHBFSDdVVG90dzA1TG1vNWhDeGpUTGtRb0VPQkpQbk1kSjVNUkY0RkVUNXZET3JwYjhzTUZVSWRLRksxNm9Fell5SFVJdG5ldEIybVpoOEZWSU1XdENxdnROY1REVDE1d0xPU1ROWjYwUEhBWS1ReW9kdTZTNkVUakMyV2hCYzhfUQ?oc=5",
-    "score_components": {
-      "magnitude": 0.964,
-      "recency": 0.664,
-      "consensus": 0.935,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.814,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "An Indian-made HAL Tejas fighter jet crashed during a demonstration flight at the Dubai Airshow at Al Maktoum International Airport, resulting in the death of the pilot. This marks the second recorded crash of the Tejas, which is central to India's air force modernization efforts. Black smoke was seen at the site following the incident. The Indian Air Force has confirmed the pilot’s death.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "While the story is negative, it provides important information about a significant incident at the Dubai Airshow. It also provides context about the Tejas jet's role in India's air force modernization efforts. However, it doesn't provide any insight into the causes of the crash or potential solutions.",
     "constructiveness_source": "gpt",
     "is_trending": false,
     "trending_score": 0.0
@@ -418,30 +714,30 @@
     "snippets": [
       "President Donald Trump said Friday night that he's \"immediately\" terminating temporary legal protections for Somali migrants living in Minnesota. The state has the nation's largest Somali community.",
       "Trump says he is ending temporary deportation protections for Somalis in Minnesota Reuters",
-      "President claims he is ‘immediately’ terminating temporary protected status in US state with largest Somali community Donald Trump said on Friday night he was “immediately” terminating temporary legal protections for Somali migrants living in Minnesota, further targeting a program seeking to limit d"
+      "Move could affect hundreds of Somalis who fled civil war in their home country Donald Trump said on Friday night that he’s “immediately” terminating temporary legal protections for Somali migrants living in Minnesota , further targeting a program seeking to limit deportations that his administration"
     ],
     "image_url": "",
     "titles": [
       "Trump says he's terminating legal protections for Somali migrants in Minnesota",
       "Trump says he is ending temporary deportation protections for Somalis in Minnesota - Reuters",
-      "Trump says he is ending immigration protections for Somalis in Minnesota"
+      "Trump to end temporary protected status for Somali immigrants in Minnesota"
     ],
     "url": "https://www.npr.org/2025/11/22/g-s1-98867/trump-terminating-protections-somali-minnesota",
     "alternate_urls": [
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZmpXR3RHM09fM0lvYXR5SzFzbFluN3l3djJiaWlpaVhaS0hGcWJoYUNrUUc5bXpLME1ZeUkwRXluNXNWSG1rU1U5MnlSdFZ4RzlnQnM1ZkZwZ0Qxc01hYXpNWlJyQWt5amd3al9qeE5SaXIzYlRrTUpqOTdWZ3ZncE9pSExBWGlMMnA3ZmdodUtwS0Q1YV9YaThoM1lmdVpuNFEwQW1xMGY0aDRWY3ctcW9lWV9rN1oxdzVkTg?oc=5",
-      "https://www.theguardian.com/us-news/2025/nov/21/trump-protections-somalis-minnesota"
+      "https://www.theguardian.com/us-news/2025/nov/22/trump-temporary-protected-status-somali-immigrants"
     ],
     "location_scope": "national",
     "link": "https://www.npr.org/2025/11/22/g-s1-98867/trump-terminating-protections-somali-minnesota",
     "score_components": {
       "magnitude": 0.847,
-      "recency": 0.921,
+      "recency": 0.749,
       "consensus": 0.789,
       "constructiveness": 0.5,
       "proximity": 0.75
     },
-    "score": 0.803,
-    "summary_source": "gpt",
+    "score": 0.769,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "President Donald Trump announced on Friday that he is immediately ending temporary legal protections for Somali migrants living in Minnesota. The decision affects the state's large Somali community and removes their temporary protected status, making them subject to possible deportation. The change takes effect right away.",
     "constructiveness_score": 0.5,
@@ -451,217 +747,108 @@
     "trending_score": 0.0
   },
   {
-    "title": "U.S. Proposes Peace Plan for Ukraine Including Russian Demands, Allies Concerned",
-    "domain": "general",
-    "source_domain": "bbc.com",
+    "title": "Ferran Torres Scores Twice as Barcelona Beat Bilbao 4-0 to Go Top of La Liga",
+    "domain": "sports",
+    "source_domain": "aljazeera.com",
     "location": "global",
-    "published": "Sat, 22 Nov 2025 07:10:14 GMT",
-    "source": "BBC",
+    "published": "Sat, 22 Nov 2025 17:56:53 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "BBC",
-      "Deutsche Welle",
-      "Axios",
-      "Reuters"
+      "Al Jazeera",
+      "ESPN",
+      "Sports Illustrated"
     ],
     "domains": [
-      "bbc.com",
-      "dw.com",
+      "aljazeera.com",
+      "espn.com",
       "news.google.com"
     ],
     "snippets": [
-      "The gathering in South Africa comes as US President Donald Trump gives Ukraine until Thursday to agree to the deal.",
-      "The Kyiv government is facing hard choices after the US presented a plan that seems to favor Moscow's demands. DW has the latest on Russia's full-scale invasion of its neighbor.",
-      "Zelensky and Vance discussed U.S. peace plan for Ukraine Axios",
-      "Putin says U.S. peace plan can be the basis for peace in Ukraine Reuters",
-      "What are the issues of contention in the US peace plan for ending the war in Ukraine? Reuters",
-      "Zelensky says Trump plan forces Ukraine to choose between \"dignity\" and the U.S. Axios"
+      "Ferran Torres scores brace to send Barcelona to the top of La Liga, level with Real Madrid, who face Elche on Sunday.",
+      "All the updates as Barcelona mark their long-awaited return to the Camp Nou stadium by thumping Athletic Club.",
+      "Ferran Torres scored a brace as Barcelona marked their return to the Nou Camp in style with a 4-0 win over 10-man Athletic Bilbao.",
+      "Barcelona Player Ratings vs. Athletic Club: Camp Nou Return Turns Out to Be Special Sports Illustrated"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca04/live/7e8da040-c74f-11f0-91e6-97e22a53c354.jpg",
+    "image_url": "",
     "titles": [
-      "Ukraine allies to hold talks on White House peace plan at G20",
-      "Ukraine: Kyiv discusses US peace plan with European allies",
-      "Zelensky and Vance discussed U.S. peace plan for Ukraine - Axios",
-      "Putin says U.S. peace plan can be the basis for peace in Ukraine - Reuters",
-      "What are the issues of contention in the US peace plan for ending the war in Ukraine? - Reuters",
-      "Zelensky says Trump plan forces Ukraine to choose between \"dignity\" and the U.S. - Axios"
+      "Barcelona thrash Athletic Bilbao 4-0 on emotional return to Camp Nou",
+      "Barcelona vs Athletic Bilbao 4-0: La Liga – as it happened",
+      "Barça marks return to Camp Nou with 4-0 rout",
+      "Barcelona Player Ratings vs. Athletic Club: Camp Nou Return Turns Out to Be Special - Sports Illustrated"
     ],
-    "url": "https://www.bbc.com/news/articles/clyx9xnpll8o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.aljazeera.com/sports/2025/11/22/barcelona-thrash-atletico-bilbao-4-0-on-emotional-return-to-camp-nou?traffic_source=rss",
     "alternate_urls": [
-      "https://www.dw.com/en/ukraine-kyiv-discusses-us-peace-plan-with-european-allies/live-74845963?maca=en-rss-en-top-1022-rdf",
-      "https://news.google.com/rss/articles/CBMickFVX3lxTE5DbWl0ZHdFTzNSOHRtXzNOVzVSMEhOX3ZvVlpDdUZzc25PcmlFTU4tTGV5bF9ZQVE3ZTgxeFRNWlI5dWVYZFM1LWpDT2pEbkVUN2FMNDZmd1NLSDByX18zUWhDWGw4VGRmMmROVzV2WUExQQ?oc=5",
-      "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejRxal84SnJFR0NSTHpIVTZacWxXVVJrdWx2T1BTcWNhblp1RnVlbG42WTk4ZURhZ3ppdXlDWG1jYUN6clhaWS1OWnJQYUhvRWZhLWY3c2VuSjMtbUZBc09TQmJ2amJuRVBiTkR3RjdKUmVCVUJFVmwwOEk0aUVrVWRGTXBoei14NGJ1bGF6eVI3Z2o5c2dhVA?oc=5",
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdUFEMkNpZzI1ZGsxa1NkMWhDbllrUFdyQkVTeUNNRkg4NnJGcHZ3YnpiNy1FSHhReUd1S3RzRkFMLVoxdUlCYnF1S0p6elM0U0dodGdNRjFUQnRwSWhNTFBDY1dxemxWNS1Xb28yTTJndnRYRk04cFJfRU54eERFcS0xbFdSOGt6V0tHNHJaa2VONVZtZUpiWXJZVU81X0tRb1U2anhNVDVxZw?oc=5",
-      "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EY0d3OGJ4ZE1IM3V4MFlHbnlDYVRtU1lXczhwNVhPLU9wLUhoT0VnTzhjQXhYZ2RLNFkwOEFvTDFiNzcyTHdnYWhKMHcxV0Q1eVpXZ2EyM0VxVlRfN0pRaGtOVW5lS1k5NUh4NGg5TVZOMUNuZmEydzFKT21Tdk0?oc=5"
+      "https://www.aljazeera.com/sports/liveblog/2025/11/22/live-barcelona-vs-athletic-bilbao-la-liga?traffic_source=rss",
+      "https://www.espn.com/soccer/report/_/gameId/748272",
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1VNR1RYNzVrLXNBX3lwQ2VsWXlUc0ZHRk5OWUpoT0hhOXZ1dEx2WkkzQXNTUnhmaFJqak9rM3ZEOWQxWE9YbTBndUxEQkdQY1dqNkYtbS03MnQyaVhUS3pINWJuTTB2VWZOUW4ycGlMMHRnLXQ1SlVfd25EOXR3VTZKaGdJaWVzQnNBb2VZejh0T09Uc0FrUDY5RWV0LWVtbWx3?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://www.bbc.com/news/articles/clyx9xnpll8o?at_medium=RSS&at_campaign=rss",
-    "score_components": {
-      "magnitude": 0.932,
-      "recency": 0.938,
-      "consensus": 0.888,
-      "constructiveness": 0.112,
-      "proximity": 0.5
-    },
-    "score": 0.797,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The U.S. has presented Ukraine with a peace plan to end the war with Russia, which reportedly incorporates many Russian demands and requires Ukraine to cede territory. President Zelenskyy stated the plan puts Ukraine at a difficult crossroads, risking either its \"dignity\" or U.S. support. European allies have raised concerns about being excluded from the process. Russia has said the plan could serve as a basis for peace but remains prepared to continue fighting.",
-    "constructiveness_score": 0.112,
-    "constructiveness_reason": "keywords (2): plan, support; semantic: pos_sim=0.08, neg_sim=0.02; semantic_boost=0.01",
-    "constructiveness_source": "heuristic",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Australia Beat England by Eight Wickets in First Ashes Test at Perth",
-    "domain": "sports",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Sat, 22 Nov 2025 09:55:51 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "Yahoo Sports",
-      "Sky Sports"
-    ],
-    "domains": [
-      "bbc.com",
-      "sports.yahoo.com",
-      "skysports.com"
-    ],
-    "snippets": [
-      "England go down to a crushing defeat in the first Ashes Test after Travis Head’s blistering century completes an astonishing Australia fightback in Perth.",
-      "Travis Head's riotous 69-ball hundred smashed Australia to an eight wicket-wicket victory on a frantic second day of the first Ashes Test after England's batting crumbled once again at Perth's Optus Stadium."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bda5/live/f5ab6c10-c787-11f0-a892-01d657345866.jpg",
-    "titles": [
-      "Head leads Australia to crushing defeat of England",
-      "Head smashes Australia to two-day win after England collapse again"
-    ],
-    "url": "https://www.bbc.com/sport/cricket/articles/c98n5nr04jgo?at_medium=RSS&at_campaign=rss",
-    "alternate_urls": [
-      "https://sports.yahoo.com/article/england-danger-another-collapse-perth-071959893.html",
-      "https://www.skysports.com/cricket/news/12040/13473862/the-ashes-travis-head-smashes-australia-to-two-day-win-after-england-collapse-again-in-astonishing-first-test"
-    ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/sport/cricket/articles/c98n5nr04jgo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.aljazeera.com/sports/2025/11/22/barcelona-thrash-atletico-bilbao-4-0-on-emotional-return-to-camp-nou?traffic_source=rss",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.993,
+      "recency": 0.955,
       "consensus": 0.789,
-      "constructiveness": 0.6,
+      "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.795,
+    "score": 0.758,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Australia defeated England by eight wickets in the first Ashes Test at Perth. Travis Head scored a rapid century off 69 balls, leading a strong Australian fightback. England's batting collapsed for the second time in the match, allowing Australia to secure a comfortable victory and take a 1-0 lead in the series.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story provides useful information on the result of a significant cricket match and highlights key performances. However, it does not offer much analysis or context on what this result means for the series, the teams' strategies, or the players' performances in a broader context.",
+    "summary": "Ferran Torres scored twice as Barcelona defeated Athletic Bilbao 4-0 in their first match back at Camp Nou. The win moved Barcelona to the top of La Liga, level on points with Real Madrid, who play Elche on Sunday. Athletic Bilbao finished the match with 10 players.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness of a sports event, but it doesn't provide much depth or insight beyond the game's outcome. It doesn't contribute significantly to the reader's understanding, decision-making, or sense of agency, nor does it report on solutions, improvements, innovations, or attempts to solve problems.",
     "constructiveness_source": "gpt",
     "is_trending": true,
     "trending_score": 0.5
   },
   {
     "title": "Supreme Court Allows Texas to Use 2026 Redistricting Map Amid Legal Dispute",
-    "domain": "general",
+    "domain": "business",
     "source_domain": "npr.org",
     "location": "national",
     "published": "Fri, 21 Nov 2025 20:51:53 -0500",
     "source": "NPR",
     "sources": [
       "NPR",
-      "Al Jazeera",
+      "Fortune",
       "Associated Press"
     ],
     "domains": [
       "npr.org",
-      "aljazeera.com",
+      "fortune.com",
       "news.google.com"
     ],
     "snippets": [
       "The U.S. Supreme Court has temporarily blocked a lower court ruling that found Texas' 2026 congressional redistricting plan pushed by President Trump likely discriminates on the basis of race.",
-      "Texas redrew its voting map as part of President Donald Trump's plan to win extra Republican seats in Congress in 2026.",
+      "The order will remain in place at least for the next few days while the court considers whether to allow the new map favorable to Republicans to be used in the midterm elections.",
       "Supreme Court blocks order that found Texas congressional map is likely racially biased AP News"
     ],
     "image_url": "",
     "titles": [
       "Supreme Court blocks order that found Texas congressional map is likely racially biased",
-      "US Supreme Court blocks order on likely racial bias in new Texas voter map",
+      "Supreme Court Justice Samuel Alito blocks ruling that found the Texas redistricting map pushed by Trump likely discriminates on race",
       "Supreme Court blocks order that found Texas congressional map is likely racially biased - AP News"
     ],
     "url": "https://www.npr.org/2025/11/21/g-s1-98856/supreme-court-texas-congressional-map",
     "alternate_urls": [
-      "https://www.aljazeera.com/news/2025/11/22/us-supreme-court-blocks-order-on-likely-racial-bias-in-new-texas-voter-map?traffic_source=rss",
+      "https://fortune.com/2025/11/22/supreme-court-samuel-alito-texas-redistricting-map-trump-likely-discriminates-race/",
       "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWld0UFV2MEdfM2Jndi1jcHBYWmNCZ0xOenBaZEt5N0ZpT3JoakJsWHdLWG9qdlJDbVkxMVVyUjNGY2Y1alloWGZiQVAwRkxJQ0pOajhhZHdDVzdmX0tfT0hUZWgyZW8tWHN4Q3pGaTVTSmhZZjFteDJfVUEyeXRFbURJMFJOaW5fMHY1aFNMV2o3NmwyVndJamRUYlRMckNYSTN6czk1clhCRzFNbVhMWlVLTm95U3VJS3Nta0Q4TW1Fcm9X?oc=5"
     ],
     "location_scope": "national",
     "link": "https://www.npr.org/2025/11/21/g-s1-98856/supreme-court-texas-congressional-map",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.84,
+      "recency": 0.683,
       "consensus": 0.789,
       "constructiveness": 0.6,
       "proximity": 0.75
     },
-    "score": 0.79,
-    "summary_source": "gpt",
+    "score": 0.758,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "The U.S. Supreme Court has temporarily blocked a lower court ruling that found Texas' 2026 congressional redistricting plan likely discriminates based on race. The redistricting, supported by former President Trump, aimed to increase Republican seats. The Supreme Court's decision allows Texas to use its map while legal challenges continue.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "The story provides useful information about a significant legal decision and its immediate impact on the redistricting process in Texas. However, it could provide more context about the broader implications of the decision, the reasons behind it, and potential responses or solutions.",
-    "constructiveness_source": "gpt",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Trump and Mayor-Elect Mamdani Signal Cooperation After Months of Tension",
-    "domain": "general",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Sat, 22 Nov 2025 04:04:18 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "Al Jazeera",
-      "Axios"
-    ],
-    "domains": [
-      "bbc.com",
-      "aljazeera.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "It was billed as potentially the political showdown of the year - instead, both men gave one another praise.",
-      "President Trump and the mayor-elect adopt a markedly warmer tone after months of insults, catching many off guard.",
-      "5 head-turning moments from Mamdani and Trump's surprisingly cordial meeting Axios"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67af/live/26f109b0-c774-11f0-b0e6-6b19d8000d31.jpg",
-    "titles": [
-      "'I'll be cheering for him': Takeaways from Trump and Mamdani's surprisingly cordial meeting",
-      "‘Cheering for him’: Key takeaways from Trump-Mamdani White House meeting",
-      "5 head-turning moments from Mamdani and Trump's surprisingly cordial meeting - Axios"
-    ],
-    "url": "https://www.bbc.com/news/articles/cvgqd42gl0qo?at_medium=RSS&at_campaign=rss",
-    "alternate_urls": [
-      "https://www.aljazeera.com/news/2025/11/22/great-meeting-key-takeaways-from-trump-mamdani-white-house-meeting?traffic_source=rss",
-      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON09zaEd1NHR4TllSZDZCVzM0bk1WSnM2cWFVR1IwbmhabmhBV0xiOWtMYVhSWEo2TXhacDU0aUlVY3RLcjkzN0RnS3NrOEZXUncwWW9WVFd3YjR5ckF0NHZVRjlkY0Z2VHI4R2JnaFpzM21CTnMwRzhUdW4yYVVtWklteFRZS1NOTjhF?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/news/articles/cvgqd42gl0qo?at_medium=RSS&at_campaign=rss",
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.879,
-      "consensus": 0.789,
-      "constructiveness": 0.7,
-      "proximity": 0.5
-    },
-    "score": 0.789,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "President Trump and mayor-elect Mamdani met after months of public insults but surprised observers by exchanging praise and adopting a much warmer tone. The meeting, expected to be contentious, was cordial, with both leaders signaling a willingness to work together. This marks a notable shift in their previously adversarial relationship.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "The story provides useful information about a significant shift in the relationship between two political figures, which could impact future policy decisions. However, it doesn't provide specific details about any potential solutions or progress they might make together.",
     "constructiveness_source": "gpt",
     "is_trending": false,
     "trending_score": 0.0
@@ -676,45 +863,45 @@
     "sources": [
       "Deutsche Welle",
       "Washington Post",
-      "The Guardian",
-      "New York Times"
+      "New York Times",
+      "The Guardian"
     ],
     "domains": [
       "dw.com",
       "washingtonpost.com",
-      "theguardian.com",
-      "nytimes.com"
+      "nytimes.com",
+      "theguardian.com"
     ],
     "snippets": [
       "Three children were among those injured when a grizzly emerged from the forest in a remote part of Canada and charged a group of 20 kids and their teachers.",
       "Teachers used bear spray and a bear banger to drive the animal away, according to Canadian authorities. A parent said one teacher bore “the whole brunt of it.”",
-      "Two critically hurt after attack on walking trail in British Columbia as police and conservation officers search for bear Eleven people were injured, two of them critically, when a grizzly bear attacked a group of schoolchildren and teachers on a walking trail in British Columbia, Canada. The attack",
-      "The children were among 11 people who were hurt when a grizzly attacked a school group in a remote part of British Columbia, the authorities said."
+      "The children were among 11 people who were hurt when a grizzly attacked a school group in a remote part of British Columbia, the authorities said.",
+      "Two critically hurt after attack on walking trail in British Columbia as police and conservation officers search for bear Eleven people were injured, two of them critically, when a grizzly bear attacked a group of schoolchildren and teachers on a walking trail in British Columbia, Canada. The attack"
     ],
     "image_url": "",
     "titles": [
       "Grizzly bear attack on school group in Canada leaves 4 seriously hurt",
       "Grizzly bear attack in British Columbia seriously injures 3 schoolchildren",
-      "Eleven injured after grizzly bear attacks schoolchildren and teachers in Canada",
-      "3 Children Are Injured in Grizzly Bear Attack in British Columbia"
+      "3 Children Are Injured in Grizzly Bear Attack in British Columbia",
+      "Eleven injured after grizzly bear attacks schoolchildren and teachers in Canada"
     ],
     "url": "https://www.dw.com/en/grizzly-bear-attack-on-school-group-in-canada-leaves-4-seriously-hurt/a-74845534?maca=en-rss-en-top-1022-rdf",
     "alternate_urls": [
       "https://www.washingtonpost.com/world/2025/11/21/grizzly-bear-attack-british-columbia/",
-      "https://www.theguardian.com/world/2025/nov/21/grizzly-bear-attacks-children-teachers-canada-british-columbia",
-      "https://www.nytimes.com/2025/11/21/world/canada/canada-bear-attack-children.html"
+      "https://www.nytimes.com/2025/11/21/world/canada/canada-bear-attack-children.html",
+      "https://www.theguardian.com/world/2025/nov/21/grizzly-bear-attacks-children-teachers-canada-british-columbia"
     ],
     "location_scope": "global",
     "link": "https://www.dw.com/en/grizzly-bear-attack-on-school-group-in-canada-leaves-4-seriously-hurt/a-74845534?maca=en-rss-en-top-1022-rdf",
     "score_components": {
       "magnitude": 0.892,
-      "recency": 0.829,
+      "recency": 0.674,
       "consensus": 0.908,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.785,
-    "summary_source": "gpt",
+    "score": 0.754,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "A grizzly bear attacked a group of 20 schoolchildren and teachers on a walking trail in remote British Columbia, Canada. Eleven people, including three children, were injured, with two in critical condition. Teachers used bear spray and a bear banger to drive the bear away. Police and conservation officers are searching for the animal.",
     "constructiveness_score": 0.3,
@@ -724,312 +911,209 @@
     "trending_score": 0.0
   },
   {
-    "title": "US Boycotts First African G20 Summit, Raising Tensions With South Africa",
-    "domain": "general",
-    "source_domain": "npr.org",
+    "title": "Canadiens' Xhekaj to Debut vs. Maple Leafs; Evans Returns After Injury",
+    "domain": "sports",
+    "source_domain": "globalnews.ca",
     "location": "national",
-    "published": "Fri, 21 Nov 2025 13:48:34 -0500",
-    "source": "NPR",
+    "published": "Sat, 22 Nov 2025 16:58:36 +0000",
+    "source": "Global News",
     "sources": [
-      "NPR",
-      "Deutsche Welle",
-      "Reuters"
+      "Global News",
+      "Sportsnet"
     ],
     "domains": [
-      "npr.org",
-      "dw.com",
-      "news.google.com"
+      "globalnews.ca",
+      "sportsnet.ca"
     ],
     "snippets": [
-      "The U.S. boycotts South Africa's G20 summit, sparking a diplomatic spat and throwing the global gathering into turmoil.",
-      "The G20 is being held in Africa for the very first time, but the US is shunning the event. The EU is hoping to fill the void and expand its global commercial ties.",
-      "G20 host South Africa sees consensus for summit declaration despite US boycott Reuters"
+      "Florian Xhekaj's phone kept ringing as he attempted to get some sleep.",
+      "Montreal Canadiens rookie Florian Xhekaj speaks ahead of making his NHL debut vs. the Toronto Maple Leafs, saying he let his mother know he was coming up to the Canadiens before texting his brother, Arber.",
+      "A hit from Tom Wilson won’t cost Jake Evans any games. The Montreal Canadiens forward will be back in the lineup Saturday when his team hosts the Toronto Maple Leafs on Hockey Night in Canada (Sportsnet, Sportsnet+, 7 p.m. ET / 4 p.m. PT). Evans exited Thursday’s game against the Washington Capitals after Wilson caught him up high in his own end. The Capitals kept the puck in the zone and immediately scored on a Jakob Chychrun slapshot. Evans did not return to the ice and missed practice Friday, but returned to morning skate on Saturday. He has three goals and three assists in 20 contests on..."
     ],
-    "image_url": "",
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/11/0fec189648729616392d76e22a36afb6bc02d4efff2957ca224645e7f3b9fcc7.jpg?quality=65&strip=all",
     "titles": [
-      "South Africa hosts G20 as tensions with U.S. flare amid boycott",
-      "G20: South Africa hosts summit in shadow of US boycott",
-      "G20 host South Africa sees consensus for summit declaration despite US boycott - Reuters"
+      "Canadiens’ Florian Xhekaj set for debut vs. Leafs",
+      "Canadiens’ Florian Xhekaj jacked up for NHL debut alongside brother",
+      "Canadiens’ Jake Evans set to play against Maple Leafs"
     ],
-    "url": "https://www.npr.org/2025/11/21/nx-s1-5615174/south-africa-g20-us-boycott",
-    "alternate_urls": [
-      "https://www.dw.com/en/g20-south-africa-hosts-summit-in-shadow-of-us-boycott/a-74843303?maca=en-rss-en-top-1022-rdf",
-      "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb3hRNU9yVldsQ1ZyLWVOWmhjSk4yZUZfcmhjUWlraHRlQWlUVzNUMjVhQ0hxQTAzbms4TTFDbFNHRTdBSjlGWDJhaW5qSUJ1RkVtaWR4QnFPQVZIVElRaW5JcWJXS2tpTHRNUVJFQ2pISWs2VnpDY3Ywc1pLcG5vaHpuNV9zV1BzU0ZtbHdKRjEwd2J0YUZNclZsUHZ3R3pDZVktTzlTX2tlRHIzejl1OTVLcHAyM2lKTnRLSzMxbU9iSkh2aXlOV0tabzM?oc=5"
-    ],
+    "url": "https://globalnews.ca/news/11538820/canadiens-florian-xhekaj-set-for-debut-vs-leafs/",
+    "alternate_urls": [],
     "location_scope": "national",
-    "link": "https://www.npr.org/2025/11/21/nx-s1-5615174/south-africa-g20-us-boycott",
+    "link": "https://globalnews.ca/news/11538820/canadiens-florian-xhekaj-set-for-debut-vs-leafs/",
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.725,
-      "consensus": 0.789,
-      "constructiveness": 0.6,
-      "proximity": 0.75
+      "magnitude": 0.735,
+      "recency": 0.936,
+      "consensus": 0.591,
+      "constructiveness": 0.3,
+      "proximity": 1.0
     },
-    "score": 0.774,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The United States has boycotted the G20 summit in Johannesburg, marking the first time the event is held in Africa. This move has led to heightened diplomatic tensions between the US and South Africa. The European Union is seeking to increase its influence at the summit amid the US absence. The dispute continues, with both sides exchanging criticisms.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story provides a basic understanding of the diplomatic tensions between the US and South Africa due to the US boycott of the G20 Summit. However, it does not provide deeper insights into the reasons for the boycott, its implications, or potential solutions to the issue.",
-    "constructiveness_source": "gpt",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Over 200 Students, Staff Kidnapped from Nigerian Catholic School; Search Ongoing",
-    "domain": "general",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Sat, 22 Nov 2025 01:50:11 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "Deutsche Welle",
-      "Reuters"
-    ],
-    "domains": [
-      "bbc.com",
-      "dw.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "The Christian Association of Nigeria said 215 students and 12 members of staff were taken during the raid on Friday.",
-      "Police and military forces have been deployed to search for the missing students. A series of similar attacks has put Nigeria's security in the spotlight.",
-      "Over 200 students kidnapped from Nigerian school, Christian Association of Nigeria says Reuters",
-      "Gunmen in Nigeria kidnap over 200 Catholic school students, Christian association says Reuters"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5c1/live/5f061350-c6fb-11f0-a863-434ee92aa5e3.png",
-    "titles": [
-      "Gunmen abduct more than 200 pupils from Nigerian Catholic school",
-      "Nigeria: Over 200 students abducted from Catholic school",
-      "Over 200 students kidnapped from Nigerian school, Christian Association of Nigeria says - Reuters",
-      "Gunmen in Nigeria kidnap over 200 Catholic school students, Christian association says - Reuters"
-    ],
-    "url": "https://www.bbc.com/news/articles/cj4qxvy74qyo?at_medium=RSS&at_campaign=rss",
-    "alternate_urls": [
-      "https://www.dw.com/en/nigeria-over-200-students-abducted-from-catholic-school/a-74831286?maca=en-rss-en-top-1022-rdf",
-      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUWIwLVpfRnRyMExGSEFQYXNUVXNsaVpBUHgtRnFlS1VpUWJWMVlNdnZFdEF5Wmg5UEJNTFc5Mk1rNUNnOFBTNkJtZlNOaW5iMi1odWhmQno2cHFpNTgtMC1feEo0TkhORHVXX1JyNU43dkx4d21mTWpKWWxpWC1Id1NQYVBKVGF4bzdIVXlJSUZvNEF4bHYtejB3QTNScEpWbnA3dEIyS2xrakF4SDBOekhxRktIZFlHQ0lVd05PQ1F3V0pNYkE?oc=5",
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTllub19renlhV05PbE5RUE95eVJuVjh3bUpuSk1JTDRVOXhpWUxHNFBnczdWY1FOUk9SaDJ4dTdBdG9OYVZZdGJzTGNTQVhuVWgyWm0taFRINHUxQVAyX09WclFsRGFmM0xqeXhyZ1A2SG5JUVZTRmhwenB5eWNoU29TdWZVMXRqeVNocmNEdVNHeHFiVjZKOTdHUGtkU2VoVzY3a0tEemUwUQ?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/news/articles/cj4qxvy74qyo?at_medium=RSS&at_campaign=rss",
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.839,
-      "consensus": 0.789,
-      "constructiveness": 0.5,
-      "proximity": 0.5
-    },
-    "score": 0.755,
+    "score": 0.722,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Gunmen kidnapped at least 215 students and 12 staff members from a Catholic school in Nigeria on Friday, according to the Christian Association of Nigeria. Police and military forces have been deployed to search for the missing individuals. The incident is part of a series of similar attacks that have raised concerns about security in the country. The students and staff remain missing as search efforts continue.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "While the story raises awareness about a serious security issue in Nigeria, it doesn't provide any deeper understanding or actionable insights for the reader. It also doesn't report on any potential solutions or attempts to address the larger problem.",
+    "summary": "Montreal Canadiens rookie Florian Xhekaj is set to make his NHL debut against the Toronto Maple Leafs, having informed his family of his call-up. Teammate Jake Evans, who left Thursday’s game after a high hit from Tom Wilson and missed Friday’s practice, has recovered and will return to the lineup Saturday. Evans has three goals and three assists in 20 games this season.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about a sports event and player injuries. However, it doesn't provide deeper understanding or actionable insights. It doesn't report on solutions, improvements, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
     "constructiveness_source": "gpt",
-    "is_trending": false,
-    "trending_score": 0.0
+    "is_trending": true,
+    "trending_score": 0.5
   },
   {
-    "title": "U.S. Proposes Peace Plan for Ukraine Including Russian Demands, Allies Concerned",
-    "domain": "general",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Sat, 22 Nov 2025 03:56:00 GMT",
-    "source": "Reuters",
+    "title": "Bengals' Joe Burrow Out vs. Patriots With Turf Toe; Flacco to Start Again",
+    "domain": "sports",
+    "source_domain": "espn.com",
+    "location": "national",
+    "published": "Sat, 22 Nov 2025 14:43:05 EST",
+    "source": "ESPN",
     "sources": [
-      "Reuters",
-      "CBC News",
-      "Associated Press"
+      "ESPN",
+      "Sportsnet"
     ],
     "domains": [
-      "news.google.com",
-      "cbc.ca"
+      "espn.com",
+      "sportsnet.ca"
     ],
     "snippets": [
-      "Ukraine faces 'difficult choice' as Trump demands acceptance of peace plan Reuters",
-      "Ukraine may face a hard choice at a pivotal point in its almost four-year fight to defeat Russia's full-scale invasion, President Volodymyr Zelenskyy told Ukrainians in a national address Friday, pledging to hold constructive discussions with Washington on a U.S. peace proposal in what he called \"tr",
-      "Zelenskyy says Ukraine faces a stark choice and risks losing American support over US peace plan AP News"
+      "Bengals quarterback Joe Burrow will not play against the Patriots, meaning Joe Flacco will make his sixth straight start.",
+      "The Cincinnati Bengals quarterback won’t return from his turf toe injury on Sunday against the New England Patriots despite being listed as questionable, per multiple reports on Saturday."
     ],
     "image_url": "",
     "titles": [
-      "Ukraine faces 'difficult choice' as Trump demands acceptance of peace plan - Reuters",
-      "Zelenskyy says Ukraine may face 'very difficult choice' as U.S. gives deadline on peace plan",
-      "Zelenskyy says Ukraine faces a stark choice and risks losing American support over US peace plan - AP News"
+      "Bengals QB Burrow won't be activated vs. Pats",
+      "Reports: Bengals QB Burrow won’t play against Patriots"
     ],
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcGN0LVhuWmJkRUdEWGlxbjRBT3JYX1lwZ3Q2WjVyS2ZfOXVHWDlxcXc0aVAyYlJNNUdndUVOeEdjeW82VWNWYmQxSTU0T2JaQXhZREp3dE14NTNWaTlFVTM0Vnl1QU1odW83NVltZzlnUzFVOUltOXNtOHZ1U1Q0Nk5BMjVPcnRfUnJrcTU3WG1waWpfT1llVGgzV0g1Q2pSQnJXYllCLUhkeGhONnZOZDEtby04V3o2bGtz?oc=5",
-    "alternate_urls": [
-      "https://www.cbc.ca/news/world/ukraine-zelenskyy-us-russia-peace-plan-9.6987695?cmp=rss",
-      "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0NPZWpCMHBVeFFJYW5zX3pELUsydXJTRnJLRVFzR0dVdmk1VTVpaVZvT3RRNXdWLUQtbGVScXN5ak9jSkE5UnZUcFFhTnRXLVNRV0piSnFwemNfWTVGZEJudzBrZlVSajlOOTlVbmxUWXBjX05vZTdFWjZwMlFBdG03YjlJN1NuYkVCLWRyc2Q1WFdRV21mZHhOX0pYbTdVOTFVbm11SXFWV0dGTWp4TWNn?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcGN0LVhuWmJkRUdEWGlxbjRBT3JYX1lwZ3Q2WjVyS2ZfOXVHWDlxcXc0aVAyYlJNNUdndUVOeEdjeW82VWNWYmQxSTU0T2JaQXhZREp3dE14NTNWaTlFVTM0Vnl1QU1odW83NVltZzlnUzFVOUltOXNtOHZ1U1Q0Nk5BMjVPcnRfUnJrcTU3WG1waWpfT1llVGgzV0g1Q2pSQnJXYllCLUhkeGhONnZOZDEtby04V3o2bGtz?oc=5",
-    "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.877,
-      "consensus": 0.769,
-      "constructiveness": 0.112,
-      "proximity": 0.5
-    },
-    "score": 0.732,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The U.S. has presented Ukraine with a peace plan to end the war with Russia, which reportedly incorporates many Russian demands and requires Ukraine to cede territory. President Zelenskyy stated the plan puts Ukraine at a difficult crossroads, risking either its \"dignity\" or U.S. support. European allies have raised concerns about being excluded from the process. Russia has said the plan could serve as a basis for peace but remains prepared to continue fighting.",
-    "constructiveness_score": 0.112,
-    "constructiveness_reason": "keywords (2): plan, support; semantic: pos_sim=0.08, neg_sim=0.02; semantic_boost=0.01",
-    "constructiveness_source": "heuristic",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Daily Mail Owner Agrees to Buy Telegraph in £500m Deal, Faces Regulator Review",
-    "domain": "business",
-    "source_domain": "ft.com",
-    "location": "global",
-    "published": "Sat, 22 Nov 2025 09:56:17 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times",
-      "The Guardian"
-    ],
-    "domains": [
-      "ft.com",
-      "theguardian.com"
-    ],
-    "snippets": [
-      "Tie-up would create one of the most powerful right-leaning media groups in Britain",
-      "Acquisition likely to trigger in-depth investigation by regulator after agreement between DMGT and Redbird IMI The owner of the Daily Mail has struck a £500m deal to buy the Telegraph titles, in a move that will create a right-leaning publishing powerhouse. Lord Rothermere’s Daily Mail & General Tru"
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9fe27fc0-972b-41c8-a8e1-c0ea395a6f33.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Daily Mail owner strikes £500mn deal for Telegraph",
-      "Daily Mail owner strikes £500m deal to buy Telegraph titles"
-    ],
-    "url": "https://www.ft.com/content/cd8e28fc-0936-45f5-83db-0574b657f9d0",
-    "alternate_urls": [
-      "https://www.theguardian.com/media/2025/nov/22/daily-mail-owner-strikes-deal-buy-telegraph-titles-rothermere"
-    ],
-    "location_scope": "global",
-    "link": "https://www.ft.com/content/cd8e28fc-0936-45f5-83db-0574b657f9d0",
+    "url": "https://www.espn.com/nfl/story/_/id/47059317/sources-bengals-qb-joe-burrow-activated-patriots",
+    "alternate_urls": [],
+    "location_scope": "national",
+    "link": "https://www.espn.com/nfl/story/_/id/47059317/sources-bengals-qb-joe-burrow-activated-patriots",
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.993,
+      "recency": 0.991,
       "consensus": 0.591,
-      "constructiveness": 0.7,
-      "proximity": 0.5
+      "constructiveness": 0.3,
+      "proximity": 0.75
     },
-    "score": 0.731,
+    "score": 0.715,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The owner of the Daily Mail, Daily Mail & General Trust (DMGT), has agreed to buy the Telegraph newspapers in a £500 million deal with Redbird IMI. The acquisition would create one of Britain's largest right-leaning media groups. The deal is expected to face an in-depth investigation by UK regulators. The agreement is not yet finalized pending regulatory approval.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story provides useful information about a major media acquisition and potential regulatory challenges. However, it lacks depth regarding the potential impacts on media diversity and the public discourse.",
+    "summary": "Cincinnati Bengals quarterback Joe Burrow will not play against the New England Patriots on Sunday due to a turf toe injury, despite being listed as questionable. Joe Flacco will start for the sixth consecutive game in Burrow's absence. The team confirmed Burrow's continued recovery as the reason for his non-participation.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "The story provides basic information about Joe Burrow's injury and Joe Flacco starting in his place. However, it doesn't provide any in-depth analysis or actionable insights.",
     "constructiveness_source": "gpt",
     "is_trending": false,
     "trending_score": 0.25
   },
   {
-    "title": "Raptors Beat Wizards 140-110, Advance to NBA Cup Quarterfinals for First Time",
+    "title": "Kawhi Leonard to Return Sunday; Chris Paul Expected to Retire After Season",
     "domain": "sports",
-    "source_domain": "globalnews.ca",
+    "source_domain": "espn.com",
     "location": "national",
-    "published": "Sat, 22 Nov 2025 04:41:54 +0000",
-    "source": "Global News",
+    "published": "Sat, 22 Nov 2025 14:43:05 EST",
+    "source": "ESPN",
     "sources": [
-      "Global News",
+      "ESPN",
       "Sportsnet"
     ],
     "domains": [
-      "globalnews.ca",
+      "espn.com",
       "sportsnet.ca"
     ],
     "snippets": [
-      "Toronto Raptors head coach Darko Rajakovic doesn't like to get ahead of himself, instead having his players just focus on the game in front of them.",
-      "Brandon Ingram had 24 points, eight rebounds and six assists as the Toronto Raptors routed the Washington Wizards 140-110 on Friday to advance in the Emirates NBA Cup.",
-      "The biggest development after the Raptors cruised past the Wizards was that the effort earned them a chance to play against better opponents for higher stakes. Michael Grange has the story after Toronto punched its ticket to the NBA Cup quarterfinals.",
-      "Matt Devlin and Alvin Williams discuss how the Raptors used a huge third quarter to secure a business-like win over the Wizards and advance in the NBA Cup for the first time, and touch on Sandro Mamukeleshvili’s perseverant second-half performance."
+      "The Clippers are planning to have star forward Kawhi Leonard return to action in Sunday's road game against the Cavaliers, sources told ESPN's Shams Charania.",
+      "Forward Kawhi Leonard will return to the lineup against the Cleveland Cavaliers after being sidelined by a foot injury, NBA insider Chris Haynes reported on Saturday.",
+      "Chris Paul will walk off into the sunset after this campaign with the Los Angeles Clippers, ESPN’s Shams Charania reported Saturday."
     ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/11/3b79a35a2a2656a36df7d801251fb3ccc6f247bc6ff08c452ee5f85385084592.jpg?quality=65&strip=all",
+    "image_url": "",
     "titles": [
-      "Raptors advance to NBA Cup’s quarterfinals",
-      "Raptors advance to knockout round of NBA Cup",
-      "Raptors earn high-stakes opportunity with NBA Cup quarterfinals berth",
-      "Raptors dominate against Wizards to advance to knockout round in NBA Cup"
+      "Sources: Clips plan for Kawhi to return vs. Cavs",
+      "Report: Clippers’ Kawhi Leonard set to return Sunday against Cavaliers",
+      "Report: Clippers’ Chris Paul set to retire after season"
     ],
-    "url": "https://globalnews.ca/news/11538504/raptors-advance-to-nba-cups-quarterfinals/",
-    "alternate_urls": [
-      "https://globalnews.ca/news/11538412/raptors-advance-to-knockout-round-of-nba-cup/"
-    ],
-    "location_scope": "national",
-    "link": "https://globalnews.ca/news/11538504/raptors-advance-to-nba-cups-quarterfinals/",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.891,
-      "consensus": 0.591,
-      "constructiveness": 0.3,
-      "proximity": 1.0
-    },
-    "score": 0.713,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "summary": "The Toronto Raptors defeated the Washington Wizards 140-110 on Friday, securing a spot in the NBA Cup quarterfinals for the first time. Brandon Ingram led the Raptors with 24 points, eight rebounds, and six assists. A strong third quarter contributed to the decisive win. The team will now face tougher opponents as the tournament continues.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "The story provides basic awareness of the NBA Cup and the Raptors' progress, but it doesn't offer deep insights or actionable information. It doesn't increase clarity around systems, causes, trends, or impacts that matter.",
-    "constructiveness_source": "gpt",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Staal Scores Twice as Hurricanes Edge Jets 4-3; Comrie Makes 24 Saves in Loss",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Sat, 22 Nov 2025 04:09:09 +0000",
-    "source": "Global News",
-    "sources": [
-      "Global News",
-      "Sportsnet"
-    ],
-    "domains": [
-      "globalnews.ca",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "Nikolaj Ehlers assisted on the game-winning goal early in the third while Eric Comrie stopped 24 shots with Connor Hellebuyck shelved due to knee surgery.",
-      "Jordan Staal scored twice in a 4-3 Carolina Hurricanes victory Friday that put a damper on Eric Comrie’s first game as the Winnipeg Jets’ starting goaltender."
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/11/CP175356351.jpg?quality=65&strip=all",
-    "titles": [
-      "Winnipeg Jets fall to Hurricanes 4-3 in Ehlers’ return to Winnipeg",
-      "Hurricanes defeat Hellebuyck-less Jets on night of Ehlers’ return to Winnipeg"
-    ],
-    "url": "https://globalnews.ca/news/11538181/winnipeg-jets-fall-to-hurricanes-4-3-in-ehlers-return-to-winnipeg/",
+    "url": "https://www.espn.com/nba/story/_/id/47060386/sources-clippers-plan-kawhi-leonard-return-vs-cavaliers",
     "alternate_urls": [],
     "location_scope": "national",
-    "link": "https://globalnews.ca/news/11538181/winnipeg-jets-fall-to-hurricanes-4-3-in-ehlers-return-to-winnipeg/",
+    "link": "https://www.espn.com/nba/story/_/id/47060386/sources-clippers-plan-kawhi-leonard-return-vs-cavaliers",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.881,
+      "recency": 0.991,
       "consensus": 0.591,
       "constructiveness": 0.3,
-      "proximity": 1.0
+      "proximity": 0.75
     },
-    "score": 0.711,
+    "score": 0.708,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Jordan Staal scored twice as the Carolina Hurricanes defeated the Winnipeg Jets 4-3 on Friday. Nikolaj Ehlers assisted on the Jets' game-winning goal in the third period. Eric Comrie, starting in goal for Winnipeg due to Connor Hellebuyck's knee surgery, made 24 saves in his first start but the Jets lost the game.",
+    "summary": "Kawhi Leonard is set to return to the Los Angeles Clippers' lineup in Sunday's game against the Cleveland Cavaliers after missing time with a foot injury, according to multiple sources. Additionally, veteran guard Chris Paul is expected to retire following the conclusion of this NBA season with the Clippers.",
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness of the game between the Hurricanes and the Jets, as well as the performance of specific players. However, it lacks depth and doesn't provide actionable insights or a deeper understanding of the sport or its impact.",
+    "constructiveness_reason": "This story offers basic awareness about the return of Kawhi Leonard and the expected retirement of Chris Paul. However, it lacks deeper insights or actionable information for the reader.",
     "constructiveness_source": "gpt",
-    "is_trending": false,
-    "trending_score": 0.0
+    "is_trending": true,
+    "trending_score": 0.5
   },
   {
-    "title": "Australia Beat England by 8 Wickets in First Ashes Test in Perth",
+    "title": "NFL Week 12 Matchups Set; Wisconsin Offense Under Scrutiny in College Football",
+    "domain": "sports",
+    "source_domain": "cbssports.com",
+    "location": "national",
+    "published": "Sat, 22 Nov 2025 19:57:38 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "CBS Sports",
+      "Yahoo Sports"
+    ],
+    "domains": [
+      "cbssports.com",
+      "sports.yahoo.com"
+    ],
+    "snippets": [
+      "How to bet Minnesota Vikings vs. Green Bay Packers in NFL Week 12 action",
+      "How to bet Indianapolis Colts vs. Kansas City Chiefs in an NFL Week 12 matchup on CBS and Paramount+",
+      "How to bet New York Giants vs. Detroit Lions in NFL Week 12 action",
+      "How to bet Cincinnati Bengals vs. New England Patriots in an NFL Week 12 matchup on CBS and Paramount+",
+      "How to bet Pittsburgh Steelers vs. Chicago Bears in an NFL Week 12 matchup on CBS and Paramount+",
+      "Will Wisconsin’s offense finally come to life?"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/11/19/e52f4ab7-e45b-47b4-a562-a2e206f10a2e/jordan-love-imagn.jpg",
+    "titles": [
+      "Vikings vs. Packers: Where to watch NFL Week 12, betting odds, score prediction, sportsbook promos, SGP picks",
+      "Colts vs. Chiefs: Where to watch NFL Week 12, betting odds, score prediction, sportsbook promos, SGP picks",
+      "Giants vs. Lions: Where to watch NFL Week 12, betting odds, score prediction, sportsbook promos, SGP picks",
+      "Bengals vs. Patriots: Where to watch NFL Week 12, betting odds, score prediction, sportsbook promos, SGP picks",
+      "Steelers vs. Bears: Where to watch NFL Week 12, betting odds, score prediction, sportsbook promos, SGP picks",
+      "Wisconsin vs. Illinois: Picks, Odds, and Prediction"
+    ],
+    "url": "https://www.cbssports.com/nfl/news/vikings-packers-where-to-watch-nfl-week-12-betting-odds-score-prediction-sportsbook-promos-sgp-picks/",
+    "alternate_urls": [
+      "https://www.cbssports.com/nfl/news/colts-chiefs-where-to-watch-nfl-week-12-betting-odds-score-prediction-sportsbook-promos-sgp-picks/",
+      "https://www.cbssports.com/nfl/news/giants-lions-where-to-watch-nfl-week-12-betting-odds-score-prediction-sportsbook-promos-sgp-picks/",
+      "https://www.cbssports.com/nfl/news/bengals-patriots-where-to-watch-nfl-week-12-betting-odds-score-prediction-sportsbook-promos-sgp-picks/",
+      "https://www.cbssports.com/nfl/news/steelers-bears-where-to-watch-nfl-week-12-betting-odds-score-prediction-sportsbook-promos-sgp-picks/",
+      "https://sports.yahoo.com/article/wisconsin-vs-illinois-picks-odds-194500707.html"
+    ],
+    "location_scope": "national",
+    "link": "https://www.cbssports.com/nfl/news/vikings-packers-where-to-watch-nfl-week-12-betting-odds-score-prediction-sportsbook-promos-sgp-picks/",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.996,
+      "consensus": 0.591,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.704,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "summary": "Multiple NFL Week 12 matchups are scheduled, including Vikings vs. Packers, Colts vs. Chiefs, Giants vs. Lions, Bengals vs. Patriots, and Steelers vs. Bears, with coverage on CBS and Paramount+. Betting guides are available for each game. In college football, there is ongoing discussion about whether Wisconsin’s offense will improve, but no outcome has been reported yet.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story offers basic awareness about the upcoming NFL Week 12 matchups and the scrutiny of Wisconsin's offense. It provides a bit more depth by mentioning betting guides and the ongoing discussion about Wisconsin's offense, but it still lacks actionable insights or solutions.",
+    "constructiveness_source": "gpt",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "Newcastle Defeat Man City 2-1 for First League Win Over Guardiola Under Howe",
     "domain": "sports",
     "source_domain": "sports.yahoo.com",
     "location": "national",
-    "published": "Sat, 22 Nov 2025 09:44:12 +0000",
+    "published": "Sat, 22 Nov 2025 19:52:00 +0000",
     "source": "Yahoo Sports",
     "sources": [
       "Yahoo Sports",
@@ -1040,281 +1124,187 @@
       "theguardian.com"
     ],
     "snippets": [
-      "PERTH, Australia (AP) — Australia has won the first Ashes cricket test against England by 8 wickets with three days to spare.",
-      "Hosts reach their target after another wild day in Perth Ashes top 100 players | Get The Spin newsletter | Mail Rob 43rd over: Australia 131-9 (Lyon 4, Doggett 6) And on it goes for Doggett. Another clunky drive, this time through mid on, gets him back for a second run. Fourth ball of the over he fi"
+      "Newcastle United defeated Manchester City 2-1 in the Premier League at St.James’ Park on Saturday evening.Newcastle should have scored inside the first minute, when Gianluigi Donnarumma’s poor pas...",
+      "Newcastle’s recent slide left them 15th in the Premier League at kick-off but, by the end of an always absorbing, sometimes almost anarchic, eveningthey had ascended to Cloud Nine. It is very hard to argue that Eddie Howe is not an elite coach but, until this watershed win, his record against Pep Gu"
     ],
     "image_url": "",
     "titles": [
-      "Australia has won the first Ashes cricket test against England by 8 wickets with three days to spare",
-      "Australia v England: Head blasts hosts to eight-wicket Ashes win in first Test inside two days – live"
+      "Harvey Barnes equals Alan Shearer&#8217;s 22-year record as Newcastle beat Man City",
+      "Harvey Barnes double helps Newcastle derail Manchester City revival"
     ],
-    "url": "https://sports.yahoo.com/article/australia-won-first-ashes-cricket-094412153.html",
+    "url": "https://sports.yahoo.com/article/harvey-barnes-equals-alan-shearer-195200559.html",
     "alternate_urls": [
-      "https://www.theguardian.com/sport/live/2025/nov/22/australia-vs-england-live-ashes-first-1st-test-day-two-aus-v-eng-cricket-scores-updates-perth"
+      "https://www.theguardian.com/football/2025/nov/22/newcastle-manchester-city-premier-league-match-report"
     ],
     "location_scope": "national",
-    "link": "https://sports.yahoo.com/article/australia-won-first-ashes-cricket-094412153.html",
+    "link": "https://sports.yahoo.com/article/harvey-barnes-equals-alan-shearer-195200559.html",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.989,
+      "recency": 0.994,
       "consensus": 0.591,
-      "constructiveness": 0.3,
+      "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.683,
+    "score": 0.704,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "Australia won the first Ashes cricket test against England by 8 wickets in Perth, finishing the match with three days to spare. The hosts comfortably reached their target, securing an early lead in the Ashes series.",
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic information about the first Ashes cricket test between Australia and England. It doesn't offer deep insights, actionable information, or an understanding of the systems, causes, trends, or impacts involved in the sport.",
+    "summary": "Newcastle United beat Manchester City 2-1 in a Premier League match at St. James’ Park on Saturday. The win ended Newcastle’s recent poor run, moving them up from 15th in the league. This result marked manager Eddie Howe’s first victory over Manchester City’s Pep Guardiola in the Premier League.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about the outcome of a Premier League match, including the impact on Newcastle's league position and the significance of the win for their manager. However, it doesn't offer deeper insights into the strategies used, implications for future games, or any potential solutions or improvements.",
     "constructiveness_source": "gpt",
     "is_trending": false,
     "trending_score": 0.25
   },
   {
-    "title": "U.S. Proposes Peace Plan for Ukraine Including Russian Demands, Allies Concerned",
-    "domain": "business",
-    "source_domain": "theguardian.com",
-    "location": "global",
-    "published": "Sat, 22 Nov 2025 09:42:37 GMT",
-    "source": "The Guardian",
-    "sources": [
-      "The Guardian",
-      "Bloomberg"
-    ],
-    "domains": [
-      "theguardian.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Trump has demanded Ukraine accepts a ‘peace plan’ that would force it to give up territory to Russia and make other painful concessions UK prime minister Keir Starmer will not visit Washington next week, it is understood, amid reports that European leaders are considering visiting Donald Trump to di",
-      "US president demands that Kyiv accepts plan that would mean giving up territory to Russia Volodymyr Zelenskyy has said Ukraine faces one of the most difficult moments in its history, after Donald Trump demanded Kyiv accepts within days a US-backed “peace plan” that would force it to give up territor",
-      "Zelenskiy Warns Ukraine May Lose US as Trump Pushes for Deal Bloomberg.com"
-    ],
-    "image_url": "https://i.guim.co.uk/img/media/7de8538cbd542fa42f97fcfba6e382079dad0576/405_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=46532a763f37ef024d3ffcdf829b4d41",
-    "titles": [
-      "Ukraine’s allies to meet at G20 summit after Zelenskyy warns of ‘impossible choice’ over Trump plan to end war – live",
-      "Zelenskyy says Ukraine has impossible choice as Trump pushes plan to end war",
-      "Zelenskiy Warns Ukraine May Lose US as Trump Pushes for Deal - Bloomberg.com"
-    ],
-    "url": "https://www.theguardian.com/world/live/2025/nov/22/russia-ukraine-war-trump-peace-plan-g20-zelenskyy-putin-europe-latest-news-updates",
-    "alternate_urls": [
-      "https://www.theguardian.com/world/2025/nov/21/zelenskyy-says-ukraine-faces-most-difficult-moment-as-trump-pushes-plan-to-end-war",
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjFOTy1iUW03RjdmQXkxVTRpWXNPUUppLU5FaUVTdlBXdXFPT0RmMHR0MGNXMXp6ZDY1SHoyRlc2clA1bEJRVWVYT2hoeDNrNm0ya3V5MWhhR3czazZGalp1SHFXTjR6UFc5UXpmeGpuRXIyNi12YkZPdElxNWFYei1TMVZ3TjVVMk9ESjhRTFlUQ205eGJ5dXpxOFNYUnVQMmVVb1JUNDd3ZEg2OF9XV3Z6NTM?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.theguardian.com/world/live/2025/nov/22/russia-ukraine-war-trump-peace-plan-g20-zelenskyy-putin-europe-latest-news-updates",
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.989,
-      "consensus": 0.591,
-      "constructiveness": 0.112,
-      "proximity": 0.5
-    },
-    "score": 0.678,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "The U.S. has presented Ukraine with a peace plan to end the war with Russia, which reportedly incorporates many Russian demands and requires Ukraine to cede territory. President Zelenskyy stated the plan puts Ukraine at a difficult crossroads, risking either its \"dignity\" or U.S. support. European allies have raised concerns about being excluded from the process. Russia has said the plan could serve as a basis for peace but remains prepared to continue fighting.",
-    "constructiveness_score": 0.112,
-    "constructiveness_reason": "keywords (2): plan, support; semantic: pos_sim=0.08, neg_sim=0.02; semantic_boost=0.01",
-    "constructiveness_source": "heuristic",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Paramount, Comcast, Netflix Submit Bids to Acquire Warner Bros. Discovery",
-    "domain": "business",
-    "source_domain": "news.google.com",
+    "title": "State Football Semifinal Sites Announced; Finals Set for Hall of Fame Stadium",
+    "domain": "sports",
+    "source_domain": "sports.yahoo.com",
     "location": "national",
-    "published": "Fri, 21 Nov 2025 17:30:50 GMT",
-    "source": "Axios",
+    "published": "Sat, 22 Nov 2025 19:38:00 +0000",
+    "source": "Yahoo Sports",
     "sources": [
-      "Axios",
-      "Bloomberg",
-      "Business Insider"
+      "Yahoo Sports",
+      "Sportsnet"
     ],
     "domains": [
-      "news.google.com",
-      "businessinsider.com"
+      "sports.yahoo.com",
+      "sportsnet.ca"
     ],
     "snippets": [
-      "Paramount, Comcast, Netflix submit bids for Warner Bros. Discovery Axios",
-      "Netflix, Comcast and Paramount Make Bids for Warner Bros. Bloomberg.com",
-      "Paramount, Comcast, and Netflix are battling over Warner Bros. Discovery. Comcast may be more motivated to make a deal than David Ellison's Paramount."
+      "Nov. 22—Local schools are posting on their social media pages the locations which will be used as neutral sites for the state semifinal round. This will be the final week of the postseason separate neutral sites will be used for all games. The state championship games will be held at Tom Benson Hall",
+      "Mason West finished his high school career a football champion."
     ],
     "image_url": "",
     "titles": [
-      "Paramount, Comcast, Netflix submit bids for Warner Bros. Discovery - Axios",
-      "Netflix, Comcast and Paramount Make Bids for Warner Bros. - Bloomberg.com",
-      "Why Comcast could go all out to buy Warner Bros. Discovery"
+      "High school football: State semifinal sites announced",
+      "Blackhawks prospect Mason West wins high school football state championship"
     ],
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRThUdE44ejM3ZGxyQWVDZFVTNkdyQzRjYmxteU05Z2FVVVRIVzhsRnJNWElGNHRqVlE0Qk80NnRtUlZUNUdjNHd6dVNvQmdNYTZuN1hJMVQ5MHBRNzRXbkw0Q21GSndueHoyRTR3X0dZQTNFVzhqaE9MNUY2QlZ1STRQY094bGlqWUhBNTlB?oc=5",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUlwTVlTZFB6a2Z5aFNZenJTZWNhT3p2aGRmeHRHMjQ0eWpfcHpUSEJNaGhpMmp6UVBJWmJvQm1vVWZsRmxWUDBJMk40eEtFUWRmcnNLNUt3ZXJDaldfMjFZVnRkdjR2Sm5TM0I4dE5OOUxvZ0Q1NENSR3c2S2hNVXMwMG95eHQ4OVZPMUNFTkRKVThxbkZEQzcwYmwxYkpiWTEzRkQ4WGlNN0duY19Kbi1B?oc=5",
-      "https://www.businessinsider.com/comcast-warner-bros-discovery-wbd-paramount-skydance-david-ellison-netflix-2025-11"
-    ],
+    "url": "https://sports.yahoo.com/article/high-school-football-state-semifinal-193800640.html",
+    "alternate_urls": [],
     "location_scope": "national",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRThUdE44ejM3ZGxyQWVDZFVTNkdyQzRjYmxteU05Z2FVVVRIVzhsRnJNWElGNHRqVlE0Qk80NnRtUlZUNUdjNHd6dVNvQmdNYTZuN1hJMVQ5MHBRNzRXbkw0Q21GSndueHoyRTR3X0dZQTNFVzhqaE9MNUY2QlZ1STRQY094bGlqWUhBNTlB?oc=5",
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.706,
-      "consensus": 0.769,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.673,
-    "summary_source": "cache",
-    "summary_reason": "",
-    "summary": "Paramount, Comcast, and Netflix have each submitted bids to acquire Warner Bros. Discovery, according to multiple sources. The companies are competing for ownership, with Comcast reportedly showing strong interest. The outcome of the bidding process has not yet been decided. Warner Bros. Discovery has not commented on the offers.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.10",
-    "constructiveness_source": "heuristic",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Liberty Hire Warriors Assistant Chris DeMarco as New Head Coach",
-    "domain": "sports",
-    "source_domain": "cbssports.com",
-    "location": "national",
-    "published": "Fri, 21 Nov 2025 22:23:16 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "CBS Sports",
-      "Sports Illustrated"
-    ],
-    "domains": [
-      "cbssports.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "DeMarco helped the Warriors to four NBA titles during his tenure",
-      "Liberty Hire Longtime Warriors Assistant As New Head Coach Sports Illustrated"
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/11/21/90ada1b8-4d6c-4077-a138-dd7be0e6a9f4/demarco-imagn.png",
-    "titles": [
-      "New York Liberty hiring Golden State Warriors assistant Chris DeMarco as new head coach, per report",
-      "Liberty Hire Longtime Warriors Assistant As New Head Coach - Sports Illustrated"
-    ],
-    "url": "https://www.cbssports.com/wnba/news/new-york-liberty-hire-chris-demarco-head-coach-golden-state-warriors/",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMickFVX3lxTE85ME1FUFhGOWZrU0FtdUd5dHNZcXUxVkZKcVE2ZmNfNXczcHYzR0dLV2trMVpRakhYSmZZMEVaZVdRNlpjMWc1dGhjSTRkTUg0QjBwekhBcnFKcGxNRF82MnhPUUFUUHYtMTJYcXZSQUd6UQ?oc=5"
-    ],
-    "location_scope": "national",
-    "link": "https://www.cbssports.com/wnba/news/new-york-liberty-hire-chris-demarco-head-coach-golden-state-warriors/",
+    "link": "https://sports.yahoo.com/article/high-school-football-state-semifinal-193800640.html",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.781,
+      "recency": 0.989,
       "consensus": 0.591,
-      "constructiveness": 0.6,
+      "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.671,
-    "summary_source": "cache",
+    "score": 0.703,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "The New York Liberty have hired Golden State Warriors assistant Chris DeMarco as their new head coach, replacing Sandy Brondello. DeMarco has been with the Warriors since 2012 and contributed to four NBA championships. With this move, all five open WNBA head coaching positions have now been filled.",
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story informs readers about a significant change in the coaching staff of the New York Liberty, providing useful information for fans and followers of the team. However, it does not delve into what this change could mean for the team's strategies or future performance, thus lacking depth and insight.",
+    "summary": "Local schools have announced the neutral site locations for the state football semifinal games, which will be the last round played at separate venues. The state championship games will take place at Tom Benson Hall of Fame Stadium. Mason West ended his high school football career as a state champion.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic information about the locations for upcoming state football games, but it doesn't delve into the implications of these venues, potential strategies for the teams, or any solutions or improvements related to the games. The mention of a player ending his career as a state champion could provide some context, but without further detail, it doesn't add much depth to the story.",
     "constructiveness_source": "gpt",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "US-Russia Proposal Urges Ukraine to Cede Land; Europe, Zelenskiy to Discuss",
+    "title": "Russia, Ukraine Escalate Energy Attacks as Peace Talks Preparations Intensify",
     "domain": "business",
-    "source_domain": "nytimes.com",
+    "source_domain": "news.google.com",
     "location": "global",
-    "published": "Fri, 21 Nov 2025 22:54:21 +0000",
-    "source": "New York Times",
+    "published": "Sat, 22 Nov 2025 12:57:18 GMT",
+    "source": "Bloomberg",
     "sources": [
-      "New York Times",
-      "Bloomberg"
+      "Bloomberg",
+      "Financial Post"
     ],
     "domains": [
-      "nytimes.com",
-      "news.google.com"
+      "news.google.com",
+      "financialpost.com"
     ],
     "snippets": [
-      "The Ukrainian president’s options are narrowing as he is confronted with a 28-point proposal drafted by American and Russian envoys.",
-      "A U.S.-Russian proposal would require Kyiv to give up territory and reduce its army. If Moscow complies with the terms, it could receive benefits including reintegration into the global economy.",
-      "European Leaders to Hold Call With Zelenskiy on US-Russian Plan Bloomberg.com"
+      "Europe Scrambles for Time After US Sets Ukraine an Ultimatum Bloomberg.com",
+      "Europe Again Stuck on the Sidelines as Ukraine Peace Talks Gain Steam Bloomberg.com",
+      "Russia and Ukraine Escalate Energy Wars With Peace Talks Looming Bloomberg.com",
+      "Russia and Ukraine are fighting an increasingly intense energy war as they attempt to gain a meaningful advantage after months of stalemate on the frontlines and ahead of potential new peace talks."
     ],
-    "image_url": "https://static01.nyt.com/images/2025/11/21/multimedia/21-int-zelensky-1-ltfq/21-int-zelensky-1-ltfq-mediumSquareAt3X.jpg",
+    "image_url": "",
     "titles": [
-      "As Trump Pushes on Russia-Ukraine Peace Plan, Zelensky’s Options Are Narrowing",
-      "European Leaders Back Zelensky After Trump’s Russia-Ukraine Peace Plan Excludes Them",
-      "European Leaders to Hold Call With Zelenskiy on US-Russian Plan - Bloomberg.com"
+      "Europe Scrambles for Time After US Sets Ukraine an Ultimatum - Bloomberg.com",
+      "Europe Again Stuck on the Sidelines as Ukraine Peace Talks Gain Steam - Bloomberg.com",
+      "Russia and Ukraine Escalate Energy Wars With Peace Talks Looming - Bloomberg.com",
+      "Russia and Ukraine Escalate Energy Wars With Peace Talks Looming"
     ],
-    "url": "https://www.nytimes.com/2025/11/21/world/europe/ukraine-russia-us-peace-plan.html",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHljTkZ1TGtqMW9HbkhrTXY2MGplcmF2ZHJncWM1YnIyUDdoUGg4VW9ndFNUZTRjbGV0MVRKZnU2WS1EX0hZaHMxSHZObHJPRUpUMmVlMngwRUpKXzNSeHozUVppYnRZbTg1NHR5QmlwR2phZFZyYmN4MTRTSFYyZUU4RU41Z0ZFS0pXTFh4Zkk5OWp1LWJpM2MyS1lpLUsyd1NySzFhS3kwTzBVSjFJQ0M3ckU?oc=5",
     "alternate_urls": [
-      "https://www.nytimes.com/2025/11/21/world/europe/ukraine-russia-trump-peace-plan.html",
-      "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSUJocDE2bFZEeUppb21sMTRaWmd3WFpqczNjbzhZTjZkZGV4T1ZmM3kzV1MzOGtKWUJyUmtGYnlaNUswaGMyT3ZNbDBmQzEtWmxBcDZlTXo2MkNyWm9DTnpOajlNS016LW5tNVlLMk5Qbk91NDVneUVBQkpZNi1mV3g4RHdScVExcVhuRDIwOS1oc1FOOUsxcTdfN2dGbUhVdmIxMEtsWQ?oc=5"
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSU95Tzg2UElrLWcya3hna2tZZkp3OUNzZUFZbkYwajI0Q1Rma0ZiQWF3V3RvNERpdDZ3cEdudTNxY3VITTR0Rlc1QjM0aGtpLXpsRFp4ZUliaGpEZUp0al8zQU9iUWczY2phNGIxd1NjZ2tDSm96ZDVyRUpGMy1HZEI1SGhsMXVDWlhuVnBJWFFaMFBYeXNPX3lXaTRDUWRzdUxkNTRoV054TXk5YW44NnRB?oc=5",
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWWhqbkVsSUZvTWpHSkwzVnF2b3NfdkV5Z1Q0MkNSVmx2c1cwT3JiVjJzVm14c0VvSUhsX1ZUTjc1Tjk1YnlGQjd3eHQwVGUtNDJTNzY3YWd1LVpNRGNMbnRDZXA5SFd5a09iQWFiMkVpZng4eWtWc3NEd2RJdnlCcTQ1Z3FSZE1HbFdBZ0lXUkFXTGo1blp6aV9fN1puS3BOamI5MUptN0FWUEZYejhtTlEwck9GZw?oc=5",
+      "https://financialpost.com/pmn/business-pmn/russia-and-ukraine-escalate-energy-wars-with-peace-talks-looming"
     ],
     "location_scope": "global",
-    "link": "https://www.nytimes.com/2025/11/21/world/europe/ukraine-russia-us-peace-plan.html",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHljTkZ1TGtqMW9HbkhrTXY2MGplcmF2ZHJncWM1YnIyUDdoUGg4VW9ndFNUZTRjbGV0MVRKZnU2WS1EX0hZaHMxSHZObHJPRUpUMmVlMngwRUpKXzNSeHozUVppYnRZbTg1NHR5QmlwR2phZFZyYmN4MTRTSFYyZUU4RU41Z0ZFS0pXTFh4Zkk5OWp1LWJpM2MyS1lpLUsyd1NySzFhS3kwTzBVSjFJQ0M3ckU?oc=5",
     "score_components": {
       "magnitude": 0.775,
-      "recency": 0.789,
+      "recency": 0.861,
       "consensus": 0.591,
-      "constructiveness": 0.07,
+      "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.634,
-    "summary_source": "cache",
+    "score": 0.691,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "A U.S.-Russian proposal suggests Ukraine should cede territory and reduce its military in exchange for potential benefits to Russia, such as reintegration into the global economy if Moscow complies. European leaders are scheduled to discuss the plan with Ukrainian President Volodymyr Zelenskiy. The proposal is under consideration, with no agreement reached yet.",
-    "constructiveness_score": 0.07,
-    "constructiveness_reason": "keywords (1): plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
-    "constructiveness_source": "heuristic",
+    "summary": "Russia and Ukraine have intensified attacks on each other's energy infrastructure amid a military stalemate, seeking leverage before expected peace talks. The US has set Ukraine an ultimatum, prompting European countries to accelerate diplomatic efforts. Europe remains largely on the sidelines as preparations for renewed negotiations continue.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story raises awareness about the escalating conflict between Russia and Ukraine, particularly in the energy sector. However, it does not provide a deep understanding of the causes, potential impacts, or solutions to the issue.",
+    "constructiveness_source": "gpt",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Cody Rhodes Attacked, WarGames Teams Finalized on WWE SmackDown",
-    "domain": "business",
-    "source_domain": "forbes.com",
-    "location": "global",
-    "published": "Fri, 21 Nov 2025 20:41:22 -0500",
-    "source": "Forbes",
+    "title": "Bengals Name Starting Quarterback for Sunday's Game Against Patriots",
+    "domain": "sports",
+    "source_domain": "sports.yahoo.com",
+    "location": "national",
+    "published": "Sat, 22 Nov 2025 19:38:24 +0000",
+    "source": "Yahoo Sports",
     "sources": [
-      "Forbes",
-      "Bleacher Report"
+      "Yahoo Sports",
+      "Sports Illustrated"
     ],
     "domains": [
-      "forbes.com",
+      "sports.yahoo.com",
       "news.google.com"
     ],
     "snippets": [
-      "WWE SmackDown results, winners and live updates on November 21, 2025. Cody Rhodes was attacked and the women announced the final members of WarGames.",
-      "WWE SmackDown Results, Winners, Live Grades, Reaction and Highlights From Nov. 21 Bleacher Report"
+      "The Patriots know who they will go up against on Sunday.",
+      "Bengals Make Questionable Decision With Joe Burrow Ahead of Matchup vs Patriots Sports Illustrated",
+      "Bengals Make Decision on Joe Burrow’s Status for Sunday vs. Patriots Sports Illustrated",
+      "Joe Burrow or Joe Flacco? Cincinnati Bengals Have Deadline to Make Decision Sports Illustrated"
     ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/692111914eb82fb31be9a41e/0x0.jpg?width=960",
+    "image_url": "",
     "titles": [
-      "WWE SmackDown Results, Winners And Live Updates On 11/21/2025",
-      "WWE SmackDown Results, Winners, Live Grades, Reaction and Highlights From Nov. 21 - Bleacher Report"
+      "Bengals make quarterback decision ahead of Week 12 Patriots game",
+      "Bengals Make Questionable Decision With Joe Burrow Ahead of Matchup vs Patriots - Sports Illustrated",
+      "Bengals Make Decision on Joe Burrow’s Status for Sunday vs. Patriots - Sports Illustrated",
+      "Joe Burrow or Joe Flacco? Cincinnati Bengals Have Deadline to Make Decision - Sports Illustrated"
     ],
-    "url": "https://www.forbes.com/sites/alfredkonuwa/2025/11/21/wwe-smackdown-results-winners-and-live-updates-on-11212025/",
+    "url": "https://sports.yahoo.com/article/bengals-quarterback-decision-ahead-week-193824806.html",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3VGS21wVVdnWmhEQjlpc3V6dU9yMTlPZEhGQmxMYmJSX3N6N0YxQk5Ud0g4Nm41dFd1ZXpqODJxalk4cHM2YW9kckNrQS01Q3dkblE5YjhOeWNYV25PQnRZRWFnMV9yRm13S0xNTkpFb0NSRlJNUmdMU3lJWno4aHBscVhud192QWlWV25wZkRKZHFpQnQ1RllXM3o1WUczZkM0V2dpWUhyV1d5UE9tS0NqZnFaNEps?oc=5"
+      "https://news.google.com/rss/articles/CBMizgFBVV95cUxNampvenB4Nm4yVFpXVlhBVFZqMkliRTFCMXdfWGZ6TTgtU2ltMFlicFhQUkt6VDNzWlp0LVVHdmNpeTRvQjBqam8zZ3NLQkZEaGFSUlc4SFZyVURPcjBIZnJQVDhUazV5Y1gtX1VxZkxHNk1WV0JXUEpjQm92V1V1OENCN3F5Y0xTUWVyUlpPSjBnMGtzLUh3QkpjUUEyUlFTbE5hMGhQcDBCQWxtY2lJamZtRXpKdDg0VmhmT2owSDdCWnlGcW94alVEYlNnUQ?oc=5",
+      "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2MlQzNzczb1N3cXl3S1RpNHZiLWRibnRYZU8tOVBPZEhJM085OXlBODhtdTRyNkJKQlp1QWpYWG1WUHFYdjRIVmt2cHFnd1V6RGRLcmE3MWRhbGFVejJEQ1dYb2tVcE5VWDVr?oc=5",
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYXd5MlJ6ZUNvRXJjSUJSUUxSNWxqYkF3UXlWTTA0QURXc1ZhUnljU1p0a0JsamdxY2VmbG1kVHBQTWRHNENYQXJWR3JmbDdmVUpmV1MwRUZoZkotOEpxczNESlpXUElzUFFTSll3bmNhZ251dUdRWVRvMy0zWEdhX25hUGRFSUg0bmRiOFlBUkpVT2FuTUxsNGU5LWU3RzhMd1g0bEVqMHJHeTdzNGFDa3hUOTV3NENlM2pZd3JwekNqd0Mycm0w?oc=5"
     ],
-    "location_scope": "global",
-    "link": "https://www.forbes.com/sites/alfredkonuwa/2025/11/21/wwe-smackdown-results-winners-and-live-updates-on-11212025/",
+    "location_scope": "national",
+    "link": "https://sports.yahoo.com/article/bengals-quarterback-decision-ahead-week-193824806.html",
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.837,
+      "magnitude": 0.755,
+      "recency": 0.99,
       "consensus": 0.591,
-      "constructiveness": 0.022,
+      "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.625,
+    "score": 0.69,
     "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "On the November 21, 2025 episode of WWE SmackDown, Cody Rhodes was attacked during the show. The women's division announced the final members for the upcoming WarGames match. The episode featured several matches with winners determined, setting the stage for future storylines and events.",
-    "constructiveness_score": 0.022,
-    "constructiveness_reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
-    "constructiveness_source": "heuristic",
-    "is_trending": false,
-    "trending_score": 0.0
+    "summary": "The Cincinnati Bengals have made a decision regarding quarterback Joe Burrow's status for their upcoming game against the New England Patriots. Despite recent questions about his availability, the team has confirmed whether Burrow or Joe Flacco will start. The Patriots are preparing to face the Bengals, who have finalized their quarterback choice ahead of Sunday's matchup.",
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story offers basic awareness about the Bengals' decision on their starting quarterback for the upcoming game. However, it lacks depth and insight as it doesn't provide information on why this decision was made, how it might affect the game strategy, or the potential impact on the team's performance.",
+    "constructiveness_source": "gpt",
+    "is_trending": true,
+    "trending_score": 0.5
   },
   {
     "title": "Lost Security Key Blocks Access to Election Vote Tally",
@@ -1348,13 +1338,13 @@
     "link": "https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.84,
+      "recency": 0.683,
       "consensus": 0.591,
       "constructiveness": 0.019,
       "proximity": 0.5
     },
-    "score": 0.625,
-    "summary_source": "gpt",
+    "score": 0.594,
+    "summary_source": "cache",
     "summary_reason": "",
     "summary": "A group of researchers could not access the vote tally from a hyper-secure election system because one of the three required secret code keys was lost by an official. With the key \"irretrievably lost,\" the system cannot be unlocked, and the vote results remain inaccessible.",
     "constructiveness_score": 0.019,
@@ -1364,48 +1354,46 @@
     "trending_score": 0.0
   },
   {
-    "title": "Hubble Captures Unusual Features in Two Distant Galaxies",
-    "domain": "science",
-    "source_domain": "nasa.gov",
+    "title": "Trump Exempts Brazilian Coffee and Beef From 40% Tariff Hike After Talks",
+    "domain": "business",
+    "source_domain": "news.google.com",
     "location": "global",
-    "published": "Fri, 21 Nov 2025 17:29:00 +0000",
-    "source": "NASA",
+    "published": "Fri, 21 Nov 2025 20:06:38 GMT",
+    "source": "Bloomberg",
     "sources": [
-      "NASA",
-      "NASA EO"
+      "Bloomberg",
+      "Fortune"
     ],
     "domains": [
-      "nasa.gov",
-      "science.nasa.gov"
+      "news.google.com",
+      "fortune.com"
     ],
     "snippets": [
-      "This NASA/ESA Hubble Space Telescope image features a galaxy that’s hard to categorize. The galaxy in question is NGC 2775, which lies 67 million light-years away in the constellation Cancer (the Crab). NGC 2775 sports a smooth, featureless center that is devoid of gas, resembling an elliptical gala",
-      "Today’s NASA/ESA Hubble Space Telescope image features the spiral galaxy NGC 4535, which is situated about 50 million light-years away in the constellation Virgo (the Maiden). Through a small telescope, this galaxy appears extremely faint, giving it the nickname ‘Lost Galaxy’. With a mirror spanning",
-      "This NASA/ESA Hubble Space Telescope image features a galaxy, NGC 2775, that’s hard to categorize."
+      "Lula Stares Down Trump and Scores Tariff Victory for Brazil Bloomberg.com",
+      "In an executive order, Trump exempted dozens of Brazilian food products, including coffee and beef, from the 40% increased tariffs he had imposed."
     ],
     "image_url": "",
     "titles": [
-      "Hubble Captures Puzzling Galaxy",
-      "Hubble Seeks Clusters in ‘Lost Galaxy’"
+      "Lula Stares Down Trump and Scores Tariff Victory for Brazil - Bloomberg.com",
+      "Lula stares down Trump and scores tariff victory for Brazil"
     ],
-    "url": "https://www.nasa.gov/image-article/hubble-captures-puzzling-galaxy/",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0VkaFZPbTJpa0MyWWNCQnE2UVI5TG5vbnJ6aW1qbmRsWGRjeXU2SVFDb3lSQmliTGc5TTFKYjE3eEtpb3pTQXN2bzJLbGt3ZEhqTHBBaEVfQTJZT2hpR0Y3R2N2bUFNZkFUZnQxMEFsbmFuWVFsRTVDUkNjZnBBZTkzeUlSZHpJdDFZYWktYVlCREFxelQ3TnVLYjdUdHhiVlRpSnEtY0F5c0FXX0dN?oc=5",
     "alternate_urls": [
-      "https://science.nasa.gov/missions/hubble/hubble-seeks-clusters-in-lost-galaxy/",
-      "https://www.nasa.gov/image-detail/hubble-ngc2775-potw2538a/"
+      "https://fortune.com/2025/11/22/lula-trump-tariffs-brazil-coffee/"
     ],
     "location_scope": "global",
-    "link": "https://www.nasa.gov/image-article/hubble-captures-puzzling-galaxy/",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0VkaFZPbTJpa0MyWWNCQnE2UVI5TG5vbnJ6aW1qbmRsWGRjeXU2SVFDb3lSQmliTGc5TTFKYjE3eEtpb3pTQXN2bzJLbGt3ZEhqTHBBaEVfQTJZT2hpR0Y3R2N2bUFNZkFUZnQxMEFsbmFuWVFsRTVDUkNjZnBBZTkzeUlSZHpJdDFZYWktYVlCREFxelQ3TnVLYjdUdHhiVlRpSnEtY0F5c0FXX0dN?oc=5",
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.705,
+      "magnitude": 0.775,
+      "recency": 0.606,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.596,
-    "summary_source": "cache",
+    "score": 0.59,
+    "summary_source": "gpt",
     "summary_reason": "",
-    "summary": "NASA/ESA Hubble Space Telescope images have captured two notable galaxies. NGC 2775, located 67 million light-years away in the constellation Cancer, has a smooth, gas-free center resembling an elliptical galaxy, making it difficult to classify. NGC 4535, about 50 million light-years away in Virgo, appears faint in small telescopes and is known as the ‘Lost Galaxy’. Both galaxies highlight the diversity of galactic structures.",
+    "summary": "U.S. President Donald Trump has issued an executive order exempting several Brazilian food products, such as coffee and beef, from a 40% tariff increase. This move follows negotiations with Brazilian President Luiz Inácio Lula da Silva and is considered a trade victory for Brazil. The exemptions take effect immediately.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00",
     "constructiveness_source": "heuristic",
