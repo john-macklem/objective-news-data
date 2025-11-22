@@ -2883,5 +2883,90 @@
     "score": 0.6,
     "reason": "While the story is negative, it provides important information about a significant incident at the Dubai Airshow. It also provides context about the Tejas jet's role in India's air force modernization efforts. However, it doesn't provide any insight into the causes of the crash or potential solutions.",
     "source": "gpt"
+  },
+  "25776923b40c515d5bb4ed166461be0c": {
+    "score": 0.022,
+    "reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "4b51a71cf4da58120b2f94d8ae52986a": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "f21c8e0b855634b4c5344ad3e1499cc4": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the bear attack incident but doesn't offer much depth or insight. It doesn't provide actionable insights or deeper understanding of why the incident happened, nor does it report on solutions or improvements to prevent such incidents in the future.",
+    "source": "gpt"
+  },
+  "e3fffb70f9ade43a40f173ede9b22928": {
+    "score": 0.5,
+    "reason": "The story provides awareness about a significant policy change affecting Somali migrants in Minnesota. However, it lacks depth or insight into the reasons behind the decision, its implications for the affected community, or potential solutions or responses.",
+    "source": "gpt"
+  },
+  "2386ef6f9936ba525004de9f523eec5f": {
+    "score": 0.6,
+    "reason": "The story provides useful information about a significant legal decision and its immediate impact on the redistricting process in Texas. However, it could provide more context about the broader implications of the decision, the reasons behind it, and potential responses or solutions.",
+    "source": "gpt"
+  },
+  "0804bea7f4db962fb46d39e69ed8156b": {
+    "score": 0.7,
+    "reason": "The story provides useful information about a significant shift in the relationship between two political figures, which could impact future policy decisions. However, it doesn't provide specific details about any potential solutions or progress they might make together.",
+    "source": "gpt"
+  },
+  "103a8cdd13f6e8c24dca2b078297eca3": {
+    "score": 0.5,
+    "reason": "While the story raises awareness about a serious security issue in Nigeria, it doesn't provide any deeper understanding or actionable insights for the reader. It also doesn't report on any potential solutions or attempts to address the larger problem.",
+    "source": "gpt"
+  },
+  "8141f3206b2697f12fe14a7babbe87d5": {
+    "score": 0.6,
+    "reason": "The story provides useful information for Formula 1 fans about the results of a qualifying session, and how it impacts the championship race. However, it doesn't offer much in terms of broader insights or knowledge.",
+    "source": "gpt"
+  },
+  "a41502648936bb195b13f784750c039e": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness of an upcoming event but does not provide much depth or insight. There is no information on the implications of the match, the background of the fighters, or the significance of the match in the context of their careers or the sport of boxing.",
+    "source": "gpt"
+  },
+  "5479aa9824f157e4b7c28261687b35a3": {
+    "score": 0.6,
+    "reason": "The story informs about a significant development in the contract of a player and the potential implications for his future with the team. However, it does not provide much context or analysis on why the team made this decision, how it affects the player's career, or what it means for the team's strategy going forward.",
+    "source": "gpt"
+  },
+  "f776e6b4726aa007fd574cf28bd9ea81": {
+    "score": 0.6,
+    "reason": "The story provides useful information on the result of a significant cricket match and highlights key performances. However, it does not offer much analysis or context on what this result means for the series, the teams' strategies, or the players' performances in a broader context.",
+    "source": "gpt"
+  },
+  "3707e0fe6bf250e19f5ec5fe585e5591": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness of the NBA Cup and the Raptors' progress, but it doesn't offer deep insights or actionable information. It doesn't increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "bc13aa7be84f4565eac906f1594ce50f": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of the game between the Hurricanes and the Jets, as well as the performance of specific players. However, it lacks depth and doesn't provide actionable insights or a deeper understanding of the sport or its impact.",
+    "source": "gpt"
+  },
+  "63fbde7ccba996dcc2675587f8e6b90a": {
+    "score": 0.3,
+    "reason": "This story provides basic information about the first Ashes cricket test between Australia and England. It doesn't offer deep insights, actionable information, or an understanding of the systems, causes, trends, or impacts involved in the sport.",
+    "source": "gpt"
+  },
+  "5e1d6fbe21c16e996ae7fcf4211ca81b": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a significant political event, but it doesn't provide much depth or insight into the reasons behind the decision or the potential impact on the political landscape.",
+    "source": "gpt"
+  },
+  "0e5b46e838a828e2a647959d77ab7340": {
+    "score": 0.8,
+    "reason": "The story informs about the cooperation between two political figures which could lead to progress on city issues. However, it doesn't provide specific details about the solutions or improvements they plan to implement.",
+    "source": "gpt"
+  },
+  "bd031bdef2368c70f6b55c1ad7e9d986": {
+    "score": 0.7,
+    "reason": "This story provides useful information about a major media acquisition and potential regulatory challenges. However, it lacks depth regarding the potential impacts on media diversity and the public discourse.",
+    "source": "gpt"
   }
 }
