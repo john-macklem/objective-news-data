@@ -3048,5 +3048,115 @@
     "score": 0.5,
     "reason": "This story raises awareness about the escalating conflict between Russia and Ukraine, particularly in the energy sector. However, it does not provide a deep understanding of the causes, potential impacts, or solutions to the issue.",
     "source": "gpt"
+  },
+  "e26807f90b526bc7a6641ee89683e259": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "98c0b0621029e3e03c7a98165cc84368": {
+    "score": 0.05,
+    "reason": "keywords (1): plan; semantic: pos_sim=0.00, neg_sim=0.09",
+    "source": "heuristic"
+  },
+  "3782c561b57bada74cccfcd67e579662": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "d8f0cc25986d1924c1bc586be03a205e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.06, neg_sim=0.07",
+    "source": "heuristic"
+  },
+  "cc5216428827c149cd87fb41d5407274": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.14",
+    "source": "heuristic"
+  },
+  "ba0d0c3b9945bcf4320d8d7b28b30285": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "202b63c25120b7a6e9fab355abcf3dbc": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.14, neg_sim=0.06; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "073fbfdec46298032b31047e8c2f6f20": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about Tatiana Schlossberg's health condition but lacks depth or insight. It does not provide any actionable insights or deeper understanding about the disease, nor does it report on any solutions or improvements. It does not contribute meaningfully to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "6e5b4f037d7aa5524ec998c089d99b2b": {
+    "score": 0.8,
+    "reason": "The story informs about a significant court ruling, providing useful context about the Trump administration's immigration policies and how they are being challenged. It increases clarity around the legal system and the rights of migrants, contributing to the reader's understanding of these issues.",
+    "source": "gpt"
+  },
+  "d5d03da3901ab401b32f6e8268b62605": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the impact of the floods in Vietnam, contributing to the reader's understanding of the situation. However, it does not report on any solutions or improvements, nor does it provide deep insights into the causes or trends of such disasters.",
+    "source": "gpt"
+  },
+  "40dec438de7013de52fb8e3960140e16": {
+    "score": 0.6,
+    "reason": "This story is constructive as it informs readers about a significant event, its impacts, and the ongoing response. However, it doesn't provide any deeper understanding or actionable insights, or highlight any progress or solutions.",
+    "source": "gpt"
+  },
+  "43840e49f26417a6502a25fb27ac2d53": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the incident and the immediate response. However, it lacks depth, doesn't offer actionable insights, and doesn't report on any solutions or progress.",
+    "source": "gpt"
+  },
+  "b78a79fa9a3da2dfc755f8ba4c698b0c": {
+    "score": 0.7,
+    "reason": "This story is constructive as it informs readers about a significant upcoming event and the reasons behind it. However, it doesn't provide a deep understanding of the issue or highlight any solutions or progress.",
+    "source": "gpt"
+  },
+  "8546819064342c1486b579279fc946a7": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness of the event and its outcome, but it doesn't offer any deeper insights or understanding. It doesn't report on progress or solutions, nor does it increase clarity around systems or impacts.",
+    "source": "gpt"
+  },
+  "fdba436ddd4c5f998a959b59b44b82a0": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness of a negative event, but it doesn't provide actionable insights or deeper understanding. It doesn't report on progress or solutions, nor does it increase clarity around systems or impacts.",
+    "source": "gpt"
+  },
+  "4b2504e092924b23e46d4220c57cae81": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness of the event and its outcome, but it doesn't offer any deeper insights or understanding. It doesn't report on progress or solutions, nor does it increase clarity around systems or impacts.",
+    "source": "gpt"
+  },
+  "a5c60c9e5e770965297f4e5ede726fa3": {
+    "score": 0.5,
+    "reason": "The story provides awareness about the disqualification of McLaren drivers from the Las Vegas Grand Prix due to technical infringements. However, it lacks depth and does not offer insights into what these technical infringements were or how they could be avoided in the future.",
+    "source": "gpt"
+  },
+  "0a153592835a8a81ed1e6a5cae3e0631": {
+    "score": 0.6,
+    "reason": "The story informs readers about Gotham FC's victory over the Washington Spirit, marking their first-ever league title. It provides useful context about the match and the standout performances from Gotham FC players. However, it does not delve into the strategies or innovations that led to the team's success.",
+    "source": "gpt"
+  },
+  "bcbf7b3f084af54d9b01b40cbb5dd7f8": {
+    "score": 0.5,
+    "reason": "The story raises awareness about the potential disqualification of McLaren drivers due to violations of F1's plank wear regulations. However, it falls short in providing deeper understanding or actionable insights as it does not explain what these regulations are or how the drivers violated them.",
+    "source": "gpt"
+  },
+  "1a7b5c41e420d9fcf63b73514a47fdf0": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of the match result but doesn't offer deeper insight or understanding about the game or its significance. It doesn't report on progress or solutions, and doesn't increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "6c564342220522dae4e9438e7c9152a5": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness of the match result but doesn't offer deeper insight or understanding about the match or its significance. It doesn't report on progress or solutions, and doesn't increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "321d6a51f505afaedfa27980c94af815": {
+    "score": 0.6,
+    "reason": "This story informs about a serious incident, providing useful context about the scale of the abduction and its comparison to past incidents. However, it doesn't report on progress or solutions, nor does it provide empowering knowledge or actionable insights.",
+    "source": "gpt"
   }
 }
