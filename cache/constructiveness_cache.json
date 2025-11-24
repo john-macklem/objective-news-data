@@ -3373,5 +3373,105 @@
     "score": 0.8,
     "reason": "This story provides useful information about the ongoing war talks between the US, Ukraine, and Russia. It reports on an attempt to solve a significant problem, which is the war with Russia. However, it does not provide enough detail about the proposed peace framework to fully empower the reader's understanding or decision-making.",
     "source": "gpt"
+  },
+  "60ce316a9e39ddbf74992e9d24fb59d6": {
+    "score": 0.216,
+    "reason": "keywords (4): expand, initiative, investment, solution; semantic: pos_sim=0.15, neg_sim=0.07; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "17b212bd5d6bc7645480a0ca91b3687e": {
+    "score": 0.1,
+    "reason": "keywords (2): launch, support; semantic: pos_sim=0.06, neg_sim=0.07",
+    "source": "heuristic"
+  },
+  "48ffec79e8c0457782854a27ef8372f1": {
+    "score": 0.1,
+    "reason": "keywords (2): effort, expand; semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "34d5a73b15c2ebef0bfe050baf3b96d7": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: lawsuit); semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "499b06ef5af184c472b988d31979b171": {
+    "score": 0.005,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.05; semantic_boost=0.01",
+    "source": "heuristic"
+  },
+  "7a7d7a3031c3b7afb13a69de9f40ccfe": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the life and career of Jimmy Cliff, but it doesn't offer deeper insights or actionable information for the reader. It doesn't report on progress or solutions, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "6c9da9052be520337ede61675f250392": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the life and career of Dharmendra, but it doesn't provide deeper understanding or actionable insights. It doesn't report on progress or solutions, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "b6738202a136b5e0cd944f6340f0ba75": {
+    "score": 0.6,
+    "reason": "This story informs about a controversial political incident in Australia, providing some context and insight into the actions of Pauline Hanson. However, it doesn't report on solutions or improvements, and while it increases awareness about the incident, it doesn't offer a deep understanding of the broader issues at play.",
+    "source": "gpt"
+  },
+  "9d2596671d61ac93312798eefc21382f": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a policy change that will affect many individuals, and it also provides some context about the situation in Myanmar. However, it doesn't provide a deep understanding of the implications or potential solutions for those affected.",
+    "source": "gpt"
+  },
+  "c27e68c44612764a8b914c6d42fb64d8": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness of a conflict between the White House and the Associated Press, but it doesn't delve into the implications of this conflict or provide insights into the broader context of media-government relations.",
+    "source": "gpt"
+  },
+  "43e83c60a7656ba060c149f6bba0ee19": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant event in Brazil's political landscape, which could be useful for those interested in global politics. However, it doesn't provide much depth or insight into the broader implications of this event.",
+    "source": "gpt"
+  },
+  "32c9b148dffa275ccc1f0e3fd0513f70": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the ongoing diplomatic tensions between Poland and Israel over historical issues, with the recent social media post controversy serving as the latest development. However, it doesn't provide deeper insights or understanding into the root causes of these tensions, or potential solutions to address them.",
+    "source": "gpt"
+  },
+  "77eeef20074e942e93b0af73a1998027": {
+    "score": 0.6,
+    "reason": "This story informs about an ongoing legal case involving a high-profile basketball coach, providing useful context about the charges and the FBI investigation. However, it doesn't delve into broader implications, such as the impact on the NBA or potential measures to prevent similar incidents in the future.",
+    "source": "gpt"
+  },
+  "52bd41ba3f485e5961f71a983221067c": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the upcoming USA Basketball senior national team camp and the players who will be participating. However, it doesn't provide deeper insights or understanding about the significance of this camp, the selection process, or the impact on the players' careers.",
+    "source": "gpt"
+  },
+  "d479ec6fe69e34a8bd0840875871c4d2": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the decision of the Cleveland Browns to start Shedeur Sanders as quarterback, but it does not offer actionable insights, solutions, or a deeper understanding of the situation.",
+    "source": "gpt"
+  },
+  "bc296fc461b9b3966900e0db5e84d8cd": {
+    "score": 0.6,
+    "reason": "The story informs readers about the health status of J.J. McCarthy and the NFL's concussion protocol. It provides useful context about player safety in the NFL, but does not report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "c27254d1ca1c3d9d95f7b065227ad493": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the Dallas Wings winning the 2026 WNBA Draft Lottery. However, it does not provide a deeper understanding or actionable insights about the implications of this event.",
+    "source": "gpt"
+  },
+  "7285b346387e4a84b8ebed8c36850522": {
+    "score": 0.4,
+    "reason": "This story provides basic awareness of an event that occurred during a sports game, but it does not offer any deeper understanding or actionable insights. It does not report on solutions, improvements, or attempts to solve a problem.",
+    "source": "gpt"
+  },
+  "381489dca9fac645fc4de91c13e50315": {
+    "score": 0.7,
+    "reason": "This story informs readers about a significant ongoing investigation involving lawmakers and the military. It provides useful context about the situation and the potential implications. However, it does not highlight any progress, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "3544a9b57559539d3f3ea0b87ad8076d": {
+    "score": 0.8,
+    "reason": "This story provides useful information about a legal decision and its implications, contributing to a deeper understanding of the justice system. However, while it reports on the resolution of a problem, it does not clearly highlight progress or solutions.",
+    "source": "gpt"
   }
 }
