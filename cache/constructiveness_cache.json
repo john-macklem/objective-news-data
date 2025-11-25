@@ -3583,5 +3583,125 @@
     "score": 0.7,
     "reason": "This story provides useful information about secret peace talks between U.S. and Russian officials. It offers context about the ongoing conflict between Russia and Ukraine, contributing to the reader's understanding of the situation. However, it doesn't report on definitive solutions or progress, as no agreement has been announced yet.",
     "source": "gpt"
+  },
+  "e2532e416f16dd24ba0db661ede51120": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "5365229eb1e53f0579448eb8878c135c": {
+    "score": 0.0,
+    "reason": "keywords (1): plan; negative_penalty=0.05 (keywords: criticism); semantic: pos_sim=0.10, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "85d38ac8b0bf7efb9216439e69839e81": {
+    "score": 0.1,
+    "reason": "keywords (2): plan, relief; semantic: pos_sim=0.04, neg_sim=0.09",
+    "source": "heuristic"
+  },
+  "b2b7d13c2148aa5eb9ba87ad991add68": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "4ef302535649772aa25dfe52abbcfa3a": {
+    "score": 0.05,
+    "reason": "keywords (1): plan; semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "125d5da55135c1958188269696903ecd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "9f7dd81b6b170fc5280934da09f4146e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "ce180095b7ddd8a8f2e6ea4ad3e3d418": {
+    "score": 0.048,
+    "reason": "semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "58f974249f7f7b287516ca94996dbda0": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "68d9f0c4d3150bf4a6f769ce02945613": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the ongoing investigation into a major jewel heist. However, it does not provide deeper insights or understanding about the broader context or implications of the crime, nor does it highlight any progress or solutions.",
+    "source": "gpt"
+  },
+  "481c6c94f4ac55e41ac2ded861e6b6ca": {
+    "score": 0.8,
+    "reason": "The story informs readers about the ongoing conflict in Sudan and the efforts to secure a truce. It contextualizes the situation by mentioning the role of international diplomacy. However, it does not report on any concrete progress or solutions, and it does not provide a deep understanding of the causes or impacts of the conflict.",
+    "source": "gpt"
+  },
+  "298399637a2f879883b2d5679c4de74c": {
+    "score": 0.9,
+    "reason": "This story provides useful information about a significant political development in Alberta, and it explains the recall process, which empowers voters to remove elected officials. It also raises awareness about the political dynamics within the United Conservative Party. However, it does not report on any solutions or improvements related to the situation.",
+    "source": "gpt"
+  },
+  "11c038012393db7b977ecb3682d68c44": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the consequences of violating anti-doping rules in sports. However, it does not delve into the details of the rules themselves, the system that enforces them, or potential solutions to prevent such violations. Therefore, it offers some value, but lacks depth and insight.",
+    "source": "gpt"
+  },
+  "9369520d1e06b37710a327d98c432f0d": {
+    "score": 0.7,
+    "reason": "The story informs readers about the potential consequences of inappropriate conduct in a corporate setting, and the company's response to allegations. However, it does not provide actionable insights or deeper understanding of the systems in place for reporting and addressing such conduct, nor does it discuss potential solutions or improvements.",
+    "source": "gpt"
+  },
+  "3b6ec0759545c0d56e2cbeb498950119": {
+    "score": 0.8,
+    "reason": "This story provides useful context on the ongoing peace talks between Russia and Ukraine and the complexities involved. It gives readers an understanding of the different perspectives and the challenges in reaching a resolution. However, it does not provide a clear path forward or highlight specific solutions, limiting its score.",
+    "source": "gpt"
+  },
+  "0e3d7b557f15e916d4f51ca1e0361a51": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about Cristiano Ronaldo's eligibility to play in the 2026 World Cup, but it lacks depth or insight into the broader implications or context. There is no detailed explanation about the disciplinary system or the potential impact of Ronaldo's presence in the tournament.",
+    "source": "gpt"
+  },
+  "ea6ca66158ee0038bf2d2a4135928b8a": {
+    "score": 0.3,
+    "reason": "The story provides basic information about a trade in the baseball world but does not delve into the potential implications of this trade for the teams involved or the players' career trajectories. It does not offer actionable insights or a deeper understanding of the trade's significance.",
+    "source": "gpt"
+  },
+  "9bee4797e604e36a4920ed6f9d39b06d": {
+    "score": 0.6,
+    "reason": "The story informs readers about a strategic decision made by the Colorado football team and provides context about NCAA rules regarding redshirt status. However, it does not delve into the potential impact of this decision on the team's performance or Lewis's future career.",
+    "source": "gpt"
+  },
+  "869137ba6a304d9dffe7ba7229cb27aa": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a change in the structure of the World Cup, which could impact the strategies of teams and the viewing experience of fans. However, it does not delve into the reasons for this change or its potential impacts in depth.",
+    "source": "gpt"
+  },
+  "345c4d5ae94e7d90fa4f3510edad9748": {
+    "score": 0.5,
+    "reason": "While the story provides basic awareness about the Hall of Fame semifinalists for 2026, it does not provide insights into why these players were selected, their career achievements, or the selection process. Therefore, it offers limited depth or insight.",
+    "source": "gpt"
+  },
+  "2c2f3b1aebb3fc924c9871dafce1333c": {
+    "score": 0.8,
+    "reason": "This story provides useful information about the MLB's pre-arbitration bonus pool and its aim to increase compensation for top-performing young players. By highlighting a record-breaking bonus, it gives readers a sense of the scale of this program. However, it could provide more detail on how the program works and its impact on the sport.",
+    "source": "gpt"
+  },
+  "0624b2415298c05c79f87537d679201e": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about Aaron Rodgers' injury and potential participation in an upcoming game, but it doesn't offer any deeper insights, solutions, or significant understanding.",
+    "source": "gpt"
+  },
+  "1b317c03ae19f0865762d30c94785a1d": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant development in Brazilian politics and the legal consequences for the former president. However, it doesn't provide much context or analysis about the implications of this event.",
+    "source": "gpt"
+  },
+  "9a3e327f0928462a79048dd3dbe686bd": {
+    "score": 0.8,
+    "reason": "This story provides useful information about the state of the US economy, particularly consumer confidence and the job market. It also hints at potential policy responses, such as an interest rate cut by the Federal Reserve. However, it doesn't fully explore these topics or offer solutions.",
+    "source": "gpt"
   }
 }
