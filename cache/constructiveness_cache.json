@@ -3863,5 +3863,165 @@
     "score": 0.8,
     "reason": "This story is constructive as it offers a deeper understanding of the ongoing tensions between Taiwan and China. It reports on Taiwan's proposed solution to strengthen its security by increasing defense spending. However, the story could provide more context or analysis to fully inform readers about the implications of this proposal.",
     "source": "gpt"
+  },
+  "9d099774b4d3f2e105d4b4a3ee7c30f1": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "e5b5da7ac15b98e7f443480cee10684b": {
+    "score": 0.072,
+    "reason": "keywords (1): recovery; semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "48e13d2d10e7def9cf5008fad65719f0": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "7d2b2bf021691553d718ef1a39f57855": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "e64120cce810c1b20a0d06d364696ca8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "4848a8308d966d99ddc4bada00125d61": {
+    "score": 0.091,
+    "reason": "keywords (1): strategy; semantic: pos_sim=0.16, neg_sim=0.00; semantic_boost=0.04",
+    "source": "heuristic"
+  },
+  "cd3921ba59e5e58939b02601702ad038": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "c525b0c2f041459e3bb219531b9b22e4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "3acd28fc027d692125c8bdb13bc70525": {
+    "score": 0.1,
+    "reason": "keywords (2): effort, support; semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "a6d7891b8d98276e4daa1e264c111a53": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "bcf24301e87868acaab7c7b364712b69": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "fcbdf4627369c1304513223076ec9671": {
+    "score": 0.12,
+    "reason": "keywords (2): expand, launch; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "cc0f96a64f51136b85b65d7339302a4d": {
+    "score": 0.047,
+    "reason": "semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "da5b62a9c86dd07c0f50946c151da207": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "559b45fff255207bd4f516b8102d3195": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "ddf443054896a206368972bf825e1be4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b4a81644d1ea226e4c5d462e6f254acf": {
+    "score": 0.023,
+    "reason": "keywords (1): plan; negative_penalty=0.05 (keywords: attack); semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "42a52b854378d523e718df6506e04e12": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the current situation of ByteDance and its relationship with Chinese regulators. It also gives insight into the broader context of tech companies and regulatory challenges in China. However, it does not report on solutions or improvements, and its depth is limited to the specific incident.",
+    "source": "gpt"
+  },
+  "c8c0fa1ae7f76e7bffb91f80ff70536c": {
+    "score": 0.9,
+    "reason": "This story is highly constructive as it not only informs about Apple's decision and the reasons behind it, but also raises awareness about the issue of conflict minerals and associated human rights abuses. It also reports on the company's proactive steps to review its supply chain practices, indicating a solution-oriented approach.",
+    "source": "gpt"
+  },
+  "cf1d08a1f612441ee1ec27bf13563c24": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness of the death of a prominent fashion designer and her contributions to the industry. However, it lacks depth and does not provide actionable insights or deeper understanding, nor does it report on progress or solutions.",
+    "source": "gpt"
+  },
+  "7a5f19adb750cd7f3cb4ca149b855d12": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the return of Dror Or's remains, but it does not delve deep into the causes, implications, or potential solutions to the issue of abductions. It does, however, provide a basic level of awareness about the ongoing efforts to account for hostages.",
+    "source": "gpt"
+  },
+  "a632ae4c3712f029f8b107fa7f4f674a": {
+    "score": 0.8,
+    "reason": "The story is constructive as it raises awareness about the health concerns related to the use of Ajax armoured vehicles in the British Army. It also reports on the ongoing investigation into these health concerns, which shows an attempt to solve the problem. However, it lacks detailed insights on the broader implications or potential solutions.",
+    "source": "gpt"
+  },
+  "96729c030ee15a99d3ff6216b79b4df1": {
+    "score": 0.7,
+    "reason": "The story provides useful information about the actions of the Trump administration, contributing to the reader's understanding of US foreign policy during that period. However, it does not provide a deep analysis of the causes, impacts, or potential solutions to the issues discussed, such as the situation in Belarus or the US chip industry.",
+    "source": "gpt"
+  },
+  "ff69785787e34e4025aaca93db871d14": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the legal proceedings related to the 2020 election, and the decision of the Georgia judge. However, it doesn't offer insights into the broader implications or context of this decision, or how it might impact future elections or the political climate.",
+    "source": "gpt"
+  },
+  "74a71029d2f9d061d18750d912d420fe": {
+    "score": 0.8,
+    "reason": "The story informs about a resolution passed by the European Parliament, increasing awareness about the ongoing efforts to protect minors online. It also provides context about the non-binding nature of the resolution and the independent actions of some EU countries. However, it lacks information on what specific problems this resolution aims to solve, or how effective such measures have been in the past.",
+    "source": "gpt"
+  },
+  "faf151b492e91a877a4d2ac206c27f4e": {
+    "score": 0.7,
+    "reason": "The story provides useful information about the legal decision against former President Sarkozy, contributing to readers' understanding of political accountability in France. However, it doesn't delve into the broader impacts of this decision on French politics or campaign financing laws, limiting its usefulness for decision-making or sense of agency.",
+    "source": "gpt"
+  },
+  "3dceeaae324ff4bb9dc6d1376b51f9cf": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the political crisis in Guinea-Bissau but lacks depth or insight. It does not provide actionable insights or deeper understanding of the situation, nor does it report on solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "dafb68ca210fe1c2022652d50136eb2b": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about Mark Stone's return to the lineup but lacks depth or insight. It does not provide actionable insights or deeper understanding of the situation, nor does it report on solutions or attempts to solve a problem.",
+    "source": "gpt"
+  },
+  "dc259072d19529c9c6bc5e6ba5df3564": {
+    "score": 0.8,
+    "reason": "The story provides useful information about safety concerns in the NBA. It reports on Luka Don\u010di\u0107's call for safety changes, which could be seen as an attempt to solve a problem. However, it does not clearly highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "8d6fc2201e530e8a1a49c13c689e1b60": {
+    "score": 0.7,
+    "reason": "This story is constructive as it provides useful information for readers who participate in fantasy football. It offers actionable insights such as player rankings and start-sit advice, which can help readers make informed decisions about their teams.",
+    "source": "gpt"
+  },
+  "43588f8893e467eb87b9582268cbfb6d": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a tragic event, but it lacks depth or insight. It does not provide any actionable insights or deeper understanding for the reader, nor does it report on any solutions or improvements. It also does not increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "548b3257dfe526204c48a46932b0cd4c": {
+    "score": 0.6,
+    "reason": "This story informs readers about the new jerseys for the U.S. hockey teams in the upcoming Winter Olympics and Paralympics. It provides useful information for fans and increases awareness about the event. However, it does not provide any actionable insights or report on solutions, improvements, or innovations.",
+    "source": "gpt"
   }
 }
