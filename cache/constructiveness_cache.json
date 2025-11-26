@@ -3703,5 +3703,165 @@
     "score": 0.8,
     "reason": "This story provides useful information about the state of the US economy, particularly consumer confidence and the job market. It also hints at potential policy responses, such as an interest rate cut by the Federal Reserve. However, it doesn't fully explore these topics or offer solutions.",
     "source": "gpt"
+  },
+  "7598e5791fc49d634dd0227f8b8af9f9": {
+    "score": 0.048,
+    "reason": "semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "403683b5afc6f81ca32390fd55748e8e": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "91ecf8abb0f2ae033d7b847f6e2a0228": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "3c76be7d343e9393bcfb322f44395ae7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.13",
+    "source": "heuristic"
+  },
+  "9ee7bbad30e5db80dd43cdb08ab66b13": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "04397db56c7210f70caec83afe71aeb1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "b8301e7dfe2cd36d85883855105b14ba": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "8298682c8f8eea7cf10d95c2b4481633": {
+    "score": 0.05,
+    "reason": "keywords (1): effort; semantic: pos_sim=0.06, neg_sim=0.07",
+    "source": "heuristic"
+  },
+  "0b67c15000190ea975f2d1fa10fac533": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "9c00980415a3a00739b14422a680266a": {
+    "score": 0.048,
+    "reason": "keywords (1): collaboration; negative_penalty=0.05 (keywords: lawsuit); semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "67f92ac25d15af0f8e7ec44006a374f7": {
+    "score": 0.05,
+    "reason": "keywords (1): investment; semantic: pos_sim=0.00, neg_sim=0.11",
+    "source": "heuristic"
+  },
+  "db9e51d41531971bc8c1d3cccd617a13": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "b7fcf6d41b3a73ec3146b9262733d53f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "a697a5e7cf3367dd70c2b0612dccbd1f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09",
+    "source": "heuristic"
+  },
+  "b4b3fa6dad204a82fc2e3caf24a3df5b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7d514e5d07df9488c493d87a50e73ca3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "92340dcadbf18bb426292a4f8ef76100": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0255ffface3398db5b57a7033a63d3e6": {
+    "score": 0.6,
+    "reason": "This story is constructive as it provides useful information about the Pope's first foreign trip and his agenda for peace and unity. However, it lacks details on the solutions or specific plans to achieve this peace and unity.",
+    "source": "gpt"
+  },
+  "c1290d06e8f3448ae7552d79b125429d": {
+    "score": 0.8,
+    "reason": "This story is informative and provides context about the severe monsoon floods in Thailand and Malaysia. It also highlights the ongoing rescue operations and efforts to move residents to safety, indicating progress in addressing the crisis.",
+    "source": "gpt"
+  },
+  "98d109e4c1d872a8ff03acb672ecf876": {
+    "score": 0.3,
+    "reason": "While the story provides basic awareness about a crime and its punishment, it lacks depth or insight that could contribute meaningfully to the reader's understanding or decision-making. It does not provide any information about prevention, societal implications, or the justice system's functioning.",
+    "source": "gpt"
+  },
+  "821567319873a28962161a5a78f5ea03": {
+    "score": 0.6,
+    "reason": "This story provides useful information about an ongoing FBI investigation, which could potentially impact political and legal landscapes. However, it doesn't offer any solutions or progress, nor does it provide a deep understanding of the systems or impacts involved.",
+    "source": "gpt"
+  },
+  "854a4b851eac210e41d252a3953c928c": {
+    "score": 0.3,
+    "reason": "While the story informs readers about the death of a public figure, it doesn't provide actionable insights or deeper understanding. There is no reporting on solutions, improvements, or innovations, and it doesn't increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "cbb8a673e29f07f0ebf41ea45af25a25": {
+    "score": 0.6,
+    "reason": "This story provides useful context about the ongoing tension between China and Taiwan, and the potential international implications. However, it doesn't report on any solutions or progress, and while it raises awareness about the situation, it doesn't provide a deep understanding of the causes or impacts.",
+    "source": "gpt"
+  },
+  "5f1985e78f4c6ed5caecb81c93f97109": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a fire incident in a Hong Kong high-rise. However, it lacks depth or insight into the cause of the fire, potential solutions to prevent such incidents, or actionable insights for readers.",
+    "source": "gpt"
+  },
+  "2f6aa7917d6f4d509728bcc3fb17649c": {
+    "score": 0.6,
+    "reason": "This story informs about a legal challenge to a new law in Australia, providing some context around the issue of age restrictions on social media. However, it doesn't provide much in the way of actionable insights or a deep understanding of the issue.",
+    "source": "gpt"
+  },
+  "190b459f88eb1a8309e8dba4552988f4": {
+    "score": 0.7,
+    "reason": "This story provides useful information about Taiwan's proposed defense spending increase and its intended purpose. It offers a deeper understanding of the country's strategic response to threats from China, even though it doesn't highlight specific solutions or innovations.",
+    "source": "gpt"
+  },
+  "1330525dcb02afacfd6bedc325c41e9a": {
+    "score": 0.6,
+    "reason": "This story informs readers about the successful rescue of abducted schoolgirls, providing a sense of progress in a difficult situation. However, it does not provide much depth or insight into the broader issue of child abductions in Nigeria, and does not offer actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "a51bb2cfb33d7ef583815f40a16b88b5": {
+    "score": 0.8,
+    "reason": "The story provides useful information about ongoing peace talks between the US and Russia regarding Ukraine. It informs about the progress in diplomacy, even though a solution has not yet been reached. However, it lacks specific details about the proposed peace plan or the key issues being discussed.",
+    "source": "gpt"
+  },
+  "dc10817df1c624ddb115266868a96df2": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness of the annual Thanksgiving turkey pardoning ceremony, but it does not provide meaningful insights or depth. The focus on jokes and criticism of political opponents detracts from the potential usefulness of the story.",
+    "source": "gpt"
+  },
+  "7ec5fee38a587cb9efbdb6608847b235": {
+    "score": 0.9,
+    "reason": "This story is constructive as it reports on a significant legislative change in Italy aimed at addressing and deterring gender-based killings. It provides actionable insight into the new law and its potential impacts, thereby contributing to readers' understanding and awareness of efforts to combat violence against women.",
+    "source": "gpt"
+  },
+  "1dee78bb50d754f08de47bd074dd2b09": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the ongoing conflict between Israel and Hamas, including the recent airstrike and the identification of a hostage's remains. However, it does not offer clear solutions or progress towards resolving the conflict, limiting its constructive value.",
+    "source": "gpt"
+  },
+  "31054f23b35f2457ecf5f5a9f74c6776": {
+    "score": 0.8,
+    "reason": "This story is constructive as it offers a deeper understanding of the ongoing tensions between Taiwan and China. It reports on Taiwan's proposed solution to strengthen its security by increasing defense spending. However, the story could provide more context or analysis to fully inform readers about the implications of this proposal.",
+    "source": "gpt"
   }
 }
