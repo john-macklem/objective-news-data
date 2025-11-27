@@ -4163,5 +4163,110 @@
     "score": 0.6,
     "reason": "The story provides useful information about a major move for the Blue Jays, which shows their commitment to competing at a high level. However, it does not delve into the potential impacts of this signing or provide any broader context about the team's strategy.",
     "source": "gpt"
+  },
+  "974b409236d5b6ebbf057ff916014a26": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "3d2a7c3a43cd3e270afd5b49b430f8e6": {
+    "score": 0.05,
+    "reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "57b69a8b1f5230392dc6c5dc55205809": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "cf28eefd2a1c8c000a2da31aa0ffae87": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "d78e4bac152bd0ff6a78c4a64e641f50": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.14",
+    "source": "heuristic"
+  },
+  "4cb8f7cc14e0c365fe6e65ad2b5fa5ff": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "799a5aa69d720baf7f848d5aae06d1a0": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about a tragic event, but lacks depth or insight. It does not provide actionable insights or deeper understanding for the reader. It does not report on solutions, improvements, innovations, or attempts to solve problems. It does increase clarity around an impact that matters.",
+    "source": "gpt"
+  },
+  "d7e9635746ae9727902296aa3df7e77c": {
+    "score": 0.8,
+    "reason": "The story informs and contextualizes usefully about a significant business event. It provides actionable insights and deeper understanding about the strategies companies use to prevent takeovers. However, it does not clearly highlight progress, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "f223e002148838d236378c1a8036e709": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about a tragic event, but lacks depth or insight. It does not provide actionable insights or deeper understanding for the reader. It does not report on solutions, improvements, innovations, or attempts to solve problems. It slightly increases clarity around an impact that matters.",
+    "source": "gpt"
+  },
+  "3943b9e051384f957030b8de4514541e": {
+    "score": 0.7,
+    "reason": "This story provides useful information about the Pope's visit to Turkey and his diplomatic efforts. It gives a clear understanding of the Pope's mission and the political and religious context of his visit. However, it does not report on specific solutions or progress.",
+    "source": "gpt"
+  },
+  "a6003c20a0ebcd67754422727c6a1d10": {
+    "score": 0.6,
+    "reason": "This story informs readers about the ongoing debates around the assisted dying bill in the UK, providing context and awareness about the legislative process. However, it does not provide actionable insights or report on specific solutions.",
+    "source": "gpt"
+  },
+  "7eceee567f0a74bab34d5c28cb2290d4": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the England cricket team's response to their loss in the first Ashes match. However, it does not provide deeper insights or understanding, nor does it report on specific solutions or improvements.",
+    "source": "gpt"
+  },
+  "92e5628c47e3382013450424a62b9132": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the situation between Anthony Rendon and the Los Angeles Angels. However, it does not provide any actionable insights or deeper understanding about the implications of such a decision or the reasons behind it.",
+    "source": "gpt"
+  },
+  "8200fec975dc40f8adb19135061bb9ea": {
+    "score": 0.3,
+    "reason": "The story provides a basic recap of a sports event but does not offer any deeper insights or analysis. It doesn't contribute to the reader's understanding beyond the game's outcome.",
+    "source": "gpt"
+  },
+  "0aef4473658b8a49491640551046f659": {
+    "score": 0.8,
+    "reason": "This story is useful for readers who participate in fantasy football, providing them with actionable insights for their game strategy. However, it does not report on any progress or solutions, nor does it provide a broader understanding of systems or trends.",
+    "source": "gpt"
+  },
+  "8546f64cbe98f3bfc017f9716f773d53": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about a new appointment in the University of Louisiana at Monroe's athletic department. However, it doesn't provide any deeper insights into how this change might affect the university's athletic programs or any plans that the new director might have.",
+    "source": "gpt"
+  },
+  "6601708677a0de1d1d98b8683b95ad80": {
+    "score": 0.3,
+    "reason": "This story provides a basic update on a sports event, informing readers about the outcome of a Champions League match. However, it doesn't offer any deeper analysis or insights into the game, nor does it provide any actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "a7b0eadd1d6b313c0da0238f2fe6856c": {
+    "score": 0.3,
+    "reason": "This story provides basic information about the new jerseys for the U.S. hockey teams for the 2026 Winter Olympics and Paralympics. However, it doesn't offer any deeper insights or context about the design process, the significance of the jerseys, or how they might impact the team's performance or morale.",
+    "source": "gpt"
+  },
+  "1b9ea3ff757e571c308922885444df6b": {
+    "score": 0.3,
+    "reason": "This story is not very constructive. It provides basic awareness about a temporary issue with Netflix, but it doesn't offer any deeper understanding or actionable insights. It also doesn't report on solutions or improvements, as the issue was resolved quickly and the service is now operating normally.",
+    "source": "gpt"
+  },
+  "bc765aeb69ebc6fbfb74da29b5d48b2d": {
+    "score": 0.7,
+    "reason": "This story is somewhat constructive. It provides useful information about how Chinese tech companies are adapting to U.S. export controls, which could be useful for readers interested in the global tech industry. However, it doesn't report on any solutions or improvements to the situation.",
+    "source": "gpt"
+  },
+  "2da9dd8a9d4f5f744c993a14a35cd5f0": {
+    "score": 0.8,
+    "reason": "This story is quite constructive. It provides useful information about JPMorgan's investment in London, which could be useful for readers interested in the financial industry. It also reports on a positive development for the Canary Wharf district. However, it could provide more context or insight to be fully constructive.",
+    "source": "gpt"
   }
 }

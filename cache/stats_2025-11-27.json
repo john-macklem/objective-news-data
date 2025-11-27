@@ -1,8 +1,8 @@
 {
-  "fetched": 2157,
-  "filtered": 1015,
-  "clustered": 85,
-  "scored": 38,
+  "fetched": 2171,
+  "filtered": 1043,
+  "clustered": 74,
+  "scored": 36,
   "feeds": {
     "feeds_total": 51,
     "url_normalized": 11,
@@ -24,17 +24,17 @@
   },
   "cache_metrics": {
     "summary": {
-      "load_ms": 12,
-      "hit": 14,
-      "miss": 18
+      "load_ms": 16,
+      "miss": 19,
+      "hit": 13
     },
     "headline": {
-      "hit": 14,
-      "miss": 18
+      "miss": 19,
+      "hit": 13
     },
     "constructiveness": {
-      "hit": 9,
-      "miss": 43
+      "miss": 27,
+      "hit": 15
     }
   }
 }
