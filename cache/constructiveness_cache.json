@@ -4268,5 +4268,140 @@
     "score": 0.8,
     "reason": "This story is quite constructive. It provides useful information about JPMorgan's investment in London, which could be useful for readers interested in the financial industry. It also reports on a positive development for the Canary Wharf district. However, it could provide more context or insight to be fully constructive.",
     "source": "gpt"
+  },
+  "96769f6f39b686435c54c23d865db041": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "7e46a48c8203aeefcfbefb267d532018": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.06, neg_sim=0.07",
+    "source": "heuristic"
+  },
+  "1caef256290969d44350634860f126f5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "2d14d3e0ed231c2e2a79cc0a5353ac4b": {
+    "score": 0.072,
+    "reason": "keywords (1): effort; semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "d0415e11779a98a303a5271bd41720f4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "e31f884693312e6347e37d5ccd5386e3": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: fail); semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "9d21093f580e87738524aa7a44fbaaeb": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.15 (keywords: attack, criticism); semantic: pos_sim=0.00, neg_sim=0.14",
+    "source": "heuristic"
+  },
+  "f94c1663398db25bca719d00aeeab77a": {
+    "score": 0.083,
+    "reason": "keywords (1): research; semantic: pos_sim=0.19, neg_sim=0.05; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "ba4378d251b61568b4c40af33de0bebd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "273a8ad9841dee1c95c31f026b0ff6f6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "faa14ded2a430945367bad546d611aac": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "bff55e55deba57325db4b568e8935756": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "cc2d2a93aaede3bc8ec1b16bf385a1ae": {
+    "score": 0.6,
+    "reason": "The story informs about a tragic event and its aftermath, providing the reader with a deeper understanding of the situation. It also mentions the arrest of construction company executives, pointing to possible accountability, and the order for inspections of public housing, which could be seen as an attempt to prevent similar incidents in the future.",
+    "source": "gpt"
+  },
+  "1ad663e9644e7e8d878c55ec1cd26a20": {
+    "score": 0.8,
+    "reason": "The story is constructive as it informs about a new policy and its intended purpose. It gives readers an insight into the government's response to security concerns, which can help them understand the current political climate in France and Europe. However, it lacks details on how the program will be implemented and its potential impacts.",
+    "source": "gpt"
+  },
+  "5980005fb8da13bedc7fd744afeb3edf": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the ongoing conflict in Ukraine and Russia's position on it. However, it lacks depth as it does not provide much context about the conflict or the proposed peace deal, and does not offer insights into the potential impacts of the situation.",
+    "source": "gpt"
+  },
+  "331c0d00659e2e062ed74e71f0b44b06": {
+    "score": 0.7,
+    "reason": "The story provides useful information about the current situation between Venezuela and the US, as well as the impact on international airlines. It increases clarity around the current tensions and the repercussions of these tensions. However, it doesn't report on any solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "e594d5d4e2d8b47bb20648ca24d64aa4": {
+    "score": 0.047,
+    "reason": "semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05; missing GPT constructiveness result",
+    "source": "heuristic"
+  },
+  "386962bb59184ea2384129b3d7c31308": {
+    "score": 0.054,
+    "reason": "semantic: pos_sim=0.22, neg_sim=0.00; semantic_boost=0.05; missing GPT constructiveness result",
+    "source": "heuristic"
+  },
+  "ed01365d49622c3041e88c5a0f007a6a": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the Operation Allies Welcome program and the security measures it involves. However, it does not report on solutions or improvements and does not significantly increase clarity around systems or impacts.",
+    "source": "gpt"
+  },
+  "a71b8b9496a1476605d56a4e5bc19bce": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the situation of a specific individual and the broader issue of youth detention in conflict zones. However, it does not provide a deeper understanding of the systemic issues, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "d689438783db121ef22837d3e6d15e14": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the impact of the rocket attack on the energy infrastructure and the potential actors behind it. However, it does not report on solutions or improvements, nor does it provide a deeper understanding of the underlying causes or trends.",
+    "source": "gpt"
+  },
+  "fb32f3be93e47e50352085daca562885": {
+    "score": 0.6,
+    "reason": "The story is useful to readers as it provides actionable information about which stores and restaurants will be open on Thanksgiving Day. However, it does not provide any deeper understanding or insight into a broader issue, nor does it report on solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "875dec828ccc9d1ea677600d13e6e41f": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about the death of a notable figure in golf, but it doesn't provide much depth or insight beyond that. It does not provide actionable insights, report on solutions or improvements, or increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "ee8e14c5de0d7054d9b950b3751f8886": {
+    "score": 0.6,
+    "reason": "The story is useful to readers, particularly fans of Stephen Curry or the Golden State Warriors, as it provides information about Curry's injury and expected recovery time. However, it does not provide any deeper understanding or insight into a broader issue, nor does it report on solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "b26e6887c39b92d148005ad1111828dc": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about an upcoming NFL game, including some predictions and key players to watch. However, it does not provide deeper insights or understanding that could be useful for the reader beyond the immediate context of the game.",
+    "source": "gpt"
+  },
+  "60b7338b1bd822a1c81dbac1fc0a0360": {
+    "score": 0.3,
+    "reason": "The story offers basic awareness about a player's injury during a game. It doesn't provide any in-depth analysis or context about the implications of the injury, the player's history, or how the team might adapt to his absence.",
+    "source": "gpt"
+  },
+  "567a94107fd66c004b97398cf4067779": {
+    "score": 0.6,
+    "reason": "This story provides an insight into the financial disparities in professional golf, based on the views of a prominent player. It increases awareness about a systemic issue within the sport, but it doesn't explore potential solutions or delve into the specific impacts of this disparity.",
+    "source": "gpt"
   }
 }
