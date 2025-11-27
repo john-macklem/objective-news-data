@@ -4023,5 +4023,145 @@
     "score": 0.6,
     "reason": "This story informs readers about the new jerseys for the U.S. hockey teams in the upcoming Winter Olympics and Paralympics. It provides useful information for fans and increases awareness about the event. However, it does not provide any actionable insights or report on solutions, improvements, or innovations.",
     "source": "gpt"
+  },
+  "6a0f1948c077e56037dbff784b91d124": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "b53344cfd412469d8625fe0ae3974aa9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "e4800647900aacc4def944b4163c85b4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "c324078346c4e9b79c4b370be086e5ac": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: accus); semantic: pos_sim=0.06, neg_sim=0.07",
+    "source": "heuristic"
+  },
+  "01934ca0f55e33165dec37805d859807": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "f6bca76db11d40e34d45de0570f9aacf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.06, neg_sim=0.07",
+    "source": "heuristic"
+  },
+  "c26dd00d46280b76cabaea3d051acb62": {
+    "score": 0.079,
+    "reason": "keywords (1): support; semantic: pos_sim=0.11, neg_sim=0.00; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "a5b54b44d4b31b2db537119213adb4a2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "6967ee36ea4ea4aeaee85fb27c5aea9b": {
+    "score": 0.05,
+    "reason": "keywords (1): plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "902d77d80101a91d9b62e0b18f3d99e4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "007f57fca8297b97560bc03e15294d1b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6ecfdb2bb4b09e3650a2e1c7ec52367a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c411fb67e0612407fca562fc9e58b07c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b6c42abbc915723352d11b2d2844f7aa": {
+    "score": 0.7,
+    "reason": "This story informs readers about Pope Leo XIV's first foreign trip and its intended purpose. It provides useful context about the ongoing tensions in the Middle East and the pope's expected call for peace and unity. However, it doesn't give specific insights into potential solutions or impacts.",
+    "source": "gpt"
+  },
+  "d29c87ecbe0700fc6f57ea5f87c046f1": {
+    "score": 0.6,
+    "reason": "The story provides useful information about ongoing diplomatic efforts to end the Russia-Ukraine war. It gives some context about the role of the US Army Secretary and the involvement of the Trump administration. However, it lacks depth in terms of potential solutions, progress made, or the impacts of these negotiations.",
+    "source": "gpt"
+  },
+  "c278f100aa90a8525aab8b13c9fc1a8a": {
+    "score": 0.8,
+    "reason": "This story is useful for readers as it informs them about changes in tax policy that may directly affect their finances. It provides clear information about the increase in online gambling tax and the extension of the freeze on income tax bands. However, it doesn't delve into the reasons behind these changes or their potential impacts.",
+    "source": "gpt"
+  },
+  "c4d355e4830f45492885beeebed7523b": {
+    "score": 0.6,
+    "reason": "This story provides useful information about an ongoing international legal process, contributing to readers' understanding of the issue. However, it doesn't provide much depth or insight into the broader context or implications of the situation.",
+    "source": "gpt"
+  },
+  "4254ce3c2af8defb81b025aa089323eb": {
+    "score": 0.8,
+    "reason": "The story provides useful information about new immigration rules in Ireland, which can help readers understand the government's response to the issue of asylum seekers. It also provides some insight into the intended goals of these changes, although it doesn't delve deeply into the potential impacts or alternative solutions.",
+    "source": "gpt"
+  },
+  "462b1604fbeb4d5f55694a99eb408403": {
+    "score": 0.5,
+    "reason": "While the story provides basic awareness of a violent incident in Washington, DC, it is mostly reactive and doesn't offer much in terms of depth or insight. The story doesn't provide much context or analysis, and it doesn't explore the broader implications or potential responses to the incident.",
+    "source": "gpt"
+  },
+  "642283ed91a608250610e41855af0b42": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of an incident but does not provide any actionable insights or deeper understanding. It does not report on solutions, improvements, or attempts to solve problems, and it does not increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "99836533ea22aef853d65d05faa812b7": {
+    "score": 0.6,
+    "reason": "This story informs readers about the outcome of a corruption case, providing a deeper understanding of the consequences of such actions. It does not report on solutions or improvements, but it does highlight an attempt to solve a problem, namely corruption.",
+    "source": "gpt"
+  },
+  "fa486356d87590441284bba8ba91dfb3": {
+    "score": 0.6,
+    "reason": "This story informs readers about the legal consequences of illegal campaign financing, providing a deeper understanding of the issue. It does not report on solutions or improvements, but it does highlight an attempt to solve a problem, namely illegal campaign financing.",
+    "source": "gpt"
+  },
+  "6b2247c11181969ea1c9283c36d3d210": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about a significant political event in Guinea-Bissau, but it doesn't provide enough depth or insight into the causes, consequences, or potential solutions to the crisis.",
+    "source": "gpt"
+  },
+  "b4ac3cfc9d9a1de26cccb1bb5a71ed2f": {
+    "score": 0.6,
+    "reason": "The story informs readers about a significant decision that impacts the electoral process in North Carolina. It provides useful information about the potential consequences of this decision, but it doesn't delve into the underlying issues or potential solutions related to gerrymandering.",
+    "source": "gpt"
+  },
+  "0f34caa1247dd53d181c3ab1fd7bcfe4": {
+    "score": 0.3,
+    "reason": "While the story provides basic awareness about a development in the NFL, it lacks depth and doesn't provide any significant insights or takeaways for the reader. It doesn't contribute to a deeper understanding of the sport or the factors influencing the player's decision to return.",
+    "source": "gpt"
+  },
+  "a6f9cf8885e6786f79d06eabb42b5e0d": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the tragic incident but does not offer any deeper insights or actionable information. It also does not increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "0b672bd172d20c573502b20a4114a88f": {
+    "score": 0.6,
+    "reason": "The story informs about a significant change in Aston Martin's Formula 1 management, which could have implications for the team's future performance. However, it does not provide any broader context or analysis about the impact of this change.",
+    "source": "gpt"
+  },
+  "54543308e62f9a7bfbef2595776db909": {
+    "score": 0.6,
+    "reason": "The story provides useful information about a major move for the Blue Jays, which shows their commitment to competing at a high level. However, it does not delve into the potential impacts of this signing or provide any broader context about the team's strategy.",
+    "source": "gpt"
   }
 }
