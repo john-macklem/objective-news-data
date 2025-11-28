@@ -4558,5 +4558,160 @@
     "score": 0.3,
     "reason": "This story provides basic awareness about the lineup of the Australian cricket team for an upcoming game. It does not offer any deeper insights or understanding, nor does it report on solutions, improvements, innovations, or attempts to solve problems. It also does not increase clarity around systems, causes, trends, or impacts that matter.",
     "source": "gpt"
+  },
+  "d0884f92600c70c051476d2406d99890": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.19",
+    "source": "heuristic"
+  },
+  "02f80add042eeda22ca7d2048200e2d8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09",
+    "source": "heuristic"
+  },
+  "905893055eac8331abab12a4b465e839": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "71c9032e12b988adb1d545910413239e": {
+    "score": 0.1,
+    "reason": "keywords (2): plan, sustain; semantic: pos_sim=0.00, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "9aaf1e87b0500de77a68f885a1830542": {
+    "score": 0.1,
+    "reason": "keywords (2): effort, improve; semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "7ca88102fd3951d8654d47a9867739c7": {
+    "score": 0.006,
+    "reason": "semantic: pos_sim=0.12, neg_sim=0.08; semantic_boost=0.01",
+    "source": "heuristic"
+  },
+  "fa9b2e0a529625dee3b2791d15b78e0a": {
+    "score": 0.2,
+    "reason": "keywords (4): expand, invest, investment, support; semantic: pos_sim=0.04, neg_sim=0.12",
+    "source": "heuristic"
+  },
+  "565a8bd4b2e539b483ab0a477cec6eae": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "76c9c8e4d6ac258ad1a3b031a89eacca": {
+    "score": 0.03,
+    "reason": "semantic: pos_sim=0.12, neg_sim=0.00; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "abdeb142b0c4201bcdbb24da20bffcb5": {
+    "score": 0.107,
+    "reason": "keywords (2): effort, relief; semantic: pos_sim=0.09, neg_sim=0.05; semantic_boost=0.01",
+    "source": "heuristic"
+  },
+  "0a51ef797c5aed5f1b46c6a19fbfda9d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "886bef98fda20d5b5863f877776acc7b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "959f5059466c553d183eab5b193e1652": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "29de70413358402564f56c0c7bbd2a50": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8bed49d0a8b62db4e5d11e8815967148": {
+    "score": 0.03,
+    "reason": "keywords (1): recovery; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c72ce49d8c5b8274e75c662e069c86e0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "cb956ca09a886dd6e12fdc369d2c8ccb": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the resignation of a key figure in the Ukrainian government and the ongoing corruption probe. However, it does not offer insights into the broader implications or potential solutions.",
+    "source": "gpt"
+  },
+  "68bf355f22975bea63c87f7480d64fe5": {
+    "score": 0.3,
+    "reason": "The story offers basic awareness of a potential meeting between Trump and Maduro, but it lacks depth or insight into the significance of this meeting or its potential impacts on US-Venezuela relations.",
+    "source": "gpt"
+  },
+  "44483e9941da0c087b3ff04383c21dbd": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant event in Ukrainian politics, providing context about the ongoing bribery investigation. However, it doesn't provide actionable insights or highlight potential solutions to corruption.",
+    "source": "gpt"
+  },
+  "a53e06ad91f499504631c30848d4b5ca": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of the conflict between Israel and Syria, but it lacks depth or insight into the underlying causes, potential solutions, or the broader implications of the event. It mainly focuses on the negative aspects of the event without providing actionable insights or deeper understanding.",
+    "source": "gpt"
+  },
+  "28afbb749aac6f69874d89291463f409": {
+    "score": 0.6,
+    "reason": "The story informs about the natural disaster and the ongoing rescue efforts, providing some context on the situation. However, it does not delve into the causes of such disasters, potential prevention strategies, or the long-term impacts on the affected communities.",
+    "source": "gpt"
+  },
+  "8411173caf86c68dcc51a06d9d3d7e85": {
+    "score": 0.9,
+    "reason": "This story clearly highlights progress in interfaith dialogue and reconciliation. It provides empowering knowledge by highlighting the Pope's call for unity and peace, which can inspire readers to reject violence and promote peace. It also offers a deeper understanding of the significance of the Pope's visit to the site of the First Council of Nicaea.",
+    "source": "gpt"
+  },
+  "51a24068062bf24e6debbeb8f761f79d": {
+    "score": 0.7,
+    "reason": "This story provides useful information about the ongoing political tensions and efforts to address corruption in Ukraine. However, it does not offer solutions or improvements, nor does it delve deeply into the causes or impacts of the situation.",
+    "source": "gpt"
+  },
+  "8524c19df27c9b188597f6aad22cad6e": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the ongoing conflict in the region, but lacks depth or insight into the causes, impacts, or potential solutions. The story does not provide actionable insights for the readers.",
+    "source": "gpt"
+  },
+  "c98e8009fa7d8017a90cdd8b7a0ac321": {
+    "score": 0.8,
+    "reason": "The story provides useful context about the disruption in the CME Group's global futures exchange. It also informs about the cause of the disruption and mentions ongoing efforts to prevent future issues, which is indicative of progress.",
+    "source": "gpt"
+  },
+  "7099b7c6533531f40570532bb200dfb0": {
+    "score": 0.6,
+    "reason": "The story provides useful information about an ongoing investigation into a serious incident involving the Israeli military. It helps to increase awareness about the situation in the region, although it does not offer any solutions or deeper insights into the underlying issues.",
+    "source": "gpt"
+  },
+  "1c95daa774a0d9210f97ccb02a8f781c": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about Iran's decision to boycott a World Cup draw event due to visa issues. It does not provide a deeper understanding of the political or diplomatic implications of this decision, nor does it suggest any potential solutions.",
+    "source": "gpt"
+  },
+  "6f643a0236485406483ca694a96bcc40": {
+    "score": 0.3,
+    "reason": "The story provides basic information about an upcoming NFL game, which may be of interest to sports fans. However, it does not offer any actionable insights or deeper understanding of the sport, the teams, or the players involved.",
+    "source": "gpt"
+  },
+  "827d20562459d79be5d28bd19a59a800": {
+    "score": 0.6,
+    "reason": "This story provides useful information for those interested in the Qatar Grand Prix, including the starting positions of key racers and how this might affect the title race. However, it doesn't provide much depth or context about the significance of these positions, or offer any insight into the strategies or innovations being used by the racers.",
+    "source": "gpt"
+  },
+  "dc3a72f3a523cb29355d35e0dac9fb43": {
+    "score": 0.6,
+    "reason": "This story provides useful information for fans of the Buffalo Bills and Pittsburgh Steelers, as it informs them about the absence of key players in the upcoming game. However, it doesn't delve deeper into the potential impacts of these absences on the game's outcome or the strategies the teams might employ to compensate.",
+    "source": "gpt"
+  },
+  "34efabb6e6de2a0e16e505fea1268b74": {
+    "score": 0.8,
+    "reason": "This story offers useful information about the U.S. bid to host the 2031 Women's World Cup, including the proposed venues. It also provides some context by mentioning that seven of these stadiums are set to host matches in the 2026 Men's World Cup. However, it doesn't provide much insight into the selection process or the potential impacts of hosting the tournament.",
+    "source": "gpt"
   }
 }
