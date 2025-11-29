@@ -4713,5 +4713,135 @@
     "score": 0.8,
     "reason": "This story offers useful information about the U.S. bid to host the 2031 Women's World Cup, including the proposed venues. It also provides some context by mentioning that seven of these stadiums are set to host matches in the 2026 Men's World Cup. However, it doesn't provide much insight into the selection process or the potential impacts of hosting the tournament.",
     "source": "gpt"
+  },
+  "929911b4640acbf6aa0e3688e0fdde29": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "fea22787d9b217a6fd19776549b35c74": {
+    "score": 0.007,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.05; semantic_boost=0.01",
+    "source": "heuristic"
+  },
+  "e4fd19cb1b82d9e68fec91016b9f8f93": {
+    "score": 0.079,
+    "reason": "keywords (1): plan; semantic: pos_sim=0.12, neg_sim=0.00; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "625bee88f8c46d74251064e6a79caf72": {
+    "score": 0.322,
+    "reason": "keywords (2): program, support; phrases: restored; semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "45d17fe96fc22576370567317aa0afe5": {
+    "score": 0.032,
+    "reason": "semantic: pos_sim=0.18, neg_sim=0.05; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "75ac4cfbf1fb8fd4366c8e5068de6007": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3606dbabbd79de5434c1d5a677301cb5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7ffe20626a33bfada096c539272653b5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3b535379176ef79fab5eb5cff6f3e9f5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c35d1e270ac1b55d315c7f5df23c310c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "63259c18fe4437de3bedd6bee74966b3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "da9fb67ac1da2cfbfa8ceedcc0e46981": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a significant policy change, but it does not delve into the potential impacts or the reasons behind the decision in depth. It does not report on any solutions, improvements, or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "b4ecd1772cc6e5050ebb560923e663ca": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a high-profile legal case, but it does not offer much insight into the wider implications or context. It does not report on any solutions or improvements, but it does provide some awareness of the issue of corruption in Honduras.",
+    "source": "gpt"
+  },
+  "48b54df47c1061b53e6cf3096efe9aff": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a political scandal, but it does not offer much depth or insight into the wider implications or context. It does not report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "83fd22296eff6dcfb65bb3e07aeb2850": {
+    "score": 0.6,
+    "reason": "This story provides useful context and information about the legality of using an autopen for signing executive orders, debunking Trump's claim. However, it doesn't report on solutions or improvements and doesn't significantly deepen understanding of the broader political system.",
+    "source": "gpt"
+  },
+  "625fff17254411624ea969940bd7bf8c": {
+    "score": 0.8,
+    "reason": "This story informs readers about a specific incident of violence and the international response to it, increasing awareness about the ongoing conflict in the region. However, it doesn't offer actionable insights or report on solutions to the problem.",
+    "source": "gpt"
+  },
+  "6ec7d4e38f774586890a48796c28ad7e": {
+    "score": 0.7,
+    "reason": "This story provides useful information about a specific incident, contributing to a deeper understanding of the ongoing conflict in the region. It also raises awareness about the consequences of such actions. However, it doesn't provide insights into potential solutions or improvements.",
+    "source": "gpt"
+  },
+  "f9422e82463f8bb4aa1e661f7fe167bd": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a tragic event, but it does not offer much depth or insight into the situation. It does not provide actionable insights or deeper understanding for the reader, nor does it report on solutions or attempts to solve the problem. It does, however, increase clarity around an impactful event.",
+    "source": "gpt"
+  },
+  "e137ca520413c6a95c35b37d7ce7d00e": {
+    "score": 0.7,
+    "reason": "This story offers useful information about the fire and its aftermath, including the grassroots community response. It provides some depth and insight into the situation, including a personal account from a survivor. However, it does not report on solutions to the problem or give the reader actionable insights.",
+    "source": "gpt"
+  },
+  "86fd80d4611cba5945efbef9b27a43cb": {
+    "score": 0.6,
+    "reason": "This story informs readers about the Russian government's actions against independent organizations and potential restrictions on communication platforms. It provides a useful context for understanding the current state of civil society and access to information in Russia. However, it does not report on solutions or improvements, nor does it offer actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "764ae8a19716297bc08ece07e8e4b71d": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a player's return to a game, but it doesn't offer much depth or insight beyond that. It doesn't contribute to the reader's understanding of the larger context or implications.",
+    "source": "gpt"
+  },
+  "6b2c75459ab543e864d7a2c3c484d699": {
+    "score": 0.6,
+    "reason": "This story is informative as it provides context on why the Lakers are changing the court for their game. It highlights the issue of player safety and the league's response, which could potentially influence future decisions about the use of special courts.",
+    "source": "gpt"
+  },
+  "e9ebeb9ab91f60132c32c6c28d2a2e98": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness of the outcomes of the first games in the curling finals. However, it doesn't provide much depth or insight into the strategies used, the implications of the results, or the players' reactions.",
+    "source": "gpt"
+  },
+  "107e26a54a149faea503a9720ace96f8": {
+    "score": 0.4,
+    "reason": "This story offers basic awareness about the results of a college football game and the end of the season, but it doesn't provide much depth or insight beyond the scores and upcoming matchups.",
+    "source": "gpt"
+  },
+  "e4e2f232625bad344e8c9bc0128a0971": {
+    "score": 0.4,
+    "reason": "The story provides basic awareness about the NBA Cup group stage results. However, it lacks detailed insights or contextual information that could contribute to a deeper understanding of the event or the teams involved.",
+    "source": "gpt"
+  },
+  "da82d588020afed9a367d8cad28f5d0e": {
+    "score": 0.4,
+    "reason": "This story offers basic awareness about the results of a WWE SmackDown event and the build-up to the Survivor Series. However, it doesn't provide in-depth analysis or insights that would enhance the reader's understanding or decision-making.",
+    "source": "gpt"
   }
 }
