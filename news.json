@@ -53,15 +53,15 @@
     "link": "https://www.dw.com/en/pope-leo-visits-turkey-s-blue-mosque-but-does-not-pray/a-74953621?maca=en-rss-en-top-1022-rdf",
     "score_components": {
       "magnitude": 0.986,
-      "recency": 0.988,
+      "recency": 0.957,
       "consensus": 1.0,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.922,
-    "summary_source": "gpt",
+    "score": 0.913,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Pope Leo XIV visited Istanbul’s Blue Mosque during his first foreign trip as pope, marking his first visit to a Muslim place of worship since taking office in May. Unlike his recent predecessors, he did not pray during the visit, though he removed his shoes in line with tradition. The visit is part of a four-day trip to Turkey and Lebanon focused on peace and outreach.",
     "constructiveness_score": 0.8,
     "constructiveness_reason": "This story is constructive as it provides useful information about Pope Leo XIV's outreach efforts and his respect for other religious traditions. It increases awareness about interfaith relations and the Pope's role in promoting peace, but does not present any specific solutions or innovations.",
@@ -72,24 +72,23 @@
   {
     "title": "Trump says US wants to close airspace over Venezuela",
     "domain": "politics",
-    "source_domain": "financialpost.com",
-    "location": "national",
-    "published": "Sat, 29 Nov 2025 18:29:02 +0000",
-    "source": "Financial Post",
+    "source_domain": "theguardian.com",
+    "location": "global",
+    "published": "Sat, 29 Nov 2025 19:47:26 GMT",
+    "source": "The Guardian",
     "sources": [
       "Al Jazeera",
       "BBC",
       "ABC News",
       "Reuters",
       "Financial Times",
-      "The Guardian",
       "Washington Post",
       "Global News",
+      "Bloomberg",
       "Forbes",
       "Business Insider",
       "Financial Post",
-      "Deutsche Welle",
-      "Bloomberg"
+      "The Guardian"
     ],
     "domains": [
       "aljazeera.com",
@@ -97,13 +96,12 @@
       "abcnews.go.com",
       "news.google.com",
       "ft.com",
-      "theguardian.com",
       "washingtonpost.com",
       "globalnews.ca",
       "forbes.com",
       "businessinsider.com",
       "financialpost.com",
-      "dw.com"
+      "theguardian.com"
     ],
     "snippets": [
       "No immediate response from Venezuela after President Trump’s makes the announcement on social media on Saturday.",
@@ -112,16 +110,15 @@
       "President Donald Trump continues to ramp up his rhetoric against Venezuela over alleged drug trafficking.",
       "Trump says airspace above and around Venezuela should be considered closed Reuters",
       "Announcement comes after military build-up by US forces in region",
-      "President made declaration in a social media post, after FAA last week warned airlines of ‘worsening security situation’ Donald Trump said on Saturday that the airspace above and surrounding Venezuela is to be closed in its entirety. Trump, in a Truth Social post said: “To all Airlines, Pilots, Drug",
       "President Donald Trump’s announcement follows growing U.S. threats to attack Venezuela.",
       "U.S. President Donald Trump said Saturday that the airspace above and surrounding Venezuela should be considered 'closed in its entirety' to airlines, drug dealers and traffickers.",
+      "Trump Declares Venezuelan Airspace Closed Amid Attack Fears Bloomberg.com",
       "The U.S. has ramped up its military presence off the coast of Venezuela amid its war with drug cartels and push to oust President Nicolás Maduro.",
       "In a post on Truth Social, Trump told airlines to consider the airspace \"closed in its entirety.\"",
-      "WEST PALM BEACH, Fla. (AP) — President Donald Trump on Saturday said that the airspace “above and surrounding” Venezuela should be considered as “closed in its entirety,” an assertion that raised more questions about the U.S. pressure on Venezuelan leader Nicolas Maduro. The White House did not resp",
-      "The US president's warning is the latest in a string of escalatory measures against Venezuela, whose leftist President Maduro accuses the Trump administration of trying to depose him.",
-      "Trump Declares Venezuelan Airspace Closed as Attack Fears Mount Bloomberg.com"
+      "WEST PALM BEACH, Fla. (AP) — President Donald Trump on Saturday said that the airspace “above and surrounding” Venezuela should be considered as “closed in its entirety,” an assertion that raised more questions about the U.S. pressure on Venezuelan leader Nicolas Maduro. His government accused Trump",
+      "President made declaration in a social media post, after FAA last week warned airlines of ‘worsening security situation’ The Venezuelan government has responded defiantly to the heightened pressure by the US government, including Donald Trump’s recent statements on Saturday that the airspace above a"
     ],
-    "image_url": "",
+    "image_url": "https://i.guim.co.uk/img/media/dbb4eb0c231eca526c99677350db1e17a990d17f/414_0_4083_3268/master/4083.jpg?width=140&quality=85&auto=format&fit=max&s=320c80588d0b07c942884404107f65c0",
     "titles": [
       "LIVE: Donald Trump says Venezuela airspace now closed as tensions surge",
       "Trump says Venezuela airspace to be shut ‘in its entirety’ as tensions rise",
@@ -129,16 +126,15 @@
       "Trump admin live updates: Trump says Venezuelan airspace should be 'closed'",
       "Trump says airspace above and around Venezuela should be considered closed - Reuters",
       "Donald Trump says Venezuelan airspace is closed",
-      "Donald Trump says airspace above and around Venezuela is closed",
       "Trump says airlines should consider Venezuelan airspace closed",
       "Donald Trump says airspace in and around Venezuela ‘closed’",
+      "Trump Declares Venezuelan Airspace Closed Amid Attack Fears - Bloomberg.com",
       "Trump Says Air Space Above Venezuela Will Be Closed",
       "Consider airspace 'above and surrounding' Venezuela closed, Trump warns airlines",
-      "Trump says Venezuela’s airspace should be viewed as closed. It’s not clear what that means",
-      "Trump warns against flying over Venezuelan airspace",
-      "Trump Declares Venezuelan Airspace Closed as Attack Fears Mount - Bloomberg.com"
+      "Trump says Venezuelan airspace should be viewed as closed. Maduro government slams ‘colonial threat’",
+      "Venezuela denounces ‘colonialist threat’ as Trump orders airspace closed"
     ],
-    "url": "https://financialpost.com/pmn/trump-says-venezuelas-airspace-should-be-viewed-as-closed-its-not-clear-what-that-means",
+    "url": "https://www.theguardian.com/world/2025/nov/29/donald-trump-venezuela-airspace-closure",
     "alternate_urls": [
       "https://www.aljazeera.com/news/liveblog/2025/11/29/live-donald-trump-says-venezuela-airspace-now-closed-as-tensions-surge?traffic_source=rss",
       "https://www.aljazeera.com/news/2025/11/29/trump-says-venezuela-airspace-to-be-shut-in-its-entirety-as-tensions-rise?traffic_source=rss",
@@ -146,27 +142,26 @@
       "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=127815197",
       "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXk4VHEya2pxbDczZnZvY2dXX3pIUmRmX295Y25NNWJmQk5BMm5nUXNpcWw1ZXRsMUE1cTlmOFBpTUtCLUI1N2tuNkYxWVc5NWNkUFlRT2ZVQlRZMzNXQ0J3cTNWOTR5d3lSY205TTFwbHJScWtSMFN5bVJHYTZGdE9PazZucW5qZ0tIQ0F1d1laak5nWWxIZTdrWmlWNlBodEZjQTYyd0UwclRvdHBlaU9YRWhNb0cta1c1VF9n?oc=5",
       "https://www.ft.com/content/8acf0e8d-8383-48f3-a273-40712400f99d",
-      "https://www.theguardian.com/world/2025/nov/29/donald-trump-venezuela-airspace-closure",
       "https://www.washingtonpost.com/national-security/2025/11/29/trump-venezuela-air-space-closure/",
       "https://globalnews.ca/news/11550317/donald-trump-venezuela-airspace-closed/",
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3l5RzUzcVBRTldvM1VZZE13d2dSd3I2dDExM2p0UWdQYTNaMjJQNjVpOWRpUVJZcktQUjgtbFBId2dGeV9pZjZjMmlId0FKOHRMVXVzLTc2elYta0tIejZfUkR4U1BOY2NTS3dvRmZ5RUI0MHpkdWJ0dUxXZmQ2LTMtS2pwYTBJX2padXZGbjlDZlBDY3Ricy1PZHVJMzA0bWxyZUZvNkFPUHFwTFpmYnNuSQ?oc=5",
       "https://www.forbes.com/sites/saradorn/2025/11/29/trump-says-air-space-above-venezuela-will-be-closed/",
       "https://www.businessinsider.com/trump-says-airspace-above-surrounding-venezuela-to-be-closed-2025-11",
-      "https://www.dw.com/en/trump-warns-against-flying-over-venezuelan-airspace/a-74950892?maca=en-rss-en-top-1022-rdf",
-      "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3l5RzUzcVBRTldvM1VZZE13d2dSd3I2dDExM2p0UWdQYTNaMjJQNjVpOWRpUVJZcktQUjgtbFBId2dGeV9pZjZjMmlId0FKOHRMVXVzLTc2elYta0tIejZfUkR4U1BOY2NTS3dvRmZ5RUI0MHpkdWJ0dUxXZmQ2LTMtS2pwYTBJX2padXZGbjlDZlBDY3Ricy1PZHVJMzA0bWxyZUZvNkFPUHFwTFpmYnNuSQ?oc=5"
+      "https://financialpost.com/pmn/trump-says-venezuelas-airspace-should-be-viewed-as-closed-its-not-clear-what-that-means"
     ],
-    "location_scope": "national",
-    "link": "https://financialpost.com/pmn/trump-says-venezuelas-airspace-should-be-viewed-as-closed-its-not-clear-what-that-means",
+    "location_scope": "global",
+    "link": "https://www.theguardian.com/world/2025/nov/29/donald-trump-venezuela-airspace-closure",
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.986,
+      "recency": 0.991,
       "consensus": 1.0,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.896,
-    "summary_source": "gpt",
+    "score": 0.897,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "On Saturday, U.S. President Donald Trump announced on social media that the airspace above and around Venezuela should be considered \"closed in its entirety\" to airlines, drug traffickers, and others. The statement follows increased U.S. military activity near Venezuela and rising tensions with President Nicolás Maduro. Venezuela has not officially responded. The U.S. cannot legally close another country's airspace, but the warning may deter flights.",
     "constructiveness_score": 0.5,
     "constructiveness_reason": "This story provides basic awareness about the current political tensions between the U.S. and Venezuela. However, it lacks depth or insight into the implications of such a move, the legality and feasibility of it, or how it might impact the citizens of Venezuela or international relations.",
@@ -187,8 +182,8 @@
       "Washington Post",
       "New York Times",
       "Bloomberg",
-      "Fortune",
-      "Associated Press"
+      "Associated Press",
+      "Fortune"
     ],
     "domains": [
       "npr.org",
@@ -204,8 +199,8 @@
       "Former Honduran president Juan Orlando Hernández was sentenced to 45 years in prison for running a “narco-state” that helped send cocaine to the United States.",
       "Juan Orlando Hernández was accused of receiving millions in bribes and partnering with cocaine traffickers. He was convicted in Manhattan in 2024 and sentenced to 45 years in prison.",
       "Trump to Pardon Ex-Honduras Leader Convicted of Drug Trafficking Bloomberg.com",
-      "The post was part of a broader message by Trump backing Nasry “Tito” Asfura for Honduras' presidency.",
-      "Trump says he plans to pardon former Honduran President Hernandez for 2024 drug trafficking sentence AP News"
+      "Trump says he plans to pardon former Honduran President Hernandez for 2024 drug trafficking sentence AP News",
+      "The post was part of a broader message by Trump backing Nasry “Tito” Asfura for Honduras' presidency."
     ],
     "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/11/AP25332779283824-e1764432751817.jpg?w=2048",
     "titles": [
@@ -214,8 +209,8 @@
       "Trump plans to pardon former Honduran president convicted of drug trafficking",
       "Trump to Pardon Juan Orlando Hernández, Honduran Ex-Leader Convicted in Drug Case",
       "Trump to Pardon Ex-Honduras Leader Convicted of Drug Trafficking - Bloomberg.com",
-      "Trump to pardon former Honduran president convicted for cocaine trafficking—while U.S. military attacks suspected drug boats",
-      "Trump says he plans to pardon former Honduran President Hernandez for 2024 drug trafficking sentence - AP News"
+      "Trump says he plans to pardon former Honduran President Hernandez for 2024 drug trafficking sentence - AP News",
+      "Trump to pardon former Honduran president convicted for cocaine trafficking—while U.S. military attacks suspected drug boats"
     ],
     "url": "https://fortune.com/2025/11/29/trump-pardon-former-honduran-president-juan-orlando-hernandez-cocaine-trafficking-venezuela-suspected-drug-boats/",
     "alternate_urls": [
@@ -230,15 +225,15 @@
     "link": "https://fortune.com/2025/11/29/trump-pardon-former-honduran-president-juan-orlando-hernandez-cocaine-trafficking-venezuela-suspected-drug-boats/",
     "score_components": {
       "magnitude": 1.0,
-      "recency": 0.931,
+      "recency": 0.902,
       "consensus": 1.0,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.889,
-    "summary_source": "gpt",
+    "score": 0.881,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Former Honduran President Juan Orlando Hernández was convicted in 2024 in a U.S. court for drug trafficking and weapons charges, receiving a 45-year prison sentence. He was found guilty of running a “narco-state” and accepting bribes from cocaine traffickers. Former U.S. President Donald Trump has stated he would pardon Hernández if re-elected.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "The story informs readers about the conviction of a former Honduran president, providing some context about his crimes. However, it does not delve into the broader implications for Honduras or the region, or how this might impact future anti-drug efforts.",
@@ -247,61 +242,129 @@
     "trending_score": 0.0
   },
   {
+    "title": "Tom Stoppard writes famous plays and movie scripts",
+    "domain": "business",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Sat, 29 Nov 2025 19:02:10 GMT",
+    "source": "BBC",
+    "sources": [
+      "Al Jazeera",
+      "NPR",
+      "BBC",
+      "Reuters",
+      "Financial Times",
+      "Washington Post",
+      "The Guardian"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "npr.org",
+      "bbc.com",
+      "news.google.com",
+      "ft.com",
+      "washingtonpost.com",
+      "theguardian.com"
+    ],
+    "snippets": [
+      "Stoppard's writing, often philosophical or scientific but consistently funny, gave rise to the term Stoppardian.",
+      "The Czech-born British playwright is known for Arcadia , Rosencrantz and Guildenstern Are Dead and The Coast of Utopia. Stoppard also wrote screenplays for Brazil and Shakespeare in Love .",
+      "Winning an Oscar for the screenplay for Shakespeare In Love, he captivated the hearts of audiences for more than six decades.",
+      "Tom Stoppard, playwright who dazzled with verbal gymnastics, dies aged 88 Reuters",
+      "Czech-born author of witty, cerebral plays was also an award-winning screenwriter",
+      "His intellectually challenging and verbally dazzling works, including “Arcadia” and “Rosencrantz and Guildenstern Are Dead,” were among the most acclaimed and oft-performed plays of the last half-century.",
+      "A theatrical sensation since the 1960s, whose dramas included Arcadia, The Real Thing and Leopoldstadt, Stoppard also had huge success as a screenwriter Tom Stoppard: a life in pictures A brilliant dramatist who always raised the temperature of the room The playwright Tom Stoppard, whose playful eru"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebce/live/5c3f61d0-cd54-11f0-9fb5-5f3a3703a365.jpg",
+    "titles": [
+      "Tom Stoppard, celebrated British playwright, dies aged 88",
+      "Acclaimed playwright Tom Stoppard dies at 88",
+      "Sir Tom Stoppard, playwright famed for his wit and depth, dies at 88",
+      "Tom Stoppard, playwright who dazzled with verbal gymnastics, dies aged 88 - Reuters",
+      "British playwright Sir Tom Stoppard dies",
+      "Tom Stoppard, playwright of electric verve, dies at 88",
+      "Tom Stoppard, playwright of dazzling wit and playful erudition, dies aged 88"
+    ],
+    "url": "https://www.bbc.com/news/articles/c74xe49q7vlo?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://www.aljazeera.com/news/2025/11/29/tom-stoppard-celebrated-british-playwright-dies-aged-88?traffic_source=rss",
+      "https://www.npr.org/2025/11/29/1115745320/acclaimed-playwright-tom-stoppard-dies-at-88",
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcVlSZEhWOUcteWFYenRTaE5lNnRMeXlxZ05NOWxIaGhiQmI1SHVCOUVoQTNfM0RWc3FNazN1WDVLamkwQmJxdFQ4VTh6VTd1SFFHdzFSRkNNcVJIYXlrTHFZZ0FpaFlBZVlhS0NfRXQ3Y0I0dFluVGVxTGNQYkwtR0pjelFxd0puRF9JRg?oc=5",
+      "https://www.ft.com/content/bd272b9f-387b-46d3-a256-9c1f67e943a9",
+      "https://www.washingtonpost.com/obituaries/2025/11/29/tom-stoppard-playwright-dead/",
+      "https://www.theguardian.com/stage/2025/nov/29/tom-stoppard-playwright-of-dazzling-wit-and-playful-erudition-dies-aged-88"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/news/articles/c74xe49q7vlo?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 1.0,
+      "recency": 0.97,
+      "consensus": 1.0,
+      "constructiveness": 0.4,
+      "proximity": 0.5
+    },
+    "score": 0.881,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "headline_source": "cache",
+    "summary": "Tom Stoppard is a Czech-born British playwright and screenwriter known for acclaimed plays such as \"Arcadia,\" \"Rosencrantz and Guildenstern Are Dead,\" \"The Real Thing,\" and \"Leopoldstadt.\" He won an Oscar for co-writing the screenplay for \"Shakespeare in Love\" and also wrote the screenplay for \"Brazil.\" Stoppard's works have been widely performed and celebrated for over six decades.",
+    "constructiveness_score": 0.4,
+    "constructiveness_reason": "This story provides basic awareness about Tom Stoppard's work and achievements. However, it lacks depth and insight into how his work contributes to the field of literature or impacts society.",
+    "constructiveness_source": "gpt",
+    "is_trending": true,
+    "trending_score": 0.75
+  },
+  {
     "title": "Hong Kong mourns after deadly fire in tall building kills 128",
     "domain": "politics",
-    "source_domain": "ft.com",
+    "source_domain": "nytimes.com",
     "location": "global",
-    "published": "Sat, 29 Nov 2025 12:06:33 GMT",
-    "source": "Financial Times",
+    "published": "Sat, 29 Nov 2025 16:57:09 +0000",
+    "source": "New York Times",
     "sources": [
       "Al Jazeera",
       "Deutsche Welle",
-      "Financial Times",
-      "The Guardian",
-      "New York Times"
+      "New York Times",
+      "The Guardian"
     ],
     "domains": [
       "aljazeera.com",
       "dw.com",
-      "ft.com",
-      "theguardian.com",
-      "nytimes.com"
+      "nytimes.com",
+      "theguardian.com"
     ],
     "snippets": [
       "Hong Kong began a three-day mourning period, after at least 128 people were killed in fires at a high-rise complex.",
       "Hong Kong is beginning a period of three days of mourning for the victims of the city's deadliest fire since 1948. China has launched a fire safety inspection campaign for high-rise buildings across the country.",
-      "Campaign will check housing and public buildings for safety, Beijing says",
-      "Families are combing hospitals hoping to find their loved ones as about 200 people still listed as missing, and at least 128 killed An outpouring of grief was set to sweep Hong Kong on Saturday as an official, three-day mourning period began with a moment of silence for the 128 people killed in one",
-      "Hope of finding survivors has dwindled, with many residents of the Wang Fuk Court towers still unaccounted for. Eight more people were arrested Friday over the blaze."
+      "After Beijing reshaped the political order in Hong Kong in its image, the fire has become a test of how well that new system can govern in a crisis.",
+      "Families are combing hospitals hoping to find their loved ones as about 200 people still listed as missing, and at least 128 killed An outpouring of grief was set to sweep Hong Kong on Saturday as an official, three-day mourning period began with a moment of silence for the 128 people killed in one"
     ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F55406a99-a7f0-4663-b7b4-e40375bdb856.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "image_url": "https://static01.nyt.com/images/2025/11/29/multimedia/29int-hongkong-fire-analysis-pczm/29int-hongkong-fire-analysis-pczm-mediumSquareAt3X.jpg",
     "titles": [
       "Hong Kong begins three-day mourning period after deadly high-rise fire",
       "Hong Kong fire: Three days of mourning as China begins probe",
-      "China launches nationwide high-rise inspections after deadly Hong Kong fire",
-      "Hong Kong begins three days of mourning after deadly apartment fires",
-      "Death Toll Rises to 128 in Hong Kong High-Rise Fire"
+      "Deadly Hong Kong Fire Is a Test of Beijing’s Rule in the City",
+      "Hong Kong begins three days of mourning after deadly apartment fires"
     ],
-    "url": "https://www.ft.com/content/8bf428d4-b675-4296-963a-1b43ece6e739",
+    "url": "https://www.nytimes.com/2025/11/29/world/asia/hong-kong-fire-beijing-john-lee.html",
     "alternate_urls": [
       "https://www.aljazeera.com/video/newsfeed/2025/11/29/hong-kong-begins-five-day-mourning-period-after-deadly-high-rise-fire?traffic_source=rss",
       "https://www.dw.com/en/hong-kong-fire-three-days-of-mourning-as-china-begins-probe/a-74949227?maca=en-rss-en-top-1022-rdf",
-      "https://www.theguardian.com/news/2025/nov/29/hong-kong-begins-three-days-of-mourning-after-deadly-apartment-fires",
-      "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire.html"
+      "https://www.theguardian.com/news/2025/nov/29/hong-kong-begins-three-days-of-mourning-after-deadly-apartment-fires"
     ],
     "location_scope": "global",
-    "link": "https://www.ft.com/content/8bf428d4-b675-4296-963a-1b43ece6e739",
+    "link": "https://www.nytimes.com/2025/11/29/world/asia/hong-kong-fire-beijing-john-lee.html",
     "score_components": {
-      "magnitude": 0.944,
-      "recency": 0.826,
-      "consensus": 0.995,
+      "magnitude": 0.892,
+      "recency": 0.916,
+      "consensus": 0.908,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.86,
-    "summary_source": "gpt",
+    "score": 0.854,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Hong Kong has begun a three-day mourning period after at least 128 people died in a high-rise fire, the city's deadliest since 1948. Around 200 people remain missing, and families are searching hospitals for loved ones. Eight additional arrests have been made in connection with the blaze. China has launched a nationwide fire safety inspection campaign targeting high-rise and public buildings.",
     "constructiveness_score": 0.8,
     "constructiveness_reason": "This story provides useful information about a tragic event, including the response from authorities and the impact on the community. It also mentions a nationwide fire safety inspection campaign in response to the incident, which indicates an attempt to address the problem and prevent similar incidents in the future.",
@@ -312,63 +375,64 @@
   {
     "title": "Oscar Piastri wins sprint race at Qatar Grand Prix",
     "domain": "sports",
-    "source_domain": "espn.com",
+    "source_domain": "sports.yahoo.com",
     "location": "national",
-    "published": "Sat, 29 Nov 2025 11:28:46 EST",
-    "source": "ESPN",
+    "published": "Sat, 29 Nov 2025 19:49:02 +0000",
+    "source": "Yahoo Sports",
     "sources": [
       "BBC",
-      "Reuters",
-      "ESPN",
+      "Yahoo Sports",
+      "The Guardian",
       "Sky Sports",
-      "Sportsnet",
-      "Forbes"
+      "Forbes",
+      "Sportsnet"
     ],
     "domains": [
       "bbc.com",
-      "news.google.com",
-      "espn.com",
+      "sports.yahoo.com",
+      "theguardian.com",
       "skysports.com",
-      "sportsnet.ca",
-      "forbes.com"
+      "forbes.com",
+      "sportsnet.ca"
     ],
     "snippets": [
       "Oscar Piastri cuts McLaren team-mate Lando Norris' championship lead by two points with victory in the sprint race at the Qatar Grand Prix.",
-      "Piastri wins Qatar sprint to trim Norris's lead to 22 points Reuters",
-      "Oscar Piastri took a pole-to-flag victory in the sprint race for the Qatar Grand Prix, with championship rivals Lando Norris and Max Verstappen finishing third and fourth.",
-      "Oscar Piastri dominated the Qatar Grand Prix Sprint to cut his deficit to championship leader Lando Norris to 22 points after the British driver finished third.",
-      "Oscar Piastri won the Qatar Grand Prix sprint race from pole position Saturday to move 22 points behind McLaren teammate Lando Norris heading into Sunday’s main Formula 1 race.",
-      "Oscar Piastri secured a dominant win in the final sprint of the season at the Qatar Grand Prix to trim Lando Norris' F1 championship lead. See the full sprint results."
+      "Oscar Piastri pips McLaren team-mate and title rival Lando Norris to pole position for the potentially title-deciding Qatar Grand Prix.",
+      "Norris slips up in final lap to give rival advantage Max Verstappen third on grid; Hamilton 18th Oscar Piastri claimed pole position for the Qatar Grand Prix, a vital result in the tense world championship fight with his McLaren teammate, Lando Norris, who was in second, and Red Bull’s Max Verstappe",
+      "Oscar Piastri continued his title-race fightback at the Qatar Grand Prix by beating championship leader Lando Norris to pole position.",
+      "Oscar Piastri secured a dominant win in the final sprint of the season at the Qatar Grand Prix to trim Lando Norris' F1 championship lead. See the full sprint results.",
+      "Oscar Piastri won the Qatar Grand Prix sprint race from pole position Saturday to move 22 points behind McLaren teammate Lando Norris heading into Sunday’s main Formula 1 race."
     ],
     "image_url": "",
     "titles": [
       "Piastri cuts Norris' title lead with Qatar GP sprint race win",
-      "Piastri wins Qatar sprint to trim Norris's lead to 22 points - Reuters",
-      "Piastri wins sprint race ahead of Russell",
-      "Dominant Piastri trims Norris' title lead with Qatar Sprint win",
-      "Piastri wins sprint race at Qatar GP to close gap on F1 leader Norris",
-      "2025 F1 Qatar Grand Prix Sprint Results: Piastri Cuts Norris’ Championship Lead With A Victory At Lusail"
+      "Title hopeful Norris beaten to Qatar pole by rival Piastri",
+      "Piastri pips Norris to Qatar GP pole after victory in sprint race closes title gap",
+      "Piastri beats Norris to Qatar pole to boost title-race fightback hopes",
+      "2025 F1 Qatar Grand Prix Sprint Results: Piastri Cuts Norris’ Championship Lead With A Victory At Lusail",
+      "Piastri wins sprint race, takes pole at Qatar GP to close gap on F1 leader Norris"
     ],
-    "url": "https://www.espn.com/f1/story/_/id/47107400/oscar-piastri-wins-qatar-gp-sprint-race",
+    "url": "https://sports.yahoo.com/articles/norris-title-bid-dented-piastri-192408611.html",
     "alternate_urls": [
       "https://www.bbc.com/sport/formula1/articles/cpwkxgwnqdzo?at_medium=RSS&at_campaign=rss",
-      "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMklhX1lZMzVhTEZNbXNjV05Ia0FpbHZYNVNGc1gxR2JNNkN0Y2tNemRla21KSUpseTBQTEl5M0YxVWN0dHlrdTZIbTN0bFlsQ3R0amExdXVFVHV5TmZEbE5KRXpxT282MHBBNXhtb2NSS1JCbThwN1N1ejFCbWxldlZfY01URndHVGd6cERJYTZQNWJ4cm56SUFKTQ?oc=5",
-      "https://www.skysports.com/f1/news/12040/13476886/qatar-gp-sprint-oscar-piastri-trims-lando-norris-championship-lead-after-dominant-win-from-george-russell-as-max-verstappen-finishes-fourth",
+      "https://www.bbc.com/sport/formula1/articles/cvgk1ekgg1zo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2025/nov/29/piastri-pips-norris-to-qatar-gp-pole-after-victory-in-sprint-race-closes-title-gap",
+      "https://www.skysports.com/f1/news/12040/13476889/qatar-gp-qualifying-oscar-piastri-beats-lando-norris-to-pole-position-to-continue-title-race-fightback",
       "https://www.forbes.com/sites/yaraelshebiny/2025/11/29/2025-f1-qatar-grand-prix-sprint-results-piastri-cuts-norris-championship-lead-with-a-victory-at-lusail/"
     ],
     "location_scope": "national",
-    "link": "https://www.espn.com/f1/story/_/id/47107400/oscar-piastri-wins-qatar-gp-sprint-race",
+    "link": "https://sports.yahoo.com/articles/norris-title-bid-dented-piastri-192408611.html",
     "score_components": {
       "magnitude": 0.986,
-      "recency": 0.933,
+      "recency": 0.992,
       "consensus": 1.0,
       "constructiveness": 0.0,
-      "proximity": 0.75
+      "proximity": 0.5
     },
-    "score": 0.851,
-    "summary_source": "gpt",
+    "score": 0.843,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Oscar Piastri won the sprint race at the Qatar Grand Prix, reducing his points deficit to McLaren teammate Lando Norris to 22 points in the Formula 1 championship. Piastri started from pole and led throughout, while Norris finished third. The result tightens the championship standings ahead of Sunday's main race.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00",
@@ -377,127 +441,12 @@
     "trending_score": 0.75
   },
   {
-    "title": "Tom Stoppard writes famous plays and movie scripts",
-    "domain": "general",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Sat, 29 Nov 2025 18:09:15 GMT",
-    "source": "BBC",
-    "sources": [
-      "NPR",
-      "BBC",
-      "The Guardian",
-      "Washington Post"
-    ],
-    "domains": [
-      "npr.org",
-      "bbc.com",
-      "theguardian.com",
-      "washingtonpost.com"
-    ],
-    "snippets": [
-      "The Czech-born British playwright is known for Arcadia , Rosencrantz and Guildenstern Are Dead and The Coast of Utopia. Stoppard also wrote screenplays for Brazil and Shakespeare in Love .",
-      "Winning an Oscar for the screenplay for Shakespeare In Love, he captivated the hearts of audiences for more than six decades.",
-      "A theatrical sensation since the 1960s, whose dramas included Arcadia, The Real Thing and Leopoldstadt, Stoppard also had huge success as a screenwriter Tom Stoppard: a life in pictures A brilliant dramatist who always raised the temperature of the room The playwright Tom Stoppard, whose playful eru",
-      "His intellectually challenging and verbally dazzling works, including “Arcadia” and “Rosencrantz and Guildenstern Are Dead,” were among the most acclaimed and oft-performed plays of the last half-century."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adff/live/8c9574b0-cd53-11f0-a892-01d657345866.jpg",
-    "titles": [
-      "Acclaimed playwright Tom Stoppard dies at 88",
-      "Playwright Sir Tom Stoppard dies at 88",
-      "Tom Stoppard, playwright of dazzling wit and playful erudition, dies aged 88",
-      "Tom Stoppard, playwright of electric verve, dies at 88"
-    ],
-    "url": "https://www.bbc.com/news/articles/c74xe49q7vlo?at_medium=RSS&at_campaign=rss",
-    "alternate_urls": [
-      "https://www.npr.org/2025/11/29/1115745320/acclaimed-playwright-tom-stoppard-dies-at-88",
-      "https://www.theguardian.com/stage/2025/nov/29/tom-stoppard-playwright-of-dazzling-wit-and-playful-erudition-dies-aged-88",
-      "https://www.washingtonpost.com/obituaries/2025/11/29/tom-stoppard-playwright-dead/"
-    ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/news/articles/c74xe49q7vlo?at_medium=RSS&at_campaign=rss",
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.977,
-      "consensus": 0.908,
-      "constructiveness": 0.4,
-      "proximity": 0.5
-    },
-    "score": 0.832,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Tom Stoppard is a Czech-born British playwright and screenwriter known for acclaimed plays such as \"Arcadia,\" \"Rosencrantz and Guildenstern Are Dead,\" \"The Real Thing,\" and \"Leopoldstadt.\" He won an Oscar for co-writing the screenplay for \"Shakespeare in Love\" and also wrote the screenplay for \"Brazil.\" Stoppard's works have been widely performed and celebrated for over six decades.",
-    "constructiveness_score": 0.4,
-    "constructiveness_reason": "This story provides basic awareness about Tom Stoppard's work and achievements. However, it lacks depth and insight into how his work contributes to the field of literature or impacts society.",
-    "constructiveness_source": "gpt",
-    "is_trending": true,
-    "trending_score": 0.75
-  },
-  {
-    "title": "US stops all new asylum and visa decisions after shooting",
-    "domain": "politics",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Sat, 29 Nov 2025 13:15:00 GMT",
-    "source": "Associated Press",
-    "sources": [
-      "Al Jazeera",
-      "Deutsche Welle",
-      "Reuters",
-      "Associated Press"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "dw.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Pause on visas and halting of asylum applications comes after shooting of two National Guard members in Washington, DC.",
-      "The decision is the latest shift in immigration policy since the National Guard shooting. It follows Trump's call to end migration from \"all third world countries.\"",
-      "U.S. Citizenship and Immigration Services has halted all asylum decisions, agency director says Reuters",
-      "US halts all asylum decisions after shooting of National Guard members AP News"
-    ],
-    "image_url": "",
-    "titles": [
-      "US pauses visas for all Afghan passport holders, halts asylum requests",
-      "US pauses all asylum decisions after DC shooting",
-      "U.S. Citizenship and Immigration Services has halted all asylum decisions, agency director says - Reuters",
-      "US halts all asylum decisions after shooting of National Guard members - AP News"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXdfRkFSN3lkaGMyRkdCUEhRb3Q3NGFNMV8xRFZrc2p6SHcwcHFRSV9lVmpCUkIwa213c1BjdndEWFp6S0hrWU9ReXA5NUN2LWFTRDhxVjlHM1V2U0FuOC1XTlZFU1hRZnJXMVNjeTZ2cTNCOExXc2lETFBNMWpmTHI1YUctM2haX21ZQmJSdXVIaXpfUVU5ZmtCelMtUm9WWTF3VmRiZVJDTTQ?oc=5",
-    "alternate_urls": [
-      "https://www.aljazeera.com/news/2025/11/29/us-pauses-visas-for-all-afghan-passport-holders-halts-asylum-requests?traffic_source=rss",
-      "https://www.dw.com/en/us-pauses-all-asylum-decisions-after-dc-shooting/a-74947938?maca=en-rss-en-top-1022-rdf",
-      "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzZrTkRIdHpQRXp1NlhKNkFKUDVVQUdVVzFvTnlRLUlfWTNyc0FIOWdGNVRsaDF6LU1XRk1kN3RkY3JKMHNNUFJLakNGX2xsZmpDQXFZVHd0dFhhaUFkVEdqXzJTbTF1d2J3RHQ2andkdVJBY3RqOWFKTF9wOTB5N3A4aFF2SGNVb0puY1hPMUVESTNtWnJiZFhua1N6OG5Wd1IzeGJxWjZPUDZIeGlaSjUteXh0WVE?oc=5"
-    ],
-    "location_scope": "national",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXdfRkFSN3lkaGMyRkdCUEhRb3Q3NGFNMV8xRFZrc2p6SHcwcHFRSV9lVmpCUkIwa213c1BjdndEWFp6S0hrWU9ReXA5NUN2LWFTRDhxVjlHM1V2U0FuOC1XTlZFU1hRZnJXMVNjeTZ2cTNCOExXc2lETFBNMWpmTHI1YUctM2haX21ZQmJSdXVIaXpfUVU5ZmtCelMtUm9WWTF3VmRiZVJDTTQ?oc=5",
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.853,
-      "consensus": 0.888,
-      "constructiveness": 0.5,
-      "proximity": 0.5
-    },
-    "score": 0.801,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "The U.S. has paused all asylum decisions and visa processing following the shooting of two National Guard members in Washington, DC. U.S. Citizenship and Immigration Services announced the halt as the latest change in immigration policy. The move comes after calls for stricter migration controls. The current status is a complete suspension of new asylum decisions.",
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story provides basic awareness about the change in U.S. immigration policy, but it lacks depth or insight into the implications of this decision or potential solutions. It does not provide actionable insights or deeper understanding for the reader.",
-    "constructiveness_source": "gpt",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
     "title": "Cyclone flooding in Sri Lanka kills 153 and many are missing",
     "domain": "general",
-    "source_domain": "theguardian.com",
+    "source_domain": "news.google.com",
     "location": "global",
-    "published": "Sat, 29 Nov 2025 16:39:55 GMT",
-    "source": "The Guardian",
+    "published": "Sat, 29 Nov 2025 18:27:19 GMT",
+    "source": "Reuters",
     "sources": [
       "Al Jazeera",
       "Reuters",
@@ -510,106 +459,37 @@
     ],
     "snippets": [
       "Some 44,000 people displaced by flooding across the country as relief operations intensify amid widespread destruction.",
-      "Sri Lanka braces for more flooding as Cyclone Ditwah claims 46 lives Reuters",
+      "Death toll in Sri Lanka rises to 153 after Cyclone Ditwah Reuters",
       "Another 191 missing after heavy rains from Cyclone Ditwah while almost 78,000 evacuated to temporary shelters amid rescue operations Torrential rains and floods triggered by Cyclone Ditwah have killed 153 people across Sri Lanka so far, with another 191 still missing, the country’s Disaster Manageme"
     ],
-    "image_url": "https://i.guim.co.uk/img/media/dcbdce75ad7f8f4ae5154e27e0ceab13e00960e9/427_0_4646_3718/master/4646.jpg?width=140&quality=85&auto=format&fit=max&s=d563a6a23ccf8ed5827e269b90ecd448",
+    "image_url": "",
     "titles": [
       "Sri Lanka seeks foreign help as Cyclone Ditwah death toll reaches 132",
-      "Sri Lanka braces for more flooding as Cyclone Ditwah claims 46 lives - Reuters",
+      "Death toll in Sri Lanka rises to 153 after Cyclone Ditwah - Reuters",
       "Sri Lanka death toll from floods and landslides reaches 153"
     ],
-    "url": "https://www.theguardian.com/world/2025/nov/28/death-toll-sri-lanka-hit-by-rising-flood-waters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcTNWYW5SR29ocWNOVmVIMFBCdEJ2a0QzRzdicllCd0JpSVFhLW1zTWlGeWtBN2h3cDV6Z21FcmdmVGIxZkpySVBmMTM2Wk52N2l1TnAxbDBURjJHTURjSjVGMFA1VUlnVTdWcUdSNU5YX2ZKOXJNcUNJMlpFNV8tRmhaU2FMeVg3VFFMN2EwOFFVS3VDN0JKQTZrVkVXSWdaOGM3NFJFUHdRWEw2?oc=5",
     "alternate_urls": [
       "https://www.aljazeera.com/news/2025/11/29/sri-lanka-seeks-foreign-help-as-cyclone-ditwah-death-toll-reaches-123?traffic_source=rss",
-      "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNFRXQ0lCdFJsNnhIWldoQi02S21ybkVxckpqQ3FNcXhzNkZ4cG9ZZTRIRHJmbUlua0p0SWtOOHpNdGczazFDOWZPQjBmMU53NWc4Zmo5Q3l1a3RTNldWY2tSTGR0VGhWakFDYmhvM2RtZl9vYUV1WGhZdHVLVFg2Q2pqZEphUm1YNlFtaGxvek5EZVJKMzV0MXdWMzlwZE1RZW9LSk1LVXI3TnVxMjAzWDh4LUVWLTQwMVQ0Y2tNdDFUSF9UUWxiVzJkdk5aYTB3dFNGejNrYWs?oc=5"
+      "https://www.theguardian.com/world/2025/nov/28/death-toll-sri-lanka-hit-by-rising-flood-waters"
     ],
     "location_scope": "global",
-    "link": "https://www.theguardian.com/world/2025/nov/28/death-toll-sri-lanka-hit-by-rising-flood-waters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcTNWYW5SR29ocWNOVmVIMFBCdEJ2a0QzRzdicllCd0JpSVFhLW1zTWlGeWtBN2h3cDV6Z21FcmdmVGIxZkpySVBmMTM2Wk52N2l1TnAxbDBURjJHTURjSjVGMFA1VUlnVTdWcUdSNU5YX2ZKOXJNcUNJMlpFNV8tRmhaU2FMeVg3VFFMN2EwOFFVS3VDN0JKQTZrVkVXSWdaOGM3NFJFUHdRWEw2?oc=5",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.938,
+      "recency": 0.955,
       "consensus": 0.789,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.797,
-    "summary_source": "gpt",
+    "score": 0.802,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Cyclone Ditwah has caused severe flooding across Sri Lanka, killing at least 153 people and leaving 191 missing. Around 44,000 people have been displaced, and nearly 78,000 have been evacuated to temporary shelters. Relief and rescue operations are ongoing as authorities brace for further flooding.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "The story informs about a natural disaster and its immediate impact, providing useful context about the scale of the disaster. However, it does not report on solutions or attempts to solve the problem, nor does it provide a deeper understanding of the cause or long-term impact of such events.",
     "constructiveness_source": "gpt",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Global airlines race to fix jets as Airbus apologises following A320 recall - Reuters",
-    "domain": "science",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Sat, 29 Nov 2025 17:29:37 GMT",
-    "source": "Reuters",
-    "sources": [
-      "CNBC",
-      "Reuters",
-      "The Guardian",
-      "Globe and Mail"
-    ],
-    "domains": [
-      "cnbc.com",
-      "news.google.com",
-      "theguardian.com"
-    ],
-    "snippets": [
-      "The European Union Aviation Safety Agency said in a directive that a JetBlue flight on Oct. 30 experienced an \"uncommanded and limited pitch down event.\"",
-      "Airbus eases estimate of A320 recall impact, sources say Reuters",
-      "Global airlines affected by major Airbus A320 recall Reuters",
-      "Airbus issues major A320 recall, threatening global flight disruption Reuters",
-      "Immediate software change on ‘significant number’ of jets to result in disruption to half the worldwide fleet Airlines around the world cancelled and delayed flights heading into the weekend after Airbus announced on Friday that it had ordered immediate repairs to 6,000 of its A320 family of jets in",
-      "Global airlines race to fix jets as Airbus apologises following A320 recall Reuters",
-      "American Airlines cuts number of jets needing Airbus software fix to 209 Reuters",
-      "Airlines warn of global travel disruptions after Airbus recall of 6,000 jets The Globe and Mail"
-    ],
-    "image_url": "",
-    "titles": [
-      "Airbus A320 recall disrupts global travel after glitch linked to solar flares",
-      "Airbus eases estimate of A320 recall impact, sources say - Reuters",
-      "Global airlines affected by major Airbus A320 recall - Reuters",
-      "Airbus issues major A320 recall, threatening global flight disruption - Reuters",
-      "Airbus issues major A320 recall after mid-air incident grounds planes, disrupting global travel",
-      "Global airlines race to fix jets as Airbus apologises following A320 recall - Reuters",
-      "American Airlines cuts number of jets needing Airbus software fix to 209 - Reuters",
-      "Airlines warn of global travel disruptions after Airbus recall of 6,000 jets - The Globe and Mail"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEJzY0JxclRYSUYtTnJqSnA5NWJCVktNcElpMWVkaHZaQU4wS3duaTVLak94X05sUVFNR1piMEVGS3V2SFR2SGg0VEdZdWVZallXNjNzYUpRYnkzNndNNENNY0MwZnpZR2dVMFV2NFl3RUJHcVVVaEJhR0FuN1VjS0J1YXV6aEZjdGlQWGtmdmlDYXIzSEdER2RuZUxmdWVfdWdiT284R2Q3QmZQY1c3VFV5X3gydDRXYlpqQ0FPRGI3TzhI?oc=5",
-    "alternate_urls": [
-      "https://www.cnbc.com/2025/11/29/airbus-recall-disrupts-global-travel-a320-jets-grounded-glitch-linked-solar-flares.html",
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVZubGVfOXgxVnhQc205V0xzVFo3QUlMTG5RT29nOXZmUmpac0pQZEpGNWRzRVNfOU1OSnpqdzlhMER5eGExdXJuZVp3QVBXQ0pobVRJbUgxaVVFeVlsVi1sVE1IbDhZaTdjaW9RU3VaeHFRQzdVVlVQZlRUdmJUTkVtdEFCbTh2YmlOLVJzTGJ0OWI5c1YwUDBfdEZlSGZqSHhBV1VuaW1EekhXUHVYOWZSakxRdw?oc=5",
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzNram5NVWpRQzAxOXBybnctNWlrdHpnWllVSlNhSXJMS2twa1ZoUmZjZ2cwbFFMX1V6a2pqNnAxVExJQlZ3U3phNlB1VmpiYUY3bW1hTXRwU1laUHkzOE13SFd4MGNraU1PbENFN0hRUktHbXJOVnBGVHZoWWtZX1dWNnZQMHA0V0tnUWlXXy1MWEl0V1lGY2phQkdhdWZnNTZLYU9wWTRyOXJEenhRRzFyVlpkdw?oc=5",
-      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSC1ieHg0cl9ka0tDWTFFYnVQZnpCZWxyajhVMHJlNGRSQ2ZwTHUzZjZzNVQ3c29CUk12bjdmSDlBOGY5dTlQWGMwZE1BOVZZcDFQTmNlMnEwcG5scGJjdXpTYWdnMzlySklWMk9VVGs4ZkZ2S0NvczlhbzNEN0VzbExEamVnVzBWWTY3S0NQTWNiSmFybldmNFh6UmZfWW81ZmxTTDB0NzhiX0hGZFF5eF95eXduT01pUVpvcFd1anl1Zw?oc=5",
-      "https://www.theguardian.com/business/2025/nov/28/airbus-issues-major-a320-recall-after-recent-mid-air-incident",
-      "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc2o3dzZ3VU9BdmY1ckstOTk4NnNyRzhSc3BNX3I3Z0JLMTBBenVDLU94bDk1X2RIN2FMY1dORTNicnNnTFZEbEFBbnhoOHg4czZBUHFtSGpGQ0Vnc0ZPNXRzbGVNd0ZQWFBobFd2RkluSHFlUTJNa3h2dXg3NU5wb25CMnU4SXNDNEdwcXVtcEFWbXJQWnliT0VsR2ZDUDVyMTNNaHJzejhnUkdkMWc5RlJkN3pPWElGbHBCaVgxS0gybGdiWmc?oc=5",
-      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRmZWLXVsRGJJY3NGZGRSREh5NUNubUtIVElPTFJpZ1Z3anF3MVZaTDZIN1RfZ09rSHN0cUcySl90U2k2SFhJNks4MzB0cC14SFkyQXA4Q1VGSmdxU3gtUThFRC15Ymg2ZXROZElkOEJMcTFWcDJCd1FjOFY4V3BiM3NGdHF1akRLLWlwOTFWdDJ1U3dIQjNuU0hpWHd4MkZidGsycjlUb3VWOVROeUhXNl9zbTU3NGRvYWIzVjhpT0R6WlliSTFoOV9IbUt5MHo5cllILQ?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEJzY0JxclRYSUYtTnJqSnA5NWJCVktNcElpMWVkaHZaQU4wS3duaTVLak94X05sUVFNR1piMEVGS3V2SFR2SGg0VEdZdWVZallXNjNzYUpRYnkzNndNNENNY0MwZnpZR2dVMFV2NFl3RUJHcVVVaEJhR0FuN1VjS0J1YXV6aEZjdGlQWGtmdmlDYXIzSEdER2RuZUxmdWVfdWdiT284R2Q3QmZQY1c3VFV5X3gydDRXYlpqQ0FPRGI3TzhI?oc=5",
-    "score_components": {
-      "magnitude": 0.932,
-      "recency": 0.96,
-      "consensus": 0.888,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.795,
-    "summary_source": "skipped",
-    "summary_reason": "skipped_due_to_budget",
-    "headline_source": "",
-    "summary": "",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
     "is_trending": false,
     "trending_score": 0.25
   },
@@ -618,7 +498,7 @@
     "domain": "sports",
     "source_domain": "espn.com",
     "location": "national",
-    "published": "Sat, 29 Nov 2025 12:36:20 EST",
+    "published": "Sat, 29 Nov 2025 14:47:56 EST",
     "source": "ESPN",
     "sources": [
       "ESPN",
@@ -649,15 +529,15 @@
     "link": "https://www.espn.com/nfl/story/_/id/47138093/center-frank-ragnow-fails-physical-not-rejoin-lions",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.963,
+      "recency": 0.991,
       "consensus": 0.789,
       "constructiveness": 0.022,
       "proximity": 0.75
     },
-    "score": 0.772,
-    "summary_source": "gpt",
+    "score": 0.78,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Frank Ragnow, a four-time Pro Bowl center, will not play for the Detroit Lions this season after failing his physical, the team announced. Ragnow had planned to come out of retirement to help the team before the playoffs, but is now ineligible to rejoin the roster.",
     "constructiveness_score": 0.022,
     "constructiveness_reason": "negative_penalty=0.08 (keywords: fail); semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
@@ -666,12 +546,109 @@
     "trending_score": 0.5
   },
   {
+    "title": "Main ice hockey arena for 2026 Olympics is delayed",
+    "domain": "sports",
+    "source_domain": "espn.com",
+    "location": "national",
+    "published": "Sat, 29 Nov 2025 14:47:56 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Sportsnet"
+    ],
+    "domains": [
+      "espn.com",
+      "sportsnet.ca"
+    ],
+    "snippets": [
+      "An official for the 2026 Milan-Cortina Olympics said \"there is no Plan B\" if the main ice hockey arena, which is still under construction, is not ready for the Winter Games.",
+      "Construction on the arena that is set to welcome NHL players back to the Olympics for the first time in more than a decade is behind schedule and going right down to the wire."
+    ],
+    "image_url": "",
+    "titles": [
+      "'No Plan B' if Olympic hockey arena is not ready",
+      "No backup plan for Olympic ice hockey arena, construction down to the wire"
+    ],
+    "url": "https://www.espn.com/olympics/story/_/id/47138756/no-plan-b-hockey-arena-not-ready-26-olympics",
+    "alternate_urls": [],
+    "location_scope": "national",
+    "link": "https://www.espn.com/olympics/story/_/id/47138756/no-plan-b-hockey-arena-not-ready-26-olympics",
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.991,
+      "consensus": 0.591,
+      "constructiveness": 0.6,
+      "proximity": 0.75
+    },
+    "score": 0.777,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Organizers of the 2026 Milan-Cortina Winter Olympics have confirmed that construction of the main ice hockey arena is delayed and nearing its deadline. An official stated there is \"no Plan B\" if the venue is not completed in time. The arena is set to host NHL players' return to Olympic competition, but its readiness remains uncertain as work continues.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about the delay in construction of the main ice hockey arena for the 2026 Winter Olympics. It informs about potential impacts on the event, but does not offer any solutions or progress towards resolving the issue.",
+    "constructiveness_source": "gpt",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "Some Black Friday tech deals are still available today",
+    "domain": "science",
+    "source_domain": "marketwatch.com",
+    "location": "global",
+    "published": "Sat, 29 Nov 2025 19:20:00 GMT",
+    "source": "MarketWatch",
+    "sources": [
+      "The Verge",
+      "MarketWatch"
+    ],
+    "domains": [
+      "theverge.com",
+      "marketwatch.com"
+    ],
+    "snippets": [
+      "Black Friday is technically a thing of the past, but many of the best deals we told you about yesterday — including deep discounts on the AirPods Pro 3, the Pixel Watch 4, and the latest Kindle Paperwhite — are still kicking for now. In some cases, gadgets are out of stock at certain stores, […]",
+      "If you’re planning to gift an Apple device this holiday season — or treat yourself — now’s the time to start shopping. Black Friday may be over, but the discounts are still going strong — and these Apple deals are some of the best we’ve seen all year. Despite having recently launched, for instance,",
+      "Deals aren’t as enticing this Black Friday compared with years past — but it’s still possible to find bargains if you know where to look."
+    ],
+    "image_url": "https://images.mktw.net/im-30557515",
+    "titles": [
+      "The 196 Black Friday deals you can still get",
+      "Black Friday deals are still going strong on Apple AirTags, iPads, and more",
+      "Scoring great Black Friday deals is getting harder. These 6 tips can help you shop smarter this weekend."
+    ],
+    "url": "https://www.marketwatch.com/story/scoring-great-black-friday-deals-is-getting-harder-these-6-tips-can-help-you-shop-smarter-this-weekend-ae2a5d2a?mod=mw_rss_topstories",
+    "alternate_urls": [
+      "https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available",
+      "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025"
+    ],
+    "location_scope": "global",
+    "link": "https://www.marketwatch.com/story/scoring-great-black-friday-deals-is-getting-harder-these-6-tips-can-help-you-shop-smarter-this-weekend-ae2a5d2a?mod=mw_rss_topstories",
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.978,
+      "consensus": 0.591,
+      "constructiveness": 0.7,
+      "proximity": 0.5
+    },
+    "score": 0.758,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Many Black Friday deals on electronics, such as AirPods Pro 3, Pixel Watch 4, and Kindle Paperwhite, are still available despite the official end of the sale. Some items may be out of stock at certain retailers. Discounts on Apple products remain among the best of the year, though overall deals are less significant compared to previous years.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story is useful for readers looking for discounted tech products, providing actionable information about which deals are still available. However, it doesn't provide any broader context or insight into trends in tech deals, the reasons for the less significant discounts compared to previous years, or the impacts of these trends.",
+    "constructiveness_source": "gpt",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
     "title": "Pope Francis starts six day visit to Lebanon",
     "domain": "general",
-    "source_domain": "washingtonpost.com",
+    "source_domain": "nytimes.com",
     "location": "global",
-    "published": "Sat, 29 Nov 2025 18:31:53 +0000",
-    "source": "Washington Post",
+    "published": "Sat, 29 Nov 2025 19:33:24 +0000",
+    "source": "New York Times",
     "sources": [
       "Washington Post",
       "New York Times"
@@ -684,28 +661,28 @@
       "A pontiff who listens more than he speaks, the 70-year-old Chicagoan is positioning himself as an antidote to an era of towering egos.",
       "The pope started his six-day trip, which will also include a visit to Lebanon."
     ],
-    "image_url": "",
+    "image_url": "https://static01.nyt.com/images/2025/12/27/multimedia/27int-pope-visual-stack-hjkq/27int-pope-visual-stack-hjkq-mediumSquareAt3X.jpg",
     "titles": [
       "The quiet pope: Leo’s first foreign trip is revealing his style",
       "Pope Leo Visits Turkey on His First Trip as Pontiff"
     ],
-    "url": "https://www.washingtonpost.com/world/2025/11/29/pope-leo-istanbul-turkey-trip/",
+    "url": "https://www.nytimes.com/2025/11/27/world/europe/pope-leo-trip-pictures.html",
     "alternate_urls": [
-      "https://www.nytimes.com/2025/11/27/world/europe/pope-leo-trip-pictures.html"
+      "https://www.washingtonpost.com/world/2025/11/29/pope-leo-istanbul-turkey-trip/"
     ],
     "location_scope": "global",
-    "link": "https://www.washingtonpost.com/world/2025/11/29/pope-leo-istanbul-turkey-trip/",
+    "link": "https://www.nytimes.com/2025/11/27/world/europe/pope-leo-trip-pictures.html",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.988,
+      "recency": 0.984,
       "consensus": 0.591,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.755,
-    "summary_source": "gpt",
+    "score": 0.754,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Pope Francis, 70, from Chicago, has begun a six-day trip that includes a visit to Lebanon. He is noted for his listening approach and aims to offer a contrast to leaders known for strong egos. The visit is part of his ongoing efforts to promote dialogue and understanding in the region.",
     "constructiveness_score": 0.7,
     "constructiveness_reason": "This story provides useful information about Pope Francis's visit to Lebanon and his approach to dialogue and understanding. It contributes to the reader's understanding of his efforts in the region. However, it does not go into detail about the specific issues he will be addressing or the potential impacts of his visit.",
@@ -714,101 +691,149 @@
     "trending_score": 0.25
   },
   {
-    "title": "Kyle Palmieri will miss season after knee injury",
+    "title": "Sam Darnold joins Seahawks as they get ready to play Vikings",
     "domain": "sports",
-    "source_domain": "sportsnet.ca",
+    "source_domain": "sports.yahoo.com",
     "location": "national",
-    "published": "Sat, 29 Nov 2025 12:49:59 EST",
-    "source": "Sportsnet",
+    "published": "Sat, 29 Nov 2025 19:29:56 +0000",
+    "source": "Yahoo Sports",
     "sources": [
-      "ESPN",
-      "NHL",
-      "Sportsnet"
+      "Yahoo Sports",
+      "Sports Illustrated"
     ],
     "domains": [
-      "espn.com",
-      "news.google.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "Islanders forward Kyle Palmieri tore his left ACL in Friday's loss to the Flyers and will miss the next six to eight months.",
-      "Isles Day-to-Day: Palmieri Out 6-8 Months NHL.com",
-      "Forward Kyle Palmieri has suffered a torn ACL and will be out for the next six to eight months, the team announced Saturday."
-    ],
-    "image_url": "https://www.sportsnet.ca/wp-content/uploads/2025/11/Pal.jpg",
-    "titles": [
-      "Islanders' Palmieri has torn ACL, out 6-8 months",
-      "Isles Day-to-Day: Palmieri Out 6-8 Months - NHL.com",
-      "Islanders’ Kyle Palmieri suffers torn ACL, out six to eight months"
-    ],
-    "url": "https://www.espn.com/nhl/story/_/id/47137980/islanders-fear-kyle-palmieri-suffered-acl-tear-sources-say",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWGZqUXFVcnlwWmJjOWNfdjA5NjlsODZyTlZocy1vdzRvV0RSQkllY0piV01BZzhJYXcxYk85d1ZPOFRpSmJqdmlJS0o4ZFBWbU9lOE84NkxaRFRjdldEaVAyaUQzbjFXMFJfUnkwMjVseXcyOE1lY3g1VVhzeTJobw?oc=5"
-    ],
-    "location_scope": "national",
-    "link": "https://www.espn.com/nhl/story/_/id/47137980/islanders-fear-kyle-palmieri-suffered-acl-tear-sources-say",
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.969,
-      "consensus": 0.789,
-      "constructiveness": 0.02,
-      "proximity": 0.5
-    },
-    "score": 0.749,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "New York Islanders forward Kyle Palmieri tore his left ACL during Friday's game against the Philadelphia Flyers. The team announced Saturday that Palmieri will be out for six to eight months as he recovers from the injury. He is expected to miss the remainder of the season.",
-    "constructiveness_score": 0.02,
-    "constructiveness_reason": "semantic: pos_sim=0.15, neg_sim=0.06; semantic_boost=0.02",
-    "constructiveness_source": "heuristic",
-    "is_trending": true,
-    "trending_score": 0.5
-  },
-  {
-    "title": "Israeli drone strike in Gaza kills two children say medics",
-    "domain": "general",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Sat, 29 Nov 2025 17:17:20 GMT",
-    "source": "Reuters",
-    "sources": [
-      "Al Jazeera",
-      "Reuters"
-    ],
-    "domains": [
-      "aljazeera.com",
+      "sports.yahoo.com",
       "news.google.com"
     ],
     "snippets": [
-      "Israeli drone attack kills two Palestinian children in southern Gaza, medics report, as humanitarian crisis deepens.",
-      "Gaza death toll tops 70,000, health ministry says Reuters"
+      "Take a journey Behind Enemy Lines to get a better idea of what the Seahawks are facing on Sunday",
+      "Sam Darnold Addresses Leaving Vikings for Seahawks Ahead of Week 13 Matchup Sports Illustrated"
     ],
     "image_url": "",
     "titles": [
-      "Gaza death toll surpasses 70,000 as Israel keeps up attacks despite truce",
-      "Gaza death toll tops 70,000, health ministry says - Reuters"
+      "Behind Enemy Lines with Vikings Wire ahead of Seahawks' Week 13 game",
+      "Sam Darnold Addresses Leaving Vikings for Seahawks Ahead of Week 13 Matchup - Sports Illustrated"
     ],
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmVyUkZ5SWR4THhhby1yNS1Oc0hIVDBWcWwxMzY2MDdPSGNpY0hPTVhpSVJ4WW51VnV5Skh3ZVRyQzVzWlRyNU1kUWFyVnJHMUp2VlROR0pkdkw1eVhGT1MtcVNrbVQ5dFdBd19qSk5YV1g4Z29PTmJjV3BTVGFsVmFQUjEtOUgtc3pLeUY0Mm96WU5rQXZGU3N1RDV1RU9yenR3?oc=5",
+    "url": "https://sports.yahoo.com/articles/behind-enemy-lines-vikings-wire-192956710.html",
     "alternate_urls": [
-      "https://www.aljazeera.com/news/2025/11/29/israeli-attack-kills-two-children-in-southern-gaza-despite-ceasefire?traffic_source=rss"
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZzF4MUF0UEVDem5hQkppN1RiVU9TT0J4ZTRrcUd0VFpHSlJMSjlDbkxiWTNwSnNHQVVXaUdncU9Mbjh5TGFTVi1TR0p4WEVQMzAtb3NhWkFILVJLUjY3M3ZMUjdYQ2lSS3JRMk1uSnlBb1hZYkdQRDR2Q2RrcldEVkJWWjQ2bTZTcjdqb3c0Y2I1am55QlVPUGg0REtmc3M?oc=5"
+    ],
+    "location_scope": "national",
+    "link": "https://sports.yahoo.com/articles/behind-enemy-lines-vikings-wire-192956710.html",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.983,
+      "consensus": 0.591,
+      "constructiveness": 0.7,
+      "proximity": 0.5
+    },
+    "score": 0.754,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Quarterback Sam Darnold discussed his recent move from the Minnesota Vikings to the Seattle Seahawks as both teams prepare to face each other in Week 13. Darnold addressed his transition and upcoming matchup, providing insights into Seattle's preparations. The Seahawks are focusing on strategies to compete against their former teammate and the Vikings in the upcoming game.",
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "The story provides valuable insights into the player's transition and the team's preparation for the upcoming game. It could have been more constructive if it provided more depth on the potential impacts of this move on the team's performance or the strategies being considered.",
+    "constructiveness_source": "gpt",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "England Women beat China 8 to 0 in football match",
+    "domain": "sports",
+    "source_domain": "theguardian.com",
+    "location": "global",
+    "published": "Sat, 29 Nov 2025 19:38:34 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "The Guardian",
+      "Sky Sports"
+    ],
+    "domains": [
+      "theguardian.com",
+      "skysports.com"
+    ],
+    "snippets": [
+      "England Women 8-0 China Mead 12 14, Hemp 16, Stanway 23 38pen 52, Toone 71, Russo 78 Deja vu? Heavy England wins have been few and far between in recent years, a 7-0 defeat of a heavily depleted and underfunded Jamaica in their final warm-up game before the Euros was the biggest since a 10-0 defeat",
+      "Georgia Stanway scored a hat-trick as England produced a scintillating attacking display to secure a record Lionesses' win at Wembley by thrashing China 8-0."
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/0874578731cf7760326f7b2647786d9c3e19392e/648_277_2576_2060/master/2576.jpg?width=140&quality=85&auto=format&fit=max&s=220535a2e62806bf6b044216ffb8404c",
+    "titles": [
+      "Georgia Stanway hits hat-trick as England score eight in demolition of China",
+      "Stanway nets hat-trick as England thrash China for record Wembley win"
+    ],
+    "url": "https://www.theguardian.com/football/2025/nov/29/england-women-china-friendly-international-match-report",
+    "alternate_urls": [
+      "https://www.skysports.com/football/england-women-vs-china-women/report/547051"
     ],
     "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmVyUkZ5SWR4THhhby1yNS1Oc0hIVDBWcWwxMzY2MDdPSGNpY0hPTVhpSVJ4WW51VnV5Skh3ZVRyQzVzWlRyNU1kUWFyVnJHMUp2VlROR0pkdkw1eVhGT1MtcVNrbVQ5dFdBd19qSk5YV1g4Z29PTmJjV3BTVGFsVmFQUjEtOUgtc3pLeUY0Mm96WU5rQXZGU3N1RDV1RU9yenR3?oc=5",
+    "link": "https://www.theguardian.com/football/2025/nov/29/england-women-china-friendly-international-match-report",
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.954,
+      "magnitude": 0.755,
+      "recency": 0.987,
       "consensus": 0.591,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.747,
+    "score": 0.751,
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "An Israeli drone strike in southern Gaza killed two Palestinian children, according to local medics. The Gaza health ministry reports the total death toll has surpassed 70,000 as the humanitarian crisis in the region worsens.",
+    "summary": "England Women's football team defeated China 8-0, with Georgia Stanway scoring a hat-trick. This marks a record win for the Lionesses at Wembley. Other goals came from Mead, Hemp, Toone, and Russo. The match highlights England's strong attacking performance and is their largest victory since a 10-0 win in previous years.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story informs about a tragic event and provides context about the ongoing humanitarian crisis in the region. However, it doesn't report on solutions, improvements, or attempts to solve the problem.",
+    "constructiveness_reason": "This story provides useful information about the England Women's football team's performance and their record win. However, it doesn't delve into the strategies used, potential improvements, or the broader impact of this victory.",
+    "constructiveness_source": "gpt",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "US stops all new asylum and visa decisions after shooting",
+    "domain": "politics",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Sat, 29 Nov 2025 13:15:00 GMT",
+    "source": "Associated Press",
+    "sources": [
+      "Deutsche Welle",
+      "Reuters",
+      "Associated Press"
+    ],
+    "domains": [
+      "dw.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "The decision is the latest shift in immigration policy since the National Guard shooting. It follows Trump's call to end migration from \"all third world countries.\"",
+      "U.S. Citizenship and Immigration Services has halted all asylum decisions, agency director says Reuters",
+      "US halts all asylum decisions after shooting of National Guard members AP News"
+    ],
+    "image_url": "",
+    "titles": [
+      "US pauses all asylum decisions after DC shooting",
+      "U.S. Citizenship and Immigration Services has halted all asylum decisions, agency director says - Reuters",
+      "US halts all asylum decisions after shooting of National Guard members - AP News"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXdfRkFSN3lkaGMyRkdCUEhRb3Q3NGFNMV8xRFZrc2p6SHcwcHFRSV9lVmpCUkIwa213c1BjdndEWFp6S0hrWU9ReXA5NUN2LWFTRDhxVjlHM1V2U0FuOC1XTlZFU1hRZnJXMVNjeTZ2cTNCOExXc2lETFBNMWpmTHI1YUctM2haX21ZQmJSdXVIaXpfUVU5ZmtCelMtUm9WWTF3VmRiZVJDTTQ?oc=5",
+    "alternate_urls": [
+      "https://www.dw.com/en/us-pauses-all-asylum-decisions-after-dc-shooting/a-74947938?maca=en-rss-en-top-1022-rdf",
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzZrTkRIdHpQRXp1NlhKNkFKUDVVQUdVVzFvTnlRLUlfWTNyc0FIOWdGNVRsaDF6LU1XRk1kN3RkY3JKMHNNUFJLakNGX2xsZmpDQXFZVHd0dFhhaUFkVEdqXzJTbTF1d2J3RHQ2andkdVJBY3RqOWFKTF9wOTB5N3A4aFF2SGNVb0puY1hPMUVESTNtWnJiZFhua1N6OG5Wd1IzeGJxWjZPUDZIeGlaSjUteXh0WVE?oc=5"
+    ],
+    "location_scope": "national",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXdfRkFSN3lkaGMyRkdCUEhRb3Q3NGFNMV8xRFZrc2p6SHcwcHFRSV9lVmpCUkIwa213c1BjdndEWFp6S0hrWU9ReXA5NUN2LWFTRDhxVjlHM1V2U0FuOC1XTlZFU1hRZnJXMVNjeTZ2cTNCOExXc2lETFBNMWpmTHI1YUctM2haX21ZQmJSdXVIaXpfUVU5ZmtCelMtUm9WWTF3VmRiZVJDTTQ?oc=5",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.826,
+      "consensus": 0.769,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.75,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "headline_source": "cache",
+    "summary": "The U.S. has paused all asylum decisions and visa processing following the shooting of two National Guard members in Washington, DC. U.S. Citizenship and Immigration Services announced the halt as the latest change in immigration policy. The move comes after calls for stricter migration controls. The current status is a complete suspension of new asylum decisions.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story provides basic awareness about the change in U.S. immigration policy, but it lacks depth or insight into the implications of this decision or potential solutions. It does not provide actionable insights or deeper understanding for the reader.",
     "constructiveness_source": "gpt",
     "is_trending": false,
     "trending_score": 0.0
@@ -818,7 +843,7 @@
     "domain": "business",
     "source_domain": "news.google.com",
     "location": "global",
-    "published": "Sat, 29 Nov 2025 16:36:20 GMT",
+    "published": "Sat, 29 Nov 2025 17:47:18 GMT",
     "source": "Reuters",
     "sources": [
       "Al Jazeera",
@@ -832,13 +857,13 @@
     "snippets": [
       "At least 128 people died and 150 remain missing after the towers housing 4,600 people were engulfed by flames.",
       "Hong Kong mourns victims of blaze that killed 128 and counting Reuters",
-      "Hong Kong Mourns Victims of Worst Fire in Nearly Eight Decades Bloomberg.com"
+      "Hong Kong Mourns Victims of Deadliest Fire in Decades Bloomberg.com"
     ],
     "image_url": "",
     "titles": [
       "Hong Kong mourns victims of blaze as search for remains continues",
       "Hong Kong mourns victims of blaze that killed 128 and counting - Reuters",
-      "Hong Kong Mourns Victims of Worst Fire in Nearly Eight Decades - Bloomberg.com"
+      "Hong Kong Mourns Victims of Deadliest Fire in Decades - Bloomberg.com"
     ],
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZUdUUm5fd1dHVDZ3QWJKNUlCdnI3NjRPTzE3Tms2bU8wYUFvcFR6SDc1LXMtYUJzRFNfZnAwaGRnODdmeVBjQXdjaFppdWZ0SHlvU3c0ejl4dFlaYXpnWnRmNVNqTV9IaDRDTWNIODVYNXdhZnlobmxKclZfT2trQktpNy1YSk9DaUJBcnEyRDJrLTFhZDF0MXJlZ2ZzbmZqam9pWjBMQVpSM0VTRFZHM2NTYw?oc=5",
     "alternate_urls": [
@@ -849,15 +874,15 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZUdUUm5fd1dHVDZ3QWJKNUlCdnI3NjRPTzE3Tms2bU8wYUFvcFR6SDc1LXMtYUJzRFNfZnAwaGRnODdmeVBjQXdjaFppdWZ0SHlvU3c0ejl4dFlaYXpnWnRmNVNqTV9IaDRDTWNIODVYNXdhZnlobmxKclZfT2trQktpNy1YSk9DaUJBcnEyRDJrLTFhZDF0MXJlZ2ZzbmZqam9pWjBMQVpSM0VTRFZHM2NTYw?oc=5",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.936,
+      "recency": 0.937,
       "consensus": 0.769,
       "constructiveness": 0.129,
       "proximity": 0.5
     },
     "score": 0.746,
-    "summary_source": "gpt",
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "At least 128 people have died and 150 are still missing after a fire engulfed residential towers housing 4,600 people in Hong Kong. The incident is the city's deadliest fire in nearly 80 years. Authorities and rescue teams continue search and recovery efforts, while Hong Kong holds memorials to mourn the victims.",
     "constructiveness_score": 0.129,
     "constructiveness_reason": "keywords (2): effort, recovery; semantic: pos_sim=0.12, neg_sim=0.00; semantic_boost=0.03",
@@ -866,213 +891,203 @@
     "trending_score": 0.0
   },
   {
-    "title": "US shoppers spend record amount online for Black Friday",
-    "domain": "business",
-    "source_domain": "financialpost.com",
-    "location": "national",
-    "published": "Sat, 29 Nov 2025 17:06:14 +0000",
-    "source": "Financial Post",
+    "title": "Israeli drone strike in Gaza kills two children say medics",
+    "domain": "general",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Sat, 29 Nov 2025 17:51:39 GMT",
+    "source": "Reuters",
     "sources": [
-      "LA Times",
-      "Financial Post",
-      "Associated Press"
+      "Al Jazeera",
+      "Reuters"
     ],
     "domains": [
-      "latimes.com",
-      "financialpost.com",
+      "aljazeera.com",
       "news.google.com"
     ],
     "snippets": [
-      "Shoppers in the Los Angeles area and across the country, battered by confusing tariffs and costly goods, are expected to spend less this holiday shopping season.",
-      "NEW YORK (AP) — Despite wider economic uncertainty hovering above this year’s holiday season, shoppers turned out in big numbers for Black Friday — spending billions of dollars both in stores and online. Adobe Analytics, which tracks e-commerce, said U.S. consumers spent a record $11.8 billion onlin",
-      "Shoppers hit Black Friday sales with celebratory mood despite economic strain AP News"
+      "Israeli drone attack kills two Palestinian children in southern Gaza, medics report, as humanitarian crisis deepens.",
+      "Gaza death toll tops 70,000, health ministry says Reuters",
+      "Death toll in Thailand floods rises to 162, government says Reuters"
     ],
     "image_url": "",
     "titles": [
-      "Black Friday shoppers spend more time looking for deals but less money amid economic angst",
-      "Shoppers spend billions on Black Friday to snag holiday deals, despite wider economic uncertainty",
-      "Shoppers hit Black Friday sales with celebratory mood despite economic strain - AP News"
+      "Gaza death toll surpasses 70,000 as Israel keeps up attacks despite truce",
+      "Gaza death toll tops 70,000, health ministry says - Reuters",
+      "Death toll in Thailand floods rises to 162, government says - Reuters"
     ],
-    "url": "https://financialpost.com/pmn/shoppers-spend-billions-on-black-friday-to-snag-holiday-deals-despite-wider-economic-uncertainty",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmVyUkZ5SWR4THhhby1yNS1Oc0hIVDBWcWwxMzY2MDdPSGNpY0hPTVhpSVJ4WW51VnV5Skh3ZVRyQzVzWlRyNU1kUWFyVnJHMUp2VlROR0pkdkw1eVhGT1MtcVNrbVQ5dFdBd19qSk5YV1g4Z29PTmJjV3BTVGFsVmFQUjEtOUgtc3pLeUY0Mm96WU5rQXZGU3N1RDV1RU9yenR3?oc=5",
     "alternate_urls": [
-      "https://www.latimes.com/business/story/2025-11-28/cautious-shoppers-plan-to-spend-less-this-black-friday",
-      "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHdjMk9zNHRYc3FHbGJnOHFrUi0xUC1JZ1lLQXE5T3FSOWVjT21UTFFTRFRpZ2JrVFV4b3FwWmVsWkRjUXBvUGZwUkZLdkhOTFBnU0Q1d3ZWZXJWNWk5enUtSXh6VXNPSUh6dVB0U1dRdjkxc0RleVZyMDFzdWNBazZjN1ZXV1dIQk9lWUs2RWJud3hNdHg5OUVERQ?oc=5"
-    ],
-    "location_scope": "national",
-    "link": "https://financialpost.com/pmn/shoppers-spend-billions-on-black-friday-to-snag-holiday-deals-despite-wider-economic-uncertainty",
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.949,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.741,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Despite economic uncertainty and higher prices, U.S. shoppers spent a record $11.8 billion online during Black Friday, according to Adobe Analytics. Both in-store and online sales saw strong turnout nationwide, including in Los Angeles. This suggests holiday spending remains robust despite concerns about tariffs and inflation.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00",
-    "constructiveness_source": "heuristic",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "WWE Survivor Series WarGames 2025 set for San Diego",
-    "domain": "business",
-    "source_domain": "forbes.com",
-    "location": "global",
-    "published": "Sat, 29 Nov 2025 11:30:00 -0500",
-    "source": "Forbes",
-    "sources": [
-      "ESPN",
-      "Forbes",
-      "CBS Sports"
-    ],
-    "domains": [
-      "espn.com",
-      "forbes.com",
-      "cbssports.com"
-    ],
-    "snippets": [
-      "As we approach Saturday's WWE premium live event, let's catch up on some notes and stats for each match.",
-      "WWE Survivor Series: WarGames 2025 could feature a number of major storylines surprises, including the return of Randy Orton.",
-      "WWE Survivor Series WarGames 2025 match card, start times and betting odds as Brock Lesnar, Roman Reigns and Cody Rhodes clash.",
-      "Survivor Series: WarGames takes place in San Diego on Saturday night of Thanksgiving week"
-    ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6928b8ac0bf62b9d7cbd4ec4/0x0.jpg?width=960",
-    "titles": [
-      "WWE Survivor Series: Key stats and info to know before WarGames",
-      "WWE Survivor Series Wargames 2025: 5 Potential Surprises And Returns",
-      "WWE Survivor Series WarGames 2025 Match Card, Start Time And Odd",
-      "2025 WWE Survivor Series: WarGames -- Matches, teams, format and more for the annual event"
-    ],
-    "url": "https://www.forbes.com/sites/blakeoestriecher/2025/11/29/wwe-survivor-series-wargames-2025-5-potential-surprises-and-returns/",
-    "alternate_urls": [
-      "https://www.espn.com/wwe/story/_/id/47110986/wwe-survivor-series-wargames-john-cena-roman-reigns-aj-lee",
-      "https://www.forbes.com/sites/blakeoestriecher/2025/11/29/wwe-survivor-series-wargames-2025-match-card-start-time-and-odd/",
-      "https://www.cbssports.com/wwe/news/2025-wwe-survivor-series-wargames-card-date-match-card-rumors-location-matches-start-time/"
+      "https://www.aljazeera.com/news/2025/11/29/israeli-attack-kills-two-children-in-southern-gaza-despite-ceasefire?traffic_source=rss",
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajlBRUlmUGFWM1pGYjlZOGhCN3BEUHpvb2tNQzJkTHMyT0I2RF9XSnNvNVRyOGpWUVRmY01MalRWbTNIcEduWFlmRXVHMHMydWwtaVR6LXFLMFdUTjBsNmxXRWN3MjM3OFZBQ2dzM3pUOUU3TF94LTl4cWJZamh5RVpfUWpueERmeS1lRDN6R0xyQmVaWmdvMG1aNzR6bUZLUlhzUTVfYmxzdmdDS1E?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://www.forbes.com/sites/blakeoestriecher/2025/11/29/wwe-survivor-series-wargames-2025-5-potential-surprises-and-returns/",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmVyUkZ5SWR4THhhby1yNS1Oc0hIVDBWcWwxMzY2MDdPSGNpY0hPTVhpSVJ4WW51VnV5Skh3ZVRyQzVzWlRyNU1kUWFyVnJHMUp2VlROR0pkdkw1eVhGT1MtcVNrbVQ5dFdBd19qSk5YV1g4Z29PTmJjV3BTVGFsVmFQUjEtOUgtc3pLeUY0Mm96WU5rQXZGU3N1RDV1RU9yenR3?oc=5",
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.933,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.736,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "WWE Survivor Series: WarGames 2025 will be held in San Diego on the Saturday night of Thanksgiving week. The event features major matches, including Brock Lesnar, Roman Reigns, and Cody Rhodes. There is speculation about Randy Orton’s return, but no official confirmation. Betting odds and match details have been released ahead of the event.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00",
-    "constructiveness_source": "heuristic",
-    "is_trending": true,
-    "trending_score": 0.5
-  },
-  {
-    "title": "Early Manchester to London train now for staff only",
-    "domain": "general",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Sat, 29 Nov 2025 14:20:33 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "The Guardian"
-    ],
-    "domains": [
-      "bbc.com",
-      "theguardian.com"
-    ],
-    "snippets": [
-      "The 07:00 GMT train will only carry staff to London following a decision by the rail regulator.",
-      "Exclusive: Rail regulator pulls Avanti service from timetable from mid-December but it is needed for staff travel The good news for rail travel between Manchester and London is that a morning train will continue to link the two cities in under two hours. The bad news: passengers will no longer be ab"
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c8c/live/489ed7f0-cd2c-11f0-9f8a-0321935e874a.jpg",
-    "titles": [
-      "Manchester to London train to run without passengers for five months",
-      "Soon-to-be-axed 7am Manchester-London train will still run – but without passengers"
-    ],
-    "url": "https://www.bbc.com/news/articles/c75vzp6kyzdo?at_medium=RSS&at_campaign=rss",
-    "alternate_urls": [
-      "https://www.theguardian.com/business/2025/nov/29/avanti-axed-7am-manchester-london-train-will-run-without-passengers"
-    ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/news/articles/c75vzp6kyzdo?at_medium=RSS&at_campaign=rss",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.879,
+      "magnitude": 0.775,
+      "recency": 0.939,
       "consensus": 0.591,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.718,
-    "summary_source": "gpt",
+    "score": 0.742,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "The rail regulator has removed Avanti's 07:00 GMT Manchester-to-London train from the public timetable starting mid-December. The service will continue to run but will be reserved solely for staff travel. Passengers will no longer be able to board this early morning train, though other services between Manchester and London remain available.",
+    "headline_source": "cache",
+    "summary": "An Israeli drone strike in southern Gaza killed two Palestinian children, according to local medics. The Gaza health ministry reports the total death toll has surpassed 70,000 as the humanitarian crisis in the region worsens.",
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information to the readers, especially those who use the service, and helps them in decision-making. However, it doesn't report on solutions, improvements, or attempts to solve the problem.",
+    "constructiveness_reason": "The story informs about a tragic event and provides context about the ongoing humanitarian crisis in the region. However, it doesn't report on solutions, improvements, or attempts to solve the problem.",
     "constructiveness_source": "gpt",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Oregon plays Washington to try for College Football Playoff spot",
+    "title": "BYU will play Texas Tech in Big 12 title game",
     "domain": "sports",
-    "source_domain": "sports.yahoo.com",
+    "source_domain": "cbssports.com",
     "location": "national",
-    "published": "Sat, 29 Nov 2025 18:30:42 +0000",
-    "source": "Yahoo Sports",
+    "published": "Sat, 29 Nov 2025 19:18:16 +0000",
+    "source": "CBS Sports",
     "sources": [
       "CBS Sports",
-      "Yahoo Sports"
+      "Sports Illustrated"
     ],
     "domains": [
       "cbssports.com",
-      "sports.yahoo.com"
+      "news.google.com"
     ],
     "snippets": [
-      "Oregon can lock up its CFP bid with a win in another West Coast Big Ten showdown on CBS",
-      "Live score updates and highlights from the Oregon Ducks matchup against the Washington Huskies on Saturday."
+      "The Red Raiders and Cougars played earlier this season, with Texas Tech emerging victorious",
+      "BYU Clinches Spot in the Big 12 Title Game Against Texas Tech Sports Illustrated"
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/11/29/a847d547-b7a7-41e5-9ee3-55664907c09f/texas-tech-byu.png",
     "titles": [
-      "Oregon vs. Washington prediction, pick, odds, spread: Huskies look to disrupt Ducks' playoff path",
-      "Oregon vs. Washington live updates: score from Ducks vs. Huskies"
+      "2025 Big 12 Championship Game: Texas Tech vs. BYU set for pivotal rematch at AT&T Stadium",
+      "BYU Clinches Spot in the Big 12 Title Game Against Texas Tech - Sports Illustrated"
     ],
-    "url": "https://sports.yahoo.com/articles/oregon-vs-washington-live-updates-183042506.html",
+    "url": "https://www.cbssports.com/college-football/news/texas-tech-byu-big-12-championship-game-2025-prediction-preview/",
     "alternate_urls": [
-      "https://www.cbssports.com/college-football/news/oregon-washington-prediction-pick-odds-spread-where-to-watch-live/"
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNblZNSEhhemhPZkdWZjFxVmhTWTVjRTdhU01EekNUb2p2b3BvUWdaRE9KQ0FSUlk5YldNSUhicm45THZOb3RuVVBZWnNEdmEzX216bUdWNVFGVXQwVnhVemp1YlFmVVJnSmpoLWNCa1lKRDQ5Tjd4eGJCa3VDWDFaVlNnUzV1b2tJTUhQV0dmUmQ3a0lWa2RxYU1hcm5oNkM5UzFR?oc=5"
     ],
     "location_scope": "national",
-    "link": "https://sports.yahoo.com/articles/oregon-vs-washington-live-updates-183042506.html",
+    "link": "https://www.cbssports.com/college-football/news/texas-tech-byu-big-12-championship-game-2025-prediction-preview/",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.987,
+      "recency": 0.978,
       "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
+      "constructiveness": 0.5,
+      "proximity": 0.5
     },
-    "score": 0.71,
+    "score": 0.732,
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Oregon faced Washington in a key college football matchup on Saturday. A win for Oregon would secure its spot in the College Football Playoff (CFP). The game was broadcast on CBS and featured live score updates and highlights. The outcome of the game determines Oregon’s CFP qualification status.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.11",
-    "constructiveness_source": "heuristic",
+    "summary": "BYU has secured a spot in the Big 12 title game, where they will face Texas Tech. Earlier this season, Texas Tech defeated BYU in their regular season matchup. The upcoming championship game will determine the Big 12 Conference champion.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story provides basic awareness about the upcoming Big 12 title game. However, it lacks depth, insights, or context about the teams' performance, strategies, or potential impacts of the game.",
+    "constructiveness_source": "gpt",
     "is_trending": false,
-    "trending_score": 0.25
+    "trending_score": 0.0
+  },
+  {
+    "title": "Russian airstrikes in Kyiv kill three and injure many people",
+    "domain": "politics",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Sat, 29 Nov 2025 16:15:33 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Financial Post"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "Russian strikes on Kyiv kill three, injure dozens, as Ukraine seeks US support for a resolution to the war.",
+      "Russia unleashed an air barrage on Ukraine’s capital overnight, killing at least three people and causing widespread power outages, as President Volodymyr Zelenskiy’s negotiating team heads to the US for talks aimed at bringing an end to the war."
+    ],
+    "image_url": "",
+    "titles": [
+      "Russian strikes on Kyiv kill three as Ukraine envoys travel to US for talks",
+      "Kyiv Hammered by Russian Strikes as Negotiators Head to US"
+    ],
+    "url": "https://www.aljazeera.com/news/2025/11/29/russian-strikes-on-kyiv-kill-three-as-ukraine-envoys-travel-to-us-for-talks?traffic_source=rss",
+    "alternate_urls": [
+      "https://financialpost.com/pmn/business-pmn/russia-ukraine-trade-strikes-amid-stepped-up-us-peace-efforts"
+    ],
+    "location_scope": "global",
+    "link": "https://www.aljazeera.com/news/2025/11/29/russian-strikes-on-kyiv-kill-three-as-ukraine-envoys-travel-to-us-for-talks?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.775,
+      "recency": 0.898,
+      "consensus": 0.591,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.73,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Russian airstrikes on Kyiv killed at least three people and injured dozens, also causing widespread power outages. The attack comes as Ukrainian President Volodymyr Zelenskiy's team travels to the United States to seek support for a resolution to the war. Efforts are ongoing to secure increased US assistance and diplomatic backing.",
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about the ongoing conflict between Russia and Ukraine, including the impact of the airstrikes and the Ukrainian President's efforts to seek resolution. However, it does not provide any solutions or progress towards resolving the issue.",
+    "constructiveness_source": "gpt",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Miami Heat and Phoenix Suns move to next NBA Cup round",
+    "domain": "sports",
+    "source_domain": "cbssports.com",
+    "location": "national",
+    "published": "Sat, 29 Nov 2025 17:25:48 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "ESPN",
+      "CBS Sports"
+    ],
+    "domains": [
+      "espn.com",
+      "cbssports.com"
+    ],
+    "snippets": [
+      "The 2025 NBA Cup continues as group play wraps up. Here's everything you need to know about the third annual in-season tournament.",
+      "The Heat take the East's wild-card spot, while the Suns earn the fourth post in the West"
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/11/29/38bb1641-6547-4f58-9004-62b03c7a480e/untitled-design-2025-11-28t205604-000.png",
+    "titles": [
+      "NBA Cup takeaways: Magic, Thunder secure top seeds",
+      "2025 NBA Cup bracket: Knicks, Magic, Thunder, Spurs win group stages to advance to knockout rounds"
+    ],
+    "url": "https://www.cbssports.com/nba/news/2025-nba-cup-bracket-clinch-scenarios-standings-schedule-knockout-stage/",
+    "alternate_urls": [
+      "https://www.espn.com/nba/story/_/id/46609036/2025-nba-season-tournament-cup-format-highlights-updates"
+    ],
+    "location_scope": "national",
+    "link": "https://www.cbssports.com/nba/news/2025-nba-cup-bracket-clinch-scenarios-standings-schedule-knockout-stage/",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.928,
+      "consensus": 0.591,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.717,
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The 2025 NBA Cup group stage has concluded. The Miami Heat secured the Eastern Conference wild-card spot, and the Phoenix Suns claimed the final Western Conference position. Both teams advance to the knockout rounds of the third annual in-season tournament.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness of the progress of the NBA Cup, but it doesn't offer any deep insights or actionable information for the reader. It doesn't provide any context or analysis about the teams' performance, strategies, or what led to their advancement.",
+    "constructiveness_source": "gpt",
+    "is_trending": false,
+    "trending_score": 0.0
   },
   {
     "title": "US stops processing Afghan immigration requests after shooting",
-    "domain": "politics",
+    "domain": "general",
     "source_domain": "npr.org",
     "location": "national",
     "published": "Sat, 29 Nov 2025 05:00:00 -0500",
@@ -1086,34 +1101,31 @@
       "news.google.com"
     ],
     "snippets": [
-      "The Trump administration has halted the processing of immigration requests from Afghans and the president vowed to tighten his immigration crackdown after the shooting of two National Guard members.",
-      "After the alleged shooter was identified as Rahmanullah Lakanwal — a 29-year-old Afghan national — Trump said he would permanently shut down immigration from impoverished countries.",
+      "The Trump administration has halted the processing of immigration requests from Afghans, and D.C. police will accompany National Guard members patrolling the city.",
       "Trump sharpens focus on legal immigration after National Guard shooting Reuters"
     ],
     "image_url": "",
     "titles": [
       "Where things stand with the National Guard shooting in D.C.",
-      "Trump administration pausing all asylum decisions after National Guard shooting",
       "Trump sharpens focus on legal immigration after National Guard shooting - Reuters"
     ],
     "url": "https://www.npr.org/2025/11/29/nx-s1-5624477/where-things-stand-with-the-national-guard-shooting-in-d-c",
     "alternate_urls": [
-      "https://www.npr.org/2025/11/28/g-s1-99760/trump-vows-permanent-pause-on-some-immigration-after-national-guard-shooting",
       "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRy05LUNZUXMxNnZPLTRDUDJNaUNjZnIwQ3gxcndQTFhydHREM0s1bW5HeFpvSWZYRGY3NTBkVkUta2ZJcENiT1VmeTdWbk12VjRDYnBacmhWc2trNWVwM1FkMi1VYXJQT21WNEp3RzJ1azR1OWcydjdhUXFiT1lhUHFMbjRkc2s0bWU2ZWhlbERFam1URUZ3dWNwZjEteUJleXE0dnhlcVBvbzZQdUktSG5YSXFQNy13VG93WFVn?oc=5"
     ],
     "location_scope": "national",
     "link": "https://www.npr.org/2025/11/29/nx-s1-5624477/where-things-stand-with-the-national-guard-shooting-in-d-c",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.779,
+      "recency": 0.755,
       "consensus": 0.591,
       "constructiveness": 0.6,
       "proximity": 0.75
     },
-    "score": 0.707,
-    "summary_source": "gpt",
+    "score": 0.7,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "The Trump administration has stopped processing immigration requests from Afghans following the shooting of two National Guard members, allegedly by Rahmanullah Lakanwal, an Afghan national. President Trump announced plans to tighten immigration policies and said he would permanently ban immigration from certain impoverished countries. These actions are part of a broader immigration crackdown.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story provides more context than the previous one, including the specific nationality of the alleged shooter and the broader immigration crackdown. However, it still lacks a discussion of solutions or implications, limiting its usefulness.",
@@ -1138,12 +1150,12 @@
     ],
     "snippets": [
       "World champions South Africa humiliate woeful Wales by inflicting a record home 73-0 defeat on their hosts.",
-      "Wales 0-73 South Africa Springboks score 11 tries but Etzebeth sent off for eye gouge Every bit as dispiriting as expected. Worse, was it pointless? Well, it certainly had more points to it than Wales would have liked. But, worse again, was it actively alienating? A record defeat, the first time sin"
+      "Wales 0-73 South Africa Springboks score 11 tries but Etzebeth off for eye gouge Every bit as dispiriting as expected. Worse, was it pointless? Well, it certainly had more points to it than Wales would have liked. But, worse again, was it actively alienating? A record defeat, 11 tries conceded, the"
     ],
     "image_url": "https://i.guim.co.uk/img/media/201f9f7bb1d750dbf680c17ba496b8652e34932d/54_0_2848_2279/master/2848.jpg?width=140&quality=85&auto=format&fit=max&s=60d1e21463439fad9720d9c08a90e9af",
     "titles": [
       "Pointless Wales humiliated as 11-try South Africa hand them record home defeat",
-      "Etzebeth red card mars South Africa demolition job as Wales slump to record home defeat"
+      "Etzebeth red mars South Africa romp as Wales slump to record home defeat"
     ],
     "url": "https://www.theguardian.com/sport/2025/nov/29/wales-south-africa-autumn-nations-series-rugby-union-match-report",
     "alternate_urls": [
@@ -1153,243 +1165,68 @@
     "link": "https://www.theguardian.com/sport/2025/nov/29/wales-south-africa-autumn-nations-series-rugby-union-match-report",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.96,
+      "recency": 0.93,
       "consensus": 0.591,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.707,
-    "summary_source": "gpt",
+    "score": 0.698,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "South Africa's rugby team defeated Wales 73-0 in Cardiff, marking Wales' heaviest home defeat in history. The Springboks scored 11 tries, while Wales failed to score any points. South Africa's Eben Etzebeth was sent off for eye gouging during the match.",
     "constructiveness_score": 0.3,
     "constructiveness_reason": "This story provides basic awareness of the event but lacks depth or insight. It doesn't contribute meaningfully to the reader’s understanding or decision-making, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
     "constructiveness_source": "gpt",
     "is_trending": false,
-    "trending_score": 0.25
-  },
-  {
-    "title": "Lando Norris says he is focused on winning F1 title",
-    "domain": "sports",
-    "source_domain": "espn.com",
-    "location": "national",
-    "published": "Sat, 29 Nov 2025 12:36:20 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Sky Sports"
-    ],
-    "domains": [
-      "espn.com",
-      "skysports.com"
-    ],
-    "snippets": [
-      "Lando Norris said he welcomes title rival Max Verstappen talking \"nonsense\" about this year's title fight, but insists he will remain fully focused on winning this year's world championship.",
-      "Lando Norris has accused Max Verstappen of \"talking nonsense\" after his title rival claimed that he would have won this year's Formula 1 world championship \"easily\" in the Brit's McLaren car.",
-      "Lando Norris can become 2025 F1 world champion on Sunday at the Qatar Grand Prix, but how can he do it?"
-    ],
-    "image_url": "",
-    "titles": [
-      "Norris calls Verstappen's F1 title jab 'nonsense'",
-      "'Talking nonsense!' – Norris responds to Verstappen's title-race dig",
-      "How Norris can win maiden F1 title on Sunday"
-    ],
-    "url": "https://www.espn.com/f1/story/_/id/47137519/lando-norris-welcomes-max-verstappen-talking-nonsense",
-    "alternate_urls": [
-      "https://www.skysports.com/f1/news/12040/13477009/lando-norris-accuses-max-verstappen-of-talking-nonsense-after-f1-title-race-dig-from-reigning-champion",
-      "https://www.skysports.com/f1/news/12040/13474671/f1-championship-permutations-how-lando-norris-can-win-maiden-title-at-qatar-grand-prix-and-impact-of-mclaren-disqualifications-in-las-vegas"
-    ],
-    "location_scope": "national",
-    "link": "https://www.espn.com/f1/story/_/id/47137519/lando-norris-welcomes-max-verstappen-talking-nonsense",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.963,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.703,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Lando Norris responded to comments from title rival Max Verstappen, who claimed he could have easily won the 2024 Formula 1 world championship in Norris's McLaren. Norris dismissed Verstappen's remarks as \"nonsense\" and said he remains focused on his own title campaign. Norris has a chance to secure the 2024 F1 world championship at the upcoming Qatar Grand Prix.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00",
-    "constructiveness_source": "heuristic",
-    "is_trending": true,
-    "trending_score": 0.5
-  },
-  {
-    "title": "Computer model shares picks for big college football games this week",
-    "domain": "sports",
-    "source_domain": "espn.com",
-    "location": "national",
-    "published": "Sat, 29 Nov 2025 12:36:20 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "CBS Sports"
-    ],
-    "domains": [
-      "espn.com",
-      "cbssports.com"
-    ],
-    "snippets": [
-      "Iowa had receipts after its win over Nebraska on Friday -- though not in the form you might expect.",
-      "Oregon has a typically colorful look while Virginia will be donning throwbacks, among other sleek threads from across the regular season's final week.",
-      "What do an axe, skillet and a gold boot have in common? Meet the iconic rivalry trophies of college football.",
-      "The SportsLine Projection Model has revealed its South Carolina Gamecocks vs. Clemson Tigers picks for the 2025 Palmetto Bowl",
-      "The SportsLine Projection Model has revealed its Texas Tech Red Raiders vs. West Virginia Mountaineers picks for Saturday's matchup",
-      "The SportsLine Projection Model has revealed its Pitt Panthers vs. Miami Hurricanes picks for Saturday's ACC matchup",
-      "The SportsLine Projection Model has revealed its NFL picks for the Denver Broncos vs. Washington Commanders 'Sunday Night Football' matchup",
-      "The SportsLine Projection Model has revealed its Ohio State Buckeyes vs. Michigan Wolverines picks for The Game 2025",
-      "A closer look at the top games for the 14th week of the 2025 college football season",
-      "SportsLine's computer model has revealed its Week 14 college football Rivalry Week picks after 10,000 simulations of each game",
-      "SportsLine's model reveals its Week 14 college football picks and best bets for Saturday, Nov. 29"
-    ],
-    "image_url": "",
-    "titles": [
-      "😈 Best trolls from college football Rivalry Week",
-      "Oregon, Ole Miss and Virginia headline best Week 14 uniforms in college football",
-      "Inside weird and wonderful college football rivalry trophies",
-      "Clemson vs. South Carolina prediction, odds, line, time: 2025 Palmetto Bowl picks by proven model",
-      "Texas Tech vs. West Virginia prediction, odds: Week 14 college football picks by proven model",
-      "Miami vs. Pittsburgh prediction, odds, line, time: Week 14 college football picks by proven model",
-      "Broncos vs. Commanders prediction, odds, line, time: NFL Week 13 'Sunday Night Football' picks by proven model",
-      "Ohio State vs. Michigan prediction, odds: 2025 Rivalry Week picks by proven model",
-      "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 14",
-      "College football odds, picks, predictions for Rivalry Week, 2025: Computer backs Florida, Virginia Tech",
-      "2025 Week 14 college football free picks, betting odds, best bets: Model targeting Miami, Alabama on Saturday"
-    ],
-    "url": "https://www.espn.com/college-football/story/_/id/47128840/college-football-top-trolls-week-14",
-    "alternate_urls": [
-      "https://www.espn.com/college-football/story/_/id/47124987/oregon-ole-miss-virginia-best-week-14-uniforms-college-football",
-      "https://www.espn.com/college-football/story/_/id/47123840/usc-stanford-cal-arizona-michigan-college-football-rivalry-trophy",
-      "https://www.cbssports.com/college-football/news/clemson-south-carolina-prediction-odds-line-time-2025-palmetto-bowl-picks/",
-      "https://www.cbssports.com/college-football/news/texas-tech-west-virginia-prediction-odds-week-14-college-football-picks-best-bets/",
-      "https://www.cbssports.com/college-football/news/miami-pittsburgh-prediction-odds-line-spread-time-week-14-college-football-picks/",
-      "https://www.cbssports.com/nfl/news/broncos-commanders-prediction-odds-line-nfl-week-13-sunday-night-football-picks/",
-      "https://www.cbssports.com/college-football/news/ohio-state-michigan-prediction-odds-line-spread-time-2025-the-game-picks/",
-      "https://www.cbssports.com/college-football/news/college-football-picks-predictions-odds-betting-lines-top-25-week-14/",
-      "https://www.cbssports.com/college-football/news/college-football-odds-betting-lines-spreads-picks-predictions-best-bets-rivalry-week-2025/",
-      "https://www.cbssports.com/college-football/news/2025-week-14-college-football-free-picks-betting-odds-best-bets-model-targeting-miami-alabama-saturday/"
-    ],
-    "location_scope": "national",
-    "link": "https://www.espn.com/college-football/story/_/id/47128840/college-football-top-trolls-week-14",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.963,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.703,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "SportsLine's computer model has released its predictions for key college football matchups during Rivalry Week, including South Carolina vs. Clemson, Texas Tech vs. West Virginia, Pitt vs. Miami, and Ohio State vs. Michigan. The model simulated each game 10,000 times to provide picks and best bets for the 14th week of the 2025 season. Additionally, Iowa defeated Nebraska on Friday, and several teams will feature special uniforms to mark the season's final week.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00",
-    "constructiveness_source": "heuristic",
-    "is_trending": true,
-    "trending_score": 0.5
-  },
-  {
-    "title": "Top Ukraine official quits after home searched for corruption",
-    "domain": "politics",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Sat, 29 Nov 2025 08:26:31 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "New York Times"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "nytimes.com"
-    ],
-    "snippets": [
-      "President Zelenskyy’s chief of staff has resigned after investigators searched his home amid a corruption scandal.",
-      "The chief of staff to President Volodymyr Zelensky of Ukraine was seen as the second-most powerful person in Ukraine. He was dismissed on Friday."
-    ],
-    "image_url": "",
-    "titles": [
-      "What we know about resignation of top Ukraine official",
-      "Andriy Yermak Resigns: What to Know About Ukrainian Official"
-    ],
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/11/29/what-we-know-about-resignation-of-top-ukraine-official?traffic_source=rss",
-    "alternate_urls": [
-      "https://www.nytimes.com/2025/11/28/world/europe/yermak-zelensky-ukraine-what-to-know.html"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/video/newsfeed/2025/11/29/what-we-know-about-resignation-of-top-ukraine-official?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.746,
-      "consensus": 0.591,
-      "constructiveness": 0.7,
-      "proximity": 0.5
-    },
-    "score": 0.695,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "President Volodymyr Zelenskyy’s chief of staff has resigned after investigators searched his home as part of a corruption investigation. He was considered the second-most powerful official in Ukraine. The resignation was confirmed on Friday, and his departure follows ongoing efforts to address corruption within the Ukrainian government.",
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story provides useful information about the ongoing efforts to address corruption in the Ukrainian government. It doesn't present any solutions or improvements, but it does increase awareness about the state of corruption in Ukraine.",
-    "constructiveness_source": "gpt",
-    "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Malick Thiaw scores early goal for Magpies against Blues",
-    "domain": "sports",
-    "source_domain": "theguardian.com",
+    "title": "Ukrainian team visits United States for peace talks",
+    "domain": "business",
+    "source_domain": "news.google.com",
     "location": "global",
-    "published": "Sat, 29 Nov 2025 18:40:46 GMT",
-    "source": "The Guardian",
+    "published": "Sat, 29 Nov 2025 19:01:13 GMT",
+    "source": "Reuters",
     "sources": [
-      "Yahoo Sports",
-      "The Guardian"
+      "Reuters",
+      "Bloomberg"
     ],
     "domains": [
-      "sports.yahoo.com",
-      "theguardian.com"
+      "news.google.com"
     ],
     "snippets": [
-      "The Blues host the Magpies looking to keep their solid run going",
-      "⚽ Updates from 5.30pm GMT KO at Hill Dickinson Stadium ⚽ Sign up for Football Daily | Top scorers A wicked inswinging corner from Lewis Miley is headed in from three yards by Malick Thiaw. It was a good header, steered decisively wide of Pickford, but the delivery from Miley was outstanding. 19 secs"
+      "Ukrainian delegation heads to US for peace talks after lead negotiator's exit Reuters",
+      "Ukrainian Team Heads to US for Talks With Trump Envoy Witkoff Bloomberg.com"
     ],
-    "image_url": "https://i.guim.co.uk/img/media/acfc8f5cce78d5036496d387659c20080a841a5c/1053_268_2262_1809/master/2262.jpg?width=140&quality=85&auto=format&fit=max&s=9b8e6c52ce865e8cb15786b5e1b39553",
+    "image_url": "",
     "titles": [
-      "Everton 0-3 Newcastle: Live | Alcaraz replaces Iroegbunam",
-      "Everton v Newcastle: Premier League – live"
+      "Ukrainian delegation heads to US for peace talks after lead negotiator's exit - Reuters",
+      "Ukrainian Team Heads to US for Talks With Trump Envoy Witkoff - Bloomberg.com"
     ],
-    "url": "https://www.theguardian.com/football/live/2025/nov/29/everton-v-newcastle-premier-league-live",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORVVtUHVFOElXNjV2eHQyVXEyRUNOMFdZWUY0SXQ0MldwcW9VcDRhY3dPR0FLNmYtY0kxVUg0bXFGYUpwTmlwVm5LaGFDVGktei1mdThLWWoxYUZuUW0zaDNtTFRfYzVrWjJ3UFJWOWZ4bFd1WVpjbnE5YTVFR2Fpd1MyRlg5UDdXNXBEQmRNQVh6Ym8yR09VWGJRX1JrVDVkSHBsM2VUdGYtQlJ4VVZUb3NPcHdFek8zTjNrLXRQNFFZb0prdm4yc1hoLTA?oc=5",
     "alternate_urls": [
-      "https://sports.yahoo.com/articles/everton-vs-newcastle-starting-lineups-143000342.html"
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZjA3TDNLUFZwODhya2swdS1nNTh4WHNiR0dVLVBtcExfZEI4TnltUVJvQm5OcVhRODBtMS1ncW5sTy1PRXJyM1VEbjRWcE5ZYU9HVC15d2hwRmNkNDQ1UUZRcXlkMVJyZXI3aFVjZGdYY1VsVVRqc2ZZZGhxQTR4dVlfakZ6T09vdDlndXg5SmNwTy1mWHNtTjlrdlVQOFZ3dm1FZ012bnkwdjl4b2k1eHdR?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://www.theguardian.com/football/live/2025/nov/29/everton-v-newcastle-premier-league-live",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORVVtUHVFOElXNjV2eHQyVXEyRUNOMFdZWUY0SXQ0MldwcW9VcDRhY3dPR0FLNmYtY0kxVUg0bXFGYUpwTmlwVm5LaGFDVGktei1mdThLWWoxYUZuUW0zaDNtTFRfYzVrWjJ3UFJWOWZ4bFd1WVpjbnE5YTVFR2Fpd1MyRlg5UDdXNXBEQmRNQVh6Ym8yR09VWGJRX1JrVDVkSHBsM2VUdGYtQlJ4VVZUb3NPcHdFek8zTjNrLXRQNFFZb0prdm4yc1hoLTA?oc=5",
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.992,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
+      "recency": 0.97,
+      "consensus": 0.571,
+      "constructiveness": 0.052,
       "proximity": 0.5
     },
-    "score": 0.692,
-    "summary_source": "gpt",
+    "score": 0.687,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Malick Thiaw scored for the Magpies with a close-range header from a Lewis Miley corner early in the match against the Blues at Hill Dickinson Stadium. The goal came just seconds into the game and gave the Magpies an early lead. The Blues are aiming to continue their strong recent form in this fixture.",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "headline_source": "cache",
+    "summary": "A Ukrainian delegation is traveling to the United States for peace talks following the resignation of its lead negotiator. The team is scheduled to meet with Trump envoy Steven Witkoff to discuss potential steps toward resolving the conflict. The visit marks a continuation of diplomatic efforts despite recent changes in Ukraine's negotiation team.",
+    "constructiveness_score": 0.052,
+    "constructiveness_reason": "keywords (1): effort; semantic: pos_sim=0.08, neg_sim=0.06; semantic_boost=0.00",
     "constructiveness_source": "heuristic",
     "is_trending": false,
-    "trending_score": 0.25
+    "trending_score": 0.0
   },
   {
     "title": "WWE SmackDown holds tag team match before Survivor Series",
@@ -1423,15 +1260,15 @@
     "link": "https://www.espn.com/wwe/story/_/id/47132267/wwe-smackdown-highlights-survivor-series-elimination-tag-team-match-charlotte-flair-wargames",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.914,
+      "recency": 0.886,
       "consensus": 0.591,
       "constructiveness": 0.022,
       "proximity": 0.75
     },
-    "score": 0.69,
-    "summary_source": "gpt",
+    "score": 0.682,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "WWE SmackDown aired on Friday, featuring a Survivor Series elimination tag team match as part of the build-up to Survivor Series 2025. The event included several matches and segments highlighting key rivalries and advancing storylines. Winners, results, and live grades were provided, setting the stage for upcoming Survivor Series matches.",
     "constructiveness_score": 0.022,
     "constructiveness_reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
@@ -1440,55 +1277,212 @@
     "trending_score": 0.0
   },
   {
-    "title": "Online Black Friday sales in US hit new record",
-    "domain": "business",
-    "source_domain": "forbes.com",
+    "title": "Global airlines race to fix jets as Airbus apologises following A320 recall - Reuters",
+    "domain": "science",
+    "source_domain": "news.google.com",
     "location": "global",
-    "published": "Sat, 29 Nov 2025 11:46:26 -0500",
-    "source": "Forbes",
+    "published": "Sat, 29 Nov 2025 17:29:37 GMT",
+    "source": "Reuters",
     "sources": [
       "Reuters",
-      "Forbes"
+      "Globe and Mail"
     ],
     "domains": [
-      "news.google.com",
-      "forbes.com"
+      "news.google.com"
     ],
     "snippets": [
-      "U.S. Black Friday online sales hit record $11.8 billion, Adobe reports Reuters",
-      "US Black Friday online sales hit $8.6 billion, says Adobe Analytics Reuters",
-      "U.S. ecommerce sales jumped 9.1% on Black Friday according to Adobe, but the verdict is still out on how well physical stores performed."
+      "Airbus eases estimate of A320 recall impact, sources say Reuters",
+      "Global airlines affected by major Airbus A320 recall Reuters",
+      "Airbus issues major A320 recall, threatening global flight disruption Reuters",
+      "Global airlines race to fix jets as Airbus apologises following A320 recall Reuters",
+      "American Airlines cuts number of jets needing Airbus software fix to 209 Reuters",
+      "Airlines warn of global travel disruptions after Airbus recall of 6,000 jets The Globe and Mail"
     ],
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/692afe246c12ff3c7674fa2d/0x0.jpg?width=960",
+    "image_url": "",
     "titles": [
-      "U.S. Black Friday online sales hit record $11.8 billion, Adobe reports - Reuters",
-      "US Black Friday online sales hit $8.6 billion, says Adobe Analytics - Reuters",
-      "Black Friday Data Shows Online Sales Strong, Store Results Mixed"
+      "Airbus eases estimate of A320 recall impact, sources say - Reuters",
+      "Global airlines affected by major Airbus A320 recall - Reuters",
+      "Airbus issues major A320 recall, threatening global flight disruption - Reuters",
+      "Global airlines race to fix jets as Airbus apologises following A320 recall - Reuters",
+      "American Airlines cuts number of jets needing Airbus software fix to 209 - Reuters",
+      "Airlines warn of global travel disruptions after Airbus recall of 6,000 jets - The Globe and Mail"
     ],
-    "url": "https://www.forbes.com/sites/joanverdon/2025/11/29/black-friday-data-shows-online-sales-strong-store-results-mixed/",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEJzY0JxclRYSUYtTnJqSnA5NWJCVktNcElpMWVkaHZaQU4wS3duaTVLak94X05sUVFNR1piMEVGS3V2SFR2SGg0VEdZdWVZallXNjNzYUpRYnkzNndNNENNY0MwZnpZR2dVMFV2NFl3RUJHcVVVaEJhR0FuN1VjS0J1YXV6aEZjdGlQWGtmdmlDYXIzSEdER2RuZUxmdWVfdWdiT284R2Q3QmZQY1c3VFV5X3gydDRXYlpqQ0FPRGI3TzhI?oc=5",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2w0YUo5cGdad3BCYml5R2pIS25CNWwtVlNIMER3dGViMnpYTDIzdzlSTGpWMkJWT191TUNHQjZ0Mzh3em9fOE5waGp4UkxnekMtYXc2elFMMVZwOTdrTlI4REVDcVk3OTlGNXZwMHQ4eFpNaUFFTVhfdkFGT2JBYmZzTUxNN0lkOTJWYjBfOU40VlY1bjVob3B5UEpOTXJWR0RXeU5scE12MkxvN3FvMEtBaU9WdGxfT2FRTlhLLWtfaEk?oc=5",
-      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3ZBV3VybS1LdnRHOEVSWUJ5aFYxaDJGYUIzRTZKQldRN04zQklSTDVPSXliUDFFNlNjNzNyNWxraDF2S1dDTnZKLVBWTGFwVFdpY0NCR25pN0RnRVBHQzJfbGdVQUhTb291ZkJIR2M5OXpmLTJNbm5xRUdLS0FaMnB0c0VjamxoX25HamFtS2pQUG0tam9hamwxVjBYM1RFQUZodDV2OWNLa3lSQXFCQURJSjdPbmN2c2l4NFFPOFVOZTg?oc=5"
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVZubGVfOXgxVnhQc205V0xzVFo3QUlMTG5RT29nOXZmUmpac0pQZEpGNWRzRVNfOU1OSnpqdzlhMER5eGExdXJuZVp3QVBXQ0pobVRJbUgxaVVFeVlsVi1sVE1IbDhZaTdjaW9RU3VaeHFRQzdVVlVQZlRUdmJUTkVtdEFCbTh2YmlOLVJzTGJ0OWI5c1YwUDBfdEZlSGZqSHhBV1VuaW1EekhXUHVYOWZSakxRdw?oc=5",
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzNram5NVWpRQzAxOXBybnctNWlrdHpnWllVSlNhSXJMS2twa1ZoUmZjZ2cwbFFMX1V6a2pqNnAxVExJQlZ3U3phNlB1VmpiYUY3bW1hTXRwU1laUHkzOE13SFd4MGNraU1PbENFN0hRUktHbXJOVnBGVHZoWWtZX1dWNnZQMHA0V0tnUWlXXy1MWEl0V1lGY2phQkdhdWZnNTZLYU9wWTRyOXJEenhRRzFyVlpkdw?oc=5",
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSC1ieHg0cl9ka0tDWTFFYnVQZnpCZWxyajhVMHJlNGRSQ2ZwTHUzZjZzNVQ3c29CUk12bjdmSDlBOGY5dTlQWGMwZE1BOVZZcDFQTmNlMnEwcG5scGJjdXpTYWdnMzlySklWMk9VVGs4ZkZ2S0NvczlhbzNEN0VzbExEamVnVzBWWTY3S0NQTWNiSmFybldmNFh6UmZfWW81ZmxTTDB0NzhiX0hGZFF5eF95eXduT01pUVpvcFd1anl1Zw?oc=5",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc2o3dzZ3VU9BdmY1ckstOTk4NnNyRzhSc3BNX3I3Z0JLMTBBenVDLU94bDk1X2RIN2FMY1dORTNicnNnTFZEbEFBbnhoOHg4czZBUHFtSGpGQ0Vnc0ZPNXRzbGVNd0ZQWFBobFd2RkluSHFlUTJNa3h2dXg3NU5wb25CMnU4SXNDNEdwcXVtcEFWbXJQWnliT0VsR2ZDUDVyMTNNaHJzejhnUkdkMWc5RlJkN3pPWElGbHBCaVgxS0gybGdiWmc?oc=5",
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRmZWLXVsRGJJY3NGZGRSREh5NUNubUtIVElPTFJpZ1Z3anF3MVZaTDZIN1RfZ09rSHN0cUcySl90U2k2SFhJNks4MzB0cC14SFkyQXA4Q1VGSmdxU3gtUThFRC15Ymg2ZXROZElkOEJMcTFWcDJCd1FjOFY4V3BiM3NGdHF1akRLLWlwOTFWdDJ1U3dIQjNuU0hpWHd4MkZidGsycjlUb3VWOVROeUhXNl9zbTU3NGRvYWIzVjhpT0R6WlliSTFoOV9IbUt5MHo5cllILQ?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://www.forbes.com/sites/joanverdon/2025/11/29/black-friday-data-shows-online-sales-strong-store-results-mixed/",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEJzY0JxclRYSUYtTnJqSnA5NWJCVktNcElpMWVkaHZaQU4wS3duaTVLak94X05sUVFNR1piMEVGS3V2SFR2SGg0VEdZdWVZallXNjNzYUpRYnkzNndNNENNY0MwZnpZR2dVMFV2NFl3RUJHcVVVaEJhR0FuN1VjS0J1YXV6aEZjdGlQWGtmdmlDYXIzSEdER2RuZUxmdWVfdWdiT284R2Q3QmZQY1c3VFV5X3gydDRXYlpqQ0FPRGI3TzhI?oc=5",
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.941,
-      "consensus": 0.591,
-      "constructiveness": 0.006,
+      "magnitude": 0.775,
+      "recency": 0.93,
+      "consensus": 0.571,
+      "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.672,
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "U.S. Black Friday online sales reached a record $11.8 billion, according to Adobe Analytics, marking a 9.1% increase from last year. This growth highlights strong consumer spending online. Data on physical store performance has not yet been reported.",
-    "constructiveness_score": 0.006,
-    "constructiveness_reason": "semantic: pos_sim=0.12, neg_sim=0.08; semantic_boost=0.01",
+    "score": 0.676,
+    "summary_source": "skipped",
+    "summary_reason": "skipped_due_to_budget",
+    "headline_source": "",
+    "summary": "",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "is_trending": false,
     "trending_score": 0.0
+  },
+  {
+    "title": "Airlines Rush to Fix Software Glitch on Most-Flown Airbus - Bloomberg.com",
+    "domain": "science",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Sat, 29 Nov 2025 18:17:20 GMT",
+    "source": "Bloomberg",
+    "sources": [
+      "Bloomberg",
+      "Associated Press"
+    ],
+    "domains": [
+      "news.google.com"
+    ],
+    "snippets": [
+      "Airlines Rush to Fix Software Glitch on Most-Flown Airbus Bloomberg.com",
+      "Airbus Warns A320 Fleet Needs Software Fix After Incident Bloomberg.com",
+      "Airlines work to fix software glitch on A320 aircraft and some flights are disrupted AP News"
+    ],
+    "image_url": "",
+    "titles": [
+      "Airlines Rush to Fix Software Glitch on Most-Flown Airbus - Bloomberg.com",
+      "Airbus Warns A320 Fleet Needs Software Fix After Incident - Bloomberg.com",
+      "Airlines work to fix software glitch on A320 aircraft and some flights are disrupted - AP News"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2h3d2NiZE80MEF0eEQzSm5yaERyZnNIdU01aUlrbUxxUDF3WmJEVXRidVZ0Ni1rcWxkaGRTYXVzWm03dXlqWV9PWUMxVzlWTWlxNlk4OHBxX1J5aExYMHRudWt2MDllelZiQTJQdzdTM2VuLXVsRUF3SmJuT2V1WUhIVndOQVNPZnhXUFE0WTdzMGJpSGt0ZERuLWtTY0JzYkljc2kwVENIQ0hwb0lNbVY3d0M?oc=5",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEc0U3hWM3I0S252dHk4d0wyaklSY3dWMEliSzJ6a2h4ZzNadE85a0VycHVESy00b3dNM3NwaXhiVzc4YTNZVmRCbk9xMC1id212NkVwY0pZQUt4RWk2ZFpDOThPN2JqTTVRNFpIWUF0YXpPdVExMUwyMHFLNFAxQ0dzekxKclhmZDlLUXhGLU5WS3ZjTXhxdDltSTZLQVh5UWFHQ2xuWG5QbUk2RXZBWFk0Ym0?oc=5",
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0pxNnZDVGhOTWNxMF9GUGhDYzNtMFJ2ckM4azYxRUZod19WXzJuR3RqT3JEeVk2SWVVOS1EV3Rjbm5XMmlUMU5ORGVBMDh5QkR0M0R1Z1lQQXNRbC1iTVh2Y3RSX3B0c1J1Sk5ObVdrNjRPWnotM05ES3QtUjdVWE9yQWpvZi12LTQ5T0pJWDkyVkpCQXphX1QxZ3FOeEZDcmhyag?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2h3d2NiZE80MEF0eEQzSm5yaERyZnNIdU01aUlrbUxxUDF3WmJEVXRidVZ0Ni1rcWxkaGRTYXVzWm03dXlqWV9PWUMxVzlWTWlxNlk4OHBxX1J5aExYMHRudWt2MDllelZiQTJQdzdTM2VuLXVsRUF3SmJuT2V1WUhIVndOQVNPZnhXUFE0WTdzMGJpSGt0ZERuLWtTY0JzYkljc2kwVENIQ0hwb0lNbVY3d0M?oc=5",
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.95,
+      "consensus": 0.571,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.676,
+    "summary_source": "skipped",
+    "summary_reason": "skipped_due_to_budget",
+    "headline_source": "",
+    "summary": "",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "US shoppers spend record amount online for Black Friday",
+    "domain": "business",
+    "source_domain": "financialpost.com",
+    "location": "national",
+    "published": "Sat, 29 Nov 2025 17:06:14 +0000",
+    "source": "Financial Post",
+    "sources": [
+      "Associated Press",
+      "Financial Post"
+    ],
+    "domains": [
+      "news.google.com",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "Shoppers hit Black Friday sales with celebratory mood despite economic strain AP News",
+      "NEW YORK (AP) — Despite wider economic uncertainty hovering above this year’s holiday season, shoppers turned out in big numbers for Black Friday — spending billions of dollars both in stores and online. Adobe Analytics, which tracks e-commerce, said U.S. consumers spent a record $11.8 billion onlin"
+    ],
+    "image_url": "",
+    "titles": [
+      "Shoppers hit Black Friday sales with celebratory mood despite economic strain - AP News",
+      "Shoppers spend billions on Black Friday to snag holiday deals, despite wider economic uncertainty"
+    ],
+    "url": "https://financialpost.com/pmn/shoppers-spend-billions-on-black-friday-to-snag-holiday-deals-despite-wider-economic-uncertainty",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHdjMk9zNHRYc3FHbGJnOHFrUi0xUC1JZ1lLQXE5T3FSOWVjT21UTFFTRFRpZ2JrVFV4b3FwWmVsWkRjUXBvUGZwUkZLdkhOTFBnU0Q1d3ZWZXJWNWk5enUtSXh6VXNPSUh6dVB0U1dRdjkxc0RleVZyMDFzdWNBazZjN1ZXV1dIQk9lWUs2RWJud3hNdHg5OUVERQ?oc=5"
+    ],
+    "location_scope": "national",
+    "link": "https://financialpost.com/pmn/shoppers-spend-billions-on-black-friday-to-snag-holiday-deals-despite-wider-economic-uncertainty",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.92,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.665,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "headline_source": "cache",
+    "summary": "Despite economic uncertainty and higher prices, U.S. shoppers spent a record $11.8 billion online during Black Friday, according to Adobe Analytics. Both in-store and online sales saw strong turnout nationwide, including in Los Angeles. This suggests holiday spending remains robust despite concerns about tariffs and inflation.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "constructiveness_source": "heuristic",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "WWE Survivor Series WarGames 2025 set for San Diego",
+    "domain": "business",
+    "source_domain": "forbes.com",
+    "location": "global",
+    "published": "Sat, 29 Nov 2025 11:30:00 -0500",
+    "source": "Forbes",
+    "sources": [
+      "ESPN",
+      "Forbes"
+    ],
+    "domains": [
+      "espn.com",
+      "forbes.com"
+    ],
+    "snippets": [
+      "As we approach Saturday's WWE premium live event, let's catch up on some notes and stats for each match.",
+      "WWE Survivor Series: WarGames 2025 could feature a number of major storylines surprises, including the return of Randy Orton.",
+      "WWE Survivor Series WarGames 2025 match card, start times and betting odds as Brock Lesnar, Roman Reigns and Cody Rhodes clash."
+    ],
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6928b8ac0bf62b9d7cbd4ec4/0x0.jpg?width=960",
+    "titles": [
+      "WWE Survivor Series: Key stats and info to know before WarGames",
+      "WWE Survivor Series Wargames 2025: 5 Potential Surprises And Returns",
+      "WWE Survivor Series WarGames 2025 Match Card, Start Time And Odd"
+    ],
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2025/11/29/wwe-survivor-series-wargames-2025-5-potential-surprises-and-returns/",
+    "alternate_urls": [
+      "https://www.espn.com/wwe/story/_/id/47110986/wwe-survivor-series-wargames-john-cena-roman-reigns-aj-lee",
+      "https://www.forbes.com/sites/blakeoestriecher/2025/11/29/wwe-survivor-series-wargames-2025-match-card-start-time-and-odd/"
+    ],
+    "location_scope": "global",
+    "link": "https://www.forbes.com/sites/blakeoestriecher/2025/11/29/wwe-survivor-series-wargames-2025-5-potential-surprises-and-returns/",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.904,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.66,
+    "summary_source": "cache",
+    "summary_reason": "",
+    "headline_source": "cache",
+    "summary": "WWE Survivor Series: WarGames 2025 will be held in San Diego on the Saturday night of Thanksgiving week. The event features major matches, including Brock Lesnar, Roman Reigns, and Cody Rhodes. There is speculation about Randy Orton’s return, but no official confirmation. Betting odds and match details have been released ahead of the event.",
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "constructiveness_source": "heuristic",
+    "is_trending": false,
+    "trending_score": 0.25
   },
   {
     "title": "Australian Prime Minister Anthony Albanese marries Jodie Haydon",
@@ -1522,15 +1516,15 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEhJNFVCdmxoR2xqREZveF9udEkxaDcxN0FJUGpvVEl1ZG1USTd3VU1WQzhMcmxhSUFJOHhHNTN5YmlETVNyZkxZOS0yaEs4eXZ6QkRMMHVSRWdid3ZsTUdSNTZ3U2pReVBZenNFalJTMExSQTZJQjdVbTZWLUNXYmFQdE5rQkFnclUzYlJCMm5FM3lMdkZTV3lKNDJ3THQwRVQ0b3Y0WDhzSUJNeGpF?oc=5",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.828,
+      "recency": 0.802,
       "consensus": 0.591,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.667,
-    "summary_source": "gpt",
+    "score": 0.659,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Australian Prime Minister Anthony Albanese has married his partner, Jodie Haydon, in a private ceremony at his official residence, the Lodge. He is the first sitting Australian leader to wed while in office. The event was followed by a reception attended by family and close friends.",
     "constructiveness_score": 0.3,
     "constructiveness_reason": "While this story provides basic awareness about a personal event in the life of the Australian Prime Minister, it does not contribute meaningfully to the reader’s understanding, decision-making, or sense of agency. It does not report on solutions, improvements, innovations, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
@@ -1570,12 +1564,12 @@
     "link": "https://financialpost.com/pmn/business-pmn/chicago-scraps-flights-as-major-storm-brings-snow-to-midwest",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.839,
+      "recency": 0.813,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.665,
+    "score": 0.658,
     "summary_source": "skipped",
     "summary_reason": "skipped_due_to_budget",
     "headline_source": "",
@@ -1587,49 +1581,50 @@
     "trending_score": 0.0
   },
   {
-    "title": "Ukrainian team visits United States for peace talks",
-    "domain": "business",
-    "source_domain": "news.google.com",
+    "title": "Russian attack on Kyiv kills three people and hurts many",
+    "domain": "general",
+    "source_domain": "dw.com",
     "location": "global",
-    "published": "Sat, 29 Nov 2025 12:58:26 GMT",
-    "source": "Reuters",
+    "published": "2025-11-29T07:56:00Z",
+    "source": "Deutsche Welle",
     "sources": [
-      "Reuters",
-      "Bloomberg"
+      "Al Jazeera",
+      "Deutsche Welle"
     ],
     "domains": [
-      "news.google.com"
+      "aljazeera.com",
+      "dw.com"
     ],
     "snippets": [
-      "Ukrainian delegation heads to US for peace talks after lead negotiator's exit Reuters",
-      "Ukrainian Team Heads to US for Talks With Trump Envoy Witkoff Bloomberg.com"
+      "These were the updates about the Russia-Ukraine war on Saturday, November 29, 2025.",
+      "Russian missiles and drones slammed residential Kyiv overnight, killing three civilians and injuring dozens, including a child. Meanwhile, Russia has banned the NGO Human Rights Watch as \"undesirable.\" DW has the latest."
     ],
     "image_url": "",
     "titles": [
-      "Ukrainian delegation heads to US for peace talks after lead negotiator's exit - Reuters",
-      "Ukrainian Team Heads to US for Talks With Trump Envoy Witkoff - Bloomberg.com"
+      "Russia-Ukraine war updates: Ukraine comes under deadly attacks",
+      "Ukraine updates: Kyiv hit with another deadly attack"
     ],
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORVVtUHVFOElXNjV2eHQyVXEyRUNOMFdZWUY0SXQ0MldwcW9VcDRhY3dPR0FLNmYtY0kxVUg0bXFGYUpwTmlwVm5LaGFDVGktei1mdThLWWoxYUZuUW0zaDNtTFRfYzVrWjJ3UFJWOWZ4bFd1WVpjbnE5YTVFR2Fpd1MyRlg5UDdXNXBEQmRNQVh6Ym8yR09VWGJRX1JrVDVkSHBsM2VUdGYtQlJ4VVZUb3NPcHdFek8zTjNrLXRQNFFZb0prdm4yc1hoLTA?oc=5",
+    "url": "https://www.dw.com/en/ukraine-updates-kyiv-hit-with-another-deadly-attack/live-74948448?maca=en-rss-en-top-1022-rdf",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZjA3TDNLUFZwODhya2swdS1nNTh4WHNiR0dVLVBtcExfZEI4TnltUVJvQm5OcVhRODBtMS1ncW5sTy1PRXJyM1VEbjRWcE5ZYU9HVC15d2hwRmNkNDQ1UUZRcXlkMVJyZXI3aFVjZGdYY1VsVVRqc2ZZZGhxQTR4dVlfakZ6T09vdDlndXg5SmNwTy1mWHNtTjlrdlVQOFZ3dm1FZ012bnkwdjl4b2k1eHdR?oc=5"
+      "https://www.aljazeera.com/news/liveblog/2025/11/29/russia-ukraine-war-live-kyiv-comes-under-deadly-drone-missile-attacks?traffic_source=rss"
     ],
     "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORVVtUHVFOElXNjV2eHQyVXEyRUNOMFdZWUY0SXQ0MldwcW9VcDRhY3dPR0FLNmYtY0kxVUg0bXFGYUpwTmlwVm5LaGFDVGktei1mdThLWWoxYUZuUW0zaDNtTFRfYzVrWjJ3UFJWOWZ4bFd1WVpjbnE5YTVFR2Fpd1MyRlg5UDdXNXBEQmRNQVh6Ym8yR09VWGJRX1JrVDVkSHBsM2VUdGYtQlJ4VVZUb3NPcHdFek8zTjNrLXRQNFFZb0prdm4yc1hoLTA?oc=5",
+    "link": "https://www.dw.com/en/ukraine-updates-kyiv-hit-with-another-deadly-attack/live-74948448?maca=en-rss-en-top-1022-rdf",
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.846,
-      "consensus": 0.571,
-      "constructiveness": 0.052,
+      "magnitude": 0.735,
+      "recency": 0.713,
+      "consensus": 0.591,
+      "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.65,
+    "score": 0.653,
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "A Ukrainian delegation is traveling to the United States for peace talks following the resignation of its lead negotiator. The team is scheduled to meet with Trump envoy Steven Witkoff to discuss potential steps toward resolving the conflict. The visit marks a continuation of diplomatic efforts despite recent changes in Ukraine's negotiation team.",
-    "constructiveness_score": 0.052,
-    "constructiveness_reason": "keywords (1): effort; semantic: pos_sim=0.08, neg_sim=0.06; semantic_boost=0.00",
-    "constructiveness_source": "heuristic",
+    "summary": "Russian missile and drone attacks on Kyiv overnight killed three civilians and injured dozens, including a child. In a separate development, Russia has declared the NGO Human Rights Watch \"undesirable,\" effectively banning its operations in the country. These events occurred on Saturday, November 29, 2025.",
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story offers basic awareness about the Russian attack on Kyiv and the banning of Human Rights Watch in Russia, but it lacks depth and insight into the causes, trends, or impacts of these events.",
+    "constructiveness_source": "gpt",
     "is_trending": false,
     "trending_score": 0.0
   },
@@ -1665,15 +1660,15 @@
     "link": "https://financialpost.com/pmn/business-pmn/cpc-reports-halts-in-black-sea-oil-loading-after-new-attack",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.867,
+      "recency": 0.84,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.649,
-    "summary_source": "gpt",
+    "score": 0.641,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "The Caspian Pipeline Consortium has suspended oil loading at the Black Sea port after one of its three moorings was damaged during overnight Ukrainian attacks. The pipeline is a major route for Kazakhstan’s crude exports via Russia. Operations are paused while damage is assessed, and there is no immediate timeline for resuming normal loading.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.00, neg_sim=0.09",
@@ -1713,15 +1708,15 @@
     "link": "https://www.bbc.com/news/articles/cgjn2y4eed5o?at_medium=RSS&at_campaign=rss",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.858,
+      "recency": 0.831,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.646,
-    "summary_source": "gpt",
+    "score": 0.638,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Starting in February, asylum seekers in the UK will be banned from using taxis to attend medical appointments, following news that the Home Office spends £15.8 million annually on this service. Any exemptions to the ban must be approved by the Home Office. The measure is part of a broader effort to reduce costs.",
     "constructiveness_score": 0.0,
     "constructiveness_reason": "keywords (1): effort; negative_penalty=0.05 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00",
@@ -1760,15 +1755,15 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2l3WTk4RlhETXhSdC1SeVFWdW9tempMRkFNRG9yUk9Rd0JkS1ZRTng2T0hYT3NBWnVaWkJGTXE3R21wY0JLTUxZaGVPeDJSbXo4XzlOdTdtc0QxZGZFRTdBYndQczN2MXA3REFqdU5xbDhweFNqRTY0MkxHMXF0ZmZRaVM0cWtBUkNTVXFZSk96eV9FZUFqblRDb0hRVDFBaTlFNTZYWVNLVlZHemZ0eHBFNA?oc=5",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.786,
+      "recency": 0.762,
       "consensus": 0.571,
       "constructiveness": 0.25,
       "proximity": 0.5
     },
-    "score": 0.646,
-    "summary_source": "gpt",
+    "score": 0.638,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Micron Technology will invest $9.6 billion to build a new memory chip plant in western Japan, according to reports from Nikkei and Bloomberg. The facility will focus on producing advanced chips used in artificial intelligence applications. This investment is part of Micron's efforts to expand its manufacturing capacity in Asia.",
     "constructiveness_score": 0.25,
     "constructiveness_reason": "keywords (4): effort, expand, invest, investment; semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
@@ -1808,15 +1803,15 @@
     "link": "https://www.theguardian.com/us-news/2025/nov/28/trump-pardon-honduras-hernandez-drugs",
     "score_components": {
       "magnitude": 0.775,
-      "recency": 0.583,
+      "recency": 0.565,
       "consensus": 0.591,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.636,
-    "summary_source": "gpt",
+    "score": 0.63,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Former U.S. President Donald Trump has announced he will pardon Juan Orlando Hernández, the former president of Honduras, who is serving a 45-year sentence in the U.S. after being convicted in 2024 on drug trafficking and weapons charges. Hernández was found guilty of accepting bribes to protect cocaine shipments. The pardon has not yet been issued.",
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story provides important information about a potential pardon for a former leader convicted of serious crimes. However, it doesn't provide much depth or insight into the implications of this decision, nor does it highlight any progress or solutions.",
@@ -1855,160 +1850,20 @@
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRC1QNktIT0lYeDI0TlJRcDdhTlc0NUhFTTBQLTJWVW9kNlplNDk4WWY1RmI1SzI3UVZHOXFtbkdFTi1HRU5IcmNBTG9YcEdBUzJrVS1pVVkta08yTlU4aXNpYjhJRC1PdWhKcmJ4Yk5Wczk4ZDZsVGNsWkZRcWVNOU1XaTdlOC14bFpwcWJEUGdwNkUxblVVSlFUamE0VkQ5QzFybW5iVVB4Um5ZWEcyeFFKenU?oc=5",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.648,
+      "recency": 0.628,
       "consensus": 0.571,
       "constructiveness": 0.079,
       "proximity": 0.5
     },
-    "score": 0.587,
-    "summary_source": "gpt",
+    "score": 0.581,
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Peru’s President Dina Boluarte announced plans to declare a state of emergency along the country’s southern border to prevent the entry of undocumented migrants. The move follows reports of migrants, mainly from Venezuela and Haiti, gathering at the border with Chile. The emergency declaration aims to enhance border security and control migration flows.",
     "constructiveness_score": 0.079,
     "constructiveness_reason": "keywords (1): plan; semantic: pos_sim=0.12, neg_sim=0.00; semantic_boost=0.03",
     "constructiveness_source": "heuristic",
     "is_trending": false,
     "trending_score": 0.0
-  },
-  {
-    "title": "Ancient humans took two routes to Australia 60,000 years ago",
-    "domain": "science",
-    "source_domain": "newscientist.com",
-    "location": "global",
-    "published": "Fri, 28 Nov 2025 19:00:39 +0000",
-    "source": "New Scientist",
-    "sources": [
-      "New Scientist",
-      "Live Science"
-    ],
-    "domains": [
-      "newscientist.com",
-      "livescience.com"
-    ],
-    "snippets": [
-      "Scientists have long tried to uncover the perilous journey humans took to reach the ancient land mass that now makes up Australia. Now, a genetic study has edged us closer to understanding how and when they achieved this",
-      "New genetic research shows that DNA and archaeological evidence align with the \"long chronology\" of the peopling of Australia."
-    ],
-    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/11/28101345/SEI_275891303.jpg",
-    "titles": [
-      "Ancient humans took two routes to Australia 60,000 years ago",
-      "Modern humans arrived in Australia 60,000 years ago and may have interbred with archaic humans such as 'hobbits'"
-    ],
-    "url": "https://www.newscientist.com/article/2506312-ancient-humans-took-two-routes-to-australia-60000-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "alternate_urls": [
-      "https://www.livescience.com/archaeology/human-evolution/modern-humans-arrived-in-australia-60-000-years-ago-and-may-have-interbred-with-archaic-humans-such-as-hobbits"
-    ],
-    "location_scope": "global",
-    "link": "https://www.newscientist.com/article/2506312-ancient-humans-took-two-routes-to-australia-60000-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.514,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.543,
-    "summary_source": "skipped",
-    "summary_reason": "skipped_due_to_budget",
-    "headline_source": "",
-    "summary": "",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Airlines Rush to Fix Software Glitch on Most-Flown Airbus - Bloomberg.com",
-    "domain": "science",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Sat, 29 Nov 2025 18:17:20 GMT",
-    "source": "Bloomberg",
-    "sources": [
-      "Bloomberg"
-    ],
-    "domains": [
-      "news.google.com"
-    ],
-    "snippets": [
-      "Airlines Rush to Fix Software Glitch on Most-Flown Airbus Bloomberg.com",
-      "Airbus Warns A320 Fleet Needs Software Fix After Incident Bloomberg.com"
-    ],
-    "image_url": "",
-    "titles": [
-      "Airlines Rush to Fix Software Glitch on Most-Flown Airbus - Bloomberg.com",
-      "Airbus Warns A320 Fleet Needs Software Fix After Incident - Bloomberg.com"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2h3d2NiZE80MEF0eEQzSm5yaERyZnNIdU01aUlrbUxxUDF3WmJEVXRidVZ0Ni1rcWxkaGRTYXVzWm03dXlqWV9PWUMxVzlWTWlxNlk4OHBxX1J5aExYMHRudWt2MDllelZiQTJQdzdTM2VuLXVsRUF3SmJuT2V1WUhIVndOQVNPZnhXUFE0WTdzMGJpSGt0ZERuLWtTY0JzYkljc2kwVENIQ0hwb0lNbVY3d0M?oc=5",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEc0U3hWM3I0S252dHk4d0wyaklSY3dWMEliSzJ6a2h4ZzNadE85a0VycHVESy00b3dNM3NwaXhiVzc4YTNZVmRCbk9xMC1id212NkVwY0pZQUt4RWk2ZFpDOThPN2JqTTVRNFpIWUF0YXpPdVExMUwyMHFLNFAxQ0dzekxKclhmZDlLUXhGLU5WS3ZjTXhxdDltSTZLQVh5UWFHQ2xuWG5QbUk2RXZBWFk0Ym0?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2h3d2NiZE80MEF0eEQzSm5yaERyZnNIdU01aUlrbUxxUDF3WmJEVXRidVZ0Ni1rcWxkaGRTYXVzWm03dXlqWV9PWUMxVzlWTWlxNlk4OHBxX1J5aExYMHRudWt2MDllelZiQTJQdzdTM2VuLXVsRUF3SmJuT2V1WUhIVndOQVNPZnhXUFE0WTdzMGJpSGt0ZERuLWtTY0JzYkljc2kwVENIQ0hwb0lNbVY3d0M?oc=5",
-    "score_components": {
-      "magnitude": 0.393,
-      "recency": 0.981,
-      "consensus": 0.35,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.532,
-    "summary_source": "skipped",
-    "summary_reason": "skipped_due_to_budget",
-    "headline_source": "",
-    "summary": "",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Black Friday deals are still going strong on Apple AirTags, iPads, and more",
-    "domain": "science",
-    "source_domain": "theverge.com",
-    "location": "global",
-    "published": "2025-11-29T12:56:58-05:00",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "domains": [
-      "theverge.com"
-    ],
-    "snippets": [
-      "If you’re planning to gift an Apple device this holiday season — or treat yourself — now’s the time to start shopping. Black Friday may be over, but the discounts are still going strong — and these Apple deals are some of the best we’ve seen all year. Despite having recently launched, for instance,",
-      "Black Friday is technically a thing of the past, but many of the best deals we told you about yesterday — including deep discounts on the AirPods Pro 3, the Pixel Watch 4, and the latest Kindle Paperwhite — are still kicking for now. In some cases, gadgets are out of stock at certain stores, […]"
-    ],
-    "image_url": "",
-    "titles": [
-      "Black Friday deals are still going strong on Apple AirTags, iPads, and more",
-      "The 195 Black Friday deals you can still get"
-    ],
-    "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
-    "alternate_urls": [
-      "https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available"
-    ],
-    "location_scope": "global",
-    "link": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
-    "score_components": {
-      "magnitude": 0.393,
-      "recency": 0.972,
-      "consensus": 0.35,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.529,
-    "summary_source": "skipped",
-    "summary_reason": "skipped_due_to_budget",
-    "headline_source": "",
-    "summary": "",
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "is_trending": false,
-    "trending_score": 0.25
   }
 ]

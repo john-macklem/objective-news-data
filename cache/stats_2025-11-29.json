@@ -1,8 +1,8 @@
 {
   "fetched": 2123,
   "filtered": 742,
-  "clustered": 70,
-  "scored": 37,
+  "clustered": 61,
+  "scored": 35,
   "feeds": {
     "feeds_total": 51,
     "url_normalized": 11,
@@ -14,8 +14,8 @@
       "goosefeed.com": 8,
       "r.jina.ai": 8,
       "rsshub.app": 2,
-      "feeds.reuters.com": 1,
       "english.alarabiya.net": 1,
+      "feeds.reuters.com": 1,
       "www.nature.com": 1,
       "www.investopedia.com": 1,
       "www.theglobeandmail.com": 1,
@@ -24,33 +24,35 @@
   },
   "cache_metrics": {
     "summary": {
-      "stale_version": 1430,
-      "load_ms": 101,
-      "miss": 32
+      "load_ms": 13,
+      "hit": 24,
+      "miss": 8
     },
     "headline": {
-      "miss": 32
+      "hit": 24,
+      "miss": 8
     },
     "constructiveness": {
-      "miss": 57,
-      "hit": 1
+      "hit": 27,
+      "miss": 8
     }
   },
   "headline_metrics": {
-    "total": 37,
+    "total": 35,
     "missing": 0,
     "source_counts": {
-      "gpt": 32,
-      "": 5
+      "cache": 24,
+      "gpt": 8,
+      "": 3
     },
     "length": {
-      "avg": 57.65,
-      "median": 58,
+      "avg": 56.6,
+      "median": 57,
       "max": 85,
-      "over_limit": 3
+      "over_limit": 2
     },
     "uniqueness": {
-      "unique_titles": 37,
+      "unique_titles": 35,
       "duplicate_groups": 0,
       "repeated_titles": 0,
       "deduped_ratio": 1.0
