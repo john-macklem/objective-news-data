@@ -5228,5 +5228,165 @@
     "score": 0.3,
     "reason": "This story provides basic awareness about the results of several hockey games, but it doesn't offer any deeper insights or context. It doesn't report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
     "source": "gpt"
+  },
+  "01fe5e6ad8553dceec818d41c1bb07c6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "2ba24e5b9e78505638e8f1dd755e0a6d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "3b397cf761d0f2247eef26010cf4199c": {
+    "score": 0.069,
+    "reason": "keywords (1): support; semantic: pos_sim=0.15, neg_sim=0.06; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "0c683a21d2d5cc7847358c50894400b7": {
+    "score": 0.05,
+    "reason": "keywords (1): support; semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "7dd6472f098fff2ed57daf1a0e189351": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09",
+    "source": "heuristic"
+  },
+  "d6d33e62bad254bd3a7da9145ecf5564": {
+    "score": 0.0,
+    "reason": "keywords (1): solution; negative_penalty=0.05 (keywords: violence); semantic: pos_sim=0.00, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "64d6cc0bff2691815ea34b309af7118b": {
+    "score": 0.05,
+    "reason": "keywords (1): effort; semantic: pos_sim=0.00, neg_sim=0.13",
+    "source": "heuristic"
+  },
+  "e1e68a2042cb580d5c37219e2dd70b32": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "30d228b2cdbf53666122b64ec059f07f": {
+    "score": 0.05,
+    "reason": "keywords (1): effort; semantic: pos_sim=0.00, neg_sim=0.17",
+    "source": "heuristic"
+  },
+  "fa25567347516f194d35f9513c70708f": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "b5cb89ab3ea38c961b167d2fa65aaa22": {
+    "score": 0.048,
+    "reason": "semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "654d3ac971ae6295a8aa0ced540e6d59": {
+    "score": 0.12,
+    "reason": "keywords (2): effort, relief; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "7d495827d74d2a98bd657bfd8bf6d3c9": {
+    "score": 0.1,
+    "reason": "keywords (2): effort, relief; semantic: pos_sim=0.00, neg_sim=0.13",
+    "source": "heuristic"
+  },
+  "5608623efc0f50e03786ce74b853f30d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a61e87dc642afe81468872a1572ab600": {
+    "score": 0.023,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2b54f48d60d97ed80cc6c7b0a5b4d071": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "bcf845b3a9a0c4dcc9f613a095ec0718": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f4db8f5908baee46d3043d1e8bf6dfb4": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the ongoing corruption trial of Benjamin Netanyahu and his request for a pardon. However, it doesn't provide much insight into the implications of this request or the broader context of political corruption in Israel.",
+    "source": "gpt"
+  },
+  "c2a5aee0cfd99dc6841aff70f0b570fb": {
+    "score": 0.6,
+    "reason": "The story informs about the US's stance on the Honduran election and its threat to cut aid. However, it lacks depth in terms of understanding the reasons behind this decision, the potential impacts on Honduras, and the context of US-Honduras relations.",
+    "source": "gpt"
+  },
+  "f7a217eeb955219577eeb49a52d286bc": {
+    "score": 0.3,
+    "reason": "While this story provides basic information about the North Carolina football team's season record, it offers minimal insight into why the team struggled, what the implications are for the team, or any potential solutions or plans for improvement.",
+    "source": "gpt"
+  },
+  "3b16e6966381dfc96d9529cb5c484648": {
+    "score": 0.8,
+    "reason": "This story is constructive as it provides useful information about the call for increased transparency in Microsoft's business practices related to human rights. It also highlights the role of shareholders in influencing corporate behavior. However, it does not offer a solution or report on progress in addressing the issue.",
+    "source": "gpt"
+  },
+  "7d4acd3a2a9ff417aa78dc4968cd2a0d": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a tragic event and the ongoing investigation, but it does not provide deeper insights, potential solutions, or actionable insights for the reader. It is primarily a report on a reactive situation.",
+    "source": "gpt"
+  },
+  "8ff0ba1f61ef5203d59f70e5210b763a": {
+    "score": 0.9,
+    "reason": "This story is highly constructive as it reports on efforts to solve a significant international problem. It provides useful information about the ongoing negotiations and the proposed framework for peace, contributing to the reader's understanding of the situation.",
+    "source": "gpt"
+  },
+  "c850cdbb91b9f5c6a16f14c58b196c9f": {
+    "score": 0.7,
+    "reason": "This story provides useful insight into the life and work of Ludwig Minelli, founder of Dignitas, and his impact on Swiss law regarding assisted dying. However, it does not report on solutions or improvements, nor does it give actionable insights to the reader.",
+    "source": "gpt"
+  },
+  "21334e2471d1924d98d4ae6d71d9235e": {
+    "score": 0.6,
+    "reason": "This story provides useful context about the U.S. military's presence in the Caribbean, potentially contributing to a deeper understanding of international relations. However, it does not provide actionable insights, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "38b1c1ee7dc336b34113586d24db9861": {
+    "score": 0.3,
+    "reason": "This story reports on an incident at a waste facility, but does not provide actionable insights or a deeper understanding of the situation. It also does not report on solutions or improvements, and provides minimal depth or insight.",
+    "source": "gpt"
+  },
+  "a561920705c627d9c465d88b5665580b": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the results of the Qatar Grand Prix and the upcoming final race. However, it does not offer deeper insights into the strategies of the drivers, the implications of the results, or any potential solutions or improvements.",
+    "source": "gpt"
+  },
+  "dd7b67cfd5126e10ab2e67fbd1705416": {
+    "score": 0.3,
+    "reason": "The story offers basic awareness about a player's injury but lacks depth or insight. It does not provide any information about the impact of the injury on the team, potential replacements, or recovery strategies.",
+    "source": "gpt"
+  },
+  "4714fe9dc614c7dbd8c6897f94e0c815": {
+    "score": 0.6,
+    "reason": "The story informs about a new coaching appointment and provides some context about the coach's previous record and the expectation for him to improve the team's offense. However, it does not delve into the specifics of how he plans to achieve this or what his appointment means for the team's future strategies.",
+    "source": "gpt"
+  },
+  "6f547f29c415bb09bd3db7f2c8ec8271": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the accommodation arrangements for the 2026 Winter Olympics. However, it does not report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter. The depth of the story is also limited.",
+    "source": "gpt"
+  },
+  "7201bb1f4fed28c137f0f09d25c137dc": {
+    "score": 0.3,
+    "reason": "While the story offers basic awareness of Billy Bonds' death and his contributions to West Ham United, it provides minimal depth or insight. There is no actionable insight, progress report, or increased clarity around systems or trends.",
+    "source": "gpt"
+  },
+  "f05f32e95292bf71bc6f0c17fff3e3b3": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness of the match between Manchester United and Crystal Palace, highlighting a key moment that shifted the game's momentum. However, it lacks depth and does not provide actionable insights or progress reports. It also doesn't increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
   }
 }
