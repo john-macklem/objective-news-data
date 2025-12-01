@@ -5568,5 +5568,185 @@
     "score": 0.3,
     "reason": "While this story provides basic awareness about a new NFL record, it doesn't contribute meaningfully to the reader\u2019s understanding, decision-making, or sense of agency. It doesn't report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
     "source": "gpt"
+  },
+  "b8acda198095a52ebf7c2cd4dbab8de0": {
+    "score": 0.041,
+    "reason": "semantic: pos_sim=0.16, neg_sim=0.00; semantic_boost=0.04",
+    "source": "heuristic"
+  },
+  "d223b8c95db1d99c03ae7f8c4b93113c": {
+    "score": 0.05,
+    "reason": "keywords (1): recovery; semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "d606d5783c5a23cf6ce2e7fc751426a7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "c2be822f30966696b6555ced8d4fce11": {
+    "score": 0.049,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "6095fe00ad77b27d353fce04d615cc33": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "0a54e37198dfca165454c7b8decbfeec": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "4eb42e704ae4b242f19ef05070dee804": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "849327dcf42b4baa6a5f05abf8bc2355": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "f416b6a787f6d176a1878dae4cd6772e": {
+    "score": 0.227,
+    "reason": "keywords (4): collaboration, investment, partnership, solution; semantic: pos_sim=0.19, neg_sim=0.07; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "9c801942fdeb9a087395c20fcbcae89d": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: fail); semantic: pos_sim=0.00, neg_sim=0.09",
+    "source": "heuristic"
+  },
+  "d9a34e703f3a090753415a14ab15f50e": {
+    "score": 0.02,
+    "reason": "negative_penalty=0.08 (keywords: lawsuit); semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "98e819faa6099ab152728fb7123b11ea": {
+    "score": 0.006,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.06; semantic_boost=0.01",
+    "source": "heuristic"
+  },
+  "7d41ccadf38ef4f7f9e9b54d8174afdd": {
+    "score": 0.0,
+    "reason": "keywords (1): investment; negative_penalty=0.05 (keywords: fraud); semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "3a579dac5c19333d22e0dbbbec10d670": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "4c6fb5980908d778948cc6cb0fecd48d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4327acbf9aa09506e16b4c42782b6d70": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "bb55a3a61c8cbfb9f7aef684b70acc8f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "b3f07064a48ce3fb51874acd1af418a4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "16a1f1bb33a0a703e61f47fa466c2968": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8d8f04f9afd96d0ca27757735fc7d776": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "67b9650d7e1424ed878d0ef4a5c9dced": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a8e5ed6cb139b75b7b5ff7722404d9db": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the incident and Red Bull's response, but it doesn't offer any deeper insights or solutions. It doesn't help readers understand the broader context of sportsmanship or the impacts of online abuse.",
+    "source": "gpt"
+  },
+  "7f85722e3df130446b503d9dddeee5da": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the health of a public figure, which could be relevant to discussions about his future political involvement. However, it doesn't provide any broader context about the importance of health transparency for public figures or the process of medical evaluations for politicians.",
+    "source": "gpt"
+  },
+  "2aa067e18ec24d7616621d2ba3fa2986": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the White House Christmas decorations, but it doesn't offer any deeper insights or useful information. It doesn't discuss the tradition of White House decorations, the process of selecting the theme, or the significance of the chosen theme.",
+    "source": "gpt"
+  },
+  "b9131d77bab54e7c936720bff50cb7eb": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the current political climate in Israel, and the ongoing corruption trial of Prime Minister Netanyahu. However, it doesn't offer any solutions or improvements, nor does it provide a deep understanding of the systems or causes at play.",
+    "source": "gpt"
+  },
+  "67769083be98bb3f9fc0911d314a80a0": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness of the current political situation in the US, with Trump's endorsement influencing the presidential election. However, it lacks depth and insight into the implications of this endorsement, the candidates' policies, or the potential impacts on the country.",
+    "source": "gpt"
+  },
+  "e90ba994d6cd4cb57a67c81b21d5080b": {
+    "score": 0.7,
+    "reason": "This story informs readers about a new trend in online content, providing a useful context for understanding the state of digital communication and its impact on society. However, it doesn't report on any solutions or improvements to the issue of 'rage bait'.",
+    "source": "gpt"
+  },
+  "583bffd46bd9a9e6cbe97824037f6f6a": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the potential consequences of the Honduran presidential election, but it doesn't provide much depth or insight into the reasons behind the US president's threat, the potential impacts on Honduras, or any possible solutions.",
+    "source": "gpt"
+  },
+  "f5ffbfbaf80214b3ab055ec575710b2e": {
+    "score": 0.9,
+    "reason": "This story is constructive as it reports on a significant agreement between the US and UK to eliminate tariffs on pharmaceutical imports. It provides useful information about changes in how the UK values medicines and the aim of the deal. It highlights progress in facilitating trade and ensuring continued access to new medicines.",
+    "source": "gpt"
+  },
+  "48709c6b75d08c903cea36bfccd7756e": {
+    "score": 0.7,
+    "reason": "This story informs about Pope Leo XIV's visit to Lebanon and his call for peace amid the country's ongoing crisis. It provides context about the current situation in Lebanon and the Pope's efforts to promote peace, but it doesn't delve into potential solutions or the impact of the Pope's visit.",
+    "source": "gpt"
+  },
+  "b9ecbbc71742aad27963f8236e43c29f": {
+    "score": 0.7,
+    "reason": "The story provides useful information about the Indian government's new cybersecurity measures and raises awareness about potential privacy concerns. However, it does not report on any solutions or improvements to these concerns.",
+    "source": "gpt"
+  },
+  "d5314ab2294c3b0c02f3450f376d03e3": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about Zipcar's decision to end its services in the UK, but it does not provide in-depth insight or actionable insights for the reader. It also does not report on any solutions, improvements, or innovations related to this issue.",
+    "source": "gpt"
+  },
+  "d7a6ced312f70811591e512a4f5446d1": {
+    "score": 0.8,
+    "reason": "This story informs readers about serious allegations within the UK Special Forces and provides context about an ongoing investigation. It increases clarity around a significant issue, but it does not report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "e467691e077d9859322a3b144bddc5b4": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the ongoing dispute between the British Medical Association and resident doctors, which could impact healthcare services. However, it doesn't offer any solutions or deeper insight into the causes or potential impact of the strike.",
+    "source": "gpt"
+  },
+  "14285bad5c735cc42223f73a8c0469ab": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about the legal troubles of a UK lawmaker in Bangladesh. However, it doesn't provide much depth or insight into the implications of this for Siddiq's political career, or the broader political context.",
+    "source": "gpt"
+  },
+  "8ec314f2bfbae778a08474421644f266": {
+    "score": 0.8,
+    "reason": "This story provides useful context about Lane Kiffin's career move and its implications for both Ole Miss and LSU. However, it doesn't highlight any innovative approaches or solutions to the challenges faced by the teams.",
+    "source": "gpt"
   }
 }
