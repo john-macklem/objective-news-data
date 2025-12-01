@@ -5388,5 +5388,185 @@
     "score": 0.5,
     "reason": "The story offers basic awareness of the match between Manchester United and Crystal Palace, highlighting a key moment that shifted the game's momentum. However, it lacks depth and does not provide actionable insights or progress reports. It also doesn't increase clarity around systems, causes, trends, or impacts that matter.",
     "source": "gpt"
+  },
+  "ce754ae5148b7244e8c38a22d34ee40f": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "adcc55b88b5782a74fd5f98ba5ff8f36": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "17f90956c768a89a5bf7c9ae9e2f31ee": {
+    "score": 0.097,
+    "reason": "keywords (1): program; semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "4c2bd3ba91a89fa9d255fd8a365ae7bb": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: accus); semantic: pos_sim=0.00, neg_sim=0.09",
+    "source": "heuristic"
+  },
+  "d24207773b0f1ee8820c3095565026b8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "4c5d5dfd3523878f891796e259581db4": {
+    "score": 0.046,
+    "reason": "semantic: pos_sim=0.18, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "988f7c084babc40d5032a2b2b2fb40bc": {
+    "score": 0.05,
+    "reason": "keywords (1): effort; semantic: pos_sim=0.00, neg_sim=0.09",
+    "source": "heuristic"
+  },
+  "e14d87f2e016f21467e5e0a557a26a72": {
+    "score": 0.0,
+    "reason": "keywords (1): solution; negative_penalty=0.05 (keywords: violence); semantic: pos_sim=0.00, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "76c148b4892874dc6f4036e6739122f2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "8ca4890b3aa85b5271f1b66c54a95abe": {
+    "score": 0.068,
+    "reason": "keywords (2): plan, support; negative_penalty=0.05 (keywords: fail); semantic: pos_sim=0.15, neg_sim=0.06; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "4d9b7c7b547cdf75d1971b95d93dd3e7": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "e7d30c3914830b61988c19882577c2f8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "b349c7823a77ea44273decd080579cf2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "55c97f7802c56fa6a464b4cc07b7f5c4": {
+    "score": 0.078,
+    "reason": "keywords (1): invest; semantic: pos_sim=0.11, neg_sim=0.00; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "6d34190f1ba96ad099ea3129c3cc016a": {
+    "score": 0.073,
+    "reason": "keywords (1): effort; semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "1ae2086a91decd1719866bd2a1da40dd": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "92c711580ffcf1da1a6bd17a40ef780b": {
+    "score": 0.152,
+    "reason": "keywords (2): investment, support; semantic: pos_sim=0.21, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "8eebc38252979d1396f308af84bb2d7e": {
+    "score": 0.022,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "85c0b396c7b76a81f0f5de067a78cc3a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7e64aec635ea1cd8c1e0d6b0566e3f1d": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "73decda8a3d3fef1129dd01801040c33": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0c99343c49ccdc2531e4d495165762ac": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the ongoing political situation in Israel. It informs readers about the corruption trial of Benjamin Netanyahu and his request for a pardon, which is a significant development in the case. However, the story does not provide any solutions or deeper insights into the implications of this development.",
+    "source": "gpt"
+  },
+  "b97f0f0be34a42119ada27299e86388b": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the sentencing of British MP Tulip Siddiq in Bangladesh. It informs readers about the charges against her and her claims of political motivation. However, it does not provide any solutions or deeper insights into the implications of this development.",
+    "source": "gpt"
+  },
+  "d770925f81e41068b03ed3da3faff449": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the shooting of two West Virginia National Guard members and Donald Trump's response. However, it does not provide any actionable insights or deeper understanding about the circumstances of the shooting or its broader implications.",
+    "source": "gpt"
+  },
+  "101e0c722ee336fef0fb6aae1c852dcb": {
+    "score": 0.3,
+    "reason": "The story offers basic awareness about a personal health issue of a public figure. However, it lacks depth or insight into any broader issues, trends, or systems. It doesn't provide actionable insights or deeper understanding for the reader.",
+    "source": "gpt"
+  },
+  "43372cb1c52a6e952e54b01b1d1952c1": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the progress of an election, which could be important for decision-making or understanding for those interested in the political situation. However, it doesn't provide much context or detail about the implications of this election or the candidates involved.",
+    "source": "gpt"
+  },
+  "446086b3b82392459e4b2305e2cf40e5": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness of a conversation between two political leaders, but it lacks depth or insight. Without more information about the content or implications of the conversation, it doesn't provide actionable insights or deeper understanding for the reader.",
+    "source": "gpt"
+  },
+  "13413c5476ec683a160b402ec4031be7": {
+    "score": 0.5,
+    "reason": "The story increases awareness about the severe impact of Cyclone Ditwah in Sri Lanka, providing valuable information about the death toll and missing individuals. However, it lacks depth in terms of the causes, potential solutions, or how the disaster management system is responding, which would have made it more constructive.",
+    "source": "gpt"
+  },
+  "d6e605d56d02ab324100d5cb5d9dbc0b": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the preliminary results of the Honduras presidential elections. However, it lacks depth and insight into the implications of these results, the candidates' policies, or the overall political context in Honduras.",
+    "source": "gpt"
+  },
+  "bb2de157338fff2a5c20ddec53cfc70f": {
+    "score": 0.4,
+    "reason": "This story provides basic awareness about a tragic fire incident in Hong Kong, including the death toll and ongoing investigations. However, it does not offer deeper understanding or actionable insights into the causes of the fire, safety measures, or how such incidents can be prevented in the future.",
+    "source": "gpt"
+  },
+  "01b0a3f1ac08f4a85106a3ff2b656c02": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a regulatory action against a major company, which may affect readers who are customers of Virgin Media. However, it does not offer solutions or progress towards resolving the issue, nor does it provide in-depth insight into the broader system or causes.",
+    "source": "gpt"
+  },
+  "3bf51e6160d6e2359fed8a7a14b0c620": {
+    "score": 0.8,
+    "reason": "This story reports on ongoing diplomatic efforts and progress towards peace, which is useful and empowering for readers. However, it does not provide enough detail about the specifics of the peace plan or the implications of the talks to score higher.",
+    "source": "gpt"
+  },
+  "49cfe2d8480d6998fd44b82baaa66d10": {
+    "score": 0.5,
+    "reason": "While this story raises awareness about a cultural trend, it does not provide actionable insights or deeper understanding. It does not report on solutions, improvements, or innovations, nor does it provide clarity around systems, causes, or impacts.",
+    "source": "gpt"
+  },
+  "5803593ad1f3164f8730ce8ecf437c61": {
+    "score": 0.6,
+    "reason": "The story informs readers about a significant data breach at a major e-commerce company, which is useful information for customers or potential customers of the company. However, it doesn't provide any actionable insights for readers or report on solutions to the problem.",
+    "source": "gpt"
+  },
+  "892206483862034c8207c47bcf97acd9": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the extension of the collective bargaining agreement between the WNBA and its players. However, it does not offer deeper understanding or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "a2befe7a24e8609b154c926d4c982a29": {
+    "score": 0.3,
+    "reason": "While this story provides basic awareness about a new NFL record, it doesn't contribute meaningfully to the reader\u2019s understanding, decision-making, or sense of agency. It doesn't report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
   }
 }
