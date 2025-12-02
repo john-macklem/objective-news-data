@@ -5903,5 +5903,185 @@
     "score": 0.6,
     "reason": "The story provides useful information about changes in the England cricket team for the upcoming Ashes Test. It contributes to the reader's understanding of the team's strategy in response to an injury. However, it does not report on broader trends, systems, or impacts.",
     "source": "gpt"
+  },
+  "19507682ed14bafa5432f4ee31dfaa9c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10",
+    "source": "heuristic"
+  },
+  "67a29fcb026f233cd29953e2284698aa": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "948a47e45cc3eca29101eae3043a42cd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "c17b6b39166a596297eb07b9b7937848": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "fb087b5da28a89387dfe932bacf90de1": {
+    "score": 0.03,
+    "reason": "semantic: pos_sim=0.12, neg_sim=0.00; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "9aeea5727b344a558df1899892623613": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: accus); semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "4d44813391dad46b50933b40ebe0bfd8": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "21cb12da333c16c983ee5b3aa726c450": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "07eee15a44c185506e7d21239b80b765": {
+    "score": 0.05,
+    "reason": "keywords (1): initiative; semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "f86e65762643663d0294fc8788f5dfa3": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "1dd0f4172f10bf533ea8c02df57f7fa9": {
+    "score": 0.048,
+    "reason": "semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "030788d97c1b3d95abb4bf234fc2fa11": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "27529599b102b69415043402b91bc32b": {
+    "score": 0.049,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "1ab38f8890f7733f7734cb8ffd5b6b60": {
+    "score": 0.03,
+    "reason": "keywords (1): program; negative_penalty=0.05 (keywords: fraud); semantic: pos_sim=0.12, neg_sim=0.00; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "3d92839a237a22edaeca663480dffe9e": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "bf1eaec08b93605ee85b79d2841a8509": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5074bad709cfb679274a8030a0fc5038": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "27cc2eba864f39c016374b8e8867401a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "c0e4667f7aded04e5e9f97265e2f0fb4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e5632b5aa57d51cfe7b3978ea09d4dee": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "cd1fd8e90085431ab753a1775cf37399": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "82ad46824d0376f4016c0e0c04cb2312": {
+    "score": 0.7,
+    "reason": "The story provides useful information about the ongoing conflict in Ukraine and the diplomatic efforts to resolve it. It also gives insights into the power dynamics between Russia, the US, and European countries. However, it doesn't report on specific solutions or improvements, nor does it provide deep understanding of the underlying causes or impacts of the conflict.",
+    "source": "gpt"
+  },
+  "4ab6647706eeeb1d9861b725af32311d": {
+    "score": 0.6,
+    "reason": "The story informs about an important political event, the special election in Tennessee, and its potential impact on the balance of power in the US House. However, it doesn't offer actionable insights for the reader or a deeper understanding of the political dynamics at play.",
+    "source": "gpt"
+  },
+  "4c3dda91a0b1470a6699ccc7d5d2312a": {
+    "score": 0.5,
+    "reason": "The story raises awareness about the use of music in political contexts and the artist's rights to control how their work is used. However, it doesn't provide actionable insights or a deeper understanding of the legal or ethical issues involved. It also lacks information on any potential solutions or progress in the situation.",
+    "source": "gpt"
+  },
+  "2a9cd5fa5af92a6fc630bf48cf2b16ae": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the pardon of Juan Orlando Hernandez and the political context surrounding it. However, it does not provide deeper insights or actionable information for the reader.",
+    "source": "gpt"
+  },
+  "e2ee8ea1b15e56142cef7e9733d785cf": {
+    "score": 0.6,
+    "reason": "This story provides useful information for Formula 1 fans about team changes and future plans. However, it does not report on solutions, improvements, or innovations in the sport.",
+    "source": "gpt"
+  },
+  "e98641cc4d88fa5db5f782ec0e3e7435": {
+    "score": 0.8,
+    "reason": "This story provides useful information about the future of Boston College's football program. It also reports on the school's plans for improvement, offering some insight into the decision-making process behind retaining the current coach despite a poor season record.",
+    "source": "gpt"
+  },
+  "9fbc2eeb491525724f6f4bd75d7ad220": {
+    "score": 0.8,
+    "reason": "The story provides useful information about the current state of police forces in England and Wales, specifically in relation to the handling of sexual offences. It increases awareness about systemic issues within these forces and calls for urgent action, contributing to the reader's understanding of the issue.",
+    "source": "gpt"
+  },
+  "a0c937c75eabbb149493c0ebc23109d5": {
+    "score": 0.6,
+    "reason": "The story informs about Pope Leo XIV's visit to Lebanon, his activities, and the purpose of his visit. It increases understanding of the Pope's role in offering support in times of crisis. However, it doesn't provide actionable insights or report on concrete solutions to the ongoing concerns in Lebanon.",
+    "source": "gpt"
+  },
+  "9bd1b5a1ea4da729ca3276015bbad029": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a controversy involving Defense Secretary Pete Hegseth. However, it lacks depth and doesn't provide actionable insights or solutions. The story's focus on a meme controversy detracts from more significant issues like Hegseth's advice to soldiers on rules of engagement.",
+    "source": "gpt"
+  },
+  "8e82249490ffe4c66648b9928a5dc124": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a court case involving an Afghan man who appeared in court from a hospital bed. However, it doesn't provide deeper insight or understanding about the case, the reasons behind it, or its potential implications.",
+    "source": "gpt"
+  },
+  "8c70a68b89a8fb01b0e567029caf7562": {
+    "score": 0.6,
+    "reason": "The story informs about a new report that could potentially lead to action against former police officers over disaster deaths. It provides useful context about the ongoing lack of accountability. However, it doesn't report on any solutions or improvements to prevent such incidents in the future.",
+    "source": "gpt"
+  },
+  "c74e72095a28210585b4ae783c2eace7": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a recent decision by Girlguiding in response to a Supreme Court ruling. It helps increase understanding about the legal interpretation of 'sex' in equality law. However, it doesn't discuss potential impacts on the trans community or possible solutions to the issue.",
+    "source": "gpt"
+  },
+  "9099a742341621b2e532b9f13bdcde00": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the incident of Laura Woods collapsing during a live broadcast. However, it does not offer any deeper understanding or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "b275bb3ac9be6626a2df01793ef18f53": {
+    "score": 0.6,
+    "reason": "This story informs about the severe storms and their impact in Indonesia, Sri Lanka, and Thailand. It also mentions the ongoing emergency response efforts. However, it does not report on any solutions or improvements, nor does it provide a deeper understanding of the causes or trends.",
+    "source": "gpt"
+  },
+  "1d8395eb637e6b9c84a8e258d5f2c300": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about Imran Khan's condition in jail, based on his family's statements. However, it lacks depth or insight into the broader context or implications.",
+    "source": "gpt"
   }
 }
