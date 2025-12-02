@@ -5748,5 +5748,160 @@
     "score": 0.8,
     "reason": "This story provides useful context about Lane Kiffin's career move and its implications for both Ole Miss and LSU. However, it doesn't highlight any innovative approaches or solutions to the challenges faced by the teams.",
     "source": "gpt"
+  },
+  "462f4300c48bd05769d5f46db01f8f30": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.06, neg_sim=0.07",
+    "source": "heuristic"
+  },
+  "ffbca2452e8e368ca5163e2b77e87fe8": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "625c73a3a0c89ba21f00988eeea6fdfb": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "f05f6f2eeaead799bbeadae8bf6044fc": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "c8920c020968528d083fdedfc83ddb67": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00",
+    "source": "heuristic"
+  },
+  "0c6652576f9c57cf39079d129900dafd": {
+    "score": 0.054,
+    "reason": "semantic: pos_sim=0.21, neg_sim=0.00; semantic_boost=0.05",
+    "source": "heuristic"
+  },
+  "0a30a92537225460b0ef563691e91a54": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09",
+    "source": "heuristic"
+  },
+  "e8cf7e0e85ae0f1bc2599f100f4692e2": {
+    "score": 0.07,
+    "reason": "keywords (1): program; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "83490517e15a50a687b77d82221cdb04": {
+    "score": 0.02,
+    "reason": "negative_penalty=0.08 (keywords: lawsuit); semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02",
+    "source": "heuristic"
+  },
+  "37e033735a4b1a67b042dd52e6d02a6f": {
+    "score": 0.128,
+    "reason": "keywords (2): plan, support; semantic: pos_sim=0.11, neg_sim=0.00; semantic_boost=0.03",
+    "source": "heuristic"
+  },
+  "dc247f24a37cf6b861a21580c0d1229b": {
+    "score": 0.2,
+    "reason": "phrases: restored; semantic: pos_sim=0.05, neg_sim=0.07",
+    "source": "heuristic"
+  },
+  "e131b5e6c5a7a29b566fba2f1e5bfee3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.10, neg_sim=0.12",
+    "source": "heuristic"
+  },
+  "c81209e88606a23b0df5a9f0dd1f787c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "57802a1b6ff4c87db5f46c1dbb6dba66": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "10a97c572f126462b04ba727ce35bfa7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e12fa0f7338cfbaa9e301c1300cce7df": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9eee07c8e2bfa2ed300650ee9894d9e1": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a recent US military strike near Venezuela, its legality, and the reactions from different political figures. However, it lacks a deeper analysis of the implications of this action and does not report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "75620526203ad92d481de4cc409f1ca4": {
+    "score": 0.8,
+    "reason": "The story informs about ongoing diplomatic efforts to resolve the Ukraine war, providing useful context about the situation. It also reports on a potential solution, although the outcome is still uncertain. However, it could have provided more insight into the details of the proposed peace plan and its potential impacts.",
+    "source": "gpt"
+  },
+  "f54cd0563fa02b1e3a8d2979eadd9e85": {
+    "score": 0.3,
+    "reason": "While this story provides basic awareness about the health status of former President Trump, it lacks depth and insight. It does not contribute meaningfully to the reader's understanding or decision-making, nor does it report on any progress, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "5872dc7bbc882b8af557a2203f406fbd": {
+    "score": 0.5,
+    "reason": "This story increases awareness about a threat to public safety and the political climate, but it doesn't provide depth or insight into the broader context or implications. It also doesn't offer actionable insights or report on solutions.",
+    "source": "gpt"
+  },
+  "fa53f7806c8618949a1b39dea11256a2": {
+    "score": 0.7,
+    "reason": "The story provides useful information about the ongoing conflict between Russia and Ukraine, contributing to the reader's understanding of the geopolitical situation. It also mentions diplomatic efforts to address the situation, indicating attempts to solve the problem. However, it lacks a detailed exploration of potential solutions or impacts.",
+    "source": "gpt"
+  },
+  "751f02dfd6d2ddc594190cc8592501c7": {
+    "score": 0.5,
+    "reason": "This story raises awareness about political events in Venezuela and potential international implications. However, it doesn't offer a deeper understanding of the situation, potential solutions, or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "daf937260eab644077a5881ac26faa3a": {
+    "score": 0.6,
+    "reason": "This story provides useful information about Instagram's future office policies, which could impact readers who work in or are interested in the tech industry. However, it does not report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "22c393770504350055391eaa0b8bebf0": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the ongoing criminal proceedings against Joaqu\u00edn Guzm\u00e1n L\u00f3pez. However, it doesn't provide deeper insights or actionable information for the reader, nor does it highlight solutions or progress in addressing drug-related crimes.",
+    "source": "gpt"
+  },
+  "7cf459a26926be605154debc2a1d9b13": {
+    "score": 0.9,
+    "reason": "This story reports on a solution (the setting up of an investigative group) to a problem (a deadly fire). It also increases awareness about the incident and the government's response, which could potentially lead to improvements and prevention of similar incidents in the future.",
+    "source": "gpt"
+  },
+  "89a607a4001aa11d45e5373b96bfc530": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the issue of prisoners being mistakenly released in the UK, which is important for public safety. However, it does not delve into the causes of these errors or potential solutions, limiting its constructiveness.",
+    "source": "gpt"
+  },
+  "f422d9c86e204e5a99f5a7ec794346ef": {
+    "score": 0.5,
+    "reason": "The story raises awareness about the Pope's visit to Lebanon and its significance to the Christian population. However, it does not provide deeper insights about the impact of the visit or the ongoing recovery from the 2020 Beirut port explosion.",
+    "source": "gpt"
+  },
+  "76c15e1a5412d45da4e6ba71f01e9251": {
+    "score": 0.8,
+    "reason": "The story provides useful information about a significant shift in Canada's defense partnerships. It also gives insight into the implications of this move, such as access to new loan funds. However, it could have provided more context about the potential impacts of this shift on international relations and defense strategies.",
+    "source": "gpt"
+  },
+  "d12faa75d230b086c0795bcaba5a01ac": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the ongoing conflict in Ukraine but lacks depth and insight. It does not offer actionable insights or deeper understanding of the situation, nor does it report on solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "64a223cf6f113358de47335bfc52d309": {
+    "score": 0.4,
+    "reason": "While the story provides an update on the New England Patriots' performance, it lacks depth and insight. The story does not contribute meaningfully to the reader\u2019s understanding, decision-making, or sense of agency.",
+    "source": "gpt"
+  },
+  "f227be7ec153a30b1baaac2cbc7a39c5": {
+    "score": 0.6,
+    "reason": "The story provides useful information about changes in the England cricket team for the upcoming Ashes Test. It contributes to the reader's understanding of the team's strategy in response to an injury. However, it does not report on broader trends, systems, or impacts.",
+    "source": "gpt"
   }
 }
