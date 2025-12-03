@@ -6253,5 +6253,155 @@
     "score": 0.6,
     "reason": "This story offers useful information about an ongoing international negotiation, potentially aiding readers' understanding of geopolitical dynamics. However, it does not report on progress or solutions, nor does it provide actionable insights.",
     "source": "gpt"
+  },
+  "e10b32020902ac1eb25191763fc58984": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "463ae3808d76aa2e10f38e5ebffa8b87": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9a1d54d6b9b01a260e17f964b257fc03": {
+    "score": 0.03,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "332df4da90ba6dd71f1785d29a08fa82": {
+    "score": 0.055,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "093f0718b178a02b759aba6dfae59802": {
+    "score": 0.03,
+    "reason": "actions: release; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e9b10ad8d56fe6f502e5d2d72c2a5bb6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "53568a7f69f408d58ee246e01e44a2f2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d315bbdc7d907c700f2fefaf0468c535": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "cb7871c06c05c3a9d34bdb6069f6ee30": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "09dddf30ac93abffaa8f4922fdada775": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1c705b676cb057251420967b26f17337": {
+    "score": 0.055,
+    "reason": "keywords (1): launch; actions: launch; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "71a45815201582339de7b0f9678c46b8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f3113d506bc5f0a88ff8ffc2133c4a17": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "91011dda85b21c670456cb925dd52c71": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "77b550b71f51c12e32dfcc88819def40": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "86813fa6218da480d5bc7f3902bf7cdb": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a political event but does not offer deeper insights into the implications or context of the pardon. It does not report on solutions or progress, nor does it increase understanding of systems or causes.",
+    "source": "gpt"
+  },
+  "98754e236ddef138eff6e0ac8f2b9b5b": {
+    "score": 0.6,
+    "reason": "The story informs about a new development in immigration policy, providing some context for readers. However, it does not highlight any solutions or progress, nor does it delve into the impacts or causes of the policy.",
+    "source": "gpt"
+  },
+  "1b3d0feff8eaf69863cbdf7dc464633f": {
+    "score": 0.6,
+    "reason": "This story provides information about a significant international event, contributing to readers' understanding of global politics. However, it does not offer actionable insights or report on solutions, and its depth of analysis on the causes or impacts of the situation is unclear.",
+    "source": "gpt"
+  },
+  "aae5c05a45fa3e31e1e68aeab66f0cfe": {
+    "score": 0.5,
+    "reason": "While this story provides basic awareness about a diplomatic event, it doesn't offer actionable insights or deeper understanding. Also, it doesn't report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "eabfdaee1cae1d1b70281bc8710971c0": {
+    "score": 0.6,
+    "reason": "This story informs about a significant policy change, which is useful for people affected by this decision. However, it doesn't offer insights into the reasons behind the decision or its potential impacts.",
+    "source": "gpt"
+  },
+  "aa7b676bf4da9ce0c7d38a8e5c0e12e9": {
+    "score": 0.7,
+    "reason": "This story provides useful information about a contentious issue, potentially contributing to readers' understanding of the ongoing conflict. However, it doesn't highlight any solutions or improvements, nor does it provide a deep understanding of the underlying causes or impacts.",
+    "source": "gpt"
+  },
+  "2f0116185f91c73720f252f75a1a8db1": {
+    "score": 0.2,
+    "reason": "This story is more sensational and entertaining than constructive. It does not provide any actionable insights, report on solutions or improvements, or increase awareness about a significant issue.",
+    "source": "gpt"
+  },
+  "8c83bfada67bdae6946eaf9807d31a7f": {
+    "score": 0.7,
+    "reason": "This story provides useful information about the state of the US economy, which can help readers make informed decisions. However, it does not report on solutions or improvements, nor does it provide a deep understanding of the causes or impacts.",
+    "source": "gpt"
+  },
+  "fdf6265981ab2f50312fe568b121e3c4": {
+    "score": 0.6,
+    "reason": "This story raises awareness about an issue of social importance, potentially leading to a deeper understanding of the challenges faced by trans women. However, it does not provide actionable insights or report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "6c49e46f227ad1a0486f01a1bbecbd18": {
+    "score": 0.6,
+    "reason": "This story provides useful information about an ongoing geopolitical issue. However, without more context or analysis, it doesn't fully help readers understand the broader implications or potential solutions.",
+    "source": "gpt"
+  },
+  "0849faff698ccd5026ceeacfa00f4a81": {
+    "score": 0.3,
+    "reason": "Without more information, it's hard to evaluate this story's usefulness. If it's about sports rankings, it might offer basic awareness for fans, but it doesn't appear to provide deeper insights or help readers make decisions.",
+    "source": "gpt"
+  },
+  "dd8f0ef696fc7e9ac4a92934d13264e4": {
+    "score": 0.6,
+    "reason": "This story seems to offer useful context about a sports figure's career decisions. It could help fans understand the complexities of player trades. However, without more information on the potential impacts or solutions, it doesn't fully meet the criteria for a constructive story.",
+    "source": "gpt"
+  },
+  "eb4ba961eec20bf7696600bcf3c5f860": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the location of the 2029 Women's European Championship. However, without additional context or details, it doesn't offer much in terms of depth, insight, or usefulness.",
+    "source": "gpt"
+  },
+  "c539254534242f506ee6e04da87c3011": {
+    "score": 0.3,
+    "reason": "The story seems to promise some insight into the 2026 World Cup teams, but without the actual content or summary, it's hard to determine its constructiveness. Based on the title alone, it might offer basic awareness but possibly not much depth or insight.",
+    "source": "gpt"
+  },
+  "7a6c36afbd27267df8b2bfcd398b7a0e": {
+    "score": 0.5,
+    "reason": "This story appears to touch on current events and potential changes within the football world, which could provide some insight for readers interested in this subject. However, without more information or context, it's unclear how much depth or usefulness the story offers.",
+    "source": "gpt"
   }
 }
