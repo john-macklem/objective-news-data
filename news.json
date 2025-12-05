@@ -1,191 +1,664 @@
 [
   {
-    "title": "Four countries leave Eurovision after Israel allowed to join",
-    "domain": "general",
+    "title": "FBI arrests man for planting pipe bombs in Washington",
+    "domain": "politics",
     "source_domain": "npr.org",
     "location": "national",
-    "published": "Fri, 05 Dec 2025 03:34:50 -0500",
+    "published": "Fri, 05 Dec 2025 07:02:15 -0500",
     "source": "NPR",
     "sources": [
       "NPR",
+      "ABC News",
+      "Axios",
+      "CNBC"
+    ],
+    "domains": [
+      "npr.org",
+      "abcnews.go.com",
+      "news.google.com",
+      "cnbc.com"
+    ],
+    "snippets": [
+      "After a years-long investigation, the FBI has arrested a man accused of planting the Jan. 6 pipe bombs. And, lawmakers yesterday saw video of a deadly strike on an alleged drug boat in the Caribbean.",
+      "Investigators have been working to crack the case for almost five years.",
+      "Bank, cell records led FBI to suspect in Jan. 6 eve pipe bomb case Axios",
+      "Patel announced Thursday that authorities arrested a man in connection with the placement of two pipe bombs outside the HQs of the RNC and DNC the night before the Jan. 6, 2021, attack on the Capitol.",
+      "The bombs were planted before Jan. 6, 2021, when President Donald Trump's supporters stormed the Capitol as Congress met to confirm Joe Biden's electoral win."
+    ],
+    "image_url": "",
+    "titles": [
+      "Who is the Jan. 6 pipe bomb suspect? And, lawmakers see video of deadly boat strike",
+      "WATCH:  Suspect arrested in Jan. 6 pipe bomb case, sources say",
+      "Bank, cell records led FBI to suspect in Jan. 6 eve pipe bomb case - Axios",
+      "WATCH:  FBI Director Kash Patel announces arrest in Jan. 6 pipe bomb case",
+      "Jan. 6 pipe bomb suspect Brian Cole arrested, faces explosives charges, Trump DOJ says"
+    ],
+    "url": "https://www.npr.org/2025/12/05/g-s1-100868/up-first-newsletter-pete-hegseth-signal-january-6-pipe-bomber-texas-gerrymandering",
+    "alternate_urls": [
+      "https://abcnews.go.com/US/video/suspect-arrested-jan-6-pipe-bomb-case-sources-128108145",
+      "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwUFc4Ml93Njd1djRLR3RXMGZFT3ZoTnlDZWRkTEt4emYwaXBPbEFDX3lPRWU3elM3WE1rXzI3ZXdNZzNiUWJjQjNJTzltdTZtVDdjcmJRSzZWd1FsbHFWdXhheGEzLVZJRnJsVDR3?oc=5",
+      "https://abcnews.go.com/US/video/fbi-director-kash-patel-announces-arrest-jan-6-128121234",
+      "https://www.cnbc.com/2025/12/04/fbi-arrests-suspect-in-jan-6-pipe-bomb-case-ms-now.html"
+    ],
+    "location_scope": "national",
+    "link": "https://www.npr.org/2025/12/05/g-s1-100868/up-first-newsletter-pete-hegseth-signal-january-6-pipe-bomber-texas-gerrymandering",
+    "score_components": {
+      "magnitude": 0.912,
+      "recency": 0.939,
+      "consensus": 0.908,
+      "constructiveness": 0.6,
+      "proximity": 0.75
+    },
+    "score": 0.872,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information and context about the Jan. 6 pipe bomb suspect, which could contribute to the readers' understanding of the event. However, without more details, it's hard to assess if it offers solutions or highlights progress.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The FBI has arrested a man accused of planting pipe bombs outside the Republican and Democratic National Committee headquarters on the night before the January 6, 2021, Capitol attack. The arrest follows nearly five years of investigation, with authorities using bank and cell records to identify the suspect. Lawmakers were briefed on the case and shown related evidence.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "European Commission fines X for breaking new online rules",
+    "domain": "business",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 13:16:01 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "CNBC",
+      "Financial Times",
+      "The Guardian",
+      "Forbes",
+      "Business Insider",
+      "The Verge"
+    ],
+    "domains": [
+      "bbc.com",
+      "cnbc.com",
+      "ft.com",
+      "theguardian.com",
+      "forbes.com",
+      "businessinsider.com",
+      "theverge.com"
+    ],
+    "snippets": [
+      "The European Commission says the social media site is opening its users up to scams and impersonations.",
+      "The social-media platform has been fined by the bloc after breaching transparency obligations under the Digital Services Act (DSA).",
+      "Penalty under bloc’s Digital Services Act risks escalating tensions with US government",
+      "Ruling likely to put European Commission on collision course with billionaire, and possibly Donald Trump Business live – latest updates Elon Musk’s social media platform, X, has been fined €120m (£105m) after it was found in breach of new EU digital laws, in a ruling likely to put the European Commi",
+      "The lawsuit comes as the Trump administration has criticized Europe’s so-called “hate speech laws” as violations of free speech.",
+      "The EU said on Friday it had issued a fine of $140 million to X over a number of violations, including the \"deceptive\" design of its blue checkmarks.",
+      "The European Union has served Elon Musk’s X with a €120 million (about $140 million) penalty for violating the bloc’s digital service rulebook, in part for the “deceptive design” of its blue checkmark. Today’s announcement marks the first time that a company has been fined under the landmark Digital"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d77b/live/7819d970-d1d3-11f0-9c0d-83f64f80aa08.jpg",
+    "titles": [
+      "Elon Musk's X fined €120m over 'deceptive' blue ticks",
+      "Elon Musk’s X fined $140 million by European Commission over 'deceptive' blue checkmark and lack of transparency",
+      "Elon Musk’s X fined €120mn by EU for transparency violations",
+      "Elon Musk’s X fined €120m by EU in first clash under new digital laws",
+      "Elon Musk’s X Hit With $140 Million Fine In Europe For 'Deceptive Design'",
+      "Elon Musk's X fined $140 million by EU over 'deceptive' blue checkmarks",
+      "EU fines X $140 million over ‘deceptive’ blue checkmarks"
+    ],
+    "url": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://www.cnbc.com/2025/12/05/elon-musks-x-fined-140-million-by-european-commission.html",
+      "https://www.ft.com/content/cf1ece65-3544-4267-95b4-61ed5372288c",
+      "https://www.theguardian.com/technology/2025/dec/05/elon-musk-x-fined-eu-first-clash-under-new-digital-laws",
+      "https://www.forbes.com/sites/maryroeloffs/2025/12/05/elon-musks-x-hit-with-140-million-fine-in-europe-for-deceptive-design/",
+      "https://www.businessinsider.com/elon-musk-x-fined-european-union-deceptive-blue-checkmarks-2025-12",
+      "https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 1.0,
+      "recency": 0.972,
+      "consensus": 1.0,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.842,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The European Commission has fined Elon Musk’s social media platform X €120 million (about $140 million) for breaching the EU’s Digital Services Act, citing deceptive design of its blue checkmarks and failure to meet transparency obligations. This is the first fine issued under the new law. The penalty may increase tensions between the EU and the US.",
+    "is_trending": true,
+    "trending_score": 0.75
+  },
+  {
+    "title": "Netflix to buy Warner Bros studio and streaming for 82 billion dollars",
+    "domain": "business",
+    "source_domain": "lemonde.fr",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 13:23:35 +0100",
+    "source": "Le Monde",
+    "sources": [
+      "Le Monde",
+      "Deutsche Welle",
+      "ABC News",
+      "Reuters",
+      "CNBC",
+      "Financial Times",
+      "The Guardian",
+      "Global News",
+      "Forbes",
+      "Associated Press",
+      "Fortune",
+      "Business Insider",
+      "The Verge",
+      "MarketWatch",
+      "BBC",
+      "Bloomberg"
+    ],
+    "domains": [
+      "lemonde.fr",
+      "dw.com",
+      "abcnews.go.com",
+      "news.google.com",
+      "cnbc.com",
+      "ft.com",
+      "theguardian.com",
+      "globalnews.ca",
+      "forbes.com",
+      "fortune.com",
+      "businessinsider.com",
+      "theverge.com",
+      "marketwatch.com",
+      "bbc.com"
+    ],
+    "snippets": [
+      "Cette acquisition est la plus grosse opération de consolidation dans le domaine du divertissement depuis le rachat de Fox par Disney, pour 71 milliards de dollars, en 2019.",
+      "The consolidation deal between the streaming giant and the film and television studio is the biggest in the entertainment industry this decade.",
+      "Netflix has announced that it has entered a “definitive agreement” to acquire Warner Bros. in a deal valued at approximately $83 billion, according to the company.",
+      "Netflix to buy Warner Bros Discovery's studios, streaming unit for $72 billion Reuters",
+      "Netflix in exclusive talks to buy Warner Bros Discovery assets, source says Reuters",
+      "Netflix announced it's reached a deal to buy WBD, bringing a swift end to a dramatic bidding process that also involved Paramount Skydance and Comcast.",
+      "As part of the deal, WBD will continue with plan to spin off its cable television networks",
+      "Streaming service to gain control of studio behind Harry Potter and Batman, as well as HBO, home to The White Lotus and Game of Thrones Business live – latest updates Netflix has agreed to buy Warner Bros Discovery in an $82.7bn (£62bn) deal that will dramatically reshape the established Hollywood f",
+      "The agreement follows a weeks-long bidding war where Netflix seized the lead with a nearly US$28-a-share offer that eclipsed Paramount Skydance's nearly US$24 bid.",
+      "Netflix beat out smaller bids from Paramount and Comcast.",
+      "Netflix to acquire Warner Bros. studio and streaming business for $72 billion AP News",
+      "A bridge loan of this size would rank among the biggest of its type, with Anheuser-Busch InBev's $75 billion the largest ever, according to Bloomberg data.",
+      "Prior to the closing of the sale, Warner Bros. will complete the planned spinoff of its networks division, including CNN, TBS and TNT.",
+      "The deal will see Netflix control major franchises like \"Harry Potter,\"\"Game of Thrones,\" and the whole DC universe.",
+      "Netflix has announced that it’s struck a deal to acquire Warner Bros. for $82.7 billion. The purchase will go through after Warner Bros.’ planned split from Discovery, now expected to take place in Q3 2026. It will see the streamer acquire the Warner studio, both HBO and HBO Max, and access to IP in",
+      "Netflix will become a vastly bigger and different company once its deal to acquire Warner Bros. Discovery’s studio and streaming businesses goes through.",
+      "The major Hollywood deal means Netflix will takeover ownership of franchises including Harry Potter and Game of Thrones.",
+      "(NFLX) Netflix to Buy Warner Bros. in $72 Billion Cash, Stock Deal Bloomberg.com",
+      "Warner Bros. Begins Exclusive Deal Talks With Netflix Bloomberg.com",
+      "Netflix Lines Up $59 Billion of Debt for Warner Bros. Deal Bloomberg.com",
+      "Netflix defended its Warner Bros. deal as strategic, saying it has industry expertise and strength absent from past failed M&A.",
+      "Netflix agreed to buy Warner Bros. in a media mega-merger that could upend Hollywood. Read the memo WBD sent staffers.",
+      "Paramount Skydance had been considered the front-runner in the bidding war for Warner Bros. Discovery, but signaled on Thursday that it felt it was losing to Netflix in a process it deemed unfair."
+    ],
+    "image_url": "https://img.lemde.fr/2025/12/03/494/0/5923/2961/644/322/60/0/aa3b78d_ftp-1-yntoy9vtwoh9-2025-12-03t005823z-633287869-rc2j8iaazm9q-rtrmadp-3-warner-bros-dis-m-a-netflix.JPG",
+    "titles": [
+      "Netflix va racheter Warner Bros Discovery pour 83 milliards de dollars, acquérant son catalogue de films et le service de streaming HBO Max",
+      "Netflix to buy Warner Bros. Discovery for nearly $83 billion",
+      "Netflix set to buy Warner Bros. in deal valued at $83 billion",
+      "Netflix to buy Warner Bros Discovery's studios, streaming unit for $72 billion - Reuters",
+      "Netflix in exclusive talks to buy Warner Bros Discovery assets, source says - Reuters",
+      "Netflix to buy Warner Bros. film and streaming assets in $72 billion deal",
+      "Netflix agrees $83bn takeover of Warner Bros Discovery",
+      "Netflix agrees to buy Warner Bros Discovery studio and streaming business in $83bn deal",
+      "Netflix set to buy Warner Bros studios, streaming unit for US$72B",
+      "Netflix Will Acquire Warner Bros. In $83 Billion Deal—Discovery Will Be Split Off",
+      "Netflix to acquire Warner Bros. studio and streaming business for $72 billion - AP News",
+      "Netflix lines up $59 billion of debt for Warner Bros. deal",
+      "Netflix to buy Warner Bros. in $72 billion cash, stock deal",
+      "Netflix to acquire Warner Bros. for $72 billion in a deal that could reshape Hollywood",
+      "Netflix is buying Warner Bros. for $83 billion",
+      "Netflix set to transform media business — and itself — with $83 billion Warner Bros. deal",
+      "Netflix to buy Warner Bros film and streaming businesses for $72bn",
+      "(NFLX) Netflix to Buy Warner Bros. in $72 Billion Cash, Stock Deal - Bloomberg.com",
+      "Warner Bros. Begins Exclusive Deal Talks With Netflix - Bloomberg.com",
+      "Netflix Lines Up $59 Billion of Debt for Warner Bros. Deal - Bloomberg.com",
+      "Why Netflix says its Warner Bros. deal won't be a failure like other media mega-mergers before it",
+      "Read the memo Warner Bros. Discovery sent employees after Netflix won the bidding war for its key assets",
+      "Even Paramount now thinks Netflix is winning the bidding war for Warner Bros. Discovery"
+    ],
+    "url": "https://www.lemonde.fr/economie/article/2025/12/05/netflix-va-racheter-warner-bros-discovery-pour-83-milliards-de-dollars-acquerant-son-catalogue-de-films-et-le-service-de-streaming-hbo-max_6656115_3235.html",
+    "alternate_urls": [
+      "https://www.dw.com/en/netflix-to-buy-warner-bros-discovery-for-nearly-83-billion/a-75036277?maca=en-rss-en-top-1022-rdf",
+      "https://abcnews.go.com/Entertainment/netflix-set-buy-warner-bros-deal-valued-83/story?id=128137487",
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeFBra2l1ZzNlWjlqNjRpdUY1aEFnQU1mcHJaYUdGTWkxVjRmUXF6bUhvMzVzU01BLUlUYXhhckRBZUNtcG1wVjVIS1ZyVndfSVctc1o4Zm5vYkw0NjdXaEVLRG4wdW0wRnZTMmZGV3dvRzlzalV5YUtERllJN3RGcEprZ3RlaERabEVJN2RMQzdpWDhUcFZoQVJudkptTmRScWdWOV9rOWI1TVNiNVBxNFNIVHJERXNfekNyeG40RTJLUQ?oc=5",
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVWZYZlhhZk9tVFNYdmk1UTk2LTZabEx0UnNRbFZib3FyZUU5eEQ3anVCTE5mbGE0MDBQdGt5ODF1VFhCc1BVbHFBWHBScXZWazBpU1hfN1VIcmV4OUI2d0tQdUFRVWFIZ3JVTkp5WTd1alVXb1FvdEN3cWt2SEJiOTRhMzVQUlFHdnctdUJGbzhwSnNBdEwzS01xM3pXSWdrTW5qZVNwZUpRX0paT0pNX1p1SU9CWHhVTU1ka1QxZkM0YnR3TjNpQmNfWQ?oc=5",
+      "https://www.cnbc.com/2025/12/05/neflix-warner-bros-discovery-deal.html",
+      "https://www.ft.com/content/6532be94-c0bf-4101-8126-f249aa6be3c5",
+      "https://www.theguardian.com/business/2025/dec/05/netflix-frontrunner-warner-bros-discovery-streaming-and-studio-sale",
+      "https://globalnews.ca/news/11562055/netflix-warner-bros/",
+      "https://www.forbes.com/sites/siladityaray/2025/12/05/netflix-will-acquire-warner-bros-in-83-billion-deal-discovery-will-be-split-off/",
+      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGFJWHMyeHNWcVRxNVJOX2NaNk9zUjZ0RnBoUzNrSFJBTUxTZE42bkEtZ1lMS1ZvU0M0U3lwVEk1TTFHVWdiMXBPVTBONnBraGVqUWFVblJSdzBOcVJzaUhvUWZkdFREdGNYQWVOMTNCX0RxT3NZbXdmNlhwd3RVdWZUcGtKNVlFZzBDNFJfYmM3MHRrNWVKSGFfOVhsZm1Id0JCUWNua1VVSGc?oc=5",
+      "https://fortune.com/2025/12/05/netflix-bridge-loan-59-billion-warner-brothers-discovery-acquisition/",
+      "https://fortune.com/2025/12/05/netflix-to-buy-warner-bros-in-72-billion-cash-stock-deal/",
+      "https://www.businessinsider.com/netflix-to-buy-warner-bros-in-82-7-billion-megadeal-2025-12",
+      "https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout",
+      "https://www.marketwatch.com/story/netflix-set-to-transform-media-business-and-itself-with-83-billion-warner-bros-deal-cae3cc10?mod=mw_rss_topstories",
+      "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
+      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGVsdm53eVZkM2RQWDRiLTJiLWIzRUV5REVtbU5iTnhsbU9IaUxhUGFTaFd6UlhBMlNNT1FEZEtBUUJoTEVfblUyeDhmNlZ2TFd0Z2dyN2VTdl9Db2w1S1hvQ2FVZmpnWVdzd2ZnNUJOWk1VeDhqSnNCMDh5Nl9UWlBONG5qR2xta2VFeWlmVmlTeXJxVTRNT0JlX0JMbWE1TU91SXRyemRhMzQ?oc=5",
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUdSUkNSQkxZanJwc05EYklfUWJUNTlaTlhqVWlhb015UkF5N2tXN3NPMXZFQ2s0OTVpVVB2aDJwN0YxMzdWZ1FuTkp4TGE0SUxDMXRGMTF6b2dLZFJVSVhHUHFyUXFxMFhxSDRWNUwtdHA0QUktbGV3bFczSEVERnI3OTZBeGJJWDQzTy04eVJ3SUFMNTdHUEFNV1F0TmlKN0dPZGhXR0dVSDZ3VWszRkRibw?oc=5",
+      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHBnSEZlUkpNYm9iQmo3TEVZVlpmLWFvZUxfRnhTeGtmd3BYZkFEVE45OFpkWXZPSWVBZFY1MHZuV0VWV013dVlQZHRUR3Z1REIzNUJEcTJlQ09xTzlzYWVhaktYZ0JseHNUZExzbm5xYmlLMklIa2E2cTNmSVhfdzhiUXY3Mkttc19fQWJvRVBrdEplOWpOLVUzZ25xcHZyOTdDWnplMWNMNGM?oc=5",
+      "https://www.businessinsider.com/netflix-warner-bros-discovery-deal-wont-repeat-past-acquisition-flops-2025-12",
+      "https://www.businessinsider.com/netflix-wbd-warner-bros-discovery-read-memo-bidding-war-hollywood-2025-12",
+      "https://www.marketwatch.com/story/even-paramount-now-thinks-netflix-is-winning-the-bidding-war-for-warner-bros-discovery-916afac0?mod=mw_rss_topstories"
+    ],
+    "location_scope": "global",
+    "link": "https://www.lemonde.fr/economie/article/2025/12/05/netflix-va-racheter-warner-bros-discovery-pour-83-milliards-de-dollars-acquerant-son-catalogue-de-films-et-le-service-de-streaming-hbo-max_6656115_3235.html",
+    "score_components": {
+      "magnitude": 1.0,
+      "recency": 0.948,
+      "consensus": 1.0,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.834,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.85 (<35 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Netflix has announced a definitive agreement to acquire Warner Bros. Discovery's studio and streaming businesses for approximately $82.7 billion. The deal follows a competitive bidding process, with Netflix outbidding Paramount Skydance and Comcast. Warner Bros. will first spin off its cable networks, including CNN, TBS, and TNT, before the sale closes, expected in Q3 2026. Netflix will gain control of major franchises such as Harry Potter, Game of Thrones, and the DC universe.",
+    "is_trending": true,
+    "trending_score": 0.75
+  },
+  {
+    "title": "Supreme Court lets Texas use new voting map for now",
+    "domain": "politics",
+    "source_domain": "dw.com",
+    "location": "global",
+    "published": "2025-12-04T23:23:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "Deutsche Welle",
+      "Axios",
+      "Reuters",
+      "LA Times",
+      "Global News",
+      "Globe and Mail",
+      "Bloomberg"
+    ],
+    "domains": [
+      "dw.com",
+      "news.google.com",
+      "latimes.com",
+      "globalnews.ca"
+    ],
+    "snippets": [
+      "The move allows Texas to use a new electoral map that advantages the Republican Party at next year's midterm elections. The Republicans currently hold a slim majority in Congress.",
+      "Supreme Court allows GOP-backed Texas congressional map Axios",
+      "Supreme Court revives pro-Republican Texas voting map sought by Trump Reuters",
+      "Thanks to the Supreme Court's ruling, Republicans are expected to win five extra seats in the House of Representatives.",
+      "The Supreme Court’s order puts the 2-1 ruling blocking the map on hold at least until after the high court issues a final decision in the case.",
+      "U.S. Supreme Court allows pro-Republican Texas voting map, handing midterm boost to Trump, GOP The Globe and Mail",
+      "Texas Redistricting: Supreme Court Lets Texas Use GOP-Drawn Voting Map for 2026 Bloomberg.com"
+    ],
+    "image_url": "",
+    "titles": [
+      "US Supreme Court revives pro-Republican Texas electoral map",
+      "Supreme Court allows GOP-backed Texas congressional map - Axios",
+      "Supreme Court revives pro-Republican Texas voting map sought by Trump - Reuters",
+      "Supreme Court rules for Texas Republicans, allowing new election map to go into effect",
+      "U.S. Supreme Court allows Texas to use redrawn voting map, favouring GOP",
+      "U.S. Supreme Court allows pro-Republican Texas voting map, handing midterm boost to Trump, GOP - The Globe and Mail",
+      "Texas Redistricting: Supreme Court Lets Texas Use GOP-Drawn Voting Map for 2026 - Bloomberg.com"
+    ],
+    "url": "https://www.dw.com/en/us-supreme-court-revives-pro-republican-texas-electoral-map/a-75025453?maca=en-rss-en-top-1022-rdf",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXlJU2V4Y1VMSWRVLUJxNzMzLXA0a1VLRWlCSXFkOE9WdldRZXdwQTY3QjlOMTc3YnVGTktvd1lSTm5CZE41ZjVyWWl5cXFBTHNSZ201cnljNjd3T1JGaml0cTF4bU1vWUR3bFV1ZU4tdHhEYzU2cldqbS1xUFpUWExDOEtmNHRFYnp1VlUtZ1RMRzZ4VlZxNXRtbWRCR0k?oc=5",
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFBDSDNNdVJMN1k2b0t6c0dLTjNzdG40TUpUYzlqZ29kcE44OW1USC1oWDVWQ2h2R2RVd0tERXhyS2M0TWowSDJKdHZURzFsOHlkTWtyVzBZQlUwX2VGZmlHVWNzempiZjhhVzRXWEstTkVxbzJrXzNGeF95TlRNaTJTajdyb2dwRHRDbi10aG1KVFEzclNzOWdSRG5OZGM?oc=5",
+      "https://www.latimes.com/politics/story/2025-12-04/supreme-court-rules-for-texas-republicans-allowing-new-election-map-to-go-into-effect",
+      "https://globalnews.ca/news/11563142/texas-redistricting-voting-map-republican-2026-supreme-court/",
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbnNBbHNSSjVnMk5GeFl5SXFtM2FVQkctQlpZUC1vWHRJWjZ4bWpEZ0E3elNSU1ltS1NWTGFJTlFCbk9lN1JJM0FUN3hsc2czX3BTSENRbm8yQ1Z1Tnc5STd6R3B2REUwcC14OTVxMkdYQ0FYdWN5OThHamJ4elJqMkFqVTR2Vkc2M0RQeTAwcVJQVjRvLWNnRHl0dHhkdkM3UGZkTDBRT08tbFFWSkFyRTZ3?oc=5",
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbDd0a0JuZmktel9GR3dFWWxHNDFTMkRXV3FOMFhvUUI2NDZEdGJoSk9XRDJqeDVtMGxITFA3QlhaWXpxTUpqR0ZPR1NxRWtlZTRpY09Ea1MzUUloUEdtT2FHOXBFci1BMjg2Y0J3YTZBSXR3WnFQSEJhaGltWDlIRS1OQkxjcGZQb2l1SF94Tjlzb0w5enhGa0NUazFVVDd6c1FHSmFoMXdiak12ZlE?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.dw.com/en/us-supreme-court-revives-pro-republican-texas-electoral-map/a-75025453?maca=en-rss-en-top-1022-rdf",
+    "score_components": {
+      "magnitude": 1.0,
+      "recency": 0.661,
+      "consensus": 1.0,
+      "constructiveness": 0.8,
+      "proximity": 0.5
+    },
+    "score": 0.828,
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story informs readers about a significant development in the US political landscape, which could affect their decision-making in future elections. It also provides context about the role of the Supreme Court in electoral matters.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The U.S. Supreme Court has allowed Texas to use a Republican-backed congressional map for the 2026 midterm elections, putting on hold a lower court ruling that had blocked it. The map is expected to give Republicans an advantage and could result in five additional House seats for the party. The Supreme Court's decision remains in effect at least until it issues a final ruling on the case.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "FIFA draws groups for 2026 World Cup teams today",
+    "domain": "sports",
+    "source_domain": "npr.org",
+    "location": "national",
+    "published": "Fri, 05 Dec 2025 05:00:00 -0500",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "BBC",
+      "ESPN"
+    ],
+    "domains": [
+      "npr.org",
+      "bbc.com",
+      "espn.com"
+    ],
+    "snippets": [
+      "FIFA is about to determine which teams all 48 participating countries in the FIFA World Cup 2026 will face in the group phase of the tournament, which the U.S., Canada and Mexico are co-hosting.",
+      "Pots, quadrants, confederation constraints, group position grids ... the World Cup draw is not going to be straightforward.",
+      "Ahead of today's festivities in Washington, D.C., (noon ET), here's everything you need to know."
+    ],
+    "image_url": "",
+    "titles": [
+      "The World Cup draw is here. Here's why it matters — and how it will work",
+      "The World Cup draw is happening today - this is how it'll work",
+      "The World Cup draw is here - this is how it will work",
+      "2026 World Cup draw: How it works, what will be decided"
+    ],
+    "url": "https://www.npr.org/2025/12/05/nx-s1-5633268/fifa-world-cup-draw-soccer",
+    "alternate_urls": [
+      "https://www.bbc.com/sport/football/articles/c997y4l20jgo?at_medium=RSS&at_campaign=rss",
+      "https://www.espn.com/soccer/story/_/id/46929564/2026-world-cup-draw-explainer-date-format-seeds"
+    ],
+    "location_scope": "national",
+    "link": "https://www.npr.org/2025/12/05/nx-s1-5633268/fifa-world-cup-draw-soccer",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.887,
+      "consensus": 0.789,
+      "constructiveness": 0.8,
+      "proximity": 0.75
+    },
+    "score": 0.827,
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "The story provides useful information about the World Cup draw, explaining why it matters and how it works. This can contribute to the reader's understanding and decision-making, especially if they are interested in football.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "FIFA is set to conduct the group stage draw for the 2026 World Cup today in Washington, D.C. The tournament will feature 48 teams and be co-hosted by the U.S., Canada, and Mexico. The draw will determine which teams face each other in the group phase, using pots and confederation rules to organize the matchups.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "Leader of Israeli backed Gaza militia Yasser Abu Shabab killed",
+    "domain": "science",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 13:11:11 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Washington Post",
+      "The Guardian",
+      "New York Times"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "washingtonpost.com",
+      "theguardian.com",
+      "nytimes.com"
+    ],
+    "snippets": [
+      "Yasser Abu Shabab, the leader of an Israeli-backed militia in Gaza has been killed.",
+      "The death of Yasser Abu Shabab, a prominent clan leader in Gaza, could threaten Israel’s experiment in arming local militias to challenge Hamas’s rule.",
+      "Death of commander of Popular Forces is blow to Israel’s efforts to confront Hamas through proxy groups The leader of an Israeli-backed militia in Gaza has been killed, dealing a major blow to Israel’s efforts to build up its own Palestinian proxies to confront Hamas. Yasser abu Shabab, a Bedouin tr",
+      "Yasser Abu Shabab, a Bedouin man in his 30s, was at the center of an Israeli project in Gaza to build up anti-Hamas militias."
+    ],
+    "image_url": "",
+    "titles": [
+      "Who was Yasser Abu Shabab, the Israel-backed militia leader killed in Gaza?",
+      "Israeli-backed militia leader killed in ‘internal’ clash in Gaza",
+      "Yasser abu Shabab, leader of Israel-backed militia, killed in Gaza",
+      "Yasser Abu Shabab, Militant Leader Backed by Israel, Is Killed in Gaza, Official Says"
+    ],
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/who-was-yasser-abu-shabab-the-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss",
+    "alternate_urls": [
+      "https://www.washingtonpost.com/world/2025/12/04/israel-gaza-anti-hamas-leader-abu-shabab/",
+      "https://www.theguardian.com/world/2025/dec/04/yasser-abu-shabab-popular-forces-militia-killed-gaza",
+      "https://www.nytimes.com/2025/12/04/world/middleeast/yasser-abu-shabab-killed-gaza.html"
+    ],
+    "location_scope": "global",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/5/who-was-yasser-abu-shabab-the-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.912,
+      "recency": 0.97,
+      "consensus": 0.908,
+      "constructiveness": 0.022,
+      "proximity": 0.5
+    },
+    "score": 0.798,
+    "constructiveness_score": 0.022,
+    "constructiveness_reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Yasser Abu Shabab, leader of the Israeli-backed Popular Forces militia in Gaza and a prominent Bedouin clan figure, has been killed. His death is seen as a significant setback to Israel’s strategy of supporting local proxy groups to challenge Hamas’s control in Gaza. The incident raises questions about the future of such Israeli-backed militias in the region.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Trump to meet Congo and Rwanda leaders for new cooperation deal",
+    "domain": "politics",
+    "source_domain": "dw.com",
+    "location": "global",
+    "published": "2025-12-05T13:12:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "Deutsche Welle",
+      "Globe and Mail"
+    ],
+    "domains": [
+      "dw.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "US President Donald Trump prepares to host the Congolese and Rwandan presidents for a landmark accord blending security and mineral cooperation, even as fierce fighting continues in eastern DRC.",
+      "Trump touts Congo-Rwanda peace deal, but deadly clashes continue The Globe and Mail"
+    ],
+    "image_url": "",
+    "titles": [
+      "Congo-Rwanda peace deal set for Washington signing",
+      "Trump touts Congo-Rwanda peace deal, but deadly clashes continue - The Globe and Mail"
+    ],
+    "url": "https://www.dw.com/en/congo-rwanda-peace-deal-set-for-washington-signing/a-75018667?maca=en-rss-en-top-1022-rdf",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR21KU3dRaEtsN1kxNHZETVZuaDR0NUtUMTR3MGI3OWRFNWFpWUZMOHVKaC1ZM2FRRHp2Vm1uQ1FXdU1qTWRnTlhJSWtoWWJ2dGtYQUU3ZjFBODg5bGxrRzl6UGNBVXAzUjNPYXJkUnNIRVEyUXZqR3N3Y182UEhmM1BJbzk5WFFSQVFFLS1IeFlrTjJ0NVFia3h2eXZWdDh2T0xiRmp5OWRSaktHR1lV?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.dw.com/en/congo-rwanda-peace-deal-set-for-washington-signing/a-75018667?maca=en-rss-en-top-1022-rdf",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.97,
+      "consensus": 0.591,
+      "constructiveness": 0.9,
+      "proximity": 0.5
+    },
+    "score": 0.77,
+    "constructiveness_score": 0.9,
+    "constructiveness_reason": "This story clearly highlights progress in the form of a peace deal between Congo and Rwanda. It provides empowering knowledge about international diplomacy and conflict resolution.",
+    "constructiveness_source": "gpt",
+    "summary_source": "snippet",
+    "summary_reason": "invalid_roles",
+    "headline_source": "gpt",
+    "summary": "US President Donald Trump prepares to host the Congolese and Rwandan presidents for a landmark accord blending security and mineral cooperation, even as fierce fighting continues in eastern DRC.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "McLaren may ask drivers to help Norris at Abu Dhabi race",
+    "domain": "sports",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 12:18:30 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "Sky Sports",
+      "Sportsnet"
+    ],
+    "domains": [
+      "bbc.com",
+      "skysports.com",
+      "sportsnet.ca"
+    ],
+    "snippets": [
+      "McLaren are prepared to use Oscar Piastri to help Lando Norris' title bid in the Abu Dhabi Grand Prix, says Zak Brown.",
+      "McLaren chief Zak Brown has confirmed he is willing to implement team orders at this weekend's title decider in Abu Dhabi to ensure Max Verstappen is unable to beat Lando Norris and Oscar Piastri to the Formula 1 Drivers' Championship.",
+      "CEO Zak Brown says McLaren could use team orders to manage the Formula 1 title fight if one of its drivers has a “significantly better chance” to win in Sunday’s decisive Abu Dhabi Grand Prix."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/969f/live/5ac3e3d0-d1d2-11f0-8c06-f5d460985095.jpg",
+    "titles": [
+      "McLaren prepared to use team orders in Abu Dhabi",
+      "McLaren confirm willingness to use team orders to deny Verstappen title",
+      "McLaren will consider team orders for Lando Norris and Oscar Piastri in F1 title decider"
+    ],
+    "url": "https://www.bbc.com/sport/formula1/articles/c4g488x5md2o?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://www.skysports.com/f1/news/12040/13479188/mclaren-willing-to-use-team-orders-to-ensure-lando-norris-or-oscar-piastri-beat-max-verstappen-to-f1-title-says-zak-brown"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/sport/formula1/articles/c4g488x5md2o?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.946,
+      "consensus": 0.789,
+      "constructiveness": 0.022,
+      "proximity": 0.5
+    },
+    "score": 0.742,
+    "constructiveness_score": 0.022,
+    "constructiveness_reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "McLaren CEO Zak Brown has stated the team is prepared to use team orders at the upcoming Abu Dhabi Grand Prix to support Lando Norris' bid for the Formula 1 Drivers' Championship. Brown indicated Oscar Piastri may assist Norris if he has a stronger chance to win, aiming to prevent Max Verstappen from securing the title. The team will decide based on the situation during the race.",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "US senators see video of survivors killed after airstrike",
+    "domain": "politics",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 07:36:00 GMT",
+    "source": "Reuters",
+    "sources": [
+      "Reuters",
+      "Washington Post",
+      "The Guardian"
+    ],
+    "domains": [
+      "news.google.com",
+      "washingtonpost.com",
+      "theguardian.com"
+    ],
+    "snippets": [
+      "Video shows final, confused moments of survivors of US boat strike in Caribbean, say sources Reuters",
+      "The footage was shown on Capitol Hill, where Adm. Frank M. Bradley, who oversaw a deadly attack on alleged drug smugglers, faced a day of difficult questions about the operation.",
+      "Footage seen by US senators shows two unarmed, shirtless men struggling to stay afloat before they were killed, sources say Experts say Trump’s ‘drug boat’ war is legally shaky Two men who survived a US airstrike on a suspected drug smuggling boat in the Caribbean clung to the wreckage for an hour b"
+    ],
+    "image_url": "",
+    "titles": [
+      "Video shows final, confused moments of survivors of US boat strike in Caribbean, say sources - Reuters",
+      "Video shows second strike hit before survivors could flip boat, lawmakers say",
+      "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUJvV2l6YWs3RHVmVGF1c1dpLVhCWnV1aWdEcmtHRkF4SGJkR0ZaU3F4Zk1vQmdIVlFYV040UmREQlo3NGcya1E5SXZna29VaHBXTEkyTllCZGx2bTZWN041d0VZVDhJejNNNG9IYTA3Z1NPbnN3elJiMGEzSzQ5V1N0NUVOTHlRNVRuLXVQd2Rycl9EbUxqSXBLWXluZy1GS0lsTjlvaHM3emdrWVEtTjllbFI4SzY2YmcwZ1ZJaXE5Zw?oc=5",
+    "alternate_urls": [
+      "https://www.washingtonpost.com/national-security/2025/12/04/bradley-congress-boat-strikes/",
+      "https://www.theguardian.com/us-news/2025/dec/05/us-airstrike-survivors-clung-to-boat-wreckage-for-an-hour-before-second-deadly-attack-video-shows"
+    ],
+    "location_scope": "global",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUJvV2l6YWs3RHVmVGF1c1dpLVhCWnV1aWdEcmtHRkF4SGJkR0ZaU3F4Zk1vQmdIVlFYV040UmREQlo3NGcya1E5SXZna29VaHBXTEkyTllCZGx2bTZWN041d0VZVDhJejNNNG9IYTA3Z1NPbnN3elJiMGEzSzQ5V1N0NUVOTHlRNVRuLXVQd2Rycl9EbUxqSXBLWXluZy1GS0lsTjlvaHM3emdrWVEtTjllbFI4SzY2YmcwZ1ZJaXE5Zw?oc=5",
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.83,
+      "consensus": 0.789,
+      "constructiveness": 0.3,
+      "proximity": 0.5
+    },
+    "score": 0.741,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about the incident, but it doesn't provide any actionable insights or deeper understanding. It also doesn't report on solutions, improvements, or attempts to solve the problem.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Video footage shown to US senators depicts two unarmed survivors struggling in the water after a US airstrike on a suspected drug smuggling boat in the Caribbean. The men clung to wreckage for an hour before being killed. Adm. Frank M. Bradley, who oversaw the operation, faced questioning on Capitol Hill. Experts have raised legal concerns about the attack.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Four countries say they will leave Eurovision contest in 2026",
+    "domain": "general",
+    "source_domain": "cbc.ca",
+    "location": "national",
+    "published": "Thu, 04 Dec 2025 13:18:53 EST",
+    "source": "CBC News",
+    "sources": [
       "CBC News",
       "Associated Press",
       "Globe and Mail"
     ],
     "domains": [
-      "npr.org",
       "cbc.ca",
       "news.google.com"
     ],
     "snippets": [
-      "Ireland, the Netherlands, Spain and Slovenia said they were pulling out of the contest after organizers decided to allow Israel to continue to compete, despite tensions over its conduct in Gaza.",
       "Spain and the Netherlands say they are pulling out of next year's Eurovision Song Contest as Israel's participation roils the competition.",
       "At least 4 countries pull out of 2026 Eurovision contest as Israel’s participation sows discord AP News",
       "At least four countries boycott 2026 Eurovision after Israel cleared to stay in contest The Globe and Mail"
     ],
     "image_url": "",
     "titles": [
-      "At least 4 countries pull out of 2026 Eurovision contest over Israel's participation",
       "At least 4 countries pull out of 2026 Eurovision contest as Israel's participation sows discord",
       "At least 4 countries pull out of 2026 Eurovision contest as Israel’s participation sows discord - AP News",
       "At least four countries boycott 2026 Eurovision after Israel cleared to stay in contest - The Globe and Mail"
     ],
-    "url": "https://www.npr.org/2025/12/05/nx-s1-5634466/eurovision-contest-israel",
+    "url": "https://www.cbc.ca/news/entertainment/spain-netherlands-israel-eurovision-9.7003235?cmp=rss",
     "alternate_urls": [
-      "https://www.cbc.ca/news/entertainment/spain-netherlands-israel-eurovision-9.7003235?cmp=rss",
       "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQi1xWkxqaVJob1dGOEphLW85OXI3b1FlNXZuaXpJankxdC1mVFZsMmlOQVlSTUk3bkZOTk9fU0RMa1ZwcWo1VHAtak1ockxPYnNJRUFWQlk1TDRyS2FUS01ZSkIxYmJkdXN0TnVTbnJVMlJKNFRZaktRVzc2ZllJOEtMbVd4N01STkdNcTc3MnFhY2FMa0VaSllWcXdyZzNXbU9LRkxUcURfLUwzU1JV?oc=5",
       "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmtTWUZuU1FwWHZhM2RoUTV2TkNTSzIySC01ZkJZX1ZXU3ZXcUZyZzRDU3YySnVOZ1VJTWVpb3JkdXZjSWI5NHJzQThHeDBmR1ExbnAwMC1mX0JFTnVTZlBRTzdQTWpYZTdnUVh0Z2F5bjdlTjBTMVk5aVV1VEpJazdTYjMxZnpWV0NJcDZJTEdTenV0ejNFUUkyaXpZZWVaRGEtcw?oc=5"
     ],
     "location_scope": "national",
-    "link": "https://www.npr.org/2025/12/05/nx-s1-5634466/eurovision-contest-israel",
-    "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.955,
-      "consensus": 0.888,
-      "constructiveness": 0.6,
-      "proximity": 0.75
-    },
-    "score": 0.873,
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story offers some awareness about the political implications of cultural events like the Eurovision contest. However, without more context or insight into the reasons behind the countries' decisions, its usefulness and depth are limited.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Ireland, the Netherlands, Spain, and Slovenia have announced they are withdrawing from the 2026 Eurovision Song Contest after organizers decided to allow Israel to participate despite ongoing tensions over its actions in Gaza. The withdrawals reflect growing discord within the competition over Israel's inclusion.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Supreme Court lets Texas use new map that helps Republicans",
-    "domain": "politics",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Fri, 05 Dec 2025 01:43:27 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Deutsche Welle",
-      "BBC",
-      "Axios",
-      "Reuters",
-      "The Guardian",
-      "Bloomberg",
-      "Globe and Mail"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "dw.com",
-      "bbc.com",
-      "news.google.com",
-      "theguardian.com"
-    ],
-    "snippets": [
-      "The new Texas map, backed by Donald Trump, has sparked similar efforts for partisan redistricting across the US.",
-      "The move allows Texas to use a new electoral map that advantages the Republican Party at next year's midterm elections. The Republicans currently hold a slim majority in Congress.",
-      "The electoral map could boost the Republican effort to shore up their majority in the coming 2026 midterm elections.",
-      "Supreme Court allows GOP-backed Texas congressional map Axios",
-      "Supreme Court revives pro-Republican Texas voting map sought by Trump Reuters",
-      "Major win for Trump as majority rejects lower-court ruling that found maps had been racially gerrymandered Texas can use a redrawn congressional map that adds as many as five Republican-friendly congressional districts, the supreme court ruled on Thursday, handing Donald Trump a major win in his pus",
-      "Texas Redistricting: Supreme Court Lets Texas Use GOP-Drawn Voting Map for 2026 Bloomberg.com",
-      "U.S. Supreme Court allows pro-Republican Texas voting map, handing midterm boost to Trump, GOP The Globe and Mail"
-    ],
-    "image_url": "",
-    "titles": [
-      "US Supreme Court allows Texas to use redrawn district map for 2026 midterms",
-      "US Supreme Court revives pro-Republican Texas electoral map",
-      "US Supreme Court allows Texas to use redrawn voting maps in midterms",
-      "Supreme Court allows GOP-backed Texas congressional map - Axios",
-      "Supreme Court revives pro-Republican Texas voting map sought by Trump - Reuters",
-      "US supreme court approves redrawn Texas congressional maps",
-      "Texas Redistricting: Supreme Court Lets Texas Use GOP-Drawn Voting Map for 2026 - Bloomberg.com",
-      "U.S. Supreme Court allows pro-Republican Texas voting map, handing midterm boost to Trump, GOP - The Globe and Mail"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/5/us-supreme-court-allows-texas-to-use-redrawn-district-map-for-2026-midterms?traffic_source=rss",
-    "alternate_urls": [
-      "https://www.dw.com/en/us-supreme-court-revives-pro-republican-texas-electoral-map/a-75025453?maca=en-rss-en-top-1022-rdf",
-      "https://www.bbc.com/news/articles/cvg1v21p3ydo?at_medium=RSS&at_campaign=rss",
-      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXlJU2V4Y1VMSWRVLUJxNzMzLXA0a1VLRWlCSXFkOE9WdldRZXdwQTY3QjlOMTc3YnVGTktvd1lSTm5CZE41ZjVyWWl5cXFBTHNSZ201cnljNjd3T1JGaml0cTF4bU1vWUR3bFV1ZU4tdHhEYzU2cldqbS1xUFpUWExDOEtmNHRFYnp1VlUtZ1RMRzZ4VlZxNXRtbWRCR0k?oc=5",
-      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFBDSDNNdVJMN1k2b0t6c0dLTjNzdG40TUpUYzlqZ29kcE44OW1USC1oWDVWQ2h2R2RVd0tERXhyS2M0TWowSDJKdHZURzFsOHlkTWtyVzBZQlUwX2VGZmlHVWNzempiZjhhVzRXWEstTkVxbzJrXzNGeF95TlRNaTJTajdyb2dwRHRDbi10aG1KVFEzclNzOWdSRG5OZGM?oc=5",
-      "https://www.theguardian.com/us-news/2025/dec/04/us-supreme-court-texas-congressional-maps",
-      "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbDd0a0JuZmktel9GR3dFWWxHNDFTMkRXV3FOMFhvUUI2NDZEdGJoSk9XRDJqeDVtMGxITFA3QlhaWXpxTUpqR0ZPR1NxRWtlZTRpY09Ea1MzUUloUEdtT2FHOXBFci1BMjg2Y0J3YTZBSXR3WnFQSEJhaGltWDlIRS1OQkxjcGZQb2l1SF94Tjlzb0w5enhGa0NUazFVVDd6c1FHSmFoMXdiak12ZlE?oc=5",
-      "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbnNBbHNSSjVnMk5GeFl5SXFtM2FVQkctQlpZUC1vWHRJWjZ4bWpEZ0E3elNSU1ltS1NWTGFJTlFCbk9lN1JJM0FUN3hsc2czX3BTSENRbm8yQ1Z1Tnc5STd6R3B2REUwcC14OTVxMkdYQ0FYdWN5OThHamJ4elJqMkFqVTR2Vkc2M0RQeTAwcVJQVjRvLWNnRHl0dHhkdkM3UGZkTDBRT08tbFFWSkFyRTZ3?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/5/us-supreme-court-allows-texas-to-use-redrawn-district-map-for-2026-midterms?traffic_source=rss",
-    "score_components": {
-      "magnitude": 1.0,
-      "recency": 0.79,
-      "consensus": 1.0,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.847,
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story provides useful information about a significant decision by the US Supreme Court, which impacts the political landscape. However, it lacks depth in explaining the implications of the decision and does not suggest any solutions or improvements.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "The U.S. Supreme Court has allowed Texas to use a new congressional map backed by Donald Trump, which is expected to favor the Republican Party in the 2026 midterm elections. The decision overturns a lower court ruling that found the map was racially gerrymandered. The new map could add up to five Republican-leaning districts, potentially strengthening the Republican majority in Congress.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Modi and Putin meet in India to talk about trade and energy",
-    "domain": "general",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Fri, 05 Dec 2025 05:54:43 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Deutsche Welle",
-      "Reuters"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "dw.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Meeting to boost ties comes as India seeks reprieve from US oil sanctions related to war in Ukraine.",
-      "Narendra Modi has rolled out the red carpet for Vladimir Putin, with the leaders set to discuss trade and energy ties. The talks come as India carries out negotiations for trade deals with the US and the EU.",
-      "Putin and Modi discuss trade, peace in New Delhi summit Reuters"
-    ],
-    "image_url": "",
-    "titles": [
-      "Putin, Modi discuss trade, peace at India summit amid US sanctions, tariffs",
-      "Modi set for trade, energy talks with Putin amid US pressure",
-      "Putin and Modi discuss trade, peace in New Delhi summit - Reuters"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss",
-    "alternate_urls": [
-      "https://www.dw.com/en/modi-set-for-trade-energy-talks-with-putin-amid-us-pressure/live-75008648?maca=en-rss-en-top-1022-rdf",
-      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVHFla1Q2c3JnVjZpT0R2QUcxdmZ4RFFPR0ZKalU5Yms1WHRXWk9ESzhkLWY4ejdzRUJfQ0Z2aGhvZlJKeW1yQ3RPT2hEVzBkeXdzOFY2bFd2SDFiWkpreE5IMlJFQmRVYkwwSU44dW1wMEpObWN0M1QxeHBwQnhzc2dnU24zYmRGd1JzYTU1S1FvbmxLMTBRTFd5S0pmV0JlZGhwcUVSTmRKcFJJVXlyTDFwWTZuN1pu?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/5/putin-modi-kick-off-india-summit-as-trade-us-sanctions-loom-large?traffic_source=rss",
+    "link": "https://www.cbc.ca/news/entertainment/spain-netherlands-israel-eurovision-9.7003235?cmp=rss",
     "score_components": {
       "magnitude": 0.847,
-      "recency": 0.887,
-      "consensus": 0.789,
-      "constructiveness": 0.8,
-      "proximity": 0.5
+      "recency": 0.574,
+      "consensus": 0.769,
+      "constructiveness": 0.6,
+      "proximity": 1.0
     },
-    "score": 0.808,
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive as it provides useful information about international trade and diplomacy, specifically between Russia and India. It also gives some context about the impact of US sanctions and tariffs. However, without information on the specific outcomes or agreements from the summit, it doesn't fully highlight progress or solutions.",
+    "score": 0.74,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides information about a current event and the controversy surrounding it, which could help readers understand the political and cultural dynamics involved. However, it does not provide solutions or actionable insights.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Indian Prime Minister Narendra Modi hosted Russian President Vladimir Putin in New Delhi to discuss trade and energy cooperation. The meeting comes as India seeks relief from US oil sanctions linked to the war in Ukraine and continues trade negotiations with the US and EU. Both leaders focused on strengthening economic ties and regional stability.",
+    "summary": "At least four countries, including Spain and the Netherlands, have announced they will withdraw from the 2026 Eurovision Song Contest in protest over Israel’s participation. The decision follows controversy after Israel was cleared to remain in the competition. The withdrawals highlight ongoing discord among participating nations.",
     "is_trending": false,
-    "trending_score": 0.25
+    "trending_score": 0.0
   },
   {
-    "title": "LeBron James streak ends as Lakers win with last second shot",
+    "title": "LeBron James helps teammate score winning shot for Lakers",
     "domain": "sports",
     "source_domain": "espn.com",
     "location": "national",
@@ -194,472 +667,452 @@
     "sources": [
       "ESPN",
       "CBS Sports",
-      "Global News",
       "Bleacher Report"
     ],
     "domains": [
       "espn.com",
       "cbssports.com",
-      "globalnews.ca",
       "news.google.com"
     ],
     "snippets": [
-      "LeBron James had a chance to extend his record double-digit scoring streak but opted to pass the ball, setting up Rui Hachimura's winning 3-pointer at the buzzer Thursday night against the Raptors.",
+      "LeBron James had a chance to extend his record double-digit scoring streak but opted to pass the ball, setting up Rui Hachimura's winning 3-pointer at the buzzer against the Raptors.",
       "James made the right play, not the selfish one, and it led to a Lakers' victory",
-      "LeBron James was unmoved when his historic scoring streak that spanned nearly two decades ended.",
       "Most Amazing Stats from LeBron James' Incredible Double-Digit Scoring Streak Bleacher Report"
     ],
     "image_url": "",
     "titles": [
       "LeBron scores 8; record double-digit streak ends",
       "LeBron James' legendary double-digit scoring streak ends in the most fitting manner imaginable",
-      "LeBron James’s historic scoring streak ends",
       "Most Amazing Stats from LeBron James' Incredible Double-Digit Scoring Streak - Bleacher Report"
     ],
     "url": "https://www.espn.com/nba/story/_/id/47207049/lebron-held-8-double-digit-points-streak-ends-lakers-win",
     "alternate_urls": [
       "https://www.cbssports.com/nba/news/lakers-lebron-james-double-digit-scoring-streak-ends/",
-      "https://globalnews.ca/news/11560670/lebron-jamess-historic-scoring-streak-ends/",
       "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbmY2U21iUmU4bG1COWtMUmNlcW53alM4TGZPb0FubUIwMzdDa0R0WXF6dHltSlFyNE5GMkFqX053VEV2UmpQLVJ6UXo0QUctUllxVFZYWk5lTG83Z3dZdDgwWElzeG00bjFqMXhIbXlIUU5VMU9xVnprdEtIZm5vc0E2cGxvMXRybS01blVRUkVZYm9sVDBfdS1pcTA4Xy1qOWNXQVlMY1A4b05aYWRTQ1o3blloZw?oc=5"
     ],
     "location_scope": "national",
     "link": "https://www.espn.com/nba/story/_/id/47207049/lebron-held-8-double-digit-points-streak-ends-lakers-win",
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.939,
-      "consensus": 0.908,
+      "magnitude": 0.827,
+      "recency": 0.838,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.806,
+    "score": 0.732,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "LeBron James' record double-digit scoring streak ended on December 5, 2025, when he chose to pass instead of shoot in the final moments against the Raptors. His assist set up Rui Hachimura's game-winning three-pointer at the buzzer, securing a Lakers victory. James expressed no disappointment about the streak ending, prioritizing the team's win.",
-    "is_trending": true,
-    "trending_score": 0.5
-  },
-  {
-    "title": "Virginia grand jury decides not to charge Letitia James",
-    "domain": "business",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Fri, 05 Dec 2025 04:00:31 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "NPR",
-      "Axios",
-      "ABC News",
-      "Forbes",
-      "Globe and Mail"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "npr.org",
-      "news.google.com",
-      "abcnews.go.com",
-      "forbes.com"
-    ],
-    "snippets": [
-      "James decries Trump's 'weaponisation' of the justice system after second failed attempt to federally prosecute her.",
-      "Thursday's failed indictment against James is the latest setback for the Justice Department in its bid to prosecute the frequent political target of the Republican president.",
-      "Grand jury declines second attempt to indict Letitia James Axios",
-      "A grand jury has refused to indict New York AG Letitia James on charges of mortgage fraud, ten days after a judge dismissed a nearly identical case.",
-      "The first indictment against James was dismissed by a judge less than two weeks ago.",
-      "New mortgage fraud indictment against Letitia James rejected by grand jury in Virginia The Globe and Mail"
-    ],
-    "image_url": "",
-    "titles": [
-      "US grand jury declines to re-charge New York Attorney General Letitia James",
-      "Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James",
-      "Grand jury declines second attempt to indict Letitia James - Axios",
-      "Grand jury rejects DOJ's attempt to revive fraud case against Letitia James: Sources",
-      "New York Attorney General Letitia James Avoids New Indictment From Trump Administration",
-      "New mortgage fraud indictment against Letitia James rejected by grand jury in Virginia - The Globe and Mail"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/5/us-grand-jury-declines-to-re-charge-new-york-attorney-general-letitia-james?traffic_source=rss",
-    "alternate_urls": [
-      "https://www.npr.org/2025/12/04/nx-s1-5634017/grand-jury-rejects-new-mortgage-fraud-indictment-against-new-york-attorney-general-letitia-james",
-      "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NY25OWjN4R1FDX3hfdmI5UjhWU0xLSkpENXNmRjBMNUZlSkZNcHZBRGJVa04yNTFuQUxweE1xeWl2YWV5M2VFN0xBYms3NnlHNUNMT1NZU0xPZTl1cWlMbDh4Q1BHRTZBWFZ6bmh6WUVZVmxRNWlTLU5zMzU5TjQ?oc=5",
-      "https://abcnews.go.com/US/grand-jury-rejects-dojs-attempt-revive-fraud-case/story?id=128107484",
-      "https://www.forbes.com/sites/alisondurkee/2025/12/04/new-york-attorney-general-letitia-james-avoids-new-indictment-from-trump-administration/",
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRklqQU9aR0JCUXg4S2dseGVTNHNkREFpV21tY2E3MDlhLXRKYmpCekc5b1lwVGU2b05QSWYzSkowSExwaTFKZmVTanJuR2RzcXZMTURmQU5DNXF4bkV3RS1uNnpvLUw0Y1ctTTg0NXZDbnBORlZrM3pKMnZfaThtdUtsNE1OSFRicUNvdE51MGRzNTd3eXg3aS1CUGJjaWJ1SEFKTjkwOTB3MnZvVndZQ2JBYUUxQQ?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/5/us-grand-jury-declines-to-re-charge-new-york-attorney-general-letitia-james?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.986,
-      "recency": 0.841,
-      "consensus": 1.0,
-      "constructiveness": 0.05,
-      "proximity": 0.5
-    },
-    "score": 0.803,
-    "constructiveness_score": 0.05,
-    "constructiveness_reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "A grand jury in Virginia has declined to indict New York Attorney General Letitia James on mortgage fraud charges, marking the second failed federal attempt to prosecute her. Ten days earlier, a judge dismissed a similar case. James criticized what she called the \"weaponisation\" of the justice system. The Justice Department has faced repeated setbacks in pursuing charges against her.",
+    "summary": "LeBron James chose to pass instead of scoring, assisting Rui Hachimura's game-winning three-pointer at the buzzer in the Lakers' victory over the Raptors. This decision ended James's record double-digit scoring streak but secured the win for his team.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Putin and Modi talk about oil trade and arms deals",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Fri, 05 Dec 2025 09:36:22 GMT",
-    "source": "Reuters",
-    "sources": [
-      "Reuters",
-      "New York Times",
-      "Financial Post",
-      "Bloomberg"
-    ],
-    "domains": [
-      "news.google.com",
-      "nytimes.com",
-      "financialpost.com"
-    ],
-    "snippets": [
-      "Putin's India visit live: Talks with Modi on oil, trade and arms Reuters",
-      "The Trump administration, which crippled Russia’s oil sales to India with sanctions, will be watching Mr. Putin’s talks with Prime Minister Narendra Modi.",
-      "A team of negotiators from the Trump administration led by Deputy US Trade Representative Rick Switzer plans to travel to India next week to continue talks on a trade agreement, according to a US official.",
-      "US Team Plans to Visit India Next Week for Trade Talks Bloomberg.com"
-    ],
-    "image_url": "",
-    "titles": [
-      "Putin's India visit live: Talks with Modi on oil, trade and arms - Reuters",
-      "What to Know About Putin’s Visit to India as Oil Trade Dries Up",
-      "US Team Plans to Visit India Next Week for Trade Talks",
-      "US Team Plans to Visit India Next Week for Trade Talks - Bloomberg.com"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTYzcVNmcEpFazNxdnVmeTVFVXFFMWVVZnJCdEE0QXczMEIxa1kxLTEyQk5kdldpV0hjTDdPemNNTXJwT2t0bndJanJFU3JjMXBLcjl6d0pmOUdPUnNjVWxpQUlvYlhHckVnTDdFSnVVQXZiNE5tOE9HOTRuV2lQTTBfcEh3UmxwUHdqelJNTnE1XzRrTzVrV1ptdjI?oc=5",
-    "alternate_urls": [
-      "https://www.nytimes.com/2025/12/03/world/asia/india-russia-putin-visit-arms.html",
-      "https://financialpost.com/pmn/business-pmn/us-team-plans-to-visit-india-next-week-for-trade-talks",
-      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUEVTamc2YkpwMnJmMERsVmhYd0RTa1ZUcEREVFQweUhBSk1WOWtVYjJBTlFZV0ljUXA1Ml9JX0NEMmRkVTJMdWxCLTdQM3hYQjMtZm9WMG9oRTBSaWRzckhWZVFsaFJRU0hzSVFXRUtSZkFfYWV4cjV6TUNRanFtLWRZUi1Jc2w1NHpESzFHOHhKODNPTFZFU3pCd3B1ek5vMkVWS3JyWmk?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTYzcVNmcEpFazNxdnVmeTVFVXFFMWVVZnJCdEE0QXczMEIxa1kxLTEyQk5kdldpV0hjTDdPemNNTXJwT2t0bndJanJFU3JjMXBLcjl6d0pmOUdPUnNjVWxpQUlvYlhHckVnTDdFSnVVQXZiNE5tOE9HOTRuV2lQTTBfcEh3UmxwUHdqelJNTnE1XzRrTzVrV1ptdjI?oc=5",
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.983,
-      "consensus": 0.888,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.79,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Russian President Vladimir Putin met with Indian Prime Minister Narendra Modi to discuss oil, trade, and arms. The Trump administration, which imposed sanctions affecting Russia’s oil sales to India, is monitoring the talks. A US delegation led by Deputy Trade Representative Rick Switzer will visit India next week to continue discussions on a trade agreement.",
-    "is_trending": true,
-    "trending_score": 0.5
-  },
-  {
-    "title": "Man arrested for placing pipe bombs near party offices in 2021",
-    "domain": "politics",
-    "source_domain": "news.google.com",
+    "title": "Matt Campbell is top choice for Penn State football coach job",
+    "domain": "sports",
+    "source_domain": "espn.com",
     "location": "national",
-    "published": "Fri, 05 Dec 2025 04:08:47 GMT",
-    "source": "Axios",
+    "published": "Fri, 5 Dec 2025 02:56:51 EST",
+    "source": "ESPN",
     "sources": [
-      "Axios",
-      "ABC News",
-      "CNBC"
+      "ESPN",
+      "CBS Sports",
+      "Yahoo Sports"
     ],
     "domains": [
-      "news.google.com",
-      "abcnews.go.com",
-      "cnbc.com"
+      "espn.com",
+      "cbssports.com",
+      "sports.yahoo.com"
     ],
     "snippets": [
-      "Bank, cell records led FBI to suspect in Jan. 6 eve pipe bomb case Axios",
-      "Patel announced Thursday that authorities arrested a man in connection with the placement of two pipe bombs outside the HQs of the RNC and DNC the night before the Jan. 6, 2021, attack on the Capitol.",
-      "Investigators have been working to crack the case for almost five years.",
-      "The bombs were planted before Jan. 6, 2021, when President Donald Trump's supporters stormed the Capitol as Congress met to confirm Joe Biden's electoral win."
+      "Iowa State coach Matt Campbell has emerged as the focus of Penn State's head coaching search, sources told ESPN.",
+      "Campbell could be headed to Happy Valley after elevating the Cyclones over the past decade",
+      "With Penn State football seeking to fill its head coaching vacancy, Iowa State's Matt Campbell has now emerged as a top candidate in Happy Valley."
     ],
     "image_url": "",
     "titles": [
-      "Bank, cell records led FBI to suspect in Jan. 6 eve pipe bomb case - Axios",
-      "WATCH:  FBI Director Kash Patel announces arrest in Jan. 6 pipe bomb case",
-      "WATCH:  Suspect arrested in Jan. 6 pipe bomb case, sources say",
-      "Jan. 6 pipe bomb suspect Brian Cole arrested, faces explosives charges, Trump DOJ says"
+      "Sources: Penn St. turns focus to ISU's Campbell",
+      "Penn State targets Matt Campbell: Bizarre search turns focus to poaching longtime Iowa State coach",
+      "Matt Campbell emerges in Penn State football head coaching search"
     ],
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwUFc4Ml93Njd1djRLR3RXMGZFT3ZoTnlDZWRkTEt4emYwaXBPbEFDX3lPRWU3elM3WE1rXzI3ZXdNZzNiUWJjQjNJTzltdTZtVDdjcmJRSzZWd1FsbHFWdXhheGEzLVZJRnJsVDR3?oc=5",
+    "url": "https://www.espn.com/college-football/story/_/id/47205838/penn-state-focusing-search-iowa-state-campbell",
     "alternate_urls": [
-      "https://abcnews.go.com/US/video/fbi-director-kash-patel-announces-arrest-jan-6-128121234",
-      "https://abcnews.go.com/US/video/suspect-arrested-jan-6-pipe-bomb-case-sources-128108145",
-      "https://www.cnbc.com/2025/12/04/fbi-arrests-suspect-in-jan-6-pipe-bomb-case-ms-now.html"
+      "https://www.cbssports.com/college-football/news/penn-state-matt-campbell-head-coach-iowa-state/",
+      "https://sports.yahoo.com/articles/matt-campbell-emerges-penn-state-134608832.html"
     ],
     "location_scope": "national",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwUFc4Ml93Njd1djRLR3RXMGZFT3ZoTnlDZWRkTEt4emYwaXBPbEFDX3lPRWU3elM3WE1rXzI3ZXdNZzNiUWJjQjNJTzltdTZtVDdjcmJRSzZWd1FsbHFWdXhheGEzLVZJRnJsVDR3?oc=5",
+    "link": "https://www.espn.com/college-football/story/_/id/47205838/penn-state-focusing-search-iowa-state-campbell",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.845,
+      "recency": 0.838,
       "consensus": 0.789,
-      "constructiveness": 0.8,
-      "proximity": 0.5
-    },
-    "score": 0.789,
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides useful information about the methods used by the FBI to identify a suspect, which could help readers understand how such investigations work. However, it does not highlight any progress, solutions, or empowering knowledge.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Authorities have arrested a man in connection with the placement of two pipe bombs outside the Republican and Democratic National Committee headquarters on the night before the January 6, 2021, Capitol attack. The FBI used bank and cell phone records to identify the suspect after nearly five years of investigation.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Netflix in talks to buy Warner Bros Discovery streaming service",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Fri, 05 Dec 2025 03:42:00 GMT",
-    "source": "Reuters",
-    "sources": [
-      "Reuters",
-      "Financial Times",
-      "The Guardian",
-      "Forbes",
-      "Bloomberg"
-    ],
-    "domains": [
-      "news.google.com",
-      "ft.com",
-      "theguardian.com",
-      "forbes.com"
-    ],
-    "snippets": [
-      "Netflix enters exclusive talks to acquire Warner Bros Discovery studio and streaming service, Bloomberg News reporter says Reuters",
-      "Netflix in exclusive talks to buy Warner Bros Discovery assets, source says Reuters",
-      "People close to the talks say a deal could come in days",
-      "Steaming service now in exclusive talks over deal that would change film and TV landscape Warner Bros Discovery has entered exclusive talks to sell its streaming and Hollywood studio business to Netflix, a move that would dramatically change the established film and TV landscape. Netflix is in compe",
-      "Netflix reportedly made an offer of $28 per share, mostly in cash, for Warner Bros. Discovery, beating out smaller bids from Paramount and Comcast.",
-      "Warner Bros. Begins Exclusive Deal Talks With Netflix Bloomberg.com"
-    ],
-    "image_url": "",
-    "titles": [
-      "Netflix enters exclusive talks to acquire Warner Bros Discovery studio and streaming service, Bloomberg News reporter says - Reuters",
-      "Netflix in exclusive talks to buy Warner Bros Discovery assets, source says - Reuters",
-      "Warner Bros in exclusive talks with Netflix about studio and streaming sale",
-      "Netflix becomes frontrunner in Warner Bros Discovery streaming and studio sale",
-      "Netflix Wins Warner Bros. Discovery Bidding War And Starts Exclusive Talks, Reports Say",
-      "Warner Bros. Begins Exclusive Deal Talks With Netflix - Bloomberg.com"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT0l1UEc2UUxXbVZMcFEtRnNUZHRXMjZ3X0dGMkFwMHJoWXNjX2l3NHhuVUl4bkZlaWtKTXQ4V0FCSWdrYlM0Yk5KUU5ib3ZpM1d2N1htMXNPTjRiZmlGVlpFemlJN1pTMmpxV2M0SEFKMXU4cTctUE92Y2dWVVFCTVQ5VVIwTlI0NFFDY1JoNVNzS3J5RmxXbHR5ZTVzb3dXLVBxM21ZZGZ5MWVFRE0yZzBGUUl4RTZFbW92T1Q2N3dUYlkxeUZoMmpRNUJBcFBCaEE?oc=5",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVWZYZlhhZk9tVFNYdmk1UTk2LTZabEx0UnNRbFZib3FyZUU5eEQ3anVCTE5mbGE0MDBQdGt5ODF1VFhCc1BVbHFBWHBScXZWazBpU1hfN1VIcmV4OUI2d0tQdUFRVWFIZ3JVTkp5WTd1alVXb1FvdEN3cWt2SEJiOTRhMzVQUlFHdnctdUJGbzhwSnNBdEwzS01xM3pXSWdrTW5qZVNwZUpRX0paT0pNX1p1SU9CWHhVTU1ka1QxZkM0YnR3TjNpQmNfWQ?oc=5",
-      "https://www.ft.com/content/1b51ca71-9a86-46f5-bdc4-cbd6831b755f",
-      "https://www.theguardian.com/business/2025/dec/05/netflix-frontrunner-warner-bros-discovery-streaming-and-studio-sale",
-      "https://www.forbes.com/sites/siladityaray/2025/12/05/netflix-wins-warner-bros-discovery-bidding-war-and-starts-exclusive-talks-reports-say/",
-      "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUdSUkNSQkxZanJwc05EYklfUWJUNTlaTlhqVWlhb015UkF5N2tXN3NPMXZFQ2s0OTVpVVB2aDJwN0YxMzdWZ1FuTkp4TGE0SUxDMXRGMTF6b2dLZFJVSVhHUHFyUXFxMFhxSDRWNUwtdHA0QUktbGV3bFczSEVERnI3OTZBeGJJWDQzTy04eVJ3SUFMNTdHUEFNV1F0TmlKN0dPZGhXR0dVSDZ3VWszRkRibw?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT0l1UEc2UUxXbVZMcFEtRnNUZHRXMjZ3X0dGMkFwMHJoWXNjX2l3NHhuVUl4bkZlaWtKTXQ4V0FCSWdrYlM0Yk5KUU5ib3ZpM1d2N1htMXNPTjRiZmlGVlpFemlJN1pTMmpxV2M0SEFKMXU4cTctUE92Y2dWVVFCTVQ5VVIwTlI0NFFDY1JoNVNzS3J5RmxXbHR5ZTVzb3dXLVBxM21ZZGZ5MWVFRE0yZzBGUUl4RTZFbW92T1Q2N3dUYlkxeUZoMmpRNUJBcFBCaEE?oc=5",
-    "score_components": {
-      "magnitude": 0.944,
-      "recency": 0.834,
-      "consensus": 0.975,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.778,
+    "score": 0.732,
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Netflix has entered exclusive talks to acquire Warner Bros. Discovery's studio and streaming service, according to multiple reports. Sources indicate Netflix made a mostly cash offer of $28 per share, surpassing bids from Paramount and Comcast. A deal could be reached within days, potentially reshaping the film and television industry. The negotiations are ongoing as of December 5, 2025.",
-    "is_trending": true,
-    "trending_score": 0.75
-  },
-  {
-    "title": "US military strikes suspected drug boats four men killed",
-    "domain": "politics",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Fri, 05 Dec 2025 00:00:49 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Deutsche Welle",
-      "Reuters",
-      "Associated Press"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "dw.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Attack comes amid renewed scrutiny of the Trump administration's campaign against alleged drug smugglers.",
-      "The Trump administration has faced condemnation over strikes on alleged drug boats. Legal experts have said such strikes could be a violation of the laws of military warfare.",
-      "US military says it killed four men in strike on suspected drug vessel Reuters",
-      "US military conducts strike on another suspected drug boat as probe into the first strike begins AP News"
-    ],
-    "image_url": "",
-    "titles": [
-      "US military kills four in latest strike on boat in the Caribbean",
-      "US strike on alleged drug boat in Pacific kills four",
-      "US military says it killed four men in strike on suspected drug vessel - Reuters",
-      "US military conducts strike on another suspected drug boat as probe into the first strike begins - AP News"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/5/us-military-kills-four-in-latest-strike-on-boat-in-the-caribbean?traffic_source=rss",
-    "alternate_urls": [
-      "https://www.dw.com/en/us-strike-on-alleged-drug-boat-in-pacific-kills-four/a-75025757?maca=en-rss-en-top-1022-rdf",
-      "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQU9xNmxnN3JHUk8wekx3ZjROWTgta0V0RHp0Z09Za3VmcEN0S1MzVkFxYTVyaVJQb0FQTWh2QWIzWXNGLWZwUVRkZ1lKMk4weFkwU25rU1NyRElram9aQ0VOUkl0ckNjYnBXWDdRWVdBb2lPTjZTVmJwNVIzUGJmaHE5cHlweVg4czdtMjItYWpieGx4R1BNUUZUOTR2cy1UcFlMRDF4aERxSXFVdEJlVzc1V3paR0dLMWQ4bUZieUNwczc2SVE?oc=5",
-      "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdGhBNERFMEtyU3FxOUtIOUhpdXR0Y2NiLVFvalNlbE5XQ3NCOEJzdDBMTndQUmpqODIxUUh3MnQzSzBGd244VDFkNF8zSlc2cHQ2Q01nME54U2I3eFdGeVpsa2UtcUJZZDAzMlZnMktrMUExS2JrZndDcjF3UU91RTB4Tmw4WjJFZURNeUZYUjMyLWNKZ09vV0xKdEREbzF5NTQ4?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/5/us-military-kills-four-in-latest-strike-on-boat-in-the-caribbean?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.753,
-      "consensus": 0.888,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.757,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "While the story does provide basic awareness about a military action, it does not provide any deeper understanding or actionable insights. The story also does not report on any solutions or attempts to solve problems.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "The US military conducted strikes on suspected drug-smuggling vessels, killing four men, according to official statements. These actions, part of the Trump administration's campaign against alleged drug traffickers, have drawn criticism and prompted a legal review. An investigation into the initial strike is underway.",
+    "summary": "Iowa State coach Matt Campbell has become the leading candidate for Penn State's head coaching position, according to multiple sources. Penn State is currently searching for a new head football coach, and Campbell is being strongly considered for the role. No official hiring decision has been announced.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Four countries will not join Eurovision because Israel will compete",
+    "title": "Macron says Europe and United States still work together on Ukraine",
     "domain": "politics",
-    "source_domain": "dw.com",
+    "source_domain": "news.google.com",
     "location": "global",
-    "published": "2025-12-04T17:54:00Z",
-    "source": "Deutsche Welle",
+    "published": "Fri, 05 Dec 2025 10:30:14 GMT",
+    "source": "Reuters",
     "sources": [
-      "Deutsche Welle",
-      "BBC",
-      "Al Arabiya",
+      "Reuters",
       "The Guardian"
     ],
     "domains": [
-      "dw.com",
-      "bbc.com",
       "news.google.com",
       "theguardian.com"
     ],
     "snippets": [
-      "Spain, Ireland, the Netherlands and Slovenia have officially announced they will boycott Eurovision 2026 because of Israel's participation.",
-      "There had been calls for Israel's exclusion over the war in Gaza, as well as unfair voting accusations.",
-      "Eurovision faces withdrawals after Israel allowed to compete in 2026 contest Al Arabiya English",
-      "Ireland, Spain, Slovenia and the Netherlands pull out after decision not to hold vote on Israel’s participation Ireland, Spain, Slovenia and the Netherlands will boycott next year’s Eurovision after Israel was given the all-clear to compete in the 2026 song contest despite calls by several participa"
+      "France's Macron: unity between Europe and U.S on Ukraine is \"essential\" Reuters",
+      "French president’s remarks come a day after a report claimed he had warned Washington could betray Kyiv Emmanuel Macron has said there is “no mistrust” between Europe and the US, a day after a report claimed the French president had warned privately there was a risk Washington could betray Ukraine ."
     ],
     "image_url": "",
     "titles": [
-      "Israel allowed to compete in 2026 Eurovision Song Contest, Netherlands, Spain, Ireland, Slovenia to boycott event",
-      "Netherlands, Spain, Ireland and Slovenia boycott Eurovision after Israel allowed to compete",
-      "Eurovision faces withdrawals after Israel allowed to compete in 2026 contest - Al Arabiya English",
-      "Four countries to boycott Eurovision 2026 as Israel cleared to compete"
+      "France's Macron: unity between Europe and U.S on Ukraine is \"essential\" - Reuters",
+      "‘No mistrust’ between Europe and US over Ukraine, Macron says"
     ],
-    "url": "https://www.dw.com/en/israel-allowed-to-compete-in-2026-eurovision-song-contest-netherlands-spain-ireland-slovenia-to-boycott-event/a-75024188?maca=en-rss-en-top-1022-rdf",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUR4SjRMdXRTRXdOUHU2Sk0yOVpxbUdfUS0xcGk5Z3EydlJJM3RiRjNod1NYajhQWEU5Ujh0ZWFDV2hGeHljYVk0WTNERlNMRTVDamctMEhUTlJTTTA2M1pQRElmU2xjQ1RfbFJibXFkMHV3bVUwSVVkUnh4RUczVGJTV3dkZU85YWV6TnVNemtXaFRtaThlZHIyUFluaVFMUzdxOWJLVTRRT3M?oc=5",
     "alternate_urls": [
-      "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss",
-      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTUo3X05acklFN2FVVVd4TTFKUlY0SjNtNFdRUzEtOTVrZi1YNlk1TmJLNjRlOHpHa0ppZkRfd1l5QlhVdzZtRVlUdGFET0pzZHloNENDOXdDV3M0ODFGYmFZWnZyMC1HOTk1OUwwZ2JhcjFHbkZCeUpsODRkREZOZVpMNm9zVDhBWXV4QkhSNUlSWUI5THlSOEJQTG5SYVZaejFITEtJLXZ2Z1pJNDN4N1lIR05pTnhqTDh0TFlmTVF5VWvSAcgBQVVfeXFMTmZncTRZbXlqX1N2RVNvaUp6eHc0ck1yb0lxRFdUbFJZVlRjNGROMThiVjc5LXpBSVZ6MjFrVGN4REt3bFdKZUlkSEprcXdGR3Nkc190Q3pWVkJLRmVTTEN0TEhrSmtPZldOY0pWTGtGR0I0by1zRVpCNzNyUVVRa2JSQkg5cHQ3M0gyN0hNRUtMUldFMTVwdHdUYWkza3JlbnJyU0VnemJCWWNuUzV1UEx4ck9WY1RlRHloVFMzZ0E5aUFYUmd4TEE?oc=5",
-      "https://www.theguardian.com/tv-and-radio/2025/dec/04/ireland-spain-and-the-netherlands-to-boycott-eurovision-2026-as-israel-cleared-to-compete"
+      "https://www.theguardian.com/world/2025/dec/05/no-mistrust-between-europe-and-us-over-ukraine-macron-says"
     ],
     "location_scope": "global",
-    "link": "https://www.dw.com/en/israel-allowed-to-compete-in-2026-eurovision-song-contest-netherlands-spain-ireland-slovenia-to-boycott-event/a-75024188?maca=en-rss-en-top-1022-rdf",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUR4SjRMdXRTRXdOUHU2Sk0yOVpxbUdfUS0xcGk5Z3EydlJJM3RiRjNod1NYajhQWEU5Ujh0ZWFDV2hGeHljYVk0WTNERlNMRTVDamctMEhUTlJTTTA2M1pQRElmU2xjQ1RfbFJibXFkMHV3bVUwSVVkUnh4RUczVGJTV3dkZU85YWV6TnVNemtXaFRtaThlZHIyUFluaVFMUzdxOWJLVTRRT3M?oc=5",
     "score_components": {
-      "magnitude": 0.932,
-      "recency": 0.635,
-      "consensus": 0.908,
-      "constructiveness": 0.5,
+      "magnitude": 0.775,
+      "recency": 0.9,
+      "consensus": 0.591,
+      "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.752,
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about the Eurovision Song Contest and the political tensions surrounding it. However, it doesn't offer much in terms of depth or insight into the reasons for the boycott or the implications of Israel's participation.",
+    "score": 0.731,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story is constructive as it helps the reader understand the political dynamics between different countries and the importance of unity in dealing with global issues. However, it lacks actionable insights or a clear report on solutions.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Spain, Ireland, the Netherlands, and Slovenia have announced they will boycott the Eurovision Song Contest 2026 in protest of Israel’s participation. The decision follows calls for Israel’s exclusion over the war in Gaza and concerns about voting fairness. Eurovision organizers allowed Israel to compete, prompting the four countries to withdraw from the event.",
+    "summary": "French President Emmanuel Macron stated that unity between Europe and the United States on Ukraine is \"essential,\" emphasizing there is \"no mistrust\" between the allies. His remarks follow a report suggesting he had privately warned about the risk of Washington betraying Kyiv. Macron publicly denied any mistrust and stressed the importance of continued cooperation.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "Paramount questions Warner Bros sale talks with Netflix ongoing",
+    "domain": "business",
+    "source_domain": "cnbc.com",
+    "location": "national",
+    "published": "Fri, 05 Dec 2025 10:05:49 GMT",
+    "source": "CNBC",
+    "sources": [
+      "CNBC",
+      "Bloomberg",
+      "Fortune"
+    ],
+    "domains": [
+      "cnbc.com",
+      "news.google.com",
+      "fortune.com"
+    ],
+    "snippets": [
+      "Paramount attorneys sent a letter to Warner Bros. Discovery questioning whether its acting in the best interest of shareholders.",
+      "Paramount Calls Warner Bros. Sale ‘Tainted’ in Letter to CEO Bloomberg.com",
+      "In a letter to Warner Bros. CEO David Zaslav, attorneys for Paramount said the entertainment giant is favoring a rival bid from Netflix."
+    ],
+    "image_url": "",
+    "titles": [
+      "Paramount questions Warner Bros. Discovery on 'fairness and adequacy' of sale process: Read the full letter",
+      "Paramount Calls Warner Bros. Sale ‘Tainted’ in Letter to CEO - Bloomberg.com",
+      "Paramount calls Warner Bros. sale ‘tainted’ in letter to CEO"
+    ],
+    "url": "https://www.cnbc.com/2025/12/04/paramount-questions-warner-bros-discovery-sale-process-letter.html",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbjE1NVNEVVJKT1VPeUFlMk1JbXFyWmFpSVJTemE3SFlBZk9jSXpFc3M5TklnVEZTM19vM3hjclE1Y0J3QmUwSVd3UnRlSHZJNElGZkQwRFhqcWI0NDJqYlVJM2FLSm44UFB5NXlyMUFzMGRDOUhfTFZLZnF6VWRKeVJzbkc2Y2F0VEZieWlsNy16NWwtNENPekI5LUh2Wnh4QVdpVllkSVdlUzB5Y2pv?oc=5",
+      "https://fortune.com/2025/12/04/paramount-warner-brothers-discovery-bidding-netflix-tained-sale-process-letter-zaslav/"
+    ],
+    "location_scope": "national",
+    "link": "https://www.cnbc.com/2025/12/04/paramount-questions-warner-bros-discovery-sale-process-letter.html",
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.89,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.729,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "On December 5, 2025, Paramount attorneys sent a letter to Warner Bros. Discovery CEO David Zaslav, questioning whether the company's actions regarding a potential sale are in shareholders' best interests. Paramount claims Warner Bros. is favoring a rival bid from Netflix and describes the sale process as \"tainted.\" The situation remains ongoing.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Vaccine group delays vote on hepatitis B shots for babies",
-    "domain": "politics",
-    "source_domain": "npr.org",
+    "title": "Inter Miami and Vancouver play for MLS Cup title Saturday",
+    "domain": "sports",
+    "source_domain": "cbssports.com",
     "location": "national",
-    "published": "Thu, 04 Dec 2025 15:05:24 -0500",
-    "source": "NPR",
+    "published": "Fri, 05 Dec 2025 12:38:09 +0000",
+    "source": "CBS Sports",
     "sources": [
-      "NPR",
-      "Associated Press",
-      "Scientific American"
+      "CBS Sports",
+      "Sportsnet"
     ],
     "domains": [
-      "npr.org",
+      "cbssports.com",
+      "sportsnet.ca"
+    ],
+    "snippets": [
+      "Lionel Messi faces another European legend in Thomas Muller as Miami and Vancouver square off",
+      "And then there were two: the Vancouver Whitecaps and Inter Miami will duke it out with each looking for the first titles in Saturday’s MLS Cup final. Here’s everything you need to know."
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/11/29/a4e9871d-9b54-4772-8b1a-0c3501387bb3/untitled-design-2025-11-29t133014-434.png",
+    "titles": [
+      "Inter Miami vs. Vancouver Whitecaps live stream: Where to watch Lionel Messi, MLS Cup final odds, start time",
+      "How Whitecaps, Inter Miami stack up ahead of MLS Cup final"
+    ],
+    "url": "https://www.cbssports.com/soccer/news/lionel-messi-live-stream-odds-where-to-watch-mls-cup-playoffs/",
+    "alternate_urls": [],
+    "location_scope": "national",
+    "link": "https://www.cbssports.com/soccer/news/lionel-messi-live-stream-odds-where-to-watch-mls-cup-playoffs/",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.955,
+      "consensus": 0.591,
+      "constructiveness": 0.03,
+      "proximity": 1.0
+    },
+    "score": 0.728,
+    "constructiveness_score": 0.03,
+    "constructiveness_reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Inter Miami and the Vancouver Whitecaps will compete in the MLS Cup final on Saturday, with both teams seeking their first championship. The match features Lionel Messi for Inter Miami and Thomas Muller for Vancouver. The game will determine the 2025 MLS champion.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Putin and Modi meet in India to talk about trade",
+    "domain": "politics",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 09:58:49 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Reuters"
+    ],
+    "domains": [
+      "aljazeera.com",
       "news.google.com"
     ],
     "snippets": [
-      "After a contentious discussion, the vaccine advisory group pushed the vote to Friday to give members time to study the language of proposed changes longstanding policy on the shots.",
-      "Kennedy’s vaccine advisory committee delays vote on hepatitis B shots for newborns AP News",
-      "CDC Vaccine Panel in Disarray over Hepatitis B Vote Scientific American"
+      "India’s Prime Minister Narendra Modi welcomed Russian President Vladimir Putin as talks began on boosting trade.",
+      "Putin in India as it happened - Russian president holds talks with Modi on oil, trade and defence Reuters"
     ],
     "image_url": "",
     "titles": [
-      "CDC advisers delay planned vote on hepatitis B vaccine for infants",
-      "Kennedy’s vaccine advisory committee delays vote on hepatitis B shots for newborns - AP News",
-      "CDC Vaccine Panel in Disarray over Hepatitis B Vote - Scientific American"
+      "Putin and Modi discuss trade and peace at summit talks in India",
+      "Putin in India as it happened - Russian president holds talks with Modi on oil, trade and defence - Reuters"
     ],
-    "url": "https://www.npr.org/sections/shots-health-news/2025/12/04/nx-s1-5629199/cdc-acip-hepatitis-b-vaccine-meeting",
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/putin-and-modi-discuss-trade-and-peace-at-summit-talks-in-india?traffic_source=rss",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeW9reHB2MlZ5WWFIdlU1cFNCdVJMdmZkYUNhbThQZm1oN3Q4d0Z0MVNPWi13aFdDUHdqdkFFdVFEY1BaRlVJakxLaWNIWF84Tk9oTFNUbVAyVkxGcW8xSS1QcjB4RFBOWmlqeGl6UFYxT2FPYjhEWVQyZk84Vmx3aFh1RldyRXVVWU1DQjEzU21meWJYMXRQLQ?oc=5",
-      "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUFVQlV6N1U4MlVROVQ5bXllNnAzTXlMQ3c4RTdtRS1POThvQzdRd3dhV05Sd3k0NmVSMVdCRmhnckNtR3NXWVRNa1NJREZoTi01U1ppWFYwd0d4ZGQzRzdqTGtjRTVKaWJoV2dKby1VMTA0QU9WU3dzUkdsUXB0QUFNVXlIRlJ3SXc3UUYyTFRob2pMUXhUVUhKQQ?oc=5"
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTYzcVNmcEpFazNxdnVmeTVFVXFFMWVVZnJCdEE0QXczMEIxa1kxLTEyQk5kdldpV0hjTDdPemNNTXJwT2t0bndJanJFU3JjMXBLcjl6d0pmOUdPUnNjVWxpQUlvYlhHckVnTDdFSnVVQXZiNE5tOE9HOTRuV2lQTTBfcEh3UmxwUHdqelJNTnE1XzRrTzVrV1ptdjI?oc=5"
     ],
-    "location_scope": "national",
-    "link": "https://www.npr.org/sections/shots-health-news/2025/12/04/nx-s1-5629199/cdc-acip-hepatitis-b-vaccine-meeting",
+    "location_scope": "global",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/5/putin-and-modi-discuss-trade-and-peace-at-summit-talks-in-india?traffic_source=rss",
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.675,
-      "consensus": 0.769,
-      "constructiveness": 0.6,
-      "proximity": 0.75
+      "magnitude": 0.735,
+      "recency": 0.887,
+      "consensus": 0.591,
+      "constructiveness": 0.7,
+      "proximity": 0.5
     },
-    "score": 0.739,
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the status of a health-related decision, which could be relevant to parents or health professionals. However, without more context or analysis, it doesn't offer a deep understanding or clear takeaways.",
+    "score": 0.725,
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "The story provides useful information about the geopolitical relations between Russia and India, and their discussions on trade and peace. However, it doesn't offer a deep understanding of the implications of these discussions or the specific solutions being proposed.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "A vaccine advisory committee has postponed its vote on proposed changes to hepatitis B vaccination policy for newborns, following a contentious discussion. The group will reconvene on Friday to allow members more time to review the proposal's language. The delay comes amid disagreements within the committee.",
+    "summary": "Russian President Vladimir Putin met with India’s Prime Minister Narendra Modi in India to discuss expanding cooperation in trade, oil, and defense. The talks focused on strengthening economic ties between the two countries. No major agreements were announced at the conclusion of the meeting.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "US military hits second suspected drug boat in Pacific",
+    "domain": "general",
+    "source_domain": "dw.com",
+    "location": "global",
+    "published": "2025-12-05T04:24:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "Deutsche Welle",
+      "Global News",
+      "Associated Press"
+    ],
+    "domains": [
+      "dw.com",
+      "globalnews.ca",
+      "news.google.com"
+    ],
+    "snippets": [
+      "The Trump administration has faced condemnation over strikes on alleged drug boats. Legal experts have said such strikes could be a violation of the laws of military warfare.",
+      "Footage of the strike, shared by the U.S. Southern Command, showed the moment the boat in the eastern Pacific was bombed from above.",
+      "US military conducts strike on another suspected drug boat as probe into the first strike begins AP News"
+    ],
+    "image_url": "",
+    "titles": [
+      "US strike on alleged drug boat in Pacific kills four",
+      "U.S. military kills 4 alleged ‘narco-terrorists’ in another boat strike",
+      "US military conducts strike on another suspected drug boat as probe into the first strike begins - AP News"
+    ],
+    "url": "https://www.dw.com/en/us-strike-on-alleged-drug-boat-in-pacific-kills-four/a-75025757?maca=en-rss-en-top-1022-rdf",
+    "alternate_urls": [
+      "https://globalnews.ca/news/11563179/boat-strike-eastern-pacific-us-military-dec-5/",
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdGhBNERFMEtyU3FxOUtIOUhpdXR0Y2NiLVFvalNlbE5XQ3NCOEJzdDBMTndQUmpqODIxUUh3MnQzSzBGd244VDFkNF8zSlc2cHQ2Q01nME54U2I3eFdGeVpsa2UtcUJZZDAzMlZnMktrMUExS2JrZndDcjF3UU91RTB4Tmw4WjJFZURNeUZYUjMyLWNKZ09vV0xKdEREbzF5NTQ4?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.dw.com/en/us-strike-on-alleged-drug-boat-in-pacific-kills-four/a-75025757?maca=en-rss-en-top-1022-rdf",
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.76,
+      "consensus": 0.789,
+      "constructiveness": 0.3,
+      "proximity": 0.5
+    },
+    "score": 0.72,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story reports on an event, but it does not provide any actionable insights or deeper understanding. It does not report on solutions or improvements, and it does not increase clarity around systems, causes, trends, or impacts.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The U.S. military has conducted a second airstrike on a suspected drug boat in the eastern Pacific, according to footage released by U.S. Southern Command. The Trump administration faces criticism, with legal experts suggesting the strikes may violate military law. An investigation into the first strike is underway.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Moore Threads shares rise over 400 percent on first trading day",
+    "title": "New military service law starts in January in Europe",
+    "domain": "general",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 10:34:35 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "Deutsche Welle"
+    ],
+    "domains": [
+      "bbc.com",
+      "dw.com"
+    ],
+    "snippets": [
+      "The shift in its approach to its military follows a push to create Europe's strongest conventional army.",
+      "The new military service law will come into effect in January. Many think it goes too far, while others want to return to full conscription."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/165e/live/0fe7b770-d1c2-11f0-8c06-f5d460985095.jpg",
+    "titles": [
+      "Germany votes to bring back voluntary military service programme for 18-year-olds",
+      "Germany: New military service law polarizes society"
+    ],
+    "url": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://www.dw.com/en/germany-new-military-service-law-polarizes-society/a-75033848?maca=en-rss-en-top-1022-rdf"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.902,
+      "consensus": 0.591,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.719,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs readers about a significant policy change in Germany. It could be useful for those considering military service or interested in global military trends. However, without more context or detail, it doesn't fully explain the implications or reasons for this decision.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "A new military service law will take effect in January as part of efforts to build Europe's strongest conventional army. The law has sparked debate, with some arguing it is too strict, while others advocate for a return to full conscription. The change reflects a significant shift in military policy.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "European Commission fines X for breaking content rules",
+    "domain": "general",
+    "source_domain": "dw.com",
+    "location": "global",
+    "published": "2025-12-05T11:44:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "Deutsche Welle",
+      "Reuters"
+    ],
+    "domains": [
+      "dw.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "The European Commission has accused X of misleadingly authenticating user accounts with blue ticks, withholding data from researchers and not transparently signposting advertisements.",
+      "X hit with $140 million EU fine for breaching content rules, TikTok settles Reuters"
+    ],
+    "image_url": "",
+    "titles": [
+      "EU imposes €120 million fine on Elon Musk's X for breaking digital rules",
+      "X hit with $140 million EU fine for breaching content rules, TikTok settles - Reuters"
+    ],
+    "url": "https://www.dw.com/en/eu-imposes-€120-million-fine-on-elon-musk-s-x-for-breaking-digital-rules/a-75033724?maca=en-rss-en-top-1022-rdf",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTWYwdVR4YzB5NVdvQ2RZQTIyMUN5cUdJdW81RDNld3RKeVdoQ0Y0VFVZWHVWNHF1cU9xTVJKVFlfazZ3UTc4dGYzRUtTOHctU3RmQi1aRVJTSFh3M2JIemtkYzRmdFVzYVBqTDhtOUVWaGVfeUFhZllyR0JpQ0VESWVGcnBqMjVNQ1E3Z2ZKWFpBbmF1QWNCNldUajY1bE9MaTVlb1ZvQnZUcHRST3JCSjJPeTF0N3dfS2hDR215QndVNEZXQUxRY1NaTzVtSkozUGtKTVI0SjA1ZUFqcGc?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.dw.com/en/eu-imposes-€120-million-fine-on-elon-musk-s-x-for-breaking-digital-rules/a-75033724?maca=en-rss-en-top-1022-rdf",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.931,
+      "consensus": 0.591,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.718,
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about the EU's digital rules and the consequences of breaking them. However, without a summary or more information, it's hard to determine if it offers actionable insights or deeper understanding.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The European Commission has fined X $140 million for breaching EU content rules. The Commission accused X of misleadingly authenticating user accounts with blue ticks, withholding data from researchers, and failing to clearly label advertisements. TikTok has reached a separate settlement, according to Reuters.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Moore Threads stock jumps 425 percent on first trading day",
     "domain": "business",
     "source_domain": "news.google.com",
     "location": "global",
-    "published": "Fri, 05 Dec 2025 06:06:41 GMT",
+    "published": "Fri, 05 Dec 2025 06:06:00 GMT",
     "source": "Reuters",
     "sources": [
       "Reuters",
@@ -673,13 +1126,13 @@
     "snippets": [
       "Moore Threads, 'China's Nvidia', soars over 400% in Shanghai debut Reuters",
       "Shares of Moore Threads soared by more than 400% on its debut in Shanghai following its $1.1 billion listing.",
-      "China Chipmaker Moore Threads Soars 502% After $1.1 Billion IPO Bloomberg.com"
+      "Nvidia Challenger Moore Threads Jumps 425% in China Debut Bloomberg.com"
     ],
     "image_url": "",
     "titles": [
       "Moore Threads, 'China's Nvidia', soars over 400% in Shanghai debut - Reuters",
       "'China's Nvidia' Moore Threads surges over 400% on trading debut after $1.1 billion listing",
-      "China Chipmaker Moore Threads Soars 502% After $1.1 Billion IPO - Bloomberg.com"
+      "Nvidia Challenger Moore Threads Jumps 425% in China Debut - Bloomberg.com"
     ],
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1pFd0lpMkhCaHNubG1ieUh2UktaRHFQRWhLYXdfRG9NdkVVdzkwYnVjTEJ6Y0VwbmxRQngyNDFSUnpxb1lGRTk0U3lMZERRNUpXSHZhV2lIRXJGdUhsQlVQU0lJc2hXcElLbWZVZ0sydXNHOEJfWEQ0Z1BSSVpGOXpiYkdnekxNc1RVSzE0Yl9qTm41YUpXcHlhTlBUUFZLVzY2dGRLR3dNRnFFOWZ6U2oxWXZ2U2NSNUxSbXVfakxxbm5G?oc=5",
     "alternate_urls": [
@@ -690,446 +1143,123 @@
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1pFd0lpMkhCaHNubG1ieUh2UktaRHFQRWhLYXdfRG9NdkVVdzkwYnVjTEJ6Y0VwbmxRQngyNDFSUnpxb1lGRTk0U3lMZERRNUpXSHZhV2lIRXJGdUhsQlVQU0lJc2hXcElLbWZVZ0sydXNHOEJfWEQ0Z1BSSVpGOXpiYkdnekxNc1RVSzE0Yl9qTm41YUpXcHlhTlBUUFZLVzY2dGRLR3dNRnFFOWZ6U2oxWXZ2U2NSNUxSbXVfakxxbm5G?oc=5",
     "score_components": {
       "magnitude": 0.867,
-      "recency": 0.892,
+      "recency": 0.796,
       "consensus": 0.769,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.732,
+    "score": 0.703,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Moore Threads, a Chinese chipmaker often called \"China's Nvidia,\" saw its shares surge over 400% on its first day of trading in Shanghai after a $1.1 billion initial public offering. The company's stock rose as much as 502% during its debut session.",
+    "summary": "Moore Threads, a Chinese chipmaker seen as a rival to Nvidia, surged over 400% on its first day of trading in Shanghai after a $1.1 billion initial public offering. The company’s shares jumped 425% at debut, marking one of the strongest market openings for a tech firm in China in 2025.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Putin visits India to talk about working together more",
+    "domain": "politics",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 09:34:34 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "BBC"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "bbc.com"
+    ],
+    "snippets": [
+      "“[Modi is] not going to change the direction of Indian foreign policy because [the] Trump administration does not like i",
+      "BBC editors explain what lies behind the high-optics visit of Russian President Vladimir Putin to Delhi."
+    ],
+    "image_url": "",
+    "titles": [
+      "Modi “strengthens his own position” with Putin meeting",
+      "What Putin and Modi got out of Delhi meeting"
+    ],
+    "url": "https://www.aljazeera.com/video/quotable/2025/12/5/modi-strengthens-his-own-position-with-putin-meeting?traffic_source=rss",
+    "alternate_urls": [
+      "https://www.bbc.com/news/articles/c773v133xnxo?at_medium=RSS&at_campaign=rss"
+    ],
+    "location_scope": "global",
+    "link": "https://www.aljazeera.com/video/quotable/2025/12/5/modi-strengthens-his-own-position-with-putin-meeting?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.877,
+      "consensus": 0.591,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.702,
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about the political implications of the meeting between Modi and Putin. However, it lacks depth and doesn't provide actionable insights or a clear report on solutions or improvements.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Russian President Vladimir Putin visited Delhi for high-level talks with Indian leaders. The visit focused on strengthening strategic and economic ties between Russia and India. Despite international pressures, Indian officials indicated there would be no major shift in India's foreign policy. The meetings emphasized ongoing cooperation in defense, energy, and technology.",
     "is_trending": false,
     "trending_score": 0.25
   },
   {
-    "title": "New York Times sues Pentagon over new press rules",
-    "domain": "business",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Thu, 04 Dec 2025 23:31:41 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Reuters",
-      "CNBC",
-      "Associated Press"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "news.google.com",
-      "cnbc.com"
-    ],
-    "snippets": [
-      "Lawsuit challenges rules that give wide discretion to Pentagon chief Hegseth to oust journalists over coverage.",
-      "New York Times sues Pentagon over press access Reuters",
-      "Reporters from The New York Times, CNN, Fox News, NBC and others staged a walkout after Defense Secretary Pete Hegseth unveiled new Pentagon press rules.",
-      "The New York Times sues the Pentagon over Defense Secretary Pete Hegseth's media rules AP News"
-    ],
-    "image_url": "",
-    "titles": [
-      "New York Times sues Pentagon over rules limiting access for media",
-      "New York Times sues Pentagon over press access - Reuters",
-      "New York Times sues Defense Sec. Pete Hegseth over restrictive Pentagon media rules",
-      "The New York Times sues the Pentagon over Defense Secretary Pete Hegseth's media rules - AP News"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/4/new-york-times-sues-pentagon-over-rules-limiting-access-for-media?traffic_source=rss",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNy1XRkMzWjdGcFdTMzAzSFcwbUZZRTBYUGFUSW1tb0tDbW9rVV9nNjg5WDhTX3FKcU1FbjhxeENGckdiX20xM3lLRDlWRjJwaUtQOFpJbGFBVUVudlFhOXQzY2dpNmcwWWhmUV9hV291SW1wVEthN1VJRFE5SUdHcHZHN1pvaDIyeTA0ZV85ZlBFY2kzZE0zckx2Q1FfOTZy?oc=5",
-      "https://www.cnbc.com/2025/12/04/new-york-times-pentagon-pete-hegseth-lawsuit-media.html",
-      "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHV6SjJ2ZXhDbTlZY2E0MXd1d1hDS21FWm90ZWpfZG4yQ0VCRjJiWHJUZUxLWTZVN1o4Rk51MHQ2djVIZ1R1WW1tNzg0Ukt1VzdhNUcyaF80RXYtdU1LUE1qRzh4aFRGSWNwd1lUREJySGowRjBkd3hIWXBtUkJBOW9US1BFckNkcmNlcm8tMUcwaXJlbjNCZGV4Z1VWYVpNVDE2WWwySQ?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/4/new-york-times-sues-pentagon-over-rules-limiting-access-for-media?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.743,
-      "consensus": 0.888,
-      "constructiveness": 0.046,
-      "proximity": 0.5
-    },
-    "score": 0.723,
-    "constructiveness_score": 0.046,
-    "constructiveness_reason": "semantic: pos_sim=0.18, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "The New York Times has filed a lawsuit against the Pentagon, challenging new press rules introduced by Defense Secretary Pete Hegseth that allow him broad authority to revoke journalists' access. Reporters from multiple outlets, including CNN, Fox News, and NBC, staged a walkout in protest of the policy. The legal dispute centers on concerns about press freedom and access to Pentagon information. The case is ongoing.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Virginia man arrested for planting pipe bombs in Washington",
-    "domain": "general",
+    "title": "Greece agrees to buy rocket systems from Israel",
+    "domain": "politics",
     "source_domain": "news.google.com",
     "location": "global",
-    "published": "Thu, 04 Dec 2025 22:26:46 GMT",
+    "published": "Fri, 05 Dec 2025 09:06:16 GMT",
     "source": "Reuters",
     "sources": [
       "Reuters",
-      "CBC News",
-      "Associated Press"
+      "Al Arabiya"
     ],
     "domains": [
-      "news.google.com",
-      "cbc.ca"
+      "news.google.com"
     ],
     "snippets": [
-      "Virginia man charged with planting pipe bombs on eve of January 6, 2021 Capitol riot Reuters",
-      "The FBI arrested a 30-year-old Virginia man and charged him on Thursday with planting a pair of pipe bombs in Washington the night before the Jan. 6, 2021, assault on the U.S. Capitol, capping a years-long investigation that gave rise to numerous conspiracy theories.",
-      "Man accused of planting pipe bombs before Jan. 6 Capitol attack is charged with explosives offenses AP News"
+      "Greek parliament approves purchase of rocket systems from Israel Reuters",
+      "Greek parliament approves purchase of rocket systems from Israel Al Arabiya English"
     ],
     "image_url": "",
     "titles": [
-      "Virginia man charged with planting pipe bombs on eve of January 6, 2021 Capitol riot - Reuters",
-      "FBI arrest Virginia man accused of planting pipe bombs in Washington in 2021",
-      "Man accused of planting pipe bombs before Jan. 6 Capitol attack is charged with explosives offenses - AP News"
+      "Greek parliament approves purchase of rocket systems from Israel - Reuters",
+      "Greek parliament approves purchase of rocket systems from Israel - Al Arabiya English"
     ],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVldva1lVTHM4ekZrMDNVRzVRQlRxbzFIZFAzeF90Ykw2alp1aTFZS2xCdy1oSnJZMGRVRWU1bXZjZzBCVkxXbzY1S2JReldiZUFaY0t6emRrZi1kRmF2S3FmLWdna0hUV1EycjlleHVCM0I2Q05MUUNvSnVGakMtNWdvTFh2SlNWaHVLN0huQnJhc3lWSENDYm9ia29VeW1pVGFTUUhTeDFJRGJYMGpaZ0pMMzQ4SlBPdDdiOA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFVXT20zZG1uTWdCdUZDWmZkU1NiaFNjU0QtdDhFeHI1Njhwd3gtWWMySW1oeldUR0Vtek53WWlIWnNGNlJDWkpOaGZTLWRSMGFlYmpmUnRLSVZBQUdlenMtWG1uUlN4cWdnaDFsTDNzbDU3ZEhjbk8wd1lhUXdKUG5SM3lnY2JJekpyaTFHRHdtTTFqUHc0UURkem41emhuRTl2Y3FWTDYtNHl3aHQ5VEJrTm9SV2gxOTFR?oc=5",
     "alternate_urls": [
-      "https://www.cbc.ca/news/world/us-2021-pipe-bomb-republican-democratic-9.7002676?cmp=rss",
-      "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTDNWSXU3cnEzUDY5TjRHWE1ic05ld3lDWjFEYUl5RGZuMHRhU0pPLVRVNXo4ZThab3U1VHUtNFVrT0I3VUFBajY4NlVEWGJoYTZLXzBYVWVmbDl3OXhIckFKN3QyS3pIS2ZoeGcxa19aV1F3eEg0bDJvQ3RpSFhHOHY4Ymo?oc=5"
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0I4ek50RlFJaDNMeVMzZElraks1TV9YSkJfODl5NnVXNkY1VC1lSDRmZ1FxRmMxRklOcHJXcG9oYkNESWFXZVRHQUtvdDRFVTZGZlBkUGVIZENxaTlUV2FoQnM3QVp5LTFxWjVocWhMUXFXT0VDOFh0ZFZOTkoyUlFYSmhlbU9iY09UVE5HQkQzRXFrbFdjYzZUVnJTWG1MVHRCdXJxelk0OS0wOTFWS3lzVnItNTdQ0gG-AUFVX3lxTFBPS3JRcWlCRGRRdjI2dmZwXzVIT2JWamZIZnNzTF9RSm5NNGNYcjNjcVRHOTI5Z1Jza1hfR0ZkdnJPUW9mc1p2dWx3Rjg5dEQtek1reS01ZGFOdTVzTE1ZZDRaV2hVbm45TGR4dE1sTExQQVJPc2lGQ1lDU3p6QnBpTWJqVUFiVl9HT3pvY1YtLU5idzNlMGx0dlBGUWlMTUZwWDV0TjZBb0daR29lT1duZDNTdlNRRVZVdGJ4MFE?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVldva1lVTHM4ekZrMDNVRzVRQlRxbzFIZFAzeF90Ykw2alp1aTFZS2xCdy1oSnJZMGRVRWU1bXZjZzBCVkxXbzY1S2JReldiZUFaY0t6emRrZi1kRmF2S3FmLWdna0hUV1EycjlleHVCM0I2Q05MUUNvSnVGakMtNWdvTFh2SlNWaHVLN0huQnJhc3lWSENDYm9ia29VeW1pVGFTUUhTeDFJRGJYMGpaZ0pMMzQ4SlBPdDdiOA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFVXT20zZG1uTWdCdUZDWmZkU1NiaFNjU0QtdDhFeHI1Njhwd3gtWWMySW1oeldUR0Vtek53WWlIWnNGNlJDWkpOaGZTLWRSMGFlYmpmUnRLSVZBQUdlenMtWG1uUlN4cWdnaDFsTDNzbDU3ZEhjbk8wd1lhUXdKUG5SM3lnY2JJekpyaTFHRHdtTTFqUHc0UURkem41emhuRTl2Y3FWTDYtNHl3aHQ5VEJrTm9SV2gxOTFR?oc=5",
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.721,
-      "consensus": 0.769,
+      "magnitude": 0.755,
+      "recency": 0.866,
+      "consensus": 0.571,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.718,
+    "score": 0.701,
     "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story provides basic awareness about the charges against the man, contributing to the understanding of the events surrounding the Capitol riot. However, it doesn't provide any actionable insights or report on any solutions or improvements.",
+    "constructiveness_reason": "This story provides basic awareness about a geopolitical event, but it does not provide much depth or insight into the implications or reasons behind this decision.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "A 30-year-old Virginia man has been arrested and charged with planting two pipe bombs in Washington, D.C., on the night before the January 6, 2021, U.S. Capitol attack. The charges follow a lengthy FBI investigation into the incident, which had fueled various conspiracy theories. The man faces explosives-related offenses.",
+    "summary": "On December 5, 2025, the Greek parliament approved the purchase of rocket systems from Israel. The agreement aims to strengthen Greece's defense capabilities. Details about the value or delivery timeline of the systems were not disclosed. The approval marks a further step in defense cooperation between Greece and Israel.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Militia leader in Gaza killed during fighting",
-    "domain": "science",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Thu, 04 Dec 2025 21:19:47 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Washington Post",
-      "New York Times",
-      "The Guardian"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "washingtonpost.com",
-      "nytimes.com",
-      "theguardian.com"
-    ],
-    "snippets": [
-      "Abu Shabab became prominent last year leading an armed group operating in Israeli-controlled areas of Gaza.",
-      "The death of Yasser Abu Shabab, a prominent clan leader in Gaza, could threaten Israel’s experiment in arming local militias to challenge Hamas’s rule.",
-      "Yasser Abu Shabab, a Bedouin man in his 30s, was at the center of an Israeli project in Gaza to build up anti-Hamas militias.",
-      "Death of commander of Popular Forces is blow to Israel’s efforts to confront Hamas through proxy groups The leader of an Israeli-backed militia in Gaza has been killed, dealing a major blow to Israel’s efforts to build up its own Palestinian proxies to confront Hamas. Yasser abu Shabab, a Bedouin tr"
-    ],
-    "image_url": "",
-    "titles": [
-      "Who was Yasser Abu Shabab, Israel-backed militia leader killed in Gaza?",
-      "Israeli-backed militia leader killed in ‘internal’ clash in Gaza",
-      "Yasser Abu Shabab, Militant Leader Backed by Israel, Is Killed in Gaza, Official Says",
-      "Yasser abu Shabab, leader of Israel-backed militia, killed in Gaza"
-    ],
-    "url": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss",
-    "alternate_urls": [
-      "https://www.washingtonpost.com/world/2025/12/04/israel-gaza-anti-hamas-leader-abu-shabab/",
-      "https://www.nytimes.com/2025/12/04/world/middleeast/yasser-abu-shabab-killed-gaza.html",
-      "https://www.theguardian.com/world/2025/dec/04/yasser-abu-shabab-popular-forces-militia-killed-gaza"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/features/2025/12/4/who-was-yasser-abu-shabab-israel-backed-militia-leader-killed-in-gaza?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.699,
-      "consensus": 0.908,
-      "constructiveness": 0.022,
-      "proximity": 0.5
-    },
-    "score": 0.717,
-    "constructiveness_score": 0.022,
-    "constructiveness_reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Yasser Abu Shabab, leader of an Israeli-backed militia known as the Popular Forces in Gaza, was killed. Abu Shabab, a Bedouin clan leader, played a key role in Israel's efforts to arm local groups against Hamas. His death is seen as a significant setback to Israel's strategy of supporting Palestinian proxy militias in Gaza.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "US plans to buy minerals from Congo and Rwanda leaders",
-    "domain": "politics",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Thu, 04 Dec 2025 23:53:54 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Axios"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "US president hosts leaders of DRC and Rwanda and says Washington will buy rare earth minerals from the two countries.",
-      "Trump's peace deal without the peace between DRC and Rwanda Axios"
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump hails ‘great day for the world’ as DRC, Rwanda finalise peace deal",
-      "Trump's peace deal without the peace between DRC and Rwanda - Axios"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/4/trump-hails-great-day-for-the-world-as-drc-rwanda-finalise-peace-deal?traffic_source=rss",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMibEFVX3lxTE9veVY3WDNnamk1dmFEeVVGOXhVMDAyQUJrTGtZQzRMUWlaYmNMUTZVMzZ3dXpOWFQ1NjhtNUJHWW5xd3dfb0s4aElmanViV0NsN3BZQ3VtOFNXQkVkbnJDcXBlajFObi1QZ1k1Zw?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/4/trump-hails-great-day-for-the-world-as-drc-rwanda-finalise-peace-deal?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.751,
-      "consensus": 0.591,
-      "constructiveness": 0.9,
-      "proximity": 0.5
-    },
-    "score": 0.716,
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it reports on a significant progress in international relations, specifically the peace deal between DRC and Rwanda. It provides useful information about global peace efforts and could potentially influence readers' understanding of the current geopolitical landscape.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "On December 5, 2025, the US president hosted leaders from the Democratic Republic of Congo (DRC) and Rwanda in Washington. During the meeting, the US announced plans to purchase rare earth minerals from both countries. Despite diplomatic efforts, a peace agreement between the DRC and Rwanda has not been reached.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Donald Trump picks new architect for big ballroom project",
-    "domain": "politics",
-    "source_domain": "dw.com",
-    "location": "global",
-    "published": "2025-12-05T00:11:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "Deutsche Welle",
-      "The Guardian",
-      "Bloomberg"
-    ],
-    "domains": [
-      "dw.com",
-      "theguardian.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "The move comes after the $300 million project's original architect reportedly had disagreements with Trump, who rejected criticism over the project's financing, as well as its effects on the presidential residence.",
-      "President and James McCrery II disagreed over expanding ballroom’s size, but change prompted by firm’s limited staff Donald Trump has replaced the architect originally selected to oversee his $300m planned gilded ballroom. According to the Washington Post, which first reported the news on Thursday a",
-      "Trump Replaces Architect to Lead $300 Million Ballroom Design Bloomberg.com"
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump hires new architect for White House ballroom",
-      "Trump replaces architect overseeing $300m gilded ballroom project",
-      "Trump Replaces Architect to Lead $300 Million Ballroom Design - Bloomberg.com"
-    ],
-    "url": "https://www.dw.com/en/trump-hires-new-architect-for-white-house-ballroom/a-75025211?maca=en-rss-en-top-1022-rdf",
-    "alternate_urls": [
-      "https://www.theguardian.com/us-news/2025/dec/04/trump-ballroom-architect",
-      "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHpnWkF2Rk1lMU0xb1BCZTNpZ1hLU1lUR1ZiTzJuSVRkdXlSbVdiTkVsdDJFLXpaMWp2T2ZJT2hXZ29SZEdCUWZnQkItdnBKN1pwdV9CUVJjcjhRaEFWN0tFa0dyU210ZTR3U1BCdUpNMXhUTC0yeEdEVHA3cERZS3BSQXVwaWg2MlNTY2tsa2lZMHc5dHZ3d0JiZGhNVDRuOFRtTm9zckx4aHB3TklhSA?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.dw.com/en/trump-hires-new-architect-for-white-house-ballroom/a-75025211?maca=en-rss-en-top-1022-rdf",
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.757,
-      "consensus": 0.789,
-      "constructiveness": 0.2,
-      "proximity": 0.5
-    },
-    "score": 0.709,
-    "constructiveness_score": 0.2,
-    "constructiveness_reason": "This story does not provide any actionable insights or deeper understanding. It does not report on solutions, improvements, innovations, or attempts to solve problems. It does not increase clarity around systems, causes, trends, or impacts that matter.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Donald Trump has replaced the original architect, James McCrery II, for his planned $300 million gilded ballroom project. The change follows reported disagreements between Trump and McCrery over the ballroom's size and concerns about the architect firm's staffing. Trump has rejected criticism related to the project's financing and its impact on the presidential residence.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Lawmakers question admiral about deadly US boat strike video",
-    "domain": "general",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Fri, 05 Dec 2025 07:36:27 GMT",
-    "source": "Reuters",
-    "sources": [
-      "Reuters",
-      "Washington Post"
-    ],
-    "domains": [
-      "news.google.com",
-      "washingtonpost.com"
-    ],
-    "snippets": [
-      "Video shows final, confused moments of survivors of US boat strike in Caribbean, say sources Reuters",
-      "The footage was shown on Capitol Hill, where Adm. Frank M. Bradley, who oversaw a deadly attack on alleged drug smugglers, faced a day of difficult questions about the operation."
-    ],
-    "image_url": "",
-    "titles": [
-      "Video shows final, confused moments of survivors of US boat strike in Caribbean, say sources - Reuters",
-      "Video shows second strike hit before survivors could flip boat, lawmakers say"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUJvV2l6YWs3RHVmVGF1c1dpLVhCWnV1aWdEcmtHRkF4SGJkR0ZaU3F4Zk1vQmdIVlFYV040UmREQlo3NGcya1E5SXZna29VaHBXTEkyTllCZGx2bTZWN041d0VZVDhJejNNNG9IYTA3Z1NPbnN3elJiMGEzSzQ5V1N0NUVOTHlRNVRuLXVQd2Rycl9EbUxqSXBLWXluZy1GS0lsTjlvaHM3emdrWVEtTjllbFI4SzY2YmcwZ1ZJaXE5Zw?oc=5",
-    "alternate_urls": [
-      "https://www.washingtonpost.com/national-security/2025/12/04/bradley-congress-boat-strikes/"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUJvV2l6YWs3RHVmVGF1c1dpLVhCWnV1aWdEcmtHRkF4SGJkR0ZaU3F4Zk1vQmdIVlFYV040UmREQlo3NGcya1E5SXZna29VaHBXTEkyTllCZGx2bTZWN041d0VZVDhJejNNNG9IYTA3Z1NPbnN3elJiMGEzSzQ5V1N0NUVOTHlRNVRuLXVQd2Rycl9EbUxqSXBLWXluZy1GS0lsTjlvaHM3emdrWVEtTjllbFI4SzY2YmcwZ1ZJaXE5Zw?oc=5",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.93,
-      "consensus": 0.591,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.704,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about the incident, but it doesn't provide any actionable insights or deeper understanding. It also doesn't report on solutions, improvements, or attempts to solve the problem.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Video footage of the aftermath of a US boat strike in the Caribbean was shown on Capitol Hill, depicting the final, confused moments of survivors. Adm. Frank M. Bradley, who oversaw the operation targeting alleged drug smugglers, faced extensive questioning from lawmakers about the incident. The event resulted in fatalities, and the investigation is ongoing.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Salvador Nasralla says US president comments hurt his votes",
-    "domain": "politics",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Fri, 05 Dec 2025 04:53:06 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Reuters"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Centrist candidate Salvador Nasralla, 72, says the US president's remarks may have cost him votes.",
-      "Honduras presidential candidate Nasralla says Trump’s interference damaged his election chances Reuters"
-    ],
-    "image_url": "",
-    "titles": [
-      "Honduran presidential candidate says Trump interfered in election: Report",
-      "Honduras presidential candidate Nasralla says Trump’s interference damaged his election chances - Reuters"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/5/honduran-presidential-candidate-says-trump-interfered-in-election-report?traffic_source=rss",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRWxhZDF6bmdOR0haUVpZUU4wVHlZOVBVNkhXbUs4SDJwWkQ5RFVtaWJPV1dVanlNZVZiZ25vSzZlcjh0UEVTR3EtVVBfUnNFLTF1bVVWUjR1TlZqaDVYVTZnTW5oUXozdTBvLXNidWY3TU5oUWU3bks2YXRMU2lvX0xlRm9DTDdCRFNjME5NOHNqYXBYMk5PUzlzdlROT1doWDBvaGNIdU1BeHpES29UOVlVYlZNVHZlbENTcVBLX1hoZmRITEkw?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/5/honduran-presidential-candidate-says-trump-interfered-in-election-report?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.862,
-      "consensus": 0.591,
-      "constructiveness": 0.5,
-      "proximity": 0.5
-    },
-    "score": 0.703,
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story raises awareness about a potential international political issue, but it does not provide enough information or analysis to give the reader a deeper understanding or actionable insights. It does not report on solutions or progress.",
-    "constructiveness_source": "gpt",
-    "summary_source": "snippet",
-    "summary_reason": "invalid_roles",
-    "headline_source": "gpt",
-    "summary": "Centrist candidate Salvador Nasralla, 72, says the US president's remarks may have cost him votes.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "LeBron James streak of 10 point NBA games ends at 1297",
-    "domain": "sports",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Fri, 05 Dec 2025 03:08:24 GMT",
-    "source": "Bleacher Report",
-    "sources": [
-      "Bleacher Report",
-      "Sports Illustrated",
-      "Sportsnet"
-    ],
-    "domains": [
-      "news.google.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "LeBron James Snaps Historic 18-Year Streak, Stuns Fans in Lakers' Win vs. Raptors Bleacher Report",
-      "LeBron James’s Historic 10-Point Streak Ends After Making Selfless Play in Lakers’ Win Sports Illustrated",
-      "LeBron James, Lakers React to the End of His Remarkable 1,297-Game Streak Sports Illustrated",
-      "LeBron James saw his remarkable streak of 1,297 straight games of scoring at least 10 points snapped against the Toronto Raptors on Thursday night."
-    ],
-    "image_url": "",
-    "titles": [
-      "LeBron James Snaps Historic 18-Year Streak, Stuns Fans in Lakers' Win vs. Raptors - Bleacher Report",
-      "LeBron James’s Historic 10-Point Streak Ends After Making Selfless Play in Lakers’ Win - Sports Illustrated",
-      "LeBron James, Lakers React to the End of His Remarkable 1,297-Game Streak - Sports Illustrated",
-      "LeBron James’ historic 10-point scoring streak snapped vs. Raptors"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQTVxLVFfUlZhbWNoUm5YQXFfOUdpT1haVkNZcnV0OHRCaVJzLTlQRUU4WjVFSDVrd2FhWUZ0SktBM2pYU2hjNWFCS1ZEdG9EeU5kN2c3SzFuZWNVSTFTQ05UaVF5ekZQODlGeGFjUTFGT3ZPYU14eTB1MDYxTUhkdTVYMnl1R2g4WmRBQ29abWZtZTVBWE5BVmowbFYxczJuRkhHbGFYbzU2N29wRVNhc0NNMzl2R1VOeUhMYQ?oc=5",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkNQSjJCOE5qR09WT1lua3VKVEVoS1FKVnZJdlVzNml4YUtRVng4NE9XNEtYZDhOb0xvTllWekpPck81YjhkZGp1UkthOUx0dWk4blZzZUpZWXpvY1I3QWtwblNNOU5WY19lYlBfLUdOSjV0MWlfZWRibzNmOVktWDNFcmR3eTVtZm9sWWJCYWNhcmot?oc=5",
-      "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2p0eVRId0ZKWUQ2QkVISE96bUMwODRJcmpYLWllcm1fWnh0T2lfQklzcjV3QTgwRlBtaFdlazhCUFhvUHNYb1lyTVJIOUFRcFdpVHNwZTZ5cGtZTE9oTzNlT0x5V21FNVltWG1BajBnTG4yWUphcDlsY3JUb1BRX3VXMlMta2M?oc=5"
-    ],
-    "location_scope": "national",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQTVxLVFfUlZhbWNoUm5YQXFfOUdpT1haVkNZcnV0OHRCaVJzLTlQRUU4WjVFSDVrd2FhWUZ0SktBM2pYU2hjNWFCS1ZEdG9EeU5kN2c3SzFuZWNVSTFTQ05UaVF5ekZQODlGeGFjUTFGT3ZPYU14eTB1MDYxTUhkdTVYMnl1R2g4WmRBQ29abWZtZTVBWE5BVmowbFYxczJuRkhHbGFYbzU2N29wRVNhc0NNMzl2R1VOeUhMYQ?oc=5",
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.821,
-      "consensus": 0.769,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.698,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "LeBron James’s streak of scoring at least 10 points in 1,297 consecutive NBA games ended during the Los Angeles Lakers’ win over the Toronto Raptors on Thursday night. The streak, which lasted 18 years, was the longest of its kind in NBA history. James and the Lakers acknowledged the milestone after the game.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Matt Campbell may become new head football coach at Penn State",
+    "title": "Klein leaves Texas A and M as coaches change teams",
     "domain": "sports",
     "source_domain": "espn.com",
     "location": "national",
-    "published": "Fri, 5 Dec 2025 02:56:51 EST",
+    "published": "Fri, 5 Dec 2025 07:48:12 EST",
     "source": "ESPN",
     "sources": [
       "ESPN",
@@ -1140,285 +1270,335 @@
       "cbssports.com"
     ],
     "snippets": [
-      "Iowa State coach Matt Campbell has emerged as the focus of Penn State's head coaching search, sources told ESPN.",
-      "Campbell could be headed to Happy Valley after elevating the Cyclones over the past decade"
+      "As the coaching carousel continues to spin, we grade every major hire.",
+      "Klein was Texas A&M's offensive coordinator"
     ],
     "image_url": "",
     "titles": [
-      "Sources: Penn St. turns focus to ISU's Campbell",
-      "Penn State targets Matt Campbell: Bizarre search turns focus to poaching longtime Iowa State coach"
+      "Grading coaching hires: How Collin Klein fits back at Kansas State",
+      "Kansas State hires Collin Klein as coach: Program legend succeeds retiring Chris Klieman"
     ],
-    "url": "https://www.espn.com/college-football/story/_/id/47205838/penn-state-focusing-search-iowa-state-campbell",
+    "url": "https://www.espn.com/college-football/story/_/id/47002863/grading-2025-college-football-head-coaching-hires",
     "alternate_urls": [
-      "https://www.cbssports.com/college-football/news/penn-state-matt-campbell-head-coach-iowa-state/"
+      "https://www.cbssports.com/college-football/news/kansas-state-hires-colin-klein-as-coach-program-legend-succeeds-retiring-chris-klieman/"
     ],
     "location_scope": "national",
-    "link": "https://www.espn.com/college-football/story/_/id/47205838/penn-state-focusing-search-iowa-state-campbell",
+    "link": "https://www.espn.com/college-football/story/_/id/47002863/grading-2025-college-football-head-coaching-hires",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.939,
+      "recency": 0.959,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.695,
+    "score": 0.701,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Iowa State coach Matt Campbell is the leading candidate in Penn State's search for a new head football coach, according to ESPN sources. Campbell has led the Cyclones for the past decade and is being considered to take over at Penn State. No official hire has been announced.",
+    "summary": "Texas A&M's former offensive coordinator, Klein, has been involved in recent coaching changes as part of ongoing staff shifts across college football. The latest updates include evaluations of major hires, with Klein's move being one of several significant transitions noted in the current coaching cycle.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Tyrese Maxey blocks shot to help 76ers win over Warriors",
+    "title": "College football players enter transfer portal to find new teams",
     "domain": "sports",
-    "source_domain": "espn.com",
+    "source_domain": "sports.yahoo.com",
     "location": "national",
-    "published": "Fri, 5 Dec 2025 02:56:51 EST",
-    "source": "ESPN",
+    "published": "Fri, 05 Dec 2025 13:49:51 +0000",
+    "source": "Yahoo Sports",
     "sources": [
-      "ESPN",
-      "Sportsnet"
+      "Yahoo Sports",
+      "Sports Illustrated"
     ],
     "domains": [
-      "espn.com",
-      "sportsnet.ca"
+      "sports.yahoo.com",
+      "news.google.com"
     ],
     "snippets": [
-      "Tyrese Maxey's block of De'Anthony Melton in the final seconds preserved the 76ers 99-98 win over the Warriors on Thursday night.",
-      "Watch as Philadelphia 76ers guard V.J. Edgecomb puts back a miss before Tyrese Maxey rejects Golden State Warriors guard De’Anthony Melton to seal the win for Philadelphia in the final seconds of the fourth quarter."
+      "Wisconsin safety Remington Moss announced his intention to enter the NCAA transfer portal on Thursday.",
+      "Wisconsin Badgers legacy enters the transfer portal Sports Illustrated",
+      "Former four-star Wisconsin Badgers receiver enters the transfer portal Sports Illustrated",
+      "Gophers WR who was top recruit in '23 class enters transfer portal Sports Illustrated",
+      "Former 4-star quarterback is leaving the Gophers in the transfer portal Sports Illustrated"
     ],
     "image_url": "",
     "titles": [
-      "Maxey's 'amazing' block preserves 76ers' win",
-      "Edgecomb’s putback, Maxey’s block seal 76ers’ win over Warriors"
+      "Wisconsin safety announces intention to enter NCAA transfer portal",
+      "Wisconsin Badgers legacy enters the transfer portal - Sports Illustrated",
+      "Former four-star Wisconsin Badgers receiver enters the transfer portal - Sports Illustrated",
+      "Gophers WR who was top recruit in '23 class enters transfer portal - Sports Illustrated",
+      "Former 4-star quarterback is leaving the Gophers in the transfer portal - Sports Illustrated"
     ],
-    "url": "https://www.espn.com/nba/story/_/id/47207959/tyrese-maxey-amazing-block-seals-76ers-win-warriors",
-    "alternate_urls": [],
-    "location_scope": "national",
-    "link": "https://www.espn.com/nba/story/_/id/47207959/tyrese-maxey-amazing-block-seals-76ers-win-warriors",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.939,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.695,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Tyrese Maxey blocked De’Anthony Melton’s shot in the final seconds, securing the Philadelphia 76ers’ 99-98 victory over the Golden State Warriors on Thursday night. Earlier, 76ers guard V.J. Edgecomb scored on a putback, helping Philadelphia maintain their lead in the closing moments.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Red Sox get pitcher Johan Oviedo from Pirates in trade",
-    "domain": "sports",
-    "source_domain": "espn.com",
-    "location": "national",
-    "published": "Fri, 5 Dec 2025 02:56:51 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Sportsnet"
-    ],
-    "domains": [
-      "espn.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "The Red Sox acquired right-hander Johan Oviedo from the Pirates in a five-player trade that sent outfield prospect Jhostynxon Garcia, also known as \"The Password,\" to Pittsburgh.",
-      "The Boston Red Sox added more depth to their rotation."
-    ],
-    "image_url": "",
-    "titles": [
-      "Pirates send Oviedo to Red Sox in 5-player deal",
-      "Red Sox acquire RHP Johan Oviedo from Pirates in five-player trade"
-    ],
-    "url": "https://www.espn.com/mlb/story/_/id/47205963/pirates-send-johan-oviedo-red-sox-five-player-trade",
-    "alternate_urls": [],
-    "location_scope": "national",
-    "link": "https://www.espn.com/mlb/story/_/id/47205963/pirates-send-johan-oviedo-red-sox-five-player-trade",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.939,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.695,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "The Boston Red Sox have acquired right-handed pitcher Johan Oviedo from the Pittsburgh Pirates in a five-player trade. As part of the deal, outfield prospect Jhostynxon Garcia, known as \"The Password,\" was sent to Pittsburgh. The trade aims to strengthen the Red Sox's pitching rotation.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Wolverines move to top spot after big Feast Week wins",
-    "domain": "sports",
-    "source_domain": "espn.com",
-    "location": "national",
-    "published": "Fri, 5 Dec 2025 02:56:51 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Sportsnet"
-    ],
-    "domains": [
-      "espn.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "The Wolverines had perhaps the best Feast Week to take them over Arizona and Purdue in a roller-coaster No. 1 race.",
-      "It sure feels like, season after season, you peek at the list of best goalies in the league and wonder if you’ve accidently inhaled some blue paint fumes. We examine the wild goaltending landscape in this week’s power rankings."
-    ],
-    "image_url": "",
-    "titles": [
-      "📈 Men's hoops Power Rankings: Wolverines feast",
-      "NHL Power Rankings: Evaluating the goaltenders"
-    ],
-    "url": "https://www.espn.com/mens-college-basketball/story/_/id/47191590/mens-college-basketball-power-rankings-top-25-michigan-no-1",
-    "alternate_urls": [],
-    "location_scope": "national",
-    "link": "https://www.espn.com/mens-college-basketball/story/_/id/47191590/mens-college-basketball-power-rankings-top-25-michigan-no-1",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.939,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.695,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "The Wolverines had a strong performance during Feast Week, surpassing Arizona and Purdue in the race for the No. 1 ranking. Separately, this week’s power rankings highlight significant changes among the league’s top goaltenders, reflecting a dynamic and unpredictable goaltending landscape.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Study links old volcano eruption to start of Black Death in Europe",
-    "domain": "science",
-    "source_domain": "dw.com",
-    "location": "global",
-    "published": "2025-12-04T16:28:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "Deutsche Welle",
-      "New Scientist",
-      "Live Science",
-      "SciTechDaily"
-    ],
-    "domains": [
-      "dw.com",
-      "newscientist.com",
-      "livescience.com",
-      "scitechdaily.com"
-    ],
-    "snippets": [
-      "Though its route through Central Asia remains elusive, two German researchers believe they have discovered how — and why — the plague made it to Medieval Europe.",
-      "Climate data and historical accounts suggest that crop failures in the 1340s prompted Italian officials to import grain from eastern Europe, and this may have carried in the plague bacterium",
-      "A volcanic eruption in 1345 may have kicked off a series of events that led to the Black Death sweeping through medieval Europe.",
-      "New research suggests that volcanic eruptions may have triggered climate cooling and famine that pushed Italian city-states to import grain from the Black Sea—unknowingly bringing plague-infected fleas with it. Volcanic Cooling and the Conditions for a Medieval Pandemic Research published today (Dec"
-    ],
-    "image_url": "",
-    "titles": [
-      "Unknown volcano eruption claimed as cause of Black Death",
-      "Volcano eruption may have led to the Black Death coming to Europe",
-      "Volcanic eruption triggered 'butterfly effect' that led to the Black Death, researchers find",
-      "A Forgotten Eruption Could Rewrite the Black Death Origin Story"
-    ],
-    "url": "https://www.dw.com/en/unknown-volcano-eruption-claimed-as-cause-of-black-death/a-75021225?maca=en-rss-en-top-1022-rdf",
+    "url": "https://sports.yahoo.com/articles/wisconsin-safety-announces-intention-enter-134951925.html",
     "alternate_urls": [
-      "https://www.newscientist.com/article/2507050-volcano-eruption-may-have-led-to-the-black-death-coming-to-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "https://www.livescience.com/planet-earth/volcanic-eruption-triggered-butterfly-effect-that-led-to-the-black-death-researchers-find",
-      "https://scitechdaily.com/a-forgotten-eruption-could-rewrite-the-black-death-origin-story/"
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUw4dk9ONV9FUEdqUTJpQXNtOUpUQ1Q4c2pWZno0Y3VXZEtURUs1UjdILVlKaklaUXFJbW9LV2ZMREY1RGFpU0NFRVl0RURPNU8tR1RPU0pwWFl3TVhUenBRYWd0YlRrMFJrZk9jbHFuZjlnXzBraFphQkRIbWRKdEJsZWxqLVN5Z3ZMcFdwZmRXeVQ3b25HRzVYUFhpdw?oc=5",
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTlUZnBWMDZva0NJS240WXhhV1RKcWowMDBNMTZrc1NUSExxZURmVWlHNk9xV3hMdy14UWtuZXkzUUV3ckttUVpkYlJBdHBBVTVORi1yNzhnbXQ3Ri1DcWVocU1vRnk1SFAwOGx2TFg2MHhCREJJeTFUYXRIT0l3OWNKcmFTbll0NjhTN0cyZWs4alh2cklYT3h6WFB6bVVmSTRrQ3YweFIwai1MVVMwRE0xWmIxQzg?oc=5",
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeExUS0JaeERuX2pIb2djQkpTUXJNako2MkJvekFKdlg5S0F1d2pqYTlzajZIcjUyQS1wekFUVmFpaHhBNFBOV2kxV0hXOVJNYlAwTno4LU1vVF9MSHdMdnVIcm1FcTJfelR4ZVFqUmxQT0U3S0xlZ1BBU3E5XzNHdXZZOWVPTHNkRnhoX0lNR3dOYncwT01BcTBJTHptTENlck5XSmx6ZGc1OGFESjF0TkZUMkE0Z3M?oc=5",
+      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb09KX2RraExkZFg3TkM0aG9LSi14V3ZGQmtWRVYxRk41WGtNOWdoQmlmNG5aRFBfenFhaUZjMGYxckcxUjBTY2VCbHhBVGdHMUVwRUVCTFl1ejlJVHhiZEdNV2FGdGlXQ0l1UXZYOUhSWG5wVDlRMHZ2YXFoRWpBVjEwZm9FZC1VY0psMVAxRFE4ZzZlYjJkYWZDTHBld0h0NmR5dnNzTHE3bjN3X00tbk1HYjJfeVpqdV9qUjNhMThBVlE?oc=5"
     ],
-    "location_scope": "global",
-    "link": "https://www.dw.com/en/unknown-volcano-eruption-claimed-as-cause-of-black-death/a-75021225?maca=en-rss-en-top-1022-rdf",
+    "location_scope": "national",
+    "link": "https://sports.yahoo.com/articles/wisconsin-safety-announces-intention-enter-134951925.html",
     "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.611,
-      "consensus": 0.908,
+      "magnitude": 0.735,
+      "recency": 0.987,
+      "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.689,
+    "score": 0.685,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "New research published on December 4, 2025, suggests that a volcanic eruption in 1345 triggered climate cooling and crop failures across Europe. This led Italian city-states to import grain from the Black Sea region, which may have introduced plague-infected fleas and caused the Black Death outbreak in medieval Europe. The findings are based on climate data and historical records.",
+    "summary": "Several college football players have entered the NCAA transfer portal, including Wisconsin safety Remington Moss, a former four-star Wisconsin Badgers receiver, a former four-star quarterback from the Minnesota Gophers, and a Gophers wide receiver who was a top recruit in the 2023 class. Their future team destinations have not been announced.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Lakers win over Raptors with last second shot",
+    "title": "World Cup teams for 2026 will be chosen on Friday",
     "domain": "sports",
-    "source_domain": "globalnews.ca",
+    "source_domain": "cbssports.com",
     "location": "national",
-    "published": "Fri, 05 Dec 2025 03:14:28 +0000",
-    "source": "Global News",
+    "published": "Fri, 05 Dec 2025 13:32:10 +0000",
+    "source": "CBS Sports",
     "sources": [
-      "Global News",
-      "Sportsnet"
+      "CBS Sports",
+      "Yahoo Sports"
     ],
     "domains": [
-      "globalnews.ca",
-      "sportsnet.ca"
+      "cbssports.com",
+      "sports.yahoo.com"
     ],
     "snippets": [
-      "Austin Reaves scored 44 points and Rui Hachimura hit a buzzer-beating three-pointer as the Los Angeles Lakers beat the Toronto Raptors 123-120 on Thursday.",
-      "Austin Reaves was unstoppable with 44 points and 10 assists, Rui Hachimura knocked down the game-winner at the buzzer, and the Los Angeles Lakers topped the Toronto Raptors 123-120.",
-      "Lauri Markkannen dropped a game-high 30 points, Keyonte George added 29 with 10 assists, and the Utah Jazz handled the Brooklyn Nets 123-110.",
-      "Derrick White posts 30 points, 7 rebounds, and 9 assists, while Peyton Pritchard adds 20 points as the Boston Celtics blow out the Washington Wizards 149–101.",
-      "Rudy Gobert posted a double-double with 15 points and 12 rebounds, while Julius Randle added 28 points, as the Minnesota Timberwolves defeated the New Orleans Pelicans 125-116.",
-      "Tyrese Maxey poured in 35 points and VJ Edgecombe came up with a clutch go-ahead basket as the Philadelphia 76ers delivered a 99-98 comeback win over the Golden State Warriors."
+      "The 2026 FIFA World Cup draw will take place on Friday in Washington D.C.",
+      "The 2026 FIFA World Cup, set to expand to 48 teams for the first time in the tournament's history, promises to be the biggest of its kind.",
+      "Is World Cup draw 2026 on radio? Details on how to listen and the Sirius XM channel you need to follow the ceremony."
     ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/12/001ed0632fef7638274254a4790b036d1e1a726e824cc7cf765c10f190f88be0.jpg?quality=65&strip=all",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/12/05/504ac420-63e5-436d-a8a6-8675849c484f/untitled-design-2025-12-05t142345-378.png",
     "titles": [
-      "Hachimura’s three lifts Lakers over Raptors",
-      "NBA Highlights: Lakers 123, Raptors 120",
-      "NBA Highlights: Jazz 123, Nets 110",
-      "NBA Highlights: Celtics 149, Wizards 101",
-      "NBA Highlights: Timberwolves 125, Pelicans 116",
-      "NBA Highlights: 76ers 99, Warriors 98"
+      "FIFA World Cup Draw 2026: Live stream, what to know, pots, qualified teams, start time, TV channel",
+      "What time is World Cup 2026 draw? Live stream, TV channel, expected start time for FIFA ceremony",
+      "World Cup 2026 draw radio station: How to listen to ceremony, channel and live stream"
     ],
-    "url": "https://globalnews.ca/news/11560627/hachimuras-three-lifts-lakers-over-raptors/",
-    "alternate_urls": [],
+    "url": "https://www.cbssports.com/soccer/news/fifa-world-cup-draw-2026-live-stream-qualified-teams-pots-tv/",
+    "alternate_urls": [
+      "https://sports.yahoo.com/articles/time-world-cup-2026-draw-100002145.html",
+      "https://sports.yahoo.com/articles/world-cup-2026-draw-radio-140002018.html"
+    ],
     "location_scope": "national",
-    "link": "https://globalnews.ca/news/11560627/hachimuras-three-lifts-lakers-over-raptors/",
+    "link": "https://www.cbssports.com/soccer/news/fifa-world-cup-draw-2026-live-stream-qualified-teams-pots-tv/",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.824,
+      "recency": 0.979,
       "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 1.0
+      "constructiveness": 0.03,
+      "proximity": 0.5
     },
-    "score": 0.686,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "score": 0.685,
+    "constructiveness_score": 0.03,
+    "constructiveness_reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Austin Reaves scored 44 points and Rui Hachimura hit a buzzer-beating three-pointer to lead the Los Angeles Lakers to a 123-120 win over the Toronto Raptors. The Utah Jazz beat the Brooklyn Nets 123-110, led by Lauri Markkannen's 30 points. The Boston Celtics defeated the Washington Wizards 149-101. The Minnesota Timberwolves topped the New Orleans Pelicans 125-116. The Philadelphia 76ers edged the Golden State Warriors 99-98.",
+    "summary": "The draw for the 2026 FIFA World Cup will be held on Friday in Washington D.C. The tournament will feature 48 teams for the first time, making it the largest World Cup to date. Fans can listen to the draw live on radio, including coverage on Sirius XM.",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "Cloudflare outage affects many websites company works to fix issue",
+    "domain": "business",
+    "source_domain": "theguardian.com",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 13:43:29 GMT",
+    "source": "The Guardian",
+    "sources": [
+      "The Guardian",
+      "Forbes"
+    ],
+    "domains": [
+      "theguardian.com",
+      "forbes.com"
+    ],
+    "snippets": [
+      "Cloudflare reports it is investigating issues with Cloudflare Dashboard and related APIs Technical problems at internet infrastructure provider Cloudflare today have taken a host of websites offline this morning. Cloudflare said shortly after 9am UK time that it “is investigating issues with Cloudfl",
+      "Cloudflare said the outage was caused by a change made to how the platform’s firewall worked."
+    ],
+    "image_url": "https://i.guim.co.uk/img/media/f11c500caeb6f5871ee44741e6a134786df63b97/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c570de1bd58cee1cc002359ad4d8df34",
+    "titles": [
+      "Cloudflare outage hits major web services including X, LinkedIn and Zoom – business live",
+      "Cloudflare Slips In Premarket After Brief Outage Hits Zoom, LinkedIn And Fortnite"
+    ],
+    "url": "https://www.theguardian.com/business/live/2025/dec/05/uk-house-prices-affordability-stock-markets-us-inflation-ftse-pound-business-live-news-updates",
+    "alternate_urls": [
+      "https://www.forbes.com/sites/siladityaray/2025/12/05/cloudflare-slips-in-premarket-after-brief-outage-hits-zoom-linkedin-and-fortnite/"
+    ],
+    "location_scope": "global",
+    "link": "https://www.theguardian.com/business/live/2025/dec/05/uk-house-prices-affordability-stock-markets-us-inflation-ftse-pound-business-live-news-updates",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.984,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.684,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Cloudflare experienced technical issues on December 5, 2025, causing outages for multiple websites. The company reported that the disruption was due to a recent change in its platform’s firewall. Cloudflare is currently investigating the problem to restore normal service.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "US agency looks into Waymo robotaxis passing stopped school buses",
+    "domain": "business",
+    "source_domain": "theverge.com",
+    "location": "global",
+    "published": "2025-12-05T08:45:35-05:00",
+    "source": "The Verge",
+    "sources": [
+      "The Verge",
+      "TechCrunch"
+    ],
+    "domains": [
+      "theverge.com",
+      "techcrunch.com"
+    ],
+    "snippets": [
+      "The National Highway Traffic Safety Administration has opened an investigation into Waymo following reports that the company’s robotaxis illegally drove past stopped school buses in Austin, Texas. In a letter sent to Waymo on Wednesday, the federal regulator’s Office of Defects Investigation asked f",
+      "The agency already opened an investigation in October over Waymo's performance around school buses. Waymo said it issued a software update to its fleet to improve performance."
+    ],
+    "image_url": "",
+    "titles": [
+      "Waymo&#8217;s robotaxis are under investigation for passing stopped school buses",
+      "Feds ask Waymo about robotaxis repeatedly passing school buses in Austin"
+    ],
+    "url": "https://www.theverge.com/news/838879/waymo-school-buses-probe",
+    "alternate_urls": [
+      "https://techcrunch.com/2025/12/04/feds-ask-waymo-about-robotaxis-repeatedly-passing-school-buses-in-austin/"
+    ],
+    "location_scope": "global",
+    "link": "https://www.theverge.com/news/838879/waymo-school-buses-probe",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.985,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.684,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The National Highway Traffic Safety Administration has launched an investigation into Waymo after reports that its robotaxis drove past stopped school buses in Austin, Texas. The agency’s Office of Defects Investigation requested more information from Waymo. Waymo stated it has issued a software update to address the issue. The investigation is ongoing.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "FBI arrests man for planting pipe bombs in Washington",
+    "domain": "general",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 09:45:36 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "CBC News"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "cbc.ca"
+    ],
+    "snippets": [
+      "Cole, a resident of Woodbridge, Virginia, was identified following a long investigation.",
+      "The FBI arrested a 30-year-old Virginia man and charged him on Thursday with planting a pair of pipe bombs in Washington the night before the Jan. 6, 2021, assault on the U.S. Capitol, capping a years-long investigation that gave rise to numerous conspiracy theories."
+    ],
+    "image_url": "",
+    "titles": [
+      "Who is Brian Cole, arrested for planting pipe bombs in Washington in 2021?",
+      "FBI arrest Virginia man accused of planting pipe bombs in Washington in 2021"
+    ],
+    "url": "https://www.aljazeera.com/news/2025/12/5/who-is-brian-cole-arrested-for-planting-pipe-bombs-in-washington-in-2021?traffic_source=rss",
+    "alternate_urls": [
+      "https://www.cbc.ca/news/world/us-2021-pipe-bomb-republican-democratic-9.7002676?cmp=rss"
+    ],
+    "location_scope": "global",
+    "link": "https://www.aljazeera.com/news/2025/12/5/who-is-brian-cole-arrested-for-planting-pipe-bombs-in-washington-in-2021?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.882,
+      "consensus": 0.591,
+      "constructiveness": 0.3,
+      "proximity": 0.5
+    },
+    "score": 0.683,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story seems to focus on a specific individual's criminal activity, which provides basic awareness but may not offer much in terms of broader understanding or actionable insights. Without more information, it's unclear if it provides context about broader trends or systems.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The FBI has arrested a 30-year-old Virginia man, Cole of Woodbridge, and charged him with planting two pipe bombs in Washington, D.C., on the night before the January 6, 2021, U.S. Capitol attack. The arrest follows a lengthy investigation that had previously fueled various conspiracy theories.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "US plans to add more countries to travel ban list",
+    "domain": "general",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 02:00:58 GMT",
+    "source": "Reuters",
+    "sources": [
+      "Reuters",
+      "The Guardian"
+    ],
+    "domains": [
+      "news.google.com",
+      "theguardian.com"
+    ],
+    "snippets": [
+      "US widens travel ban to more than 30 countries, Noem says Reuters",
+      "Kristi Noem said the list of countries from which travel to the US is prohibited will increase to an unspecified number US politics live – latest updates The US plans to expand the number of countries covered by its travel ban to more than 30, the secretary of the Department of Homeland Security (DH"
+    ],
+    "image_url": "",
+    "titles": [
+      "US widens travel ban to more than 30 countries, Noem says - Reuters",
+      "Homeland security head reveals plans to widen US travel ban to more than 30 countries"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGwtNkViVjBxWlJPU1IwX092M0hTd0tRY2JzQmpZZVU1cWMxdjdyam1Bb0JKdVMtWlJyR3Y5ano1RF9TUjBCQnpmb3VNVFp5NVN5cUdTUW56d0JZWGpyY01vV1dFOThxdVVVM2djR1hIZ2NzdlEwYnFBZkJoZkp4a0tIVERnMnN1QnJ5dlJxTXpUSy1wMTJwYzZ6cjhtODNmOVM3djJhYUdXQQ?oc=5",
+    "alternate_urls": [
+      "https://www.theguardian.com/us-news/2025/dec/05/kristi-noem-travel-ban"
+    ],
+    "location_scope": "global",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGwtNkViVjBxWlJPU1IwX092M0hTd0tRY2JzQmpZZVU1cWMxdjdyam1Bb0JKdVMtWlJyR3Y5ano1RF9TUjBCQnpmb3VNVFp5NVN5cUdTUW56d0JZWGpyY01vV1dFOThxdVVVM2djR1hIZ2NzdlEwYnFBZkJoZkp4a0tIVERnMnN1QnJ5dlJxTXpUSy1wMTJwYzZ6cjhtODNmOVM3djJhYUdXQQ?oc=5",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.711,
+      "consensus": 0.591,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.662,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story provides useful information about the travel ban which can impact the reader's decision-making about travel. However, it does not provide any insights into solutions or progress.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The US government plans to expand its travel ban to include more than 30 countries, according to statements from Department of Homeland Security officials and Kristi Noem. The specific countries affected have not been disclosed. The policy aims to further restrict entry into the US, but no timeline for implementation has been provided.",
     "is_trending": false,
     "trending_score": 0.0
   },
@@ -1453,271 +1633,72 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDZVQ2ZwOTVUOFlRUkVXY0dISzhlYzlScDhRV0hlY3lKYUdGTWN5Nk1kaW0xMExGd1ZxemE2ZnZCbWxJTWlvVlJxazhURkE5YzRiczA0RUlyNDQzTFJYOVVVQ1lPbUJpRWg4QXlJOGhCODViODRqb1JsOTZVY3pKWlZUYkNZTk5UMDNGZlRLWUFjeUk3Rkx4VERCczRmMy02TlV0S3R2RlNiZGl1N3IwcVB1anU3SUpCYnA1SUIxc2lPeW8?oc=5",
     "score_components": {
       "magnitude": 0.775,
-      "recency": 0.934,
+      "recency": 0.834,
       "consensus": 0.571,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.677,
+    "score": 0.647,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Taiwan has banned China's RedNote app for one year, citing concerns about fraud. The ban has drawn criticism from Taiwan's opposition, which claims the move amounts to censorship. The decision reflects ongoing tensions between Taiwan and China over technology and security issues.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "SoFi to sell more stock after shares rise this year",
-    "domain": "business",
-    "source_domain": "cnbc.com",
-    "location": "national",
-    "published": "Thu, 04 Dec 2025 23:05:50 GMT",
-    "source": "CNBC",
+    "title": "Playwright Jeremy O Harris arrested in Japan for drug suspicion",
+    "domain": "general",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Fri, 05 Dec 2025 01:02:00 GMT",
+    "source": "Reuters",
     "sources": [
-      "CNBC",
-      "Bloomberg",
-      "MarketWatch"
+      "Reuters",
+      "The Guardian"
     ],
     "domains": [
-      "cnbc.com",
       "news.google.com",
-      "marketwatch.com"
+      "theguardian.com"
     ],
     "snippets": [
-      "SoFi said it's selling $1.5 billion in stock after the company's market cap almost doubled this year.",
-      "SoFi Technologies Seeks to Raise $1.5 Billion in Share Sale Bloomberg.com",
-      "Shares of SoFi Technologies Inc. sank more than 6% in after-hours trading Thursday, after the fintech company announced plans for a $1.5 billion stock offering."
+      "American playwright Jeremy O. Harris arrested in Japan on alleged drug smuggling Reuters",
+      "The writer of the Tony award-nominated Slave Play remains in custody after authorities say they found MDMA in his bag American actor and playwright Jeremy O Harris, known for the Tony-nominated Slave Play, was arrested last month at an airport in Japan on suspicion of attempting to smuggle illegal d"
     ],
     "image_url": "",
     "titles": [
-      "SoFi's stock drops on $1.5 billion share sale announcement",
-      "SoFi Technologies Seeks to Raise $1.5 Billion in Share Sale - Bloomberg.com",
-      "SoFi’s red-hot stock drops after plan to raise $1.5 billion in stock offering"
+      "American playwright Jeremy O. Harris arrested in Japan on alleged drug smuggling - Reuters",
+      "Playwright Jeremy O Harris arrested in Japan for alleged drug smuggling"
     ],
-    "url": "https://www.cnbc.com/2025/12/04/sofi-stock-drops-on-1point5-billion-stock-offering.html",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmRNcVk4ZWxWV1VKRTdvUV91bUhLMHh1anBSRjBoQXhyY3lUZnNzT3EyMWFjMTB5ZUN2X1dVTkxnQWppQVlqbEUta2VNRVU3a3NLREk3TC1EdFdrV2M0REpKOHRrTHNiV3VJZHItV1ZsUkczNmxjT3JIS0Jma3FVUXhrREdqUlJhZ0txdk9faXI0M2NNdWV5M0EtXzRLSDl3QzIyWU5vYkVKTEdNa05rOEFTMk44bVNqaV9GbWtvdWVpV25wVXlZ?oc=5",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmIwZEJnVjgyUHlyNlQzS053ZWE5TzJaS1BjN3hjLVR1MVdTMFlra0lKaWRiM3hNTnZOZFoyc3BLeUFDeXNRZ05fWHI0ZG5zeUxDcXZwMlRIbFUyc1A4c24tMzVXU3J4WDJTZFFHWWU0V2t1N2VJdEdSVEJXZkJ4ckdMc0RScHhtTkdpQmhXVUlOUWNSV1ZzNTh0ZE9mQ2MyZUw4R09TR1lJMWVsbWc?oc=5",
-      "https://www.marketwatch.com/story/sofis-red-hot-stock-drops-after-plan-to-raise-1-5-billion-in-stock-offering-71f256aa?mod=mw_rss_topstories"
-    ],
-    "location_scope": "national",
-    "link": "https://www.cnbc.com/2025/12/04/sofi-stock-drops-on-1point5-billion-stock-offering.html",
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.734,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.676,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "SoFi Technologies announced a $1.5 billion stock offering after its market capitalization nearly doubled this year. Following the announcement, SoFi shares fell over 6% in after-hours trading. The company aims to raise additional capital through this share sale.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Netflix chosen to buy Warner Bros studio and streaming business",
-    "domain": "business",
-    "source_domain": "theverge.com",
-    "location": "global",
-    "published": "2025-12-05T03:39:02-05:00",
-    "source": "The Verge",
-    "sources": [
-      "The Verge",
-      "MarketWatch"
-    ],
-    "domains": [
-      "theverge.com",
-      "marketwatch.com"
-    ],
-    "snippets": [
-      "Netflix is poised to purchase Warner Bros.’ studio and streaming business after being selected as the winner of the bidding war for the media giant. The two companies will now move forward into exclusive deal talks, TheWrap reports, likely including a $5 billion break-up fee in case regulators block",
-      "Paramount Skydance had been considered the front-runner in the bidding war for Warner Bros. Discovery, but signaled on Thursday that it felt it was losing to Netflix in a process it deemed unfair."
-    ],
-    "image_url": "",
-    "titles": [
-      "Netflix wins the bidding war for Warner Bros.",
-      "Even Paramount now thinks Netflix is winning the bidding war for Warner Bros. Discovery"
-    ],
-    "url": "https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout",
-    "alternate_urls": [
-      "https://www.marketwatch.com/story/even-paramount-now-thinks-netflix-is-winning-the-bidding-war-for-warner-bros-discovery-916afac0?mod=mw_rss_topstories"
+      "https://www.theguardian.com/stage/2025/dec/05/jeremy-o-harris-arrested-japan"
     ],
     "location_scope": "global",
-    "link": "https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmRNcVk4ZWxWV1VKRTdvUV91bUhLMHh1anBSRjBoQXhyY3lUZnNzT3EyMWFjMTB5ZUN2X1dVTkxnQWppQVlqbEUta2VNRVU3a3NLREk3TC1EdFdrV2M0REpKOHRrTHNiV3VJZHItV1ZsUkczNmxjT3JIS0Jma3FVUXhrREdqUlJhZ0txdk9faXI0M2NNdWV5M0EtXzRLSDl3QzIyWU5vYkVKTEdNa05rOEFTMk44bVNqaV9GbWtvdWVpV25wVXlZ?oc=5",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.957,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.676,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Netflix has been selected as the winning bidder to purchase Warner Bros.’ studio and streaming business, moving ahead to exclusive deal negotiations. The agreement is expected to include a $5 billion break-up fee if regulators block the deal. Paramount Skydance, previously seen as the front-runner, indicated it was losing to Netflix and criticized the process as unfair.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Police find stolen diamond egg after suspect swallows it",
-    "domain": "general",
-    "source_domain": "dw.com",
-    "location": "global",
-    "published": "2025-12-05T01:59:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "Deutsche Welle",
-      "BBC"
-    ],
-    "domains": [
-      "dw.com",
-      "bbc.com"
-    ],
-    "snippets": [
-      "After six days of inspecting the suspect's bowel movements, New Zealand police recovered a stolen Faberge pendant that he had swallowed after being caught.",
-      "The man allegedly tried to steal the diamond-studded egg named after the James Bond film Octopussy."
-    ],
-    "image_url": "",
-    "titles": [
-      "Police recover Faberge egg swallowed by suspected thief",
-      "Police recover $19k Fabergé egg swallowed by NZ man"
-    ],
-    "url": "https://www.dw.com/en/police-recover-faberge-egg-swallowed-by-suspected-thief/a-75025623?maca=en-rss-en-top-1022-rdf",
-    "alternate_urls": [
-      "https://www.bbc.com/news/articles/cj4qedglzpwo?at_medium=RSS&at_campaign=rss"
-    ],
-    "location_scope": "global",
-    "link": "https://www.dw.com/en/police-recover-faberge-egg-swallowed-by-suspected-thief/a-75025623?maca=en-rss-en-top-1022-rdf",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.795,
+      "recency": 0.692,
       "consensus": 0.591,
       "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.657,
+    "score": 0.626,
     "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about the incident, but it doesn't provide any actionable insights or deeper understanding. It also doesn't report on solutions, improvements, or attempts to solve the problem.",
+    "constructiveness_reason": "The story offers basic awareness about the arrest of Jeremy O. Harris. However, it does not provide any deeper understanding or actionable insights for the reader.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "New Zealand police recovered a stolen Faberge pendant after six days by inspecting the suspect's bowel movements. The man had allegedly swallowed the diamond-studded egg, named after the James Bond film \"Octopussy,\" following his arrest. The pendant has now been retrieved.",
+    "summary": "American playwright Jeremy O. Harris, known for the Tony-nominated \"Slave Play,\" was arrested in Japan last month after authorities reportedly found MDMA in his bag at an airport. He remains in custody on suspicion of attempting to smuggle illegal drugs. The investigation is ongoing.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Court allows National Guard to stay longer in Washington DC",
-    "domain": "general",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Fri, 05 Dec 2025 00:56:28 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Reuters"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Court grants stay on previous order giving timeline for troop withdrawal as administration considers response.",
-      "Appeals court allows Trump National Guard deployment in DC to continue Reuters"
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump can keep National Guard in Washington, DC, for now: Appeals court",
-      "Appeals court allows Trump National Guard deployment in DC to continue - Reuters"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/5/trump-can-keep-national-guard-in-washington-dc-for-now-appeals-court?traffic_source=rss",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVngwOTRtUTVvb05wQWlhd09OVFhKakppdzdvTjFYMV9qS2VCRDZ4TFYzM2Zka1psaFhDWXdZT0w3LXgxbkVGXzNCb01kb1dIdEQ0RVRxbk9hZFc2ek80ejR5UlcyX21mdnFTTS1BUzdjVTBaU1ZyR1QwS0ZmLWxiSXNEZXJLZnNwZ2lKMXlUb1RqbmJpNVFuZ0RfeDNpa1JaNU1RazNxaE9sN091c3c?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/5/trump-can-keep-national-guard-in-washington-dc-for-now-appeals-court?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.773,
-      "consensus": 0.591,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.657,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about a current political and security issue, but it lacks depth or insight into the implications of the decision or the context surrounding it.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "An appeals court has granted a stay on a previous order that set a timeline for withdrawing National Guard troops from Washington, D.C. This decision allows the Trump administration's National Guard deployment in the city to continue while officials review their response. The case remains under consideration.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Jahmyr Gibbs scores three touchdowns as Lions beat Cowboys",
-    "domain": "sports",
-    "source_domain": "skysports.com",
-    "location": "global",
-    "published": "Fri, 05 Dec 2025 06:05:00 GMT",
-    "source": "Sky Sports",
-    "sources": [
-      "Sky Sports",
-      "Sportsnet"
-    ],
-    "domains": [
-      "skysports.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "Jahmyr Gibbs ran for three touchdowns as the Detroit Lions stayed in the playoff hunt with a much-needed 44-30 win over the Dallas Cowboys on Thursday night.",
-      "Highlights from the Week 14 matchup between the Dallas Cowboys and the Detroit Lions during the 2025 NFL season.",
-      "DETROIT — Jahmyr Gibbs and a defence that suddenly generated pressure and turnovers helped the Detroit Lions stay in contention for a playoff berth. Gibbs ran for three touchdowns, including a 13-yarder with 2:19 left that sealed the Lions’ much-needed 44-30 win over the Dallas Cowboys on Thursday night. The Lions sacked Dak Prescott five times — a week after they had no sacks and lost to Green Bay — and had two interceptions and recovered a fumble. “You could see an uptick in urgency from everybody,” Jared Goff said. The Lions (8-5) avoided losing consecutive games for the first time in more..."
-    ],
-    "image_url": "https://e2.365dm.com/25/12/1920x1080/skysports-jahmyr-gibbs-cowboys_7101431.jpg?20251205064306",
-    "titles": [
-      "Gibbs inspires Lions past Cowboys with hat-trick of touchdowns",
-      "Highlights: Cowboys @ Lions",
-      "Gibbs rushes for three touchdowns, Lions get much-needed win over Cowboys"
-    ],
-    "url": "https://www.skysports.com/nfl/news/12040/13479550/nfl-jahmyr-gibbs-hat-trick-inspires-detroit-lions-to-44-30-win-over-dallas-cowboys",
-    "alternate_urls": [
-      "https://www.skysports.com/watch/video/13479549/dallas-cowboys-detroit-lions-week-14-nfl-highlights"
-    ],
-    "location_scope": "global",
-    "link": "https://www.skysports.com/nfl/news/12040/13479550/nfl-jahmyr-gibbs-hat-trick-inspires-detroit-lions-to-44-30-win-over-dallas-cowboys",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.891,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.656,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Jahmyr Gibbs scored three rushing touchdowns as the Detroit Lions defeated the Dallas Cowboys 44-30 on Thursday night, improving their record to 8-5 in the 2025 NFL season. The Lions' defense contributed with five sacks, two interceptions, and a fumble recovery. The win keeps Detroit in the playoff hunt and prevents them from losing consecutive games.",
-    "is_trending": false,
-    "trending_score": 0.25
-  },
-  {
-    "title": "US signs pact with Kenya under 'America First' global health plan - Reuters",
+    "title": "United States and Kenya sign new health agreement",
     "domain": "general",
     "source_domain": "news.google.com",
     "location": "global",
@@ -1747,156 +1728,62 @@
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclBHejNSdGFUZno4LU1QeGFDWVdLSzV5QkIwUU1NcTcwYzhFYXBrUzhMN1B4U3VZOXNDeHB5dGw2MDl3Mnhwd2Fldkk4QnZLUDNnY3VYWHplS0JMZkN5WXlvMXNvZERQaVFoZ0VxdEVwNEhYMzE5MTlTN2p4WDVlTnBBSy10VmZJSWwyWVpjcnJ2Ym8xX21JLW1FN2pYSXhhOTdSVnVKWjdmVGFnOGNzdUllZlhhX3ZJcVRYS2FCb3Nfb0xoamw5QTN0NzJBTlgw?oc=5",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.656,
+      "recency": 0.585,
       "consensus": 0.571,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.641,
+    "score": 0.62,
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story informs about a new international agreement, potentially impacting health policies. However, without more details on the specifics of the pact or its implications, it falls short of providing empowering knowledge.",
     "constructiveness_source": "gpt",
-    "summary_source": "skipped",
-    "summary_reason": "skipped_due_to_budget",
-    "headline_source": "",
-    "summary": "",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The United States and Kenya have signed a new agreement as part of the US \"America First\" global health plan. This is the first in a series of anticipated health deals between the US and other countries. The pact aims to strengthen health cooperation between the two nations. No further details about specific initiatives or funding were provided.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "McDavid and Draisaitl lead way for Oilers",
-    "domain": "general",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Fri, 05 Dec 2025 10:01:57 +0000",
-    "source": "Global News",
-    "sources": [
-      "Global News"
-    ],
-    "domains": [
-      "globalnews.ca"
-    ],
-    "snippets": [
-      "It was the kind of offensive explosion that can shake a team out of its stupor.",
-      "Connor McDavid had three goals and an assist and Leon Draisaitl had a goal and three assists as the Edmonton Oilers' offence exploded to a 9-4 victory over the Seattle Kraken on Thursday."
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/12/fca653c01fb173f32eb3ffc4e700e30baa3b8442045d15f9927d9ef3b339bc4a.jpg?quality=65&strip=all",
-    "titles": [
-      "McDavid and Draisaitl lead way for Oilers",
-      "McDavid, Draisaitl lead way in Oilers’ rout"
-    ],
-    "url": "https://globalnews.ca/news/11560836/mcdavid-and-draisaitl-lead-way-for-oilers/",
-    "alternate_urls": [
-      "https://globalnews.ca/news/11560712/mcdavid-draisaitl-lead-way-in-oilers-rout/"
-    ],
-    "location_scope": "national",
-    "link": "https://globalnews.ca/news/11560836/mcdavid-and-draisaitl-lead-way-for-oilers/",
-    "score_components": {
-      "magnitude": 0.393,
-      "recency": 0.995,
-      "consensus": 0.35,
-      "constructiveness": 0.3,
-      "proximity": 1.0
-    },
-    "score": 0.616,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about a sports event, but it lacks depth or insight into the significance of the game or the performance of the players.",
-    "constructiveness_source": "gpt",
-    "summary_source": "skipped",
-    "summary_reason": "skipped_due_to_budget",
-    "headline_source": "",
-    "summary": "",
-    "is_trending": false,
-    "trending_score": 0.25
-  },
-  {
-    "title": "Geminids 2025: The year's best meteor shower is coming, with a second shower hot on its tail",
-    "domain": "science",
-    "source_domain": "livescience.com",
+    "title": "Stellantis Is in Default for Moving Jeep Production to U.S., Canada Says",
+    "domain": "business",
+    "source_domain": "nytimes.com",
     "location": "global",
-    "published": "Thu, 04 Dec 2025 19:49:59 +0000",
-    "source": "Live Science",
+    "published": "Fri, 05 Dec 2025 02:09:35 +0000",
+    "source": "New York Times",
     "sources": [
-      "Live Science",
-      "Wired"
+      "New York Times",
+      "Bloomberg"
     ],
     "domains": [
-      "livescience.com",
-      "wired.com"
+      "nytimes.com",
+      "news.google.com"
     ],
     "snippets": [
-      "The Geminid meteor shower has begun. The Geminids peak overnight on Dec. 13 and 14, when up to 150 \"shooting stars\" per hour will rain down on Earth in a moonless night sky.",
-      "The highlight of the year, the Geminids are the most active and colorful meteor shower, offering the chance to see hundreds of shooting stars every hour when they peak in mid-December."
+      "The automaker switched production from Ontario in a bid to please President Trump. But the company defaulted on contracts covering hundreds of millions of dollars in assistance, Canada said.",
+      "Stellantis to Get Canada Default Notice After Moving Jeep Line to US Bloomberg.com"
     ],
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ngdu4pdoTRkPFgEKreWAMX-1280-80.jpg",
+    "image_url": "https://static01.nyt.com/images/2025/12/04/multimedia/04int-canada-stellantis-chgf/04int-canada-stellantis-chgf-mediumSquareAt3X.jpg",
     "titles": [
-      "Geminids 2025: The year's best meteor shower is coming, with a second shower hot on its tail",
-      "The Best Meteor Shower of the Year Is Coming—Here’s How to Watch"
+      "Stellantis Is in Default for Moving Jeep Production to U.S., Canada Says",
+      "Stellantis to Get Canada Default Notice After Moving Jeep Line to US - Bloomberg.com"
     ],
-    "url": "https://www.livescience.com/space/meteoroids/geminids-2025-the-years-best-meteor-shower-is-coming-with-a-second-shower-hot-on-its-tail",
+    "url": "https://www.nytimes.com/2025/12/04/world/canada/lawsuit-stellantis-us-jeep-production.html",
     "alternate_urls": [
-      "https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/"
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWR4Z1pNUExyb1pEdjE4ZnkxdWhsMlA3Qmp1R2FMT1hnclU3VC05ME5XZnFDaHZoMzg3UDk3MkloSGk4WURRMl9jLUp4RUFFbDFnaDVvU0ctcUxMaGFVcXBZVnVyYThJVzdfaS1URUNJLTV1dlhJODlYMFFIeUM4RmdaVENXQk5yOUhtOG1IdWF3M2lXVEhfbEE2WWh6UlBBczE0cWdxLXdQTmNCY1VIQVpfVUs0a2s?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://www.livescience.com/space/meteoroids/geminids-2025-the-years-best-meteor-shower-is-coming-with-a-second-shower-hot-on-its-tail",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.67,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.596,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "skipped",
-    "summary_reason": "skipped_due_to_budget",
-    "headline_source": "",
-    "summary": "",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Vatican commission says 'no' to women as Catholic deacons - Reuters",
-    "domain": "science",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Thu, 04 Dec 2025 18:54:59 GMT",
-    "source": "Reuters",
-    "sources": [
-      "Reuters",
-      "New York Times"
-    ],
-    "domains": [
-      "news.google.com",
-      "nytimes.com"
-    ],
-    "snippets": [
-      "Vatican commission says 'no' to women as Catholic deacons Reuters",
-      "But a papal commission examining the question said further study was required, and advised that women should be given other leadership roles in the Catholic Church."
-    ],
-    "image_url": "",
-    "titles": [
-      "Vatican commission says 'no' to women as Catholic deacons - Reuters",
-      "After Years of Debate, Vatican Says No to Women Deacons, at Least for Now"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclphbUx3TEN1SFB3MngyaUd6b3I1WVhxS2N2WVZaUkQtN1AwY01YcnJPbEktMGRKMUdwUFp2bGtpd3FBNTd3V2lMelhWY0xuWkh4ekp4WGdJeEdrY0tITWZ5TVk0MjhLTmZfNEcxUThRZEFGZXhtaUtwUG9kTlk5aTJ6SXFQZ0JhbHBzMHRKT1dMaDRJM2IwcmJ4Ullkd0oteFRPY1pKcnlWRVZPeTFhUGk3UQ?oc=5",
-    "alternate_urls": [
-      "https://www.nytimes.com/2025/12/04/world/europe/vatican-pope-women-priests-deacons.html"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclphbUx3TEN1SFB3MngyaUd6b3I1WVhxS2N2WVZaUkQtN1AwY01YcnJPbEktMGRKMUdwUFp2bGtpd3FBNTd3V2lMelhWY0xuWkh4ekp4WGdJeEdrY0tITWZ5TVk0MjhLTmZfNEcxUThRZEFGZXhtaUtwUG9kTlk5aTJ6SXFQZ0JhbHBzMHRKT1dMaDRJM2IwcmJ4Ullkd0oteFRPY1pKcnlWRVZPeTFhUGk3UQ?oc=5",
+    "link": "https://www.nytimes.com/2025/12/04/world/canada/lawsuit-stellantis-us-jeep-production.html",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.654,
+      "recency": 0.714,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.585,
+    "score": 0.603,
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "skipped",
     "summary_reason": "skipped_due_to_budget",
@@ -1910,40 +1797,40 @@
     "domain": "science",
     "source_domain": "nasa.gov",
     "location": "global",
-    "published": "Thu, 04 Dec 2025 17:41 GMT",
-    "source": "NASA EO",
+    "published": "Thu, 04 Dec 2025 17:38:14 +0000",
+    "source": "NASA",
     "sources": [
-      "NASA EO",
-      "NASA"
+      "NASA",
+      "NASA EO"
     ],
     "domains": [
       "nasa.gov"
     ],
     "snippets": [
-      "Over the course of several hours, technicians meticulously connected the inner and outer segments of NASA’s Nancy Grace Roman Space Telescope.",
       "Two technicians look up at NASA’s Nancy Grace Roman Space Telescope after its inner and outer segments were connected at the agency’s Goddard Space Flight Center in Greenbelt, Maryland on Nov. 25, 2025. This marked the end of Roman’s construction. After final testing, the telescope will move to the",
-      "NASA’s next big eye on the cosmos is now fully assembled. On Nov. 25, technicians joined the inner and outer portions of the Nancy Grace Roman Space Telescope in the largest clean room at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. “Completing the Roman observatory brings us to"
+      "NASA’s next big eye on the cosmos is now fully assembled. On Nov. 25, technicians joined the inner and outer portions of the Nancy Grace Roman Space Telescope in the largest clean room at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. “Completing the Roman observatory brings us to",
+      "Over the course of several hours, technicians meticulously connected the inner and outer segments of NASA’s Nancy Grace Roman Space Telescope."
     ],
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/54963276156-ab4f24f068-o.jpg",
+    "image_url": "",
     "titles": [
       "NASA’s Nancy Grace Roman Space Telescope Completed",
       "NASA Completes Nancy Grace Roman Space Telescope Construction"
     ],
-    "url": "https://www.nasa.gov/image-detail/54963276156-ab4f24f068-o/",
+    "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-completed/",
     "alternate_urls": [
-      "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-completed/",
-      "https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-nancy-grace-roman-space-telescope-construction/"
+      "https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-nancy-grace-roman-space-telescope-construction/",
+      "https://www.nasa.gov/image-detail/54963276156-ab4f24f068-o/"
     ],
     "location_scope": "global",
-    "link": "https://www.nasa.gov/image-detail/54963276156-ab4f24f068-o/",
+    "link": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-completed/",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.632,
+      "recency": 0.563,
       "consensus": 0.571,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.574,
+    "score": 0.554,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
     "constructiveness_source": "heuristic",
@@ -1955,45 +1842,45 @@
     "trending_score": 0.0
   },
   {
-    "title": "Meta to cut up to 30% of metaverse budget, Bloomberg News reports - Reuters",
+    "title": "Volcano eruption may have led to the Black Death coming to Europe",
     "domain": "science",
-    "source_domain": "news.google.com",
+    "source_domain": "newscientist.com",
     "location": "global",
-    "published": "Thu, 04 Dec 2025 16:14:29 GMT",
-    "source": "Reuters",
+    "published": "Thu, 04 Dec 2025 16:00:04 +0000",
+    "source": "New Scientist",
     "sources": [
-      "Reuters",
-      "TechCrunch"
+      "New Scientist",
+      "Live Science"
     ],
     "domains": [
-      "news.google.com",
-      "techcrunch.com"
+      "newscientist.com",
+      "livescience.com"
     ],
     "snippets": [
-      "Meta to cut up to 30% of metaverse budget, Bloomberg News reports Reuters",
-      "The proposal reflects the overall lack of interest in products like Meta's social virtual reality platform, Horizon Worlds."
+      "Climate data and historical accounts suggest that crop failures in the 1340s prompted Italian officials to import grain from eastern Europe, and this may have carried in the plague bacterium",
+      "A volcanic eruption in 1345 may have kicked off a series of events that led to the Black Death sweeping through medieval Europe."
     ],
-    "image_url": "",
+    "image_url": "https://images.newscientist.com/wp-content/uploads/2025/12/04112723/SEI_276759198.jpg",
     "titles": [
-      "Meta to cut up to 30% of metaverse budget, Bloomberg News reports - Reuters",
-      "Meta reportedly plans to slash Metaverse budget by up to 30%"
+      "Volcano eruption may have led to the Black Death coming to Europe",
+      "Volcanic eruption triggered 'butterfly effect' that led to the Black Death, researchers find"
     ],
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWS1xVzBKcTZ6RjhDS3drZ3ZXajlfcVlxdWl2TmFTWmdvWGt2dDZpRG05bGJPeGRYZGNfS2tsQUkydE5QcElvZDNUTnEzN2dRWXM4d1Q1MHhlS2RRb014TkRqRVFneS0wSXRBeUxKZ0s3aXVHVU5uTUhlV0JvSlVLd3ZVTjNpUzV6RUZlRDUzNldsajN1YjE4Y3VhTkJnTjlTRU1MaDIwMVprdzUzTmQtVzByc2JaclNtYTBFanZR?oc=5",
+    "url": "https://www.newscientist.com/article/2507050-volcano-eruption-may-have-led-to-the-black-death-coming-to-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
     "alternate_urls": [
-      "https://techcrunch.com/2025/12/04/meta-reportedly-plans-to-slash-metaverse-budget-by-up-to-30/"
+      "https://www.livescience.com/planet-earth/volcanic-eruption-triggered-butterfly-effect-that-led-to-the-black-death-researchers-find"
     ],
     "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWS1xVzBKcTZ6RjhDS3drZ3ZXajlfcVlxdWl2TmFTWmdvWGt2dDZpRG05bGJPeGRYZGNfS2tsQUkydE5QcElvZDNUTnEzN2dRWXM4d1Q1MHhlS2RRb014TkRqRVFneS0wSXRBeUxKZ0s3aXVHVU5uTUhlV0JvSlVLd3ZVTjNpUzV6RUZlRDUzNldsajN1YjE4Y3VhTkJnTjlTRU1MaDIwMVprdzUzTmQtVzByc2JaclNtYTBFanZR?oc=5",
+    "link": "https://www.newscientist.com/article/2507050-volcano-eruption-may-have-led-to-the-black-death-coming-to-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.607,
+      "recency": 0.538,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.571,
+    "score": 0.55,
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_reason": "speculative_penalty=0.03 (tokens: may); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "skipped",
     "summary_reason": "skipped_due_to_budget",
@@ -2032,12 +1919,12 @@
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYWo5UTdIRU5nV2M1NmtXMlFVXzdpVWpoOWxRVjVRLUQ2c3ZuRHc3MFRVampVSlRmaGJyZkt5Q2NuZlZfYjRRZGZtelRId1NmOUkycFQwcHVBYml2NVh2WDdYTmoxclFWNkRmZmVJcXd6Q0g2X3JoRzMtYXBZeENaNlQxaHhGbHQ1Q1VaX2Vn?oc=5",
     "score_components": {
       "magnitude": 0.373,
-      "recency": 0.662,
+      "recency": 0.591,
       "consensus": 0.35,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.43,
+    "score": 0.409,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
     "constructiveness_source": "heuristic",

@@ -1,8 +1,8 @@
 {
-  "fetched": 2163,
-  "filtered": 1000,
-  "clustered": 79,
-  "scored": 39,
+  "fetched": 2170,
+  "filtered": 997,
+  "clustered": 78,
+  "scored": 36,
   "feeds": {
     "feeds_total": 51,
     "url_normalized": 11,
@@ -17,46 +17,49 @@
       "english.alarabiya.net": 1,
       "feeds.reuters.com": 1,
       "www.investopedia.com": 1,
-      "www.nature.com": 1,
       "www.theglobeandmail.com": 1,
-      "rss.sciam.com": 1
+      "rss.sciam.com": 1,
+      "www.nature.com": 1
     }
   },
   "cache_metrics": {
     "summary": {
-      "load_ms": 30,
-      "miss": 32,
-      "stale_or_invalid": 11
+      "load_ms": 26,
+      "stale_or_invalid": 24,
+      "miss": 31,
+      "hit": 1
     },
     "constructiveness": {
-      "miss": 51,
-      "hit": 6
+      "miss": 39,
+      "hit": 9
     },
     "headline": {
-      "miss": 32
+      "miss": 31,
+      "hit": 1
     }
   },
   "headline_metrics": {
-    "total": 39,
+    "total": 36,
     "missing": 0,
     "source_counts": {
-      "gpt": 32,
-      "": 7
+      "gpt": 31,
+      "cache": 1,
+      "": 4
     },
     "length": {
-      "avg": 58.92,
-      "median": 59,
-      "max": 92,
-      "over_limit": 3
+      "avg": 57.56,
+      "median": 57.0,
+      "max": 72,
+      "over_limit": 1
     },
     "uniqueness": {
-      "unique_titles": 39,
-      "duplicate_groups": 0,
-      "repeated_titles": 0,
-      "deduped_ratio": 1.0
+      "unique_titles": 35,
+      "duplicate_groups": 1,
+      "repeated_titles": 1,
+      "deduped_ratio": 0.972
     },
     "punctuation_flags": {
-      "contains_separator": 5
+      "contains_separator": 1
     }
   }
 }

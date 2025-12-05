@@ -7038,5 +7038,140 @@
     "score": 0.6,
     "reason": "This story informs about a new international agreement, potentially impacting health policies. However, without more details on the specifics of the pact or its implications, it falls short of providing empowering knowledge.",
     "source": "gpt"
+  },
+  "8d1a11a1c321a255fb799114019d77e8": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7f9a79ce172f8ee135d74d6b8e659336": {
+    "score": 0.03,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c4ec07c420f5419b396011ae51b1013c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f172c4c6ca29d7b72c84b435c80b2d7d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "973de5be91300f7b73a7fc857a00769f": {
+    "score": 0.03,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b5e8d39f03e56a7fda49b22f2a27c5cd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "43256c0e3277fb1fe2ab13f0467442e3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "4c19596680117fab4df2d93fc4c577d7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b3174b7927198e12b70bc23b521a6f0a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4272cd009ed41f45870c0bcc9a925be1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8f51ce8388780a41deffe78a7970ce9b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a0910a8011436bfdde101690b1cb8b1e": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: may); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "01269e8ce8147767eab74cbb1baa1606": {
+    "score": 0.6,
+    "reason": "This story provides useful information and context about the Jan. 6 pipe bomb suspect, which could contribute to the readers' understanding of the event. However, without more details, it's hard to assess if it offers solutions or highlights progress.",
+    "source": "gpt"
+  },
+  "ee27c35ccd09286e674603013f090b52": {
+    "score": 0.8,
+    "reason": "This story informs readers about a significant development in the US political landscape, which could affect their decision-making in future elections. It also provides context about the role of the Supreme Court in electoral matters.",
+    "source": "gpt"
+  },
+  "b523a22e650e4976672e3e92c3f6654f": {
+    "score": 0.9,
+    "reason": "This story clearly highlights progress in the form of a peace deal between Congo and Rwanda. It provides empowering knowledge about international diplomacy and conflict resolution.",
+    "source": "gpt"
+  },
+  "007f7cf6b29c2ccc987e7c5896e154fe": {
+    "score": 0.6,
+    "reason": "This story is constructive as it helps the reader understand the political dynamics between different countries and the importance of unity in dealing with global issues. However, it lacks actionable insights or a clear report on solutions.",
+    "source": "gpt"
+  },
+  "a458434075c1bda915937985551fe7e7": {
+    "score": 0.7,
+    "reason": "The story provides useful information about the geopolitical relations between Russia and India, and their discussions on trade and peace. However, it doesn't offer a deep understanding of the implications of these discussions or the specific solutions being proposed.",
+    "source": "gpt"
+  },
+  "68674a8f91d94ab345d156e3876173cd": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the political implications of the meeting between Modi and Putin. However, it lacks depth and doesn't provide actionable insights or a clear report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "794f08ee88ac7f37652fdf2a7fd54047": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a geopolitical event, but it does not provide much depth or insight into the implications or reasons behind this decision.",
+    "source": "gpt"
+  },
+  "e909d24300b97e32d2b2203923076cc8": {
+    "score": 0.3,
+    "reason": "This story reports on an event, but it does not provide any actionable insights or deeper understanding. It does not report on solutions or improvements, and it does not increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "cd5ef189be0e0b6347054f9ee23b36be": {
+    "score": 0.6,
+    "reason": "This story provides information about a current event and the controversy surrounding it, which could help readers understand the political and cultural dynamics involved. However, it does not provide solutions or actionable insights.",
+    "source": "gpt"
+  },
+  "f45cfc2b92b106f627e606ef3659aa87": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the EU's digital rules and the consequences of breaking them. However, without a summary or more information, it's hard to determine if it offers actionable insights or deeper understanding.",
+    "source": "gpt"
+  },
+  "247827e5926b18544954fc3fb6c6ff0c": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant policy change in Germany. It could be useful for those considering military service or interested in global military trends. However, without more context or detail, it doesn't fully explain the implications or reasons for this decision.",
+    "source": "gpt"
+  },
+  "6ae296aa9ec1cffb12be21b423f0ed90": {
+    "score": 0.3,
+    "reason": "This story seems to focus on a specific individual's criminal activity, which provides basic awareness but may not offer much in terms of broader understanding or actionable insights. Without more information, it's unclear if it provides context about broader trends or systems.",
+    "source": "gpt"
+  },
+  "3bbe174f2972229b49964f51f64cca16": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the travel ban which can impact the reader's decision-making about travel. However, it does not provide any insights into solutions or progress.",
+    "source": "gpt"
+  },
+  "09afe41d21239c8e8fef4f361bf2023c": {
+    "score": 0.3,
+    "reason": "The story offers basic awareness about the arrest of Jeremy O. Harris. However, it does not provide any deeper understanding or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "05a6ffefdb1c3b80f9cb3b9308ad2870": {
+    "score": 0.8,
+    "reason": "The story provides useful information about the World Cup draw, explaining why it matters and how it works. This can contribute to the reader's understanding and decision-making, especially if they are interested in football.",
+    "source": "gpt"
   }
 }
