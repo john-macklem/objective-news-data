@@ -7353,5 +7353,145 @@
     "score": 0.3,
     "reason": "This story offers basic awareness of an incident but does not provide any deeper understanding, actionable insights, or solutions. It's more of a reactive news piece.",
     "source": "gpt"
+  },
+  "74cb323cb158f95f7cb210108ac34d32": {
+    "score": 0.017,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6f0832d03efeac6d7163fcb0e8b548d4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8c9f342664a0b9f3dc5c65be5af95506": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "94e2ad55b58a04b6a4d2a2245574f12e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8c5a677a51c083bd8df96d7d60123137": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1ce4aef195b5707f85727ac51bbeb94a": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9e1db44ebd6ed322c3f6b52d7f1e06bf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b25353d62a1cd6dfa8640b4504d300cb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e47eee0cda8fd93ea8d31b621d51b997": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e075fde4ee14667a7d76ef6f78aad12d": {
+    "score": 0.03,
+    "reason": "actions: release; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "62ffca7cebb8e99acd03348bdd380f5a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d93dee1987ba843cfa49779e0f59c2eb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5643453a7a8cdcd62b8194a0b4a2754b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.05, neg_sim=0.07; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "adae7794808a7874050757f93c1ee9cb": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the EU's actions against deceptive practices, which could help readers understand the regulatory landscape. However, without more details about the implications or potential solutions, it does not fully inform or empower the reader.",
+    "source": "gpt"
+  },
+  "ca98013fa24bfdc8ac431ffb3e843c50": {
+    "score": 0.8,
+    "reason": "This story appears to offer useful insights into a national security strategy, which could help readers understand the policy and its potential impacts. However, without knowing the specifics of the takeaways, it's unclear whether it reports on solutions or improvements.",
+    "source": "gpt"
+  },
+  "c207a330fff1e1885473a0fc511c56e4": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a political development in Brazil, but without more context or analysis, it does not offer deep insight or contribute meaningfully to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "f09e0585f760057401d7cc8b79117431": {
+    "score": 0.9,
+    "reason": "This story is constructive because it reports on progress in peace talks between the US and Ukraine. This information can help readers understand the current state of international relations and the potential for resolving conflicts.",
+    "source": "gpt"
+  },
+  "3723b67e9a00f83763a36e97fd5db9d4": {
+    "score": 0.8,
+    "reason": "This story provides useful information about changes in Canada's foreign policy and how it perceives Syria. It doesn't necessarily report on solutions or improvements, but it does offer insight into geopolitical trends.",
+    "source": "gpt"
+  },
+  "be17b79ec4f36ec26bfafe98e38ccaa2": {
+    "score": 0.5,
+    "reason": "While this story provides basic awareness of a significant event in the architecture world, it doesn't offer much depth or insight beyond the fact of Frank Gehry's death. It could be more constructive if it included more information about Gehry's impact on architecture or the implications of his loss.",
+    "source": "gpt"
+  },
+  "d660ba4dee5c26a058e0635b0185023e": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a conflict situation between Afghanistan and Pakistan, but it doesn't offer any deeper insights or actionable information for the reader. It also doesn't report on any solutions, improvements, or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "6a1e4756f0c30cf8bf1d8776817a61b4": {
+    "score": 0.5,
+    "reason": "The story raises awareness about a potential hazard at the Chornobyl nuclear plant, which can be useful for those in the vicinity or involved in the nuclear industry. However, it doesn't provide much depth or insight beyond the basic information, and there's no mention of solutions or progress towards addressing the issue.",
+    "source": "gpt"
+  },
+  "1c33ba88dfe8ac38882b8f52984a7a0d": {
+    "score": 0.8,
+    "reason": "This story is informative, providing useful information about Tesla's new product launch in Europe. It also highlights an innovation in the electric vehicle market, which could be seen as a step towards solving environmental problems. However, without more context or analysis, it's not fully empowering for the reader.",
+    "source": "gpt"
+  },
+  "53f8c80707ec5ca323cc2ae5f68680c0": {
+    "score": 0.3,
+    "reason": "This story raises awareness about a specific incident involving a Democratic representative and ICE officers. However, it doesn't offer much depth or insight into the broader issues at play, such as immigration policy or law enforcement practices.",
+    "source": "gpt"
+  },
+  "50fdfe54ecca4738a4fc53270c1d87d4": {
+    "score": 0.7,
+    "reason": "This story provides useful context about how the U.S.'s focus on fentanyl may be inadvertently contributing to the cocaine trade. It offers a deeper understanding of the complexities and unintended consequences of drug policy.",
+    "source": "gpt"
+  },
+  "431f0b66fd8f8d24384249f20c15bcf2": {
+    "score": 0.5,
+    "reason": "The story brings awareness about a new award given to Trump by FIFA. However, it doesn't provide much insight or depth into why he received the award, or what it means in the larger context of his career and reputation.",
+    "source": "gpt"
+  },
+  "e35041734a05ec07624a3e50add9a008": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a change in the coaching staff of Penn State, which could be of interest to followers of the team or the sport. However, it doesn't offer deeper insights into why this decision was made, what it means for the team, or how it might affect future games.",
+    "source": "gpt"
+  },
+  "b816f1a43344df747a2bd605da483273": {
+    "score": 0.6,
+    "reason": "This story can provide useful information for MMA fans, giving them an idea of who to watch in the coming years. However, without more context or analysis, it's difficult to say how much depth or insight it offers.",
+    "source": "gpt"
+  },
+  "edc4cf9ee8463bf6057bfb8c876b9bc6": {
+    "score": 0.6,
+    "reason": "This story gives readers an overview of England's World Cup group, potentially helping them understand the challenges the team might face. However, without more detailed analysis of the teams, players, or strategies, it doesn't provide a lot of depth or insight.",
+    "source": "gpt"
   }
 }
