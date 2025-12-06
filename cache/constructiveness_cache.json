@@ -7493,5 +7493,145 @@
     "score": 0.6,
     "reason": "This story gives readers an overview of England's World Cup group, potentially helping them understand the challenges the team might face. However, without more detailed analysis of the teams, players, or strategies, it doesn't provide a lot of depth or insight.",
     "source": "gpt"
+  },
+  "c6910e41f8fef65ca9e60f7d2af7727c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4ce13f81d151abadb6e20f9bd4dec217": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "387fd5223d788e9300fb8e222df21c4c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b35f5191aa03a1b1ace2b06f7e876210": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fbea67d47a33131570a7ad4b0ebf7abd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3f9d88adb4a57da8fa3e57f08182ed04": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.15, neg_sim=0.06; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "23e7c9e7c2d27104bd7b0f0d0dd75339": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "21606324bec1bcd47db4b872d9375e1c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f77d46e7097a5b692b73258a7d7e36a3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4774fa860f171dab130d5c3e58bbd103": {
+    "score": 0.03,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a83e7528ff04223e11c4691b1f80c515": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e12b8fae44c72ba780115243896494a4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d002c7572c8bff7a5adff73798163255": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5fbcca60db425150dd63d712de4107f1": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a political shift, but without any context or analysis, it doesn't offer much depth or insight.",
+    "source": "gpt"
+  },
+  "b2ef03281314ab5d5ba42ae3e737c207": {
+    "score": 0.3,
+    "reason": "While this story raises awareness about violence against military personnel, it lacks context and doesn't provide any solutions or actionable insights.",
+    "source": "gpt"
+  },
+  "22c342f59cc6d6981742e5066b8f2d4a": {
+    "score": 0.6,
+    "reason": "This story informs about a policy decision and its implications for trans women, helping to contextualize ongoing debates about gender and inclusion. However, it doesn't highlight any solutions or progress.",
+    "source": "gpt"
+  },
+  "8bd8c9b7a9e703e8f597fb267ba38e24": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the current political climate in Hong Kong, which could be relevant for readers interested in international politics. However, it does not offer any solutions or progress towards resolving the issue.",
+    "source": "gpt"
+  },
+  "ccf2ac30973f25b70c0faafba46ed16b": {
+    "score": 0.5,
+    "reason": "The story increases basic awareness about the security measures taken by French forces to protect their nuclear submarine base, but it doesn't provide much depth or insight into the broader implications or context.",
+    "source": "gpt"
+  },
+  "ab09ba12b625f8c95ce894bd4b3623bd": {
+    "score": 0.3,
+    "reason": "This news provides basic awareness about a player's injury status, but it doesn't offer any deeper understanding or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "6d43714e209b6f3d60fe6ec626eb417e": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the current standings in the F1 championship, but it doesn't provide any deeper insights or understanding, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "676078b54f8538ba764f059a69233269": {
+    "score": 0.5,
+    "reason": "The story provides awareness about the incident at the Tower of London, but it lacks depth or insight into the reasons behind the incident or its broader implications.",
+    "source": "gpt"
+  },
+  "0f048c31a82c73a0cffc520193ee4963": {
+    "score": 0.3,
+    "reason": "This story reports a tragic incident, but it does not provide any actionable insights, deeper understanding, or solutions. It mainly serves to raise awareness about the incident.",
+    "source": "gpt"
+  },
+  "d53e8a2de60c04bffa2dda4fad47f12b": {
+    "score": 0.0,
+    "reason": "This story is purely reactive and fear-based with no takeaway or value. It doesn't provide any actionable insights, solutions, or deeper understanding. It also fails to increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "0eb5feb4a8c63113a1190ce74905e968": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the ongoing conflict between Russia and Ukraine, but it lacks depth or insight. It doesn't provide any actionable insights, solutions, or deeper understanding. It also doesn't increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "b1b4c5ce8d18698ffcf4f8b0800bf265": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about China's stance towards foreign media in Hong Kong. However, it lacks depth or insight and doesn't provide any actionable insights, solutions, or deeper understanding. It does, however, increase clarity around systems and impacts that matter.",
+    "source": "gpt"
+  },
+  "195183b96caad08dff59b4c840365630": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the ongoing conflict in DRC, which can help readers understand the severity of the situation. However, it doesn't offer solutions or improvements, hence the score.",
+    "source": "gpt"
+  },
+  "c6ca0611ef1dce201c9285ebd477d58a": {
+    "score": 0.5,
+    "reason": "While this story provides basic awareness about the upcoming World Cup schedule, it doesn't provide deeper insights or solutions to any problems. It's mainly informational.",
+    "source": "gpt"
+  },
+  "71250ff839c0a761c7a52c07f426c617": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the World Cup schedule for UK teams, but it doesn't provide a deeper understanding or actionable insights. It's mostly informational.",
+    "source": "gpt"
   }
 }
