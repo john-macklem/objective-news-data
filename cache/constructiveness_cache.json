@@ -7778,5 +7778,150 @@
     "score": 0.3,
     "reason": "This story reports on a sports victory, but does not provide any actionable insights or deeper understanding for the reader. It does not report on any solutions or attempts to solve a problem, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
     "source": "gpt"
+  },
+  "fddb8875c9a15f61b8a0df8215816ea3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d531c7a65e1324290f40bc97b503ea50": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "95ef71f4b2a4a3340ac3324cef837c73": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a2261d26ed77c809062df466fad39dae": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0a6e812d8eb4b2ab93d524da3d0d9af8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "dcfb7cc63fdb2768e10fff9ce80562c0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "067370fdf4b2bc4e8ede0f771a15aad1": {
+    "score": 0.03,
+    "reason": "keywords (1): pilot; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7c724229b385796596c18e7c49ad4f57": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: fear); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "bd352cdcdb4b8260de027b40da157e3e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "140a6b74b307ab06a3d2de268ab65ff7": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: risk); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "12357f775b7b5be65d232094a76653cd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "95e656b16c7005b1c900285021e465c2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e262461ec9df334af6afc320a95ddd64": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "47550962d79057a7c9bf94db520589a6": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: may); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "70c18dc78421e959272302d69926d18d": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness of the event but does not offer a deeper understanding or actionable insights. It does not report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "4c06e7b09db2687df937e21f3f5ae71d": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the coup attempt in Benin but does not provide any deeper understanding, actionable insights or report on solutions. It is more reactive than constructive.",
+    "source": "gpt"
+  },
+  "f81ce3237eae6f8fe595f96d16870c9c": {
+    "score": 0.6,
+    "reason": "This story informs about a significant development in international relations. However, it lacks depth and does not provide actionable insights or report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "a5966be3c83b3a254ef986e61aa87b8d": {
+    "score": 0.0,
+    "reason": "This story is not constructive as it focuses on celebrity gossip, which doesn't offer any actionable insights, solutions, or deeper understanding to the reader.",
+    "source": "gpt"
+  },
+  "e4b5fafd27c80ceb144f0dc37110e18a": {
+    "score": 0.6,
+    "reason": "This story is somewhat constructive as it informs readers about a future event that could have significant geopolitical implications. However, without details on what the 'second phase of Gaza plan' entails, it's difficult to say whether this story offers actionable insights or solutions.",
+    "source": "gpt"
+  },
+  "e6315eec067f0e3c0220ecdf7dd196d7": {
+    "score": 0.8,
+    "reason": "This story is constructive as it informs readers about Nigeria's efforts to address violence and the international cooperation involved. However, without more details on the specific strategies or solutions being discussed, it falls short of providing empowering knowledge.",
+    "source": "gpt"
+  },
+  "3dffc67f7bed4d5628a301b5c2ab7dd5": {
+    "score": 0.7,
+    "reason": "This story is constructive as it provides useful information about a new policy and its potential impacts. It also raises awareness about the ongoing debate around social media use and the potential risks and benefits for young people.",
+    "source": "gpt"
+  },
+  "d5cac2fdb8b94671293671039dc322ec": {
+    "score": 0.3,
+    "reason": "While this story raises awareness about a tragic event, it offers minimal depth or insight into the causes, solutions, or broader implications. It is largely reactive and does not contribute meaningfully to the reader's understanding or sense of agency.",
+    "source": "gpt"
+  },
+  "eef15e1eebf786acdf27491ff0c2bb56": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the death of a notable figure, potentially deepening the reader's understanding of his impact on the field of photography. However, without further context or insight, its constructive value is limited.",
+    "source": "gpt"
+  },
+  "85c5881acdb16731cd640db9111e05c9": {
+    "score": 0.3,
+    "reason": "This story raises awareness about a significant event, but it doesn't provide actionable insights or deeper understanding. It also doesn't report on solutions or improvements, or increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "bb64b10a9d9752613eaa435cbe1afa35": {
+    "score": 0.2,
+    "reason": "This story is mostly reactive, focusing on a single incident without providing broader context or insights. It doesn't contribute meaningfully to the reader\u2019s understanding, decision-making, or sense of agency.",
+    "source": "gpt"
+  },
+  "ab9014e4f0eee2551dc43a1e0a1bd63b": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a significant event, potentially aiding in decision-making for those in the affected area. However, it doesn't report on solutions or improvements, or increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "c02f3edc63af5498d84f151599710065": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a potential conflict between Japan and China. However, without more context or analysis, it doesn't offer much depth or insight into the situation.",
+    "source": "gpt"
+  },
+  "83bd88cc6c9db22869154e4c14ea19b4": {
+    "score": 0.3,
+    "reason": "While this story may be of interest to college football fans, it doesn't provide much in the way of actionable insights, solutions, or deeper understanding beyond the immediate rankings.",
+    "source": "gpt"
+  },
+  "d930ed5e70e4acd6177fcc68bef387a8": {
+    "score": 0.3,
+    "reason": "This story reports on a significant achievement in the world of Formula 1 racing, but it doesn't offer much in the way of broader context, actionable insights, or deeper understanding.",
+    "source": "gpt"
   }
 }
