@@ -7633,5 +7633,150 @@
     "score": 0.5,
     "reason": "This story offers basic awareness about the World Cup schedule for UK teams, but it doesn't provide a deeper understanding or actionable insights. It's mostly informational.",
     "source": "gpt"
+  },
+  "0344f87e8cfbbfd7aeadb04523e08091": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "241ec030dc12729073652d00d6c5aa4e": {
+    "score": 0.022,
+    "reason": "speculative_penalty=0.03 (tokens: may); semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4875c395581a1384fb66034c201c8d85": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2095765ae93937a098fe232ac3e563cf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2132d33f9b8cb7551bd294beb33b837c": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: may); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "995219acfafeecab101b749035c73174": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "39229962a8819f28bfa3fe4e27ab2695": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: accus); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "280fd5e87168bf33ebbc26c38b1d6eaf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "54e983ec7804eae0079505bbbd3ed9c4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f2c1179ab4ca431f1339fa79780db621": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ddb282cb7e19db5ed4ad98a40b27397f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "aa076c37caad1fa0a9f6569b64b9ce01": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.11; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1a88719a15c767c3de513270c817e001": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "051da34e74bfb92754cb7057c9390bcd": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: fear); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d025d604f9f915cdb3ba8c5f90ebd346": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the current political situation in Hong Kong, however, it lacks depth and actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "cc120a7cdd6a4116671ccba28a6dab58": {
+    "score": 0.5,
+    "reason": "While the story informs about a significant event in Benin, it does not provide enough context or analysis to help the reader understand the causes, implications, or potential solutions to the situation.",
+    "source": "gpt"
+  },
+  "9413bf4fa740ae6d4cbf3aa8cd0cda04": {
+    "score": 0.6,
+    "reason": "This story provides useful information about changes to the national parks fee-free calendar, which could impact readers' plans. However, it does not delve into the reasons behind these changes or their potential impacts, limiting its constructiveness.",
+    "source": "gpt"
+  },
+  "f40de0c83d810b2a1c25b6db6f538c62": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about a political situation in Benin, but it lacks depth and insight. It does not provide any actionable insights or a deeper understanding of the situation. It also does not report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "213d5662313e0b549c37c91acaeab3a0": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the economic impact of Brexit and the shifting political landscape. However, it does not highlight any solutions or progress, and it's unclear whether it increases clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "fce6e8fa384aea65560cfc10d5062ba1": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a tragic event but does not offer any deeper understanding or actionable insights. It does not report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "c6409aee5c014f582058ebb2a8db7302": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the ongoing conflict between Russia and Ukraine, but it lacks depth or insight into the causes, potential solutions, or impacts of the situation.",
+    "source": "gpt"
+  },
+  "4e3bbe6f8005a7c1ad4a9447b28ec010": {
+    "score": 0.3,
+    "reason": "The story offers basic awareness about a specific incident involving the police and the Jewish community. However, it doesn't provide deeper understanding or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "ae43bfb836a6d5aaf9bceaf2180e825a": {
+    "score": 0.4,
+    "reason": "This story raises awareness about a tragic incident, but it doesn't provide any deeper understanding or context about the circumstances leading to the incident, nor does it suggest any solutions to prevent such tragedies in the future.",
+    "source": "gpt"
+  },
+  "45c781f31dbad6058b7751fcc8460918": {
+    "score": 0.2,
+    "reason": "This story is not constructive as it doesn't provide any actionable insights, solutions, or deeper understanding. It's more of a lifestyle piece with limited relevance to broader societal issues.",
+    "source": "gpt"
+  },
+  "42e31b4cef1a8eba164e0d8a559d0519": {
+    "score": 0.7,
+    "reason": "This story is somewhat constructive. It informs about a new policy decision in Australia and hints at the adaptive behaviors of teens. However, without more information on the specific steps teens are taking or the impacts of this policy, it's hard to say if it provides actionable insights or solutions.",
+    "source": "gpt"
+  },
+  "07315589dbd34bbb4aaf5fe77a84f768": {
+    "score": 0.8,
+    "reason": "This story is constructive as it reports on progress towards resolving a conflict situation. It provides useful information about the role of Qatar and Egypt in mediating the ceasefire. However, without more details on what the 'next step' entails, it falls short of providing a full understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "c6910f619bbcd88c03491e53fe58dd9c": {
+    "score": 0.3,
+    "reason": "This story reports on a tragic event but does not provide any actionable insights or deeper understanding for the reader. It also does not report on any solutions or attempts to solve the problem, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "01c9dc2f2e58412e1732bc552a7fd120": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a conflict within a sports team, but does not provide much depth or insight beyond that. It does not report on any solutions or attempts to solve the problem, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "2b9d9ed0df8c91768759642603a0bd28": {
+    "score": 0.3,
+    "reason": "This story reports on a sports victory, but does not provide any actionable insights or deeper understanding for the reader. It does not report on any solutions or attempts to solve a problem, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
   }
 }
