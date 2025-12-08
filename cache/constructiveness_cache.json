@@ -7923,5 +7923,155 @@
     "score": 0.3,
     "reason": "This story reports on a significant achievement in the world of Formula 1 racing, but it doesn't offer much in the way of broader context, actionable insights, or deeper understanding.",
     "source": "gpt"
+  },
+  "9864654f7eba1d714866c1ecf01c409b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "730f2839d8d1ab343c4f319efb6aa7c6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2058d3b94c46dad4d57425bc77e17064": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "95854b995a565844c89474a9ab7721bc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9c2516a46c38184d56858bc155dfd52a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e54264ece213ac65ffc49d7ba968962e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "f568ad32b073f41ba906ba3fcb7c9f72": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8d866f96420b2d611245ab06110836f9": {
+    "score": 0.02,
+    "reason": "keywords (1): launch; actions: launch; negative_penalty=0.05 (keywords: deadly); semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a622d393be2f15f9588ac4b9d14dc5be": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "197304c801d0250c8a33146294754852": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "eab29cf43438ed204a35f1d34765a9eb": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f115daeb89cc92aa720cfdf1d783fc6f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c19c0f72f5e9de09edddf66cf31402c6": {
+    "score": 0.052,
+    "reason": "keywords (1): recovery; semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2b038ac1ddbcf62ae4d133f83e36094e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "424590910b94d4bfd0a9ffe224d2aadd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "addb8a5bd791482883a89ce6574817c6": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the rising tensions between Japan and China. However, it lacks depth and insight into the causes of the tension, the potential impacts, or any attempts to resolve the issue.",
+    "source": "gpt"
+  },
+  "189b47a7285fd2a466623993c77186f7": {
+    "score": 0.6,
+    "reason": "This story provides useful context on the situation in Syria a year after the fall of the Assad regime. It would be more constructive if it included more details on the progress made since the regime's fall, the current challenges, and the solutions being implemented.",
+    "source": "gpt"
+  },
+  "8917192226883bef4a1905043cda64f8": {
+    "score": 0.7,
+    "reason": "This story informs readers about a significant upcoming event, potentially leading to decisions or actions that could impact Ukraine and its relations with Europe. However, without more details on the issues to be discussed or the potential outcomes, it lacks the depth required for a higher score.",
+    "source": "gpt"
+  },
+  "b942b2a4eae83bdc7c91bf9c84573c29": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a potential incident of concern, but without the video or additional context, it doesn't provide much depth or insight for the reader.",
+    "source": "gpt"
+  },
+  "207117b288737109f65e8e76b817c474": {
+    "score": 0.6,
+    "reason": "The story informs about a significant event in Nigeria and Benin, providing some context about the current situation. However, it lacks in-depth analysis or actionable insights.",
+    "source": "gpt"
+  },
+  "587acc489bfafc8b5a15c91d22611108": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a development in the lives of two public figures, but it doesn't offer any deeper understanding, actionable insights, or report on any progress or solutions.",
+    "source": "gpt"
+  },
+  "63dfbd57aefdf48ba6c2792445f21ef2": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a cultural event, but it doesn't offer any actionable insights, solutions, or a deeper understanding of a significant issue.",
+    "source": "gpt"
+  },
+  "2d48ca1443946eea0e691373761a4c2e": {
+    "score": 0.9,
+    "reason": "This story reports on a significant solution and progress, the release of kidnapped children. It could potentially raise awareness about the issue of kidnapping in the region.",
+    "source": "gpt"
+  },
+  "e8e1e65b970ef579807b7179cd3d6ba3": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a tragic event, but doesn't offer actionable insights or report on solutions. It could potentially lead to a deeper understanding of safety issues in nightclubs.",
+    "source": "gpt"
+  },
+  "80f1a34ccc40275450ad77e777626af1": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about an incident at the Louvre but lacks depth or insight. It does not offer actionable insights or deeper understanding, nor does it report on solutions or attempts to solve the problem. It also doesn't increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "2a666ea8170a36da13c9dfc9a35427f1": {
+    "score": 0.7,
+    "reason": "This story informs about a potential development in the Israel-Hamas conflict, which could be useful for readers interested in the topic. However, without more information on the nature of this 'second phase' or how the situation might progress, it doesn't fully highlight solutions or empowering knowledge.",
+    "source": "gpt"
+  },
+  "9378f8e2994b66187dad20d70d0fea52": {
+    "score": 0.9,
+    "reason": "This story appears to provide actionable insights for readers who may be affected by the flight cancellations, which contributes to their decision-making. It also suggests a focus on what readers 'need to know', implying an aim to increase clarity or understanding. However, without more information, it's unclear whether it also reports on solutions or improvements.",
+    "source": "gpt"
+  },
+  "1497c02d94e00ad9112ef4ad8b2427ce": {
+    "score": 0.6,
+    "reason": "This story provides some insight into the current situation in Syria, but it doesn't offer actionable insights or solutions. It does, however, contribute to a deeper understanding of the situation.",
+    "source": "gpt"
+  },
+  "75293d3b6e27789ec28e34cf0b8a5600": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the death of a music legend, but it doesn't offer deeper insights or value. It does not increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "7fc352f345d05b7b04113b1629199e30": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a sports injury, but it doesn't provide deeper insights, solutions, or empowering knowledge. It does not increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
   }
 }
