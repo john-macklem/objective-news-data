@@ -8943,5 +8943,120 @@
     "score": 0.3,
     "reason": "This story provides basic information about a sports injury, but it doesn't provide deeper understanding or actionable insights for the reader.",
     "source": "gpt"
+  },
+  "12d54a4882927032d3d1ce234a5b592a": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9dd21f16bb7e4bbee67031674774f376": {
+    "score": 0.03,
+    "reason": "keywords (1): invest; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6ca21104c710f8fdf056a8433825bb53": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2b55478932edd819b2197495b6fae2bf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "deb1b995e253b28c42a9856518a42335": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5506b76d5275b2b3ec3c855f324bfe17": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5dc369ebf681f7e0d361bd44bac53192": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a34eb747779a771c1ab441dc6a271c51": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7fce5a584d4a579663a31de064142a88": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about a legal decision and its immediate implications, but it doesn't provide much depth or insight into the broader context or potential consequences.",
+    "source": "gpt"
+  },
+  "452caac0ad375475e36857b84968b797": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant event and provides some context about the political situation in Venezuela. However, it doesn't offer much in the way of actionable insights or a clear sense of progress.",
+    "source": "gpt"
+  },
+  "630eb1a89d4c21a18ff486937dc9923a": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a political protest, but it doesn't provide much depth or insight into the underlying issues or potential impacts.",
+    "source": "gpt"
+  },
+  "026e8a781eb326761395df5d76106de6": {
+    "score": 0.6,
+    "reason": "This story, while not providing a lot of detail, does inform readers about an upcoming meeting related to the Ukraine crisis. It could potentially provide useful context or insights, depending on the outcome of the meeting.",
+    "source": "gpt"
+  },
+  "e3663af5d8a2c5a582d069b090dc7267": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the death of a notable author. However, it does not provide any deeper insights or value to the reader beyond the basic information.",
+    "source": "gpt"
+  },
+  "6350e55358e4317c637cf37d38f5f0e5": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a tragic event, but it doesn't provide much depth or insight. It doesn't discuss potential causes, impacts, or solutions to prevent similar incidents in the future.",
+    "source": "gpt"
+  },
+  "6adc091d5a8ec451cac84eee7a0879e8": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the geopolitical situation involving Ukraine, the US, and European leaders. However, it lacks depth or insight into the implications of the situation or potential solutions.",
+    "source": "gpt"
+  },
+  "9be9737eaade3555843a3939d2e2634c": {
+    "score": 0.6,
+    "reason": "The story informs readers about the business decision of a food chain, which may affect employees and customers. It provides useful context about the economic situation, but does not suggest any solutions or improvements.",
+    "source": "gpt"
+  },
+  "1f7fb1ea09214c23d5be20afc4435df3": {
+    "score": 0.0,
+    "reason": "This story seems to be more sensational and fear-based. It does not provide any useful insights or deeper understanding, nor does it report on solutions or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "04016ea5139f4839fe4dd6884ca5215f": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about upcoming Champions League matches but does not offer any deeper insights, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "ba2340f503ad5f70ee0409a601b1c852": {
+    "score": 0.6,
+    "reason": "The story provides useful information about how the Colts managed to sign Philip Rivers out of retirement. However, it doesn't highlight any progress, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "88b1b64d3002eb154dd5f3958646a365": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about QB Daniels' injury status but lacks depth or insight.",
+    "source": "gpt"
+  },
+  "b0bda4f99116b0ebe493120c35448cc0": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a significant development in the sports world, but it does not offer any deeper understanding or actionable insights. It lacks context about why this move is significant, what impact it might have on the teams involved, or how it fits into broader trends in baseball.",
+    "source": "gpt"
+  },
+  "970660eb9fbdb4897e3f4e6997ae81f6": {
+    "score": 0.5,
+    "reason": "This story raises awareness about an important issue in sports and society, but it lacks depth and detail. It does not provide any insights into the factors that will influence the decision, the potential impacts of different outcomes, or the broader context of gender issues in sports.",
+    "source": "gpt"
+  },
+  "23de3e0f9ae0d5c325c0a21c61474ce7": {
+    "score": 0.8,
+    "reason": "This story is likely to be very useful for readers interested in attending the World Cup, providing actionable information about how to participate in the ticket ballot. However, without more information about the content of the article, it's unclear whether it also provides context or insights about the World Cup more broadly.",
+    "source": "gpt"
   }
 }
