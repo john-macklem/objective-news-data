@@ -1,8 +1,8 @@
 {
-  "fetched": 2176,
-  "filtered": 1038,
-  "clustered": 77,
-  "scored": 40,
+  "fetched": 2142,
+  "filtered": 1013,
+  "clustered": 60,
+  "scored": 36,
   "feeds": {
     "feeds_total": 51,
     "url_normalized": 11,
@@ -24,42 +24,39 @@
   },
   "cache_metrics": {
     "summary": {
-      "load_ms": 29,
-      "miss": 31,
-      "stale_or_invalid": 9,
-      "hit": 1
+      "load_ms": 28,
+      "miss": 32,
+      "stale_or_invalid": 9
     },
     "constructiveness": {
-      "miss": 57,
-      "hit": 4
+      "miss": 55,
+      "hit": 1
     },
     "headline": {
-      "miss": 31,
-      "hit": 1
+      "miss": 32
     }
   },
   "headline_metrics": {
-    "total": 40,
+    "total": 36,
     "missing": 0,
     "source_counts": {
-      "gpt": 31,
-      "cache": 1,
-      "": 8
+      "gpt": 32,
+      "": 4
     },
     "length": {
-      "avg": 59.88,
-      "median": 60.0,
-      "max": 86,
-      "over_limit": 3
+      "avg": 56.78,
+      "median": 56.0,
+      "max": 79,
+      "over_limit": 2
     },
     "uniqueness": {
-      "unique_titles": 40,
+      "unique_titles": 36,
       "duplicate_groups": 0,
       "repeated_titles": 0,
       "deduped_ratio": 1.0
     },
     "punctuation_flags": {
-      "contains_separator": 4
+      "contains_separator": 3
     }
   }
 }
