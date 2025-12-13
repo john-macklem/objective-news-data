@@ -9998,5 +9998,140 @@
     "score": 0.3,
     "reason": "This story reports a crime incident, but it doesn't provide any useful insights, solutions, or deeper understanding about the issue. It seems to be more sensational than constructive.",
     "source": "gpt"
+  },
+  "4a26cee65f6ed66fd24d2a1b440d42c8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "15f3fa00426ccb0601924aa239e3053a": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: dead); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a3dc9f25f299234dc12930f7d584cdec": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5c3aceba1a9755e51f2347d3571b8d48": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0ebd8ac802af63ec7cbb7d82c2703df1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1bb3140fab6a699cc14cfc929bb1b617": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4e8580c724794df8bd026af4e7631ef5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "61a377e500d3ce9f6a5a6acc30e1a3c8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0035af35d4dc87f329403ab4450c55e9": {
+    "score": 0.03,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1e115cf70e62c29f6255b7ca00232593": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2ad0d52b818618409120cdc2bbff812a": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4461bb6ace82dc13859d070727a84175": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c88e1bb918667a467b9c9c64ceb6a6ce": {
+    "score": 0.7,
+    "reason": "This story is constructive as it provides useful information about the political situation in Belarus and the impact of US sanctions. However, it doesn't provide information on the solutions or improvements to the situation.",
+    "source": "gpt"
+  },
+  "1dd0f8528c9069691a435d4270c61193": {
+    "score": 0.6,
+    "reason": "The story is constructive in that it raises awareness about the importance of early diagnosis in cancer treatment. However, it lacks depth and doesn't provide actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "508982fe5fc6fdf0afbca6c1be495967": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about the conflict between Thailand and Cambodia, but it doesn't provide depth or insight into the causes, impacts, or potential solutions to the conflict.",
+    "source": "gpt"
+  },
+  "7e8750aed9eb4ebf463fe39dcf9106b9": {
+    "score": 0.3,
+    "reason": "This story seems to be more about generating sensationalism than providing useful information or awareness. It doesn't appear to offer actionable insights or report on solutions to problems.",
+    "source": "gpt"
+  },
+  "481719becd137240eec0be7f315ddb77": {
+    "score": 0.6,
+    "reason": "This story provides some awareness about the conflict between development and preservation, but without more context, it's hard to say how useful it is to the reader. It doesn't report on solutions, but it does highlight an ongoing issue.",
+    "source": "gpt"
+  },
+  "6f12249b8dcf0e3cfd5215c104a40ed4": {
+    "score": 0.8,
+    "reason": "This story provides useful information about a natural disaster, potentially helping readers understand the situation and its impacts. However, it doesn't seem to offer insights into solutions or improvements, nor does it provide a deep understanding of the causes or systems at play.",
+    "source": "gpt"
+  },
+  "1b8b2cc4247b4b33057d6ce32a557efd": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the geopolitical dynamics between Venezuela, Cuba, and the U.S. However, without more context or depth, it's hard for readers to gain a deeper understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "442174702ac2d80fb0352cb3c2485e51": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the ongoing conflict between Israel and Hamas. However, it lacks depth and doesn't provide any solutions, improvements, or innovations to the problem.",
+    "source": "gpt"
+  },
+  "361b14a2d5eaf5ac2f58ff5c33190fb8": {
+    "score": 0.6,
+    "reason": "This story informs readers about the human rights situation in Iran, which is a useful context. However, it doesn't report on any solutions or improvements, and its focus is more on the negative aspects of the situation.",
+    "source": "gpt"
+  },
+  "7010fcf2d62637f855866843047c4ae9": {
+    "score": 0.7,
+    "reason": "This story is constructive as it raises awareness about a social issue (immigration raids) and how a community (the church) is responding. However, it doesn't provide actionable insights or report on solutions to the problem.",
+    "source": "gpt"
+  },
+  "116c65bd0c6fa4c7f61b564cea26e32d": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a violent incident in Abyei, but it lacks depth or insight into the causes, impacts, or potential solutions to the conflict.",
+    "source": "gpt"
+  },
+  "e9e006c8c458f330b3adf850c6c3170d": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a change in a radio show's host lineup, but it doesn't contribute meaningfully to the reader\u2019s understanding, decision-making, or sense of agency. It lacks depth or insight into why this change occurred or what it means for the program or its listeners.",
+    "source": "gpt"
+  },
+  "67970ef25742263590d72a03a5b30e74": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a local incident but does not offer any deeper insights or actionable information for the reader.",
+    "source": "gpt"
+  },
+  "5bfe085c75ba95898fc94cf11008fd00": {
+    "score": 0.6,
+    "reason": "This story informs about a significant international event and its impacts, contributing to readers' understanding of the situation. However, it does not appear to highlight any solutions or progress.",
+    "source": "gpt"
+  },
+  "4ef1cbfccbee74ef7d1b906a47dc7fdd": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a sports event, but does not offer any deeper insights or actionable information for the reader.",
+    "source": "gpt"
   }
 }
