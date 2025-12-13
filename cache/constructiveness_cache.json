@@ -9843,5 +9843,160 @@
     "score": 0.3,
     "reason": "While this story informs readers of the passing of a well-known author, it does not provide any further insights or understanding. It does not discuss her impact on literature, her works, or her influence, thus offering minimal depth or insight.",
     "source": "gpt"
+  },
+  "c8d269081e03f0cd1973ff3465f8f942": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f060287c5132175cede5ea173caa20fe": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f2966d04a074d9d4e4b78d1d0d229e27": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "602e9b2348cb77526b8734b94bca717e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "896b63ad8876a318ae35fb10fc7462a0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "46385f71b0927e4cce558507e4108b68": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.06, neg_sim=0.07; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0bb4517e84d5658af3eb20a30444d703": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3dc64fd031deed1ead2f39a1a6a57b41": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "714a9608d873cc7afd97447b74885bc5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "97d4c7507a143c664d4a8ebe6b56e858": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a49a87c49adccb6497536f56df12e33b": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: possible); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "021a45d327da60cb9f20c2933c17953c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2dc3d741adbcd526cc0babdacb778a30": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.11; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "877ed60bd2187a06dec39cfc38b50787": {
+    "score": 0.0,
+    "reason": "actions: start; speculative_penalty=0.03 (tokens: warn); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "af2511f304d574c929d78409c73de376": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6de94fc9e988f017eff1cf304c6ce1b7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "be0bb7e48c9a4a06722ef6c556fdaedc": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the ongoing conflict between Thailand and Cambodia and the role of international diplomacy in it. However, it lacks depth or insight into the reasons for the conflict, the impact on the people, or potential solutions.",
+    "source": "gpt"
+  },
+  "1188610c2e3366ebd7b790836c995836": {
+    "score": 0.3,
+    "reason": "The story seems more focused on sensationalism and political point-scoring than providing useful information or insights. It does not contribute to the reader's understanding of the Epstein case or its broader implications.",
+    "source": "gpt"
+  },
+  "1c0c0d964e35a4e2974172a43f49a241": {
+    "score": 0.6,
+    "reason": "The story provides useful information about changes in US foreign policy and their impact on individuals targeted by sanctions. However, it does not delve into the reasons for the original sanctions or their effectiveness, limiting its overall constructiveness.",
+    "source": "gpt"
+  },
+  "cbbb5761a4c7865ddb35986727144865": {
+    "score": 0.6,
+    "reason": "This story informs the reader about an ongoing conflict and the failed attempt at a ceasefire, which provides context and understanding. However, it does not provide actionable insights or report on solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "1273e4bf38087d9945c1bd9610a1541b": {
+    "score": 0.7,
+    "reason": "The story provides information about an upcoming meeting aimed at addressing a conflict, which contributes to the reader's understanding of the situation. However, without details on the potential solutions or strategies to be discussed, it does not fully empower the reader.",
+    "source": "gpt"
+  },
+  "d41791e4ae34521b2aba20a41fe9c0a7": {
+    "score": 0.8,
+    "reason": "This story raises awareness about a recent policy change in Australia and prompts readers to consider its potential impacts and implications in other countries. It provides useful context and insights, even if it does not directly report on progress or solutions.",
+    "source": "gpt"
+  },
+  "3a042c26af0af03b2fdc0f28cb911112": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the ongoing conflict between Russia and Ukraine, specifically about an attack on Ukrainian ports. However, without more context or analysis, it doesn't provide much depth or insight, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "6b818b4851e5116a21a2d879c603eae8": {
+    "score": 0.6,
+    "reason": "This story informs readers about the DOJ's actions regarding the 2020 election. It could provide useful context for understanding ongoing disputes about the election. However, without more information about the lawsuit's implications or potential outcomes, it doesn't fully contribute to reader's decision-making or sense of agency.",
+    "source": "gpt"
+  },
+  "dcacf41427bd4ddfb903f3827b30ef69": {
+    "score": 0.8,
+    "reason": "This story provides useful information about King Charles's health, which could be relevant to readers who follow royal news. It also reports on a positive development - the reduction of his cancer treatment - which could give readers a sense of progress. However, without more context or analysis, its contribution to reader's understanding or decision-making is limited.",
+    "source": "gpt"
+  },
+  "77c0494a0a2b01fc31ad4b6fb9ebcd4f": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the geopolitical and economic impacts of the US's actions on Venezuela's oil exports. However, it lacks depth in discussing potential solutions or progress towards resolving the issue.",
+    "source": "gpt"
+  },
+  "fb68257a75d3add90e89a36dd6a2c04f": {
+    "score": 0.5,
+    "reason": "The story raises awareness about the human rights situation in Iran, especially concerning the treatment of activists. However, it does not provide in-depth analysis or potential solutions to the problem.",
+    "source": "gpt"
+  },
+  "a11ffe4720e8c87dbd6aaace2bf91c64": {
+    "score": 0.6,
+    "reason": "This story informs readers about ongoing territorial disputes and aggressive actions in the South China Sea. It provides useful context for understanding regional tensions, but it does not highlight any progress or solutions to the issue.",
+    "source": "gpt"
+  },
+  "010a53d83b1c8bb0b2cca4e3fa474fda": {
+    "score": 0.5,
+    "reason": "This story provides some basic awareness about the international relations between North Korea and Ukraine, but it lacks depth or insight into how this affects the reader or the wider implications of such actions.",
+    "source": "gpt"
+  },
+  "562ecbd1ccdc4611042241eeeafc45d2": {
+    "score": 0.6,
+    "reason": "This story informs about a current event and provides some context about the relationship between China and Japan. However, it does not provide actionable insights or deeper understanding about the issue.",
+    "source": "gpt"
+  },
+  "3e5bdf4b4d62df20f56fef7d50e2cb3e": {
+    "score": 0.3,
+    "reason": "This story reports a crime incident, but it doesn't provide any useful insights, solutions, or deeper understanding about the issue. It seems to be more sensational than constructive.",
+    "source": "gpt"
   }
 }
