@@ -10133,5 +10133,140 @@
     "score": 0.5,
     "reason": "This story provides basic awareness about a sports event, but does not offer any deeper insights or actionable information for the reader.",
     "source": "gpt"
+  },
+  "3dab4450ee5580d7d364fdb2e40cfd3b": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8953bcde4d74c616949d6a0ae8033c51": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "258767f60efe6e7652add410c551c4e0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "20bd43d7545aa1214314c37e81eab5ee": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "10c23bdb0af4db9357d8030dc6ff6b27": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3f9a18b0177f62f9737a1db9255c8576": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3156d690431e91bc67b6ddbdfb38dbbc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6d28116da711abdb213c7384a9fa8377": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "aa22952d89d4526cb7b87b98116f031f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c9340e0ece2445fc63066094117a8b4c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7a812f47d43d6994428256982c70bc1f": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9cde347d3ac698d14b877eb430511041": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a241318c6a09b87ddb31c9fb83d59095": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about an incident of violence, but lacks depth or insight into the causes, implications, or solutions to such incidents.",
+    "source": "gpt"
+  },
+  "9dba523fc9f51de69dc9797559505a2e": {
+    "score": 0.6,
+    "reason": "The story informs about an upcoming meeting between important political figures, which could potentially lead to solutions or progress in political or diplomatic issues. However, without more context or details, it's hard to assess its full value.",
+    "source": "gpt"
+  },
+  "5531337a811048e6980cf6e0cca60c71": {
+    "score": 0.3,
+    "reason": "Similar to the first story, this article provides basic awareness about an ongoing police operation but lacks depth or insight into the broader context or implications of such incidents.",
+    "source": "gpt"
+  },
+  "2c24d06474f15112ad7fd0020f191955": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the conflict between Thailand and Cambodia, but it lacks depth or insight into the causes, implications, or potential solutions to the problem.",
+    "source": "gpt"
+  },
+  "f41a0f72b9049bab6f017982de4ec565": {
+    "score": 0.5,
+    "reason": "The story offers a basic level of awareness about the ongoing conflict and the unsuccessful attempts at a ceasefire. However, it does not provide any actionable insights or deeper understanding of the situation.",
+    "source": "gpt"
+  },
+  "69e501429f6c4c93c57e5efcf61bd383": {
+    "score": 0.3,
+    "reason": "This story is mainly reactive, reporting on a tragic event without providing further context or analysis. It does not contribute to a deeper understanding of the situation in Syria or offer any insights into potential solutions or improvements.",
+    "source": "gpt"
+  },
+  "a4a6822a5f6f25f5326bfb4a4b015781": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about an international incident involving the U.S. and Venezuela. However, without the full story or context, it's difficult to assess how much depth or insight it offers.",
+    "source": "gpt"
+  },
+  "f67c4e77b74c0f426219e3d73985b808": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a significant event in the ongoing conflict between Israel and Hamas. However, it does not provide much depth or insight into the broader context or implications of this event.",
+    "source": "gpt"
+  },
+  "480db86178c68bf612f2427614bfbbee": {
+    "score": 0.0,
+    "reason": "This story is purely reactive and sensational. It reports on a tragic event but does not provide any actionable insights, solutions, or deeper understanding of the underlying issues.",
+    "source": "gpt"
+  },
+  "0ef9a30cfce70e2f05408b1d02e2d53c": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a drone attack in Sudan, but it does not offer any deeper understanding, actionable insights, or report on solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "be435436c47ea3c546924b6468237143": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about Iran's foreign minister's visit to Russia and Belarus. However, it lacks depth or insight into the implications or purpose of the visit, and does not report on any solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "1945d449a95c83100219f675f6e6a41b": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a drone strike in a Sudanese battle zone. However, it does not provide any deeper understanding, actionable insights, or report on solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "97fefb1c8ddfe1c59087b6d2d981f949": {
+    "score": 0.6,
+    "reason": "This story informs about a significant development in the political landscape of Belarus. However, without more context or analysis, it does not fully contribute to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "a52fea1bdc7e5b8738ea171d24afeb1a": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about an upcoming sports event. However, it lacks depth or insight that would make it more constructive for the reader.",
+    "source": "gpt"
+  },
+  "8735693f86de1eefd1a565e5f9c2113a": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a sports achievement. It does not provide much depth or insight that would contribute to the reader's understanding or decision-making.",
+    "source": "gpt"
   }
 }
