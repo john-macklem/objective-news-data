@@ -10563,5 +10563,180 @@
     "score": 0.3,
     "reason": "This story provides basic awareness about an injury to a sports player, but it does not offer any actionable insights, solutions, or deeper understanding of the issue.",
     "source": "gpt"
+  },
+  "1de42bbb971dbcf50ceef4ad6befbd01": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "93497aa688fe7fb209117d4ad0f22d0e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f7479ce18aa756ac56c8174d5b63218a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "49285ba25b6c0db15d2bbbda463589f6": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9f8bebe81dbd086b3789555799abc557": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a2be995e511c5651afd0621875cb2226": {
+    "score": 0.03,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "29a1faee26ad963b19591d4e31698dfe": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b380398a41a794cfbbbbab43e726bdab": {
+    "score": 0.03,
+    "reason": "keywords (1): recovery; semantic: pos_sim=0.05, neg_sim=0.11; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8e1c3e75257a57197ee06edb95d5683b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a014cfb9338f3b8be8c8c5523ed366fd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5e2c7328409feee5453164734adcbaf9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ae13797dde9e3f1876eba2bed1c0e5b1": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3aad61e948ea242f87e6824fb29cf1c7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f08601a2ad5daea88d30dee873d00708": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "dacfe8d8cdb8043730a7f36eb1524ead": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5a2b0005b4a9d793a8fec2130a01665e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "96dde2bc0cb192d897ac07971917479b": {
+    "score": 0.017,
+    "reason": "actions: release; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9ec9107876fc15e7bf199b6e1a92e3e4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "59afc1d7783b2a3177a329488ffcef52": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "17e2c18d44f125458f2740916d21b1a5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "32f902d32322a2409b89fbc8fa102b15": {
+    "score": 0.2,
+    "reason": "This story is reactive and sensational. It does not provide any actionable insights, solutions, or deeper understanding to the reader.",
+    "source": "gpt"
+  },
+  "2dfc6b51185eec1e83a1e8bffd85a720": {
+    "score": 0.7,
+    "reason": "The story provides useful information about Australia's gun laws, contributing to the reader's understanding of the issue. However, it does not report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "a47df080a87e4902b1131ddbe3b5153f": {
+    "score": 0.5,
+    "reason": "The story raises awareness about a current issue, but does not provide any actionable insights or report on solutions. It offers basic awareness, but minimal depth or insight.",
+    "source": "gpt"
+  },
+  "703b12c8d5d4671dd60f756fbc9722c0": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a newly elected leader, which can help readers understand the political landscape in Chile. However, without more context or analysis, it doesn't fully explain the implications or potential impacts of this development.",
+    "source": "gpt"
+  },
+  "9e4e68f7f7e46ae04fc9a06371751576": {
+    "score": 0.8,
+    "reason": "This story informs about an interesting intersection of politics, technology, and workforce development. It provides useful context about the role of AI in government, though it could be more constructive with additional details or analysis of the potential impacts or challenges.",
+    "source": "gpt"
+  },
+  "382d07ff02c9be4f5f6378bfc299d23c": {
+    "score": 0.5,
+    "reason": "While this story provides basic awareness about a current conflict, it lacks depth or insight that would help readers understand the broader context or implications. It's largely reactive, reporting on an event without analyzing its causes or potential effects.",
+    "source": "gpt"
+  },
+  "b3a198fcda67af3dcd1d9ccfadb883d9": {
+    "score": 0.4,
+    "reason": "This story provides basic awareness about the director's work, but it does not offer any deeper insights or actionable information.",
+    "source": "gpt"
+  },
+  "45ffd4f1aa382a0ee41fbc43f04617d8": {
+    "score": 0.2,
+    "reason": "This story is largely sensational and reactive, focusing on the dramatic moment of a bystander's intervention. It does not provide useful context, solutions, or insights.",
+    "source": "gpt"
+  },
+  "3bc131c50c5f906ad1dcc53b89cf258a": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the incident, potentially helping readers understand the situation better. However, it does not focus on solutions or progress, limiting its constructive value.",
+    "source": "gpt"
+  },
+  "e824f3dcc17f70519ba97f200bdc084b": {
+    "score": 0.3,
+    "reason": "The story raises awareness about the situation of the Nobel laureate and human rights in Iran, but it doesn't provide much depth or insight into the broader context or implications. It also lacks actionable insights or solutions.",
+    "source": "gpt"
+  },
+  "52d7aad88a311a321cc9daa043a8409d": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the development in a criminal case, but it doesn't offer much in terms of actionable insights, deeper understanding, or solutions to the broader issue of gun violence or campus safety.",
+    "source": "gpt"
+  },
+  "83f2291cef8d095799fd95f88caf06d3": {
+    "score": 0.5,
+    "reason": "The story raises awareness about a near-miss aviation incident, potentially prompting readers to question aviation safety standards. However, it doesn't provide much depth or insight into the causes of such incidents or potential solutions to prevent them in the future.",
+    "source": "gpt"
+  },
+  "5bbd301c707b94e3577befe94d09b339": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a foiled terror plot, but it doesn't offer any deeper insights, solutions or empowering knowledge. It's primarily reactive and sensational.",
+    "source": "gpt"
+  },
+  "9176fec2f470a4873ab3fb027de727a5": {
+    "score": 0.9,
+    "reason": "This story is constructive as it reports on a peace deal, which is a solution to a problem. It also provides the reader with a deeper understanding of the situation in Ukraine.",
+    "source": "gpt"
+  },
+  "404aa914e310155093a716a453a40eec": {
+    "score": 0.6,
+    "reason": "This story informs readers about new US social media rules for tourists and their potential impact on travel. It increases clarity around this new system, but doesn't report on any solutions or improvements.",
+    "source": "gpt"
   }
 }
