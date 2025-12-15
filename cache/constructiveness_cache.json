@@ -10413,5 +10413,155 @@
     "score": 0.3,
     "reason": "This story is largely sensational, focusing on the dramatic visual aspect of a crime. It does not provide useful information or context, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
     "source": "gpt"
+  },
+  "675ea2f6fdbcb2e011bdb8985db3c3a1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "281ac6f369231f177d48add4582cdf1b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "305f8d0857fcb611425caaaab51f09a7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "65ae048ec063cd824e8dc68cfae09f9c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "409bcc7a6cdd0561d78c07ec7928386f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a056fa04b960a2d2b33a693dfb2425f3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c3019638b117f7a764935af2cb0520cf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d7f3e98627ec17ebe5c651b232a0e15b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "aa083ead86b89637a6819d53c4c621dd": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: dead); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b8084f18ce962286f39f6d045e52e216": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "bae5f6d20bf5b8cebfe4ed2d76a3d560": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ba6b7374b027a1f273d4bb6348907b1f": {
+    "score": 0.08,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b6452a80d8af96e51310321b70422a96": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "001b539d3865e16fbebf0cf04d76766b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b872de54f4566dd91a2587e87f31d781": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fef9209daeafd12c2a071fadd5dc9bae": {
+    "score": 0.8,
+    "reason": "This story is constructive because it provides useful information about the ongoing debate on gun laws in Australia following the Sydney killings. It increases awareness about the issue and contributes to the reader's understanding of the situation.",
+    "source": "gpt"
+  },
+  "29ee5b0b8bef1978af572191bc5be824": {
+    "score": 0.6,
+    "reason": "The story is constructive as it informs the reader about an important political event - the presidential election in Chile. However, without more context or analysis, the story provides limited insight into the implications of this election result.",
+    "source": "gpt"
+  },
+  "32b12610d6c93b0b7357ff9902f7fa32": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the Bondi terror attack, potentially helping the reader visualize the event. However, without more information on the causes, impacts, or responses to the event, it provides minimal depth or insight.",
+    "source": "gpt"
+  },
+  "695544ee71d35f44f9d3365b6385e538": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a public safety incident and the role of a bystander in resolving it. However, it does not provide much depth or insight into the broader context or implications.",
+    "source": "gpt"
+  },
+  "12126597dd2f2a2b5860a2eff720e4c2": {
+    "score": 0.6,
+    "reason": "This story informs readers about a labor dispute, which could be useful for those planning to visit the museum or interested in labor rights. However, without more information on the reasons for the strike or its potential impacts, it does not provide a full understanding.",
+    "source": "gpt"
+  },
+  "a8f56deb2dd140b7ee7e21ab01ee6d8b": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a violent incident but does not offer any deeper understanding or actionable insights. It also does not report on any solutions or attempts to prevent such incidents in the future.",
+    "source": "gpt"
+  },
+  "71c1b5acd12d90be67f4f9f98031b486": {
+    "score": 0.8,
+    "reason": "This story is constructive as it provides useful information about ongoing peace talks related to a significant geopolitical issue. It increases awareness about the international efforts to resolve the conflict in Ukraine, although it does not seem to offer actionable insights or report on specific solutions.",
+    "source": "gpt"
+  },
+  "c66fed7e5e45ac4d63e418b7aefbe46b": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a sports event, but it does not provide deeper understanding or insights. It does not report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "67e10068ec1207c87723844b406503d9": {
+    "score": 0.5,
+    "reason": "This story provides awareness about the victims of a tragic event, which can contribute to a deeper understanding of its human impact. However, it does not appear to offer actionable insights, report on solutions, or increase clarity around the broader systems or trends at play.",
+    "source": "gpt"
+  },
+  "67d1ec0f4b3be9978c18fbe4f883684a": {
+    "score": 0.6,
+    "reason": "This story is constructive as it raises awareness about prostate cancer and the fact that it can affect anyone, even celebrities. However, it lacks actionable insights or solutions.",
+    "source": "gpt"
+  },
+  "c63eb6c4c01d097569dcaef65d0d69f0": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the rise in antisemitic incidents in Australia, but it doesn't delve into the causes, potential solutions, or the larger implications of this trend.",
+    "source": "gpt"
+  },
+  "60e827bed95488794ef96b3860d6b932": {
+    "score": 0.9,
+    "reason": "This story is highly constructive as it reports on progress in peace talks, a significant development in international relations. It provides empowering knowledge about the current geopolitical situation.",
+    "source": "gpt"
+  },
+  "e263512ba334b60ca43678efd9b9b8ab": {
+    "score": 0.6,
+    "reason": "This story is somewhat constructive as it provides useful information about increased security in response to a recent event. It does not, however, offer any solutions or deeper insights into the issue.",
+    "source": "gpt"
+  },
+  "ec9b2a7c29ef8f69f1cf4f4eaa1f24b6": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about political pressure faced by the Australian Prime Minister, but it lacks depth or insight into the underlying issues or potential solutions.",
+    "source": "gpt"
+  },
+  "77222744e64759614a227ab7bcdb821a": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about an injury to a sports player, but it does not offer any actionable insights, solutions, or deeper understanding of the issue.",
+    "source": "gpt"
   }
 }
