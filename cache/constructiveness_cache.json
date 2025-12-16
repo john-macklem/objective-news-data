@@ -10738,5 +10738,170 @@
     "score": 0.6,
     "reason": "This story informs readers about new US social media rules for tourists and their potential impact on travel. It increases clarity around this new system, but doesn't report on any solutions or improvements.",
     "source": "gpt"
+  },
+  "77e46934d25a79e131d6b9fc493aa445": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9295cc6c8ade86ecb4ad5a95e532319d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7792e7ad8fd950041aa9631280e7dd85": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a0fc3fe256868c4c404c0e8171bb5edf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "68d209f9ec801b5eee00ea68026fde57": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1343101f5f082aa0591eb282f988ff26": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "95c2401618a7d990d78378190bf1ad50": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d256d9c94c38d9a345aab8a415d4d497": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b9155bd0b1edebcb761bf814fe4fa149": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "fb60561640620022fc1fb0af3d20e8e7": {
+    "score": 0.017,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "23e3274f6490957afffa9dd418085510": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "06eddd3b04e2a0e7e0307f57fd14e007": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3538210d3f19740fba5ae7da4045e8d5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8cedeb014062bf1623f8fcfb44e69e53": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "39ea4c797fcf4bfb8d3def1794c725e0": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ab744f21d3e0472421184f48dd59ff12": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "364bd5c73616a0afc56637300ca34365": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: may); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5a9e456bf8a50c8df19c7fd3e395ce8e": {
+    "score": 0.03,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6ca1841bdea2a8ee419d71bd0027bcaf": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a security issue but doesn't offer much depth or insight into the situation, the motivations of the attackers, or how such incidents can be prevented in the future.",
+    "source": "gpt"
+  },
+  "b14531c6be279708596adca818b25165": {
+    "score": 0.3,
+    "reason": "The story provides some awareness about a military operation, but lacks context and depth. It does not offer insights into why these operations are happening, what their impacts are, or what the broader implications might be.",
+    "source": "gpt"
+  },
+  "c0dea6add191faba0c6d6e00a14e6ed0": {
+    "score": 0.5,
+    "reason": "This story offers some awareness about an ongoing legal dispute, but it doesn't provide much depth or insight. It doesn't explain the implications of the lawsuit, the basis for the claims, or the potential impacts on freedom of speech or media ethics.",
+    "source": "gpt"
+  },
+  "d6251a6fc6fb9bc29aca4aa43f81b5a5": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a controversy involving a prominent figure, but it lacks depth or insight into the broader implications or context. It does not provide actionable insights, report on solutions, or increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "3f990bb7f17e3cf5b94e565018158956": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a cultural trend, as reflected in the choice of word of the year. However, it does not provide deeper understanding or actionable insights, and it does not report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "320fbf4015aa74741c1d274f5346eb3d": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a legal action involving a prominent figure and a major media outlet, but it lacks depth or insight into the broader implications or context. It does not provide actionable insights, report on solutions, or increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "4eb7c9b14d7dd67e200cf4e0bde1ae20": {
+    "score": 0.8,
+    "reason": "This story is constructive as it provides useful information about the ongoing efforts to resolve the conflict in Ukraine. It doesn't explicitly highlight a solution, but it does report on attempts to solve a major international problem.",
+    "source": "gpt"
+  },
+  "a47599f34ad8efeba51b67b9db011216": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the situation of media freedom in Hong Kong. However, it doesn't provide much depth or insight into the issue, nor does it report on any progress, solutions, or improvements.",
+    "source": "gpt"
+  },
+  "1648e8d60370733709ec3fd5b119ac55": {
+    "score": 0.7,
+    "reason": "This story is constructive as it informs readers about a significant development related to the Ukraine conflict. It provides useful information about the creation of an international commission to assess war damages, which could potentially lead to solutions or improvements in the future.",
+    "source": "gpt"
+  },
+  "bf325758b3c46aff30bbd2196d28d9b0": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the current state of affairs in Syria and the US's stance on it. However, it does not offer any solutions or progress towards resolving the conflict, nor does it provide a deep understanding of the underlying causes or impacts.",
+    "source": "gpt"
+  },
+  "a8b8c68b7320d456ce544707508fb0b0": {
+    "score": 0.5,
+    "reason": "The story raises basic awareness about the Russian government's actions against dissent, but it lacks depth or insight into the wider implications of these actions or how they fit into larger trends of political repression in Russia.",
+    "source": "gpt"
+  },
+  "fc983be3f34a57677e435773ca08e1cd": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a specific incident, but it does not provide any actionable insights or deeper understanding. It also does not report on solutions, improvements, or attempts to solve the problem of gun violence.",
+    "source": "gpt"
+  },
+  "63d3e01daf24bc28af5f8d985e4454d8": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the state of the electric vehicle industry, specifically Ford's decision to scrap a major project due to financial losses and falling demand. However, it doesn't provide much in the way of solutions or progress, and the depth of understanding it offers is limited.",
+    "source": "gpt"
+  },
+  "0c05ac2da775429d8709e7a837715407": {
+    "score": 0.3,
+    "reason": "While this story may raise awareness about the incident at Bondi Beach, it focuses largely on the person who disarmed the shooter rather than providing a deeper understanding of the situation, the causes, or potential solutions to such incidents. The story is more sensational than constructive.",
+    "source": "gpt"
+  },
+  "23c9e8d51758a03b7e51b4b42abbded7": {
+    "score": 0.7,
+    "reason": "This story informs readers about the perceived threat from Russia and the call for Britain to better prepare. It provides some insight into international relations and military strategy, but it doesn't provide specific solutions or progress towards addressing the issue. However, it does increase awareness about a significant geopolitical trend.",
+    "source": "gpt"
   }
 }
