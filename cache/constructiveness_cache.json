@@ -11078,5 +11078,155 @@
     "score": 0.3,
     "reason": "While this story might be entertaining, it doesn't provide any actionable insights or deeper understanding. It doesn't report on solutions, improvements, or innovations, and it doesn't increase clarity around systems, causes, trends, or impacts that matter.",
     "source": "gpt"
+  },
+  "6231bd801f030350c405a0d229ff1775": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "92cf7a0a0199b8994ba6a81acb9998cc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c4d58c795b15bd0400a303c709aaa130": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "90026071deb998e3c34ad0e6e0c9d346": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "956dc5aec3da8198f38777518a1b882d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ab2f0edcfe35dbe6dd866970018a79cf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fd9732a294adda65d47e721d335252cd": {
+    "score": 0.0,
+    "reason": "keywords (1): expand; actions: expand; negative_penalty=0.05 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2a9c7a1b527ef440b328f6c8debfb48f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d0851a1e6c45e17df87683be672609bf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "47b7a7b4eb555a90fa621c32a7d2b182": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6561cad48d924d6757e9b3b674b9e435": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c5847f9e234b56b417d15481b338ccff": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c06a5f6d79e40300168854f8cc4eb73e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8dd8628b64d95b9609bc416c6cbed856": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d47f304f7fb051dc5db5c44840d66d94": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "fbcaf053a55082c4672ac9c7caa93d4c": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a tragic event, but doesn't offer any deeper understanding or actionable insights. It also doesn't report on solutions or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "33ab6a8ee0a9bcefeb4408c3828e367e": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant political event, potentially offering insights into international relations and sanctions. However, it doesn't appear to highlight solutions or progress, nor does it provide a clear sense of the underlying systems or causes.",
+    "source": "gpt"
+  },
+  "c170715d1336ba171bda570a9fa33dcf": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a criminal case but doesn't offer any deeper understanding or actionable insights. It also doesn't report on solutions or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "3b55c5488c5ff03b844b1ecd81bae77e": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a business decision, but doesn't offer much depth or insight into why this decision was made or what the implications might be.",
+    "source": "gpt"
+  },
+  "30f7a5dfc022916799eb87cfb23522cd": {
+    "score": 0.2,
+    "reason": "The story is largely reactive and doesn't provide much useful information or context about the situation in Venezuela or why the video won't be released.",
+    "source": "gpt"
+  },
+  "511c4758466f1325806de995abde9bd1": {
+    "score": 0.1,
+    "reason": "This story is largely sensational and doesn't provide any meaningful insights or value to the reader. It doesn't contribute to understanding of the topic or offer any actionable insights.",
+    "source": "gpt"
+  },
+  "b6ddf80feaa23be2ea534653b3f70bd2": {
+    "score": 0.7,
+    "reason": "This story is constructive as it informs readers about a significant change in public health policy. However, without more context or information on the implications of this change, it does not fully empower the reader or provide a solution.",
+    "source": "gpt"
+  },
+  "6e648cc7c3934bf0b5aa7ceabc2e391a": {
+    "score": 0.3,
+    "reason": "This story provides some basic awareness about a cultural debate, but it does not provide any actionable insights, solutions, or deeper understanding of a significant issue.",
+    "source": "gpt"
+  },
+  "f96ade0c2d86fec8e05fe2afea1aa7a6": {
+    "score": 0.0,
+    "reason": "This story is reactive and sensational, providing no actionable insights, deeper understanding, or solutions. It does not increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "088276de2b8e24dc634b186706c38616": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a tragic event, but it lacks depth or insight. It does not offer any actionable insights or deeper understanding, nor does it report on solutions, improvements, innovations, or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "0568132cf729c3444e0c5479c29efdfe": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the bravery of individuals involved in a tragic event. However, it does not give the reader actionable insights or a deeper understanding of the situation. It also does not report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "87f51e5f910de18a3123641a31d5d8f1": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the impact of a geopolitical event on the global economy. It helps readers understand the trends in the stock market and oil prices, but it does not report on solutions or improvements related to the blockade.",
+    "source": "gpt"
+  },
+  "4aa94f4471153783016f9e274d3051e0": {
+    "score": 0.0,
+    "reason": "This story is not constructive. It appears to be sensational and reactive, focusing on the spectacle of a high-speed crash rather than providing any meaningful insights or context.",
+    "source": "gpt"
+  },
+  "99041ec7be26c15ea80e8c921a619664": {
+    "score": 0.5,
+    "reason": "This story provides some basic awareness about the incident and the community's response, but it lacks depth or insight into the causes, potential solutions, or broader implications.",
+    "source": "gpt"
+  },
+  "6d8e8a8d85c1fd05ffd6d203646d86dc": {
+    "score": 0.3,
+    "reason": "This story provides basic information about a sports event, but it doesn't offer any deeper understanding or actionable insights for the reader, nor does it highlight any progress, solutions, or empowering knowledge.",
+    "source": "gpt"
   }
 }
