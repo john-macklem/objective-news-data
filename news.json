@@ -1,540 +1,809 @@
 [
   {
-    "title": "United States agrees to sell weapons to Taiwan for 11 billion dollars",
-    "domain": "business",
-    "source_domain": "npr.org",
+    "title": "President Trump says marijuana will have fewer federal rules",
+    "domain": "politics",
+    "source_domain": "abcnews.go.com",
     "location": "national",
-    "published": "Thu, 18 Dec 2025 02:25:47 -0500",
-    "source": "NPR",
+    "published": "Thu, 18 Dec 2025 14:59:34 -0500",
+    "source": "ABC News",
     "sources": [
-      "NPR",
-      "Deutsche Welle",
-      "Reuters",
-      "Financial Times",
-      "Bloomberg",
-      "Al Jazeera",
+      "ABC News",
       "CNBC",
-      "Associated Press"
+      "The Guardian",
+      "Business Insider",
+      "MarketWatch",
+      "Financial Post"
     ],
     "domains": [
-      "npr.org",
-      "dw.com",
-      "news.google.com",
-      "ft.com",
-      "aljazeera.com",
-      "cnbc.com"
+      "abcnews.go.com",
+      "cnbc.com",
+      "theguardian.com",
+      "businessinsider.com",
+      "marketwatch.com",
+      "financialpost.com"
     ],
     "snippets": [
-      "The Trump administration has announced a massive package of arms sales to Taiwan valued at more than $10 billion that includes medium-range missiles, howitzers and drones, a move that is sure to infuriate China.",
-      "The weapons package for Taiwan is valued at more than $10 billion and includes medium-range missiles, howitzers and drones.",
-      "US approves $11.1 billion arms package for Taiwan, largest ever Reuters",
-      "Largest weapons package of its kind threatens to undo thaw following Trump’s trade truce with Beijing",
-      "US Approves $11 Billion Arms Sale to Taiwan, Risking China Anger Bloomberg.com",
-      "Huge US arms package for Taiwan includes HIMARS rocket systems, howitzer artillery, antitank missiles, and drones.",
-      "The package consists of items like artillery systems, antitank missiles, as well as spare parts for helicopters and antiship missiles.",
-      "US announces massive package of arms sales to Taiwan valued at more than $10 billion AP News"
+      "President Donald Trump announced an executive order reclassifying marijuana as a Schedule III drug, effectively easing federal restrictions on the drug.",
+      "President Donald Trump signed an executive order Thursday reclassifying marijuana as a Schedule III substance with looser restrictions.",
+      "Change will loosen limits on research and certain regulations but stop short of making marijuana legal Donald Trump on Thursday signed an executive order to move cannabis out of the most restrictive drug category, a change that would loosen limits on research and certain regulations but stop short o",
+      "The executive order reclassifies marijuana as a Schedule III drug, easing the path for more research.",
+      "President Trump on Thursday signed an executive order asking the U.S. government to reschedule cannabis — a move that analysts and industry executives called the most significant federal reform on the substance in decades.",
+      "WASHINGTON (AP) — President Donald Trump signed an executive order Thursday that could reclassify marijuana as a less dangerous drug and open new avenues for medical research, a major shift in federal drug policy that inches closer to what many states have done. The switch would move marijuana away"
+    ],
+    "image_url": "https://s.abcnews.com/images/Politics/251218_abc_social_trump_eo_reclassifying_marijuana_hpMain_4x3_384.jpg",
+    "titles": [
+      "WATCH:  Trump announces executive order reclassifying marijuana",
+      "Trump signs executive order reclassifying cannabis, opening door to broader weed access",
+      "Trump signs order reclassifying marijuana as less dangerous",
+      "Trump signs executive order easing federal restrictions on marijuana",
+      "Cannabis stocks trade mixed as Trump signs executive order to reclassify the drug",
+      "Trump signs executive order that could reclassify marijuana as a less dangerous drug"
+    ],
+    "url": "https://abcnews.go.com/Politics/video/trump-announces-executive-order-reclassifying-marijuana-128529331",
+    "alternate_urls": [
+      "https://www.cnbc.com/2025/12/18/trump-pot-reclassification-cannabis-stocks-medicare-cbd.html",
+      "https://www.theguardian.com/us-news/2025/dec/18/trump-cannabis-executive-order",
+      "https://www.businessinsider.com/trump-marijuana-executive-order-federal-restrictions-schedule-research-2025-12",
+      "https://www.marketwatch.com/story/marijuana-stocks-jump-with-trump-set-to-sign-executive-order-that-would-reclassify-the-drug-3d741133?mod=mw_rss_topstories",
+      "https://financialpost.com/pmn/trump-signs-executive-order-that-would-reclassify-marijuana-as-a-less-dangerous-drug"
+    ],
+    "location_scope": "national",
+    "link": "https://abcnews.go.com/Politics/video/trump-announces-executive-order-reclassifying-marijuana-128529331",
+    "score_components": {
+      "magnitude": 1.0,
+      "recency": 0.981,
+      "consensus": 1.0,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.904,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs about a significant policy change, but without any additional context or analysis, it doesn't provide the reader with a deep understanding of the implications or actionable insights.",
+    "constructiveness_source": "gpt",
+    "summary_source": "snippet",
+    "summary_reason": "invalid_roles",
+    "headline_source": "gpt",
+    "summary": "President Donald Trump announced an executive order reclassifying marijuana as a Schedule III drug, effectively easing federal restrictions on the drug.",
+    "is_trending": true,
+    "trending_score": 0.75
+  },
+  {
+    "title": "EU leaders talk about lending frozen Russian money to Ukraine",
+    "domain": "politics",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Thu, 18 Dec 2025 15:18:00 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Deutsche Welle",
+      "Reuters",
+      "Washington Post",
+      "New York Times"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "dw.com",
+      "news.google.com",
+      "washingtonpost.com",
+      "nytimes.com"
+    ],
+    "snippets": [
+      "The proposal centres on whether the EU can use about $246bn in Russian central bank frozen assets.",
+      "European Union leaders have gathered in Brussels to vote on the use frozen Russian assets to support Ukraine.",
+      "Leaders from the 27 member states are meeting in Brussels, with Ukraine, bloc enlargement and migration on the agenda. DW has the latest.",
+      "EU leaders agree to work on using Russian assets for loan for Ukraine -Polish PM Reuters",
+      "EU leaders think it is fair to use Russian assets for Ukraine, Polish PM says Reuters",
+      "Crunch EU summit discusses using frozen Russian assets for Ukraine Reuters",
+      "The European Union is set to decide whether to move on Russia’s frozen assets, infuriating Moscow, possibly antagonizing the United States, to fund Ukraine.",
+      "The continent’s leaders are discussing a contentious deal to back Ukraine and its war effort. The final decision will signal the extent of Europe’s ability to face down Moscow."
     ],
     "image_url": "",
     "titles": [
-      "US announces massive package of arms sales to Taiwan valued at more than $10 billion",
-      "US approves largest arms sale to Taiwan",
-      "US approves $11.1 billion arms package for Taiwan, largest ever - Reuters",
-      "US approves $11bn arms sale to Taiwan",
-      "US Approves $11 Billion Arms Sale to Taiwan, Risking China Anger - Bloomberg.com",
-      "US approves $11bn in arms sales to Taiwan in deal likely to anger China",
-      "China says U.S. will only 'harm itself' after Washington approves $11 billion arms sale to Taiwan",
-      "US announces massive package of arms sales to Taiwan valued at more than $10 billion - AP News"
+      "EU summit on knife-edge over plan to fund Ukraine using Russian assets",
+      "EU debates use of frozen Russian assets to support Ukraine",
+      "EU summit: Russian frozen assets for Ukraine top agenda",
+      "EU leaders agree to work on using Russian assets for loan for Ukraine -Polish PM - Reuters",
+      "EU leaders think it is fair to use Russian assets for Ukraine, Polish PM says - Reuters",
+      "Crunch EU summit discusses using frozen Russian assets for Ukraine - Reuters",
+      "A divided E.U. races against time to tap Russian assets for Ukraine",
+      "Europe’s Fight Over Russian Assets Is Testing Its Ability to Support Ukraine"
     ],
-    "url": "https://www.npr.org/2025/12/18/nx-s1-5648080/us-arms-sales-taiwan-10-billion",
+    "url": "https://www.aljazeera.com/news/2025/12/18/eu-summit-on-knife-edge-over-plan-to-fund-ukraine-using-russian-assets?traffic_source=rss",
     "alternate_urls": [
-      "https://www.dw.com/en/us-approves-largest-arms-sale-to-taiwan/a-75211140?maca=en-rss-en-top-1022-rdf",
-      "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1ltNUNJUHdEVFVyRm84NTlsRk1aNHBPSmpTTzJwVjVybm9zaXFZLVIwOEZ6am94MVdZZjNuM0hIRlNic04xLUUtTlFkSlJhTDJNemVKM1plMnF4UUFia1pLNXJockVaNWVSbzA4RHBkNHZtU25NbFNCMk5PNUpqa2JDNEpVZXh6ZThzSXJVbmxxTkxOSUFxWFgxVV9tOTd2Q25yTWhUNHowNmJV?oc=5",
-      "https://www.ft.com/content/feda40da-5297-43f8-80a0-a5252e6bc89e",
-      "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHc3UnlLSjZOR2RNZ3RWUlNFOXNBWE9uZF9uUmwycU50aVMtanVod282NjA1VXVlOW5EX0dkN0p2cUxxOE1zVHVLUy1jX0p6eEIySkIyVzI1eGcwUjh0U0VIeGt0N2xkb2psci1pRlo4VHU5eFAxdXhuaDNsdTNaeGQ2NW5Kc3JBZVUtTzZqRW5IYlczZVZSSDBhZlRSVzgyRjVEQzZmMXE3MkZDQWhpX01Sbw?oc=5",
-      "https://www.aljazeera.com/news/2025/12/18/us-approves-11bn-in-arms-sales-to-taiwan-in-deal-likely-to-anger-china?traffic_source=rss",
-      "https://www.cnbc.com/2025/12/18/us-taiwan-china-arms-sale-.html",
-      "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGsya0ZNZHFtbDhvcTVTTkFZRTVNTG54cnN6OEhTZGc1TkxvZldQeWhlbm9HNE5tN0U5TlNZN1lHc1pFeVlwR29pS2swd3huTUx5dzFhVE5yTGhaSmNhZXd6c2M0NWNGZmpMb2lrdWY5WTRoYTJXM0hrRWNCQWNZRm5uaXY5V0VzcDRteWxab3FrMGs?oc=5"
+      "https://www.aljazeera.com/video/newsfeed/2025/12/18/eu-debates-use-of-frozen-russian-assets-to-support-ukraine?traffic_source=rss",
+      "https://www.dw.com/en/eu-summit-russian-frozen-assets-for-ukraine-top-agenda/live-75211191?maca=en-rss-en-top-1022-rdf",
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTDM2MC1SRl8xMU9UNzNxbzhpT0x5cnhfZkpyR2JLT3ZXVnl4aXQ4QmFMSGR3c25pTHRjSmllT3ZWM0VBTk5OVGNXQ1NuQ3VZWUtNMnZsU2QxVUQtUUJSc0VKYzNSSnE1bnF4dUVZTDdpVkUydkdPWDhXaFA2WGp3X3NYb2dkS2NxMjRaTU1xU1F1NVg5eTNQRXJKSUMtUEltOWFIRk9YM3pidjZrY1ZZWW1sSFc?oc=5",
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxON05jSkdDMjBJUS1IUVNBSzJVLVk1UmV5dkZZU2J4dFF6QWlZY3hGREVpamliYW9jOEk2N0Rnb1IyTDJFLUxUbkxlQUtIS2VfaWp5eFg3bm1HVEZxSEk1TmpLSHJqVGwwVUt0SGFpUExZZU5WZ1F6Wjc1bXpPSjBJQ2hBb1cyeFpTSjZycmtCd256M0dZM0ZPYUZqdWxyWldFWU5oS1cyYmpSS1dSeXkxRGY2d29pUEp4ZEE?oc=5",
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWVROHBoeVFycTNpM3ZHaWlURzN4SHpwSzJ0VW9lMUduWmNZa0NNcmEwQ3hxQmdmYzlyOEtxZHJ5aWVTMW00eVZaM3ZQYnY2SmlZbUQ2NUhxQlhYVm9XTFdkWEZ4OHFfTm01TGhZQ185UnVRNWpPSnRYSnd6V05YRk9nbWJ5QzJZYTdSSVBUd2dhQnNtNzY0ZVY2cVoyd2ExYTI4MUhNajlTYW1mQy1sbDBxMA?oc=5",
+      "https://www.washingtonpost.com/world/2025/12/18/european-union-summit-ukraine-belgium-russia-frozen-assets/",
+      "https://www.nytimes.com/2025/12/18/world/europe/russia-eu-ukraine-frozen-assets.html"
+    ],
+    "location_scope": "global",
+    "link": "https://www.aljazeera.com/news/2025/12/18/eu-summit-on-knife-edge-over-plan-to-fund-ukraine-using-russian-assets?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.984,
+      "recency": 0.861,
+      "consensus": 0.995,
+      "constructiveness": 0.8,
+      "proximity": 0.5
+    },
+    "score": 0.883,
+    "constructiveness_score": 0.8,
+    "constructiveness_reason": "This story informs about a critical geopolitical issue and provides useful context about the EU's decision-making process. However, without more details on the plan itself or its potential outcomes, it falls short of providing empowering knowledge or highlighting solutions.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "European Union leaders met in Brussels to discuss using approximately $246 billion in frozen Russian central bank assets to support Ukraine. The summit focused on Ukraine, EU enlargement, and migration. Leaders agreed to work on a plan to use these assets as a loan for Ukraine, but a final decision has not yet been made. The proposal remains under discussion.",
+    "is_trending": true,
+    "trending_score": 0.75
+  },
+  {
+    "title": "US plans to stop gender care for minors using Medicaid funds",
+    "domain": "general",
+    "source_domain": "globalnews.ca",
+    "location": "national",
+    "published": "Thu, 18 Dec 2025 18:46:40 +0000",
+    "source": "Global News",
+    "sources": [
+      "Global News",
+      "The Guardian",
+      "Associated Press"
+    ],
+    "domains": [
+      "globalnews.ca",
+      "theguardian.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "The U.S. Department of Health and Human Services on Thursday unveiled a series of regulatory actions designed to effectively ban gender-affirming care for minors.",
+      "Proposal would prohibit Medicaid funds from being used to cover puberty blockers, hormone treatments or surgical procedures US politics live – latest updates The Trump administration unveiled new actions aimed at eliminating transition-related medical care for minors across the US on Thursday, refer",
+      "Trump administration moves to cut off transgender care for children AP News"
+    ],
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/12/de70d7bc827668b25a0069cbcf0f67a36a739150154a3f654f270814d5402068_d9f6bd.jpg?quality=65&strip=all",
+    "titles": [
+      "Trump administration proposals aim to ban transgender care for minors",
+      "Trump administration unveils plans to end gender-affirming care for minors",
+      "Trump administration moves to cut off transgender care for children - AP News"
+    ],
+    "url": "https://globalnews.ca/news/11583567/trump-proposals-transgender-care-minors/",
+    "alternate_urls": [
+      "https://www.theguardian.com/us-news/2025/dec/18/trump-transition-healthcare-funding-hhs",
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1NmRHNGcnRtWWZfemwxMHBBSVd6RWRBZS1XQlhxdzJUTHVlUzAtdEFLbVllMWNLdFY4Mlp5UVhLQ0R2X1ItYVNJR0xLTTN2Z3Q2MWZhdjdwcXhpVnVseEhURVZRVWNLWEN2RmZoOC1xMW9kNFo5Q1ZQZ0NkRUN3WG9pRGtCZzhrSHg5TWt6NTdseXdjeVFXTTIzM25oLW9oRTdmcg?oc=5"
     ],
     "location_scope": "national",
-    "link": "https://www.npr.org/2025/12/18/nx-s1-5648080/us-arms-sales-taiwan-10-billion",
+    "link": "https://globalnews.ca/news/11583567/trump-proposals-transgender-care-minors/",
     "score_components": {
-      "magnitude": 1.0,
-      "recency": 0.915,
-      "consensus": 1.0,
+      "magnitude": 0.867,
+      "recency": 0.949,
+      "consensus": 0.789,
+      "constructiveness": 0.6,
+      "proximity": 1.0
+    },
+    "score": 0.863,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "The story informs readers about a proposed policy change that could impact transgender minors, providing useful context. However, it does not highlight any progress or solutions, and its awareness value is limited to the specific issue at hand.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "On December 18, 2025, the U.S. Department of Health and Human Services announced new regulatory actions intended to ban gender-affirming care for minors. The proposal would prohibit the use of Medicaid funds for puberty blockers, hormone treatments, or surgical procedures for individuals under 18. These actions were introduced by the Trump administration.",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "Arts center board votes to rename building Trump Kennedy Center",
+    "domain": "politics",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Thu, 18 Dec 2025 19:43:49 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "Axios",
+      "CNBC",
+      "Bloomberg",
+      "Forbes"
+    ],
+    "domains": [
+      "bbc.com",
+      "news.google.com",
+      "cnbc.com",
+      "forbes.com"
+    ],
+    "snippets": [
+      "The board of the performing arts centre voted to name it after President Donald Trump, rebranding it the 'Trump-Kennedy Center', press secretary Karoline Leavitt says.",
+      "The Kennedy Center will become the Trump-Kennedy Center: Leavitt Axios",
+      "The John F. Kennedy Memorial Center for the Performing Arts will be renamed the \"Trump-Kennedy Center,\" White House press secretary Karoline Leavitt said.",
+      "Kennedy Center to Be Renamed to Honor Trump, White House Says Bloomberg.com",
+      "President Donald Trump vowed to make significant changes to the center, including the removal of “woke” programming."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b5f/live/0d4e44a0-dc46-11f0-a1ce-39295e57b193.jpg",
+    "titles": [
+      "Kennedy Center to be renamed Trump-Kennedy Center, White House says",
+      "The Kennedy Center will become the Trump-Kennedy Center: Leavitt - Axios",
+      "Kennedy Center to be renamed 'Trump-Kennedy Center,' White House says",
+      "Kennedy Center to Be Renamed to Honor Trump, White House Says - Bloomberg.com",
+      "Kennedy Center Will Be Renamed ‘Trump-Kennedy Center,’ White House Says"
+    ],
+    "url": "https://www.bbc.com/news/articles/cp84pxvp87eo?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oeno5UjJpaEprVzdiUjV5WldveWlGdkF3TVJEamRZNjgtTVVoYjRtU0RqY1gxcmNCZTJHbEpLaTVSQWNhaWttaEhMMjl5alppazhmVHkwVEQ2WjQ4QzZKaFZZeXZtUG5qU1E?oc=5",
+      "https://www.cnbc.com/2025/12/18/trump-renaming-kennedy-center.html",
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWV0YVNVbWZicWtFRW14eUREUlJTQ2xLNlpOSmtUTjlfYk5tb081cFFoMzRnVnVLck9yREp1VDI2dC1uVUl5WlhoY09XWXRrTnFrc1dMeHVHMGgtZXU1ajJacTRmYlNFQUU5eUJzd21DTk02dWhfbHM3S1NuQUFLZGpldFFySER6V0NSTVFrZEhWakNSWWlBdjZRRThzdEJQUGdFUXRBc1NaR1FSa0ZqTg?oc=5",
+      "https://www.forbes.com/sites/antoniopequenoiv/2025/12/18/kennedy-center-will-be-renamed-trump-kennedy-center-white-house-says/"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/news/articles/cp84pxvp87eo?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 0.964,
+      "recency": 0.974,
+      "consensus": 0.975,
+      "constructiveness": 0.3,
+      "proximity": 0.5
+    },
+    "score": 0.856,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about a name change of a prominent institution, but it doesn't offer any depth, insight, or clarity around the decision or its impacts.",
+    "constructiveness_source": "gpt",
+    "summary_source": "snippet",
+    "summary_reason": "invalid_roles",
+    "headline_source": "gpt",
+    "summary": "The board of the performing arts centre voted to name it after President Donald Trump, rebranding it the 'Trump-Kennedy Center', press secretary Karoline Leavitt says.",
+    "is_trending": true,
+    "trending_score": 0.75
+  },
+  {
+    "title": "Trump adds new labels to portraits of past presidents",
+    "domain": "politics",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Thu, 18 Dec 2025 17:49:40 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "CBC News",
+      "Associated Press",
+      "Globe and Mail"
+    ],
+    "domains": [
+      "bbc.com",
+      "cbc.ca",
+      "news.google.com"
+    ],
+    "snippets": [
+      "New plaques have appeared under the portraits of former US presidents at the White House.",
+      "President Donald Trump has affixed partisan plaques to the portraits of all U.S. commanders in chief, himself included, on his Presidential Walk of Fame at the White House, describing Joe Biden as \"sleepy,\" Barack Obama as \"divisive\" and Ronald Reagan as a fan of a young Trump.",
+      "Sleepy. Divisive. A fan of young Trump: A look at the new plaques on the Presidential Walk of Fame AP News",
+      "Trump insults former presidents with new plaques on White House’s Walk of Fame The Globe and Mail",
+      "Video: Trump writes partisan plaques for former presidents The Globe and Mail"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3da5/live/6648e590-dc16-11f0-babc-21f9e89ffedf.png",
+    "titles": [
+      "Fact-checking White House plaques targeting former US presidents",
+      "New plaques on Trump's 'Presidential Walk of Fame' insult, mock former U.S. presidents",
+      "Sleepy. Divisive. A fan of young Trump: A look at the new plaques on the Presidential Walk of Fame - AP News",
+      "Trump insults former presidents with new plaques on White House’s Walk of Fame - The Globe and Mail",
+      "Video: Trump writes partisan plaques for former presidents - The Globe and Mail"
+    ],
+    "url": "https://www.bbc.com/news/articles/c8e9jexe5k8o?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://www.cbc.ca/news/world/white-house-plaques-trump-biden-9.7020730?cmp=rss",
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnJpNnJ5TThsbm80M0JIUVR0STVCQWRVdzlzclVuWWswT0RSMDVlbXVjNFZ0TmNYNlB0TzhzOTl1bER2VXNuaEpFY1Y2UmFWLWpvLXBTU2lneHlxVWVrQlB1cl96eWRUa1hwQUx5ZXlVU2VHRVotREV2RlRGUmUtWDNXdjFUTVhCcHBYZ05JeGE4QzdqR1BXLVF2d3E?oc=5",
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXA0cmtUZngteWhjTDRIOWpHaHNKaXBrQkFINzBFX1JZVmdLWE1SUktWQUtQLXZrQXZzdGIxSVpNLU05OWFZZ3dxNjh5akdoYUExQlNWS244STVsS1JtbzFQVWc1SEtCRHRvZG1TeURNY1VlZE5mRzRvaExRXzNxUHpYOHYzSEF1XzJaaFZ0bXJaUGFpVWtlMENR?oc=5",
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVpJalBpcllaV2V4cUY1cDFNWDk0anF5MVhlMDV3VFNCTlhKeGpJRUxIa3FGV3VkbVVBRHVvOS1TNGgyaDQtdWN0aXNtZXhkeHJIcmdKTGR6UUFfQ2x1MnFtc09qNkZHa1l5RU93djFudFdoQkhnc3haVGY4Y2lnRzlYMUJ3UDFyM2ZRUEZlSTJzSnQzaUgzMFFTdnU?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/news/articles/c8e9jexe5k8o?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.924,
+      "consensus": 0.888,
+      "constructiveness": 0.7,
+      "proximity": 0.5
+    },
+    "score": 0.842,
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story is constructive as it provides useful information that helps readers understand the truth behind the claims made about former US presidents. It doesn't necessarily report on progress or solutions, but it does increase awareness and understanding.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Former President Donald Trump has added new plaques with partisan descriptions to the portraits of former U.S. presidents, including himself, on his Presidential Walk of Fame at the White House. The plaques label Joe Biden as \"sleepy,\" Barack Obama as \"divisive,\" and claim Ronald Reagan was a fan of a young Trump. The move has drawn attention for its partisan tone.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "EU leaders talk about using frozen Russian money to help Ukraine",
+    "domain": "politics",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Thu, 18 Dec 2025 16:46:22 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "New York Times",
+      "CBC News",
+      "Globe and Mail"
+    ],
+    "domains": [
+      "bbc.com",
+      "nytimes.com",
+      "cbc.ca",
+      "news.google.com"
+    ],
+    "snippets": [
+      "The EU is deciding whether to loan tens of billions of euros of Russian money to fund Ukraine's military and economic needs.",
+      "President Volodymyr Zelensky said in Brussels, where the leaders had gathered, that without the money, his country would have to reduce its drone production significantly.",
+      "Ukrainian President Volodymyr Zelenskyy urged EU leaders to reach a deal at a fraught summit on Thursday, where the group was trying to overcome differences on whether to use frozen Russian assets to finance Ukraine's war effort.",
+      "EU leaders to decide on using frozen Russian assets to fund Ukraine’s war effort The Globe and Mail"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f1/live/37ea5f20-dc26-11f0-89ae-89110b9e802d.jpg",
+    "titles": [
+      "Zelensky gives stark warning as EU leaders decide on Russia's frozen assets",
+      "Zelensky Appeals to E.U. Leaders for Frozen Russian Funds to Fight War",
+      "Zelenskyy urges EU leaders to agree on handing over Russian assets",
+      "EU leaders to decide on using frozen Russian assets to fund Ukraine’s war effort - The Globe and Mail"
+    ],
+    "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://www.nytimes.com/2025/12/18/world/europe/ukraine-zelensky-russia-putin.html",
+      "https://www.cbc.ca/news/world/brussels-summit-ukraine-reparation-loan-9.7021164?cmp=rss",
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFdNZGl1QXpOVl9McmxqY3RrZVd0dXNXREU2UjB0V0lad0VyQThjZlI0eVlOaHFVMDkxVzRWYUtBUVV6aVlVVmdGMm9TUjVlSm55Y0E2SUl3cWowNFBrdjFXQXFFT19tU21oWlg5ZlptdGIwT3d3eVJOeGVMTzA1Yk9LdHAweDYwZVMxWTBPMEs?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.897,
+      "consensus": 0.908,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.828,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story is somewhat constructive as it provides information that is important for understanding the current geopolitical situation. However, it doesn't offer actionable insights or report on solutions or progress.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "EU leaders are meeting to decide whether to use tens of billions of euros from frozen Russian assets to support Ukraine’s military and economic needs. Ukrainian President Volodymyr Zelenskyy has urged the EU to reach an agreement, warning that without the funds, Ukraine would have to cut back on drone production. The decision is pending as leaders work to resolve differences at the summit in Brussels.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "Journalist Peter Arnett who reported on wars has died",
+    "domain": "general",
+    "source_domain": "nytimes.com",
+    "location": "global",
+    "published": "Thu, 18 Dec 2025 18:28:02 +0000",
+    "source": "New York Times",
+    "sources": [
+      "New York Times",
+      "The Guardian",
+      "Associated Press"
+    ],
+    "domains": [
+      "nytimes.com",
+      "theguardian.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "He won the award for his daring coverage of the Vietnam War for The Associated Press. He went on to cover conflicts for CNN for nearly two decades.",
+      "Arnett won 1966 Pulitzer prize for international reporting for his Vietnam war coverage for the Associated Press Peter Arnett, the Pulitzer prize-winning reporter who spent decades dodging bullets and bombs to bring the world eyewitness accounts of war from the rice paddies of Vietnam to the deserts",
+      "Pulitzer Prize-winning correspondent Peter Arnett, who reported on Vietnam and Gulf wars, has died AP News"
+    ],
+    "image_url": "https://static01.nyt.com/images/2025/12/19/obituaries/00arnett-toppix-print1/00arnett-toppix-moth.jpg",
+    "titles": [
+      "Peter Arnett, Pulitzer-Winning War Correspondent, Dies at 91",
+      "Peter Arnett, Pulitzer prize-winner who reported on Vietnam and Gulf wars, dies aged 91",
+      "Pulitzer Prize-winning correspondent Peter Arnett, who reported on Vietnam and Gulf wars, has died - AP News"
+    ],
+    "url": "https://www.nytimes.com/2025/12/17/world/peter-arnett-dead.html",
+    "alternate_urls": [
+      "https://www.theguardian.com/us-news/2025/dec/17/peter-arnett-dead-vietnam-gulf-war",
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSHdaRmdmeVlxdXFKUF85S3JZUUl2WndSX18xYjkxU2pvNnotU3ZVLVRMNFRFS2FFWmlKV19vb3hLajVGd1IyMXhvejYtVTlNNW1jUmZ4UHFabDBYRGphamxlb0hkMDY1Um9jRy03cFdOYVV2VTljMlVOTnJoSmRNVU9Xcw?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.nytimes.com/2025/12/17/world/peter-arnett-dead.html",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.941,
+      "consensus": 0.789,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.798,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story provides useful information about the life and career of Peter Arnett, contributing to the reader's understanding of his contributions to journalism. However, it does not report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Pulitzer Prize-winning journalist Peter Arnett, known for his reporting on the Vietnam War for The Associated Press and later for covering conflicts for CNN, has died. Arnett won the 1966 Pulitzer Prize for international reporting for his Vietnam coverage and spent decades reporting from conflict zones, including the Gulf War.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "House Democrats share new photos from Epstein estate with public",
+    "domain": "politics",
+    "source_domain": "abcnews.go.com",
+    "location": "national",
+    "published": "Thu, 18 Dec 2025 14:37:24 -0500",
+    "source": "ABC News",
+    "sources": [
+      "ABC News",
+      "The Guardian",
+      "Reuters"
+    ],
+    "domains": [
+      "abcnews.go.com",
+      "theguardian.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "One day before the deadline for the release of the DOJ's files on Jeffrey Epstein, House Democrats released another batch of photos from the late financier's estate.",
+      "Images, undated and uncaptioned, include Nabokov lines written on woman’s body and show Bill Gates and Noam Chomsky US politics – live updates What we know so far about the Epstein files Democrats on the House oversight committee have released a new batch of photos from the estate of the convicted s",
+      "Latest image drop comes as pressure mounts on Trump’s justice department to release files Full report – Democrats release new Epstein photos What we know so far about the Epstein files Democratic lawmakers will release more photographs from evidence gathered from the estate of Jeffrey Epstein if the",
+      "Democrats release dozens more new images from Epstein estate Reuters"
+    ],
+    "image_url": "https://s.abcnews.com/images/US/epstein-9-ht-gmh-251218._1766081526464_hpMain_4x3t_384.jpg",
+    "titles": [
+      "House Democrats release another batch of Epstein photos",
+      "Democrats release new Epstein photos ahead of DoJ transparency deadline",
+      "Democrats release more images from Jeffrey Epstein estate, including photos of writing on woman’s body – live",
+      "Democrats release dozens more new images from Epstein estate - Reuters"
+    ],
+    "url": "https://abcnews.go.com/US/house-democrats-release-batch-epstein-photos/story?id=128519600",
+    "alternate_urls": [
+      "https://www.theguardian.com/us-news/2025/dec/18/jeffrey-epstein-estate-files-photos",
+      "https://www.theguardian.com/us-news/live/2025/dec/18/us-politics-live-venezuela-russia-strikes-trump-news-updates",
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0hXMnRYNGxWUEdkclVPRnRQM1dEdDZjSHp5dlRxa01YV3ZPSFRJNVVwOXNrc00xb0hCbVJ6b3lYRFRNbFVJcEJ5aGdEcjlMem1tNUhFcGowUE1XWEVKSU5kMnE4MkExSEhpRjdPUUtPaGZqTDdzeWhxcDVSeV9obVJpazVHMUUzWFJ6V0VHZS15OEZpMmtGeUtoNDRKbkN6M3c?oc=5"
+    ],
+    "location_scope": "national",
+    "link": "https://abcnews.go.com/US/house-democrats-release-batch-epstein-photos/story?id=128519600",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.971,
+      "consensus": 0.789,
+      "constructiveness": 0.3,
+      "proximity": 0.5
+    },
+    "score": 0.777,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story offers basic awareness about the Epstein case but it doesn't provide deeper insights or understanding. It also doesn't report on solutions, improvements, or attempts to solve problems.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "On December 18, 2025, House Democrats released a new set of undated and uncaptioned photographs from Jeffrey Epstein’s estate, including images referencing Nabokov and featuring Bill Gates and Noam Chomsky. The release comes a day before the Department of Justice is scheduled to disclose files related to Epstein. Lawmakers indicated that additional photographs may be released in the future.",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "Jared Isaacman approved by Senate to lead NASA",
+    "domain": "science",
+    "source_domain": "npr.org",
+    "location": "national",
+    "published": "Thu, 18 Dec 2025 14:04:07 -0500",
+    "source": "NPR",
+    "sources": [
+      "NPR",
+      "TechCrunch",
+      "Scientific American"
+    ],
+    "domains": [
+      "npr.org",
+      "techcrunch.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "Trump withdrew Isaacman's nomination in May, citing the billionaire's donations to Democrats and ties to Elon Musk. He was renominated last month and confirmed by a 67-30 Senate vote on Wednesday.",
+      "Isaacman will run the space agency at a time when Trump is trying to both downsize it and task it with returning astronauts to the moon.",
+      "Jared Isaacman Confirmed to Head NASA at Pivotal Moment for the Space Agency Scientific American"
+    ],
+    "image_url": "",
+    "titles": [
+      "What to know about Jared Isaacman, the billionaire private astronaut leading NASA",
+      "Jared Isaacman confirmed as next head of NASA",
+      "Jared Isaacman Confirmed to Head NASA at Pivotal Moment for the Space Agency - Scientific American"
+    ],
+    "url": "https://www.npr.org/2025/12/18/nx-s1-5648277/jared-isaacman-nasa-confirmed",
+    "alternate_urls": [
+      "https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/",
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGpNT0c4bUt1WmJNT25ER1c3RTBveUt2ZnhUVG9QbnJaazhHellyVUtHM3E1VWJSLWlMblJMeVQ2Rno2ellMYXlvQzYwbTRlMm9mQzZZSHV4SlJ4Njc3cWowWlFRZmlCc0UwM193d1lnd0h3TF9VeFdHRmxwSWpnWHZNYWdZRW0zZGROc0RWeEtqcFozTXJfMEliLVl3N0lNUjE5XzFwZnZRTlVycHRsQjFNMGJydGJfX3I1Ng?oc=5"
+    ],
+    "location_scope": "national",
+    "link": "https://www.npr.org/2025/12/18/nx-s1-5648277/jared-isaacman-nasa-confirmed",
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.956,
+      "consensus": 0.789,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.849,
+    "score": 0.774,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "The Trump administration has approved an arms sale to Taiwan valued at $11.1 billion, the largest such package to date. The deal includes medium-range missiles, howitzers, drones, HIMARS rocket systems, antitank and antiship missiles, and spare parts for helicopters. The move is expected to anger China and may affect recent efforts to improve US-China relations.",
-    "is_trending": true,
-    "trending_score": 0.75
-  },
-  {
-    "title": "Journalist Peter Arnett who reported on wars dies at 91",
-    "domain": "general",
-    "source_domain": "npr.org",
-    "location": "national",
-    "published": "Thu, 18 Dec 2025 01:44:49 -0500",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "New York Times",
-      "Associated Press",
-      "The Guardian"
-    ],
-    "domains": [
-      "npr.org",
-      "nytimes.com",
-      "news.google.com",
-      "theguardian.com"
-    ],
-    "snippets": [
-      "Peter Arnett, the Pulitzer Prize-winning reporter who spent decades dodging bullets and bombs to bring the world eyewitness accounts of war from Vietnam to Iraq, has died. He was 91.",
-      "He won the prestigious award for his daring coverage of the Vietnam War for The Associated Press, and went on to cover conflicts for CNN for nearly two decades.",
-      "Pulitzer Prize-winning correspondent Peter Arnett, who reported on Vietnam and Gulf wars, has died AP News",
-      "Arnett won 1966 Pulitzer Prize for international reporting for his Vietnam War coverage for the Associated Press Peter Arnett, the Pulitzer Prize-winning reporter who spent decades dodging bullets and bombs to bring the world eyewitness accounts of war from the rice paddies of Vietnam to the deserts"
-    ],
-    "image_url": "",
-    "titles": [
-      "Pulitzer Prize-winning correspondent Peter Arnett has died",
-      "Peter Arnett, Pulitzer-Winning War Correspondent, Dies at 91",
-      "Pulitzer Prize-winning correspondent Peter Arnett, who reported on Vietnam and Gulf wars, has died - AP News",
-      "Peter Arnett, Pulitzer prize-winner who reported on Vietnam and Gulf wars, dies aged 91"
-    ],
-    "url": "https://www.npr.org/2025/12/18/g-s1-102742/pulitzer-prize-winning-correspondent-peter-arnett-has-died",
-    "alternate_urls": [
-      "https://www.nytimes.com/2025/12/17/world/peter-arnett-dead.html",
-      "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSHdaRmdmeVlxdXFKUF85S3JZUUl2WndSX18xYjkxU2pvNnotU3ZVLVRMNFRFS2FFWmlKV19vb3hLajVGd1IyMXhvejYtVTlNNW1jUmZ4UHFabDBYRGphamxlb0hkMDY1Um9jRy03cFdOYVV2VTljMlVOTnJoSmRNVU9Xcw?oc=5",
-      "https://www.theguardian.com/us-news/2025/dec/17/peter-arnett-dead-vietnam-gulf-war"
-    ],
-    "location_scope": "national",
-    "link": "https://www.npr.org/2025/12/18/g-s1-102742/pulitzer-prize-winning-correspondent-peter-arnett-has-died",
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.898,
-      "consensus": 0.908,
-      "constructiveness": 0.5,
-      "proximity": 0.75
-    },
-    "score": 0.844,
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about the death of a notable figure in journalism but does not offer deeper insights into his work or impact. It does not contribute to the reader's understanding or decision-making in a significant way.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Peter Arnett, the Pulitzer Prize-winning journalist known for his coverage of conflicts from the Vietnam War to the Gulf War, has died at age 91. He won the 1966 Pulitzer Prize for international reporting for his Vietnam War coverage with the Associated Press and later reported on major wars for CNN over nearly two decades.",
-    "is_trending": false,
-    "trending_score": 0.25
-  },
-  {
-    "title": "Trump says over 1 million troops will get 1776 dollars",
-    "domain": "politics",
-    "source_domain": "abcnews.go.com",
-    "location": "national",
-    "published": "Thu, 18 Dec 2025 01:18:43 -0500",
-    "source": "ABC News",
-    "sources": [
-      "ABC News",
-      "CNBC",
-      "Bloomberg",
-      "MarketWatch"
-    ],
-    "domains": [
-      "abcnews.go.com",
-      "cnbc.com",
-      "news.google.com",
-      "marketwatch.com"
-    ],
-    "snippets": [
-      "ABC News' Selina Wang reports.",
-      "Trump has announced that more than 1 million U.S. military service members will receive a special warrior dividend in the amount of $1,776.",
-      "Trump highlighted his administration's efforts to seal the Southern border, bring down costs and strengthen U.S. foreign policy.",
-      "Trump Announces Military ‘Warrior Dividend’ Amid Inflation Woes Bloomberg.com",
-      "President Donald Trump on Wednesday night rolled out a fresh effort to send payments to Americans worried about the high cost of living, as he announced a “warrior dividend” for U.S. military personnel during a prime-time speech to the nation."
-    ],
-    "image_url": "https://s.abcnews.com/images/Politics/251217_abc_social_wang_hpMain_4x3_384.jpg",
-    "titles": [
-      "WATCH:  President Trump addresses nation on 1st year in office, 2026 agenda",
-      "WATCH:  President Trump announces 'warrior dividend' in address to the nation",
-      "Trump announces 'warrior dividend' of $1,776 to every U.S. soldier in primetime speech",
-      "Trump Announces Military ‘Warrior Dividend’ Amid Inflation Woes - Bloomberg.com",
-      "Trump announces $1,776 ‘warrior dividend’ for U.S. troops as economic worries persist"
-    ],
-    "url": "https://abcnews.go.com/Politics/video/president-trump-addresses-nation-1st-year-office-2026-128507854",
-    "alternate_urls": [
-      "https://abcnews.go.com/US/video/president-trump-announces-warrior-dividend-address-nation-128507255",
-      "https://www.cnbc.com/2025/12/17/watch-trump-white-house-address.html",
-      "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTW14OVhPOWF4MEhCR19WZEgzbnA0cXFGQXFvOEZ4eWl2ZG5tcnZCZEVURlZZdWJod3JuQ1JkUUg5UTY0UW41SjVRQ3Vnei1SUk9CV0dhTUhJMUVkQUo4QnJZc2E2LVRHNlhmWkktOWZMUlotZ2lrU2pJaTY3NEpPUlI1SEJMR095ZEZlUnBOUE1mOEFoY1JUd01PVDQxbDRNN1BKN3NlWWdpYzV4LTYzX05n?oc=5",
-      "https://www.marketwatch.com/story/trump-announces-1-776-warrior-dividend-for-u-s-troops-as-economic-worries-persist-274521dd?mod=mw_rss_topstories"
-    ],
-    "location_scope": "national",
-    "link": "https://abcnews.go.com/Politics/video/president-trump-addresses-nation-1st-year-office-2026-128507854",
-    "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.887,
-      "consensus": 0.908,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.831,
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story could potentially provide useful information about the President's achievements and future plans. However, without more context or analysis, it's hard to determine how constructive it is. The score could be higher if the story provided a balanced review or critical analysis of the President's address.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Former President Donald Trump announced a \"warrior dividend,\" stating that over 1 million U.S. military service members will receive a $1,776 payment. The announcement comes amid concerns about inflation and rising costs. Trump also emphasized his administration’s actions on border security, cost reduction, and foreign policy.",
-    "is_trending": false,
-    "trending_score": 0.25
-  },
-  {
-    "title": "Australia plans new laws to stop hate and violence",
-    "domain": "politics",
-    "source_domain": "dw.com",
-    "location": "global",
-    "published": "2025-12-18T09:48:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "Deutsche Welle",
-      "BBC",
-      "The Guardian"
-    ],
-    "domains": [
-      "dw.com",
-      "bbc.com",
-      "theguardian.com"
-    ],
-    "snippets": [
-      "Prime Minister Anthony Albanese has vowed to purge Australia of antisemitism after a deadly attack on a Jewish festival. Authorities are also looking to tighten gun laws.",
-      "Measures include fresh penalties for 'those who spread hate' as well as new powers to cancel or refuse visas.",
-      "Anthony Albanese has outlined a list of measures that will be taken to crack down on hate speech in the wake of the Bondi terror attack, including a 12-month taskforce to tackle antisemitism in the education system and an aggravated hate speech offence for preachers and leaders who promote violence."
-    ],
-    "image_url": "",
-    "titles": [
-      "Bondi Beach shooting: PM Albanese vows crackdown on hate",
-      "Australian PM announces crackdown on hate speech after Bondi shooting",
-      "Australian prime minister announces new laws to combat hate speech after Bondi shooting – video"
-    ],
-    "url": "https://www.dw.com/en/bondi-beach-shooting-pm-albanese-vows-crackdown-on-hate/a-75211563?maca=en-rss-en-top-1022-rdf",
-    "alternate_urls": [
-      "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/australia-news/video/2025/dec/18/anthony-albanese-hate-speech-laws-bondi-shooting"
-    ],
-    "location_scope": "global",
-    "link": "https://www.dw.com/en/bondi-beach-shooting-pm-albanese-vows-crackdown-on-hate/a-75211563?maca=en-rss-en-top-1022-rdf",
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.977,
-      "consensus": 0.789,
-      "constructiveness": 0.8,
-      "proximity": 0.5
-    },
-    "score": 0.829,
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "The story reports on a response to a serious issue (hate crimes), which can be seen as an attempt to solve a problem. It provides useful information about the PM's stance and proposed actions. However, it could be more constructive if it offered more context about the issue of hate crimes in the country, or evaluated the potential effectiveness of the proposed crackdown.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Prime Minister Anthony Albanese has announced new measures to address antisemitism in Australia following a deadly attack on a Jewish festival. The government will tighten gun laws, introduce tougher penalties for spreading hate, and grant new powers to cancel or refuse visas. A 12-month taskforce will target antisemitism in education, and aggravated hate speech offences will apply to preachers and leaders promoting violence.",
-    "is_trending": false,
-    "trending_score": 0.25
-  },
-  {
-    "title": "Australia plans new hate crime laws after Bondi Beach shooting",
-    "domain": "general",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Thu, 18 Dec 2025 08:07:36 GMT",
-    "source": "Reuters",
-    "sources": [
-      "Reuters",
-      "New York Times",
-      "The Guardian"
-    ],
-    "domains": [
-      "news.google.com",
-      "nytimes.com",
-      "theguardian.com"
-    ],
-    "snippets": [
-      "Australia promises new hate laws as youngest Bondi Beach shooting victim is laid to rest Reuters",
-      "Sydney’s devastated Jewish community gathered for the funeral of “Matilda Bee,” an ebullient, smiling 10-year-old girl.",
-      "The parents of 10-year-old Matilda – the youngest of the Bondi shooting victims – have recounted the moments leading up to the attack that took their daughter's life, saying that they thought the shots were fireworks or a 'bad joke'. The attack on Sunday was Australia's worst mass shooting in nearly"
-    ],
-    "image_url": "",
-    "titles": [
-      "Australia promises new hate laws as youngest Bondi Beach shooting victim is laid to rest - Reuters",
-      "Australia Mourns the Youngest Victim of the Bondi Beach Shooting",
-      "Parents of youngest Bondi beach victim recount attack – video"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGJTVHlTYVFWSWNDU0ltMmR1NFBjTnJTX0duMXlCQVByMWFka0MzZlpXeXYway16cmJYcFhqTU0wWFRrTVlULXlYN3VuMkRfWFUwQ0xJQjhrVFMzbVpQeWhZMjR4NS1wUUJHMi1oQkZjaHZ6a1BmSWNxc1RxNkVWY3ZVVmc3S1dwQWw4WlRkc2Q4dnhKVU5KNU45aXpYQVFMNlVrYVk2ZFdtZmlaaXRFVFlFdDFaVDVGNHhWTmFGWlByQQ?oc=5",
-    "alternate_urls": [
-      "https://www.nytimes.com/2025/12/18/world/asia/australia-matilda-funeral-bondi-shooting.html",
-      "https://www.theguardian.com/global/video/2025/dec/17/parents-youngest-bondi-beach-victim-matilda-recount-attack-video"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGJTVHlTYVFWSWNDU0ltMmR1NFBjTnJTX0duMXlCQVByMWFka0MzZlpXeXYway16cmJYcFhqTU0wWFRrTVlULXlYN3VuMkRfWFUwQ0xJQjhrVFMzbVpQeWhZMjR4NS1wUUJHMi1oQkZjaHZ6a1BmSWNxc1RxNkVWY3ZVVmc3S1dwQWw4WlRkc2Q4dnhKVU5KNU45aXpYQVFMNlVrYVk2ZFdtZmlaaXRFVFlFdDFaVDVGNHhWTmFGWlByQQ?oc=5",
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.933,
-      "consensus": 0.789,
-      "constructiveness": 0.8,
-      "proximity": 0.5
-    },
-    "score": 0.822,
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive as it provides awareness about the government's response to a tragic event, contributing to the reader's understanding of the situation. However, it does not report on solutions or improvements in detail, thus not reaching the highest score.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Australia has announced plans for new hate crime laws following the Bondi Beach shooting, in which 10-year-old Matilda Bee, the youngest victim, was killed. Her funeral was attended by Sydney’s Jewish community. The attack, which occurred on Sunday, is considered Australia’s worst mass shooting in nearly a decade.",
+    "summary": "Jared Isaacman was confirmed by the Senate in a 67-30 vote to lead NASA, after being renominated last month. His earlier nomination was withdrawn by Trump in May due to concerns over Isaacman's political donations and connections to Elon Musk. Isaacman will oversee NASA as it faces downsizing efforts and renewed plans to return astronauts to the moon.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Israel agrees to send natural gas to Egypt in big deal",
-    "domain": "business",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Thu, 18 Dec 2025 09:34:14 +0000",
-    "source": "Al Jazeera",
+    "title": "Colts let Anthony Richardson Sr return to practice after injury",
+    "domain": "sports",
+    "source_domain": "espn.com",
+    "location": "national",
+    "published": "Thu, 18 Dec 2025 14:35:12 EST",
+    "source": "ESPN",
     "sources": [
-      "Al Jazeera",
-      "Axios",
-      "Reuters",
-      "Al Arabiya",
-      "New York Times"
+      "ESPN",
+      "Sportsnet",
+      "CBS Sports"
     ],
     "domains": [
-      "aljazeera.com",
-      "news.google.com",
-      "nytimes.com"
+      "espn.com",
+      "sportsnet.ca",
+      "cbssports.com"
     ],
     "snippets": [
-      "Israeli Prime Minister Benjamin Netanyahu has announced 'the largest gas deal in Israel's history' with Egypt.",
-      "Netanyahu approves $35 billion gas deal with Egypt under U.S. pressure Axios",
-      "Israel approves natural gas deal with Egypt, Netanyahu says Reuters",
-      "Israel approves natural gas deal with Egypt, Netanyahu says Al Arabiya English",
-      "Israel’s granting of an export permit is the final step to allow the deal, first announced by energy companies in August, to proceed."
+      "The Colts cleared quarterback Anthony Richardson Sr. to start practicing Thursday, but he will not be activated for Monday night's game against the 49ers.",
+      "There’s even more news from the Indianapolis Colts’ quarterback room. The Colts have opened the 21-day practice window for Anthony Richardson Sr., the team announced on Thursday.",
+      "Richardson has missed two months due to an orbital fracture"
     ],
     "image_url": "",
     "titles": [
-      "Video: Netanyahu announces major Israeli gas deal with Egypt",
-      "Netanyahu approves $35 billion gas deal with Egypt under U.S. pressure - Axios",
-      "Israel approves natural gas deal with Egypt, Netanyahu says - Reuters",
-      "Israel approves natural gas deal with Egypt, Netanyahu says - Al Arabiya English",
-      "Israel Approves $37 Billion Deal to Deliver Gas to Egypt"
+      "Colts' Richardson cleared to practice, out for MNF",
+      "Colts open practice window for QB Anthony Richardson",
+      "Anthony Richardson injury update: Colts open 21-day practice window, add potential QB option for playoff push"
     ],
-    "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/netanyahu-announces-major-israeli-gas-deal-with-egypt?traffic_source=rss",
+    "url": "https://www.espn.com/nfl/story/_/id/47347390/anthony-richardson-cleared-practice-scary-eye-injury",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMif0FVX3lxTE05Vnh3ekhKcFNXZGx0ZnpGOWdhS1pmelk5UElyZ1MxMzBneGRuRXREZkhnTVRTTDRBd2FrdVdTWlhsVEdmUVhyUHk4MTN3Z0ZUZ0FEUTFZUFFRS1lVVHlLbEIyUHhQZmRjbXJjT24yUWswVzNOTW5Hb3ZDTjlXSVk?oc=5",
-      "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEdtZnFDUDdhZUFneGd6SUlIUEJ2Y01pS0MtX0hyYnRVU0J2Z0V3VTI4d2lONWh5OE9sRERVeFNUOE52cDlhNXRiLWJqQlVZMDBoLTZYcU5sd295SWFSSkcyUEpORk0xU1hvcTh1MW53TURHS1dqZ2FFOGlCeTlhN2JsUE1DUzFLQndqaFV1WXd1WVM1UE1ZcnU2aFlleGpOWWRMdTZRNmM1dXUyTGt3?oc=5",
-      "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGlvTTUyY2FXbG5hbGpMbGVCYzNmQzcxdVdlLTN2Si1mcF9nb2k3NjRrNzRZbnZuQzlsQVlPeDBtUTZ0akFGczFFaUwtZ3ZIbTRNcC1OaFI2b1U3cHZ5cUd0cG5Xc2JYMU5ORGJhUVpTd0NsTWJNdzhVbEZPTUNrSlluYzRhTHJHSUs5bm0xQ2liNkJpbnpXTlVnUlhJbmRJU2VFMklhaE5KUGh1Q2tpYkNWZUxlY1nSAbwBQVVfeXFMTW0wTDFrdEpmdVJFQk9FcjBBNmFpV1FPMGZ5ZWxNRzVQVVJFUmZqdmdaY2hLSFFtdHI0djFKS1JIN2x3aDFxbGw2UkhnQ1h6VHI3VU40WXlFMzduQnJlVHNhOWdPUDN4a09DNmFrWDVYV080aE8zOUhSVk9IaC1odWFQZloxN0hXS195OGZDeXFaMTBLSzltb3ZYS0VpSVB6QVUxOXI1Vm5nRXN5ZXRuQzh4X2xtd2dSdlVMOHg?oc=5",
-      "https://www.nytimes.com/2025/12/17/world/middleeast/israel-gas-deal-egypt.html"
+      "https://www.cbssports.com/nfl/news/anthony-richardson-injury-update-colts-playoffs-philip-rivers/"
     ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/18/netanyahu-announces-major-israeli-gas-deal-with-egypt?traffic_source=rss",
+    "location_scope": "national",
+    "link": "https://www.espn.com/nfl/story/_/id/47347390/anthony-richardson-cleared-practice-scary-eye-injury",
     "score_components": {
-      "magnitude": 0.964,
-      "recency": 0.971,
-      "consensus": 0.955,
+      "magnitude": 0.827,
+      "recency": 0.97,
+      "consensus": 0.789,
       "constructiveness": 0.0,
-      "proximity": 0.5
+      "proximity": 0.75
     },
-    "score": 0.822,
+    "score": 0.772,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Israeli Prime Minister Benjamin Netanyahu has approved a $35 billion natural gas export deal with Egypt, described as the largest in Israel's history. The agreement, first announced by energy companies in August, received final approval after Israel granted an export permit. The deal moves forward under reported U.S. pressure.",
-    "is_trending": false,
-    "trending_score": 0.25
+    "summary": "The Indianapolis Colts have cleared quarterback Anthony Richardson Sr. to resume practicing after he missed two months with an orbital fracture. The team opened his 21-day practice window on Thursday, but Richardson will not be activated for Monday night's game against the 49ers.",
+    "is_trending": true,
+    "trending_score": 0.5
   },
   {
-    "title": "FBI Deputy Director Dan Bongino says he will leave his job",
-    "domain": "politics",
-    "source_domain": "npr.org",
+    "title": "Samson Nacua arrested in Los Angeles for taking a car",
+    "domain": "sports",
+    "source_domain": "espn.com",
     "location": "national",
-    "published": "Wed, 17 Dec 2025 19:06:29 -0500",
-    "source": "NPR",
+    "published": "Thu, 18 Dec 2025 14:35:12 EST",
+    "source": "ESPN",
     "sources": [
-      "NPR",
-      "Reuters",
-      "CNBC",
-      "CBC News",
-      "Globe and Mail"
+      "ESPN",
+      "CBS Sports",
+      "The Guardian"
     ],
     "domains": [
-      "npr.org",
-      "news.google.com",
-      "cnbc.com",
-      "cbc.ca"
+      "espn.com",
+      "cbssports.com",
+      "theguardian.com"
     ],
     "snippets": [
-      "Bongino's tenure was at times tumultuous, including a clash with Justice Department leadership over the Epstein files. But it also involved the arrest of a suspect in the Jan. 6 pipe bomber case.",
-      "FBI Deputy Director Bongino says he will step down next month Reuters",
-      "Bongino had been selected by President Donald Trump for the high-profile law enforcement job despite him having no prior FBI experience.",
-      "FBI Deputy Director Dan Bongino will step down from his post next month, he said on Wednesday, ending a short and at times tumultuous tenure as the bureau's second highest-ranking official.",
-      "FBI deputy director Dan Bongino says he plans to resign next month The Globe and Mail"
+      "The brother of Rams star Puka Nacua was arrested for allegedly stealing a vehicle that reportedly belonged to Lakers forward Adou Thiero.",
+      "Samson Nacua and another individual allegedly took Thiero's car without consent",
+      "Brother of Puka Nacua among two arrested in LA case Vehicle tied to Lakers forward tracked to hotel valet Suspects released same night as investigation continues Two men, including the brother of Los Angeles Rams wide receiver Puka Nacua, were arrested over the weekend on suspicion of taking a vehic"
     ],
     "image_url": "",
     "titles": [
-      "FBI Deputy Director Dan Bongino says he will step down in January",
-      "FBI Deputy Director Bongino says he will step down next month - Reuters",
-      "FBI Deputy Director Dan Bongino is stepping down in January",
-      "FBI deputy chief Dan Bongino to leave post in January",
-      "FBI deputy director Dan Bongino says he plans to resign next month - The Globe and Mail"
+      "Nacua's brother arrested over theft of Laker's car",
+      "Samson Nacua, brother of Puka Nacua, arrested for alleged theft of Lakers forward Adou Thiero's car",
+      "Brother of LA Rams star arrested in alleged theft of Lakers player’s BMW"
     ],
-    "url": "https://www.npr.org/2025/12/17/nx-s1-5647821/fbi-deputy-director-dan-bongino-stepping-down",
+    "url": "https://www.espn.com/nfl/story/_/id/47346576/samson-nacua-arrested-theft-lakers-player-car",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdUhOa1dzRFUzc1M4M2dyLVFqa1p2NDRDczVWcVFzUGFvTG1VUkxWNkgwQzVWWXJZZWVFMFd5UUlINEhhWDBmSzcwT2dBdjRpYUJLako4RWxnaDN5ZFFFemMyS3A5S1lhdUptX3VBeDcwZ3owUWJkSU55bG55b0pZcTBNYnZCOHBoR1FPV1J1QjhrMHA3UVE?oc=5",
-      "https://www.cnbc.com/2025/12/17/fbi-dan-bongino-steps-down-epstein-jan-6.html",
-      "https://www.cbc.ca/news/world/dan-bongino-fbi-resignation-9.7020221?cmp=rss",
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONGJLZmI0NV9nSUVBZ3huLWNjUklMNWRmcGlfZHlCY3hFT0ViTnYwYlcydEZ6RGhfd2pjSXV0eVJkRnR5NkFzSlhsTXQyeGF1NnpoUmZvLTh6aEswY05lSkNjZHlKWnJTTWZ1aS16M0c3eUpNZmt0Q2ZteFdEQUhzR2Y1d01zdF9fM0VfLWFEZkxMR2FiSzNSUUZ4X0Y3RGhTUk9BOF9TUkduUQ?oc=5"
+      "https://www.cbssports.com/nfl/news/puka-nacua-samson-brother-arrested-theft-lakers-adou-thieros-car/",
+      "https://www.theguardian.com/sport/2025/dec/18/samson-nacua-arrested-lakers-adou-thiero-vehicle-case"
     ],
     "location_scope": "national",
-    "link": "https://www.npr.org/2025/12/17/nx-s1-5647821/fbi-deputy-director-dan-bongino-stepping-down",
+    "link": "https://www.espn.com/nfl/story/_/id/47346576/samson-nacua-arrested-theft-lakers-player-car",
     "score_components": {
-      "magnitude": 0.944,
-      "recency": 0.747,
-      "consensus": 0.975,
-      "constructiveness": 0.3,
+      "magnitude": 0.827,
+      "recency": 0.97,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.807,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "The story provides basic awareness about a change in the FBI leadership, but it doesn’t offer any deeper insights or implications of this change. It doesn't report on any solutions or improvements, and it doesn't increase clarity around systems, causes, trends, or impacts.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "FBI Deputy Director Dan Bongino announced he will step down from his position next month, ending a brief and sometimes contentious tenure. His time in office included disputes with Justice Department leadership over the Epstein files and the arrest of a suspect in the Jan. 6 pipe bomber case. Bongino was appointed to the role by former President Donald Trump despite lacking prior FBI experience.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Oscars will be shown on YouTube around the world in 2029",
-    "domain": "business",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Thu, 18 Dec 2025 06:26:44 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "CNBC",
-      "Business Insider",
-      "Axios"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "cnbc.com",
-      "businessinsider.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Organisers say the deal with YouTube will allow viewers to watch the awards ceremony on an 'unprecedented global scale'.",
-      "The Academy of Motion Picture Arts and Sciences signed a multiyear deal with Google-owned YouTube to stream the Oscars globally starting in 2029.",
-      "YouTube announced that it has secured the global rights to Hollywood's biggest night, a major victory in the fight over live events.",
-      "Oscars heading for YouTube after more than 50 years on ABC Axios"
-    ],
-    "image_url": "",
-    "titles": [
-      "Academy Awards, YouTube sign deal to livestream Oscars from 2029",
-      "The Oscars are heading to YouTube in 2029",
-      "The Oscars are heading to YouTube starting in 2029, ending a more than 50-year run on ABC",
-      "Oscars heading for YouTube after more than 50 years on ABC - Axios"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/18/academy-awards-youtube-sign-deal-to-livestream-oscars-from-2029?traffic_source=rss",
-    "alternate_urls": [
-      "https://www.cnbc.com/2025/12/17/youtube-stream-oscars-2029.html",
-      "https://www.businessinsider.com/youtube-oscars-rights-2029-2025-12",
-      "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BM3lxLWc3NGZvUzluRGdUX3Yyd0tyTGRxNHkzdlBpd1BLOHhIMlVkS0w4TzdYVzZHSkdYTHFhaTFmcW5ZclRVVFozY0Rhemh1WkNWdzV1cEdINzdOZ2FIMEpXSURzVWdDSy1GUWw2WG9lWVZM?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/18/academy-awards-youtube-sign-deal-to-livestream-oscars-from-2029?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.89,
-      "consensus": 0.908,
-      "constructiveness": 0.017,
-      "proximity": 0.5
-    },
-    "score": 0.768,
-    "constructiveness_score": 0.017,
-    "constructiveness_reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "score": 0.772,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "The Academy of Motion Picture Arts and Sciences has signed a multiyear agreement with YouTube to stream the Oscars ceremony globally starting in 2029. This marks the end of the awards show's more than 50-year run on ABC. Organizers say the deal will allow viewers worldwide to watch the event on an unprecedented scale.",
-    "is_trending": false,
-    "trending_score": 0.0
+    "summary": "Samson Nacua, brother of Rams wide receiver Puka Nacua, and another individual were arrested in Los Angeles for allegedly taking a vehicle belonging to Lakers forward Adou Thiero without consent. The car was tracked to a hotel valet. Both suspects were released the same night, and the investigation is ongoing.",
+    "is_trending": true,
+    "trending_score": 0.5
   },
   {
-    "title": "Government plans new steps to help protect women and girls",
+    "title": "Police arrest seven men in Sydney after stopping two cars",
     "domain": "general",
-    "source_domain": "bbc.com",
+    "source_domain": "aljazeera.com",
     "location": "global",
-    "published": "Thu, 18 Dec 2025 08:47:12 GMT",
-    "source": "BBC",
+    "published": "Thu, 18 Dec 2025 16:04:13 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "BBC",
+      "Al Jazeera",
+      "New York Times",
       "The Guardian"
     ],
     "domains": [
-      "bbc.com",
+      "aljazeera.com",
+      "nytimes.com",
       "theguardian.com"
     ],
     "snippets": [
-      "The measure is part of the government's strategy to tackle violence against women and girls which will be unveiled on Thursday.",
-      "Teachers to be given extra training as Keir Starmer warns ‘toxic ideas are taking hold early and going unchallenged’ David Lammy: I want my sons to know masculinity can be kind – and my daughter to live without fear Children as young as 11 who demonstrate misogynistic behaviour will be taught the di"
+      "Australian police say they intercepted two cars in Liverpool, southwest Sydney over a possible “violent act”.",
+      "The raid in Sydney occurred days after a mass shooting in Bondi Beach killed 15 people, but the police say they have found no connection between the two events so far.",
+      "Heavily armed officers in camouflage gear intercepted two cars with images showing suspects cable-tied on the side of the road Get our breaking news email , free app or daily news podcast Police have detained seven men in Sydney’s south-west in connection with possible planned violence. Tactical ope"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfc/live/2176ef50-db73-11f0-a8dc-93c15fe68710.jpg",
+    "image_url": "",
     "titles": [
-      "Boys to be sent on courses to tackle misogyny in schools",
-      "Boys to learn difference between porn and real life to tackle misogyny in England’s schools"
+      "Police in Sydney detain men over possible ‘violent act’",
+      "Australian Police Detain 7 on Suspicion of Planning a ‘Violent Act’",
+      "Police detain seven men in Sydney over fear of ‘violent act being planned’"
     ],
-    "url": "https://www.bbc.com/news/articles/c9qednjzwv1o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/police-in-sydney-detain-men-over-possible-violent?traffic_source=rss",
     "alternate_urls": [
-      "https://www.theguardian.com/society/2025/dec/17/teachers-will-be-given-extra-training-to-tackle-misogyny-in-schools"
+      "https://www.nytimes.com/2025/12/18/world/australia/sydney-arrests-suspicion-violent-act.html",
+      "https://www.theguardian.com/australia-news/2025/dec/18/police-detain-seven-men-in-sydney-over-fear-of-violent-act-being-planned"
     ],
     "location_scope": "global",
-    "link": "https://www.bbc.com/news/articles/c9qednjzwv1o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/12/18/police-in-sydney-detain-men-over-possible-violent?traffic_source=rss",
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.95,
-      "consensus": 0.591,
-      "constructiveness": 0.9,
+      "magnitude": 0.847,
+      "recency": 0.88,
+      "consensus": 0.789,
+      "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.764,
-    "constructiveness_score": 0.9,
-    "constructiveness_reason": "This story is constructive as it reports on a solution to a societal problem. It provides actionable insights for other schools and communities that might be facing similar issues, thus contributing to the reader's understanding and decision-making. It also increases awareness about the issue of misogyny in schools.",
+    "score": 0.756,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story offers basic awareness of an event but provides minimal depth or insight into the situation. It does not provide actionable insights or deeper understanding, nor does it report on solutions or improvements.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "The government will unveil a new strategy on Thursday to address violence against women and girls. The plan includes extra training for teachers and educational measures targeting children as young as 11 who display misogynistic behavior. Keir Starmer and David Lammy have emphasized the need to challenge harmful ideas early and promote positive models of masculinity.",
+    "summary": "Australian police detained seven men in southwest Sydney after intercepting two cars in Liverpool over a suspected planned violent act. The operation involved heavily armed officers. Authorities stated there is no evidence linking this incident to the recent Bondi Beach mass shooting that killed 15 people. Investigations are ongoing.",
     "is_trending": false,
     "trending_score": 0.25
   },
   {
-    "title": "Trump says immigrants cause problems and promises better economy in",
-    "domain": "politics",
+    "title": "Plane owned by Greg Biffle crashes at North Carolina airport",
+    "domain": "business",
+    "source_domain": "dw.com",
+    "location": "global",
+    "published": "2025-12-18T19:43:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "Deutsche Welle",
+      "Yahoo Sports",
+      "Bloomberg"
+    ],
+    "domains": [
+      "dw.com",
+      "sports.yahoo.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "A small aircraft owned by the 56-year-old race driver crashed and exploded while attempted to land at Statesville Regional Airport in North Carolina. There was no immediate confirmation he was among the passengers.",
+      "A plane registered to longtime NASCAR driver Greg Biffle crashed Dec. 18 in North Carolina. The 55-year-old won 19 Cup Series races in his career.",
+      "Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina Bloomberg.com"
+    ],
+    "image_url": "",
+    "titles": [
+      "Plane owned by ex-NASCAR driver Greg Biffle crashes in US",
+      "Who is Greg Biffle? Plane registered to former NASCAR driver crashed",
+      "Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina - Bloomberg.com"
+    ],
+    "url": "https://www.dw.com/en/plane-owned-by-ex-nascar-driver-greg-biffle-crashes-in-us/a-75232464?maca=en-rss-en-top-1022-rdf",
+    "alternate_urls": [
+      "https://sports.yahoo.com/articles/greg-biffle-plane-registered-former-195414118.html",
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXlXUzVzb2ZoeE5UVjhkdW5ydFZVWWV5UFphcXFFem85WGltc3JEQ3ZUbXgtT1FVUnFPdlJ1bGFRRDdzVXVaTjRETGNBYWl6V2lOZjlOcHRnR0k4RmFRUjBJYW44aVlqSnA1UEFiWDU1S04zS2ZQZUJZZnUwRmhoOGRuSHNWSGVlQ0Y0WmVfVzQzeGU2dGdxdTdXS1ZqRDVLTzBqQklzVExSV2JEUUlSQ1FaMnFNZw?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.dw.com/en/plane-owned-by-ex-nascar-driver-greg-biffle-crashes-in-us/a-75232464?maca=en-rss-en-top-1022-rdf",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.974,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.748,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "A small aircraft registered to former NASCAR driver Greg Biffle crashed and exploded while attempting to land at Statesville Regional Airport in North Carolina on December 18, 2025. There was no immediate confirmation that Biffle, age 56, was among the passengers. Biffle is known for winning 19 Cup Series races in his career.",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "Christian Turner named new UK ambassador to Washington",
+    "domain": "business",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Thu, 18 Dec 2025 19:09:20 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "Financial Times",
+      "The Guardian"
+    ],
+    "domains": [
+      "bbc.com",
+      "ft.com",
+      "theguardian.com"
+    ],
+    "snippets": [
+      "Turner has spent a nearly 30-year career working across Whitehall and the Foreign Office.",
+      "Diplomat due to be Britain’s UN envoy is handed key post in Washington after contest to replace Peter Mandelson",
+      "Turner, appointed ambassador to UN in May, now replaces Peter Mandelson who was sacked over Epstein links Keir Starmer has appointed the career diplomat Christian Turner as the UK’s ambassador to Washington, replacing Peter Mandelson who was sacked over his links to Jeffrey Epstein. Turner, who was"
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/006d/live/0ba8ee80-dc45-11f0-a1ce-39295e57b193.jpg",
+    "titles": [
+      "UK names Christian Turner as US ambassador, replacing Peter Mandelson",
+      "Christian Turner to be new UK ambassador to US",
+      "Keir Starmer appoints career diplomat Christian Turner as US ambassador"
+    ],
+    "url": "https://www.bbc.com/news/articles/ckgmpnr4ex2o?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://www.ft.com/content/f4b9139a-7985-4577-97bb-34347760654c",
+      "https://www.theguardian.com/politics/2025/dec/18/starmer-appoints-career-diplomat-christian-turner-us-ambassador"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/news/articles/ckgmpnr4ex2o?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.959,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.744,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Christian Turner, a career diplomat, has been appointed by Keir Starmer as the UK’s ambassador to Washington, replacing Peter Mandelson. Mandelson was dismissed due to his links to Jeffrey Epstein. Turner was previously appointed ambassador to the UN in May before being selected for the Washington post.",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "Meg ONeill becomes first woman to lead BP as CEO",
+    "domain": "general",
     "source_domain": "aljazeera.com",
     "location": "global",
-    "published": "Thu, 18 Dec 2025 08:08:03 +0000",
+    "published": "Thu, 18 Dec 2025 17:26:19 +0000",
     "source": "Al Jazeera",
     "sources": [
       "Al Jazeera",
@@ -545,1279 +814,907 @@
       "news.google.com"
     ],
     "snippets": [
-      "The US president blamed immigrants for the country's woes and promised an 'economic boom' in 2026.",
-      "Takeaways from Trump's year-end address to the nation Reuters"
+      "O’Neill is the first woman to lead one of the top five major oil companies.",
+      "BP taps Woodside's Meg O'Neill as CEO after abrupt Auchincloss exit Reuters"
     ],
     "image_url": "",
     "titles": [
-      "Five key takeaways from Trump’s state-of-the-nation address",
-      "Takeaways from Trump's year-end address to the nation - Reuters"
+      "BP taps Woodside’s Meg O’Neill as CEO as it pivots back to fossil fuels",
+      "BP taps Woodside's Meg O'Neill as CEO after abrupt Auchincloss exit - Reuters"
     ],
-    "url": "https://www.aljazeera.com/news/2025/12/18/five-key-takeaways-from-trumps-state-of-the-nation-address?traffic_source=rss",
+    "url": "https://www.aljazeera.com/economy/2025/12/18/bp-taps-woodsides-meg-oneill-as-ceo-as-it-pivots-back-to-fossil-fuels?traffic_source=rss",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnJkWDVMLWhpbENUMkVvUU5lN2VSY1JSUlZwWmNjSGx3U01xdFQtRWFnUkVxTkFXYS1OZWo2Z09pQ3p2ZjV4MXpXdHJ5bm8xYi1ON2JyaGNpbDJJSnJoYW9Sc3hoOHU0ZXg1OGIyRV9BNUlYZ2EyTFB5M3A0RTItamltb1VudmF4V25xaDV3?oc=5"
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUE0V1FMTWVhXzl0TFpNeWlhLU5qVVhxTTQ2d1dWVVU1dE00c2VIVjVUVW9zdHRxTmJLU1BfX2R4Q0had3RmZ1dXWnZ1MUw2SDRFVzhhNjNqR3VWUXduU1hRY3lab25JWllBWW9BSDFpckdCMVJPTWxiNGxyaE5BUE9fbk9MbG1HZkZ4aGl0U1VpWkZtcHlMZTlDOFFGZ29FZWJtLQ?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/18/five-key-takeaways-from-trumps-state-of-the-nation-address?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2025/12/18/bp-taps-woodsides-meg-oneill-as-ceo-as-it-pivots-back-to-fossil-fuels?traffic_source=rss",
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.933,
+      "magnitude": 0.735,
+      "recency": 0.914,
       "consensus": 0.591,
       "constructiveness": 0.8,
       "proximity": 0.5
     },
-    "score": 0.755,
+    "score": 0.743,
     "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story provides a useful summary of a major political event, offering readers a deeper understanding of the key points and their potential implications. However, without more information on the solutions or progress being made, it doesn't fully empower the reader.",
+    "constructiveness_reason": "This story provides useful information about BP's strategic decisions and leadership changes, contributing to the reader's understanding of the company's direction. However, it does not clearly highlight progress or solutions, and the pivot back to fossil fuels may not be seen as a positive impact.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "In a year-end address, former President Donald Trump blamed immigrants for the country's problems and pledged that the United States would experience an \"economic boom\" in 2026. Trump did not provide specific policy details during the speech.",
+    "summary": "Meg O’Neill has been appointed CEO of BP, becoming the first woman to lead one of the world’s five largest oil companies. She was previously with Woodside. O’Neill replaces Murray Auchincloss, who left the position abruptly.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "European leaders to meet and talk about new aid for Ukraine",
-    "domain": "general",
-    "source_domain": "theguardian.com",
+    "title": "United States approves biggest arms sale to Taiwan",
+    "domain": "business",
+    "source_domain": "dw.com",
     "location": "global",
-    "published": "Thu, 18 Dec 2025 09:49:33 GMT",
-    "source": "The Guardian",
+    "published": "2025-12-18T04:35:00Z",
+    "source": "Deutsche Welle",
     "sources": [
+      "Deutsche Welle",
+      "Reuters",
+      "Washington Post",
       "The Guardian",
-      "New York Times"
+      "CBC News",
+      "Associated Press",
+      "Bloomberg",
+      "Globe and Mail"
     ],
     "domains": [
+      "dw.com",
+      "news.google.com",
+      "washingtonpost.com",
       "theguardian.com",
-      "nytimes.com"
+      "cbc.ca"
     ],
     "snippets": [
-      "Poland’s Donald Tusk issues warning to European leaders before Brussels summit, while Friedrich Merz of Germany says there is ‘no better option’ Germany’s chancellor Friedrich Merz confirms his support for the EU’s reparations loan, saying he sees “no better option.” He diplomatically acknowledges B",
-      "The European Council convenes on Thursday, and at stake is a contentious deal to back Ukraine and its war effort in 2026 and 2027."
+      "The weapons package for Taiwan is valued at more than $10 billion and includes medium-range missiles, howitzers and drones.",
+      "US announces $11 billion arms package for Taiwan, largest ever Reuters",
+      "The proposed sale includes rocket systems, self-propelled howitzers and drones. China condemned the move, saying it undermined its sovereignty.",
+      "Package includes medium-range missiles, howitzers and drones, and has drawn an angry response from China The maps that show how China’s military is squeezing Taiwan The Trump administration has announced a massive package of arms sales to Taiwan valued at more than $10bn that includes medium-range m",
+      "The United States on Wednesday approved $11.1 billion US in arms sales to Taiwan, the largest ever U.S. weapons package for the island which is under increasing military pressure from China.",
+      "US announces massive package of arms sales to Taiwan valued at more than $10 billion, angering China AP News",
+      "US Approves $11 Billion Arms Sale to Taiwan, Risking China Anger Bloomberg.com",
+      "Trump administration announces more than $10-billion arms package for Taiwan The Globe and Mail"
     ],
-    "image_url": "https://i.guim.co.uk/img/media/180488274314f05ec64669305202b603694ebde7/378_0_6409_5127/master/6409.jpg?width=140&quality=85&auto=format&fit=max&s=ff65b0d00402c1a4928279286f2b9941",
+    "image_url": "",
     "titles": [
-      "EU told to choose between ‘money today or blood tomorrow’ as leaders debate giving Russian assets to Ukraine – Europe live",
-      "E.U. Leaders Debate Plan for Ukraine Financed by Frozen Russian Assets"
+      "US approves largest arms sale to Taiwan",
+      "US announces $11 billion arms package for Taiwan, largest ever - Reuters",
+      "State Department announces $11 billion weapons sale to Taiwan",
+      "US announces more than $10bn of arms sales to Taiwan",
+      "U.S. announces $11.1B weapons package for Taiwan, angering China",
+      "US announces massive package of arms sales to Taiwan valued at more than $10 billion, angering China - AP News",
+      "US Approves $11 Billion Arms Sale to Taiwan, Risking China Anger - Bloomberg.com",
+      "Trump administration announces more than $10-billion arms package for Taiwan - The Globe and Mail"
     ],
-    "url": "https://www.theguardian.com/world/live/2025/dec/18/eu-frozen-russian-assets-ukraine-war-europe-latest-news-updates",
+    "url": "https://www.dw.com/en/us-approves-largest-arms-sale-to-taiwan/a-75211140?maca=en-rss-en-top-1022-rdf",
     "alternate_urls": [
-      "https://www.nytimes.com/2025/12/18/world/europe/russia-eu-ukraine-frozen-assets.html"
+      "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1ltNUNJUHdEVFVyRm84NTlsRk1aNHBPSmpTTzJwVjVybm9zaXFZLVIwOEZ6am94MVdZZjNuM0hIRlNic04xLUUtTlFkSlJhTDJNemVKM1plMnF4UUFia1pLNXJockVaNWVSbzA4RHBkNHZtU25NbFNCMk5PNUpqa2JDNEpVZXh6ZThzSXJVbmxxTkxOSUFxWFgxVV9tOTd2Q25yTWhUNHowNmJV?oc=5",
+      "https://www.washingtonpost.com/world/2025/12/18/taiwan-arms-sale-us-11-billion/",
+      "https://www.theguardian.com/world/2025/dec/18/us-announces-more-than-10bn-of-arms-sales-to-taiwan",
+      "https://www.cbc.ca/news/world/us-taiwan-arms-sale-china-responds-9.7020656?cmp=rss",
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGsya0ZNZHFtbDhvcTVTTkFZRTVNTG54cnN6OEhTZGc1TkxvZldQeWhlbm9HNE5tN0U5TlNZN1lHc1pFeVlwR29pS2swd3huTUx5dzFhVE5yTGhaSmNhZXd6c2M0NWNGZmpMb2lrdWY5WTRoYTJXM0hrRWNCQWNZRm5uaXY5V0VzcDRteWxab3FrMGs?oc=5",
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHc3UnlLSjZOR2RNZ3RWUlNFOXNBWE9uZF9uUmwycU50aVMtanVod282NjA1VXVlOW5EX0dkN0p2cUxxOE1zVHVLUy1jX0p6eEIySkIyVzI1eGcwUjh0U0VIeGt0N2xkb2psci1pRlo4VHU5eFAxdXhuaDNsdTNaeGQ2NW5Kc3JBZVUtTzZqRW5IYlczZVZSSDBhZlRSVzgyRjVEQzZmMXE3MkZDQWhpX01Sbw?oc=5",
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWFZCUEMwQVNSWllKUTBDN2ZndHFxWFhKYzdMNlY3NEtVWXJxTEVWUzVleF9qTlBCN3RzUlNJQ0t5ZnNpNkJwR1dXRjl4U21jcHZIeF83bUxSWmU1WGxHNXU1QTE5Y2NhX1NaRFA3Sl9KdTBody0wVTB3aGxPWWNQRE5NZVZ5d0tlSGw5aEoyUk1DMTRmRkVhNm56cnJ0RHlnVHNsd1dhU1p6REY2Y1VjbjVYclNxdw?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://www.theguardian.com/world/live/2025/dec/18/eu-frozen-russian-assets-ukraine-war-europe-latest-news-updates",
+    "link": "https://www.dw.com/en/us-approves-largest-arms-sale-to-taiwan/a-75211140?maca=en-rss-en-top-1022-rdf",
+    "score_components": {
+      "magnitude": 1.0,
+      "recency": 0.64,
+      "consensus": 1.0,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.742,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "On December 18, 2025, the United States approved an $11.1 billion arms package for Taiwan, the largest ever for the island. The package includes medium-range missiles, rocket systems, self-propelled howitzers, and drones. China condemned the sale, stating it undermines its sovereignty and increases tensions.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Trump Media plans to join with fusion energy company TAE",
+    "domain": "business",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Thu, 18 Dec 2025 17:48:37 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Axios",
+      "Bloomberg"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "The all-stock deal comes amid growing energy needs for the tech sector.",
+      "Trump's media company to merge with nuclear fusion startup Axios",
+      "Trump Media Targets Nuclear Fusion Through Merger With TAE Bloomberg.com",
+      "Trump Media Discovers Nuclear Fusion Bloomberg.com"
+    ],
+    "image_url": "",
+    "titles": [
+      "Trump Media to merge with nuclear fusion company to power AI",
+      "Trump's media company to merge with nuclear fusion startup - Axios",
+      "Trump Media Targets Nuclear Fusion Through Merger With TAE - Bloomberg.com",
+      "Trump Media Discovers Nuclear Fusion - Bloomberg.com"
+    ],
+    "url": "https://www.aljazeera.com/economy/2025/12/18/trump-media-to-merge-with-nuclear-fusion-company-to-power-ai?traffic_source=rss",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HckVSRm40VFZLalA5Q0VPbHJMbGZ5bjl3bjI4NHBjYVpLNzZSeFBXUDJhM2l6enVUUFJld3hxWEdTZEZUc1RoS0haSVJfZTdKMGhVQ2dnRTN3aDdVY0dfaExtOA?oc=5",
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcHNKTFFLRUxEYk1JU290WGNhNUVsQ00xNV90bk9ucnd0dExiRTc0djVPSmtLYjlNRlJrZDBOVmhWS084ZmlkcU9DWW1qWTQ2c1QzNlZLWHB6RHI2bEFkMjFwRlZZQ2o4aV9lVXFFdW1INzc4aDI1SS1GR052RlJxRnJVNS1JOU9QbW1mR0lKc1JObEZON2pfOHpCUk9yWHJtWnQyNkh0RWxlZFJOM1dabnkzamp5UQ?oc=5",
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0RXSF95b3pJNkE3cFdCYzg0OE1zbUY4cG9wQklyNkR5ME8tdll1V0pVVkR6ZkxMc3Z1YnptNlI4bXM4QjNvSGExMXBrOGcwSjV0bnJuNlVFemFxT1p2d1c0Q2tGVThxR3pVLUlqVmR6ZElRaEg1Vk5YQVhrb2twUmx4MkZnOGM0Y0pRdFhMWUhWMW1mOFVpVg?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.aljazeera.com/economy/2025/12/18/trump-media-to-merge-with-nuclear-fusion-company-to-power-ai?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.867,
+      "recency": 0.924,
+      "consensus": 0.769,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.741,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Trump Media has announced an all-stock merger with TAE, a nuclear fusion startup. The deal aims to address increasing energy demands in the technology sector. The merger combines Trump Media's platform with TAE's fusion technology, with the goal of advancing clean energy solutions. The agreement is pending final approval.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "Anthony Joshua and Jake Paul ready for heavyweight boxing match",
+    "domain": "sports",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Thu, 18 Dec 2025 18:45:57 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "Yahoo Sports",
+      "Sky Sports"
+    ],
+    "domains": [
+      "bbc.com",
+      "sports.yahoo.com",
+      "skysports.com"
+    ],
+    "snippets": [
+      "Anthony Joshua weighs in almost two stone heavier than Jake Paul for Friday's controversial heavyweight bout as part of an unusual stipulation.",
+      "Anthony Joshua successfully made the weight limit for his fight against Jake Paul."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea7/live/05c6c0c0-dc3e-11f0-b67b-690eb873de1b.png",
+    "titles": [
+      "Joshua weighs in nearly two stone heavier than Paul",
+      "AJ weighs in nearly two stone heavier than Jake Paul"
+    ],
+    "url": "https://www.bbc.com/sport/boxing/articles/c208q03lx02o?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://sports.yahoo.com/articles/joshua-weighs-nearly-two-stone-185147061.html",
+      "https://www.skysports.com/boxing/news/12040/13485180/jake-paul-vs-anthony-joshua-british-heavyweight-star-weighs-inside-245lbs-limit-for-fight-against-youtube-star"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/sport/boxing/articles/c208q03lx02o?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.948,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.74,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Anthony Joshua weighed in nearly two stone heavier than Jake Paul for their upcoming heavyweight fight, meeting the required weight limit ahead of Friday's bout. The match, considered controversial due to its unusual stipulations, will proceed as planned. Both fighters are set to compete after clearing the official weigh-in.",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "US Treasury sanctions over 30 tankers in the Caribbean",
+    "domain": "politics",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Thu, 18 Dec 2025 17:47:26 GMT",
+    "source": "Axios",
+    "sources": [
+      "Axios",
+      "Washington Post"
+    ],
+    "domains": [
+      "news.google.com",
+      "washingtonpost.com"
+    ],
+    "snippets": [
+      "Trump's Venezuela blockade fuels Caribbean campaign confusion Axios",
+      "More than 30 tankers in the Caribbean designated by the Treasury Department as sanctioned could be immediately affected by Trump’s move, according to ship tracking monitors."
+    ],
+    "image_url": "",
+    "titles": [
+      "Trump's Venezuela blockade fuels Caribbean campaign confusion - Axios",
+      "Trump’s Venezuela blockade targets dozens of vessels under sanctions"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXdHcXFaTU4xNWNGYnJKcnJhYy10Y01vZDV2c05zbmxUaG5kbk03UGR6V21DX2JzdENQUlI2N3U0cmNqOVJ4OC0weHd3ZzZoX0hDaHh6VDc5blVHTUd2d01nNTJ4YUctWE41Z2FZenM4a1lZTmVwODFQNDhfZmpaSQ?oc=5",
+    "alternate_urls": [
+      "https://www.washingtonpost.com/world/2025/12/17/venezuela-tankers-sanction-blockade-trump/"
+    ],
+    "location_scope": "national",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXdHcXFaTU4xNWNGYnJKcnJhYy10Y01vZDV2c05zbmxUaG5kbk03UGR6V21DX2JzdENQUlI2N3U0cmNqOVJ4OC0weHd3ZzZoX0hDaHh6VDc5blVHTUd2d01nNTJ4YUctWE41Z2FZenM4a1lZTmVwODFQNDhfZmpaSQ?oc=5",
     "score_components": {
       "magnitude": 0.775,
-      "recency": 0.978,
+      "recency": 0.923,
       "consensus": 0.591,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.754,
+    "score": 0.738,
     "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the ongoing debate among EU leaders regarding the situation in Ukraine. However, it lacks depth in terms of potential solutions or outcomes, limiting its constructiveness.",
+    "constructiveness_reason": "The story provides useful insights into the political situation in Venezuela and its impact on the Caribbean region. However, it does not offer solutions or highlight progress, and its depth of awareness is limited.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Polish leader Donald Tusk has warned European leaders ahead of a Brussels summit where the European Council will discuss a deal to support Ukraine’s war effort in 2026 and 2027. German Chancellor Friedrich Merz confirmed his support for the EU’s proposed reparations loan, stating there is “no better option.” The summit is set for Thursday, with the Ukraine aid package as a key agenda item.",
+    "summary": "The U.S. Treasury Department has designated over 30 tankers in the Caribbean as sanctioned, following a move by former President Trump related to Venezuela. Ship tracking data shows these vessels could face immediate impacts from the sanctions, leading to confusion in the region's shipping and campaign activities.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "European court says Denmark ghetto law may be unfair",
+    "domain": "politics",
+    "source_domain": "dw.com",
+    "location": "global",
+    "published": "2025-12-18T17:45:00Z",
+    "source": "Deutsche Welle",
+    "sources": [
+      "Deutsche Welle",
+      "The Guardian"
+    ],
+    "domains": [
+      "dw.com",
+      "theguardian.com"
+    ],
+    "snippets": [
+      "Although the Danish law aims to integrate society, the EU's top court found that it could amount to ethnic discrimination.",
+      "ECJ ruling brings hope to area of city targeted over high percentage of residents with ‘non-western’ backgrounds Residents of a Copenhagen neighbourhood that became an international symbol of a law in Denmark known as the “ghetto law” have said they are confident they can overturn the legislation in"
+    ],
+    "image_url": "",
+    "titles": [
+      "Denmark's 'ghetto law' faces scrutiny after EU court ruling",
+      "Copenhagen’s ‘ghetto law’ may be unlawful, EU court rules"
+    ],
+    "url": "https://www.dw.com/en/denmark-s-ghetto-law-faces-scrutiny-after-eu-court-ruling/a-75230510?maca=en-rss-en-top-1022-rdf",
+    "alternate_urls": [
+      "https://www.theguardian.com/world/2025/dec/18/denmark-ghetto-law-parallel-societies-may-be-unlawful-eu"
+    ],
+    "location_scope": "global",
+    "link": "https://www.dw.com/en/denmark-s-ghetto-law-faces-scrutiny-after-eu-court-ruling/a-75230510?maca=en-rss-en-top-1022-rdf",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.922,
+      "consensus": 0.591,
+      "constructiveness": 0.7,
+      "proximity": 0.5
+    },
+    "score": 0.735,
+    "constructiveness_score": 0.7,
+    "constructiveness_reason": "This story offers a deeper understanding of the 'ghetto law' in Denmark and its potential implications in light of a recent EU court ruling. It increases awareness about the legal and social issues involved, but does not report on solutions or improvements.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The European Court of Justice ruled that Denmark’s “ghetto law,” which targets neighborhoods with high percentages of residents from “non-western” backgrounds, could amount to ethnic discrimination. Residents of a Copenhagen area affected by the law believe the ruling strengthens their case to challenge the legislation. The law’s future is now uncertain following the ECJ decision.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Trump Media and TAE plan to build fusion power plant",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Thu, 18 Dec 2025 17:16:29 GMT",
+    "source": "Reuters",
+    "sources": [
+      "Reuters",
+      "CNBC",
+      "TechCrunch"
+    ],
+    "domains": [
+      "news.google.com",
+      "cnbc.com",
+      "techcrunch.com"
+    ],
+    "snippets": [
+      "What is fusion energy, the quest coveted by Trump Media? Reuters",
+      "Trump Media bets on fusion energy with $6 billion TAE deal Reuters",
+      "TAE Technologies says the strong balance sheet of TMTG will provide the capital needed to bring its first fusion power plant online in the U.S. by 2031.",
+      "Trump Media and Technology Group announced a merger agreement with fusion power company TAE Technologies valued at more than $6 billion.",
+      "The merger would broaden Trump Media’s holdings into the nascent fusion power space while data centers clamor for more electricity amid the ongoing AI boom."
+    ],
+    "image_url": "",
+    "titles": [
+      "What is fusion energy, the quest coveted by Trump Media? - Reuters",
+      "Trump Media bets on fusion energy with $6 billion TAE deal - Reuters",
+      "Fusion deal: Why Trump Media is merging with TAE Technologies",
+      "Trump Media announces $6 billion merger with fusion company TAE Technologies; DJT stock soars 33%",
+      "Trump Media is merging with fusion power company TAE Technologies in $6B+ deal"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjEya2Y5dGJSNV9IcmJkNXBDNU5pTWkzaHVkMnd5TFFKLUFRcHJsak5ZWlJHRWlXU2dDeGprbTdzTGdTUHJZaG1BZTBzdUdYRXVrNjFYbDdZajg0Q2kwOHNsNm5UTVBHTno4V2oxX0JGdmpycjNwQjBHRU9kZWtMYzdBUXlqdDRlZHlqZEYwcUVUOURQQ3F6b3FIXzRBeUx0N09KQw?oc=5",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlhPbUtxUlBpbWF4WElSVzdXblQwVnZkcHRmMm5GNmpoMmJLMHBHd19YVWR0bFJjaEIzdC14X2tCRFpMNVVFak9pd3VDN2I5azROY2VjZ3FObURnMVctU0ppb3RnbHZqQWtXX002VVZ6c0Jwcks2NjctbnZlb3BaSG9ieDRUamRqNkFscE1qWjZRel8xRFBlSEM1OGM?oc=5",
+      "https://www.cnbc.com/2025/12/18/trump-media-merger-fusion-tmtg-tae-technologies.html",
+      "https://www.cnbc.com/2025/12/18/trump-media-djt-tae-fusion-merger.html",
+      "https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/"
+    ],
+    "location_scope": "global",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjEya2Y5dGJSNV9IcmJkNXBDNU5pTWkzaHVkMnd5TFFKLUFRcHJsak5ZWlJHRWlXU2dDeGprbTdzTGdTUHJZaG1BZTBzdUdYRXVrNjFYbDdZajg0Q2kwOHNsNm5UTVBHTno4V2oxX0JGdmpycjNwQjBHRU9kZWtMYzdBUXlqdDRlZHlqZEYwcUVUOURQQ3F6b3FIXzRBeUx0N09KQw?oc=5",
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.91,
+      "consensus": 0.789,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.735,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Trump Media and Technology Group has announced a merger agreement with fusion energy company TAE Technologies, valued at over $6 billion. TAE stated that Trump Media’s financial resources will help fund the development of its first U.S. fusion power plant, targeted to be operational by 2031. The deal expands Trump Media’s business into the fusion energy sector as demand for electricity rises.",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "Police look into food theft by people dressed as Santa in Montreal",
+    "domain": "business",
+    "source_domain": "globalnews.ca",
+    "location": "national",
+    "published": "Thu, 18 Dec 2025 19:40:19 +0000",
+    "source": "Global News",
+    "sources": [
+      "Global News",
+      "Financial Post"
+    ],
+    "domains": [
+      "globalnews.ca",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "Police are investigating what activists say was a Robin Hood-style theft at a Montreal grocery store with people dressed as Santa and elves shoplifting thousands worth of food.",
+      "MONTREAL — In what activists have described as a Robin Hood-inspired theft at a Montreal grocery store this week, several dozen people dressed as Santa and elves allegedly shoplifted thousands of dollars worth of food in an effort to denounce rising prices. A group called Robin des Ruelles — Robins"
+    ],
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/12/Montreal-grocery-store.jpg?quality=65&strip=all",
+    "titles": [
+      "Santa, elves sought in alleged Montreal grocery theft described as political act"
+    ],
+    "url": "https://globalnews.ca/news/11583728/santa-elves-sought-in-alleged-montreal-grocery-theft-described-as-political-act/",
+    "alternate_urls": [
+      "https://financialpost.com/pmn/santa-elves-sought-in-alleged-montreal-grocery-theft-described-as-political-act"
+    ],
+    "location_scope": "national",
+    "link": "https://globalnews.ca/news/11583728/santa-elves-sought-in-alleged-montreal-grocery-theft-described-as-political-act/",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.973,
+      "consensus": 0.591,
+      "constructiveness": 0.0,
+      "proximity": 1.0
+    },
+    "score": 0.731,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Police are investigating a theft at a Montreal grocery store where several dozen people dressed as Santa and elves allegedly stole thousands of dollars worth of food. Activists from a group called Robin des Ruelles described the act as a protest against rising food prices. The incident occurred earlier this week, and the investigation is ongoing.",
     "is_trending": false,
     "trending_score": 0.25
   },
   {
     "title": "Chicago Bears look at new stadium sites outside Illinois",
     "domain": "sports",
-    "source_domain": "cbssports.com",
+    "source_domain": "espn.com",
     "location": "national",
-    "published": "Thu, 18 Dec 2025 02:05:06 +0000",
-    "source": "CBS Sports",
+    "published": "Thu, 18 Dec 2025 14:35:12 EST",
+    "source": "ESPN",
     "sources": [
-      "CBS Sports",
       "ESPN",
       "Bleacher Report"
     ],
     "domains": [
-      "cbssports.com",
       "espn.com",
       "news.google.com"
     ],
     "snippets": [
-      "Soldier Field has been the full-time home of the Bears since 1971",
-      "The Chicago Bears are exploring locations for a new stadium outside the city and even outside Illinois after multiple plans hit stumbling blocks over concerns about the cost to taxpayers.",
+      "The Bears are exploring locations for a new stadium outside Chicago and even outside Illinois after multiple plans have hit stumbling blocks over concerns about the cost to taxpayers.",
       "Bears to Expand Search Outside Chicago for New Stadium Location, Indiana Considered Bleacher Report"
     ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/12/18/689320ac-bada-47bf-b5d4-9de4b133b4f0/soldier-field-bears-getty.png",
+    "image_url": "",
     "titles": [
-      "The Chicago Bears playing in Indiana? Team says it's expanding search for new stadium site beyond Illinois",
       "Bears expand stadium search to include Indiana",
       "Bears to Expand Search Outside Chicago for New Stadium Location, Indiana Considered - Bleacher Report"
     ],
-    "url": "https://www.cbssports.com/nfl/news/chicago-bears-new-stadium-soldier-field-arlington-heights-illinois-indiana/",
+    "url": "https://www.espn.com/nfl/story/_/id/47340940/bears-again-expand-stadium-search-including-illinois",
     "alternate_urls": [
-      "https://www.espn.com/nfl/story/_/id/47340940/bears-again-expand-stadium-search-including-illinois",
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc0xOVHpEYlBhc1pWek5MZE5OUHltMFluMHI2V2JRbk5vQUpBTGM3Q3paYmlacXBPOTNuWEpyUWZCM09CN0RtZnVna3hWTEs4ZFVDUTQ2cFlnOTRTeEhjSy1jX3lQNG5ReVFfLV9DUF91OVl1cWZLd1B0SWgzb0hJWEFXQVFHWGgtdGI5NmJfNnRwUjVzWEk0OGRRaXY5bTdsQW5WY3VXRGV1WHAxSzBQUUpxU2hSRmhoc2d3LQ?oc=5"
     ],
     "location_scope": "national",
-    "link": "https://www.cbssports.com/nfl/news/chicago-bears-new-stadium-soldier-field-arlington-heights-illinois-indiana/",
+    "link": "https://www.espn.com/nfl/story/_/id/47340940/bears-again-expand-stadium-search-including-illinois",
     "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.789,
-      "consensus": 0.789,
-      "constructiveness": 0.109,
+      "magnitude": 0.735,
+      "recency": 0.97,
+      "consensus": 0.591,
+      "constructiveness": 0.035,
       "proximity": 0.75
     },
-    "score": 0.729,
-    "constructiveness_score": 0.109,
-    "constructiveness_reason": "keywords (1): expand; actions: expand; semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "score": 0.708,
+    "constructiveness_score": 0.035,
+    "constructiveness_reason": "keywords (1): expand; actions: expand; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "The Chicago Bears are expanding their search for a new stadium location beyond Chicago, including sites outside Illinois such as Indiana. This move follows setbacks with previous plans due to concerns about taxpayer costs. Soldier Field has served as the Bears' home since 1971. The team is continuing to evaluate options, with no final decision announced.",
+    "summary": "The Chicago Bears are expanding their search for a new stadium location beyond Chicago and are considering sites outside Illinois, including Indiana. Previous stadium proposals have faced obstacles due to concerns about taxpayer costs. The team has not announced a final decision on the location.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Government says FAA and Army mistakes led to deadly plane crash",
-    "domain": "business",
-    "source_domain": "cnbc.com",
+    "title": "Rams player Puka Nacua says sorry for offensive gesture online",
+    "domain": "sports",
+    "source_domain": "espn.com",
     "location": "national",
-    "published": "Thu, 18 Dec 2025 02:56:04 GMT",
-    "source": "CNBC",
+    "published": "Thu, 18 Dec 2025 14:35:12 EST",
+    "source": "ESPN",
     "sources": [
-      "CNBC",
-      "The Guardian",
-      "Global News"
+      "ESPN",
+      "Yahoo Sports"
     ],
     "domains": [
-      "cnbc.com",
-      "theguardian.com",
-      "globalnews.ca"
+      "espn.com",
+      "sports.yahoo.com"
     ],
     "snippets": [
-      "The U.S. admitted fault in the deadly Army Black Hawk helicopter collision on Jan. 29 that killed all 67 people on board.",
-      "Official response to lawsuit filed by victims’ relatives admits FAA and army failures played role in Washington DC crash The US government admitted Wednesday that the Federal Aviation Administration and the army played a role in causing the collision in January between an airliner and a Black Hawk h",
-      "The U.S. government acknowledged that the Federal Aviation Administration and the Army played a role in causing the collision last January that killed 67 people."
+      "Rams wide receiver Puka Nacua issued a statement Thursday apologizing for performing a gesture on an internet livestream that was \"antisemitic in nature and perpetuated harmful stereotypes against Jewish people.\"",
+      "Puka Nacua said he was unaware the gesture he performed was antisemitic."
     ],
     "image_url": "",
     "titles": [
-      "U.S. admits liability in Army helicopter collision with American Airlines jet that killed 67 people",
-      "US government admits negligence in helicopter-plane collision that killed 67",
-      "U.S. admits liability in D.C. plane crash lawsuit from victim’s family"
+      "Nacua apologizes, 'had no idea' gesture offensive",
+      "Puka Nacua apologizes after promising he would do an antisemitic touchdown celebration: 'I had no idea'"
     ],
-    "url": "https://www.cnbc.com/2025/12/17/us-army-helicopter-collision-american-airlines-jet.html",
+    "url": "https://www.espn.com/nfl/story/_/id/47348037/rams-puka-nacua-apologizes-had-no-idea-gesture-offensive",
     "alternate_urls": [
-      "https://www.theguardian.com/us-news/2025/dec/17/us-government-helicopter-crash-washington-dc",
-      "https://globalnews.ca/news/11582607/dc-plane-helicopter-crash-lawsuit-us/"
+      "https://sports.yahoo.com/nfl/article/puka-nacua-apologizes-after-promising-he-would-do-an-antisemitic-touchdown-celebration-i-had-no-idea-194408536.html"
     ],
     "location_scope": "national",
-    "link": "https://www.cnbc.com/2025/12/17/us-army-helicopter-collision-american-airlines-jet.html",
+    "link": "https://www.espn.com/nfl/story/_/id/47348037/rams-puka-nacua-apologizes-had-no-idea-gesture-offensive",
     "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.808,
-      "consensus": 0.789,
+      "magnitude": 0.735,
+      "recency": 0.97,
+      "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.75
     },
-    "score": 0.729,
+    "score": 0.705,
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "The U.S. government has admitted that failures by the Federal Aviation Administration and the Army contributed to the January 29 collision between an airliner and an Army Black Hawk helicopter in Washington, DC, which killed all 67 people on board. This admission came in response to a lawsuit filed by victims’ relatives.",
+    "summary": "Rams wide receiver Puka Nacua apologized on Thursday for making an antisemitic gesture during an internet livestream. Nacua stated he did not realize the gesture was offensive and expressed regret for perpetuating harmful stereotypes against Jewish people.",
     "is_trending": false,
-    "trending_score": 0.0
+    "trending_score": 0.25
   },
   {
-    "title": "House passes bill without more ACA health insurance help",
-    "domain": "politics",
-    "source_domain": "news.google.com",
+    "title": "Tigers star pitcher will join Team USA for 2026 baseball event",
+    "domain": "sports",
+    "source_domain": "cbssports.com",
     "location": "national",
-    "published": "Thu, 18 Dec 2025 08:15:13 GMT",
-    "source": "Axios",
+    "published": "Thu, 18 Dec 2025 18:16:58 +0000",
+    "source": "CBS Sports",
     "sources": [
-      "Axios",
-      "Reuters"
+      "CBS Sports",
+      "Yahoo Sports"
     ],
     "domains": [
-      "news.google.com"
+      "cbssports.com",
+      "sports.yahoo.com"
     ],
     "snippets": [
-      "House passes GOP health bill without subsidies Axios",
-      "US House passes Republican healthcare bill without ACA subsidy renewal Reuters"
+      "The sixth WBC will be held in March",
+      "Team USA came in second place last cycle, but no thanks to their pitching staff",
+      "The Tigers ace turns Team USA’s rotation into a major force to be reckoned with."
     ],
-    "image_url": "",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/12/18/26d5935f-cd53-4de3-a62e-6dd5db4fc047/skubal-getty.png",
     "titles": [
-      "House passes GOP health bill without subsidies - Axios",
-      "US House passes Republican healthcare bill without ACA subsidy renewal - Reuters"
+      "World Baseball Classic Team USA roster: Tarik Skubal, Mason Miller join Aaron Judge, Paul Skenes, more",
+      "Tarik Skubal, Paul Skenes finally give Team USA a World Baseball Classic rotation worthy of a championship",
+      "Tarik Skubal commits to pitch for Team USA in the 2026 World Baseball Classic"
     ],
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHc3NHJGeUN6a29CZkVJT3hOS1R3c0t2djhfa2Y1LWhqbXFKblhhaVMxak8yM01Nd3NLcmhnSzU1WnpLNUxRWUJWSF9xOVBJUnlHZWt4emRROTM2Z1hUZGthYUNqNFI2Ujk2MHhabjBiZDJZN2N2cDFTYjl0czQ4OGNGeks?oc=5",
+    "url": "https://www.cbssports.com/mlb/news/world-baseball-classic-team-usa-roster-aaron-judge-paul-skenes-cal-raleigh-bobby-witt-jr-pete-crow-armstrong/",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ0gzMTQwYTFCVWtSWXA4LWNNdGVBdkIta3h2ZTNyYWp5akhreWs0c2VPLUlvWldoeDF3aGZ1eW93cXVwVFdsdHRwTGRjRHZ6dTJrbnNLNXdsMGNRcHFDdVI5T1FDZ0gyMHRqWUJic0s1VE5oM1JWTG0xdjM1YTZHWEEzSm5SaXdwNk53djZCcGtnQlVsRDVER0pRdkpyaHc1YkthOGxzMll1dnc1RlF6bmw4U2s2ZGpOZFNTSGVsWDlKbnIxRjlNTTJJWQ?oc=5"
+      "https://www.cbssports.com/mlb/news/tarik-skubal-paul-skenes-world-baseball-classic-team-usa-roster-rotation/",
+      "https://sports.yahoo.com/articles/tarik-skubal-commits-pitch-team-195017715.html"
     ],
     "location_scope": "national",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHc3NHJGeUN6a29CZkVJT3hOS1R3c0t2djhfa2Y1LWhqbXFKblhhaVMxak8yM01Nd3NLcmhnSzU1WnpLNUxRWUJWSF9xOVBJUnlHZWt4emRROTM2Z1hUZGthYUNqNFI2Ujk2MHhabjBiZDJZN2N2cDFTYjl0czQ4OGNGeks?oc=5",
+    "link": "https://www.cbssports.com/mlb/news/world-baseball-classic-team-usa-roster-aaron-judge-paul-skenes-cal-raleigh-bobby-witt-jr-pete-crow-armstrong/",
     "score_components": {
       "magnitude": 0.735,
       "recency": 0.936,
-      "consensus": 0.571,
-      "constructiveness": 0.6,
-      "proximity": 0.5
+      "consensus": 0.591,
+      "constructiveness": 0.022,
+      "proximity": 0.75
     },
-    "score": 0.726,
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "While the story informs about a significant legislative development, it doesn't provide enough context or detail about the impacts of this decision, making it less useful for readers. It also doesn't report on solutions or progress.",
-    "constructiveness_source": "gpt",
+    "score": 0.697,
+    "constructiveness_score": 0.022,
+    "constructiveness_reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "The US House of Representatives has passed a Republican-backed healthcare bill that does not include the renewal of Affordable Care Act (ACA) subsidies. The bill moves forward without provisions to extend government financial assistance for health insurance under the ACA. The measure now advances to the Senate for consideration.",
-    "is_trending": false,
-    "trending_score": 0.0
+    "summary": "The sixth World Baseball Classic (WBC) is scheduled for March 2026. In the previous tournament, Team USA finished in second place, with their pitching staff noted as a weakness. For the upcoming WBC, the addition of the Tigers ace is expected to significantly strengthen Team USA’s pitching rotation.",
+    "is_trending": true,
+    "trending_score": 0.5
   },
   {
-    "title": "Ukraine asks EU to use Russian money as drone strikes kill three",
+    "title": "Farmers in Brussels protest against new trade deal plan",
     "domain": "general",
     "source_domain": "aljazeera.com",
     "location": "global",
-    "published": "Thu, 18 Dec 2025 07:17:04 +0000",
+    "published": "Thu, 18 Dec 2025 13:56:07 +0000",
     "source": "Al Jazeera",
     "sources": [
       "Al Jazeera",
-      "Reuters"
+      "Globe and Mail"
     ],
     "domains": [
       "aljazeera.com",
       "news.google.com"
     ],
     "snippets": [
-      "Zelenskyy urges EU leaders to unlock Russian assets to show Moscow its desire to continue war next year is ‘pointless’.",
-      "Ukrainian drones kill three people in Russia's Rostov region, authorities say Reuters"
+      "Thousands protest as EU leaders clash over pact farmers fear will flood Europe with cheaper South American goods.",
+      "Farmers in Brussels block roads, set fires in protest of EU-Mercosur free-trade deal The Globe and Mail"
     ],
     "image_url": "",
     "titles": [
-      "Ukraine drones kill 3 in Russia’s Rostov as EU debates war funding for Kyiv",
-      "Ukrainian drones kill three people in Russia's Rostov region, authorities say - Reuters"
+      "Angry farmers block Brussels roads with tractors over Mercosur trade deal",
+      "Farmers in Brussels block roads, set fires in protest of EU-Mercosur free-trade deal - The Globe and Mail"
     ],
-    "url": "https://www.aljazeera.com/news/2025/12/18/ukraine-drones-kill-3-in-russias-rostov-as-eu-debates-funding-for-kyiv?traffic_source=rss",
+    "url": "https://www.aljazeera.com/news/2025/12/18/angry-farmers-block-brussels-roads-with-tractors-over-mercosur-trade-deal?traffic_source=rss",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUVNFNlRqMjIzTldlTTdrRkNDZnE2eTVZREg0ckFDUkV2OU9MWk5nOU1aVTlSUF9YUkszcDFlVDJVaU9hdkFGeEd6Vl9GVVdiaWlxNVFpaTJFcDM3b3l6bTVENkxHbllTRm1pYjlTOXFkY0ZFVlJjM0x3NkV0OWN3VE85Q3pDUjJzbEE5SGF5WWYtNkJ0RnFGN1ZVMEZMel9RTkk4ZTFyT0FweEI4NGlGV1AwUURYQQ?oc=5"
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxObGdERnlYd1VRUFFyWDUxSm4xcHJGcmRRLTVfN2lTUDVUVDBiN0JENlMzVldydFlpelV1SHVIcFN2OHE1Q2l4ZTZzNEpSWkhOdFQ2V3dFX19ubnZsdFFFQV8ySkRMM3VXNGxzTHNqUWozcC1pNGp2eVh3WUNrNENDNGYzZ3QwSXJCUEthVHlXWW5nRnpQbEhaaDB1czlUODdKRDI1OE8xZ1Zqd2JDRU5DNzJRdGdsS2JPRHV1T2hOWDRpZ1JvQW5z?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/18/ukraine-drones-kill-3-in-russias-rostov-as-eu-debates-funding-for-kyiv?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2025/12/18/angry-farmers-block-brussels-roads-with-tractors-over-mercosur-trade-deal?traffic_source=rss",
     "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.911,
+      "magnitude": 0.735,
+      "recency": 0.829,
       "consensus": 0.591,
       "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.724,
+    "score": 0.687,
     "constructiveness_score": 0.5,
-    "constructiveness_reason": "While this story provides awareness about the ongoing conflict, it does not offer actionable insights or deeper understanding of the situation. It also does not report on solutions or improvements, limiting its constructiveness.",
+    "constructiveness_reason": "This story offers basic awareness about a protest by farmers in Brussels. However, it lacks depth or insight into the reasons behind the protest, the implications of the Mercosur trade deal, or potential solutions to the issue.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Ukrainian President Volodymyr Zelenskyy has called on European Union leaders to unlock frozen Russian assets, stating this would signal to Moscow that continuing the war into next year is futile. Meanwhile, Russian authorities report that Ukrainian drone strikes in Russia's Rostov region have killed three people.",
+    "summary": "Thousands of farmers protested in Brussels on December 18, 2025, blocking roads and setting fires in opposition to the proposed EU-Mercosur free-trade deal. The farmers fear the agreement will allow cheaper South American goods to enter Europe, threatening local agriculture. EU leaders remain divided over the pact, with discussions ongoing.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "BP names Meg ONeill as new chief executive officer",
+    "title": "US inflation falls but some experts question the new data",
     "domain": "business",
     "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Wed, 17 Dec 2025 23:47:54 GMT",
-    "source": "Axios",
+    "location": "global",
+    "published": "Thu, 18 Dec 2025 18:47:39 GMT",
+    "source": "Bloomberg",
     "sources": [
-      "Axios",
-      "Reuters",
-      "The Guardian",
-      "Forbes"
+      "Bloomberg",
+      "Financial Post"
     ],
     "domains": [
       "news.google.com",
-      "theguardian.com",
-      "forbes.com"
+      "financialpost.com"
     ],
     "snippets": [
-      "BP names Meg O'Neill CEO as Auchincloss steps down in Big Oil shakeup Axios",
-      "BP appoints Woodside's Meg O'Neill as CEO after Auchincloss' abrupt exit Reuters",
-      "O’Neill, who has led Woodside Energy since 2021, will be oil and gas company’s first female chief executive BP’s board has appointed its first female chief executive in a move to revive the oil company’s fortunes, after ousting Murray Auchincloss less than two years into his role. In an unexpected l",
-      "Woodside Energy’s boss Meg O’Neill has been appointed CEO of BP following the shock departure of Murray Auchincloss, the FTSE 100 company confirmed on Wednesday."
+      "‘Swiss Cheese’ CPI Report Raises Doubts About US Inflation Data Bloomberg.com",
+      "S&P 500 Rises on Easing US Inflation Data, Upbeat Tech Outlook Bloomberg.com",
+      "CPI: A Great Inflation Report Doesn’t Quite Stand Up to Scrutiny Bloomberg.com",
+      "After long-awaited government data showed underlying US inflation cooled to a four-year low in November, economists agreed on at least this much: something was off."
     ],
     "image_url": "",
     "titles": [
-      "BP names Meg O'Neill CEO as Auchincloss steps down in Big Oil shakeup - Axios",
-      "BP appoints Woodside's Meg O'Neill as CEO after Auchincloss' abrupt exit - Reuters",
-      "BP names Meg O’Neill as new CEO after incumbent ousted",
-      "Woodside Energy’s Meg O’Neill Named BP CEO As Murray Auchincloss Exits"
+      "‘Swiss Cheese’ CPI Report Raises Doubts About US Inflation Data - Bloomberg.com",
+      "S&P 500 Rises on Easing US Inflation Data, Upbeat Tech Outlook - Bloomberg.com",
+      "CPI: A Great Inflation Report Doesn’t Quite Stand Up to Scrutiny - Bloomberg.com",
+      "‘Swiss Cheese’ CPI Report Raises Doubts About US Inflation Data"
     ],
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BTzg1MkpyZl96dDd6dThzTnVySHBjbDFJVXc1b085Qk9FbkNmbzRnNTV0aDRJVTFpdkgtYkxYMjR1dHFqUnN5dUVoblpNS283RmRhd3h5Y2dnVGVxNXZLZ1Q3M0pUdmZDZmJWU0xKUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemhWbFcwQjVXSzU5TEZxOU5yWEtra1Z1aG1pbVU2azdfMWhyOHVIY3FlTkJUalNoQ2Q1NlFPNG5NRDZzMFlTZThxN0pjekZfQlA1U21YVDBWZUlKREduUy0xM3BESHVkaHdNUm1zYmdJZ1R5YmxMSUl1djNQRkE1d1B1SzFtSmI0SmRKVDVYLWM2bWlWMWMyVEFlSmdpdGtpZmJSSm1QcHBLNjNUT1Q3MVdSSQ?oc=5",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUE0V1FMTWVhXzl0TFpNeWlhLU5qVVhxTTQ2d1dWVVU1dE00c2VIVjVUVW9zdHRxTmJLU1BfX2R4Q0had3RmZ1dXWnZ1MUw2SDRFVzhhNjNqR3VWUXduU1hRY3lab25JWllBWW9BSDFpckdCMVJPTWxiNGxyaE5BUE9fbk9MbG1HZkZ4aGl0U1VpWkZtcHlMZTlDOFFGZ29FZWJtLQ?oc=5",
-      "https://www.theguardian.com/business/2025/dec/17/bp-names-meg-oneill-as-new-chief-executive",
-      "https://www.forbes.com/sites/gauravsharma/2025/12/17/woodside-energys-meg-oneill-named-bp-ceo-as-murray-auchincloss-exits/"
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDFGalFxS3Q3WkRjRGNWZ3RQSHNRODFVaFJub3BMRXFRRHhYeGUzUjk2Nl9OQnhMV1U2VGJCVlk4MXJUbkpuRUt2R1otNkwzQlRnVHRoQlhyS3NScUs0T3M5Z2FFSGxlQWxlWEMzdGp0a1dNNUV6RGRYZUlDdC1jRnFPVlloX3YxU3ZEanF1bzJQYlplVU4xOUJZd19la3dMZTJpTF9DMGcyb0MzS2xYWEJn?oc=5",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQTdDX0Y0d2ptR0w4TG9jbkxoY3dfN0VlOFp1ZkN3QTB4a2Q1SHZjaXNBN2p0dW5yR0ZieFFoRFBHbURzTlhqN005cXdZa25Wd2ZjMWUtOTkxWHBfemQzYW1ScjhSQzZuT0FnYUpRckVlcjdmVzNISkFzNUFNOXphcWtQYXJfaUIyMmpnTUZkc3RCb2NVaFppUzlyTG14WTB2ek5UUjNqa0FHT21oaVpsWWxtd2ZGUUhF?oc=5",
+      "https://financialpost.com/pmn/business-pmn/swiss-cheese-cpi-report-raises-doubts-about-us-inflation-data"
     ],
-    "location_scope": "national",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BTzg1MkpyZl96dDd6dThzTnVySHBjbDFJVXc1b085Qk9FbkNmbzRnNTV0aDRJVTFpdkgtYkxYMjR1dHFqUnN5dUVoblpNS283RmRhd3h5Y2dnVGVxNXZLZ1Q3M0pUdmZDZmJWU0xKUQ?oc=5",
+    "location_scope": "global",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemhWbFcwQjVXSzU5TEZxOU5yWEtra1Z1aG1pbVU2azdfMWhyOHVIY3FlTkJUalNoQ2Q1NlFPNG5NRDZzMFlTZThxN0pjekZfQlA1U21YVDBWZUlKREduUy0xM3BESHVkaHdNUm1zYmdJZ1R5YmxMSUl1djNQRkE1d1B1SzFtSmI0SmRKVDVYLWM2bWlWMWMyVEFlSmdpdGtpZmJSSm1QcHBLNjNUT1Q3MVdSSQ?oc=5",
     "score_components": {
-      "magnitude": 0.892,
-      "recency": 0.74,
-      "consensus": 0.888,
+      "magnitude": 0.775,
+      "recency": 0.949,
+      "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.717,
+    "score": 0.685,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "BP has appointed Meg O’Neill, former CEO of Woodside Energy, as its new chief executive following the abrupt departure of Murray Auchincloss. O’Neill becomes BP’s first female CEO. The leadership change was confirmed by BP’s board on December 18, 2025, as part of efforts to revitalize the company.",
-    "is_trending": false,
-    "trending_score": 0.0
+    "summary": "US government data showed underlying inflation in November 2025 fell to its lowest level in four years, leading to a rise in the S&P 500 and optimism in the tech sector. However, economists expressed concerns about inconsistencies in the Consumer Price Index (CPI) report, raising doubts about the accuracy of the inflation data.",
+    "is_trending": true,
+    "trending_score": 0.5
   },
   {
-    "title": "Warner Bros board says no to Paramount takeover offer",
-    "domain": "business",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Wed, 17 Dec 2025 13:08:06 GMT",
-    "source": "Axios",
-    "sources": [
-      "Axios",
-      "Reuters",
-      "The Guardian",
-      "Bloomberg",
-      "TechCrunch",
-      "Globe and Mail"
-    ],
-    "domains": [
-      "news.google.com",
-      "theguardian.com",
-      "techcrunch.com"
-    ],
-    "snippets": [
-      "Warner Bros. Discovery board rejects Paramount's hostile bid Axios",
-      "Warner Bros Discovery board rejects rival bid from Paramount Reuters",
-      "After WBD accused Paramount of misleading investors, the network assured it had ‘all necessary financing’ for the deal Warner Bros Discovery has urged shareholders to reject a $108.4bn hostile takeover offer from Paramount Skydance, branding it “inadequate” amid an extraordinary corporate battle to",
-      "Warner Bros. Urges Investors to Reject Paramount Bid Bloomberg.com",
-      "Warner Bros. Discovery called Paramount's offer \"illusory\" and said that the company had misled shareholders about its financing.",
-      "Warner Bros. Discovery board asks investors to reject Paramount’s hostile bid, go with Netflix deal The Globe and Mail"
-    ],
-    "image_url": "",
-    "titles": [
-      "Warner Bros. Discovery board rejects Paramount's hostile bid - Axios",
-      "Warner Bros Discovery board rejects rival bid from Paramount - Reuters",
-      "Warner Bros Discovery urges shareholders to reject Paramount’s $108.4bn takeover bid",
-      "Warner Bros. Urges Investors to Reject Paramount Bid - Bloomberg.com",
-      "Warner Bros. Discovery rejects Paramount’s hostile bid, calls offer ‘illusory’",
-      "Warner Bros. Discovery board asks investors to reject Paramount’s hostile bid, go with Netflix deal - The Globe and Mail"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wejBkMm5rdHM4S005YUxoNVR2V3BPWTF6VkZ4WHVDZ01Ob1ZQUUg0UktSVTJkUXFHeGJGd3RoTTI3M0dyNHMtQmE0SVd5eWI5TWZoX1FITGUtT3p6N1lqQ2hrNDduVmpSaDFGOV9n?oc=5",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbHRPNHhwZFRoNnA0QkFQNC1kUHdaYVRGQTFaQVQ3Y3lHTnU3SXNYTWxSUVVaS0Y0X2x0Z3lCR2JmY2F3Q0ZiWktMMGVXWUNGSHJGeWRBdUpfVVhKcTlUWGY1TVhERHRsQjJUVVhDOWFxMnUtVF9lS1AtajVkY09icWREaDBfZ2doVWhxMU83MURTYXYwQ05VV3E1OEs2UV9ZeXVvbUkwNEM4a0lBb0VULQ?oc=5",
-      "https://www.theguardian.com/media/2025/dec/17/warner-bros-discovery-deal-paramount-skydance",
-      "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2pqa3hiODA1dnJoc1pfN1VhN0VGemwydU5DZ0J0dUxCRFV6Y1JDUUFJb0p5SEVRSmtOMUZTR3UyaEpzalVsbmRzTWsyc2dMa0dWbERNMXBhaDBLNTFmcjFVQ1VvZmxMZXhMMkVxVHg3UWNGTWdwcklsUklzSHpqQzgzd04temZDZWx6OXdzd0FRLXB2RVE3VTI3eTRfclVSM0tjNlJwMUMyS0JJLXhpYQ?oc=5",
-      "https://techcrunch.com/2025/12/17/warner-bros-discovery-rejects-paramounts-hostile-bid-calls-offer-illusory/",
-      "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3ZoZzZQNVk2Zk5VeWN3UXNVemhtYmhINER0b3VBNFlyN2p3eFNEYWV5RDU4ODdTbTAyVUFuRWFrSzJENmd2MGNWOEI2Rm1uVW4yb2ZzQm1UUjk5NFVlaEtNNWJZUmxxb280a21GQ1NGeFN0WlFOR1BmdElFNTMtaFJBMmFHdFk1bjVPXzFCdlFhdFNhZWRiQ2xCdld2RE4tU3pr?oc=5"
-    ],
-    "location_scope": "national",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wejBkMm5rdHM4S005YUxoNVR2V3BPWTF6VkZ4WHVDZ01Ob1ZQUUg0UktSVTJkUXFHeGJGd3RoTTI3M0dyNHMtQmE0SVd5eWI5TWZoX1FITGUtT3p6N1lqQ2hrNDduVmpSaDFGOV9n?oc=5",
-    "score_components": {
-      "magnitude": 0.986,
-      "recency": 0.55,
-      "consensus": 0.999,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.711,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Warner Bros. Discovery’s board has unanimously rejected a $108.4 billion hostile takeover bid from Paramount, calling the offer “inadequate” and accusing Paramount of misleading investors about its financing. The board has urged shareholders to reject the bid and consider an alternative deal with Netflix. The corporate dispute remains ongoing.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "US focuses on fighting drugs in Venezuela and wants oil access",
-    "domain": "politics",
-    "source_domain": "ft.com",
-    "location": "global",
-    "published": "Thu, 18 Dec 2025 06:14:49 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times",
-      "New York Times"
-    ],
-    "domains": [
-      "ft.com",
-      "nytimes.com"
-    ],
-    "snippets": [
-      "US president is unlikely to oust long-ruling Caracas strongman without military muscle, experts say",
-      "In public, the White House says it is confronting Venezuela to curb drug trafficking. Behind the scenes, gaining access to the country’s vast oil reserves is a priority."
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa81e4d4a-c77b-4e1b-989e-c8fa56497bab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Can Venezuela’s Maduro survive Trump’s oil blockade?",
-      "Venezuela’s Oil Is a Focus of Trump’s Campaign Against Maduro"
-    ],
-    "url": "https://www.ft.com/content/283eb1b9-2274-41f1-8075-b1cc4cba477c",
-    "alternate_urls": [
-      "https://www.nytimes.com/2025/12/16/us/politics/trump-maduro-venezuela-oil-tanker.html"
-    ],
-    "location_scope": "global",
-    "link": "https://www.ft.com/content/283eb1b9-2274-41f1-8075-b1cc4cba477c",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.885,
-      "consensus": 0.591,
-      "constructiveness": 0.5,
-      "proximity": 0.5
-    },
-    "score": 0.71,
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story raises awareness about a geopolitical issue, but without more details or analysis, it offers minimal depth or insight. It doesn't report on solutions or progress, nor does it give the reader actionable insights.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Experts say the US president is unlikely to remove Venezuela's long-ruling leader without military intervention. Publicly, the White House states its focus is on combating drug trafficking in Venezuela, while privately, gaining access to the country's significant oil reserves is also a key objective.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Florida Gators win over Saint Francis with big score",
+    "title": "Six athletes are shortlisted for 2025 sports award",
     "domain": "sports",
-    "source_domain": "cbssports.com",
+    "source_domain": "sports.yahoo.com",
     "location": "national",
-    "published": "Thu, 18 Dec 2025 03:43:42 +0000",
-    "source": "CBS Sports",
+    "published": "Thu, 18 Dec 2025 19:42:05 +0000",
+    "source": "Yahoo Sports",
     "sources": [
-      "CBS Sports",
-      "ESPN",
-      "Sportsnet"
-    ],
-    "domains": [
-      "cbssports.com",
-      "espn.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "Rioux threw down a two-handed slam Wednesday against Saint Francis",
-      "The tallest college basketball player ever recorded his first field goal in the 23rd-ranked Gators' win over Saint Francis on Wednesday night.",
-      "Toronto’s Xaivian Lee scored 18 points, Alex Condon added 14, and No. 23 Florida got a break from one of the toughest non-conference schedules in the country with a 102-61 victory against Saint Francis on Wednesday night."
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/12/18/91231149-90c1-4438-9a53-21d26df7e275/olivier-rioux-getty.png",
-    "titles": [
-      "Olivier Rioux, Florida's 7-foot-9 center, makes college basketball history with first career field goal",
-      "7-foot-9 Florida C Rioux dunks for first field goal",
-      "Canada’s Rioux makes NCAA history with emphatic dunk for first college field goal"
-    ],
-    "url": "https://www.cbssports.com/college-basketball/news/olivier-rioux-florida-7-foot-9-center-college-basketball-history/",
-    "alternate_urls": [
-      "https://www.espn.com/mens-college-basketball/story/_/id/47342190/7-foot-9-florida-c-olivier-rioux-dunks-first-field-goal"
-    ],
-    "location_scope": "national",
-    "link": "https://www.cbssports.com/college-basketball/news/olivier-rioux-florida-7-foot-9-center-college-basketball-history/",
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.826,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.704,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "The 23rd-ranked Florida Gators defeated Saint Francis 102-61 on Wednesday night. Xaivian Lee scored 18 points and Alex Condon added 14. Florida’s Olivier Rioux, the tallest college basketball player on record, made his first field goal with a two-handed dunk during the game.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Senate approves Jared Isaacman as new head of NASA",
-    "domain": "science",
-    "source_domain": "theverge.com",
-    "location": "global",
-    "published": "2025-12-17T18:36:06-05:00",
-    "source": "The Verge",
-    "sources": [
-      "The Verge",
-      "TechCrunch",
-      "Scientific American"
-    ],
-    "domains": [
-      "theverge.com",
-      "techcrunch.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "The Senate confirmed Jared Isaacman's appointment as the head of NASA on Wednesday, a decision that comes just months after President Donald Trump pulled his nomination before picking him yet again in November, as reported earlier by CNBC. Isaacman, the founder and CEO of a payments platform called",
-      "Isaacman will run the space agency at a time when Trump is trying to both downsize it and task it with returning astronauts to the moon.",
-      "Jared Isaacman Confirmed to Head NASA at Pivotal Moment for the Space Agency Scientific American"
-    ],
-    "image_url": "",
-    "titles": [
-      "Billionaire Jared Isaacman confirmed as new head of NASA",
-      "Jared Isaacman confirmed as next head of NASA",
-      "Jared Isaacman Confirmed to Head NASA at Pivotal Moment for the Space Agency - Scientific American"
-    ],
-    "url": "https://www.theverge.com/news/846903/billionaire-jared-isaacman-confirmed-as-new-head-of-nasa",
-    "alternate_urls": [
-      "https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/",
-      "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGpNT0c4bUt1WmJNT25ER1c3RTBveUt2ZnhUVG9QbnJaazhHellyVUtHM3E1VWJSLWlMblJMeVQ2Rno2ellMYXlvQzYwbTRlMm9mQzZZSHV4SlJ4Njc3cWowWlFRZmlCc0UwM193d1lnd0h3TF9VeFdHRmxwSWpnWHZNYWdZRW0zZGROc0RWeEtqcFozTXJfMEliLVl3N0lNUjE5XzFwZnZRTlVycHRsQjFNMGJydGJfX3I1Ng?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.theverge.com/news/846903/billionaire-jared-isaacman-confirmed-as-new-head-of-nasa",
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.736,
-      "consensus": 0.789,
-      "constructiveness": 0.05,
-      "proximity": 0.5
-    },
-    "score": 0.688,
-    "constructiveness_score": 0.05,
-    "constructiveness_reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "snippet",
-    "summary_reason": "invalid_roles",
-    "headline_source": "gpt",
-    "summary": "The Senate confirmed Jared Isaacman's appointment as the head of NASA on Wednesday, a decision that comes just months after President Donald Trump pulled his nomination before picking him yet again in November, as reported earlier by CNBC. Isaacman, the founder and CEO of a payments platform called",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Watches are the most popular gift in new survey",
-    "domain": "business",
-    "source_domain": "businessinsider.com",
-    "location": "global",
-    "published": "2025-12-18T09:53:01Z",
-    "source": "Business Insider",
-    "sources": [
-      "Business Insider",
-      "The Verge"
-    ],
-    "domains": [
-      "businessinsider.com",
-      "theverge.com"
-    ],
-    "snippets": [
-      "While watches dominated recent survey results, experiences, health gear, and \"boardroom to bar\" clothing are also high on the list.",
-      "Your mom deserves the best, and we're going to help you get them something special. The right gift can make family or friend time more valuable, after all, or it can greatly enrich time spent alone. If your mom says that she has all that she needs, don't take her word for it and show […]"
-    ],
-    "image_url": "https://i.insider.com/693c897b832e0ef1ead62c41?format=jpeg",
-    "titles": [
-      "The Wall Street gift guide: What bankers are asking for this holiday season",
-      "The 44 best gift ideas for mom this holiday season"
-    ],
-    "url": "https://www.businessinsider.com/wall-street-holiday-gifts-bags-alcohol-rolex-watch-2025-12",
-    "alternate_urls": [
-      "https://www.theverge.com/gadgets/802964/best-mom-gift-ideas"
-    ],
-    "location_scope": "global",
-    "link": "https://www.businessinsider.com/wall-street-holiday-gifts-bags-alcohol-rolex-watch-2025-12",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.98,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.683,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Recent surveys show that watches are the most popular gift choice, followed by experiences, health-related gadgets, and versatile clothing suitable for both professional and social settings. These trends reflect a focus on practical and meaningful gifts for loved ones.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Parents sue Meta after son dies following Instagram sextortion",
-    "domain": "business",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Thu, 18 Dec 2025 09:45:57 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
+      "Yahoo Sports",
       "The Guardian"
     ],
     "domains": [
-      "bbc.com",
+      "sports.yahoo.com",
       "theguardian.com"
     ],
     "snippets": [
-      "Murray Dowey from Dunblane was 16 when he became a victim of sextortion in 2023.",
-      "Exclusive: Lawsuit is the first UK case of its kind, with Ros and Mark Dowey accusing Meta of ‘putting profit before our young people’ The parents of a 16-year-old who took his own life after he fell victim to a sextortion gang on Instagram are suing Meta for the alleged wrongful death of their son,"
+      "Norris appeared on a live video link after being part of the six-athlete short for Sports Personality of the Year",
+      "Updates from the ceremony in Salford, 7pm GMT start Our Anti-Spoty 2025 | Follow us on Bluesky | Mail Niall And here are recent Guardian interviews with that trio of elite athletes. Get reading! Two more contenders for tonight’s big prize have arrived in Salford: Chloe Kelly and Rory McIlroy ! Conti"
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e963/live/90e40d00-a276-11ef-aa19-39e0adebaf4e.jpg",
+    "image_url": "",
     "titles": [
-      "Parents of sextortion victim sue Instagram owner Meta",
-      "Parents of sextortion victim sue Meta for alleged wrongful death"
+      "Why Lando Norris and Luke Littler missed Sports Personality of the Year awards",
+      "BBC Sports Personality of the Year 2025 – live"
     ],
-    "url": "https://www.bbc.com/news/articles/cdj87z42gv4o?at_medium=RSS&at_campaign=rss",
+    "url": "https://sports.yahoo.com/articles/why-lando-norris-luke-littler-194205293.html",
     "alternate_urls": [
-      "https://www.theguardian.com/uk-news/2025/dec/17/parents-of-sextortion-victim-sue-meta-for-alleged-wrongful-death"
+      "https://www.theguardian.com/sport/live/2025/dec/18/bbc-sports-personality-of-the-year-2025-live"
     ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/news/articles/cdj87z42gv4o?at_medium=RSS&at_campaign=rss",
+    "location_scope": "national",
+    "link": "https://sports.yahoo.com/articles/why-lando-norris-luke-littler-194205293.html",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.976,
+      "recency": 0.973,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
     "score": 0.681,
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "The parents of Murray Dowey, a 16-year-old from Dunblane who died by suicide after being targeted by a sextortion gang on Instagram in 2023, have filed a lawsuit against Meta. The case, described as the first of its kind in the UK, alleges Meta prioritized profit over the safety of young users and is being brought as a wrongful death claim.",
+    "summary": "Six athletes, including Norris, Chloe Kelly, and Rory McIlroy, were shortlisted for the 2025 Sports Personality of the Year award. The ceremony took place in Salford, starting at 7pm GMT. Norris appeared via live video link as part of the event.",
     "is_trending": false,
-    "trending_score": 0.0
+    "trending_score": 0.25
   },
   {
-    "title": "Jack Smith says his team found proof Trump broke the law",
-    "domain": "politics",
-    "source_domain": "npr.org",
-    "location": "national",
-    "published": "Wed, 17 Dec 2025 15:10:53 -0500",
-    "source": "NPR",
-    "sources": [
-      "NPR",
-      "Associated Press"
-    ],
-    "domains": [
-      "npr.org",
-      "news.google.com"
-    ],
-    "snippets": [
-      "The former Justice Department special counsel told the House Judiciary Committee that his team developed \"proof beyond a reasonable doubt\" that Trump took part in a criminal scheme to overturn the 2020 election.",
-      "Jack Smith tells lawmakers his team developed 'proof beyond a reasonable doubt' against Trump AP News"
-    ],
-    "image_url": "",
-    "titles": [
-      "Jack Smith defends his prosecutions of Trump in closed-door session in Congress",
-      "Jack Smith tells lawmakers his team developed 'proof beyond a reasonable doubt' against Trump - AP News"
-    ],
-    "url": "https://www.npr.org/2025/12/17/g-s1-102630/jack-smith-congress",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbkc0bFM4V1dBdFM2UVpEQlEtc0V5LWJIMms0MWF3bFc5Zmhfd09YbUhpVTFOaE1WM0w1eWZlZTFvdC11UW9kREttOGh3TzJtazg4djNzdThhQmlZSEthbVFLYkVHdW44ZlVPUWlyYmlIU3JHTWVtODFKM1dzWjdGazRPTVV0NEhJYlhJd1ZKVW1FUUo0ZW5CWkVodEQtcTA?oc=5"
-    ],
-    "location_scope": "national",
-    "link": "https://www.npr.org/2025/12/17/g-s1-102630/jack-smith-congress",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.669,
-      "consensus": 0.591,
-      "constructiveness": 0.6,
-      "proximity": 0.75
-    },
-    "score": 0.68,
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story informs readers about a significant political event and offers some context, although it does not provide actionable insights or report on solutions or improvements. It increases clarity around a particular political process.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Former Justice Department special counsel Jack Smith told the House Judiciary Committee that his team gathered \"proof beyond a reasonable doubt\" indicating Donald Trump participated in a criminal scheme to overturn the 2020 election. Smith made these statements during testimony before lawmakers on December 18, 2025.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Ohio University fires football coach Brian Smith for misconduct",
-    "domain": "sports",
-    "source_domain": "espn.com",
-    "location": "national",
-    "published": "Thu, 18 Dec 2025 00:13:24 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Associated Press"
-    ],
-    "domains": [
-      "espn.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Ohio University has fired football coach Brian Smith for cause, saying he violated his contract by \"engaging in serious professional misconduct and participating in activities that reflect unfavorably on the University.\"",
-      "Ohio University fires coach Brian Smith over ‘serious professional misconduct’ AP News"
-    ],
-    "image_url": "",
-    "titles": [
-      "Ohio fires coach Smith over 'serious' misconduct",
-      "Ohio University fires coach Brian Smith over ‘serious professional misconduct’ - AP News"
-    ],
-    "url": "https://www.espn.com/college-football/story/_/id/47336069/ohio-fires-coach-brian-smith-serious-misconduct",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRXZ0Q1BHR3kzN2JveUlRbkRCM0h0dE5XMC1YbnJHOG5ZcXNmb3BJTzZETlR3c0I0WHozMWd3SmQwLXY0SEFWZXZtTEVmeU5wWm04cUlFbVhUNWdyZXpBY3IzNlBIdDQ5UXd1YTh1d2ZtSm85M21kSEtPTk5lNHZoeEZIZjl2R3dCeWVFR3hkRUcxeEZSNGx0eQ?oc=5"
-    ],
-    "location_scope": "national",
-    "link": "https://www.espn.com/college-football/story/_/id/47336069/ohio-fires-coach-brian-smith-serious-misconduct",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.861,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.672,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Ohio University has fired football coach Brian Smith for cause, citing serious professional misconduct and actions that reflected unfavorably on the university. The university stated that Smith violated his contract, but did not provide further details about the misconduct. Smith's dismissal is effective immediately.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "US military strike on ship in Pacific kills four men",
-    "domain": "politics",
+    "title": "US inflation slows to 2.7 percent in November 2025",
+    "domain": "business",
     "source_domain": "news.google.com",
     "location": "global",
-    "published": "Thu, 18 Dec 2025 01:46:00 GMT",
+    "published": "Thu, 18 Dec 2025 18:54:55 GMT",
     "source": "Reuters",
     "sources": [
       "Reuters",
-      "CBC News"
+      "Financial Times"
     ],
     "domains": [
       "news.google.com",
-      "cbc.ca"
+      "ft.com"
     ],
     "snippets": [
-      "US military says it conducted strike on a vessel in eastern Pacific, killing four men Reuters",
-      "The U.S. military said Wednesday that it attacked a boat accused of smuggling drugs in the eastern Pacific Ocean, killing four people, on the same day the House rejected efforts to limit U.S. President Donald Trump's power to use military force against drug cartels."
+      "US annual consumer inflation slows in November, but report distorted by missing data Reuters",
+      "Concerns that November figures showing fall to 2.7% distorted by missing data after shutdown"
     ],
     "image_url": "",
     "titles": [
-      "US military says it conducted strike on a vessel in eastern Pacific, killing four men - Reuters",
-      "Another U.S. strike on alleged drug boat leaves 4 dead in eastern Pacific, military says"
+      "US annual consumer inflation slows in November, but report distorted by missing data - Reuters",
+      "Economists warn of flaws in US inflation report"
     ],
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMENCWEc3M3llZjBXZmF1NnZwcnAtU2g1MHVDZVlNeWV0Q0RRTEpIck1UdFdBeXJFUGxOckNRcTRoTW1IMHBvcDJsck4yMjdkS0RtZGtlMTlMUWJWVEk2UHZDWHdNRTBCYXdBZkJBVnVHN2ctVlBuZU5VclBfb0tFUnV1RkRwZjJldzJabkFMemRteEdMdERZRzd3MjA1YW9jaFh5bFhfY2VtYjNmcHhUZFNXalZXMHp4OUE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGlqN251U1dpMDlvNnM2dWRZYWF1X05KbEs3ejJ2SDB5bU4zamU3cndjYk1MX2IzTEtpaUNkaUZrREVOcDFVNkdvdEl0TGxxdlNFOU1LM095OWhWZzVLYXBrM0l1TUs1Tm43cktPc1RHT2VPbkpjWU01VjJQQ01zZmVkSllhQ1NZNXVpaTBQT2R2dTdDMTNaQnBzVjE3eEZOQmljWHlaejZCUWc?oc=5",
     "alternate_urls": [
-      "https://www.cbc.ca/news/world/us-military-eastern-pacific-alleged-drug-boat-strike-9.7020506?cmp=rss"
+      "https://www.ft.com/content/bee83769-fa41-4d18-9dc2-4a46130c72a8"
     ],
     "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMENCWEc3M3llZjBXZmF1NnZwcnAtU2g1MHVDZVlNeWV0Q0RRTEpIck1UdFdBeXJFUGxOckNRcTRoTW1IMHBvcDJsck4yMjdkS0RtZGtlMTlMUWJWVEk2UHZDWHdNRTBCYXdBZkJBVnVHN2ctVlBuZU5VclBfb0tFUnV1RkRwZjJldzJabkFMemRteEdMdERZRzd3MjA1YW9jaFh5bFhfY2VtYjNmcHhUZFNXalZXMHp4OUE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGlqN251U1dpMDlvNnM2dWRZYWF1X05KbEs3ejJ2SDB5bU4zamU3cndjYk1MX2IzTEtpaUNkaUZrREVOcDFVNkdvdEl0TGxxdlNFOU1LM095OWhWZzVLYXBrM0l1TUs1Tm43cktPc1RHT2VPbkpjWU01VjJQQ01zZmVkSllhQ1NZNXVpaTBQT2R2dTdDMTNaQnBzVjE3eEZOQmljWHlaejZCUWc?oc=5",
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.782,
-      "consensus": 0.591,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.659,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about a military action but does not offer insight into the broader context or implications. It lacks depth and does not contribute to the reader's understanding or decision-making.",
-    "constructiveness_source": "gpt",
-    "summary_source": "snippet",
-    "summary_reason": "invalid_roles",
-    "headline_source": "gpt",
-    "summary": "US military says it conducted strike on a vessel in eastern Pacific, killing four men Reuters",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Players question Snickometer accuracy during Ashes Test in Adelaide",
-    "domain": "sports",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Thu, 18 Dec 2025 06:46:06 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "Sky Sports"
-    ],
-    "domains": [
-      "bbc.com",
-      "skysports.com"
-    ],
-    "snippets": [
-      "Players' distrust of 'Snicko' grows as controversy continues with the dismissal of Jamie Smith in the Adelaide Ashes Test.",
-      "Ashes rivals England and Australia could not hide their dismay as the reliability of the Snickometer technology was put in the spotlight once again on day two of the third Test in Adelaide."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cba9/live/97e81c10-dbda-11f0-87a1-49dc6241d01c.jpg",
-    "titles": [
-      "'Snicko needs to be sacked' - Ashes controversy continues",
-      "'Snicko needs to be sacked!' Tech controversy mars Ashes Test again"
-    ],
-    "url": "https://www.bbc.com/sport/cricket/articles/ce8n4k11xjyo?at_medium=RSS&at_campaign=rss",
-    "alternate_urls": [
-      "https://www.skysports.com/cricket/news/12040/13485026/the-ashes-england-and-australia-question-snicko-reliability-after-controversial-jamie-smith-dismissal-in-adelaide"
-    ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/sport/cricket/articles/ce8n4k11xjyo?at_medium=RSS&at_campaign=rss",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.898,
+      "recency": 0.952,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.658,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.12; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Controversy over the reliability of the Snickometer technology intensified during day two of the third Ashes Test in Adelaide after Jamie Smith's dismissal. Both England and Australia expressed concern about the accuracy of 'Snicko', with players' distrust of the system growing as the issue remains unresolved.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Polar bear mother in Canada adopts an extra cub",
-    "domain": "general",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Thu, 18 Dec 2025 00:15:00 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "ABC News"
-    ],
-    "domains": [
-      "bbc.com",
-      "abcnews.go.com"
-    ],
-    "snippets": [
-      "Researchers have tracked how the mother, who also has a biological cub, has taken in a second young bear in a rarely documented case.",
-      "A polar bear mom emerged from her den with one cub, but was later seen in Churchill, Manitoba, with two. Researchers say she likely adopted an abandoned cub, only the 13th case observed in 45 years."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d7/live/a1d97d30-dba4-11f0-b67b-690eb873de1b.jpg",
-    "titles": [
-      "Watch: Mother polar bear seen interacting with adopted cub",
-      "WATCH:  Polar bear mom adopts cub during migration"
-    ],
-    "url": "https://www.bbc.com/news/videos/czxgr4xk25ko?at_medium=RSS&at_campaign=rss",
-    "alternate_urls": [
-      "https://abcnews.go.com/GMA/Living/video/polar-bear-mom-adopts-cub-migration-128479529"
-    ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/news/videos/czxgr4xk25ko?at_medium=RSS&at_campaign=rss",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.75,
-      "consensus": 0.591,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.644,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "While this story might provide some basic awareness about polar bear behavior, it doesn't offer much in terms of depth or insight. It doesn't contribute to the reader's understanding or decision-making, nor does it report on solutions or improvements.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Researchers in Churchill, Manitoba, observed a polar bear mother who initially had one cub but was later seen caring for two. They believe she adopted an abandoned cub, marking only the 13th documented case of polar bear adoption in 45 years.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Fenway Sports Group plans to sell Penguins hockey team for 1 point",
-    "domain": "sports",
-    "source_domain": "cbssports.com",
-    "location": "national",
-    "published": "Wed, 17 Dec 2025 23:04:47 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "CBS Sports",
-      "Sportsnet"
-    ],
-    "domains": [
-      "cbssports.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "FSG has owned the Penguins for the last five years",
-      "The Pittsburgh Penguins are set to change hands. Owner Fenway Sports Group agreed in principle to sell the NHL franchise to the Hoffman family, per multiple reports on Wednesday. The sale price is $1.7 billion, per Sportsnet’s Elliotte Friedman. Friedman originally reported in August that the Chicago-based Hoffmans were in the mix. Fenway bought the Penguins for approximately $900 million in November 2021. The Hoffmans already own the ECHL’s Florida Everblades. David Hoffmann, founder and chairman of the Hoffmann Family of Companies, bought the Everblades from former Carolina Hurricanes owner..."
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/12/17/257823b8-9356-44ef-925f-03e3fdbe113d/gettyimages-2247252467-2.jpg",
-    "titles": [
-      "Fenway Sports Group selling Penguins to Chicago-based Hoffmann family for $1.7 billion, per reports",
-      "Report: Fenway Sports Group agrees to sell Penguins to Hoffman family"
-    ],
-    "url": "https://www.cbssports.com/nhl/news/pittsburgh-penguins-sale-fenway-sports-group-hoffmann-family/",
-    "alternate_urls": [],
-    "location_scope": "national",
-    "link": "https://www.cbssports.com/nhl/news/pittsburgh-penguins-sale-fenway-sports-group-hoffmann-family/",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.726,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.631,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Fenway Sports Group has agreed in principle to sell the Pittsburgh Penguins NHL franchise to the Hoffman family for $1.7 billion, according to multiple reports on December 17, 2025. Fenway purchased the team in November 2021 for about $900 million. The Hoffman family, led by David Hoffmann, also owns the ECHL’s Florida Everblades. The sale is pending final approval.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Cam Ward offers to help Titans find new head coach",
-    "domain": "sports",
-    "source_domain": "cbssports.com",
-    "location": "national",
-    "published": "Thu, 18 Dec 2025 01:19:56 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "CBS Sports",
-      "ESPN"
-    ],
-    "domains": [
-      "cbssports.com",
-      "espn.com"
-    ],
-    "snippets": [
-      "Ward is volunteering his services as the Titans look to hire their next coach",
-      "Cam Ward wants to be involved in the process when the Titans search for their next head coach."
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/12/18/1bbe8077-9cb7-49bb-8c22-2c670d7ecc70/cam15.jpg",
-    "titles": [
-      "Cam Ward wants to be involved in Titans' upcoming coaching search: 'I want to meet all of them'",
-      "Ward wants Titans to involve him in HC search"
-    ],
-    "url": "https://www.cbssports.com/nfl/news/cam-ward-tennessee-titans-coaching-search/",
-    "alternate_urls": [
-      "https://www.espn.com/nfl/story/_/id/47338253/cam-ward-wants-titans-involve-hc-search-process"
-    ],
-    "location_scope": "national",
-    "link": "https://www.cbssports.com/nfl/news/cam-ward-tennessee-titans-coaching-search/",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.772,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.62,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Cam Ward has offered to volunteer his services as the Titans begin their search for a new head coach. Ward has expressed interest in being involved in the hiring process as the team seeks to fill the position. The search for the next Titans head coach is ongoing.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Experts say closing climate center could raise weather risks",
-    "domain": "science",
-    "source_domain": "latimes.com",
-    "location": "national",
-    "published": "Wed, 17 Dec 2025 22:55:36 GMT",
-    "source": "LA Times",
-    "sources": [
-      "LA Times",
-      "Ars Technica"
-    ],
-    "domains": [
-      "latimes.com",
-      "arstechnica.com"
-    ],
-    "snippets": [
-      "Experts say a closure of the National Center for Atmospheric Research in Boulder, Colo., would leave millions vulnerable to worsening climate hazards.",
-      "Major research institution dismissed as a source of \"climate alarmism.\""
-    ],
-    "image_url": "",
-    "titles": [
-      "Trump administration moves to dismantle leading climate and weather research center",
-      "Trump admin threatens to break up major climate research center"
-    ],
-    "url": "https://www.latimes.com/environment/story/2025-12-17/trump-administration-moves-to-dismantle-leading-climate-weather-research-center",
-    "alternate_urls": [
-      "https://arstechnica.com/science/2025/12/trump-admin-threatens-to-break-up-major-climate-research-center/"
-    ],
-    "location_scope": "national",
-    "link": "https://www.latimes.com/environment/story/2025-12-17/trump-administration-moves-to-dismantle-leading-climate-weather-research-center",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.723,
-      "consensus": 0.591,
-      "constructiveness": 0.048,
-      "proximity": 0.5
-    },
-    "score": 0.616,
-    "constructiveness_score": 0.048,
-    "constructiveness_reason": "keywords (1): research; semantic: pos_sim=0.12, neg_sim=0.00; semantic_boost=0.03; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Experts warn that closing the National Center for Atmospheric Research in Boulder, Colorado, would leave millions more exposed to increasing climate risks. The institution, a major center for climate research, has recently been dismissed by some as a source of \"climate alarmism.\" The potential closure has raised concerns among scientists about reduced access to critical climate data and forecasting.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Devils win in shootout against Golden Knights 2 to 1",
-    "domain": "sports",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Wed, 17 Dec 2025 23:15:57 GMT",
-    "source": "NHL",
-    "sources": [
-      "NHL",
-      "Sportsnet"
-    ],
-    "domains": [
-      "news.google.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "NHL Status Report: Pesce returns for Devils against Golden Knights NHL.com",
-      "Allen makes 36 saves, Devils edge Golden Knights in shootout NHL.com",
-      "Devils at Golden Knights projected lineups NHL.com",
-      "Connor Brown scored, Jake Allen made 36 saves, and Jesper Bratt scored the only goal in the shootout to lead the New Jersey Devils to a 2-1 win over the Vegas Golden Knights."
-    ],
-    "image_url": "",
-    "titles": [
-      "NHL Status Report: Pesce returns for Devils against Golden Knights - NHL.com",
-      "Allen makes 36 saves, Devils edge Golden Knights in shootout - NHL.com",
-      "Devils at Golden Knights projected lineups - NHL.com",
-      "NHL Highlights: Devils 2, Golden Knights 1 (SO)"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBS1p0NlA1X3hMdTFueHN6bDJqRGFmeXprVWlWRldnZlNhdC00VzI5TUNycVFscHpyZnNleUg0THo3bVF3bFllbnRwNGNHbXhfbkdZMjZmZFVEcDJuRzY5NUNHdHZjak4wRU9HczlGOXhQNGZWdTFmOGJZb05QeU0?oc=5",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVA5a0x3elNVcTF1eElGclJaOVVjNnBYa1ZDZHdRSnhsV2gwS0N3UGtmM1BaZlo5cVNRZnFySmhuNkVlellwOWZVY29nZGR5UzZwTWxXMi1TU25vMHRLQ0dpcnhRLVpNUnZFTkR0T29GWDRxUndDazBRWDZuUlVJZy13ZmhkTU00VmRmY3hMeXl1a1dJVmc?oc=5",
-      "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTE1eGlINy16MHJfYTBLbUdpZXdxekRyUWFoVEtjQkhBN3k3TGlaZEpCdU1aOVlPa01ZazhIdktzUGNKYXVpTXJoOEdJNkdSbVZiMkQyWFloc2pPU3l0TDRncHV1ZjlPLU9nNzVHZTFoUExScldoNHJtMHhORHNyaHFYSlY5SkNubE9TazJYckNOOFhKdmtSVg?oc=5"
-    ],
-    "location_scope": "national",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBS1p0NlA1X3hMdTFueHN6bDJqRGFmeXprVWlWRldnZlNhdC00VzI5TUNycVFscHpyZnNleUg0THo3bVF3bFllbnRwNGNHbXhfbkdZMjZmZFVEcDJuRzY5NUNHdHZjak4wRU9HczlGOXhQNGZWdTFmOGJZb05QeU0?oc=5",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.729,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.613,
+    "score": 0.68,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Jake Allen made 36 saves and Jesper Bratt scored the only goal in the shootout as the New Jersey Devils defeated the Vegas Golden Knights 2-1. Connor Brown scored for the Devils in regulation. Brett Pesce returned to the Devils' lineup for the game.",
+    "summary": "US annual consumer inflation slowed to 2.7% in November 2025, according to official data. However, the report may be unreliable due to missing data caused by a recent government shutdown. Analysts caution that the figures could be distorted and may not fully reflect current price trends.",
     "is_trending": false,
     "trending_score": 0.25
   },
   {
-    "title": "Man charged with killing parents appears in court",
-    "domain": "general",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Wed, 17 Dec 2025 22:45:06 GMT",
-    "source": "BBC",
+    "title": "Alabama and Georgia will play in football playoff Friday night",
+    "domain": "sports",
+    "source_domain": "cbssports.com",
+    "location": "national",
+    "published": "Thu, 18 Dec 2025 19:05:04 +0000",
+    "source": "CBS Sports",
     "sources": [
-      "BBC",
-      "Associated Press"
+      "CBS Sports",
+      "Yahoo Sports"
     ],
     "domains": [
-      "bbc.com",
-      "news.google.com"
+      "cbssports.com",
+      "sports.yahoo.com"
     ],
     "snippets": [
-      "Jake and Romy Reiner say they are in \"unimaginable pain\", as their brother faces first-degree murder charges over their parents' death.",
-      "Rob and Michele Reiner's son appears in court on murder charges while siblings speak of their loss AP News"
+      "Two familiar opponents are set to clash Friday night in a first-round College Football Playoff matchup",
+      "Alabama and Georgia meet Friday night in the CFP first round. Here is who the College Football 26 video game predicts to win."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0de/live/dd2d27b0-db86-11f0-a8dc-93c15fe68710.jpg",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/12/18/9812adef-7240-482f-9cde-47dad1bba04d/sooners-tide.png",
     "titles": [
-      "Rob Reiner's family speak of 'unimaginable pain' as son Nick faces court for murder charges",
-      "Rob and Michele Reiner's son appears in court on murder charges while siblings speak of their loss - AP News"
+      "Where to watch Alabama vs. Oklahoma: TV channel, stream, kickoff time for CFP game in first round",
+      "College Football 26 predicts Alabama vs. Oklahoma in CFP first round"
     ],
-    "url": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.cbssports.com/college-football/news/alabama-oklahoma-where-to-watch-time-date-channel-cfp-2025/",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXdWYllzaWRwT1BBQnB6bnlnX3FfLWFFR2ZLRWMySHRlU25GcHplTEZMQTQyeDU4ZXV0N1dhYThxRW1nSnZabER1dGJZT2tlSTBYMkxjbU5RZnFkdjZOVEZ3MU5BMEFteDdiLXdna2RZMjZfanB0dC1uT05lUXdRQWRGNFRfODRzeXc?oc=5"
+      "https://sports.yahoo.com/articles/college-football-26-predicts-alabama-194022893.html"
     ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss",
+    "location_scope": "national",
+    "link": "https://www.cbssports.com/college-football/news/alabama-oklahoma-where-to-watch-time-date-channel-cfp-2025/",
     "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.719,
+      "magnitude": 0.735,
+      "recency": 0.957,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.61,
+    "score": 0.676,
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "This story is primarily reactive and sensational, focusing on a personal tragedy without providing any actionable insights, solutions, or deeper understanding. It doesn't increase clarity around systems, causes, trends, or impacts that matter.",
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Alabama and Georgia will face each other on Friday night in the first round of the College Football Playoff. The matchup features two well-known rivals. A simulation run on the College Football 26 video game predicts the outcome, but the actual game has not yet taken place.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "UN says over 1000 killed in attack on Sudan camp",
+    "domain": "general",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Thu, 18 Dec 2025 08:39:00 GMT",
+    "source": "Al Arabiya",
+    "sources": [
+      "Al Arabiya",
+      "New York Times"
+    ],
+    "domains": [
+      "news.google.com",
+      "nytimes.com"
+    ],
+    "snippets": [
+      "Over 1,000 killed in April attack on Sudan refugee camp: UN Al Arabiya English",
+      "A paramilitary attack in April was one of the most brutal of Sudan’s civil war. Now, hunger is spreading as Western aid cuts have reduced U.N. rations."
+    ],
+    "image_url": "",
+    "titles": [
+      "Over 1,000 killed in April attack on Sudan refugee camp: UN - Al Arabiya English",
+      "Over 1,000 Were Killed in Attack on Camp in Darfur, Sudan, U.N. Says"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFBjeVdzQnNBalA1enR2Q1ZvMTNzUHljSVRxb1RJUlVkcEE4NWYyZHBLbG01TFRnbEx6WGJjVjVua1dZTHNyMU5qRTlzQWNFekZBX2NlWEszREZ3VmpjbUxDZjFDZ3dvTHM4M0pYM2ZCVjAwejJMUTRfa3lFNHJCOFNzQzBOQ1c0SHoyRVk0ZEwwTXpRcjktTldScUlodW50R2JUeWE3NF9MV29POFU5dlNRY3JmcEJ4Ql9r0gG7AUFVX3lxTE54UGN5V3NCc0FqUDV6dHZDVm8xM3NQeWNJVHFvVElSVWRwQTg1ZjJkcEtsbTVMVGdsTHpYYmNWNW5rV1lMc3IxTmpFOXNBY0V6RkFfY2VYSzNERndWamNtTENmMUNnd29MczgzSlgzZkJWMDB6MkxRNF9reUU0ckI4U3NDME5DVzRIejJFWTRkTDBNelFyOS1OV1JxSWh1bnRHYlR5YTc0X0xXb084VTl2U1FjcmZwQnhCX2s?oc=5",
+    "alternate_urls": [
+      "https://www.nytimes.com/2025/12/18/world/africa/sudan-rsf-attack-darfur-un.html"
+    ],
+    "location_scope": "global",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFBjeVdzQnNBalA1enR2Q1ZvMTNzUHljSVRxb1RJUlVkcEE4NWYyZHBLbG01TFRnbEx6WGJjVjVua1dZTHNyMU5qRTlzQWNFekZBX2NlWEszREZ3VmpjbUxDZjFDZ3dvTHM4M0pYM2ZCVjAwejJMUTRfa3lFNHJCOFNzQzBOQ1c0SHoyRVk0ZEwwTXpRcjktTldScUlodW50R2JUeWE3NF9MV29POFU5dlNRY3JmcEJ4Ql9r0gG7AUFVX3lxTE54UGN5V3NCc0FqUDV6dHZDVm8xM3NQeWNJVHFvVElSVWRwQTg1ZjJkcEtsbTVMVGdsTHpYYmNWNW5rV1lMc3IxTmpFOXNBY0V6RkFfY2VYSzNERndWamNtTENmMUNnd29MczgzSlgzZkJWMDB6MkxRNF9reUU0ckI4U3NDME5DVzRIejJFWTRkTDBNelFyOS1OV1JxSWh1bnRHYlR5YTc0X0xXb084VTl2U1FjcmZwQnhCX2s?oc=5",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.716,
+      "consensus": 0.591,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.663,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs about a tragic event in a Sudan refugee camp. While it is a negative topic, it does provide useful context about the situation in Sudan. However, it does not report on any solutions, improvements, or attempts to prevent such attacks in the future.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Jake and Romy Reiner have expressed deep grief after their brother was charged with first-degree murder in connection with the deaths of their parents, Rob and Michele Reiner. Their brother has appeared in court to face the charges. The siblings described their situation as \"unimaginable pain.\" The case is ongoing.",
+    "summary": "A UN report states that over 1,000 people were killed in a paramilitary attack on a Sudanese refugee camp in April, marking one of the deadliest incidents in Sudan’s ongoing civil war. The situation has worsened as Western aid cuts have led to reduced UN food rations, increasing hunger among displaced populations.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Son of filmmaker Rob Reiner appears in court on charges he murdered parents - Reuters",
+    "title": "Police arrest protesters in London and Manchester over hunger strikes",
     "domain": "general",
-    "source_domain": "news.google.com",
+    "source_domain": "aljazeera.com",
     "location": "global",
-    "published": "Wed, 17 Dec 2025 23:30:37 GMT",
-    "source": "Reuters",
+    "published": "Thu, 18 Dec 2025 12:58:11 +0000",
+    "source": "Al Jazeera",
     "sources": [
-      "Reuters",
-      "The Guardian"
+      "Al Jazeera",
+      "New York Times"
     ],
     "domains": [
-      "news.google.com",
-      "theguardian.com"
+      "aljazeera.com",
+      "nytimes.com"
     ],
     "snippets": [
-      "Son of filmmaker Rob Reiner appears in court on charges he murdered parents Reuters",
-      "Son of Rob Reiner and Michele Singer Reiner who is being held without bail did not enter a plea Nick Reiner, who has been charged with two counts of first-degree murder in the killing of his parents, acclaimed actor and director Rob Reiner and photographer Michele Singer Reiner, made his first appea"
+      "Arrests made at protests supporting imprisoned Palestine Action hunger strikers, as Gaza death toll surpasses 70,000.",
+      "The police in London and Manchester said they would take a “more assertive” approach after the Bondi Beach massacre and a terrorist attack at a British synagogue."
     ],
     "image_url": "",
     "titles": [
-      "Son of filmmaker Rob Reiner appears in court on charges he murdered parents - Reuters",
-      "Nick Reiner appears in court on murder charges in killing of parents"
+      "UK police arrest four people for pro-Palestine ‘Intifada’ calls",
+      "Two U.K. Police Forces Pledge to Arrest People Who Chant ‘Globalize the Intifada’"
     ],
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemk2UzVaLU1WVDhLQlNDYkpUVWpQU0JKa2o3dUFSODV3Qm9VeEdjeUtQcDhRNldSazRtM1ZkeG5SbkQ3YnhydW8yLTYybHFHWllQUzNYeTZnalNUaTMyUEl1UkVGMjZKbzYtQ0RLbk5pbzZZcDFBdDkyT3JEWFI4dEZ4NzNzVERGT1BYUjBSUTQ0VkFYcFV1YkFsUnBUYU9TZmc1MGQ4RlNRNmw0aUlGZkFPYUhyc0NUZDhjNXI1ME1vbk84QzN3?oc=5",
+    "url": "https://www.aljazeera.com/news/2025/12/18/uk-police-arrest-four-people-for-pro-palestine-intifada-calls?traffic_source=rss",
     "alternate_urls": [
-      "https://www.theguardian.com/us-news/2025/dec/17/nick-reiner-murder-charges-parents-rob-reiner"
+      "https://www.nytimes.com/2025/12/17/world/europe/uk-police-antifada-bondi-shooting-synagogue.html"
     ],
     "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemk2UzVaLU1WVDhLQlNDYkpUVWpQU0JKa2o3dUFSODV3Qm9VeEdjeUtQcDhRNldSazRtM1ZkeG5SbkQ3YnhydW8yLTYybHFHWllQUzNYeTZnalNUaTMyUEl1UkVGMjZKbzYtQ0RLbk5pbzZZcDFBdDkyT3JEWFI4dEZ4NzNzVERGT1BYUjBSUTQ0VkFYcFV1YkFsUnBUYU9TZmc1MGQ4RlNRNmw0aUlGZkFPYUhyc0NUZDhjNXI1ME1vbk84QzN3?oc=5",
+    "link": "https://www.aljazeera.com/news/2025/12/18/uk-police-arrest-four-people-for-pro-palestine-intifada-calls?traffic_source=rss",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.734,
+      "recency": 0.807,
       "consensus": 0.591,
-      "constructiveness": 0.0,
+      "constructiveness": 0.3,
       "proximity": 0.5
     },
-    "score": 0.609,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "skipped",
-    "summary_reason": "skipped_due_to_budget",
-    "headline_source": "",
-    "summary": "",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Dolphins bench Tua Tagovailoa: Miami turns to Quinn Ewers at quarterback against Bengals",
-    "domain": "sports",
-    "source_domain": "cbssports.com",
-    "location": "national",
-    "published": "Wed, 17 Dec 2025 21:33:09 +0000",
-    "source": "CBS Sports",
-    "sources": [
-      "CBS Sports",
-      "Sportsnet"
-    ],
-    "domains": [
-      "cbssports.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "Dolphins coach Mike McDaniel said Ewers gives the team 'the best chance to win'",
-      "Tua’s time is officially up. The Miami Dolphins are benching quarterback Tua Tagovailoa for rookie Quinn Ewers, according to multiple reports."
-    ],
-    "image_url": "https://sportshub.cbsistatic.com/i/2025/12/17/08409952-40c1-4e49-bbe2-3afa53881191/tua-tagovailoa-dolphins.jpg",
-    "titles": [
-      "Dolphins bench Tua Tagovailoa: Miami turns to Quinn Ewers at quarterback against Bengals",
-      "Dolphins benching QB Tua Tagovailoa for rookie Quinn Ewers"
-    ],
-    "url": "https://www.cbssports.com/nfl/news/tua-tagovailoa-benched-dolphins-quinn-ewers-quarterback-bengals/",
-    "alternate_urls": [],
-    "location_scope": "national",
-    "link": "https://www.cbssports.com/nfl/news/tua-tagovailoa-benched-dolphins-quinn-ewers-quarterback-bengals/",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.695,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.603,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "skipped",
-    "summary_reason": "skipped_due_to_budget",
-    "headline_source": "",
-    "summary": "",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "US Senate confirms private astronaut, Musk ally Jared Isaacman as NASA chief - Reuters",
-    "domain": "science",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Wed, 17 Dec 2025 22:29:32 GMT",
-    "source": "Reuters",
-    "sources": [
-      "Reuters",
-      "Associated Press"
-    ],
-    "domains": [
-      "news.google.com"
-    ],
-    "snippets": [
-      "US Senate confirms private astronaut, Musk ally Jared Isaacman as NASA chief Reuters",
-      "Senate confirms Jared Isaacman as NASA administrator in do-over after Musk feud AP News"
-    ],
-    "image_url": "",
-    "titles": [
-      "US Senate confirms private astronaut, Musk ally Jared Isaacman as NASA chief - Reuters",
-      "Senate confirms Jared Isaacman as NASA administrator in do-over after Musk feud - AP News"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2l4alEyWVZhb1YybWp4eVhvWUlMTVlPTW04QVFScERCOWVKNlpVdno1T29iZWR6Y2MyQkVEN1NfcUdRaV9faEhrRTR2NzNLVGR6a2lOSXZCREQ0UEgzX2FMUHo4TG81bmM0cndvYUQyeXdpTDVBamxCc3FfZlJCT19YczY0V2tUcldXejZxLTlZaFJ1WlFyeDB2cTJLSWpPMTdtT3ZNbTB2bUlqWWVvUUg4RDNxczQ?oc=5",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMirgFBVV95cUxNODQ0WjhYQWgwUWxKZHU0QWIyaEtEaG9tT3NsVmM1ZDJuamJxekdtUU9PY1U0SU5uUzNHV0xBOHhZejRaTEZwbk1jVVZPaFZZQ2RSYWFPdFhsMWdaMWgxYjFtdXF1WVRxYkFqYVc1UGdVcWJYSGlUT0ItSTc0bExGNHo5RkhSTXYwX2Zkbm11ODRLYWhjVEVSTUJsWVRxWWMySmNpMEt5QzlpNFNxUFE?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2l4alEyWVZhb1YybWp4eVhvWUlMTVlPTW04QVFScERCOWVKNlpVdno1T29iZWR6Y2MyQkVEN1NfcUdRaV9faEhrRTR2NzNLVGR6a2lOSXZCREQ0UEgzX2FMUHo4TG81bmM0cndvYUQyeXdpTDVBamxCc3FfZlJCT19YczY0V2tUcldXejZxLTlZaFJ1WlFyeDB2cTJLSWpPMTdtT3ZNbTB2bUlqWWVvUUg4RDNxczQ?oc=5",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.714,
-      "consensus": 0.571,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.599,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "skipped",
-    "summary_reason": "skipped_due_to_budget",
-    "headline_source": "",
-    "summary": "",
+    "score": 0.661,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "While the story informs about the arrests made by UK police, it does not provide any actionable insights or deeper understanding of the context or reasons for these calls for 'Intifada'. It also does not report on any solutions or attempts to address the underlying issues.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Police in London and Manchester have arrested protesters supporting imprisoned Palestine Action hunger strikers. Authorities announced a “more assertive” approach to protests, following recent attacks at Bondi Beach and a British synagogue. The protests occur as the reported Gaza death toll surpasses 70,000.",
     "is_trending": false,
     "trending_score": 0.0
   },
@@ -1826,7 +1723,7 @@
     "domain": "science",
     "source_domain": "news.google.com",
     "location": "national",
-    "published": "Wed, 17 Dec 2025 17:23:08 GMT",
+    "published": "Thu, 18 Dec 2025 10:22:34 GMT",
     "source": "Axios",
     "sources": [
       "Axios",
@@ -1852,12 +1749,12 @@
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclU3MjhNeXh5UlZhYlJmVU5pY1plWENYeUNGYnNra05ncjB4dzBrdnhBRmR3RU1kQ2d2bktrLWF2czhMMEdHZlBFa1NHb3BaMDkxRllzZW1BMHA4NXpPMTNuWXhVZ21WUmlDbktBVDJQZV9yNUhvV3RyNlpCaGY5M0V2ZjlTZkhvbllqeWdn?oc=5",
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.619,
+      "recency": 0.751,
       "consensus": 0.571,
       "constructiveness": 0.06,
       "proximity": 0.5
     },
-    "score": 0.582,
+    "score": 0.622,
     "constructiveness_score": 0.06,
     "constructiveness_reason": "keywords (1): research; semantic: pos_sim=0.12, neg_sim=0.00; semantic_boost=0.03; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
@@ -1869,43 +1766,47 @@
     "trending_score": 0.0
   },
   {
-    "title": "Massive Stars Make Their Mark in Hubble Image",
-    "domain": "science",
-    "source_domain": "nasa.gov",
+    "title": "US consumer prices likely posted largest annual increase in 1-1/2 years in November - Reuters",
+    "domain": "general",
+    "source_domain": "news.google.com",
     "location": "global",
-    "published": "Wed, 17 Dec 2025 17:43 GMT",
-    "source": "NASA EO",
+    "published": "Thu, 18 Dec 2025 05:17:00 GMT",
+    "source": "Reuters",
     "sources": [
-      "NASA EO",
-      "NASA"
+      "Reuters",
+      "Globe and Mail"
     ],
     "domains": [
-      "nasa.gov"
+      "news.google.com"
     ],
     "snippets": [
-      "This NASA/ESA Hubble Space Telescope image features the blue dwarf galaxy Markarian 178 (Mrk 178) against a backdrop of distant galaxies in all shapes and sizes. Some of these distant galaxies even shine through the diffuse edges of Mrk 178.",
-      "This NASA/ESA Hubble Space Telescope image features a glittering blue dwarf galaxy called Markarian 178 (Mrk 178). The galaxy, which is substantially smaller than our own Milky Way, lies 13 million light-years away in the constellation Ursa Major (the Great Bear). Mrk 178 is one of more than 1,500 M"
+      "US consumer prices likely posted largest annual increase in 1-1/2 years in November Reuters",
+      "VIEW US consumer prices increase less than expected in November Reuters",
+      "U.S. consumer price index rises 2.7% in November, less than expected The Globe and Mail"
     ],
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/hubble-markarian178-potw2549a.jpg",
+    "image_url": "",
     "titles": [
-      "Massive Stars Make Their Mark in Hubble Image"
+      "US consumer prices likely posted largest annual increase in 1-1/2 years in November - Reuters",
+      "VIEW US consumer prices increase less than expected in November - Reuters",
+      "U.S. consumer price index rises 2.7% in November, less than expected - The Globe and Mail"
     ],
-    "url": "https://www.nasa.gov/image-detail/hubble-markarian178-potw2549a/",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGdyby1XUzRYRnVTV0ptd3lpdWpKOUVkeDZQblhFemNXbXJLVDRGOWVMZVQxamxURnVsalRrNXdwTThaeXlTY2ZhbjFranR6WW81YlhWWm9CTG5tazBVTmZ5bDJiNkEtU0FZX0RyUUFZcWpWY3RnUVNhSTNIVVMzZm1UVFZDaWpSd2RnQ3hiLTFiWTd2RjVGSlZ3dWZ3NWhWZGlCMWl5YnVJR2V5eWREV0VfVXFaUTdKTWF1a0hB?oc=5",
     "alternate_urls": [
-      "https://www.nasa.gov/image-article/massive-stars-make-their-mark-in-hubble-image/"
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdERsWUxKaFIxcTBEdkIwM1hWWnZOYlk3NDVkaG1lU1JMWWZZZ0ttVFRaSU5xYmlQRXl0M25sbWc5bTZHNjFfbFFfVDF2MWFuQ0lDbm1icFdua281alN0dzExRml0cW50SVRhVlNYdGgwY21hNEtudXZhYkRLVjJROTZEWnd6VV95Uk5Gbno0a3d2WVNNVWpqN24tTlR6OHlzamQ2ZndBOVE?oc=5",
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEIwYUhBRGFjNG9HTHNkTXY4TzloVTNNNVpoaXozY2cyS3pXTWdDOWw0RTV1bjc2YnFpQjQ2MlNVbHZLR2tFN3BUSGJHSk5EcDR1cGRNTjNKR1M3ODRZYkdqOS1ZVnhZRDB2ZGdtR0hSeVFUQ2lsNDBVX3JBdm12Um5uQlNLODlHVlVYNFBzYVRXMjVWbG5PLVlwTzNHZw?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://www.nasa.gov/image-detail/hubble-markarian178-potw2549a/",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGdyby1XUzRYRnVTV0ptd3lpdWpKOUVkeDZQblhFemNXbXJLVDRGOWVMZVQxamxURnVsalRrNXdwTThaeXlTY2ZhbjFranR6WW81YlhWWm9CTG5tazBVTmZ5bDJiNkEtU0FZX0RyUUFZcWpWY3RnUVNhSTNIVVMzZm1UVFZDaWpSd2RnQ3hiLTFiWTd2RjVGSlZ3dWZ3NWhWZGlCMWl5YnVJR2V5eWREV0VfVXFaUTdKTWF1a0hB?oc=5",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.625,
+      "recency": 0.652,
       "consensus": 0.571,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.572,
+    "score": 0.58,
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "skipped",
     "summary_reason": "skipped_due_to_budget",
@@ -1915,87 +1816,43 @@
     "trending_score": 0.0
   },
   {
-    "title": "An 11-qubit atom processor in silicon - Nature",
+    "title": "Apple opens iPhone to alternative app stores in Japan - Reuters",
     "domain": "science",
     "source_domain": "news.google.com",
     "location": "global",
-    "published": "Wed, 17 Dec 2025 16:50:47 GMT",
-    "source": "Nature",
+    "published": "Thu, 18 Dec 2025 01:34:00 GMT",
+    "source": "Reuters",
     "sources": [
-      "Nature"
+      "Reuters",
+      "TechCrunch"
     ],
     "domains": [
-      "news.google.com"
+      "news.google.com",
+      "techcrunch.com"
     ],
     "snippets": [
-      "An 11-qubit atom processor in silicon Nature",
-      "A modular quantum processor made using phosphorus atoms in silicon Nature"
+      "Apple opens iPhone to alternative app stores in Japan Reuters",
+      "Epic Games CEO says Fortnite won't return to Japan, though, because the new rules still require high fees."
     ],
     "image_url": "",
     "titles": [
-      "An 11-qubit atom processor in silicon - Nature",
-      "A modular quantum processor made using phosphorus atoms in silicon - Nature"
+      "Apple opens iPhone to alternative app stores in Japan - Reuters",
+      "Apple opens up its App Store to competition in Japan"
     ],
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40QjJLRzJiVWlvZmJvU1Q4Y2FBdmRLeC1rOTc5NG42bXFqV1RTTklIS2tHT25POHYxemJrMUg3QVZVNmt0V2huYjZKS3Qwa1JIY3Q1dmhlME5CZnlxNnpF?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclJyaXFzbEtPMEZIMG14SG1zWnhPZjRBNktxV0xhR09wZU9PZXMxU0xWa2prSHA2MTV6b2dQRGxDTmhiTVg0Zi11YWx1MGk3cG04X2J6NWZVZDM5UWVOSEpvS0dyNTRkQVZWSm01dklDcmlzTFdqcVlzZVd6V2RtRFoyemNRcWdzS0Rtc2JPWUh6eXkxUUI2T2twdHJtcFBPMDlIYw?oc=5",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NQzAwVU1DMzU1SHJoczlXblpzdkUwT2l6ZGp0TjhYeFZYVmNleWJPQnc4RDdWdTU5R2U3dy0yUjQxWlpYcmd2S3ZnN2U0U0JrWHpwUWdJNWdRYTl5S1RZ?oc=5"
+      "https://techcrunch.com/2025/12/18/apple-opens-up-its-app-store-to-competition-in-japan/"
     ],
     "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40QjJLRzJiVWlvZmJvU1Q4Y2FBdmRLeC1rOTc5NG42bXFqV1RTTklIS2tHT25POHYxemJrMUg3QVZVNmt0V2huYjZKS3Qwa1JIY3Q1dmhlME5CZnlxNnpF?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclJyaXFzbEtPMEZIMG14SG1zWnhPZjRBNktxV0xhR09wZU9PZXMxU0xWa2prSHA2MTV6b2dQRGxDTmhiTVg0Zi11YWx1MGk3cG04X2J6NWZVZDM5UWVOSEpvS0dyNTRkQVZWSm01dklDcmlzTFdqcVlzZVd6V2RtRFoyemNRcWdzS0Rtc2JPWUh6eXkxUUI2T2twdHJtcFBPMDlIYw?oc=5",
     "score_components": {
-      "magnitude": 0.373,
-      "recency": 0.61,
-      "consensus": 0.35,
+      "magnitude": 0.735,
+      "recency": 0.588,
+      "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.415,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "skipped",
-    "summary_reason": "skipped_due_to_budget",
-    "headline_source": "",
-    "summary": "",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Mazdutide versus dulaglutide in Chinese adults with type 2 diabetes - Nature",
-    "domain": "science",
-    "source_domain": "news.google.com",
-    "location": "global",
-    "published": "Wed, 17 Dec 2025 16:48:38 GMT",
-    "source": "Nature",
-    "sources": [
-      "Nature"
-    ],
-    "domains": [
-      "news.google.com"
-    ],
-    "snippets": [
-      "Mazdutide versus dulaglutide in Chinese adults with type 2 diabetes Nature",
-      "Mazdutide versus placebo in Chinese adults with type 2 diabetes Nature"
-    ],
-    "image_url": "",
-    "titles": [
-      "Mazdutide versus dulaglutide in Chinese adults with type 2 diabetes - Nature",
-      "Mazdutide versus placebo in Chinese adults with type 2 diabetes - Nature"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtWHpWUVNxaS0xT1h1RVRnQnV6QnF4NEpIN1VfUWZuT1loTnRrc3VOaElQZVZoV0puZDZQYUd6eDFzQVkzSkVCWFR3SXpzN2tUZThmMzdYdVJaVnFUbXZV?oc=5",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xLXhsNF9ZWVRWSDFQbFpMQUc3ekZvalFhZ05uTlY0RW45T2lDY2ZvSTdfOVl2Y2pUOWF3MGNidXg2aFFPdWRtM2JSRW4xazQ2WnMzSDh0T0pTdE5YVldZ?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtWHpWUVNxaS0xT1h1RVRnQnV6QnF4NEpIN1VfUWZuT1loTnRrc3VOaElQZVZoV0puZDZQYUd6eDFzQVkzSkVCWFR3SXpzN2tUZThmMzdYdVJaVnFUbXZV?oc=5",
-    "score_components": {
-      "magnitude": 0.373,
-      "recency": 0.61,
-      "consensus": 0.35,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.415,
+    "score": 0.565,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
     "constructiveness_source": "heuristic",
