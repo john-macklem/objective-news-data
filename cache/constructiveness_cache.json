@@ -11923,5 +11923,160 @@
     "score": 0.3,
     "reason": "This story provides basic information about a sports contract agreement. However, it doesn't offer deeper insights into the implications of this deal, the negotiation process, or the broader trends in such contracts.",
     "source": "gpt"
+  },
+  "d3f7df260e5321ed2329a1114bf7874f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c3013816ab8dca4da2fd0a7c3ee077fc": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1864f2c93e70f741e2feeb66ee0892bf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fbbce179f0a3e1790110a5b27b865af6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "50221eba57ab3530ae0379be87caa800": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: fail); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ba380699d9701fcc3c688e633433c2da": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f6fe3d523ee527dd3551de13284b40ee": {
+    "score": 0.055,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "cdb2d62cb9015c935e2a344f262ab55e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f7c931516da56aed6ccc47bb18931d0e": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "bcf1717c1ec7225f7835851592955369": {
+    "score": 0.03,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "bfc03baf4ba0be5b510d299479563021": {
+    "score": 0.035,
+    "reason": "keywords (1): expand; actions: expand; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3643b05c03b26222fa53d2d63855839e": {
+    "score": 0.017,
+    "reason": "actions: release; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9fdace9c09b302f2f2dbe2f38ec92425": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "00234f79338f565b165bec59e9eac7d0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "151e2d5372b9a2f0a76b4a68df6a66c3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2a6fadf3836f5dec0872eefbea5619e5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b40a9a569e7e6587150ce1aef02adb37": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the renaming of a building but lacks depth or insight into why this decision was made or its implications. It doesn't provide actionable insights or deeper understanding.",
+    "source": "gpt"
+  },
+  "96167789ea15563c0a68704758f4e22e": {
+    "score": 0.9,
+    "reason": "This story clearly highlights progress in the healthcare sector by reporting on deals to lower drug prices. It offers actionable insights and deeper understanding of the issue of drug pricing, and informs about the solutions being implemented.",
+    "source": "gpt"
+  },
+  "3d166d7fae93c64942bc8fb423b28580": {
+    "score": 0.8,
+    "reason": "This story informs about the government's response to a recent attack, providing useful context and information about the plan. However, it doesn't thoroughly discuss the potential effectiveness of this solution or provide empowering knowledge about the broader issue of gun control.",
+    "source": "gpt"
+  },
+  "f23b45f942bcdb7df434cfd51f747018": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a political endorsement, but without additional context or depth, it doesn't offer much utility or insight for the reader.",
+    "source": "gpt"
+  },
+  "d2298269eef499b479112538595590cb": {
+    "score": 0.5,
+    "reason": "While this story likely provides awareness about a specific event, it doesn't appear to offer solutions, improvements, or empowering knowledge. The usefulness of the story depends on the depth of information provided about the suspects and the incident.",
+    "source": "gpt"
+  },
+  "440f87574405231032a7e86488c397e7": {
+    "score": 0.4,
+    "reason": "This story provides basic awareness about a specific incident, but it doesn't seem to offer actionable insights, deeper understanding, or report on solutions. The score could be higher if the story explores broader issues related to campus safety or gun control.",
+    "source": "gpt"
+  },
+  "706af7230999ae69a55bb436bc280f45": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a violent incident but does not provide any deeper understanding, actionable insights, or report on any solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "8a18117074dd287bae697cb274cc5540": {
+    "score": 0.3,
+    "reason": "This story informs readers of a tragic incident but does not offer any deeper understanding or actionable insights. It does not report on any solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "842eb0889849d9905333e9abb69b7038": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a court decision, which can be useful for readers interested in law or business. However, without more context or analysis, it does not fully inform or empower readers.",
+    "source": "gpt"
+  },
+  "ce8c6e04b54125ef72da0f08aaa9b14c": {
+    "score": 0.6,
+    "reason": "This story provides useful information about how social media can aid in solving crimes. However, it does not provide solutions or improvements, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "249030cf68ff64e6408830555b4e2452": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness of the situation but lacks depth or insight into why the decision was made or its potential impact on the author or the publishing industry.",
+    "source": "gpt"
+  },
+  "2c74f2867d6cb4e79ad044d3908c321c": {
+    "score": 0.8,
+    "reason": "This story informs about a new policy that could impact tourists and locals alike. It could be useful for those planning to visit Rome. However, it doesn't report on a solution to a problem or highlight progress or innovation.",
+    "source": "gpt"
+  },
+  "0d3b842a21e124b9bb1c3f60f1dcd999": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the UK's response to violence against Syrian civilians. However, it lacks details about the specific sanctions and how they might impact the militia groups or contribute to a solution to the violence.",
+    "source": "gpt"
+  },
+  "06f2944a7b1e3c4f2a2e66ac4941c317": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a conflict within the football world, but it doesn't provide deep insights or actionable information. It doesn't contribute to a broader understanding of the issues within the sport or suggest any solutions.",
+    "source": "gpt"
+  },
+  "77979d13ea7adaece22587c334f19406": {
+    "score": 0.5,
+    "reason": "This story provides basic information about a player's injury status, which is useful for fans and those involved in fantasy leagues. However, it doesn't provide broader context about the team's strategy or the impact on the season, limiting its overall usefulness.",
+    "source": "gpt"
   }
 }
