@@ -12078,5 +12078,140 @@
     "score": 0.5,
     "reason": "This story provides basic information about a player's injury status, which is useful for fans and those involved in fantasy leagues. However, it doesn't provide broader context about the team's strategy or the impact on the season, limiting its overall usefulness.",
     "source": "gpt"
+  },
+  "76d10d06768586cb08b4cd47c88b1979": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1cf7f8838c37b4cb0e8359ea9813e53a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b11f7c391af0f2132cf223759fd1ce72": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c43b57000edc382e55584cbf77af5249": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1db653c0568037774fc8ff98e8685fc6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6577ce0583cad7551447a260765888c2": {
+    "score": 0.02,
+    "reason": "keywords (1): launch; actions: launch; negative_penalty=0.05 (keywords: attack); semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "22b080bf54de9c350d7a2e76914b40d9": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b7b1c532c97e4749b774d58f0e1289f5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9ef06ab7e8defe9704bb2ab43ffc7b86": {
+    "score": 0.048,
+    "reason": "semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6ad380ba3cd8bf48f5f30e6544192d59": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0922f58a0c47d0ee6e2d8d847b0a7f04": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "76c6b8946b2c081199ce45a570ad4794": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d701c41b2aa52db72966fad1f722d65e": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the actions of the US Justice Department, which can help readers understand the workings of the justice system. However, without more details about the content of the Epstein files or their implications, it doesn't provide in-depth insights or highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "62b30112e379b36fe4c1423d5fd02fc9": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a recent event, but it doesn't provide much depth or insight. It doesn't explain why the Kennedy Center was renamed or what the implications of this change might be. It also doesn't report on solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "155de0646685a2aff924932c8e8bc56a": {
+    "score": 0.7,
+    "reason": "This story provides useful information about the US's foreign policy towards Venezuela, which can help readers understand the geopolitical situation. However, without more details about the reasons for these sanctions or their potential impacts, it doesn't provide in-depth insights or highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "3bd92025f7ac8aaad93f5f5e6cfa58d6": {
+    "score": 0.9,
+    "reason": "This story is constructive as it reports on a solution to a problem - high drug prices. It provides actionable insights for readers who are affected by these prices and increases awareness about the actions being taken to address the issue.",
+    "source": "gpt"
+  },
+  "db03aa1c06009fa7edec7093963e0431": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a political decision, which might affect the reader's decision-making in the future. However, it does not report on solutions or progress, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "993314a86e133f09dd97c2e2e1cc0d01": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a geopolitical event, but it does not provide depth or insight, nor does it report on solutions or progress. It does not increase the reader's understanding, decision-making, or sense of agency.",
+    "source": "gpt"
+  },
+  "a485e1846e40fb6783bb5fab2e06bfc3": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a sports event, but doesn't offer much depth or insight into the event, the strategies used, or the implications of the outcome.",
+    "source": "gpt"
+  },
+  "70da8aad0d765b57b0ba82346d77b99c": {
+    "score": 0.6,
+    "reason": "This story informs about a significant event in the business world, which could impact Tesla's future operations and the broader auto industry. However, without more context or analysis, it's hard to understand the full implications.",
+    "source": "gpt"
+  },
+  "e64d14579e5d7d3262e0d98ac88a7153": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a celebrity rumor, but doesn't offer much depth or insight into the individuals involved or the broader context. It doesn't contribute meaningfully to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "c172557f6b88dfdd148f667ffc9001bf": {
+    "score": 0.9,
+    "reason": "This story is constructive as it reports on progress and solutions regarding the famine situation in Gaza. It provides useful information about the improvement of aid access and its impact on the hunger situation, thus contributing to the reader's understanding.",
+    "source": "gpt"
+  },
+  "3d4c58878926c9f1d8bc3148a8d69737": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the situation involving David Walliams and his publisher, but it lacks depth or insight. It doesn't provide actionable insights or deeper understanding of the issue, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "ec751ba1a74f59d502956b86a21a44c4": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the Bondi attack and its impact on the community. However, it doesn't provide actionable insights or deeper understanding of the issue, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "9ce6ad209c5846bec2b5f9b746bfcc84": {
+    "score": 0.2,
+    "reason": "This story is more of a reactive news piece with little depth or insight. It doesn't offer any actionable insights or deeper understanding to the reader, nor does it report on solutions, improvements, innovations, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "66bab726758a22f13c3ca0c9ce7598ef": {
+    "score": 0.2,
+    "reason": "This story is also reactive and sensational, focusing on the negative outcome of a sporting event. It doesn't provide useful information for the reader's understanding or decision-making, nor does it highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "f2975731c0be7c94982cbd5da79b8120": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a player trade in a sports team. However, it lacks depth or insight that could contribute meaningfully to the reader's understanding or decision-making. It doesn't report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
   }
 }
