@@ -12468,5 +12468,155 @@
     "score": 0.6,
     "reason": "The story provides useful information about the outcomes of the games and the resilience of the teams, offering some insight into the dynamics of the sport.",
     "source": "gpt"
+  },
+  "6821a40715d318487ec4c5d4c392dd65": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "da3d0c28c30f6ccbb12b97130c67d8e9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1abee234aee38fde873a1080507baf22": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "78f4706669bf30c59d57c68825cc5c59": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: warn); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3a669a909ce56367174850fcf898cb8a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "434be15b201774578847c9e4446b2f65": {
+    "score": 0.068,
+    "reason": "actions: build; semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5b8a4a8487e7e30395fc4420c9075109": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7f9964ccac3e6d50654a6184e0f58bfb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1ab6cac9f1f7cc89bcee4f0aeb988585": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0a4b4dfaa3ad31ca91583fdc2c1c6b2b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5c95b69618146bd7f64d19899e63d523": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "bead73e5e4861a23a3be19f3dd70637c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f1765078a66b18daa4cfaef9b9acf73d": {
+    "score": 0.009,
+    "reason": "semantic: pos_sim=0.12, neg_sim=0.07; semantic_boost=0.01; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "34fbd4c0df9beaa333f6c7e4c2ada293": {
+    "score": 0.035,
+    "reason": "keywords (1): effort; actions: restore; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7e4c6bfed1f91f62e0ce6623d9bc42b4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ae9a0d4b6d97c17ebfa1a51821e30015": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the DOJ's actions and the controversy surrounding it, but it doesn't offer much depth or insight into the implications or reasons behind the decision.",
+    "source": "gpt"
+  },
+  "39a3f77270a68d74b8531950b56eb961": {
+    "score": 0.6,
+    "reason": "The story informs readers about the communal response to an antisemitic attack, which can help contextualize the severity of the incident and the solidarity of the community. However, it doesn't seem to provide actionable insights or solutions to address the root causes of such attacks.",
+    "source": "gpt"
+  },
+  "61e5d2d69f4d6b6b569001784f39a0ef": {
+    "score": 0.6,
+    "reason": "This story provides useful information about ongoing tensions and actions between the US and Venezuela. However, without further context or analysis of the implications, the story does not fully empower the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "9fbdda1b7f453360465c5494a56f2921": {
+    "score": 0.7,
+    "reason": "This story provides insight into the ongoing conflict between Russia and Ukraine, and the international efforts to resolve it. However, without more context or details about the specific amendments or their potential impacts, it does not fully empower the reader with actionable insights or a deep understanding.",
+    "source": "gpt"
+  },
+  "bae72f2ea733c24a246acfd08a130768": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about an incident of alleged theft at a high-profile location, but it doesn't provide deeper understanding or insight. It doesn't report on solutions, improvements, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "3e39d9c5d441200da0c62b3103600175": {
+    "score": 0.5,
+    "reason": "The story raises awareness about a tragic event and the community's response to it. However, without more information about the attack, its causes, or its impacts, it offers minimal depth or insight.",
+    "source": "gpt"
+  },
+  "11b9ef7a3465f4d38d6a8c05eca1cd5d": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a crime event, but it doesn't provide any depth, actionable insights, or solutions.",
+    "source": "gpt"
+  },
+  "cc82a86a3cc31554248804c3aaf34cb5": {
+    "score": 0.3,
+    "reason": "The story offers basic awareness of a tragic event, however, it lacks depth, context, or insights that could help readers understand the bigger picture or what can be done about it.",
+    "source": "gpt"
+  },
+  "5c6acfad7d161d9961608dc0a0345dae": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about a sports injury, but it doesn't provide any solutions or actionable insights. However, it might be useful for fans or people following the team or player.",
+    "source": "gpt"
+  },
+  "d0cf81a7e6bef07658677458c16adf76": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the migrant situation in the Channel, but it lacks depth or insight into the causes, impacts, or potential solutions to the issue.",
+    "source": "gpt"
+  },
+  "362b481fc7b6b30fcc7e4db0badf1365": {
+    "score": 0.5,
+    "reason": "The story informs readers about a specific incident involving Russian and Ukrainian forces, but it doesn't provide enough context or insight into the larger conflict or potential solutions.",
+    "source": "gpt"
+  },
+  "0ceb982b9563454168b8c8cfa0ce7c1a": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the disappearance of important documents, potentially leading to increased scrutiny and accountability. However, it does not offer solutions or highlight progress.",
+    "source": "gpt"
+  },
+  "0e57e8890d9b04b8146d5a9df48ca46e": {
+    "score": 0.2,
+    "reason": "This story is not constructive as it only reports a negative event without providing any context, insights or solutions. It does not contribute to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "98df7ed7f51b059c101341c9a09a2452": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a player's return after an injury but lacks depth or insight into the situation. It does not report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "00a09324d3a264d0cd5d9b1f0712fc19": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a player's injury and its immediate impact on the team but does not offer any depth, insight, or solutions. It does not contribute meaningfully to the reader's understanding or decision-making.",
+    "source": "gpt"
   }
 }
