@@ -12778,5 +12778,145 @@
     "score": 0.2,
     "reason": "This story seems more sensational than constructive. It reports on an incident during a game, but doesn't provide any deeper understanding or actionable insights for the reader.",
     "source": "gpt"
+  },
+  "0003ffc0ac0185ffb7fb3447291ca6bf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "269307aefa7b3574e59355762ff1d3ce": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d464af16e03920505506c9aaceacba1f": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: concern); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "85621bae3de25e45837f39452f07edc0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0dd1f14de6725f3f92c413a73f1e24dc": {
+    "score": 0.022,
+    "reason": "speculative_penalty=0.03 (tokens: concern); semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0c3a06c4756f3b64b0722ced55e6953e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "30c0b207df1e342c41147c695e1890e2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2178ff706332f74a535e1537605784a3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1339bc1760a9633ec523496b1931724a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "57e5d98d19fd942dda69694243f6f81b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "bf30616b70ea04f738ee97b09ced60bd": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "481b5eb17ef6d76b3a6c4e788ea73d6b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9c56081dd879bd15e6ec1b642a6222e6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "0c17c735abca854209871e0ad091f1b2": {
+    "score": 0.6,
+    "reason": "This story provides some useful information about international laws and maritime practices. However, without more context or analysis, it's not clear how this information could be applied or what broader trends it might reflect.",
+    "source": "gpt"
+  },
+  "36ee46ca16708aecd5bbec4d84da6dba": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about the political dynamics between the US and Greenland, but it lacks depth or insight into the implications of this appointment or the reasons for the backlash.",
+    "source": "gpt"
+  },
+  "47b7a83ad96bad25cd292e7d0860ad4b": {
+    "score": 0.8,
+    "reason": "This story provides useful information about the demands of the hunger strikers, which could help readers understand the motivations and goals of Palestine Action. However, it does not report on any solutions or attempts to address these demands.",
+    "source": "gpt"
+  },
+  "b145d7ddda1257cc51d3f8e433b5a617": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about ongoing legal proceedings related to the Epstein case. However, without more information, it's hard to say whether it offers any deeper insight or understanding.",
+    "source": "gpt"
+  },
+  "5a26837eaa03ee0a13477d28ab5b1660": {
+    "score": 0.3,
+    "reason": "This story reports on a crime, which raises awareness about the issue of sexual assault. However, it doesn't provide any actionable insights or solutions, nor does it delve into the systemic issues that contribute to such crimes.",
+    "source": "gpt"
+  },
+  "c04123908b345a0d8367f58134d26fae": {
+    "score": 0.3,
+    "reason": "This story informs readers about the death of a well-known singer. While it may contribute to the reader's understanding of recent events in the music industry, it doesn't provide any deeper insights or solutions.",
+    "source": "gpt"
+  },
+  "44b56434a7896225d6e38bd1592b32c0": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of the conflict in Aleppo, but without more context or analysis, it doesn't offer much depth or insight into the causes, impacts, or potential solutions.",
+    "source": "gpt"
+  },
+  "3ed7585262ffac38b39a694ad8699481": {
+    "score": 0.2,
+    "reason": "This story seems to be more about celebrity commentary than providing actionable insights or deeper understanding. It does not report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "3f4c74390645dfcc1bd755b460e0288c": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a new piece of public art, which can contribute to cultural understanding. However, without more information about the mural's content and context, it doesn't offer much depth or insight.",
+    "source": "gpt"
+  },
+  "f26ff266a0cd5842c9b07a194412cd4e": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about a political decision in Israel, but it lacks depth or insight into the implications of this decision, or how it might affect the media landscape or public discourse in Israel.",
+    "source": "gpt"
+  },
+  "1894a0e49e4e30296a10f0572c0d1bb9": {
+    "score": 0.0,
+    "reason": "This story is purely reactive and sensational. It does not provide any useful information or insights about lung cancer, its treatment options, or how Barry Manilow's situation might relate to broader trends or issues in health care.",
+    "source": "gpt"
+  },
+  "de922e6bdd695a1d0bef49d026c1cee3": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a confrontation between a football player and a fan, but it does not provide any deeper understanding or insights about the context or causes of this confrontation, or how it might reflect broader issues in sports culture.",
+    "source": "gpt"
+  },
+  "2eac45d96a99b5a578dc7deab9ce4dce": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the hiatus of the Notre Dame vs. USC rivalry but offers no deeper understanding or insight into the reasons behind the decision or its potential impacts.",
+    "source": "gpt"
+  },
+  "a32bc1b3dc72289be935f5d83fa3c31f": {
+    "score": 0.3,
+    "reason": "While this story informs readers about McDavid's achievement, it doesn't provide additional context or analysis about his performance, the selection process, or how this impacts his career or the team.",
+    "source": "gpt"
+  },
+  "76da95927d19d8cae9046325f93d7b5a": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about Perryman's suspension, but without details or context about the reasons for the suspension or its implications for the player and the team, the story does not provide deeper understanding or insight.",
+    "source": "gpt"
   }
 }
