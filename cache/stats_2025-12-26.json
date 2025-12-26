@@ -1,8 +1,8 @@
 {
-  "fetched": 2149,
-  "filtered": 653,
+  "fetched": 2141,
+  "filtered": 760,
   "clustered": 53,
-  "scored": 25,
+  "scored": 31,
   "feeds": {
     "feeds_total": 51,
     "url_normalized": 11,
@@ -16,40 +16,43 @@
       "rsshub.app": 2,
       "feeds.reuters.com": 1,
       "english.alarabiya.net": 1,
-      "www.nature.com": 1,
       "www.investopedia.com": 1,
+      "www.nature.com": 1,
       "www.theglobeandmail.com": 1,
       "rss.sciam.com": 1
     }
   },
   "cache_metrics": {
     "summary": {
-      "load_ms": 71,
-      "miss": 25,
-      "stale_or_invalid": 10
+      "load_ms": 170,
+      "miss": 30,
+      "stale_or_invalid": 4,
+      "hit": 1
     },
     "constructiveness": {
-      "miss": 29,
-      "hit": 3
+      "miss": 43,
+      "hit": 2
     },
     "headline": {
-      "miss": 25
+      "miss": 30,
+      "hit": 1
     }
   },
   "headline_metrics": {
-    "total": 25,
+    "total": 31,
     "missing": 0,
     "source_counts": {
-      "gpt": 25
+      "gpt": 30,
+      "cache": 1
     },
     "length": {
-      "avg": 57.2,
-      "median": 57,
+      "avg": 56.87,
+      "median": 58,
       "max": 67,
       "over_limit": 0
     },
     "uniqueness": {
-      "unique_titles": 25,
+      "unique_titles": 31,
       "duplicate_groups": 0,
       "repeated_titles": 0,
       "deduped_ratio": 1.0
