@@ -14068,5 +14068,125 @@
     "score": 0.5,
     "reason": "This story provides basic awareness about a staffing change in a hockey team. While it may be of interest to fans of the team, it does not provide deeper insights or actionable information for a broader audience.",
     "source": "gpt"
+  },
+  "3c9be771262582c708e78361e281b20f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0b1f958a4f1ca2bfa3c46ecd9e06955d": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: deadly); semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "244a23901fd22618b92fae05dad4f267": {
+    "score": 0.06,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9de03e0ec7a40f2a3c9f84561fc8de7f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9b776891c547daf49ff4b2e3d6226087": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "eb5df8d49f08e3e81866b403371a8bf9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "55b5155d9d529f693237fc1a97ac2bb4": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: dead); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "adf557454f547f96458d7c00c3f7e304": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "21e479190d657dd37fc2713cff74629e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "162930abd53ff9350ce0d9ff96fe09d2": {
+    "score": 0.6,
+    "reason": "The story informs about a significant event in Argentina's politics and economy, which can be useful for readers interested in these topics. However, without further details about the budget's contents, its impacts, or reactions to it, the story doesn't provide a deep understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "eab6d7ca43af44f1cccd6a88cedcdd64": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about a current military action and its context. However, it lacks depth and insight into the broader implications, potential solutions, or the situation's background.",
+    "source": "gpt"
+  },
+  "1d852dbe6333400523cdca3c41ae2025": {
+    "score": 0.7,
+    "reason": "This story informs about the outcome of a high-profile corruption trial, contributing to the reader's understanding of accountability in Malaysia's political system. However, without more details about the trial, the corruption case, or its impacts, the story doesn't fully empower the reader.",
+    "source": "gpt"
+  },
+  "e9e448c4cb96553f6f2e28975aa5caae": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the death of Perry Bamonte, but it does not provide any depth or insight into his life, contributions, or the impact of his death.",
+    "source": "gpt"
+  },
+  "f1ce4597df1aa5ac1d94c4a594d102b2": {
+    "score": 0.5,
+    "reason": "While the story informs about a specific incident, it does not provide any broader context or insight into the underlying issues or potential solutions. It also does not empower the reader with actionable insights.",
+    "source": "gpt"
+  },
+  "89aaf61174efe6d5ee2f4beca13a19c6": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a specific legal case and raises questions about the fairness of the prosecution. However, it does not provide enough context or analysis to fully inform the reader about the broader issues at play.",
+    "source": "gpt"
+  },
+  "e42ee4ca2c056a97440c0188e56631d4": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the situation of the activist Alaa Abd El-Fattah, but it lacks depth or insight into the broader implications of his return to the UK, the reasons behind his activism, or the context of his situation.",
+    "source": "gpt"
+  },
+  "506c6d2167b60ef4835c45b0a6649264": {
+    "score": 0.7,
+    "reason": "This story informs readers about a new initiative to boost defence, which could be useful for young people considering their options. However, it does not provide much information about the potential impacts or effectiveness of this initiative.",
+    "source": "gpt"
+  },
+  "551b39d1ba1cd9c328a53304d40a7d40": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the geopolitical situation between Russia, Belarus, and Ukraine. However, it lacks depth and does not provide much insight into the potential implications or solutions to this issue.",
+    "source": "gpt"
+  },
+  "75d2942f34159ff38d59ff47d390f01c": {
+    "score": 0.6,
+    "reason": "This story is constructive as it provides useful information about flight cancellations due to a winter storm, which can help readers make decisions about their travel plans. However, it does not report on solutions or improvements, nor does it provide deep insights into the causes or impacts of the situation.",
+    "source": "gpt"
+  },
+  "69ec79d286550bab99ca0c20a167acef": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a new coaching hire, which might be of interest to fans of the team. However, it does not provide actionable insights, report on progress or solutions, or increase understanding of wider trends or systems in the sport.",
+    "source": "gpt"
+  },
+  "c4fbf157fb1c1e01a208865db89631d8": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a change in the starting lineup for a football game. While this might be of interest to fans, it does not provide deeper insights, report on progress or solutions, or increase understanding of wider trends or systems in the sport.",
+    "source": "gpt"
+  },
+  "d004cd3aa469ffb107a85c927bcabbab": {
+    "score": 0.3,
+    "reason": "This story seems to raise awareness about the potential bias or double standards in the evaluation of cricket pitches. However, without more information, it's hard to assess its depth or the actionable insights it might offer.",
+    "source": "gpt"
+  },
+  "a87d2cd5ac03a2ecc46d352f6d94040f": {
+    "score": 0.5,
+    "reason": "This story might offer some awareness about the experience of having eye surgery as a child, depending on the details. However, without more information, it's hard to assess its usefulness or whether it reports on any progress or solutions.",
+    "source": "gpt"
+  },
+  "e1bfaab87c05a2e89c5fb6418531fd2e": {
+    "score": 0.3,
+    "reason": "This story reports on a sports event, which might be interesting to fans but doesn't seem to offer much in terms of actionable insights, progress, or deeper understanding of broader issues.",
+    "source": "gpt"
   }
 }
