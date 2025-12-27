@@ -14188,5 +14188,110 @@
     "score": 0.3,
     "reason": "This story reports on a sports event, which might be interesting to fans but doesn't seem to offer much in terms of actionable insights, progress, or deeper understanding of broader issues.",
     "source": "gpt"
+  },
+  "773c7dec65ef88761c3cd7ee3159cb78": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a65e0f85a0e36da3e4f26b00b5a3cec8": {
+    "score": 0.022,
+    "reason": "negative_penalty=0.08 (keywords: lawsuit); semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d5ded90f6ad2c086c658b5cb23dc2620": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a17bf8c3eab1ce1bf1f6b5ec773f4302": {
+    "score": 0.03,
+    "reason": "actions: draft; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "fa6e4c523ccda2cd50d0b88b417ad9db": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2bbe4501475956d7748d98f2b7cd15ad": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "bba36cabe2af72ba0f4d9368163857a3": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the political and military situation in Ukraine, but it lacks depth and actionable insights for the reader. It doesn't report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "86d97bafa99a95f1924286671ae0db53": {
+    "score": 0.2,
+    "reason": "This story is more sensational than constructive. It provides some awareness about a conflict between a musician and a venue, but it doesn't provide deeper understanding or actionable insights. It also doesn't report on solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "d65084f80e35aea683e34305d35eb4c5": {
+    "score": 0.2,
+    "reason": "This story reports on a tragic event but doesn't provide actionable insights or deeper understanding for the reader. It doesn't report on solutions, improvements, or attempts to prevent such accidents in the future.",
+    "source": "gpt"
+  },
+  "306613af94227892882dbc87629388d4": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the death of a significant religious figure, but does not provide any deeper insights or context about his life, contributions, or what this means for the future of the Church of Jesus Christ of Latter-day Saints.",
+    "source": "gpt"
+  },
+  "beb14309b7622163307f84e8ae11460c": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the death of a historically significant figure, but lacks depth or insight into her life, the significance of the Dionne quintuplets, or the impact of her death.",
+    "source": "gpt"
+  },
+  "d9425dfd0b191a5c676144fb605b5b30": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a serious mistake made by a hospital, which could potentially lead to discussions or actions to prevent such errors in the future. However, without more information about the specifics of the mistake, the systems in place, or proposed solutions, it offers minimal depth or insight.",
+    "source": "gpt"
+  },
+  "4d3661dc3f36243663bc201fac92e4bd": {
+    "score": 0.2,
+    "reason": "This story is not constructive as it only reports on a death without providing any deeper understanding or actionable insights. It does not report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "ccce8853af5488e3af89e0c3fbba0426": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about viral moments of 2025 but provides minimal depth or insight into why these moments were significant or what impact they had. It does not report on solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "e74aaf8131ddb9933b8b95e38c1bfdfe": {
+    "score": 0.6,
+    "reason": "This story informs about a player's performance in a football match, providing some context and understanding about his journey. However, it does not highlight any progress, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "f0f72315cbe9df091f89b9a21bf3cfb6": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a new hiring in the Michigan football team. However, it lacks depth or insight into why this decision was made, what it means for the team, or how it might impact future games.",
+    "source": "gpt"
+  },
+  "f8d4cd5fa11ab26ea0addd202db40b84": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about the status of a key player's injury. However, it doesn't provide deeper understanding or insight into the implications of this return for the team, or how the player's health might impact his performance.",
+    "source": "gpt"
+  },
+  "03f6331485a63e150daa900183fd996c": {
+    "score": 0.6,
+    "reason": "This story offers useful information about a player's progress and impact on a recent game. However, it could be more constructive if it provided more context or analysis about how this might affect the team's future performance or strategy.",
+    "source": "gpt"
+  },
+  "449321f9dbdca0396b80ca585d8faa75": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a player trade in football, but doesn't provide depth or insight into why the trade was made, how it affects the teams, or the potential impacts on the players' careers.",
+    "source": "gpt"
+  },
+  "c4cc915b6f8b9d08eedde8f799b655d8": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of an event involving a player in the NFL, but offers no context or depth about why the player was shut down or what the implications might be for the team or the player.",
+    "source": "gpt"
+  },
+  "eb2bc9715e69193cb4b8afdff6425f71": {
+    "score": 0.6,
+    "reason": "While this story is about predictions and betting, it could provide useful insights for readers who are interested in these aspects of sports. However, without more context, it's hard to say whether it offers a deeper understanding of the game or the teams.",
+    "source": "gpt"
   }
 }

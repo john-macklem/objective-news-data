@@ -1,152 +1,287 @@
 [
   {
-    "title": "Ukrainian president plans to meet US leader in Florida",
-    "domain": "business",
+    "title": "Jordan Love will not play for Packers Malik Willis will start",
+    "domain": "sports",
+    "source_domain": "espn.com",
+    "location": "national",
+    "published": "Sat, 27 Dec 2025 11:07:12 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Forbes",
+      "Sports Illustrated",
+      "Sportsnet"
+    ],
+    "domains": [
+      "espn.com",
+      "forbes.com",
+      "news.google.com",
+      "sportsnet.ca"
+    ],
+    "snippets": [
+      "Packers quarterback Jordan Love has been ruled out against the Ravens as he continues to deal with a concussion. Malik Willis will start for Green Bay.",
+      "Malik Willis will start at quarterback for the Green Bay Packers against the Baltimore Ravens Saturday night.",
+      "Malik Willis, Who Will Start vs. Ravens, Rescued Packers From Backup Hell Sports Illustrated",
+      "Green Bay Packers quarterback Jordan Love won’t play Saturday night against the Baltimore Ravens, a week after leaving a game with a concussion."
+    ],
+    "image_url": "",
+    "titles": [
+      "Packers rule out Love, will start Willis vs. Ravens",
+      "Can Malik Willis Save The Green Bay Packers One More Time?",
+      "Malik Willis, Who Will Start vs. Ravens, Rescued Packers From Backup Hell - Sports Illustrated",
+      "Packers QB Jordan Love out vs. Ravens"
+    ],
+    "url": "https://www.espn.com/nfl/story/_/id/47420884/packers-qb-jordan-love-ruled-due-concussion",
+    "alternate_urls": [
+      "https://www.forbes.com/sites/robreischel/2025/12/27/can-malik-willis-save-the-green-bay-packers-one-more-time/",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWtCekZyX0djYlFfVHVMcTZSSWpVV0diMWhBSGFIRkphczJuaE5KMXhlakZ0V29GNE5xaHZtUVpNQUl1WjBYanRiQnVnSzA0TWVMb3FXMGlCTFotdFJwWUNKX3NYQktTaVByTFNJTENEN3pNd0o1VEtsTlVCcFg1VVlrM2Ewd2xpTlhLQjVpekJyeW8wZkM2bXdHdDczdzZhWGppT0dUOW80Zw?oc=5"
+    ],
+    "location_scope": "national",
+    "link": "https://www.espn.com/nfl/story/_/id/47420884/packers-qb-jordan-love-ruled-due-concussion",
+    "score_components": {
+      "magnitude": 0.892,
+      "recency": 0.891,
+      "consensus": 0.908,
+      "constructiveness": 0.5,
+      "proximity": 0.75
+    },
+    "score": 0.841,
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story provides basic awareness about a change in the starting lineup for a football game. While this might be of interest to fans, it does not provide deeper insights, report on progress or solutions, or increase understanding of wider trends or systems in the sport.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Green Bay Packers quarterback Jordan Love has been ruled out for Saturday night's game against the Baltimore Ravens due to a concussion sustained last week. Malik Willis will start at quarterback for the Packers in Love's absence.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "Russian airstrikes hit Kyiv as Zelensky prepares for US talks",
+    "domain": "politics",
+    "source_domain": "ft.com",
+    "location": "global",
+    "published": "Sat, 27 Dec 2025 19:40:42 GMT",
+    "source": "Financial Times",
+    "sources": [
+      "Financial Times",
+      "Washington Post",
+      "New York Times",
+      "Financial Post"
+    ],
+    "domains": [
+      "ft.com",
+      "washingtonpost.com",
+      "nytimes.com",
+      "financialpost.com"
+    ],
+    "snippets": [
+      "Ukrainian president meets Canadian PM and holds call with European leaders before travelling to US",
+      "Ukrainian President Volodymyr Zelensky said that the attacks make clear Russia does not want to end the war and that the world must do more to pressure Moscow.",
+      "President Volodymyr Zelensky of Ukraine said that the assault, which lasted nearly 10 hours, showed that Moscow was not serious about peace.",
+      "Russian forces Ukraine’s capital and key energy facilities with a massive airstrike on the eve of talks between Volodymyr Zelenskiy and Donald Trump aimed at nailing down a plan to end Moscow’s war."
+    ],
+    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe4363854-0022-4e0a-9b3f-e4308a2d6dac.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+    "titles": [
+      "Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting",
+      "Russian attack pummels Kyiv as Zelensky prepares to meet Trump",
+      "Russia Pummels Kyiv Before Trump-Zelensky Meeting",
+      "Zelenskiy Prepares for Trump Meeting as Russia Bombards Kyiv"
+    ],
+    "url": "https://www.ft.com/content/a7339abf-741d-43d7-aae7-b6b8330af737",
+    "alternate_urls": [
+      "https://www.washingtonpost.com/world/2025/12/27/kyiv-russia-attack-ukraine-zelensky/",
+      "https://www.nytimes.com/2025/12/27/world/europe/kyiv-ukraine-russia-trump-zelensky.html",
+      "https://financialpost.com/pmn/business-pmn/kyiv-hit-by-russian-barrage-a-day-before-zelenskiy-trump-meeting"
+    ],
+    "location_scope": "global",
+    "link": "https://www.ft.com/content/a7339abf-741d-43d7-aae7-b6b8330af737",
+    "score_components": {
+      "magnitude": 0.932,
+      "recency": 0.984,
+      "consensus": 0.908,
+      "constructiveness": 0.3,
+      "proximity": 0.5
+    },
+    "score": 0.836,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness about the political and military situation in Ukraine, but it lacks depth and actionable insights for the reader. It doesn't report on solutions, improvements, or attempts to solve problems.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Ukrainian President Volodymyr Zelensky met with the Canadian Prime Minister and spoke with European leaders before traveling to the US. Ahead of talks with Donald Trump about ending the war, Russian forces launched a major airstrike on Kyiv and key energy sites. Zelensky stated the attacks show Russia is not seeking peace and called for increased international pressure on Moscow.",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "Chuck Redd sued after canceling Kennedy Center Christmas show",
+    "domain": "politics",
     "source_domain": "bbc.com",
     "location": "global",
-    "published": "Sat, 27 Dec 2025 05:58:12 GMT",
+    "published": "Sat, 27 Dec 2025 19:00:55 GMT",
     "source": "BBC",
     "sources": [
       "BBC",
-      "Axios",
-      "Washington Post",
-      "New York Times",
-      "Bloomberg"
+      "NPR",
+      "The Guardian",
+      "Fortune"
     ],
     "domains": [
       "bbc.com",
-      "news.google.com",
-      "washingtonpost.com",
-      "nytimes.com"
+      "npr.org",
+      "theguardian.com",
+      "fortune.com"
     ],
     "snippets": [
-      "The Ukrainian president says he will see his US counterpart in Florida, as Kyiv's mayor says Russia launched new air strikes on the capital.",
-      "Trump and Zelensky to meet Sunday, try to close out peace plan Axios",
-      "The Sunday meeting suggests that Washington and Kyiv are closing in on a joint position to end the war. Russia, however, will probably reject the plan.",
-      "President Volodymyr Zelensky of Ukraine has sought the meeting since the latest U.S.-led push for peace got underway.",
-      "Zelenskiy, Trump Set to Meet as Russia Questions Peace Plan Bloomberg.com",
-      "Zelenskiy Says He’ll Meet Trump Soon Signaling Progress on Peace Bloomberg.com"
+      "Drummer Chuck Redd reportedly called off his Christmas Eve performance after a vote by the board to rename the site.",
+      "The Kennedy Center is planning legal action after jazz musician Chuck Redd canceled an annual holiday concert. Redd pulled out after President Trump's name appeared on the building.",
+      "Drummer Chuck Redd decided to cancel his yearly Jazz Jam after Donald Trump added his name to the venue The president of the Kennedy Center has demanded $1m in damages and fiercely criticized a musician’s sudden decision to cancel a Christmas Eve performance at the venue days after the White House a",
+      "The law explicitly prohibits the board of trustees from making the center into a memorial to anyone else, and from putting another person’s name on the building’s exterior."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da5/live/70bfb750-e257-11f0-adaa-4b49d24d5c3b.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a306/live/4b96f030-e34f-11f0-a8dc-93c15fe68710.jpg",
     "titles": [
-      "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
-      "Trump and Zelensky to meet Sunday, try to close out peace plan - Axios",
-      "Zelensky says he will meet Trump soon, citing progress in peace plan",
-      "Zelensky Will Meet With Trump Over the Weekend to Discuss Ukraine Peace Plan",
-      "Zelenskiy, Trump Set to Meet as Russia Questions Peace Plan - Bloomberg.com",
-      "Zelenskiy Says He’ll Meet Trump Soon Signaling Progress on Peace - Bloomberg.com"
+      "Kennedy Center seeks $1m from musician who cancelled after Trump name added to venue",
+      "Kennedy Center vows to sue musician who canceled performance over Trump name change",
+      "Kennedy Center president demands $1m from musician who canceled Christmas Eve show",
+      "Kennedy Center seeks $1 million in damages from musician who canceled performance after Trump name added to building"
     ],
-    "url": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/news/articles/cz68q3p8xqxo?at_medium=RSS&at_campaign=rss",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMie0FVX3lxTE11Qkd1cmIyb1FJSEVraVhxaFBtbG5zem9LVVNOcGkwZ3o5SFdRWmRFWTh3UVZKaWV4djJTanpkSkU2Sko5dkRZNkxiUjFfWlYxRGNYY085ZWVFMHBVVFFpWG1TYU9yWWhZNWxaNVg4QXpDSVdQcXExS0JRZw?oc=5",
-      "https://www.washingtonpost.com/world/2025/12/26/ukraine-russia-trump-peace-plan/",
-      "https://www.nytimes.com/2025/12/26/world/europe/zelensky-trump-ukraine-russia.html",
-      "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa29mVHZfQ05WOEFTU1VHQ0dzRlVjYXhqSHA1U09JZVBiQjZRYlY3b3c2b3FBUzA2Tjl3X2ZFYjY4RkVWRGhJeUx5YTBuZU1RWi1fOWkxams2OXJudUQzSXhhdWdWU3NBaGtYa1ctUVdHRVctS0xfaHBFWWNIRXZQSm5WR2xJTEo5V045cDBCUlNNQ2NNbVpCbXFyNS1KX1RrN3dDSWtjcWM3Zlhh?oc=5",
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0xHN3BNT29ZdDA2bnEzQVJMRFh3Y3F3X3hBOFhCYU92b1FTTmhtT2N2M3VSOU4xMUNtb0xkY3FJN0pzdHBzZjloa3V2Z3oyRE0yWGRXeHBFX3RsX1dRcGpJMl96ZVBUcThIXzQ1b2tIcTNUN0dDbUZWXzVOZ2h2MWJ0LTZLS1VlZU1UcnN5dDVkTUx1eGRvTmFNZzlUXzdMZVRLbFhaVlN0ZzN5SHp5OExXUnJYUQ?oc=5"
+      "https://www.npr.org/2025/12/27/g-s1-103808/kennedy-center-lawsuit-chuck-redd-cancellation-trump",
+      "https://www.theguardian.com/us-news/2025/dec/27/kennedy-center-chuck-redd-canceled-concert",
+      "https://fortune.com/2025/12/27/kennedy-center-1-million-damages-from-musician-chuck-redd-christmas-eve-show-trump-name/"
     ],
     "location_scope": "global",
-    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.com/news/articles/cz68q3p8xqxo?at_medium=RSS&at_campaign=rss",
     "score_components": {
-      "magnitude": 0.964,
-      "recency": 0.881,
-      "consensus": 0.975,
-      "constructiveness": 0.06,
+      "magnitude": 0.912,
+      "recency": 0.966,
+      "consensus": 0.908,
+      "constructiveness": 0.2,
       "proximity": 0.5
     },
-    "score": 0.804,
-    "constructiveness_score": 0.06,
-    "constructiveness_reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "snippet",
-    "summary_reason": "invalid_roles",
+    "score": 0.815,
+    "constructiveness_score": 0.2,
+    "constructiveness_reason": "This story is more sensational than constructive. It provides some awareness about a conflict between a musician and a venue, but it doesn't provide deeper understanding or actionable insights. It also doesn't report on solutions or attempts to solve the problem.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "The Ukrainian president says he will see his US counterpart in Florida, as Kyiv's mayor says Russia launched new air strikes on the capital.",
+    "summary": "Jazz drummer Chuck Redd canceled his annual Christmas Eve performance at the Kennedy Center after the board voted to add former President Donald Trump’s name to the building. The Kennedy Center is pursuing legal action against Redd, seeking $1 million in damages. The move to rename the venue has drawn criticism, as federal law prohibits dedicating the center to anyone other than its original namesake.",
     "is_trending": true,
     "trending_score": 0.75
   },
   {
-    "title": "Thailand and Cambodia agree to stop fighting at border",
-    "domain": "business",
-    "source_domain": "aljazeera.com",
+    "title": "Florian Wirtz scores first Liverpool goal in win over Wolves",
+    "domain": "sports",
+    "source_domain": "bbc.com",
     "location": "global",
-    "published": "Sat, 27 Dec 2025 04:14:11 +0000",
-    "source": "Al Jazeera",
+    "published": "Sat, 27 Dec 2025 19:31:36 GMT",
+    "source": "BBC",
     "sources": [
-      "Al Jazeera",
-      "Deutsche Welle",
-      "NPR",
       "BBC",
-      "Reuters",
-      "The Guardian",
-      "New York Times",
-      "Bloomberg"
+      "Yahoo Sports",
+      "Sky Sports"
     ],
     "domains": [
-      "aljazeera.com",
-      "dw.com",
-      "npr.org",
       "bbc.com",
-      "news.google.com",
-      "theguardian.com",
-      "nytimes.com"
+      "sports.yahoo.com",
+      "skysports.com"
     ],
     "snippets": [
-      "Agreement follows talks aimed at ending weeks of deadly clashes along the Thailand-Cambodia border.",
-      "Tensions reignited between the two neighbors earlier this month, claiming dozens of lives.",
-      "In addition to ending fighting, the agreement calls for no further military movements by either side and no violations of either side's airspace for military purposes.",
-      "Almost one million people have been displaced since hostilities resumed earlier this month.",
-      "Thailand and Cambodia halt fierce border conflict with second ceasefire Reuters",
-      "Two countries pledge in joint statement to halt all forms of attacks and further troop deployments in long-running dispute over contested territory Thailand and Cambodia have agreed to an “immediate” ceasefire, pledging to end weeks of deadly border clashes that have killed more than 100 people and",
-      "The 72-hour cease-fire could pave the way for an end to the fighting, which has killed dozens and displaced thousands over nearly three weeks.",
-      "Thailand, Cambodia Declare Ceasefire After Weeks of Fighting Bloomberg.com"
+      "Florian Wirtz finally scores his first goal for Liverpool in Saturday's win over Wolves - and shows he adapting to \"the hardest league in the world\".",
+      "Florian Wirtz scored his first Premier League goal as Liverpool held on to beat Wolves 2-1 at a nervous Anfield."
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6083/live/2bae0490-e357-11f0-a8dc-93c15fe68710.jpg",
     "titles": [
-      "Thailand and Cambodia agree on ceasefire to end weeks of deadly fighting",
-      "Thailand, Cambodia agree to 'immediate' ceasefire",
-      "Thailand and Cambodia sign new ceasefire agreement to end border fighting",
-      "Thailand and Cambodia agree ceasefire after weeks of deadly clashes",
-      "Thailand and Cambodia halt fierce border conflict with second ceasefire - Reuters",
-      "Thailand and Cambodia agree ‘immediate’ ceasefire after weeks of deadly border clashes",
-      "Thailand and Cambodia Reach Cease-Fire in Brutal Border War",
-      "Thailand, Cambodia Declare Ceasefire After Weeks of Fighting - Bloomberg.com"
+      "'He just needed more time' - Wirtz finally breaks Liverpool duck",
+      "Wirtz scores first Liverpool goal in nervy win over Wolves"
     ],
-    "url": "https://www.aljazeera.com/news/2025/12/27/thailand-and-cambodia-agree-on-ceasefire-cambodia-defence-ministry-says?traffic_source=rss",
+    "url": "https://www.bbc.com/sport/football/articles/cwyg5v09rwvo?at_medium=RSS&at_campaign=rss",
     "alternate_urls": [
-      "https://www.dw.com/en/thailand-cambodia-agree-to-immediate-ceasefire/a-75313070?maca=en-rss-en-top-1022-rdf",
-      "https://www.npr.org/2025/12/27/g-s1-103785/thailand-cambodia-new-ceasefire-agreement",
-      "https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss",
-      "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdThFVHZ3RFFoaTY1cWtoVUJjR0NOaS10TXgzelNJOER0dWNDSHZfQXdNcEJGS3RreXotUTRSS25sQUhKcmg3REs2S1d4NmZWaXJITmJwb3FlSmFaSExjeXA0NFRhQTBNb1dhd1kzUF9LMUZUb0lIeGlhTWRnaFU2ZGJPMGVmaERrd3RCdFo3b19mTmRZOEM3WE1BZ2Y1bGJycFVkWG5SWFBhaUtHby1KVVJ6RnAxN19HODlIM1FWM0U5VmxIa0daYQ?oc=5",
-      "https://www.theguardian.com/world/2025/dec/27/thailand-and-cambodia-agree-immediate-ceasefire-after-weeks-of-deadly-border-clashes",
-      "https://www.nytimes.com/2025/12/26/world/asia/thailand-cambodia-cease-fire-border-war.html",
-      "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1JRMkpEWktKN2QtQ2dzdm82ZDFPN0JUS1ltYk1EZFFidXpGVnhHdFYyeHFqQ2hhR3JiY3RsN203UjlfeExlMVlTT1hmcS1aS1U4YjJ1bktha1c0TW5ZX2wzM3JQY2dscnJVR1JVejBGX0Y5ckdtOUdEZW9Hb0Q2S3Vqdk45UE9JUjhTZjFjcU9fZVhDazBWQkQ2VEN5OFlPM2NwOEJsVDdsNnc4emN2Nw?oc=5"
+      "https://sports.yahoo.com/articles/just-needed-more-time-wirtz-194128145.html",
+      "https://www.skysports.com/football/liverpool-vs-wolverhampton-wanderers/report/531304"
     ],
     "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/27/thailand-and-cambodia-agree-on-ceasefire-cambodia-defence-ministry-says?traffic_source=rss",
+    "link": "https://www.bbc.com/sport/football/articles/cwyg5v09rwvo?at_medium=RSS&at_campaign=rss",
     "score_components": {
-      "magnitude": 1.0,
-      "recency": 0.84,
-      "consensus": 1.0,
-      "constructiveness": 0.0,
+      "magnitude": 0.827,
+      "recency": 0.98,
+      "consensus": 0.789,
+      "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.802,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "negative_penalty=0.08 (keywords: deadly); semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
+    "score": 0.81,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story informs about a player's performance in a football match, providing some context and understanding about his journey. However, it does not highlight any progress, solutions, or empowering knowledge.",
+    "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Thailand and Cambodia have agreed to an immediate ceasefire after weeks of deadly border clashes that began earlier this month, resulting in over 100 deaths and nearly one million displaced people. The agreement includes a halt to all attacks, no further troop deployments, and a ban on military airspace violations. Both countries issued a joint statement pledging to end hostilities and stabilize the contested border region.",
+    "summary": "Florian Wirtz scored his first Premier League goal for Liverpool in a 2-1 victory over Wolves at Anfield on Saturday. The win came after a tense match, marking a milestone for Wirtz as he continues to adapt to English football.",
     "is_trending": true,
-    "trending_score": 0.75
+    "trending_score": 0.5
+  },
+  {
+    "title": "Florian Wirtz scores first goal for Liverpool against Wolves",
+    "domain": "sports",
+    "source_domain": "cbssports.com",
+    "location": "national",
+    "published": "Sat, 27 Dec 2025 18:57:34 +0000",
+    "source": "CBS Sports",
+    "sources": [
+      "CBS Sports",
+      "The Guardian",
+      "Sky Sports"
+    ],
+    "domains": [
+      "cbssports.com",
+      "theguardian.com",
+      "skysports.com"
+    ],
+    "snippets": [
+      "Wirtz has struggled to adapt to life at Liverpool but an assist in his last game and a goal now are showing the potential he has",
+      "Liverpool and Wolves united in a moving tribute to Diogo Jota on the day Florian Wirtz finally scored the first goal of his slow-burning Anfield career. The lasting impression, however, was Liverpool’s relief at holding off a team that has endured more defeats in the first half of a season than any",
+      "Highlights from the Premier League clash between Liverpool and Wolverhampton Wanderers."
+    ],
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/12/27/e205748e-d0e5-4856-8e60-6a22abf8eade/untitled-design-2025-12-27t194822-704.png",
+    "titles": [
+      "Florian Wirtz turns a corner for Liverpool with first Premier League goal in win over Wolverhampton",
+      "Florian Wirtz nets first Liverpool goal to edge out Wolves on emotional day",
+      "Wirtz helps Liverpool to emotional Wolves win as Jota remembered"
+    ],
+    "url": "https://www.cbssports.com/soccer/news/florian-wirtz-liverpool-first-premier-league-goal-win-wolverhampton/",
+    "alternate_urls": [
+      "https://www.theguardian.com/football/2025/dec/27/liverpool-wolves-premier-league-match-report",
+      "https://www.skysports.com/watch/video/13487813/liverpool-2-1-wolves-premier-league-highlights"
+    ],
+    "location_scope": "national",
+    "link": "https://www.cbssports.com/soccer/news/florian-wirtz-liverpool-first-premier-league-goal-win-wolverhampton/",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.964,
+      "consensus": 0.789,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.805,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "This story offers useful information about a player's progress and impact on a recent game. However, it could be more constructive if it provided more context or analysis about how this might affect the team's future performance or strategy.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Florian Wirtz scored his first goal for Liverpool in their Premier League match against Wolverhampton Wanderers, following an earlier assist in his previous game. Both teams paid tribute to Diogo Jota. Liverpool secured a narrow victory, while Wolves continued their difficult season with another defeat.",
+    "is_trending": true,
+    "trending_score": 0.5
   },
   {
     "title": "Kyle Whittingham becomes new Michigan football head coach",
     "domain": "sports",
     "source_domain": "espn.com",
     "location": "national",
-    "published": "Sat, 27 Dec 2025 01:13:39 EST",
+    "published": "Sat, 27 Dec 2025 11:07:12 EST",
     "source": "ESPN",
     "sources": [
       "ESPN",
@@ -159,267 +294,624 @@
       "sportsnet.ca"
     ],
     "snippets": [
+      "Kyle Whittingham has been hired as Michigan's next head football coach, signing a five-year deal.",
       "As the coaching carousel continues to spin, we grade every major hire.",
-      "Kyle Whittingham was hired as Michigan's next head football coach, signing a five-year deal, the school said on Friday night.",
-      "Whittingham stepped down from the Utah job this month after 21 seasons",
+      "Whittingham will employ many of the program-building tactics he learned from one of the Wolverines' biggest antagonists",
       "Michigan has agreed to a five-year contract with Kyle Whittingham to replace fired football coach Sherrone Moore, according to two people familiar with the situation."
     ],
     "image_url": "",
     "titles": [
-      "Grading coaching hires: Kyle Whittingham, Michigan agree to deal",
       "Michigan hires Whittingham as HC on 5-year deal",
-      "Michigan hires Kyle Whittingham as former longtime Utah coach is tapped to lead Wolverines",
+      "Grading coaching hires: Kyle Whittingham, Michigan agree to deal",
+      "Michigan bets on Urban Meyer disciple: Why the Wolverines plucked Kyle Whittingham from rival's coaching tree",
       "Michigan hires Kyle Whittingham to replace coach Sherrone Moore"
     ],
-    "url": "https://www.espn.com/college-football/story/_/id/47002863/grading-2025-college-football-head-coaching-hires",
+    "url": "https://www.espn.com/college-football/story/_/id/47421108/whittingham-agrees-5-year-deal-coach-michigan",
     "alternate_urls": [
-      "https://www.espn.com/college-football/story/_/id/47421108/whittingham-agrees-5-year-deal-coach-michigan",
-      "https://www.cbssports.com/college-football/news/michigan-kyle-whittingham-coach-utah/"
+      "https://www.espn.com/college-football/story/_/id/47002863/grading-2025-college-football-head-coaching-hires",
+      "https://www.cbssports.com/college-football/news/michigan-urban-meyer-kyle-whittingham/"
     ],
     "location_scope": "national",
-    "link": "https://www.espn.com/college-football/story/_/id/47002863/grading-2025-college-football-head-coaching-hires",
+    "link": "https://www.espn.com/college-football/story/_/id/47421108/whittingham-agrees-5-year-deal-coach-michigan",
     "score_components": {
       "magnitude": 0.827,
-      "recency": 0.887,
+      "recency": 0.891,
       "consensus": 0.789,
       "constructiveness": 0.5,
       "proximity": 0.75
     },
-    "score": 0.797,
+    "score": 0.798,
     "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about a new coaching hire, which might be of interest to fans of the team. However, it does not provide actionable insights, report on progress or solutions, or increase understanding of wider trends or systems in the sport.",
+    "constructiveness_reason": "This story provides basic awareness about a new hiring in the Michigan football team. However, it lacks depth or insight into why this decision was made, what it means for the team, or how it might impact future games.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Kyle Whittingham has been hired as Michigan's next head football coach on a five-year contract, following his departure from Utah after 21 seasons. He replaces Sherrone Moore, who was recently fired. The hiring was confirmed by the university on Friday night.",
-    "is_trending": false,
-    "trending_score": 0.0
+    "summary": "Kyle Whittingham has been hired as Michigan's next head football coach, signing a five-year contract. He replaces Sherrone Moore, who was recently fired. Whittingham is expected to bring program-building strategies from his previous experience to the Wolverines.",
+    "is_trending": true,
+    "trending_score": 0.5
   },
   {
-    "title": "The Cure guitarist Perry Bamonte dies at age 65",
-    "domain": "general",
-    "source_domain": "lemonde.fr",
-    "location": "global",
-    "published": "Sat, 27 Dec 2025 01:31:24 +0100",
-    "source": "Le Monde",
+    "title": "Giannis Antetokounmpo may play for Bucks after calf injury",
+    "domain": "sports",
+    "source_domain": "cbssports.com",
+    "location": "national",
+    "published": "Sat, 27 Dec 2025 19:00:05 +0000",
+    "source": "CBS Sports",
     "sources": [
-      "Le Monde",
-      "Reuters",
-      "Associated Press",
-      "The Guardian",
-      "BBC"
+      "CBS Sports",
+      "Yahoo Sports",
+      "Sportsnet"
     ],
     "domains": [
-      "lemonde.fr",
-      "news.google.com",
-      "theguardian.com",
-      "bbc.com"
+      "cbssports.com",
+      "sports.yahoo.com",
+      "sportsnet.ca"
     ],
     "snippets": [
-      "Surnommé « Teddy », il avait intégré la formation menée par l’emblématique Robert Smith en 1990 jusqu’en 2005, puis avait fait son retour en 2022 pour une tournée mondiale. Il est mort « après une courte maladie à Noël », a annoncé le groupe britannique. Il avait 65 ans.",
-      "Perry Bamonte, keyboardist and guitarist for The Cure, dies at 65 Reuters",
-      "Perry Bamonte, guitarist and keyboardist for The Cure, dies at 65 AP News",
-      "Starting as a roadie and guitar tech, Bamonte joined the band in 1990 after its breakthrough album Disintegration Perry Bamonte, longtime guitarist and keyboard player for the Cure, has died aged 65. The musician, known affectionately as Teddy, passed away after a short illness over Christmas, the b",
-      "The band says the musician died \"after a short illness at home over Christmas\"."
+      "Antetokounmpo hasn't played since Dec. 3 due to a calf strain",
+      "Antetokounmpo hasn’t played since injuring his calf less than three minutes into the Bucks’ 113-109 victory over the Detroit Pistons on Dec. 3.",
+      "Milwaukee is set to get its superstar back. After missing eight games, Bucks power forward Giannis Antetokounmpo (calf) is expected to play Saturday night against the Chicago Bulls, ESPN’s Jamal Collier reported . Antetokounmpo went down with the injury early in a game on Dec. 3 against the Detroit Pistons. The Bucks won that game, but went 2-6 in their next eight contests without Antetokounmpo, most recently getting blown out by the Memphis Grizzlies 125-104 on Friday. Per the report, Antetokounmpo will make his return so long as he clears his pre-game routine without issue. The Bucks..."
     ],
-    "image_url": "https://img.lemde.fr/2025/12/26/194/0/3500/1750/644/322/60/0/7457031_ftp-1-vjvzr7r2xp2b-5754281-01-06.jpg",
+    "image_url": "https://sportshub.cbsistatic.com/i/2025/12/27/798a6168-976a-473d-84e4-95d6fe705a70/gettyimages-2248131246-2.jpg",
     "titles": [
-      "Perry Bamonte, guitariste et claviériste de The Cure, est mort",
-      "Perry Bamonte, keyboardist and guitarist for The Cure, dies at 65 - Reuters",
-      "Perry Bamonte, guitarist and keyboardist for The Cure, dies at 65 - AP News",
-      "Perry Bamonte, guitarist and keyboardist for the Cure, dies aged 65",
-      "The Cure guitarist Perry Bamonte dies aged 65"
+      "Giannis Antetokounmpo injury update: Bucks star expected to return vs. Bulls on Saturday, per report",
+      "Bucks list Antetokounmpo as questionable for Saturday’s game as he nears return from calf strain",
+      "Report: Bucks’ Giannis Antetokounmpo expected to return against Bulls"
     ],
-    "url": "https://www.lemonde.fr/disparitions/article/2025/12/27/perry-bamonte-guitariste-et-clavieriste-de-the-cure-est-mort-a-65-ans_6659522_3382.html",
+    "url": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-injury-update-bucks-trade-rumors/",
     "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2s0WmdzVzhzVFo3ZWtQRzZrR3hHaGtSS2NMYzJROFFmRVZ2aG9PR3J1UTVUVHVNZmFmNTg5VlQxZUJfRHI2NGloWTQ5NldiQTZuTHNycTBJbG11SVNYel8teGxSRC0tcURhMVJxbTlYTHFlUHh3TzJ1eC1xVzNOX010Wm1mdDFhTGlSZXEyOWZPRlJaZy11bVBVZzI3bnhUY053UE4xenByNVU?oc=5",
-      "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0FNTDJjT2dzWlpTME9PY1pvNWZLV2prRzJjbTJnZlhkdlVpREdReWUwc0NzeFVpaWtRZExscFdzcTBEdzFYa0xTTy12eEw4U2l5UHp5RzZfSzJJRTdvVmF4QkRQLVhpVVVoeTFodnoyRi1RbUkzd19rd2c0SDdfdThNVE0?oc=5",
-      "https://www.theguardian.com/music/2025/dec/26/perry-bamonte-guitarist-the-cure-dies",
-      "https://www.bbc.com/news/articles/c5yqnw9nwy9o?at_medium=RSS&at_campaign=rss"
+      "https://sports.yahoo.com/articles/bucks-list-antetokounmpo-questionable-saturday-195316726.html"
     ],
-    "location_scope": "global",
-    "link": "https://www.lemonde.fr/disparitions/article/2025/12/27/perry-bamonte-guitariste-et-clavieriste-de-the-cure-est-mort-a-65-ans_6659522_3382.html",
+    "location_scope": "national",
+    "link": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-injury-update-bucks-trade-rumors/",
     "score_components": {
-      "magnitude": 0.944,
-      "recency": 0.757,
-      "consensus": 0.975,
-      "constructiveness": 0.3,
+      "magnitude": 0.827,
+      "recency": 0.966,
+      "consensus": 0.789,
+      "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.785,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story provides basic awareness about the death of Perry Bamonte, but it does not provide any depth or insight into his life, contributions, or the impact of his death.",
+    "score": 0.796,
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "The story offers basic awareness about the status of a key player's injury. However, it doesn't provide deeper understanding or insight into the implications of this return for the team, or how the player's health might impact his performance.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Perry Bamonte, longtime guitarist and keyboardist for The Cure, died at age 65 after a short illness over Christmas, according to the band. Bamonte joined The Cure in 1990, left in 2005, and rejoined for a world tour in 2022. His death was announced by the band on December 27, 2025.",
+    "summary": "Giannis Antetokounmpo, Milwaukee Bucks power forward, has missed eight games since suffering a calf strain on December 3. After the Bucks went 2-6 in his absence, Antetokounmpo is expected to return and play against the Chicago Bulls on Saturday, pending a successful pre-game routine, according to ESPN.",
+    "is_trending": true,
+    "trending_score": 0.5
+  },
+  {
+    "title": "Edmonton Elks trade Nyles Morgan to Ottawa Redblacks",
+    "domain": "sports",
+    "source_domain": "globalnews.ca",
+    "location": "national",
+    "published": "Sat, 27 Dec 2025 18:19:37 +0000",
+    "source": "Global News",
+    "sources": [
+      "Global News",
+      "Sportsnet"
+    ],
+    "domains": [
+      "globalnews.ca",
+      "sportsnet.ca"
+    ],
+    "snippets": [
+      "The Edmonton Elks have sent American linebacker Nyles Morgan to the Ottawa Redblacks in exchange for a swap of picks in the 2026 CFL draft."
+    ],
+    "image_url": "https://globalnews.ca/wp-content/uploads/2025/12/5a4d52a4ba68279c2110fd0834481dad54aaf7d479013d38a0b28d8b85471807.jpg?quality=65&strip=all",
+    "titles": [
+      "Elks send Morgan to Redblack for pick swaps",
+      "Elks send American linebacker Nyles Morgan to Redblacks for swap of picks"
+    ],
+    "url": "https://globalnews.ca/news/11591836/elks-send-morgan-to-redblack-for-pick-swaps/",
+    "alternate_urls": [],
+    "location_scope": "national",
+    "link": "https://globalnews.ca/news/11591836/elks-send-morgan-to-redblack-for-pick-swaps/",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.948,
+      "consensus": 0.591,
+      "constructiveness": 0.3,
+      "proximity": 1.0
+    },
+    "score": 0.753,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story offers basic awareness about a player trade in football, but doesn't provide depth or insight into why the trade was made, how it affects the teams, or the potential impacts on the players' careers.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The Edmonton Elks have traded American linebacker Nyles Morgan to the Ottawa Redblacks. In return, the teams will exchange draft picks in the 2026 CFL draft. No additional players or assets were included in the deal.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "Houston Texans play Los Angeles Chargers in important football game",
+    "domain": "sports",
+    "source_domain": "sports.yahoo.com",
+    "location": "national",
+    "published": "Sat, 27 Dec 2025 19:43:00 +0000",
+    "source": "Yahoo Sports",
+    "sources": [
+      "Yahoo Sports",
+      "Sports Illustrated"
+    ],
+    "domains": [
+      "sports.yahoo.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "Get the best Texans vs. Chargers predictions ahead of Saturday's matchup at SoFi Stadium. Free NFL picks for December 27.",
+      "Texans vs. Chargers: Three Bold Predictions for Saturday’s AFC Matchup in L.A. Sports Illustrated"
+    ],
+    "image_url": "",
+    "titles": [
+      "Texans vs Chargers Predictions, Picks & Best Bets for NFL Week 17 Today",
+      "Texans vs. Chargers: Three Bold Predictions for Saturday’s AFC Matchup in L.A. - Sports Illustrated"
+    ],
+    "url": "https://sports.yahoo.com/articles/texans-vs-chargers-predictions-picks-201500732.html",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTk94NHZqaENYTHNDMGJyaExBeGtpa1VmRGJiaGdoWmFlTDI2TDNOTWFkQ2ZScF83N2lBcVhVNnFWNzhNR1dyR3hTWVUtTUM5UUNGaU9oUEloVl9xSEhZNDJzb0ppazNJTkNkWU1ocjlmU2RWVm1UTk9EUFVPNUJJOTlrUEpTZw?oc=5"
+    ],
+    "location_scope": "national",
+    "link": "https://sports.yahoo.com/articles/texans-vs-chargers-predictions-picks-201500732.html",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.985,
+      "consensus": 0.591,
+      "constructiveness": 0.6,
+      "proximity": 0.5
+    },
+    "score": 0.744,
+    "constructiveness_score": 0.6,
+    "constructiveness_reason": "While this story is about predictions and betting, it could provide useful insights for readers who are interested in these aspects of sports. However, without more context, it's hard to say whether it offers a deeper understanding of the game or the teams.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The Houston Texans will play the Los Angeles Chargers on Saturday, December 27, at SoFi Stadium in an AFC NFL matchup. Sports outlets are offering predictions and picks for the game, highlighting key players and potential outcomes. The game is drawing attention for its potential impact on the playoff race. No final result is available yet.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Ukraine and Russia disagree about how peace talks are going",
-    "domain": "politics",
+    "title": "Thailand and Cambodia agree to stop fighting at border",
+    "domain": "business",
     "source_domain": "aljazeera.com",
     "location": "global",
-    "published": "Fri, 26 Dec 2025 17:56:56 +0000",
+    "published": "Sat, 27 Dec 2025 04:14:11 +0000",
     "source": "Al Jazeera",
     "sources": [
       "Al Jazeera",
-      "Financial Times",
+      "BBC",
+      "Deutsche Welle",
+      "NPR",
+      "Reuters",
+      "Washington Post",
       "The Guardian",
-      "CBC News"
+      "New York Times",
+      "CBC News",
+      "Bloomberg"
     ],
     "domains": [
       "aljazeera.com",
-      "ft.com",
+      "bbc.com",
+      "dw.com",
+      "npr.org",
+      "news.google.com",
+      "washingtonpost.com",
       "theguardian.com",
+      "nytimes.com",
       "cbc.ca"
     ],
     "snippets": [
-      "Ukrainian president highlights 'significant progress' in talks, but Moscow says Kyiv is working to 'torpedo' deal.",
-      "Ukrainian leader says he expects to address the most sensitive parts of US peace plan, particularly security guarantees",
-      "Meeting on Sunday will follow flurry of US, Russian and Ukrainian talks, but Putin has shown little sign of softening Volodymyr Zelenskyy is to travel to the US for a planned meeting with Donald Trump on Sunday, as Washington continues to push for a possible peace deal between Kyiv and Moscow . The",
-      "Ukrainian President Volodymyr Zelenskyy says he'll meet with U.S. President Donald Trump in Florida on Sunday to discuss security guarantees and \"an economic agreement,\" the latest development in a U.S.-led diplomatic push to end the nearly four-year Ukraine-Russia war."
+      "Agreement follows talks aimed at ending weeks of deadly clashes along the Thailand-Cambodia border.",
+      "Almost one million people were displaced when hostilities resumed earlier this month after the first truce broke.",
+      "Tensions reignited between the two neighbors earlier this month, claiming dozens of lives.",
+      "In addition to ending fighting, the agreement calls for no further military movements by either side and no violations of either side's airspace for military purposes.",
+      "Thailand and Cambodia halt fierce border conflict with second ceasefire Reuters",
+      "The neighbors renewed a commitment to stop violent clashes along their border, after an October truce for which President Donald Trump claimed credit unraveled.",
+      "Two countries pledge in joint statement to halt all forms of attacks and further troop deployments in long-running dispute over contested territory Thailand and Cambodia have agreed to an “immediate” ceasefire, pledging to end weeks of deadly border clashes that have killed more than 100 people and",
+      "The 72-hour cease-fire could pave the way for an end to the fighting, which has killed dozens and displaced thousands over nearly three weeks.",
+      "Thailand and Cambodia on Saturday signed a ceasefire agreement to end weeks of armed combat along their border over competing claims to territory. It took effect at noon local time.",
+      "Thailand, Cambodia Declare Ceasefire After Weeks of Fighting Bloomberg.com"
     ],
     "image_url": "",
     "titles": [
-      "Zelenskyy to meet Trump in Florida amid diplomatic push to end war",
-      "Zelenskyy to meet Trump at Mar-a-Lago this weekend",
-      "Zelenskyy to travel to US for Trump meeting amid push for Ukraine  deal",
-      "Zelenskyy, Trump to meet in Florida on Sunday amid efforts to end Ukraine-Russia war"
+      "Thailand and Cambodia agree on ceasefire to end weeks of deadly fighting",
+      "Thailand-Cambodia ceasefire begins after weeks of deadly clashes",
+      "Thailand, Cambodia agree to 'immediate' ceasefire",
+      "Thailand and Cambodia sign new ceasefire agreement to end border fighting",
+      "Thailand and Cambodia halt fierce border conflict with second ceasefire - Reuters",
+      "Thailand, Cambodia sign new ceasefire deal after weeks of deadly clashes",
+      "Thailand and Cambodia agree ‘immediate’ ceasefire after weeks of deadly border clashes",
+      "Thailand and Cambodia Reach Cease-Fire in Brutal Border War",
+      "Thailand, Cambodia sign new ceasefire deal to end weeks of border fighting",
+      "Thailand, Cambodia Declare Ceasefire After Weeks of Fighting - Bloomberg.com"
     ],
-    "url": "https://www.aljazeera.com/news/2025/12/26/zelenskyy-to-meet-trump-in-florida-amid-diplomatic-push-to-end-war?traffic_source=rss",
+    "url": "https://www.aljazeera.com/news/2025/12/27/thailand-and-cambodia-agree-on-ceasefire-cambodia-defence-ministry-says?traffic_source=rss",
     "alternate_urls": [
-      "https://www.ft.com/content/45911654-f5c1-428c-8fec-75fd8acdd1f6",
-      "https://www.theguardian.com/world/2025/dec/26/zelenskyy-to-meet-trump-in-coming-days-as-us-steps-up-push-for-ukraine-peace-deal",
-      "https://www.cbc.ca/news/world/zelenskyy-trump-meeting-sunday-florida-9.7028266?cmp=rss"
+      "https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/thailand-cambodia-agree-to-immediate-ceasefire/a-75313070?maca=en-rss-en-top-1022-rdf",
+      "https://www.npr.org/2025/12/27/g-s1-103785/thailand-cambodia-new-ceasefire-agreement",
+      "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdThFVHZ3RFFoaTY1cWtoVUJjR0NOaS10TXgzelNJOER0dWNDSHZfQXdNcEJGS3RreXotUTRSS25sQUhKcmg3REs2S1d4NmZWaXJITmJwb3FlSmFaSExjeXA0NFRhQTBNb1dhd1kzUF9LMUZUb0lIeGlhTWRnaFU2ZGJPMGVmaERrd3RCdFo3b19mTmRZOEM3WE1BZ2Y1bGJycFVkWG5SWFBhaUtHby1KVVJ6RnAxN19HODlIM1FWM0U5VmxIa0daYQ?oc=5",
+      "https://www.washingtonpost.com/world/2025/12/27/thailand-cambodia-ceasefire-border-clashes/",
+      "https://www.theguardian.com/world/2025/dec/27/thailand-and-cambodia-agree-immediate-ceasefire-after-weeks-of-deadly-border-clashes",
+      "https://www.nytimes.com/2025/12/26/world/asia/thailand-cambodia-cease-fire-border-war.html",
+      "https://www.cbc.ca/news/world/thailand-cambodia-border-clashes-ceasefire-agreement-9.7028492?cmp=rss",
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1JRMkpEWktKN2QtQ2dzdm82ZDFPN0JUS1ltYk1EZFFidXpGVnhHdFYyeHFqQ2hhR3JiY3RsN203UjlfeExlMVlTT1hmcS1aS1U4YjJ1bktha1c0TW5ZX2wzM3JQY2dscnJVR1JVejBGX0Y5ckdtOUdEZW9Hb0Q2S3Vqdk45UE9JUjhTZjFjcU9fZVhDazBWQkQ2VEN5OFlPM2NwOEJsVDdsNnc4emN2Nw?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/26/zelenskyy-to-meet-trump-in-florida-amid-diplomatic-push-to-end-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2025/12/27/thailand-and-cambodia-agree-on-ceasefire-cambodia-defence-ministry-says?traffic_source=rss",
     "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.631,
-      "consensus": 0.908,
-      "constructiveness": 0.8,
-      "proximity": 0.5
-    },
-    "score": 0.774,
-    "constructiveness_score": 0.8,
-    "constructiveness_reason": "This story is constructive as it provides information about an upcoming diplomatic meeting, which could potentially lead to the resolution of a conflict. However, without more details on the specific strategies or proposals to be discussed, it doesn't fully empower the reader with knowledge of potential solutions.",
-    "constructiveness_source": "gpt",
-    "summary_source": "snippet",
-    "summary_reason": "invalid_roles",
-    "headline_source": "cache",
-    "summary": "Ukrainian president highlights 'significant progress' in talks, but Moscow says Kyiv is working to 'torpedo' deal.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Jordan Love will not play for Packers because of concussion",
-    "domain": "sports",
-    "source_domain": "espn.com",
-    "location": "national",
-    "published": "Fri, 26 Dec 2025 21:12:18 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Sportsnet",
-      "CBS Sports"
-    ],
-    "domains": [
-      "espn.com",
-      "sportsnet.ca",
-      "cbssports.com"
-    ],
-    "snippets": [
-      "Packers quarterback Jordan Love has been ruled out for Saturday's game against the Ravens as he continues to deal with a concussion. Malik Willis will start for Green Bay.",
-      "Green Bay Packers quarterback Jordan Love won’t play Saturday night against the Baltimore Ravens, a week after leaving a game with a concussion.",
-      "Malik Willis is expected to start in Love's absence"
-    ],
-    "image_url": "",
-    "titles": [
-      "Packers rule out Love, will start Willis vs. Ravens",
-      "Packers QB Jordan Love out vs. Ravens",
-      "Jordan Love injury update: Packers QB (concussion) ruled out for pivotal matchup vs. Ravens"
-    ],
-    "url": "https://www.espn.com/nfl/story/_/id/47420884/packers-qb-jordan-love-ruled-due-concussion",
-    "alternate_urls": [
-      "https://www.cbssports.com/nfl/news/jordan-love-injury-update-packers-qb-concussion/"
-    ],
-    "location_scope": "national",
-    "link": "https://www.espn.com/nfl/story/_/id/47420884/packers-qb-jordan-love-ruled-due-concussion",
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.794,
-      "consensus": 0.789,
-      "constructiveness": 0.5,
-      "proximity": 0.75
-    },
-    "score": 0.769,
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about a change in the starting lineup for a football game. While this might be of interest to fans, it does not provide deeper insights, report on progress or solutions, or increase understanding of wider trends or systems in the sport.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Green Bay Packers quarterback Jordan Love has been ruled out of Saturday's game against the Baltimore Ravens due to a concussion sustained last week. Malik Willis will start for the Packers in Love's absence.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Russian forces launch long airstrike on Kyiv before peace talks",
-    "domain": "business",
-    "source_domain": "nytimes.com",
-    "location": "global",
-    "published": "Sat, 27 Dec 2025 09:50:03 +0000",
-    "source": "New York Times",
-    "sources": [
-      "New York Times",
-      "Bloomberg",
-      "Financial Post"
-    ],
-    "domains": [
-      "nytimes.com",
-      "news.google.com",
-      "financialpost.com"
-    ],
-    "snippets": [
-      "The assault began around 1:30 a.m. local time on Saturday and continued for nearly 10 hours.",
-      "Kyiv Hit by Russian Barrage a Day Before Zelenskiy-Trump Meeting Bloomberg.com",
-      "Russian forces hit Ukraine’s capital with a massive airstrike on the eve of talks between Volodymyr Zelenskiy and Donald Trump aimed at nailing down a plan to end Moscow’s war."
-    ],
-    "image_url": "https://static01.nyt.com/images/2025/12/27/multimedia/27int-ukraine-attack-01-wpfq/27int-ukraine-attack-01-wpfq-mediumSquareAt3X.jpg",
-    "titles": [
-      "Russia Pummels Kyiv Before Trump-Zelensky Meeting",
-      "Kyiv Hit by Russian Barrage a Day Before Zelenskiy-Trump Meeting - Bloomberg.com",
-      "Russia Strikes Kyiv a Day Before Zelenskiy-Trump Meeting"
-    ],
-    "url": "https://www.nytimes.com/2025/12/27/world/europe/kyiv-ukraine-russia-trump-zelensky.html",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTBBUmF0S0Vub3h1UlhuMEpHRU9UanpQakdRV0Z2NzR6bVN6NVBOS2RIcWFDWnYtY2FTSVhEVUdkY0NiVHBmbXJxMlRiT19NV2FzTXN1TXFUSXBPOWZDVHdteGRSLXl1Nkgxdy13eDZ0bWhERUNUTXFEZGVWLTVBQnZiU0RUZzFJWVVzT0x0TlZUeUdFRlJvckZMTnZjckNRUGM5MkFaN2h2MkJOenA3bVk5QzV4dw?oc=5",
-      "https://financialpost.com/pmn/business-pmn/kyiv-hit-by-russian-barrage-a-day-before-zelenskiy-trump-meeting"
-    ],
-    "location_scope": "global",
-    "link": "https://www.nytimes.com/2025/12/27/world/europe/kyiv-ukraine-russia-trump-zelensky.html",
-    "score_components": {
-      "magnitude": 0.847,
-      "recency": 0.981,
-      "consensus": 0.789,
+      "magnitude": 1.0,
+      "recency": 0.641,
+      "consensus": 1.0,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.756,
+    "score": 0.742,
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "constructiveness_reason": "negative_penalty=0.08 (keywords: deadly); semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Russian forces launched a large-scale airstrike on Kyiv starting around 1:30 a.m. local time and lasting nearly 10 hours. The attack occurred one day before planned talks between Volodymyr Zelenskiy and Donald Trump to discuss ending the conflict with Moscow. The outcome of the airstrike and the talks is not yet reported.",
+    "summary": "Thailand and Cambodia have signed a ceasefire agreement to end weeks of deadly border clashes over disputed territory. The deal, effective immediately, halts all military attacks and troop movements and bans military use of airspace by either side. The fighting this month killed over 100 people and displaced nearly one million. Both countries pledged to prevent further violence and uphold the terms of the truce.",
     "is_trending": true,
-    "trending_score": 0.5
+    "trending_score": 0.75
+  },
+  {
+    "title": "Bus in Guatemala falls into ravine killing 15 people",
+    "domain": "general",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Sat, 27 Dec 2025 15:23:15 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Deutsche Welle",
+      "Reuters"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "dw.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "The bus, which was travelling between Guatemala City and San Marcos, crashed for unknown reasons, authorities say.",
+      "A passenger bus plunged into a ravine on the Inter-American Highway in western Guatemala, killing at least 15 people.",
+      "At least 15 dead, 19 injured in Guatemala bus accident Reuters"
+    ],
+    "image_url": "",
+    "titles": [
+      "At least 15 dead, 19 injured in Guatemala as bus plunges into ravine",
+      "Guatemala: At least 15 killed after bus plunges into ravine",
+      "At least 15 dead, 19 injured in Guatemala bus accident - Reuters"
+    ],
+    "url": "https://www.aljazeera.com/news/2025/12/27/at-least-15-dead-19-injured-in-guatemala-as-bus-plunges-into-ravine?traffic_source=rss",
+    "alternate_urls": [
+      "https://www.dw.com/en/guatemala-at-least-15-killed-after-bus-plunges-into-ravine/a-75316661?maca=en-rss-en-top-1022-rdf",
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWhHbFJZZndFaUlzZ3R4TUw5NlF3cWd3bzNvRzZUYWFER3d5WEF0cEVpelFOSE9lQ21MYkt1eEo2SlhjcFdwdEswUU5IU21fMmxNZ1g5cU1raDBpVlBzVXUtbkNDOWVRdDdBSk03WkVBVTgyZzdGWnJ0RGpkUzhjaUdCUzdRNmJ0OXBiUk5EYXRaZkRsczhSREFUSmM3ZVk?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.aljazeera.com/news/2025/12/27/at-least-15-dead-19-injured-in-guatemala-as-bus-plunges-into-ravine?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.827,
+      "recency": 0.873,
+      "consensus": 0.789,
+      "constructiveness": 0.2,
+      "proximity": 0.5
+    },
+    "score": 0.738,
+    "constructiveness_score": 0.2,
+    "constructiveness_reason": "This story reports on a tragic event but doesn't provide actionable insights or deeper understanding for the reader. It doesn't report on solutions, improvements, or attempts to prevent such accidents in the future.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "A passenger bus traveling between Guatemala City and San Marcos crashed into a ravine on the Inter-American Highway in western Guatemala. Authorities report that at least 15 people were killed and 19 others injured. The cause of the accident is currently unknown.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "Strong earthquake hits near Taiwan no major damage reported",
+    "domain": "business",
+    "source_domain": "aljazeera.com",
+    "location": "global",
+    "published": "Sat, 27 Dec 2025 17:50:28 +0000",
+    "source": "Al Jazeera",
+    "sources": [
+      "Al Jazeera",
+      "Reuters",
+      "Bloomberg"
+    ],
+    "domains": [
+      "aljazeera.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "The weather administration said damage from the quake should be limited because it was deep and hit offshore.",
+      "Taiwan rattled by 7.0 magnitude quake, no major damage reported Reuters",
+      "Taiwan Rattled by 7.0 Magnitude Earthquake, Weather Agency Says Bloomberg.com"
+    ],
+    "image_url": "",
+    "titles": [
+      "Taiwan rocked by magnitude 7.0 quake but no major damage reported",
+      "Taiwan rattled by 7.0 magnitude quake, no major damage reported - Reuters",
+      "Taiwan Rattled by 7.0 Magnitude Earthquake, Weather Agency Says - Bloomberg.com"
+    ],
+    "url": "https://www.aljazeera.com/news/2025/12/27/taiwan-rocked-by-7-0-magnitude-quake-but-no-major-damage-reported?traffic_source=rss",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUU9mWHh5emU0SDZLRHNDRDZPOXZsSk84NEFrVkp2amZLTm9oaXdLdzVjV0plMFdfYV9zd2Z5SUZhSWpOYUNLT1V1Nmhsd2h1VlJsTW5raF9lRXZVYm5wdDVhNkNTUERCZFNVVFhyczF5SllWX0Z1eFJHTkRiblVFRmYzZ3Q3TjdwX284bFI2VE9oLVo4cXlzNg?oc=5",
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajUteW1xZGwzbkZFUmgxX1lpaDhTdUxhWWszWjdFenEyZmdETEFuWkI4RWJPV0dzUTcxZm13SW44WGkzNjhYSVlHVjR3Y0Nsc0d1aExoZmhCVWFlMm93UHpXS01TZ1UzN1RESGFXUGh1Q0lZT2NnRFE3Rmk0WktSMjhVYm1MZUFoaE53WFN4ejFld1c4dVFUX3huMHdlcnlVc1hJSjlrOWJQRjk1TnNLSkYwMA?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.aljazeera.com/news/2025/12/27/taiwan-rocked-by-7-0-magnitude-quake-but-no-major-damage-reported?traffic_source=rss",
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.935,
+      "consensus": 0.769,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.738,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "A 7.0 magnitude earthquake struck offshore near Taiwan, according to the weather administration. The quake was deep and caused limited damage. No major damage or injuries have been reported. Authorities are monitoring the situation.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "Raiders say Maxx Crosby will miss game with knee injury",
+    "domain": "sports",
+    "source_domain": "espn.com",
+    "location": "national",
+    "published": "Sat, 27 Dec 2025 11:07:13 EST",
+    "source": "ESPN",
+    "sources": [
+      "ESPN",
+      "Sports Illustrated"
+    ],
+    "domains": [
+      "espn.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "The Raiders informed defensive end Maxx Crosby that he will sit out against the Giants because of a knee injury. After being told of the decision, Crosby left the team's facility.",
+      "Recent Maxx Crosby Quote Speaks Volumes As Raiders Star Leaves Team Facility Sports Illustrated"
+    ],
+    "image_url": "",
+    "titles": [
+      "Raiders shut down DE Crosby, who leaves facility",
+      "Recent Maxx Crosby Quote Speaks Volumes As Raiders Star Leaves Team Facility - Sports Illustrated"
+    ],
+    "url": "https://www.espn.com/nfl/story/_/id/47421136/raiders-sit-de-maxx-crosby-game-vs-giants-sources-say",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0I0SVMyYjBmOG96RVNsZUZ2NF9KOTh1WjZjY01mazNkbmRQNEtKZHk5VllHc0RPa2tPdEpiNjQyTm15WjZaZHFINWxDLURpTlFJaWZPMDBqUjZIalRaOHA1TnktU1ZRdDFQZHlZbkZZM2VEN3JHMXQ4RENVanBKZUNZTERwc2Q3Rlp4YUFWQ3Y0dnhsU19neC1Wcm8ydUI1?oc=5"
+    ],
+    "location_scope": "national",
+    "link": "https://www.espn.com/nfl/story/_/id/47421136/raiders-sit-de-maxx-crosby-game-vs-giants-sources-say",
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.891,
+      "consensus": 0.591,
+      "constructiveness": 0.3,
+      "proximity": 0.75
+    },
+    "score": 0.717,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story provides basic awareness of an event involving a player in the NFL, but offers no context or depth about why the player was shut down or what the implications might be for the team or the player.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "The Las Vegas Raiders have decided that defensive end Maxx Crosby will not play in their upcoming game against the Giants due to a knee injury. Following this decision, Crosby left the team's facility. The team has not provided further details on his status.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Jeffrey R Holland dies at age 85 from kidney disease",
+    "domain": "general",
+    "source_domain": "news.google.com",
+    "location": "national",
+    "published": "Sat, 27 Dec 2025 17:02:00 GMT",
+    "source": "Associated Press",
+    "sources": [
+      "Associated Press",
+      "CBC News"
+    ],
+    "domains": [
+      "news.google.com",
+      "cbc.ca"
+    ],
+    "snippets": [
+      "Jeffrey R. Holland, next in line to lead Church of Jesus Christ of Latter-day Saints, dies at 85 AP News",
+      "Holland died early Saturday morning from complications associated with kidney disease, the Church of Jesus Christ of Latter-day Saints announced on its website."
+    ],
+    "image_url": "",
+    "titles": [
+      "Jeffrey R. Holland, next in line to lead Church of Jesus Christ of Latter-day Saints, dies at 85 - AP News",
+      "Jeffrey R. Holland, next in line to lead Church of Jesus Christ of Latter-day Saints, dead at 85"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWV9mMm5PRWJfRTlxd2p4a2J2RjdNeFQ3OTZnMjhLTTQ0QUFYNHpMUG16UEVuWnlDTUtMLTJTV3lUUzhhRWY4X3JlTkNSQnlCd19RTEdzclZSZzd3aHhtTGh3MTFXaGhDVVRUWWNQR0RNcnEtdnlLSTFGYzY4cXpZZFVGb284MWl4VlJtbF9EQU45dw?oc=5",
+    "alternate_urls": [
+      "https://www.cbc.ca/news/world/jeffrey-r-holland-obit-mormon-church-jesus-christ-latter-day-saints-9.7028616?cmp=rss"
+    ],
+    "location_scope": "national",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWV9mMm5PRWJfRTlxd2p4a2J2RjdNeFQ3OTZnMjhLTTQ0QUFYNHpMUG16UEVuWnlDTUtMLTJTV3lUUzhhRWY4X3JlTkNSQnlCd19RTEdzclZSZzd3aHhtTGh3MTFXaGhDVVRUWWNQR0RNcnEtdnlLSTFGYzY4cXpZZFVGb284MWl4VlJtbF9EQU45dw?oc=5",
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.914,
+      "consensus": 0.591,
+      "constructiveness": 0.3,
+      "proximity": 0.5
+    },
+    "score": 0.699,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "This story offers basic awareness about the death of a significant religious figure, but does not provide any deeper insights or context about his life, contributions, or what this means for the future of the Church of Jesus Christ of Latter-day Saints.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Jeffrey R. Holland, who was next in line to lead the Church of Jesus Christ of Latter-day Saints, died on Saturday at age 85 due to complications from kidney disease, according to an official church announcement.",
+    "is_trending": false,
+    "trending_score": 0.25
+  },
+  {
+    "title": "California ends lawsuit over high speed rail project funding",
+    "domain": "business",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Sat, 27 Dec 2025 17:45:18 GMT",
+    "source": "Reuters",
+    "sources": [
+      "Reuters",
+      "Fortune"
+    ],
+    "domains": [
+      "news.google.com",
+      "fortune.com"
+    ],
+    "snippets": [
+      "California drops lawsuit over Trump decision to pull $4 billion in high-speed rail funds Reuters",
+      "“Moving forward without the Trump administration’s involvement allows the Authority to pursue proven global best practices used successfully by modern high-speed rail systems around the world.\""
+    ],
+    "image_url": "",
+    "titles": [
+      "California drops lawsuit over Trump decision to pull $4 billion in high-speed rail funds - Reuters",
+      "California drops lawsuit to reinstate federal bullet train funding as high-speed rail authority seeks private investors"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGVXOFVQMzRNbFFBX3RNZW01clh3bEhNYm9mWG1HeDVKRFU4VkZVTjRpdVpSWnhrUl8yNE5QSUplM2t2N25SMTA5UDI1T1k3X2tvRUlWUDVfSDBHcm5GNFBoR19wM1NDQUtoYk5oNHdrMFQ4NTBreERrS2F6bEM4LVRSdFcwT3VWNWlULUFZdWJhOUFfNGRlTlNyRGsyZkIyTEFEb1BFakxhbE04LS0wU1U3bzRqYkpYSFdTYlBpWQ?oc=5",
+    "alternate_urls": [
+      "https://fortune.com/2025/12/27/california-high-speed-rail-authority-lawsuit-federal-funding-bullet-train-private-investors/"
+    ],
+    "location_scope": "global",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGVXOFVQMzRNbFFBX3RNZW01clh3bEhNYm9mWG1HeDVKRFU4VkZVTjRpdVpSWnhrUl8yNE5QSUplM2t2N25SMTA5UDI1T1k3X2tvRUlWUDVfSDBHcm5GNFBoR19wM1NDQUtoYk5oNHdrMFQ4NTBreERrS2F6bEM4LVRSdFcwT3VWNWlULUFZdWJhOUFfNGRlTlNyRGsyZkIyTEFEb1BFakxhbE04LS0wU1U3bzRqYkpYSFdTYlBpWQ?oc=5",
+    "score_components": {
+      "magnitude": 0.795,
+      "recency": 0.933,
+      "consensus": 0.591,
+      "constructiveness": 0.022,
+      "proximity": 0.5
+    },
+    "score": 0.689,
+    "constructiveness_score": 0.022,
+    "constructiveness_reason": "negative_penalty=0.08 (keywords: lawsuit); semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "California has dropped its lawsuit challenging the Trump administration's decision to withdraw $4 billion in federal funding for the state's high-speed rail project. State officials said ending the legal dispute allows the project to adopt international best practices and continue development without federal involvement.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "US and Ukraine work on plan to end war in Ukraine",
+    "domain": "business",
+    "source_domain": "washingtonpost.com",
+    "location": "global",
+    "published": "Sat, 27 Dec 2025 08:44:24 +0000",
+    "source": "Washington Post",
+    "sources": [
+      "Washington Post",
+      "New York Times",
+      "Bloomberg"
+    ],
+    "domains": [
+      "washingtonpost.com",
+      "nytimes.com",
+      "news.google.com"
+    ],
+    "snippets": [
+      "The Sunday meeting suggests that Washington and Kyiv are closing in on a joint position to end the war. Russia, however, will probably reject the plan.",
+      "President Volodymyr Zelensky of Ukraine has sought the meeting since the latest U.S.-led push for peace got underway.",
+      "Zelenskiy, Trump Set to Meet as Russia Questions Peace Plan Bloomberg.com"
+    ],
+    "image_url": "",
+    "titles": [
+      "Zelensky says he will meet Trump soon, citing progress in peace plan",
+      "Zelensky Will Meet With Trump Over the Weekend to Discuss Ukraine Peace Plan",
+      "Zelenskiy, Trump Set to Meet as Russia Questions Peace Plan - Bloomberg.com"
+    ],
+    "url": "https://www.washingtonpost.com/world/2025/12/26/ukraine-russia-trump-peace-plan/",
+    "alternate_urls": [
+      "https://www.nytimes.com/2025/12/26/world/europe/zelensky-trump-ukraine-russia.html",
+      "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa29mVHZfQ05WOEFTU1VHQ0dzRlVjYXhqSHA1U09JZVBiQjZRYlY3b3c2b3FBUzA2Tjl3X2ZFYjY4RkVWRGhJeUx5YTBuZU1RWi1fOWkxams2OXJudUQzSXhhdWdWU3NBaGtYa1ctUVdHRVctS0xfaHBFWWNIRXZQSm5WR2xJTEo5V045cDBCUlNNQ2NNbVpCbXFyNS1KX1RrN3dDSWtjcWM3Zlhh?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://www.washingtonpost.com/world/2025/12/26/ukraine-russia-trump-peace-plan/",
+    "score_components": {
+      "magnitude": 0.847,
+      "recency": 0.726,
+      "consensus": 0.789,
+      "constructiveness": 0.08,
+      "proximity": 0.5
+    },
+    "score": 0.688,
+    "constructiveness_score": 0.08,
+    "constructiveness_reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "snippet",
+    "summary_reason": "invalid_roles",
+    "headline_source": "cache",
+    "summary": "The Sunday meeting suggests that Washington and Kyiv are closing in on a joint position to end the war. Russia, however, will probably reject the plan.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Annette Dionne last Dionne Quintuplet dies at age 91",
+    "domain": "general",
+    "source_domain": "nytimes.com",
+    "location": "global",
+    "published": "Sat, 27 Dec 2025 16:14:38 +0000",
+    "source": "New York Times",
+    "sources": [
+      "New York Times",
+      "Global News"
+    ],
+    "domains": [
+      "nytimes.com",
+      "globalnews.ca"
+    ],
+    "snippets": [
+      "She was the first to crawl, the first to cut a tooth, the first to recognize her name, and the last to die. And, like her sisters, she resented being exploited as part of a global sensation.",
+      "Annette Dionne, the last of the famous 'Dionne Quintuplets,' died Wednesday of complications due to Alzheimer's disease in a suburb of Montreal. She was 91."
+    ],
+    "image_url": "https://static01.nyt.com/images/2025/12/28/multimedia/26dionne-01-bftz-print6/26dionne-01-bftz-mediumSquareAt3X.jpg",
+    "titles": [
+      "Annette Dionne, Last of the Celebrated Quintuplets, Dies at 91",
+      "Annette Dionne, last of the famous Dionne Quintuplets, dies at 91"
+    ],
+    "url": "https://www.nytimes.com/2025/12/26/world/canada/annette-dionne-dead.html",
+    "alternate_urls": [
+      "https://globalnews.ca/news/11591637/annette-dionne-last-of-the-famous-set-of-quintuplets-dies-at-91/"
+    ],
+    "location_scope": "global",
+    "link": "https://www.nytimes.com/2025/12/26/world/canada/annette-dionne-dead.html",
+    "score_components": {
+      "magnitude": 0.735,
+      "recency": 0.894,
+      "consensus": 0.591,
+      "constructiveness": 0.3,
+      "proximity": 0.5
+    },
+    "score": 0.687,
+    "constructiveness_score": 0.3,
+    "constructiveness_reason": "The story provides basic awareness about the death of a historically significant figure, but lacks depth or insight into her life, the significance of the Dionne quintuplets, or the impact of her death.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "Annette Dionne, the last surviving member of the Dionne Quintuplets, died on Wednesday at age 91 in a Montreal suburb due to complications from Alzheimer's disease. The Dionne Quintuplets became internationally known after their birth, but later spoke out against their exploitation.",
+    "is_trending": false,
+    "trending_score": 0.0
   },
   {
     "title": "Judge cancels trial and sets hearing on fairness of case",
@@ -453,135 +945,67 @@
     "link": "https://www.npr.org/2025/12/27/g-s1-103790/judge-hearing-kilmar-abrego-garcia",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.931,
+      "recency": 0.711,
       "consensus": 0.591,
       "constructiveness": 0.6,
       "proximity": 0.75
     },
-    "score": 0.753,
+    "score": 0.687,
     "constructiveness_score": 0.6,
     "constructiveness_reason": "This story provides useful information about a specific legal case and raises questions about the fairness of the prosecution. However, it does not provide enough context or analysis to fully inform the reader about the broader issues at play.",
     "constructiveness_source": "gpt",
-    "summary_source": "gpt",
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "A federal judge has canceled the trial of Kilmar Abrego Garcia and scheduled a hearing to determine if the prosecution is acting vindictively in pursuing a human smuggling case against him. The hearing will address claims of prosecutorial misconduct. No new trial date has been set.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Man kills two in Israel attack Israel responds with military action",
+    "title": "Glasgow hospital says sorry after wrong body is cremated",
     "domain": "general",
-    "source_domain": "dw.com",
+    "source_domain": "bbc.com",
     "location": "global",
-    "published": "2025-12-26T18:56:00Z",
-    "source": "Deutsche Welle",
+    "published": "Sat, 27 Dec 2025 11:55:38 GMT",
+    "source": "BBC",
     "sources": [
-      "Deutsche Welle",
-      "Associated Press",
-      "The Guardian",
-      "CBC News"
-    ],
-    "domains": [
-      "dw.com",
-      "news.google.com",
-      "theguardian.com",
-      "cbc.ca"
-    ],
-    "snippets": [
-      "Israel has launched a milltary operation in the alleged attacker’s West Bank hometown following a deadly series of assaults in northern Israel.",
-      "A Palestinian man kills 2 in car-ramming and stabbing attack in northern Israel and injures 2 others AP News",
-      "Defence minister instructs military to respond with force in West Bank, where he said attacker was from A Palestinian motorist ran over a man and stabbed a woman in northern Israel, killing both, Israeli emergency services say. The assailant, from the occupied West Bank, was shot and wounded by a ci",
-      "A Palestinian attacker rammed his car into a man and then stabbed a young woman in northern Israel Friday, killing both, police said, as the Israeli defense minister quickly ordered military retaliation on what he said was the attacker's West Bank hometown."
-    ],
-    "image_url": "",
-    "titles": [
-      "Israel: Palestinian held over deadly car‑ramming, stabbing",
-      "A Palestinian man kills 2 in car-ramming and stabbing attack in northern Israel and injures 2 others - AP News",
-      "Two killed in stabbing and suspected car-ramming in northern Israel",
-      "2 killed in car-ramming and stabbing attack in Israel"
-    ],
-    "url": "https://www.dw.com/en/israel-palestinian-held-over-deadly-car‑ramming-stabbing/a-75312084?maca=en-rss-en-top-1022-rdf",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRGxKbExpNWpiOTVoOWVUMm1zYnc0NHBUTHR1Ti1iQ3FfQ0hHbVNZZkRxV1JRWnpCbUlTQzdORjJ5OVFpVEk5SGgwSzdadGJ0MDV2aTQtQmJyTGFTUE1iWVJ1c3VWQ0VvX0IzTDJ1cUpFcFEzQkdWVGhSR1RwWmVtSnJaT3BkRlNwRkhHcGh1SUlXMktYS3U4SUpZMjZjZExVM3o3QzAzZ3hKUHZudE94Y0E3MDFJeFE?oc=5",
-      "https://www.theguardian.com/world/2025/dec/26/palestinian-man-kills-two-in-northern-israel-car-ramming-and-stabbing-attack-police-say",
-      "https://www.cbc.ca/news/world/2-killed-in-car-ramming-stabbing-attack-in-northern-israel-9.7028280?cmp=rss"
-    ],
-    "location_scope": "global",
-    "link": "https://www.dw.com/en/israel-palestinian-held-over-deadly-car‑ramming-stabbing/a-75312084?maca=en-rss-en-top-1022-rdf",
-    "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.648,
-      "consensus": 0.908,
-      "constructiveness": 0.5,
-      "proximity": 0.5
-    },
-    "score": 0.75,
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "While the story informs about a specific incident, it does not provide any broader context or insight into the underlying issues or potential solutions. It also does not empower the reader with actionable insights.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "A Palestinian man from the West Bank carried out a car-ramming and stabbing attack in northern Israel on December 26, 2025, killing two people and injuring two others. The attacker was shot and wounded at the scene. In response, Israel launched a military operation in the attacker's hometown in the West Bank, following orders from the defense minister.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Israel becomes first country to recognize Somaliland as independent",
-    "domain": "general",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Fri, 26 Dec 2025 14:20:23 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Deutsche Welle",
-      "Reuters",
+      "BBC",
       "The Guardian"
     ],
     "domains": [
-      "aljazeera.com",
-      "dw.com",
-      "news.google.com",
+      "bbc.com",
       "theguardian.com"
     ],
     "snippets": [
-      "Breakaway region of Somalia achieves diplomatic breakthrough after more than 30 years without international recognition.",
-      "Israel has become the world's first country to recognize Somaliland, which proclaimed independence from Somalia in 1991, as a sovereign nation.",
-      "Israel becomes first country to formally recognise Somaliland as independent state Reuters",
-      "Diplomatic breakthrough criticised by African Union, which said it could have ‘far-reaching implications for peace and stability across the continent’ Israel has become the first country to recognise Somaliland as a sovereign state, a breakthrough in its quest for international recognition since it"
+      "The Queen Elizabeth University Hospital in Glasgow has apologised and launched an investigation.",
+      "NHS Greater Glasgow and Clyde apologises after error meant one family had no remains at a funeral An investigation has been launched by a Glasgow hospital after an error led to the wrong body being cremated. The mistaken release of the body by the hospital to the undertakers was only discovered afte"
     ],
-    "image_url": "",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d87b/live/52a43aa0-e30d-11f0-be9e-b7b747e28a10.jpg",
     "titles": [
-      "Israel becomes first country to recognise Somaliland",
-      "Israel becomes first nation to recognize Somaliland",
-      "Israel becomes first country to formally recognise Somaliland as independent state - Reuters",
-      "Israel becomes first country to recognise Somaliland as sovereign state"
+      "Family cremates wrong body after hospital mistake",
+      "Glasgow hospital launches inquiry after wrong body cremated"
     ],
-    "url": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss",
+    "url": "https://www.bbc.com/news/articles/ce8q9y8z958o?at_medium=RSS&at_campaign=rss",
     "alternate_urls": [
-      "https://www.dw.com/en/israel-becomes-first-nation-to-recognize-somaliland/a-75311342?maca=en-rss-en-top-1022-rdf",
-      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXZnRVVrc0xuV0ZfOFBhdUx6RE9Ia2U1dGlvOXdlY1R0YWs1NXpXdDVNRXplRDRFX1NEdUZoSHlLdHJFSS1XTzItSjZEbVYwOWtQOHRMVUNVZkthaGsySGQxVGx3TnVua01IeVpxV2FRSmNtV19WRmhXSHYxZ2FIeGFxeENkQnZJNTYzZkpTb0M3TGtldVNmZnFvZk5aaG9WUk54dFJDSDVlbmpHajRabGNrU0JudlhpNUtfRjViSDN0UUU?oc=5",
-      "https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state"
+      "https://www.theguardian.com/uk-news/2025/dec/27/glasgow-hospital-launches-inquiry-after-wrong-body-cremated"
     ],
     "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss",
+    "link": "https://www.bbc.com/news/articles/ce8q9y8z958o?at_medium=RSS&at_campaign=rss",
     "score_components": {
-      "magnitude": 0.912,
-      "recency": 0.571,
-      "consensus": 0.908,
-      "constructiveness": 0.7,
+      "magnitude": 0.735,
+      "recency": 0.793,
+      "consensus": 0.591,
+      "constructiveness": 0.5,
       "proximity": 0.5
     },
-    "score": 0.746,
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story provides useful information about international relations and geopolitics, contributing to readers' understanding of global dynamics. However, without more context or analysis about the implications of this recognition, it falls short of offering empowering knowledge or clear progress.",
+    "score": 0.677,
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story raises awareness about a serious mistake made by a hospital, which could potentially lead to discussions or actions to prevent such errors in the future. However, without more information about the specifics of the mistake, the systems in place, or proposed solutions, it offers minimal depth or insight.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Israel has officially recognized Somaliland as an independent state, making it the first country to do so since Somaliland declared independence from Somalia in 1991. The African Union has criticized the move, warning it could have significant implications for peace and stability in Africa. This marks a major diplomatic milestone for Somaliland after more than 30 years without international recognition.",
+    "summary": "The Queen Elizabeth University Hospital in Glasgow has apologised after an error led to the wrong body being released and cremated, resulting in one family having no remains at a funeral. NHS Greater Glasgow and Clyde has launched an investigation into the incident.",
     "is_trending": false,
     "trending_score": 0.0
   },
@@ -617,263 +1041,67 @@
     "link": "https://www.aljazeera.com/news/2025/12/27/uk-youth-to-be-offered-military-gap-year-in-bid-to-boost-defence-report?traffic_source=rss",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.889,
+      "recency": 0.679,
       "consensus": 0.591,
       "constructiveness": 0.7,
       "proximity": 0.5
     },
-    "score": 0.725,
+    "score": 0.662,
     "constructiveness_score": 0.7,
     "constructiveness_reason": "This story informs readers about a new initiative to boost defence, which could be useful for young people considering their options. However, it does not provide much information about the potential impacts or effectiveness of this initiative.",
     "constructiveness_source": "gpt",
-    "summary_source": "gpt",
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "The UK government has announced a plan to offer paid 12-month military experience programs to people under 25, aiming to increase armed forces personnel in response to rising Russian threats. The scheme is set to expand to include 1,000 participants annually.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Luke Littler had eye surgery as a young child",
-    "domain": "sports",
-    "source_domain": "bbc.com",
+    "title": "Lukoil gas station owners in New Jersey worry about sanctions",
+    "domain": "business",
+    "source_domain": "news.google.com",
     "location": "global",
-    "published": "Sat, 27 Dec 2025 07:33:22 GMT",
-    "source": "BBC",
+    "published": "Sat, 27 Dec 2025 15:00:00 GMT",
+    "source": "Bloomberg",
     "sources": [
-      "BBC",
-      "Sky Sports"
+      "Bloomberg",
+      "Financial Post"
     ],
     "domains": [
-      "bbc.com",
-      "skysports.com"
+      "news.google.com",
+      "financialpost.com"
     ],
     "snippets": [
-      "World champion Luke Littler reveals he had surgery when he was \"four or five\" to correct strabismus - a condition where the eyes do not align.",
-      "Luke Littler has revealed his life could have taken a different path had he not had corrective eye surgery when he was a child."
+      "US Lukoil Gas Station Owners Left in Limbo Over Russia Sanctions Bloomberg.com",
+      "On a recent sunny afternoon in New Jersey, dozens of gas station franchise owners filed into a Holiday Inn conference room to discuss some big geopolitical developments."
     ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d16/live/469382f0-e2f6-11f0-a3d6-c14447ce8e3a.jpg",
+    "image_url": "",
     "titles": [
-      "I had eye surgery as a child - Littler",
-      "Littler reveals corrective eye surgery in childhood"
+      "US Lukoil Gas Station Owners Left in Limbo Over Russia Sanctions - Bloomberg.com",
+      "US Lukoil Gas Station Owners Left in Limbo Over Russia Sanctions"
     ],
-    "url": "https://www.bbc.com/sport/darts/articles/c04vwp1eyrwo?at_medium=RSS&at_campaign=rss",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXgwV1p4V3FPdG00WFNWTFpITVRfeWZGMEo1Z0xTem0xck9RUFBPQUxFZUQxWWZoVEoyblNJT3RzUDJST1pVQ0xpVFdLTW5Za2JlcXZ6YnJWNW9fLWZ1dkl1ZFRmLUU2TnpWd0tqOXVubXRhNjBkMk9FMlpfcVFQOFVxbU1BSW1oc1cyNnRoc1FVOHFIU3BWWFpEZERwY09wbmVaOUl0cUNrQS1nUU85MVN4VDBaUQ?oc=5",
     "alternate_urls": [
-      "https://www.skysports.com/darts/news/12040/13487645/luke-littler-darts-sensation-reveals-corrective-eye-surgery-in-childhood-im-thankful-parents-got-it-sorted"
+      "https://financialpost.com/pmn/business-pmn/us-lukoil-gas-station-owners-left-in-limbo-over-russia-sanctions"
     ],
     "location_scope": "global",
-    "link": "https://www.bbc.com/sport/darts/articles/c04vwp1eyrwo?at_medium=RSS&at_campaign=rss",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXgwV1p4V3FPdG00WFNWTFpITVRfeWZGMEo1Z0xTem0xck9RUFBPQUxFZUQxWWZoVEoyblNJT3RzUDJST1pVQ0xpVFdLTW5Za2JlcXZ6YnJWNW9fLWZ1dkl1ZFRmLUU2TnpWd0tqOXVubXRhNjBkMk9FMlpfcVFQOFVxbU1BSW1oc1cyNnRoc1FVOHFIU3BWWFpEZERwY09wbmVaOUl0cUNrQS1nUU85MVN4VDBaUQ?oc=5",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.921,
+      "recency": 0.864,
       "consensus": 0.591,
-      "constructiveness": 0.5,
+      "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.715,
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story might offer some awareness about the experience of having eye surgery as a child, depending on the details. However, without more information, it's hard to assess its usefulness or whether it reports on any progress or solutions.",
-    "constructiveness_source": "gpt",
+    "score": 0.648,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "World champion Luke Littler has revealed he underwent surgery for strabismus, a condition causing misaligned eyes, when he was four or five years old. He stated that the corrective procedure was significant for his life and career.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Alaa Abd el Fattah arrives in London after travel ban ends",
-    "domain": "general",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Fri, 26 Dec 2025 21:07:06 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "The Guardian",
-      "BBC"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "theguardian.com",
-      "bbc.com"
-    ],
-    "snippets": [
-      "UK PM calls arrival of blogger and Egyptian government critic, who spent nearly 12 years in prison, 'profound relief'.",
-      "Family say campaigner, who has a son in Brighton, will be able to travel freely between UK and Cairo months after his release from Egyptian jail The British-Egyptian dissident Alaa Abd el-Fattah has arrived in London after the Egyptian government lifted a travel ban that it had imposed on him despit",
-      "For Alaa Abdel Fattah and his family this is a new beginning after years of separation and suffering."
-    ],
-    "image_url": "",
-    "titles": [
-      "Keir Starmer says Egyptian-British activist Alaa Abd El-Fattah back in UK",
-      "British-Egyptian activist Alaa Abd el-Fattah arrives in UK after travel ban lifted",
-      "British-Egyptian activist arrives in UK after travel ban lifted"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/26/keir-starmer-says-egyptian-british-activist-alaa-abd-el-fattah-back-in-uk?traffic_source=rss",
-    "alternate_urls": [
-      "https://www.theguardian.com/world/2025/dec/26/british-egyptian-activist-alaa-abd-el-fattah-arrives-in-uk-after-travel-ban-lifted",
-      "https://www.bbc.com/news/articles/c1m8441ngjgo?at_medium=RSS&at_campaign=rss"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/26/keir-starmer-says-egyptian-british-activist-alaa-abd-el-fattah-back-in-uk?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.689,
-      "consensus": 0.789,
-      "constructiveness": 0.5,
-      "proximity": 0.5
-    },
-    "score": 0.713,
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about the situation of the activist Alaa Abd El-Fattah, but it lacks depth or insight into the broader implications of his return to the UK, the reasons behind his activism, or the context of his situation.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "British-Egyptian activist and blogger Alaa Abd el-Fattah has arrived in London after the Egyptian government lifted a travel ban that followed his nearly 12-year imprisonment. His family states he will now be able to travel freely between the UK and Cairo. The UK Prime Minister described his arrival as a \"profound relief.\"",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Ben Stokes says Melbourne cricket pitch was not fair",
-    "domain": "sports",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Sat, 27 Dec 2025 09:38:38 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "Yahoo Sports"
-    ],
-    "domains": [
-      "bbc.com",
-      "sports.yahoo.com"
-    ],
-    "snippets": [
-      "Captain Ben Stokes says there would be \"hell on\" if the Melbourne pitch upon which his England team beat Australia inside two days had been produced in another part of the world."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1782/live/cd26f770-e305-11f0-a8dc-93c15fe68710.jpg",
-    "titles": [
-      "'MCG pitch would get hell if produced elsewhere'"
-    ],
-    "url": "https://www.bbc.com/sport/cricket/articles/cdxw1y79rnpo?at_medium=RSS&at_campaign=rss",
-    "alternate_urls": [
-      "https://sports.yahoo.com/articles/mcg-pitch-hell-produced-elsewhere-094712693.html"
-    ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/sport/cricket/articles/cdxw1y79rnpo?at_medium=RSS&at_campaign=rss",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.976,
-      "consensus": 0.591,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.712,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story seems to raise awareness about the potential bias or double standards in the evaluation of cricket pitches. However, without more information, it's hard to assess its depth or the actionable insights it might offer.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Captain Ben Stokes criticized the Melbourne cricket pitch after England's two-day win over Australia, suggesting there would be significant controversy if a similar pitch were used elsewhere. Stokes implied that the conditions were unusually poor and questioned the fairness of the playing surface.",
-    "is_trending": false,
-    "trending_score": 0.25
-  },
-  {
-    "title": "Anthony Davis will miss games after small injury",
-    "domain": "politics",
-    "source_domain": "espn.com",
-    "location": "national",
-    "published": "Fri, 26 Dec 2025 21:12:18 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Sportsnet"
-    ],
-    "domains": [
-      "espn.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "Mavericks star Anthony Davis has sustained a minor groin strain and is likely to miss a few games, sources told ESPN's Shams Charania.",
-      "Another day, another Anthony Davis injury. The Dallas Mavericks star sustained a minor groin strain on Christmas Day and is expected to miss a few games, sources told ESPN’s Shams Charania."
-    ],
-    "image_url": "",
-    "titles": [
-      "Sources: AD to miss a few games with groin strain",
-      "Report: Mavericks’ Anthony Davis to miss a few games with minor groin strain"
-    ],
-    "url": "https://www.espn.com/nba/story/_/id/47419813/mavs-davis-minor-groin-strain-games",
-    "alternate_urls": [],
-    "location_scope": "national",
-    "link": "https://www.espn.com/nba/story/_/id/47419813/mavs-davis-minor-groin-strain-games",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.794,
-      "consensus": 0.591,
-      "constructiveness": 0.5,
-      "proximity": 0.75
-    },
-    "score": 0.708,
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "While this story provides basic awareness about a player's injury status, it doesn't offer much depth or insight beyond that. There's no discussion of the potential impact on the team's performance, strategies for compensating for the player's absence, or broader trends in sports injuries.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Dallas Mavericks star Anthony Davis sustained a minor groin strain on December 25 and is expected to miss a few games, according to ESPN’s Shams Charania.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Zelenskiy says Belarus helps Russia and plans to meet Trump",
-    "domain": "general",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Sat, 27 Dec 2025 03:30:20 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Reuters"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Ukrainian leader accuses Belarus of helping Russian forces to circumvent defences that protect Ukraine from attack.",
-      "Zelenskiy says Russia using Belarus territory to circumvent Ukrainian defences Reuters",
-      "Zelenskiy says he will meet Trump on Sunday to discuss Ukraine territory, guarantees Reuters"
-    ],
-    "image_url": "",
-    "titles": [
-      "Russia using Belarus territory to bypass Ukraine’s defences, says Zelenskyy",
-      "Zelenskiy says Russia using Belarus territory to circumvent Ukrainian defences - Reuters",
-      "Zelenskiy says he will meet Trump on Sunday to discuss Ukraine territory, guarantees - Reuters"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/27/russia-using-belarus-territory-to-bypass-ukraines-defences-says?traffic_source=rss",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZWQ1c3lvWldWSGZBSE1GY3hwVlc3ZjM3dVU3dzA1c2pzMDlYNy1SaU4zRG92OG1zR2tQMTdreGNMNFE2V3g1NGdxQ2RuQi05WmdtVktoakh2QXJDS0RxRHpaX3QtSGpKa09LOTFzQWpzNTZ2emdiUjREWTJPX2l0WVYyRV9OaHhhd3FobWstUmh4am5SbVQ5eTNJcWZsdUg0SW4yVkVPaFVuNUNUc2FMNHBpNjFqTjl3bVhwc1lCNGlvSzhxcXdneUt6bmk1YTBIQ0NfNg?oc=5",
-      "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVZvNzhndnQ3bTBmZHlVUXVaa2tUcTF5QVFfNGppZ3prdjdzNTJ5cV9wUHl6QkJpeVRfWUJPVXlYT1MyczZjS0JMbDRHa2Y2cldBS19lUXRGLTUzRjFSTmpMUzJtNDlnbnZ6a3hXWlhwRXFRVDc0VFU4TGpZYzVkYnQ2bjVKTGR6YjRPbGViTXBwRnZ4bW5rQU9tMWZGUWFFU3JtTjdIejdzSEVTUjJOLTFUcFdpRDFlbEFYTlVjMEVyUU1H?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/27/russia-using-belarus-territory-to-bypass-ukraines-defences-says?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.823,
-      "consensus": 0.591,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.708,
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story provides useful information about the geopolitical situation between Russia, Belarus, and Ukraine. However, it lacks depth and does not provide much insight into the potential implications or solutions to this issue.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Ukrainian leader Volodymyr Zelenskiy has accused Belarus of assisting Russian forces in bypassing Ukraine's defensive positions by allowing Russian use of Belarusian territory. Zelenskiy also announced plans to meet with Donald Trump on Sunday to discuss issues related to Ukrainian territory and security guarantees.",
+    "summary": "Dozens of Lukoil gas station franchise owners in New Jersey met to address the impact of US sanctions on Russia. The sanctions have left these business owners uncertain about their operations and future. They are seeking guidance on how to navigate the restrictions and maintain their businesses amid ongoing geopolitical tensions.",
     "is_trending": false,
     "trending_score": 0.0
   },
@@ -909,422 +1137,31 @@
     "link": "https://www.dw.com/en/argentina-congress-passes-first-budget-under-milei/a-75313059?maca=en-rss-en-top-1022-rdf",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.852,
+      "recency": 0.65,
       "consensus": 0.591,
       "constructiveness": 0.6,
       "proximity": 0.5
     },
-    "score": 0.704,
+    "score": 0.644,
     "constructiveness_score": 0.6,
     "constructiveness_reason": "The story informs about a significant event in Argentina's politics and economy, which can be useful for readers interested in these topics. However, without further details about the budget's contents, its impacts, or reactions to it, the story doesn't provide a deep understanding or actionable insights.",
     "constructiveness_source": "gpt",
-    "summary_source": "gpt",
+    "summary_source": "cache",
     "summary_reason": "",
-    "headline_source": "gpt",
+    "headline_source": "cache",
     "summary": "Argentina's Congress has approved the 2026 budget, marking the first budget passed under libertarian leader Javier Milei. The budget includes continued austerity measures, which have led to public protests. Milei has maintained his commitment to these controversial policies despite opposition.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Winter storm causes over 1000 flights to be canceled in US",
+    "title": "Perry Bamonte guitarist for The Cure dies at age 65",
     "domain": "general",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Sat, 27 Dec 2025 02:31:37 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Reuters"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "More than 40 million Americans under winter storm warnings or weather advisories as heavy snow expected.",
-      "US airlines cancel over 1,000 flights due to winter storm Devin Reuters"
-    ],
-    "image_url": "",
-    "titles": [
-      "Over 1,500 flights cancelled as winter storm Devin hits US holiday travel",
-      "US airlines cancel over 1,000 flights due to winter storm Devin - Reuters"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/27/over-1500-flights-cancelled-as-winter-storm-devin-hits-us-holiday-travel?traffic_source=rss",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDNtck5RQ09IOFNlUDNGclNCVTRUR2dZbm12V3hNWUtBcjBfM3VaSGZlUDNuUEl1eDBtTFdwNmZzc2JUSHVkaGRHcFp6aVRfRzBVUnJBem9tOGNoa3FROWgxMGxPWEx4c29HZDBiS1BxS3lkUTBHR1VGNkh5RXZuSnhKUGZTb3dqM3ZLbEhpYVJzMG5naDFHUzNZbkRZT1dHRXd2OHZhM0t3bDA?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/27/over-1500-flights-cancelled-as-winter-storm-devin-hits-us-holiday-travel?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.801,
-      "consensus": 0.591,
-      "constructiveness": 0.6,
-      "proximity": 0.5
-    },
-    "score": 0.689,
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "This story is constructive as it provides useful information about flight cancellations due to a winter storm, which can help readers make decisions about their travel plans. However, it does not report on solutions or improvements, nor does it provide deep insights into the causes or impacts of the situation.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Over 40 million Americans are under winter storm warnings or advisories as heavy snow is forecast. The severe weather has led US airlines to cancel more than 1,000 flights nationwide. Authorities are urging caution as the storm, named Devin, continues to impact travel and daily activities.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "England wins first Ashes Test in Australia since 2011",
-    "domain": "sports",
-    "source_domain": "bbc.com",
-    "location": "global",
-    "published": "Sat, 27 Dec 2025 06:45:18 GMT",
-    "source": "BBC",
-    "sources": [
-      "BBC",
-      "Sky Sports"
-    ],
-    "domains": [
-      "bbc.com",
-      "skysports.com"
-    ],
-    "snippets": [
-      "England beat Australia by four wickets in a remarkable two-day match in Melbourne to claim their first Ashes Test win down under since 2011.",
-      "England end an 18-match winless streak in Australia and avoid an Ashes clean sweep with a four wicket victory to wrap up a frenetic two-day Test in Melbourne.",
-      "England avoided any danger of an Ashes whitewash after ending an 18-Test and 15-year winless streak in Australia with a two-day victory in a remarkable match at Melbourne to cut their hosts' lead to 3-1 with one game to go."
-    ],
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea63/live/e990da00-e2f3-11f0-aae2-2191c0e48a3b.jpg",
-    "titles": [
-      "England win staggering two-day Test in Melbourne",
-      "England claim chaotic two-day Test victory in Melbourne",
-      "England win first Test in Australia in 15 years after thrilling two-dayer at MCG"
-    ],
-    "url": "https://www.bbc.com/sport/cricket/articles/c1m84mppgmko?at_medium=RSS&at_campaign=rss",
-    "alternate_urls": [
-      "https://www.bbc.com/sport/cricket/videos/c7732xy1v01o?at_medium=RSS&at_campaign=rss",
-      "https://www.skysports.com/cricket/news/12040/13487677/the-ashes-england-win-first-test-in-australia-since-2011-and-end-danger-of-whitewash-after-two-day-victory-at-mcg"
-    ],
-    "location_scope": "global",
-    "link": "https://www.bbc.com/sport/cricket/articles/c1m84mppgmko?at_medium=RSS&at_campaign=rss",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.901,
-      "consensus": 0.591,
-      "constructiveness": 0.3,
-      "proximity": 0.5
-    },
-    "score": 0.689,
-    "constructiveness_score": 0.3,
-    "constructiveness_reason": "This story reports on a sports event, which might be interesting to fans but doesn't seem to offer much in terms of actionable insights, progress, or deeper understanding of broader issues.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "England defeated Australia by four wickets in a two-day Test match in Melbourne, securing their first Ashes Test win in Australia since 2011. This victory ends England's 18-match winless streak in Australia and prevents an Ashes clean sweep. Australia now leads the series 3-1, with one match remaining.",
-    "is_trending": false,
-    "trending_score": 0.25
-  },
-  {
-    "title": "Toronto Maple Leafs hire Steve Sullivan as assistant coach",
-    "domain": "sports",
-    "source_domain": "globalnews.ca",
-    "location": "national",
-    "published": "Fri, 26 Dec 2025 19:21:02 +0000",
-    "source": "Global News",
-    "sources": [
-      "Global News",
-      "Sportsnet"
-    ],
-    "domains": [
-      "globalnews.ca",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "The Toronto Maple Leafs have hired Steve Sullivan as an assistant coach, the team announced Friday.",
-      "The former NHL forward has been named assistant coach of the Toronto Maple Leafs, the team announced Friday."
-    ],
-    "image_url": "https://globalnews.ca/wp-content/uploads/2025/12/4c815d7173e76a191c4a1be238fa0f56789ab67b78b70cf38344aa966748b105.jpg?quality=65&strip=all",
-    "titles": [
-      "Maple Leafs hire Steve Sullivan as assistant coach",
-      "Maple Leafs add Steve Sullivan as assistant coach"
-    ],
-    "url": "https://globalnews.ca/news/11591403/maple-leafs-hire-steve-sullivan-as-assistant-coach/",
-    "alternate_urls": [],
-    "location_scope": "national",
-    "link": "https://globalnews.ca/news/11591403/maple-leafs-hire-steve-sullivan-as-assistant-coach/",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.656,
-      "consensus": 0.591,
-      "constructiveness": 0.5,
-      "proximity": 1.0
-    },
-    "score": 0.685,
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "This story provides basic awareness about a staffing change in a hockey team. While it may be of interest to fans of the team, it does not provide deeper insights or actionable information for a broader audience.",
-    "constructiveness_source": "gpt",
-    "summary_source": "cache",
-    "summary_reason": "",
-    "headline_source": "cache",
-    "summary": "The Toronto Maple Leafs have officially hired Steve Sullivan as an assistant coach, as announced on December 26, 2025. Sullivan, a former NHL forward, brings extensive experience to the coaching staff. His appointment is part of the team's efforts to enhance their performance in the upcoming season. The Maple Leafs aim to build on their recent successes and strengthen their roster with this new addition to the coaching team.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "China puts sanctions on US defense companies after Taiwan arms sale",
-    "domain": "business",
     "source_domain": "news.google.com",
     "location": "global",
-    "published": "Fri, 26 Dec 2025 22:53:33 GMT",
+    "published": "Fri, 26 Dec 2025 22:51:35 GMT",
     "source": "Reuters",
     "sources": [
       "Reuters",
-      "The Guardian",
-      "Bloomberg"
-    ],
-    "domains": [
-      "news.google.com",
-      "theguardian.com"
-    ],
-    "snippets": [
-      "China hits US defence firms with sanctions over arms sales to Taiwan Reuters",
-      "$10bn Trump-approved sale to Taipei triggers Beijing sanctions against firms such as Boeing and Northrop Grumman China’s foreign ministry has hit US defence companies including Boeing with sanctions after Donald Trump approved a large package of arms sales to Taiwan. The ministry said on Friday that",
-      "China Slaps Symbolic Sanctions on US Firms Over Taiwan Arms Sale Bloomberg.com"
-    ],
-    "image_url": "",
-    "titles": [
-      "China hits US defence firms with sanctions over arms sales to Taiwan - Reuters",
-      "China imposes sanctions on US defence firms over Taiwan arms deal",
-      "China Slaps Symbolic Sanctions on US Firms Over Taiwan Arms Sale - Bloomberg.com"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1F2bGF6VlRLWS16dUpRNzEtRVl6RzJTMFlBRk0taEFFbXZyQkhSd3YzRWtBUk9Bb0o2MW42anpVVlFMWThCTWo3LWxIeHBTN1lqWmZHUlZBV05zc1NvRHVtdnRBMzF3VmZPZ3NuWVhKWlRlb2lQWFFqdi1TUURjZi1lUW5LYVFNb1owTTFhcDd1Y250NmtzUGc4V0o0aU9wRUd6cWtBMm81Nm1rV0M0bS1GY3RsR1RNcXlQUGM1aDNRZnRhVG1PZF9R?oc=5",
-    "alternate_urls": [
-      "https://www.theguardian.com/world/2025/dec/26/china-imposes-sanctions-on-us-defence-firms-over-taiwan-arms-deal",
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNEVkN1ZGcldyRkhxTjA2NDF6OW9DU3BfSE9EVjJ1M25vYUlnTWd2OHM5SUJDU1gyVVRrSDR4cHByN2pPd21Id1hHUzFwejZ6eEMyNDU5SDcyM0FQN3h3dmk4MFpNMFZMcEZlQmFxTUVRd0xNbTBGRkRnRlBhZVJsNU9PVENraGJBTjBKTXBzcE9Sb0JULVlpeTN2S0ZHa3Z4RnluTzFMQXJ4UFBuSkYzSDVDTmduUQ?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1F2bGF6VlRLWS16dUpRNzEtRVl6RzJTMFlBRk0taEFFbXZyQkhSd3YzRWtBUk9Bb0o2MW42anpVVlFMWThCTWo3LWxIeHBTN1lqWmZHUlZBV05zc1NvRHVtdnRBMzF3VmZPZ3NuWVhKWlRlb2lQWFFqdi1TUURjZi1lUW5LYVFNb1owTTFhcDd1Y250NmtzUGc4V0o0aU9wRUd6cWtBMm81Nm1rV0M0bS1GY3RsR1RNcXlQUGM1aDNRZnRhVG1PZF9R?oc=5",
-    "score_components": {
-      "magnitude": 0.867,
-      "recency": 0.724,
-      "consensus": 0.769,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.681,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "China has imposed sanctions on US defense companies, including Boeing and Northrop Grumman, in response to a $10 billion arms sale to Taiwan approved by Donald Trump. China's foreign ministry announced the measures, which are described as largely symbolic, following the approval of the arms package.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Former Brazil police chief caught in Paraguay with fake passport",
-    "domain": "business",
-    "source_domain": "aljazeera.com",
-    "location": "global",
-    "published": "Sat, 27 Dec 2025 07:08:00 +0000",
-    "source": "Al Jazeera",
-    "sources": [
-      "Al Jazeera",
-      "Bloomberg"
-    ],
-    "domains": [
-      "aljazeera.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Ex-Brazilian police chief caught using fake Paraguay passport in attempt to board flight to Panama, sent back to Brazil.",
-      "Bolsonaro Ally Convicted in Coup Plot Is Arrested in Paraguay Bloomberg.com"
-    ],
-    "image_url": "",
-    "titles": [
-      "Key Bolsonaro ally arrested in Paraguay while trying to flee to El Salvador",
-      "Bolsonaro Ally Convicted in Coup Plot Is Arrested in Paraguay - Bloomberg.com"
-    ],
-    "url": "https://www.aljazeera.com/news/2025/12/27/key-bolsonaro-ally-arrested-in-paraguay-while-trying-to-flee-to-el-salvador?traffic_source=rss",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFB5RlBXQlQyREEweHp3SVZYRkJva1lMMEdyNEhaZ2tqV2xxM04tdUYxY0U3WHBVRDFIM1ZYcVNMQWdSSDBZWFl6LTZLRmhsMlN6RWFMM2NFaDFEQXpjXzVnSE9TMW05UkRXY256ODZNSzZIVTBHX3lsdTVNUDNCOUtMUkxwbmstN1EzTTBNN0ctdkVwdm9rY25JMnczcm9CckRQVkxDMjhTSWs5cjNBajZn?oc=5"
-    ],
-    "location_scope": "global",
-    "link": "https://www.aljazeera.com/news/2025/12/27/key-bolsonaro-ally-arrested-in-paraguay-while-trying-to-flee-to-el-salvador?traffic_source=rss",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.91,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.662,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "A former Brazilian police chief, identified as an ally of Jair Bolsonaro and previously convicted in a coup plot, was arrested in Paraguay while attempting to board a flight to Panama using a fake Paraguayan passport. The individual was deported back to Brazil following the arrest.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Lakers player Austin Reaves out for a month with injury",
-    "domain": "sports",
-    "source_domain": "espn.com",
-    "location": "national",
-    "published": "Fri, 26 Dec 2025 21:12:18 EST",
-    "source": "ESPN",
-    "sources": [
-      "ESPN",
-      "Sportsnet"
-    ],
-    "domains": [
-      "espn.com",
-      "sportsnet.ca"
-    ],
-    "snippets": [
-      "Los Angeles Lakers guard Austin Reaves is expected to miss at least a month because of a calf strain, the team announced Friday.",
-      "The Los Angeles Lakers will be without Austin Reaves for the foreseeable future."
-    ],
-    "image_url": "",
-    "titles": [
-      "Lakers' Reaves (calf strain) out at least 1 month",
-      "Lakers’ Austin Reaves to miss at least four weeks due to calf strain"
-    ],
-    "url": "https://www.espn.com/nba/story/_/id/47422711/lakers-austin-reaves-sidelined-least-4-weeks-due-left-calf-strain",
-    "alternate_urls": [],
-    "location_scope": "national",
-    "link": "https://www.espn.com/nba/story/_/id/47422711/lakers-austin-reaves-sidelined-least-4-weeks-due-left-calf-strain",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.794,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.75
-    },
-    "score": 0.658,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Los Angeles Lakers guard Austin Reaves will be sidelined for at least a month due to a calf strain, the team announced on Friday. The injury leaves the Lakers without Reaves for the foreseeable future as he recovers.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "United States and Nigeria launch airstrikes on Islamic State targets",
-    "domain": "politics",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Fri, 26 Dec 2025 20:16:00 GMT",
-    "source": "Associated Press",
-    "sources": [
-      "Associated Press",
-      "Fortune"
-    ],
-    "domains": [
-      "news.google.com",
-      "fortune.com"
-    ],
-    "snippets": [
-      "US launches strikes against Islamic State group in Nigeria after attacks target Christians AP News",
-      "A Defense Department official said the U.S. worked with Nigeria to carry out the strikes and that they'd been approved by Abuja."
-    ],
-    "image_url": "",
-    "titles": [
-      "US launches strikes against Islamic State group in Nigeria after attacks target Christians - AP News",
-      "U.S. launches strikes against Islamic State group in Nigeria after attacks target Christians"
-    ],
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWjlmMDhLUk9hMXJjb1pjM3V4X0FDMkRvZE0yNHdnYWVmTUFlclVOblFIOHhlcHdITkFxYkhvZDhzU19VWGE1WHNFdF84T2ZEQzNVcTdDUWtzcmlBT3NYT0FDd2FMQkJfMW5SVWd5a2ltREV3bHFPZFdFeHM5eHJ2TlluLXMtVWhFU29lM21TX3M?oc=5",
-    "alternate_urls": [
-      "https://fortune.com/2025/12/26/us-military-strikes-islamic-state-group-nigeria-attacks-christians/"
-    ],
-    "location_scope": "national",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWjlmMDhLUk9hMXJjb1pjM3V4X0FDMkRvZE0yNHdnYWVmTUFlclVOblFIOHhlcHdITkFxYkhvZDhzU19VWGE1WHNFdF84T2ZEQzNVcTdDUWtzcmlBT3NYT0FDd2FMQkJfMW5SVWd5a2ltREV3bHFPZFdFeHM5eHJ2TlluLXMtVWhFU29lM21TX3M?oc=5",
-    "score_components": {
-      "magnitude": 0.775,
-      "recency": 0.673,
-      "consensus": 0.591,
-      "constructiveness": 0.5,
-      "proximity": 0.5
-    },
-    "score": 0.653,
-    "constructiveness_score": 0.5,
-    "constructiveness_reason": "The story provides basic awareness about a current military action and its context. However, it lacks depth and insight into the broader implications, potential solutions, or the situation's background.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "The United States, in coordination with the Nigerian government, launched airstrikes against Islamic State group targets in Nigeria following recent attacks on Christians. A Defense Department official confirmed that the strikes were approved by Nigerian authorities. The operation aims to counter the Islamic State's activities in the region.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Bomb at mosque in Syria kills eight people and hurts others",
-    "domain": "business",
-    "source_domain": "ft.com",
-    "location": "global",
-    "published": "Fri, 26 Dec 2025 18:58:47 GMT",
-    "source": "Financial Times",
-    "sources": [
-      "Financial Times",
-      "Associated Press",
-      "CBC News"
-    ],
-    "domains": [
-      "ft.com",
-      "news.google.com",
-      "cbc.ca"
-    ],
-    "snippets": [
-      "Explosion occurred during Friday prayers at Imam Ali bin Abi Talib mosque in Homs",
-      "Mosque bombing in Syria leaves 8 dead and 18 wounded AP News",
-      "A bombing at a mosque located in the Syrian city of Homs during Friday prayers killed at least eight people and wounded 18 others, authorities said."
-    ],
-    "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9835d601-8913-4e86-a30b-4601a1cfa580.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-    "titles": [
-      "Mosque bombing in Alawite district in Syria leaves at least 8 dead",
-      "Mosque bombing in Syria leaves 8 dead and 18 wounded - AP News",
-      "8 dead, 18 wounded in Syria mosque bombing"
-    ],
-    "url": "https://www.ft.com/content/9a9539e6-97f5-426d-be95-0e589eaab6c6",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX292QVp0amludEdoa0c4TkZEWmliVGlsRDI1TjJHUW9STURkaG5fbVdnU2VaamRrVW1PWlQtRnVDLXVhR2xmbXd2RG1HQWdQNHM4dVRJY29UVXRWYzZMdGpIcXkwWEhtNGRJempUdmdmeDNaYW04NXpWRmlLa3k4Vjh6UnRXbTg2ZDRST3ZQMkJCVzRFMVBLX1hR?oc=5",
-      "https://www.cbc.ca/news/world/mosque-bombing-syria-9.7028268?cmp=rss"
-    ],
-    "location_scope": "global",
-    "link": "https://www.ft.com/content/9a9539e6-97f5-426d-be95-0e589eaab6c6",
-    "score_components": {
-      "magnitude": 0.827,
-      "recency": 0.649,
-      "consensus": 0.789,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.651,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "negative_penalty=0.08 (keywords: dead); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "A bombing at the Imam Ali bin Abi Talib mosque in Homs, Syria, during Friday prayers on December 26, 2025, killed at least eight people and wounded 18, according to authorities. No group has claimed responsibility for the attack. Local officials are investigating the incident.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Najib Razak gets 15 more years in jail for corruption",
-    "domain": "politics",
-    "source_domain": "news.google.com",
-    "location": "national",
-    "published": "Fri, 26 Dec 2025 17:51:00 GMT",
-    "source": "Associated Press",
-    "sources": [
       "Associated Press",
       "The Guardian"
     ],
@@ -1333,324 +1170,275 @@
       "theguardian.com"
     ],
     "snippets": [
-      "Former Malaysian leader Najib Razak sentenced to 15 years and hefty fine in 1MDB corruption trial AP News",
-      "New conviction over plunder of state fund substantially increases six-year term in separate case The jailed former Malaysian prime minister Najib Razak has been sentenced to an additional 15 years after he was found guilty of abuse of power, in the biggest trial yet in the multibillion-dollar fraud"
+      "Perry Bamonte, keyboardist and guitarist for The Cure, dies at 65 Reuters",
+      "Perry Bamonte, guitarist and keyboardist for The Cure, dies at 65 AP News",
+      "Starting as a roadie and guitar tech, Bamonte joined the band in 1990 after its breakthrough album Disintegration Perry Bamonte, longtime guitarist and keyboard player for the Cure, has died aged 65. The musician, known affectionately as Teddy, passed away after a short illness over Christmas, the b"
     ],
     "image_url": "",
     "titles": [
-      "Former Malaysian leader Najib Razak sentenced to 15 years and hefty fine in 1MDB corruption trial - AP News",
-      "Former Malaysian PM Najib Razak jailed for 15 more years in 1MDB graft scandal"
+      "Perry Bamonte, keyboardist and guitarist for The Cure, dies at 65 - Reuters",
+      "Perry Bamonte, guitarist and keyboardist for The Cure, dies at 65 - AP News",
+      "Perry Bamonte, guitarist and keyboardist for the Cure, dies aged 65"
     ],
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1ZyR05pRi1DMFdaRnN1OHIwWUJUNjY0d053SEtRU1duX2ZYZWRuaXlPVVU2MlB4cjQyOHFXV0djdlJRV2drLVFYNXNDb3N0dzhJVlB0UldsMXFOcmU2MURZc2ZkS2lPZVZqMVRLYkthS3lRUGNubUk1NnJzMG1VZEhJVUNpa2FsaXZ6cXY3LTJ2aXJWZmtfTnlnWk5UZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2s0WmdzVzhzVFo3ZWtQRzZrR3hHaGtSS2NMYzJROFFmRVZ2aG9PR3J1UTVUVHVNZmFmNTg5VlQxZUJfRHI2NGloWTQ5NldiQTZuTHNycTBJbG11SVNYel8teGxSRC0tcURhMVJxbTlYTHFlUHh3TzJ1eC1xVzNOX010Wm1mdDFhTGlSZXEyOWZPRlJaZy11bVBVZzI3bnhUY053UE4xenByNVU?oc=5",
     "alternate_urls": [
-      "https://www.theguardian.com/world/2025/dec/26/former-malaysian-pm-najib-razak-found-guilty-of-abuse-of-power-in-latest-1mdb-trial"
-    ],
-    "location_scope": "national",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1ZyR05pRi1DMFdaRnN1OHIwWUJUNjY0d053SEtRU1duX2ZYZWRuaXlPVVU2MlB4cjQyOHFXV0djdlJRV2drLVFYNXNDb3N0dzhJVlB0UldsMXFOcmU2MURZc2ZkS2lPZVZqMVRLYkthS3lRUGNubUk1NnJzMG1VZEhJVUNpa2FsaXZ6cXY3LTJ2aXJWZmtfTnlnWk5UZw?oc=5",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.629,
-      "consensus": 0.591,
-      "constructiveness": 0.7,
-      "proximity": 0.5
-    },
-    "score": 0.647,
-    "constructiveness_score": 0.7,
-    "constructiveness_reason": "This story informs about the outcome of a high-profile corruption trial, contributing to the reader's understanding of accountability in Malaysia's political system. However, without more details about the trial, the corruption case, or its impacts, the story doesn't fully empower the reader.",
-    "constructiveness_source": "gpt",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Former Malaysian prime minister Najib Razak has been sentenced to an additional 15 years in prison and a large fine after being found guilty of abuse of power in a major 1MDB corruption trial. This new conviction significantly increases his previous six-year sentence from a separate case involving the state fund. Najib remains jailed following these rulings.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Najib Razak gets 15 more years in jail for 1MDB case",
-    "domain": "politics",
-    "source_domain": "dw.com",
-    "location": "global",
-    "published": "2025-12-26T13:41:00Z",
-    "source": "Deutsche Welle",
-    "sources": [
-      "Deutsche Welle",
-      "Reuters"
-    ],
-    "domains": [
-      "dw.com",
-      "news.google.com"
-    ],
-    "snippets": [
-      "Former prime minister Najib Razak had already been convicted for graft and money laundering linked to the 1MDB investment fund. The latest verdict, however, is likely to rock Malaysia's ruling coalition to the core.",
-      "Malaysia's ex-PM Najib ordered to serve 15 years in jail in 1MDB case Reuters",
-      "Malaysia ex-PM Najib Razak jailed for 15 more years in 1MDB saga's biggest trial Reuters"
-    ],
-    "image_url": "",
-    "titles": [
-      "Malaysia: Ex-PM Najib sentenced to 15 years on new charges",
-      "Malaysia's ex-PM Najib ordered to serve 15 years in jail in 1MDB case - Reuters",
-      "Malaysia ex-PM Najib Razak jailed for 15 more years in 1MDB saga's biggest trial - Reuters"
-    ],
-    "url": "https://www.dw.com/en/malaysia-ex-pm-najib-sentenced-to-15-years-on-new-charges/a-75307547?maca=en-rss-en-top-1022-rdf",
-    "alternate_urls": [
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGtMbFg5eGhTSGEzUlExRThaSWhUUUtCcXFYUXVhSUhwcElCTmo1dEN2UTNqZlFXelY4LVpvX1A4YzhFS29UbDlITGg3d2RnSUNtbnZvUVp6SHI5OG8yUkdWb2UwRHMyclVRZXdRelBxME1taEZac1F3ZEV6d0FwSDM1QVNiT0tpV3NQdmk5WG1ZLVZRX1gxam9lUWlxaEhuQXJSb0lOVHVEYVBhRHZUTndlb0E?oc=5",
-      "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUMwWUtUQmFUYU5DdDRBd2d1R0RwdDFHY0VCc3JfazVXMjloMXNEcVRBX0FWNXB4Rm1hQ2c2WFUzb3BOeFBOaHlhQkxHaGo4UFRKeVpwZndLY1Q3OWVNeHZtMVJyVkEwY1BVXzAtX29QZWh3cjVYRTJJZ205TkJxRFIzdk5vOHRiS2ZEZ2ppWG9wLV9qN2R0QzBHT2lsX0JGckJRX3ljMXBJZktVTE1ETGU3MDM3ek52ZEFTRkNoS3B5VDNFQ3g2ZnRR?oc=5"
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0FNTDJjT2dzWlpTME9PY1pvNWZLV2prRzJjbTJnZlhkdlVpREdReWUwc0NzeFVpaWtRZExscFdzcTBEdzFYa0xTTy12eEw4U2l5UHp5RzZfSzJJRTdvVmF4QkRQLVhpVVVoeTFodnoyRi1RbUkzd19rd2c0SDdfdThNVE0?oc=5",
+      "https://www.theguardian.com/music/2025/dec/26/perry-bamonte-guitarist-the-cure-dies"
     ],
     "location_scope": "global",
-    "link": "https://www.dw.com/en/malaysia-ex-pm-najib-sentenced-to-15-years-on-new-charges/a-75307547?maca=en-rss-en-top-1022-rdf",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2s0WmdzVzhzVFo3ZWtQRzZrR3hHaGtSS2NMYzJROFFmRVZ2aG9PR3J1UTVUVHVNZmFmNTg5VlQxZUJfRHI2NGloWTQ5NldiQTZuTHNycTBJbG11SVNYel8teGxSRC0tcURhMVJxbTlYTHFlUHh3TzJ1eC1xVzNOX010Wm1mdDFhTGlSZXEyOWZPRlJaZy11bVBVZzI3bnhUY053UE4xenByNVU?oc=5",
     "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.56,
-      "consensus": 0.591,
-      "constructiveness": 0.6,
+      "magnitude": 0.827,
+      "recency": 0.552,
+      "consensus": 0.769,
+      "constructiveness": 0.2,
       "proximity": 0.5
     },
-    "score": 0.617,
-    "constructiveness_score": 0.6,
-    "constructiveness_reason": "The story informs about the sentencing of a former Prime Minister, which provides useful information about the country's political and judicial system. However, it does not offer solutions or insights into the broader implications.",
+    "score": 0.638,
+    "constructiveness_score": 0.2,
+    "constructiveness_reason": "This story is not constructive as it only reports on a death without providing any deeper understanding or actionable insights. It does not report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts.",
     "constructiveness_source": "gpt",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "Former Malaysian prime minister Najib Razak has been sentenced to 15 additional years in jail for his role in the 1MDB corruption case. Najib had already been convicted of graft and money laundering linked to the 1MDB investment fund. The latest verdict marks the largest trial in the 1MDB saga and is expected to significantly impact Malaysia's ruling coalition.",
+    "summary": "Perry Bamonte, longtime guitarist and keyboardist for The Cure, has died at age 65 after a short illness over Christmas. Bamonte joined the band in 1990, having previously worked as a roadie and guitar technician. His death was confirmed by multiple news sources.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Airlines drop change fees as winter storm delays flights",
-    "domain": "business",
-    "source_domain": "cnbc.com",
-    "location": "national",
-    "published": "Fri, 26 Dec 2025 22:18:59 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC",
-      "Business Insider"
-    ],
-    "domains": [
-      "cnbc.com",
-      "businessinsider.com"
-    ],
-    "snippets": [
-      "Airlines waived change fees ahead of a large winter storm and low temperatures after the busy Christmas holiday.",
-      "As a snow storm heads toward the New York City area, airlines are delaying and canceling thousands of flights."
-    ],
-    "image_url": "",
-    "titles": [
-      "Airlines cancel more than 1,500 flights ahead of winter storm. Here's what to know",
-      "Airlines are canceling flights ahead of a winter storm. Here's what to do if your flight is delayed or canceled."
-    ],
-    "url": "https://www.cnbc.com/2025/12/26/winter-storm-flight-cancellations.html",
-    "alternate_urls": [
-      "https://www.businessinsider.com/flights-delayed-canceled-travel-plans-what-to-do"
-    ],
-    "location_scope": "national",
-    "link": "https://www.cnbc.com/2025/12/26/winter-storm-flight-cancellations.html",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.712,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.608,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Airlines have waived change fees as a major winter storm brings snow and low temperatures to the New York City area following the Christmas holiday. Thousands of flights have been delayed or canceled due to the weather conditions. Travelers are advised to check with airlines for updates.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Investors move money out of funds as big tech stocks rise",
+    "title": "China shares new rules for talking robots and asks for feedback",
     "domain": "business",
     "source_domain": "news.google.com",
     "location": "global",
-    "published": "Fri, 26 Dec 2025 21:18:51 GMT",
-    "source": "Bloomberg",
+    "published": "Sat, 27 Dec 2025 09:43:34 GMT",
+    "source": "Reuters",
     "sources": [
-      "Bloomberg",
+      "Reuters",
+      "Bloomberg"
+    ],
+    "domains": [
+      "news.google.com"
+    ],
+    "snippets": [
+      "China issues drafts rules to regulate AI with human-like interaction Reuters",
+      "China Issues Draft Rules to Govern Use of Human-Like AI Systems Bloomberg.com"
+    ],
+    "image_url": "",
+    "titles": [
+      "China issues drafts rules to regulate AI with human-like interaction - Reuters",
+      "China Issues Draft Rules to Govern Use of Human-Like AI Systems - Bloomberg.com"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3RsSUFkWDFUWFE2SnFseDE0bHhtR1ptOG5UT0hwNEExSmNjWWw2NnJ5bF9ubU5FODJWQW14VXJpZWJVN0lZelNXYVk4ZWxqaUNweklObDVhZ3dYMGUtUDgydGNIRFVWa045R19XakVJLW1XTS1YcVFZMzdIZnFZZXdmRWZqMGRad0tKRThhaFBHM2xHaWMwN0NuM2EtQ05GdkZINmxQT1V2RjZkMVpZNWFBNXNEZTFyTVU4RQ?oc=5",
+    "alternate_urls": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdDYtM1kyaDlJTFZoSHZ3dV9DS2JqS2dkdGJlSldwQ3lydkpZR3gtS1FCT1kxdnV6dllsb2diYjM2U3JOQTR5T29MWlBKTUo3c0hPQ2tZX2dUVkI5M2QzSzdnaDEyMmM1SWNzTEVTYUU4UGEwM3lrWVBmN0tOUUlBRmhKNGROQXlmT0ZsQVZrUjlMWDVmU1JMVFpJOW80WXVqankzNi1DRHhGT1lHLTV1VXNpbzY?oc=5"
+    ],
+    "location_scope": "global",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3RsSUFkWDFUWFE2SnFseDE0bHhtR1ptOG5UT0hwNEExSmNjWWw2NnJ5bF9ubU5FODJWQW14VXJpZWJVN0lZelNXYVk4ZWxqaUNweklObDVhZ3dYMGUtUDgydGNIRFVWa045R19XakVJLW1XTS1YcVFZMzdIZnFZZXdmRWZqMGRad0tKRThhaFBHM2xHaWMwN0NuM2EtQ05GdkZINmxQT1V2RjZkMVpZNWFBNXNEZTFyTVU4RQ?oc=5",
+    "score_components": {
+      "magnitude": 0.775,
+      "recency": 0.746,
+      "consensus": 0.571,
+      "constructiveness": 0.03,
+      "proximity": 0.5
+    },
+    "score": 0.624,
+    "constructiveness_score": 0.03,
+    "constructiveness_reason": "actions: draft; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "On December 27, 2025, China released draft rules aimed at regulating artificial intelligence systems with human-like interaction capabilities. The proposed regulations seek to address the development, deployment, and use of such AI technologies. Public feedback on the draft rules is being solicited before they are finalized.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Viral videos and trends were popular online in 2025",
+    "domain": "general",
+    "source_domain": "bbc.com",
+    "location": "global",
+    "published": "Sat, 27 Dec 2025 00:10:50 GMT",
+    "source": "BBC",
+    "sources": [
+      "BBC",
+      "ABC News"
+    ],
+    "domains": [
+      "bbc.com",
+      "abcnews.go.com"
+    ],
+    "snippets": [
+      "Adolescence and the parodied Jet2 advert were some of the other most talked about moments.",
+      "From memes to public mishaps, 2025 was a year of nonstop viral moments including Labubu dolls, the 67 meme, the Coldplay kiss cam debacle and the brazen Louvre robbery."
+    ],
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef8/live/dc546430-e337-11f0-b67b-690eb873de1b.jpg",
+    "titles": [
+      "Viral moments that defined 2025 - from Celebrity Traitors to Dubai chocolate",
+      "From Labubus to the Louvre heist: The viral moments that defined 2025"
+    ],
+    "url": "https://www.bbc.com/news/articles/c8d64njy44do?at_medium=RSS&at_campaign=rss",
+    "alternate_urls": [
+      "https://abcnews.go.com/US/labubus-louvre-heist-viral-moments-defined-2025/story?id=128323219"
+    ],
+    "location_scope": "global",
+    "link": "https://www.bbc.com/news/articles/c8d64njy44do?at_medium=RSS&at_campaign=rss",
+    "score_components": {
+      "magnitude": 0.755,
+      "recency": 0.572,
+      "consensus": 0.591,
+      "constructiveness": 0.5,
+      "proximity": 0.5
+    },
+    "score": 0.616,
+    "constructiveness_score": 0.5,
+    "constructiveness_reason": "This story offers basic awareness about viral moments of 2025 but provides minimal depth or insight into why these moments were significant or what impact they had. It does not report on solutions, improvements, or innovations.",
+    "constructiveness_source": "gpt",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "In 2025, viral moments dominated online conversations, including the parodied Jet2 advert, Labubu dolls, the 67 meme, the Coldplay kiss cam incident, and a high-profile Louvre robbery. These events, along with adolescent trends, were among the most discussed topics on social media throughout the year.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "Fisherman in Cyprus catches more lionfish than before",
+    "domain": "business",
+    "source_domain": "phys.org",
+    "location": "global",
+    "published": "Sat, 27 Dec 2025 05:19:40 EST",
+    "source": "Phys.org",
+    "sources": [
+      "Phys.org",
       "Financial Post"
     ],
     "domains": [
-      "news.google.com",
+      "phys.org",
       "financialpost.com"
     ],
     "snippets": [
-      "Brutal Year for Stock Picking Spurs Trillion-Dollar Fund Exodus Bloomberg.com",
-      "The last thing a diversified fund manager wants is to run a portfolio dominated by just seven technology companies — all American, all megacap, clustered in the same corner of the economy. Yet as the S&P 500 pushed to fresh records this week, investors were again forced to confront a painful reality"
+      "Photis Gaitanos' rough fingers adroitly untangle the venomous spikes of a lionfish from a net, throwing the exotic-looking creature into an ice-filled rubber bin along with other fish from the day's catch.",
+      "LARNACA, Cyprus (AP) — Photis Gaitanos’ rough fingers adroitly untangle the venomous spikes of a lionfish from a net, throwing the exotic-looking creature into an ice-filled rubber bin along with other fish from the day’s catch. Unlike a few years ago when he would have mostly caught local staples a"
     ],
-    "image_url": "",
+    "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/cypriot-fishermen-batt.jpg",
     "titles": [
-      "Brutal Year for Stock Picking Spurs Trillion-Dollar Fund Exodus - Bloomberg.com",
-      "Brutal Year for Stock Picking Spurs Trillion-Dollar Fund Exodus"
+      "Cypriot fishermen battle invasive lionfish and turn them into a tavern delicacy"
     ],
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmwtX1J5bVFIdzN2anM2V3BfNWJhcXhDSmtMVnRYaFBEQkpwSk1FSVRVODU3RHMtY3J2MWlLQlFRYkEzNUtlSXRZRGVXLWdKZTZ3Zlo3UmhacldmUmRvOG1lNTVaU0ZqR2E1SkFsbTdoTUxiRGMxUlBPTGRYSWVDMUdwU0JRRXljT0Z1bGhNR2dZUThhdkVFeG5ZdXd5S2FnVXlzVjZjTWdUTG9YOTdmaVVtZjE?oc=5",
+    "url": "https://phys.org/news/2025-12-cypriot-fishermen-invasive-lionfish-tavern.html",
     "alternate_urls": [
-      "https://financialpost.com/pmn/business-pmn/brutal-year-for-stock-picking-spurs-trillion-dollar-fund-exodus"
+      "https://financialpost.com/pmn/cypriot-fishermen-battle-invasive-lionfish-and-turn-them-into-a-tavern-delicacy"
     ],
     "location_scope": "global",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmwtX1J5bVFIdzN2anM2V3BfNWJhcXhDSmtMVnRYaFBEQkpwSk1FSVRVODU3RHMtY3J2MWlLQlFRYkEzNUtlSXRZRGVXLWdKZTZ3Zlo3UmhacldmUmRvOG1lNTVaU0ZqR2E1SkFsbTdoTUxiRGMxUlBPTGRYSWVDMUdwU0JRRXljT0Z1bGhNR2dZUThhdkVFeG5ZdXd5S2FnVXlzVjZjTWdUTG9YOTdmaVVtZjE?oc=5",
+    "link": "https://phys.org/news/2025-12-cypriot-fishermen-invasive-lionfish-tavern.html",
     "score_components": {
       "magnitude": 0.735,
-      "recency": 0.693,
+      "recency": 0.759,
       "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
-    "score": 0.597,
+    "score": 0.616,
     "constructiveness_score": 0.0,
     "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
     "summary_source": "gpt",
     "summary_reason": "",
     "headline_source": "gpt",
-    "summary": "In 2025, investors withdrew over a trillion dollars from diversified funds as the S&P 500 reached new highs, driven mainly by seven large U.S. technology companies. This concentration has challenged fund managers seeking broader portfolios, highlighting the dominance of a few tech firms in the market’s recent gains.",
+    "summary": "Fisherman Photis Gaitanos in Larnaca, Cyprus, is now catching increasing numbers of lionfish, an invasive species, compared to previous years when local fish were more common in his nets. The rise of lionfish in Cypriot waters reflects broader changes in the region's marine ecosystem.",
     "is_trending": false,
     "trending_score": 0.0
   },
   {
-    "title": "Egypt beats South Africa to reach Africa Cup knockout round",
-    "domain": "sports",
-    "source_domain": "aljazeera.com",
+    "title": "China changes trade law to handle disputes and protect interests",
+    "domain": "business",
+    "source_domain": "news.google.com",
     "location": "global",
-    "published": "Fri, 26 Dec 2025 18:03:02 +0000",
-    "source": "Al Jazeera",
+    "published": "Sat, 27 Dec 2025 06:10:58 GMT",
+    "source": "Reuters",
     "sources": [
-      "Al Jazeera",
-      "Sky Sports"
+      "Reuters",
+      "Bloomberg"
     ],
     "domains": [
-      "aljazeera.com",
-      "skysports.com"
+      "news.google.com"
     ],
     "snippets": [
-      "Egypt reach the knockout stages with a 1-0 win against South Africa while Angola and Zimbabwe draw.",
-      "Mohamed Salah scored again as 10-man Egypt secured top spot in Group B of the Africa Cup of Nations with a 1-0 win against South Africa."
+      "China passes revised foreign trade law to bolster trade war capabilities Reuters",
+      "China Revises Foreign Trade Law to Safeguard National Interests Bloomberg.com"
     ],
     "image_url": "",
     "titles": [
-      "Salah seals Egypt qualification with win against South Africa at AFCON 2025",
-      "Salah scores again as 10-man Egypt hold on against South Africa"
+      "China passes revised foreign trade law to bolster trade war capabilities - Reuters",
+      "China Revises Foreign Trade Law to Safeguard National Interests - Bloomberg.com"
     ],
-    "url": "https://www.aljazeera.com/sports/2025/12/26/salah-seals-egypt-qualification-with-win-against-south-africa-at-afcon-2025?traffic_source=rss",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGt5dW1rQ0FhOXZTT3ZIczRjdFFQZEU5bkNlb3hmeEw4RW1JUGdLWm9xeEozS3ZKSzdwNldHT055Q29rRnRVdmJlZC1lMG10T1dkeEtYajlEN1o3Sk5rcktuRVpNQ2MzREhVMmdUeUxUOUpHZTRRTnNyVVIzcko4bGRTQ01rRWhFUDRuajExeFpkOHRYdUpTY2tsQ0ZJTUM3VXBLX0xwUW84M3h2Mlp1QkJPZjl6TnIy?oc=5",
     "alternate_urls": [
-      "https://www.skysports.com/football/egypt-vs-south-africa/report/526807"
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYks2dWZVdzJmeVJKT25mVFljUk9ZSnF0MENPQXhJcm10ZnJJb0ZQT1BsN1dZREhBRmRFU2Vvb0FkUlRnV0lkZ0xsUERFRWNqYjBSck0xZmp3ek5zVHpwR1lNX3V6MWNzUlU5QzFXbVZtbEJCTXFHZmZQeGVXSk5VRExFYUtRY3lBcEZndUxoODJpaHlnLVJXWFloZlBDZXRoWFU4N25OM0c0VjZvTDlES3k5aTI?oc=5"
     ],
     "location_scope": "global",
-    "link": "https://www.aljazeera.com/sports/2025/12/26/salah-seals-egypt-qualification-with-win-against-south-africa-at-afcon-2025?traffic_source=rss",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGt5dW1rQ0FhOXZTT3ZIczRjdFFQZEU5bkNlb3hmeEw4RW1JUGdLWm9xeEozS3ZKSzdwNldHT055Q29rRnRVdmJlZC1lMG10T1dkeEtYajlEN1o3Sk5rcktuRVpNQ2MzREhVMmdUeUxUOUpHZTRRTnNyVVIzcko4bGRTQ01rRWhFUDRuajExeFpkOHRYdUpTY2tsQ0ZJTUM3VXBLX0xwUW84M3h2Mlp1QkJPZjl6TnIy?oc=5",
     "score_components": {
       "magnitude": 0.755,
-      "recency": 0.633,
-      "consensus": 0.591,
-      "constructiveness": 0.0,
-      "proximity": 0.5
-    },
-    "score": 0.585,
-    "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "cache",
-    "summary_reason": "",
-    "headline_source": "cache",
-    "summary": "Egypt secured a 1-0 victory over South Africa in the Africa Cup of Nations, with Mohamed Salah scoring the decisive goal. Despite playing with 10 men, Egypt advanced to the knockout stages and finished top of Group B. In the same group, Angola and Zimbabwe played to a draw.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Google lets some people change their Gmail addresses",
-    "domain": "politics",
-    "source_domain": "cnbc.com",
-    "location": "national",
-    "published": "Fri, 26 Dec 2025 15:38:06 GMT",
-    "source": "CNBC",
-    "sources": [
-      "CNBC",
-      "The Verge"
-    ],
-    "domains": [
-      "cnbc.com",
-      "theverge.com"
-    ],
-    "snippets": [
-      "Google says it is rolling out a feature that lets users change their Gmail addresses in a long-requested update to their email policy.",
-      "If you've been saddled with some awful Gmail address you chose in high school (looking at you, LazySexyCool3030), help appears to be on the way. According to a Google account support page in Hindi the company is allowing some people to change their email address. According to the page (via Google Tr"
-    ],
-    "image_url": "",
-    "titles": [
-      "Google is rolling out a new feature allowing users to change their Gmail address",
-      "Google is letting some people change their @gmail address"
-    ],
-    "url": "https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html",
-    "alternate_urls": [
-      "https://www.theverge.com/news/850237/google-change-your-gmail-address"
-    ],
-    "location_scope": "national",
-    "link": "https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html",
-    "score_components": {
-      "magnitude": 0.755,
-      "recency": 0.592,
-      "consensus": 0.591,
-      "constructiveness": 0.05,
-      "proximity": 0.5
-    },
-    "score": 0.577,
-    "constructiveness_score": 0.05,
-    "constructiveness_reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
-    "constructiveness_source": "heuristic",
-    "summary_source": "gpt",
-    "summary_reason": "",
-    "headline_source": "gpt",
-    "summary": "Google has announced a new feature allowing some users to change their Gmail addresses, according to an update on a company support page. This long-requested option is being rolled out gradually and is not yet available to all users. Further details on eligibility and timing have not been provided.",
-    "is_trending": false,
-    "trending_score": 0.0
-  },
-  {
-    "title": "Astronauts study how tiny balls move in space lab",
-    "domain": "science",
-    "source_domain": "nasa.gov",
-    "location": "global",
-    "published": "Fri, 26 Dec 2025 16:27:18 +0000",
-    "source": "NASA",
-    "sources": [
-      "NASA",
-      "NASA EO"
-    ],
-    "domains": [
-      "nasa.gov"
-    ],
-    "snippets": [
-      "In this Oct. 20, 2025, photo, tiny ball bearings surround a larger central bearing during the Fluid Particles experiment, conducted inside the Microgravity Science Glovebox (MSG) aboard the International Space Station’s Destiny laboratory module. A bulk container installed in the MSG, filled with vi",
-      "Tiny ball bearings surround a larger central bearing during the Fluid Particles experiment, conducted inside the Microgravity Science Glovebox (MSG) aboard the International Space Station’s Destiny laboratory module."
-    ],
-    "image_url": "",
-    "titles": [
-      "Studying Physics in Microgravity"
-    ],
-    "url": "https://www.nasa.gov/image-article/studying-physics-in-microgravity/",
-    "alternate_urls": [
-      "https://www.nasa.gov/image-detail/gmt294_13_13_for-poic_zena-cardman_fluid-particles/"
-    ],
-    "location_scope": "global",
-    "link": "https://www.nasa.gov/image-article/studying-physics-in-microgravity/",
-    "score_components": {
-      "magnitude": 0.735,
-      "recency": 0.605,
+      "recency": 0.676,
       "consensus": 0.571,
+      "constructiveness": 0.0,
+      "proximity": 0.5
+    },
+    "score": 0.594,
+    "constructiveness_score": 0.0,
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "constructiveness_source": "heuristic",
+    "summary_source": "gpt",
+    "summary_reason": "",
+    "headline_source": "gpt",
+    "summary": "On December 27, 2025, China passed a revised foreign trade law aimed at strengthening its ability to respond to trade disputes and protect national interests. The updated law is intended to enhance China's capacity to manage challenges arising from international trade tensions.",
+    "is_trending": false,
+    "trending_score": 0.0
+  },
+  {
+    "title": "China freezes assets of some US defense firms over Taiwan arms",
+    "domain": "politics",
+    "source_domain": "news.google.com",
+    "location": "global",
+    "published": "Fri, 26 Dec 2025 22:53:33 GMT",
+    "source": "Reuters",
+    "sources": [
+      "Reuters",
+      "Business Insider"
+    ],
+    "domains": [
+      "news.google.com",
+      "businessinsider.com"
+    ],
+    "snippets": [
+      "China hits US defence firms with sanctions over arms sales to Taiwan Reuters",
+      "China's foreign ministry said the sanctioned firms and individuals would have their assets within China frozen."
+    ],
+    "image_url": "",
+    "titles": [
+      "China hits US defence firms with sanctions over arms sales to Taiwan - Reuters",
+      "China is going after US defense firms and execs over weapons sales to Taiwan &mdash; and Palmer Luckey's on the list"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1F2bGF6VlRLWS16dUpRNzEtRVl6RzJTMFlBRk0taEFFbXZyQkhSd3YzRWtBUk9Bb0o2MW42anpVVlFMWThCTWo3LWxIeHBTN1lqWmZHUlZBV05zc1NvRHVtdnRBMzF3VmZPZ3NuWVhKWlRlb2lQWFFqdi1TUURjZi1lUW5LYVFNb1owTTFhcDd1Y250NmtzUGc4V0o0aU9wRUd6cWtBMm81Nm1rV0M0bS1GY3RsR1RNcXlQUGM1aDNRZnRhVG1PZF9R?oc=5",
+    "alternate_urls": [
+      "https://www.businessinsider.com/china-going-after-american-defense-firms-execs-palmer-luckey-2025-12"
+    ],
+    "location_scope": "global",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1F2bGF6VlRLWS16dUpRNzEtRVl6RzJTMFlBRk0taEFFbXZyQkhSd3YzRWtBUk9Bb0o2MW42anpVVlFMWThCTWo3LWxIeHBTN1lqWmZHUlZBV05zc1NvRHVtdnRBMzF3VmZPZ3NuWVhKWlRlb2lQWFFqdi1TUURjZi1lUW5LYVFNb1owTTFhcDd1Y250NmtzUGc4V0o0aU9wRUd6cWtBMm81Nm1rV0M0bS1GY3RsR1RNcXlQUGM1aDNRZnRhVG1PZF9R?oc=5",
+    "score_components": {
+      "magnitude": 0.775,
+      "recency": 0.552,
+      "consensus": 0.591,
       "constructiveness": 0.0,
       "proximity": 0.5
     },
     "score": 0.566,
     "constructiveness_score": 0.0,
-    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "constructiveness_reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
     "constructiveness_source": "heuristic",
-    "summary_source": "cache",
+    "summary_source": "gpt",
     "summary_reason": "",
-    "headline_source": "cache",
-    "summary": "On October 20, 2025, astronauts aboard the International Space Station conducted the Fluid Particles experiment in the Microgravity Science Glovebox within the Destiny laboratory module. The experiment involved observing tiny ball bearings surrounding a larger central bearing to study fluid particle behavior in microgravity.",
+    "headline_source": "gpt",
+    "summary": "On December 27, 2025, China announced sanctions against unnamed US defense firms and individuals in response to US arms sales to Taiwan. According to China's foreign ministry, those targeted will have their assets in China frozen. The move is part of ongoing tensions between China and the US over Taiwan.",
     "is_trending": false,
     "trending_score": 0.0
   }
