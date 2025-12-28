@@ -14563,5 +14563,90 @@
     "score": 0.3,
     "reason": "This story provides basic information about a player returning to a team's lineup, but it doesn't offer in-depth analysis or insight. It doesn't provide useful information for decision-making or give a sense of agency to the reader.",
     "source": "gpt"
+  },
+  "e897471c5482ea371be3f733ee8881de": {
+    "score": 0.03,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "deee79eca0b1c0dd7cc85c7d33c24f0f": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "33003736268101c0c5d1eaa6a822af83": {
+    "score": 0.6,
+    "reason": "The story informs readers about the progress of truce talks between Russia and Ukraine, providing useful context about international relations. However, without further information or analysis on the implications of these talks, the story does not fully empower readers or provide actionable insights.",
+    "source": "gpt"
+  },
+  "ad201d4ac6922ba2878d1f9d7d3e2d29": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about a player's leave of absence but offers little depth or insight into the reasons or implications of this decision. It does not contribute meaningfully to readers' understanding or decision-making.",
+    "source": "gpt"
+  },
+  "c69506a2dbeca0c8864da2d3f42094a5": {
+    "score": 0.7,
+    "reason": "This story informs readers about a significant political event in Kosovo, providing useful context about the country's attempt to resolve a political crisis. However, without more detailed analysis or exploration of potential outcomes, the story does not fully empower readers or provide actionable insights.",
+    "source": "gpt"
+  },
+  "26f778b8d74392281018f1edf46ecf47": {
+    "score": 0.6,
+    "reason": "This story raises awareness about the political situation in Myanmar, providing readers with a broader understanding of global politics. However, without more context or insight into the implications, it falls short of being fully constructive.",
+    "source": "gpt"
+  },
+  "187bb876d0c12963e3881a408cbdd404": {
+    "score": 0.3,
+    "reason": "This story is primarily reactive, reporting on a tragic event without providing actionable insights or deeper understanding. It does not report on solutions or increase clarity around systems or impacts.",
+    "source": "gpt"
+  },
+  "4598ebcb664c5d637b52ca0b4b5a98c1": {
+    "score": 0.9,
+    "reason": "This story is highly constructive as it provides actionable insights for readers about food labels and hidden sugars. It increases awareness about the food industry and can influence readers' decision-making regarding their diet.",
+    "source": "gpt"
+  },
+  "4d3e25805187be5595953a6efd3c1c73": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a sports achievement but doesn't offer any deeper understanding or insight. It doesn't report on solutions, improvements, or innovations and doesn't increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "47180bca9d6416c097ae7436b5e84546": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of an ongoing sports event, but doesn't provide any actionable insights or deeper understanding. It doesn't report on solutions, improvements, or innovations and doesn't increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "7efac643d647602d50fe06bdfe3643de": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a commemoration event in sports, but doesn't offer any actionable insights or deeper understanding. It doesn't report on solutions, improvements, or innovations and doesn't increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "39d44b76b169218454361c9b79fdd084": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the performance of different teams in Week 17. However, without a summary or more context, it's hard to determine if it offers deeper insights or understanding about the games, strategies, or player performances.",
+    "source": "gpt"
+  },
+  "907d19e68d25f10987e50677dd60eb5b": {
+    "score": 0.6,
+    "reason": "This story seems to offer some useful information about the upcoming game between the Bears and 49ers, such as predictions and odds. This could be helpful for readers who are interested in football or betting. However, without a summary, it's hard to determine the depth of the insights provided.",
+    "source": "gpt"
+  },
+  "f8a81c4fb0961507ac3f5166c9a565f2": {
+    "score": 0.3,
+    "reason": "This story raises basic awareness about a World War II veteran's participation in an Islanders game. However, it doesn't seem to provide any deeper understanding, actionable insights, or information about solutions or progress.",
+    "source": "gpt"
+  },
+  "dec91c3c5dd40b1f8c33b079417667f1": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the result of a specific horse race. However, it lacks depth or insight into the implications of the result, the strategies employed, or the overall context of the race.",
+    "source": "gpt"
+  },
+  "dff4778589d7660e25a694aa42641c35": {
+    "score": 0.2,
+    "reason": "The story reports a tragic incident but does not provide any actionable insights or deeper understanding for the reader. It does not report on potential causes, preventive measures, or any broader context or implications.",
+    "source": "gpt"
+  },
+  "b1334267270ac73be50e32a9ce23bba0": {
+    "score": 0.6,
+    "reason": "This story informs readers about a notable diplomatic interaction and provides context for an upcoming meeting. However, it does not provide details about the content of the call or how it might influence future events, limiting its usefulness.",
+    "source": "gpt"
   }
 }
