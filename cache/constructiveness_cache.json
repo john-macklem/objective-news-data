@@ -14723,5 +14723,115 @@
     "score": 0.5,
     "reason": "This story raises basic awareness about a recent event in space exploration, but without more information about the purpose of these satellites or the implications of this launch, it offers minimal depth or insight.",
     "source": "gpt"
+  },
+  "eeb2e75d0c9a532940fd1ab0ca85fad0": {
+    "score": 0.025,
+    "reason": "keywords (1): launch; actions: launch; speculative_penalty=0.03 (tokens: warn); semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0d8d4e854eed883eb40dfd837f2c3353": {
+    "score": 0.05,
+    "reason": "negative_penalty=0.08 (keywords: dead); semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d5dab8a841547d2fbe812f13306a4e43": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9b5b489031b9d2bc52e270ca6476c256": {
+    "score": 0.03,
+    "reason": "keywords (1): support; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6be81929b15c56c7a7d2b3ec2031f2c1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a72e9714e0312c668e2831d0513b2b0b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9f0246d5ec70b750ff9c53299dd7a323": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c3220768298fbbe04c7f593c811b089e": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a tragic event but does not offer any deeper understanding, actionable insights, or report on solutions or improvements. It's a reactive news piece.",
+    "source": "gpt"
+  },
+  "83130dc65237694ef617e4a403d8231a": {
+    "score": 0.5,
+    "reason": "This story increases awareness about North Korea's military activities, which is important for understanding global security dynamics. However, it lacks depth, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "500131c809055e027199db597754cd00": {
+    "score": 0.9,
+    "reason": "This story clearly highlights progress towards a significant international issue, the Russia-Ukraine conflict. It contributes to the reader's understanding of the situation and reports on attempts to solve a major problem.",
+    "source": "gpt"
+  },
+  "f4887f9f38fbb50a5808068f88612508": {
+    "score": 0.6,
+    "reason": "While the story provides useful information about a significant geopolitical event, it does not provide enough depth or insight into the causes, impacts, or potential solutions to the conflict in Gaza.",
+    "source": "gpt"
+  },
+  "02f6965a41cc0158b04f4e386e90d950": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of Brigitte Bardot's career and activism but does not offer much in the way of depth or insight. It does not provide actionable insights or contribute meaningfully to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "81adfdd02b6a75c2f7f217e98cb5d969": {
+    "score": 0.8,
+    "reason": "This story informs about a significant diplomatic meeting and implies a potential solution to a major conflict. However, without more detail on the plan or the context of the conflict, the story falls short of fully empowering the reader with knowledge.",
+    "source": "gpt"
+  },
+  "b4a04dc082818a21a9871768aedff42b": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about an incident, but it does not offer any depth, insight, or actionable insights for the reader. It also does not report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "afdfbd4fcd28cbce4df0b06b50ff4921": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about the accusations against South Korea's ex-first lady. However, it lacks depth or insight, and does not provide actionable insights. It does not report on solutions or improvements, and does not increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "07b6ac3d933eb9d72366a9e00ab11240": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a tragic incident, but it does not offer any depth, insight, or actionable insights for the reader. It also does not report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "3cb1f9056e402f6b3dacfb1dac01b6a9": {
+    "score": 0.3,
+    "reason": "This story reports a tragic event but does not provide any actionable insights, solutions, or in-depth understanding of the context or causes. It only offers basic awareness of the event.",
+    "source": "gpt"
+  },
+  "f641a15671f94ea615cabe03313e9d78": {
+    "score": 0.3,
+    "reason": "This story provides an update on a sports event, but it doesn't provide actionable insights or deeper understanding for the reader. It lacks any reporting on solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "3919acd270a72c28a123c9b6ceb8541e": {
+    "score": 0.3,
+    "reason": "This story is a simple sports update and does not provide the reader with actionable insights, solutions, or a deeper understanding of the situation. It only provides basic awareness of the event.",
+    "source": "gpt"
+  },
+  "294dceebb4f777d987830d9c14ba3f41": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the rating of the Melbourne Ashes pitch by the ICC but does not offer deeper insights or solutions to improve the pitch conditions.",
+    "source": "gpt"
+  },
+  "ab13eefd3278f8106e76da1a786625a1": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about Ronaldo's personal goal but does not offer actionable insights or a deeper understanding of his career or football strategies.",
+    "source": "gpt"
+  },
+  "d7b17c9a652f8bc22aaa643c79487aa0": {
+    "score": 0.3,
+    "reason": "While the story provides a basic update on a specific game, it does not provide deeper insights into the strategies used, player performance analysis, or implications for the teams involved.",
+    "source": "gpt"
   }
 }
