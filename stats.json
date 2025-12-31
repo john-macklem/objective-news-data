@@ -1,8 +1,8 @@
 {
-  "fetched": 3002,
-  "filtered": 1334,
-  "clustered": 112,
-  "scored": 36,
+  "fetched": 3000,
+  "filtered": 1218,
+  "clustered": 95,
+  "scored": 30,
   "feeds": {
     "feeds_total": 71,
     "url_normalized": 13,
@@ -19,48 +19,45 @@
       "www.nature.com": 1,
       "www.investopedia.com": 1,
       "www.theglobeandmail.com": 1,
-      "as.com": 1,
       "rss.sciam.com": 1,
+      "as.com": 1,
       "www.tsn.ca": 1
     }
   },
   "cache_metrics": {
     "summary": {
-      "load_ms": 80,
-      "miss": 31,
-      "hit": 1
+      "load_ms": 43,
+      "miss": 30,
+      "stale_or_invalid": 29
     },
     "constructiveness": {
-      "miss": 45,
-      "hit": 6
+      "miss": 31,
+      "hit": 7
     },
     "headline": {
-      "miss": 31,
-      "hit": 1
+      "miss": 30
     }
   },
   "headline_metrics": {
-    "total": 36,
+    "total": 30,
     "missing": 0,
     "source_counts": {
-      "gpt": 31,
-      "cache": 1,
-      "": 4
+      "gpt": 30
     },
     "length": {
-      "avg": 57.92,
-      "median": 58.5,
-      "max": 101,
-      "over_limit": 2
+      "avg": 56.33,
+      "median": 55.5,
+      "max": 67,
+      "over_limit": 0
     },
     "uniqueness": {
-      "unique_titles": 36,
-      "duplicate_groups": 0,
-      "repeated_titles": 0,
-      "deduped_ratio": 1.0
+      "unique_titles": 29,
+      "duplicate_groups": 1,
+      "repeated_titles": 1,
+      "deduped_ratio": 0.967
     },
     "punctuation_flags": {
-      "contains_separator": 2
+      "contains_separator": 0
     }
   }
 }
