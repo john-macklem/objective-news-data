@@ -15728,5 +15728,135 @@
     "score": 0.2,
     "reason": "This story is largely reactive and sensational, focusing on a celebrity's personal incident. It does not provide the reader with actionable insights, deeper understanding, or a sense of agency.",
     "source": "gpt"
+  },
+  "ce764b79011cb14bba02dbbd99c7d1e3": {
+    "score": 0.03,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e9c4fd1dbc882d81f73f8b8dcd20c788": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6dfb98fc0b8103bf06168fe203521c70": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "57ff6e8f3be9dc7edae454ae0364aa1b": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d638ba61a0a3caf5c1250705eee87e03": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d57bfbd09e8a981a67378e336791f2aa": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a26f7d88b5bbdd231ae14a94895581e5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "88eaad82338e85507c2cd2ca7ec58f55": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9ed5b02dc0f7255243f6b199b2ad2649": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "bb9839cbf06d8a4d9fa837867403bee5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "40bb83f87587001038f39209a82d48aa": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "463436f1b293891b7e4eb08a28d92aa6": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a decision made by a political leader, which could impact the safety and security of residents in these cities. However, without further details or analysis, it's unclear what the implications of this decision might be.",
+    "source": "gpt"
+  },
+  "5e9b3ce23b833713e3180c710ecf18e1": {
+    "score": 0.8,
+    "reason": "This story offers useful information about a policy decision that could impact the economy and consumers. It could help readers make informed decisions about purchases or investments. However, it doesn't provide a broader context or analysis of the potential impacts of this decision.",
+    "source": "gpt"
+  },
+  "55becd9bb237229fc6ec541ea568d29b": {
+    "score": 0.5,
+    "reason": "This story increases awareness about a significant political event and a new leader. However, without more information about the new mayor's policies or plans, it doesn't provide a deeper understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "e70849cc9aa805a294ead9d8a9dccbd5": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a sports event but does not offer any deeper understanding, insights, or progress related to the event. It lacks context and does not contribute to the reader's decision-making or sense of agency.",
+    "source": "gpt"
+  },
+  "4e7f3d57376cd6223d4dd7eaedcb5fde": {
+    "score": 0.6,
+    "reason": "This story informs about a significant political event in Brazil. However, without additional context or analysis, it's hard to determine its usefulness or how it might impact the reader's understanding of the broader political situation in Brazil.",
+    "source": "gpt"
+  },
+  "397b5355e8a32ba5ac1e3455dd7d4546": {
+    "score": 0.8,
+    "reason": "This story provides useful information about an international incident, potentially impacting perceptions and decision-making related to US-Ukraine-Russia relations. However, without more details or analysis, it falls short of providing empowering knowledge or highlighting solutions.",
+    "source": "gpt"
+  },
+  "caa422ab52c56827ac20a88ec54073d4": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the ongoing military actions against drug boats. However, it lacks depth or insight into the broader context, the impacts of these actions, or potential solutions to the drug trafficking problem.",
+    "source": "gpt"
+  },
+  "409ef684c9670683b2c150f9b2c3b7c4": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a geopolitical incident involving Russia and the US. But it doesn't provide deeper understanding of the implications, the reasons behind Russia's request, or how this situation might be resolved.",
+    "source": "gpt"
+  },
+  "715352e88f987f1b59442834cf3fdef5": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a specific incident in the ongoing conflict between Russia and Ukraine. However, it doesn't offer deeper insight into the broader context of the conflict, the impacts of these incidents, or potential solutions.",
+    "source": "gpt"
+  },
+  "70869185fdcfa8af193b30cfa58278d2": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a cultural event in London but does not provide any deeper understanding or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "953de39c0bbbc26fadb91b10599ae206": {
+    "score": 0.5,
+    "reason": "While this news item provides information about a specific player's health issue, it doesn't offer much in terms of broader context or insights into the implications for the team or the sport. It could be more constructive if it included information on how common such health issues are in the sport, or how they are typically dealt with.",
+    "source": "gpt"
+  },
+  "affdc0ec869c8b46c9dfbd984a4930a6": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant change in a sports team's lineup, which could affect the team's performance and strategy. It could be more constructive if it provided more context about the player's career, his potential impact on the team, or how this move fits into larger trends in international player recruitment in baseball.",
+    "source": "gpt"
+  },
+  "f2785c45b9fceb72405c197b00072523": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the outcome of a sports event, but it does not offer any deeper understanding, actionable insights or report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "30f46d06b37da71ef8ee59e16704f8eb": {
+    "score": 0.3,
+    "reason": "The story informs about a change in the management of a football club, which is a basic awareness. However, it lacks depth or insight into why this decision was made, its implications, or what solutions are being considered.",
+    "source": "gpt"
+  },
+  "24b96f30e77af96fadb407a304480487": {
+    "score": 0.3,
+    "reason": "The story provides basic information about a decision made by the Gabon government. However, it does not provide any deeper understanding or context about why this decision was made, its implications, or any potential solutions.",
+    "source": "gpt"
   }
 }
