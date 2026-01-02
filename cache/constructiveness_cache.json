@@ -15858,5 +15858,155 @@
     "score": 0.3,
     "reason": "The story provides basic information about a decision made by the Gabon government. However, it does not provide any deeper understanding or context about why this decision was made, its implications, or any potential solutions.",
     "source": "gpt"
+  },
+  "f773f43262ddaf79df9167d9e403d3cf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9805ee102e0b5a0fa477eee51628f361": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d6cc782c3aac5171bb7c5c1f1aa57fee": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "09f13e513872615c13c9a6c93cb1cf2c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "65429b0186b460679373f552faa6f7ca": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6a8f76e71fcb0d3a6eb2afca2b427174": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e2904a13caa3671f9bf27e8f9c844922": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b245c5193c56e969083f514f5c6644fa": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: dead); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "dfacd03781fc894bcf0306d302ed1d73": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "49c9d6da6b8f6ef69a60ec490ce2af70": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e8de1259a97e1f9c139f2a36fc673e82": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9738c70b7362e7dde9adc3139b56543b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f6493d627d6c8718033c737fa6382e9e": {
+    "score": 0.03,
+    "reason": "keywords (1): pilot; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "85e376b970278c461ddd75527f9b1640": {
+    "score": 0.03,
+    "reason": "actions: build; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "62136449141cbbea8c08a11b89c893cd": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a547a0eb4242dbb4eade3aa44a420b93": {
+    "score": 0.6,
+    "reason": "The story informs readers about the new leadership in New York and their plans for governance. However, it lacks details about the specific policies or strategies that will be implemented, limiting its usefulness for decision-making.",
+    "source": "gpt"
+  },
+  "9d43e19d8079dc612bf4690236ef2fb2": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness of the current state of relations between Venezuela and the US, but it does not provide enough depth or insight into the potential implications or outcomes of these talks.",
+    "source": "gpt"
+  },
+  "e1651918a53ac4e570520593e10ed3a8": {
+    "score": 0.6,
+    "reason": "The story informs readers about a significant development in Venezuela, potentially indicating a shift in the government's approach to handling protests. However, it does not provide enough context or analysis to fully understand the implications of this action.",
+    "source": "gpt"
+  },
+  "a88c6da2d8fda701ceb0b27fb83abaaa": {
+    "score": 0.3,
+    "reason": "This story is largely speculative and does not provide readers with actionable insights or a deeper understanding of the situation. It does offer basic awareness about potential changes in North Korea's leadership, but it lacks depth and insight.",
+    "source": "gpt"
+  },
+  "c048ff72bca351fae06586e4145dc43c": {
+    "score": 0.6,
+    "reason": "This story informs readers about the ongoing tensions between Taiwan and China, providing useful context. However, it does not report on solutions or improvements, nor does it offer actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "20f858d2d88e08a65b17585d58825ed1": {
+    "score": 0.9,
+    "reason": "This story is constructive as it reports on a significant change in Turkmenistan's economy and its potential impacts. It provides readers with actionable insights and a deeper understanding of the global cryptocurrency landscape.",
+    "source": "gpt"
+  },
+  "323f0f93c984b78dcec97d1d5d12948f": {
+    "score": 0.3,
+    "reason": "This story reports on a tragic event but does not provide any actionable insights, solutions, or deeper understanding. It merely raises awareness of the incident.",
+    "source": "gpt"
+  },
+  "8da0ab9a3f99316863f7504e7ecd236f": {
+    "score": 0.3,
+    "reason": "While this story provides some insight into the aftermath of the tragedy, it does not offer any solutions, improvements, or empowering knowledge. It provides basic awareness, but minimal depth or insight.",
+    "source": "gpt"
+  },
+  "3ea6108c248cc33ba21756f9b04bb2a3": {
+    "score": 0.3,
+    "reason": "This story reports on a tragic event but does not provide any actionable insights, solutions, or deeper understanding. It merely raises awareness of the incident.",
+    "source": "gpt"
+  },
+  "4966ad95572ad9dea70f534401ad1481": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the potential heir of Kim Jong Un, but it doesn't provide any deep insights or actionable information. It doesn't report on solutions, improvements, or innovations, and it doesn't increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "00ff7b97314a5d9ccbf60e817a836acd": {
+    "score": 0.6,
+    "reason": "While the story is about a negative topic, it does provide useful information and context about the ongoing conflict between Russia and Ukraine. However, it doesn't report on any solutions or improvements, and it doesn't provide a deep understanding of the causes or impacts of the conflict.",
+    "source": "gpt"
+  },
+  "1fbdaf584957afe66ad47b69193c136b": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a violent incident in Peru, but it doesn't offer any actionable insights or a deeper understanding of the situation. It doesn't report on any solutions or improvements, and it doesn't increase clarity around the causes or impacts of the incident.",
+    "source": "gpt"
+  },
+  "deebc9837467bdbc34a97711df3e47d5": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a fire incident but lacks depth or insight into the causes, implications, or any actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "d0cde0e98ca694814804397f58e96fcb": {
+    "score": 0.2,
+    "reason": "While the story might raise awareness about the dangers of fire, it doesn't provide any meaningful understanding, solutions, or actions that could be taken to prevent such incidents.",
+    "source": "gpt"
+  },
+  "51de047c2b6d90fbcf95ecc0b419813f": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a change in the management structure of the Fins, which might affect their future decisions. However, it doesn't provide solutions or insights into the broader implications of this change.",
+    "source": "gpt"
   }
 }
