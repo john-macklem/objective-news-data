@@ -16573,5 +16573,155 @@
     "score": 0.3,
     "reason": "This story provides basic awareness about the players' injuries but does not offer any deeper understanding or insight into the situation, nor does it report on any solutions or improvements.",
     "source": "gpt"
+  },
+  "ad7bdc0e0f9b32092adc7c2fa0d262a1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0b52c05590e69796970a33e089f9f0b1": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a8b361cc0e93e7774f6a9389814f135f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c0aac9068b825e4971432f6ad900b57e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "706436386a40d0431ad98c205bcebd12": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0a60343fa5bfde6f1941a23f6aab7f99": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0466842cb9b6941e2c826f031ed1b815": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "af2399953fc4da7aba0a42263d82134a": {
+    "score": 0.055,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f4aa70965fed54eb397c7334e05300ae": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8e58ce8bb47c2dcfe5735f110260de55": {
+    "score": 0.08,
+    "reason": "keywords (1): launch; actions: launch; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d0ab1f0f974169acff91ab97a4e7a056": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1c495f43e83da7b6b6f997af0cb76c3a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fc3c7ae064651011edce2d11dfb9fcc0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8691c6539d8921cc561a8d1bd0883c46": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6b98aea611e64af854e4a4772314f079": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "66fd96d4127dbaa630ce1a4b0ec47bb6": {
+    "score": 0.5,
+    "reason": "The title suggests a reaction to a significant event, but without the story content, it's hard to evaluate its constructiveness. It may raise awareness about the political situation in Venezuela, but it's unclear if it provides useful insights or reports on solutions.",
+    "source": "gpt"
+  },
+  "9742d898a9bc2e4e19bbaaa26192f6d3": {
+    "score": 0.8,
+    "reason": "This title suggests the story provides useful context about the Monroe Doctrine and its relevance to current events in Venezuela. This could help readers understand the US's historical stance on Latin American affairs.",
+    "source": "gpt"
+  },
+  "01502c879b82b1839219bfad322f807a": {
+    "score": 0.6,
+    "reason": "This title suggests the story provides information about China's stance on the situation in Venezuela, which could help readers understand the international dynamics at play. However, without the story content, it's unclear if it offers solutions or deeper insights.",
+    "source": "gpt"
+  },
+  "3e6e0ae41a343c3ca32456deef08c867": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the political situation involving the Trump administration, the ex-Honduras president, and Venezuela's Maduro. However, it lacks depth or insight into the implications of this situation, or how it might be resolved.",
+    "source": "gpt"
+  },
+  "0583c61a706696c75154febac9d4f0ff": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the capture of Maduro, offering readers a better understanding of the situation. However, it doesn't report on any solutions or improvements, and it doesn't provide a clear sense of the wider impacts or trends.",
+    "source": "gpt"
+  },
+  "7d16ca5338b5da499a867f09eb638078": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the situation of Amorim at Man Utd, but it lacks depth or insight. It doesn't provide actionable insights for the reader, nor does it report on any solutions or improvements to the situation.",
+    "source": "gpt"
+  },
+  "2bc891010e7ffd55e3a315cb0ac2f576": {
+    "score": 0.6,
+    "reason": "This story provides useful context about the political situation in Venezuela and the potential implications of Trump's actions. However, it doesn't offer any solutions or progress towards resolving the situation.",
+    "source": "gpt"
+  },
+  "f081663aafe035a36f43040bd89a434a": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a football match and a player's performance. However, it doesn't provide any deeper insights or understanding for the reader.",
+    "source": "gpt"
+  },
+  "cf6e76a13d63dbb568ccc3b7f5ed2725": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the life and legacy of Eva Schloss, an Auschwitz survivor. However, it does not provide any actionable insights or solutions.",
+    "source": "gpt"
+  },
+  "a36c0991b65edf4ee4faabd3546169f6": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a personal situation of a celebrity, but it does not offer much depth or insight that could be useful or empowering for the reader.",
+    "source": "gpt"
+  },
+  "9048197ef455d919b86f3efee60bd2b2": {
+    "score": 0.6,
+    "reason": "This article informs about a significant political event and its impact on a specific community. However, without more context or analysis, it's hard to say it provides actionable insights or a deeper understanding.",
+    "source": "gpt"
+  },
+  "11f9dc512d262a2ee28fdd2af9541866": {
+    "score": 0.8,
+    "reason": "This story provides useful context about the implications of political decisions and actions, potentially aiding in the reader's understanding of complex geopolitical issues. However, it does not seem to focus on solutions or progress.",
+    "source": "gpt"
+  },
+  "60086a42aae28e6c45636ead3749d4f3": {
+    "score": 0.2,
+    "reason": "This story primarily reports on a tragic event, but does not provide actionable insights, solutions, or a deeper understanding of the situation. It offers basic awareness of the event, but does not contribute much to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "aa8217675671cb099c9cfbe292203b1d": {
+    "score": 0.6,
+    "reason": "This story reports on progress in a conflict situation, which can be useful for understanding the broader geopolitical context. However, without more information on the implications of this development or potential solutions to the conflict, the story's usefulness is somewhat limited.",
+    "source": "gpt"
+  },
+  "35211a548933d5cfc71154dc1b7d477c": {
+    "score": 0.5,
+    "reason": "This story provides some awareness of political dynamics and conflicts, but does not offer much in terms of actionable insights or solutions. It may contribute to a reader's understanding of the political landscape, but it does not significantly empower the reader or provide a deeper understanding of the issues at hand.",
+    "source": "gpt"
   }
 }
