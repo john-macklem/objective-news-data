@@ -17058,5 +17058,175 @@
     "score": 0.9,
     "reason": "The story clearly highlights progress in the field of electric vehicles, giving readers insights into the latest innovations and developments. It can help readers make informed decisions about electric vehicles and contribute to their understanding of the industry.",
     "source": "gpt"
+  },
+  "63c7ac116876d3174269def0f86b593c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b43ca733f84863f1bf3ba98c8a395219": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2952fcc34bb45b8e0cc23dd46e5b5a1d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7ed898e352ff777d165754d76e69dddf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0d5ec412977f8302cd7ada608e482595": {
+    "score": 0.079,
+    "reason": "keywords (1): expand; actions: expand; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8f24218e683855dc19ad0a676186d1f0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "99b62dce4a56cb8b0ad8b661269ff167": {
+    "score": 0.03,
+    "reason": "actions: draft; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "337df81273a5dd61ee1e7a1216b96f95": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a436e0bd3716c52dc6eecd2ebd416c3b": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4b8bcb96abff8856eeafcc674bd62412": {
+    "score": 0.0,
+    "reason": "actions: rollout; negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d9ba42c39218cb320b8c9ae940a7f4c9": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "03272c7e7b1d949ada25c0d0c2e87a7a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fac15138376b319a119d8ce15ca08e02": {
+    "score": 0.05,
+    "reason": "speculative_penalty=0.03 (tokens: fear); semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "469de5ae9c0507a963cdfad408db5630": {
+    "score": 0.03,
+    "reason": "keywords (1): invest; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0ea1460edd3b37f62053f9910b0f96fe": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "38898dd4c423df5a3aa004b26f75af99": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "55a4a0115cc297ab95a2cfbd06f87bc0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "02f726186153f1fc8681feaa35dd8bf4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fd1c0f919978a1f4d4c73bf62c63b256": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a78068f6eca8aec014ad2f1011144dd8": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the event but lacks depth or insight into the implications of the event, or any actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "af14d10c58ba87668a29990dcc7a61d3": {
+    "score": 0.6,
+    "reason": "The story informs about a potential geopolitical issue and provides context about the roles of NATO and the EU. However, it doesn't clearly highlight solutions or progress.",
+    "source": "gpt"
+  },
+  "8b8f2f324e88df7182bbcd476434d857": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about political dynamics and potential consequences, but lacks depth or insight into the processes or potential outcomes.",
+    "source": "gpt"
+  },
+  "1a7de2c497a038268245ba3e1bf94dee": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a change in personnel at Meta, but it doesn't offer deep insight or actionable information for the reader. There's no clear reporting on solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "8dabbf2206eeacc585fe21a5cde7b14f": {
+    "score": 0.6,
+    "reason": "This story informs readers about a political dispute and changes to the CDC's vaccine schedule. It provides useful context about these issues, even though the topics are negative. However, it doesn't highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "af23f4c02603e07e4df9a4d7e1048945": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about a geopolitical issue, but it doesn't provide deep insight or actionable information for the reader. It also doesn't report on solutions or improvements, but it does increase clarity around a trend that matters.",
+    "source": "gpt"
+  },
+  "9ac26a79622e84ff72fc5dedbb2f861b": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a political meeting, but without any context or details about the issues at hand, it offers minimal depth or insight.",
+    "source": "gpt"
+  },
+  "383b698c555feae1637a07019946ff2d": {
+    "score": 0.3,
+    "reason": "The story provides awareness about a hypothetical geopolitical situation, but lacks in-depth analysis or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "d8574fbfc79fd601a06ef3651bc962f1": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a public safety issue and highlights a potential systemic problem, but does not report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "0988c38463e1896f01f32564bacc5c06": {
+    "score": 0.8,
+    "reason": "This story provides useful information about the geopolitical situation involving Ukraine, NATO, and its allies. It can help readers understand the current dynamics and potential future scenarios. However, it does not explicitly report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "ff3297bccee039c9b441decb88d4b7b6": {
+    "score": 0.5,
+    "reason": "The story raises awareness about a specific incident in the ongoing Israeli-Palestinian conflict, but it does not provide deeper understanding of the causes, trends, or impacts of the conflict. It also does not offer actionable insights or report on solutions.",
+    "source": "gpt"
+  },
+  "f756ab80433fe4132037368220a90b23": {
+    "score": 0.6,
+    "reason": "This story informs readers about an upcoming weather event, which can be useful for decision-making and preparation. However, it does not provide deeper insights into the causes or impacts of such weather events, or report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "0bce084e43e73d8a1de1fa8c54b8ae56": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the potential impacts of Venezuelan oil on US and Canadian markets. However, it doesn't provide much insight into solutions or progress towards addressing any problems.",
+    "source": "gpt"
+  },
+  "2bc056b5d5933acb9348f0e7f0860ad5": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the political situation in Venezuela, but it doesn't go into depth or provide actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "a6be45a01cd473db74bbcbb90e3724c3": {
+    "score": 0.8,
+    "reason": "This story informs readers about the issue of deepfake images and the UK's efforts to address it. It provides useful context and increases awareness about a significant trend in technology and privacy.",
+    "source": "gpt"
   }
 }
