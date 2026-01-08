@@ -17573,5 +17573,125 @@
     "score": 0.3,
     "reason": "This story offers basic awareness about Simon Yates's retirement but doesn't provide much depth or insight into the reasons behind his decision or the impact it may have.",
     "source": "gpt"
+  },
+  "8a330720b399dc7f51f9d1e0091664db": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2a6500d1384fa9ac1a85a0f98b472898": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "59f3a74c29d143e76ac1214b0211fed3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b6d08896af6eeda909d1e9e882d2435e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3a41bdee6bbcba676148429955ac3dca": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: lawsuit); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "44cc63d8afbe9720925496ed469ab6ce": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4cf4ef2ef45e60cb5fbe83d047037d51": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f9f44e536e2068d14e01520b6bac7012": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5705e5714d9789c4e6249fc20552b77b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "640dadd76a01b3ab3f67c2a71ce12c8f": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the outcome of a sports match, but it doesn't provide any depth or insight into the event, the teams, or the implications of the result.",
+    "source": "gpt"
+  },
+  "46cefe760234c1ddcd46f64e2d161fa0": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a controversial statement, but it doesn't provide enough context or analysis to help the reader understand the implications, the feasibility of the idea, or the reactions of other relevant parties.",
+    "source": "gpt"
+  },
+  "2b5d196b0a3c34ac7ef0e2f024b57561": {
+    "score": 0.6,
+    "reason": "This story informs about a proposal for the future US military budget. Even though the topic is negative, it provides useful context for understanding the current debate about military spending. However, it would be more constructive if it also discussed the potential impacts of such a budget increase and the arguments for and against it.",
+    "source": "gpt"
+  },
+  "7b4b171f6a9bb1fe44b7073f418be951": {
+    "score": 0.3,
+    "reason": "The title suggests a speculative or hypothetical scenario rather than providing clear, actionable insights or deeper understanding. It doesn't seem to report on solutions, improvements, or innovations. However, it may raise awareness about geopolitical issues.",
+    "source": "gpt"
+  },
+  "500fc9d1fde1f6c179001a3e19de4eaf": {
+    "score": 0.6,
+    "reason": "While the news is negative, it provides useful information about the US's international relations and stance on climate change. It does not, however, offer solutions or improvements, nor does it empower the reader with actionable insights.",
+    "source": "gpt"
+  },
+  "65f1a29e8cf94b7718fd8b2d860fe345": {
+    "score": 0.8,
+    "reason": "This story seems to provide useful information about a proposed process for dealing with the situation in Venezuela. It may increase the reader's understanding of the issue and the potential solutions being proposed, contributing to their decision-making.",
+    "source": "gpt"
+  },
+  "5ca835acdcb171a6a07b33eaa68ad514": {
+    "score": 0.4,
+    "reason": "This story raises awareness about the immigration operation and its potential risks but lacks depth, actionable insights, or a focus on solutions.",
+    "source": "gpt"
+  },
+  "4a2966e65d6505b1d0e2d0dbbcbc81ab": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the change in Nick Reiner's legal representation but does not provide in-depth insights or potential implications.",
+    "source": "gpt"
+  },
+  "4af3cfbeb1dd502769efccc72d7a8a6f": {
+    "score": 0.2,
+    "reason": "While the story is emotionally impactful, it does not provide actionable insights, solutions, or a deeper understanding of the systems involved.",
+    "source": "gpt"
+  },
+  "0c524943820d58a7c836b14750e80e07": {
+    "score": 0.6,
+    "reason": "This story informs readers about ongoing negotiations between Chevron and the US government, providing useful context about the state of oil licenses in Venezuela. However, it doesn't highlight any solutions or progress, nor does it delve deeply into the impacts or causes of the situation.",
+    "source": "gpt"
+  },
+  "fdd8ca39555dc3f23911c57bdf7f4c36": {
+    "score": 0.3,
+    "reason": "While this story provides basic awareness about a trade in the baseball world, it doesn't provide deeper insights or analysis. It doesn't report on solutions or improvements, nor does it increase clarity around trends or impacts in the sport.",
+    "source": "gpt"
+  },
+  "621d19acf4a5476eb289f348dc9ea572": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a future event, but doesn't provide deeper understanding or actionable insights. It doesn't report on progress or solutions, nor does it increase clarity around systems, causes, or trends.",
+    "source": "gpt"
+  },
+  "3a2ef1441b1e742ad8f933e465ec7fa2": {
+    "score": 0.6,
+    "reason": "The story provides useful information for readers who are interested in the NFL and Alabama's team. It provides some insight into the potential impact of Ty Simpson's decision on the QB class and Alabama's next steps.",
+    "source": "gpt"
+  },
+  "7634a152b39a09e3d53abff6281ac6c3": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a crime involving a public figure. However, it doesn't provide deeper understanding or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "fdf32cc5f843eab35a8773cecfb8df67": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a recent event in football. However, it doesn't offer much depth or insight into the implications of the event.",
+    "source": "gpt"
   }
 }
