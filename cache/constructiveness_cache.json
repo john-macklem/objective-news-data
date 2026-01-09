@@ -18153,5 +18153,155 @@
     "score": 0.7,
     "reason": "The story provides useful information about the current state of the U.S. economy, specifically regarding jobless claims and worker productivity. However, it doesn't provide insights into the causes of these trends or potential solutions to the issues.",
     "source": "gpt"
+  },
+  "17f9745cadaab22d5ffffd49928534f8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.05, neg_sim=0.07; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "04d6e5312800b0a95346915035831d8a": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1b273b2014acec9c142e56f77db6c815": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "fbc819a4114c3aadb1d40c1c27b6413f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6c79e0a69bff4998ec8d7a114f85fb5a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "dd303a37a106bf0e389e66c16a0ed5c5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "64755c37228c30280db7801d1ad6ef4e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e7b4788cc8e365a7fd47498bb6f6c4a5": {
+    "score": 0.055,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2d94154f7031f2836021b3107428344a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "cce3e0485fda492a96230b1193343b6e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c157ab43c7523d74d54ea8954b5a1e0c": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "dee04eec0cdc3bd3b7856b0187296c80": {
+    "score": 0.03,
+    "reason": "keywords (1): investment; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "db5dcd39275f50eb92b8f3cf46da83f1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "99f3957ea24faca2bae885c15ebe3444": {
+    "score": 0.048,
+    "reason": "semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3b401dead6e9b0f694518697399163b9": {
+    "score": 0.017,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1ad68bee8531f103abd10dbd26e8dc6e": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant event in global politics and military affairs, contributing to their understanding of the ongoing conflict between Russia and Ukraine. However, it does not provide actionable insights or report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "e47f114eeb6affbab5c70ef1958b89ce": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about US actions in enforcing sanctions, but it does not offer much depth or insight into the broader context or implications of these actions.",
+    "source": "gpt"
+  },
+  "46e4e574bd3807c6f949421b687deb20": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a specific event, but it does not provide deeper understanding or actionable insights. It does not report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "aa8a5802e072e3fdc8e36face62303a5": {
+    "score": 0.8,
+    "reason": "The story provides a deeper understanding of the geopolitical implications of the US oil boom, particularly in relation to Venezuela. It helps readers understand the dynamics between energy production and international politics, even though it doesn't necessarily report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "8f24500859fb56c80c59850e30795261": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about an upcoming speech by Iran's Supreme Leader, but it lacks depth or insight into the content of the speech or the context of the protests. It does not provide actionable insights or report on solutions.",
+    "source": "gpt"
+  },
+  "cd570873b5d47c4fb0a79d50abd5ae9a": {
+    "score": 0.6,
+    "reason": "The story informs readers about the current state of job growth, which is useful information. However, it does not provide solutions or improvements, nor does it give a deeper understanding of the causes or impacts of this trend.",
+    "source": "gpt"
+  },
+  "18cff1fa933ce79638813ca3a4d9aac6": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of the political situation in Iran, but does not provide depth or insight into the causes, potential solutions, or impacts of the protests.",
+    "source": "gpt"
+  },
+  "bd9a057a75f9e6e0ba577d05e01c64a7": {
+    "score": 0.2,
+    "reason": "This story reports on a tragic event, but does not provide actionable insights or deeper understanding. It does not report on potential solutions or improvements to prevent similar incidents in the future.",
+    "source": "gpt"
+  },
+  "cdc0c063847650038b1e7ae12bc0afe3": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the severity of the bushfires in Australia, but does not provide actionable insights or deeper understanding. There is no mention of potential solutions or improvements to manage or prevent such disasters.",
+    "source": "gpt"
+  },
+  "9c6c678b2155ea2a9f0e4f71b11a7f05": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the current political situation in Yemen. However, it lacks depth and insight, as it does not provide actionable insights for the reader or report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "12061e6db9d4394748be4ea2f1b2460d": {
+    "score": 0.8,
+    "reason": "The story informs about a significant development in international relations between Venezuela and the US. It provides useful context about the geopolitical situation, even if it does not explicitly highlight solutions or progress.",
+    "source": "gpt"
+  },
+  "2d054a39241c6282a192b3a6ea4fabf0": {
+    "score": 0.6,
+    "reason": "While the topic is negative, the story brings awareness to the issue of waste management and its impacts. However, it does not provide actionable insights or report on solutions to the problem.",
+    "source": "gpt"
+  },
+  "d95cbdeadc0e750168ca71f55e020c8b": {
+    "score": 0.7,
+    "reason": "This story is constructive as it provides useful information about the political dynamics in Venezuela and the influence of international actors. However, it does not provide in-depth insight into the solutions or progress being made to address the political crisis in the country.",
+    "source": "gpt"
+  },
+  "33fa5b847947a05ef7862d4a0d1cdc88": {
+    "score": 0.6,
+    "reason": "The story raises awareness about the Pope's views on global conflicts and the importance of peace. While it provides some understanding, it does not offer actionable insights or report on specific solutions to the issues raised.",
+    "source": "gpt"
+  },
+  "b677a761c24fab43cc23838c1769ac47": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the impacts of Storm Goretti in northern Europe, but it lacks depth or insight into the causes, trends or potential solutions to manage such natural disasters.",
+    "source": "gpt"
   }
 }
