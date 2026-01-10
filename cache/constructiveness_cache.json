@@ -18303,5 +18303,150 @@
     "score": 0.5,
     "reason": "This story offers basic awareness about the impacts of Storm Goretti in northern Europe, but it lacks depth or insight into the causes, trends or potential solutions to manage such natural disasters.",
     "source": "gpt"
+  },
+  "add664793ec5e652b1e7dbbb7da47fd3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3f1b75098a956bc14cae51ea78b2d55f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3dec3c82a2f47b9c49cd5ef04735aaff": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4165596bab26648147c67bd841336a4e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "de0c13ca0e9779fdffba5bae8423ac5e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "eed2a58ff3c9a78c5744e70321c540d6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c1cd0db667a2c8bd8e0a17b8c7927141": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b67b2f3d2a1d63f9ae99d2fd7193e515": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ac6fa31e36ebd51dd3e41026166a6d2a": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a3d9fd2687cd9d09db25f9e3e4ca3f6c": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ad4593b3d9fd84bfb8bbc9c38357b1a1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "603625cbf969162c7425a1981cc31d54": {
+    "score": 0.05,
+    "reason": "negative_penalty=0.08 (keywords: fail); semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6d9fd2c271b81f247195fc5518b00cc2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7b3a4e1f1b7fe88ff0f6a5866bb3ddd8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f48c9fdd9a1507e500a6652b564ca689": {
+    "score": 0.2,
+    "reason": "This story seems to be sensational and fear-based. It doesn't provide any actionable insights or deeper understanding. It also doesn't report on solutions, improvements, innovations, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "ef9f13c564574085ce83bde243e3deac": {
+    "score": 0.6,
+    "reason": "This story provides some context and informs about the situation in Iran and the US government's response. However, it doesn't seem to provide any solutions or empowering knowledge.",
+    "source": "gpt"
+  },
+  "875e3f81c49b5a348aa292744d252c17": {
+    "score": 0.7,
+    "reason": "This story informs about a current issue and provides some context. It also suggests a potential solution to the problem, which is the suspension of certain apps from app stores.",
+    "source": "gpt"
+  },
+  "75e94e4bcba3b320e861c63b662f87ef": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about the rescheduling of the G7 Summit, but it lacks depth or insight into why this decision was made or what it means for the attendees or the issues to be discussed at the summit.",
+    "source": "gpt"
+  },
+  "9963a2c2e49795f6c3b02d59a923dad3": {
+    "score": 0.5,
+    "reason": "The story raises awareness about the ongoing political tension in Iran and the role of external influences. However, it does not provide a deeper understanding of the situation or offer any solutions.",
+    "source": "gpt"
+  },
+  "c83e08595117489c8cb606427d981de8": {
+    "score": 0.6,
+    "reason": "The story informs about a tragic event, providing a useful update on the situation. However, it doesn't report on any solutions or improvements, nor does it provide a clear understanding of the causes or impacts of the landfill collapse.",
+    "source": "gpt"
+  },
+  "92b38e904d2a723df1d7da58d97677f6": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the status of a high-profile trial, but it doesn't provide depth or insight into the broader implications or context of the case.",
+    "source": "gpt"
+  },
+  "dfde1411f20f195a171004fca100a63d": {
+    "score": 0.3,
+    "reason": "While the story provides basic awareness about a violent incident, it doesn't offer deeper understanding, actionable insights, or clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "2fbc9c3584c45df534c01b5591a88ac8": {
+    "score": 0.5,
+    "reason": "This story provides some insight into an upcoming event in a popular entertainment franchise. It may offer readers a deeper understanding of the storyline, but it doesn't contribute to decision-making or a sense of agency in a meaningful way.",
+    "source": "gpt"
+  },
+  "1838c3635b76715906359d4c8d67dbad": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the movement of federal immigration officers but lacks depth or insight into the reasons behind this decision or its potential implications.",
+    "source": "gpt"
+  },
+  "359ef1e3ed89d9c2da1f117aa6bab126": {
+    "score": 0.6,
+    "reason": "This story informs readers about the UK's financial commitment to a potential situation in Ukraine, providing some context and understanding. However, it does not highlight any solutions or progress.",
+    "source": "gpt"
+  },
+  "064770723671e0549e64b7cd5f3906e7": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a tragic event and the subsequent actions taken by authorities, but it does not provide deeper insight into the cause of the fire, how it could have been prevented, or what changes might be made in the future to prevent similar incidents.",
+    "source": "gpt"
+  },
+  "33a6816d2608c398def1f91d1bcdccb1": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about Koepka's current status in the PGA Tour. However, without additional context or analysis, it does not provide deeper understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "0a283ed56e2a6c07b70e9384f4ee5a45": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness of Durant's achievement in basketball. However, it lacks depth and does not provide readers with a greater understanding of the implications or context of this achievement.",
+    "source": "gpt"
+  },
+  "215e7e244aa61118966099f1c6031935": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a staffing change within the Commanders organization. It offers some insight into the team's strategy by highlighting Blough's limited coaching experience, but does not provide a deeper analysis or context.",
+    "source": "gpt"
   }
 }
