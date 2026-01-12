@@ -19033,5 +19033,165 @@
     "score": 0.3,
     "reason": "While this story reports on the progress of a sports team in a competition, it doesn't provide any deeper insights or understanding. It doesn't highlight any particular solutions, improvements, or innovations.",
     "source": "gpt"
+  },
+  "2f2a27c6a1a8e90e88e93012499ac5cd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8dec0ebc0ee9dc9cff647a55a6b532e0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b96167199f62c5afd8ce25f77cde6c97": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "449ac539be65148e1149f60a49add633": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2a209e505a56acdcc8ad4b9ad317af09": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "ba4736ccf73e83005854a60c5d2a0111": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7033cb28d3c8a47867e0cf0760acffc0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "db7688fdcb0a6cb92eff723a6f115c02": {
+    "score": 0.017,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "916d44131d019e588b5890c3ad12140d": {
+    "score": 0.03,
+    "reason": "keywords (1): plan; actions: plan; speculative_penalty=0.03 (tokens: risk); semantic: pos_sim=0.05, neg_sim=0.11; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8ecf3166048ad8ac0eb266bbc2672833": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "76e82ad8c1e6a6498b3c2411fbeb8f85": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2f9c73833783cb48f60a4c4b5c39962e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3e92a97b51838ffdd882beb47c6bb0e7": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "720e31bdb93a35be2015720dfc070bde": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: concern); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b6d33ffd118e3dec4d33f4ff81b5c7ca": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a6f89354af951577100d611ddf4dae48": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d9e8c2e3bf588c4040f186fb57951c55": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "673cd89e4ccb2abf75a67a1d3ae35611": {
+    "score": 0.7,
+    "reason": "This story provides useful information about the political situation in Venezuela and the release of political prisoners. It also highlights an important meeting between the Pope and a Venezuelan opposition leader. However, it does not offer in-depth insights or potential solutions to the ongoing crisis.",
+    "source": "gpt"
+  },
+  "b7003bfbd4c5cd103d51b5b0150d0a2b": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about a significant corporate appointment at Meta. However, it lacks depth or insight into the implications of this appointment, or how it might affect the company's direction or strategy.",
+    "source": "gpt"
+  },
+  "64199b7631b1f8ee86d5316a5693341e": {
+    "score": 0.8,
+    "reason": "This story provides useful context about the state of U.S.-Iran relations and potential nuclear deal talks. It also highlights the U.S.'s consideration of military action amid protests in Iran. However, it does not provide a clear sense of progress or potential solutions to the ongoing tensions.",
+    "source": "gpt"
+  },
+  "4f0caa76844d58fc53f2c741dfb8d0ee": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the current state of US-Iran relations, which can help readers understand the geopolitical context. However, it doesn't provide actionable insights or report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "69456f1b53e463fb9c5fac7f81705b81": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about Greenland's stance on a potential US takeover, but it lacks depth or insight into why this is the case or what the implications might be.",
+    "source": "gpt"
+  },
+  "da94e205a28c9a7908209159e3c8ffe8": {
+    "score": 0.6,
+    "reason": "This story informs readers about the potential implications of a US military takeover of Greenland, providing useful context. However, it doesn't report on solutions or improvements, and it doesn't provide actionable insights.",
+    "source": "gpt"
+  },
+  "938e7754af24260e08832fcda359ae3f": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the ongoing conflict between Iran and the US, but doesn't delve into the root causes or potential solutions. It lacks depth and doesn't offer actionable insights.",
+    "source": "gpt"
+  },
+  "4c2079ceed81d36656fe061832e2d4d9": {
+    "score": 0.6,
+    "reason": "The story informs readers about the controversy surrounding Grok AI and the government's response. It provides context about the issue, but doesn't offer much in terms of solutions or progress.",
+    "source": "gpt"
+  },
+  "c1c442819ac6ea3fd8e7ffebd54e3c5a": {
+    "score": 0.8,
+    "reason": "The story informs readers about the commencement of the genocide case, providing a deeper understanding of the situation. It doesn't explicitly highlight solutions, but the fact that the case is being heard at the International Court suggests progress in addressing the issue.",
+    "source": "gpt"
+  },
+  "0115cdb3d0b5c6170b9db29cdd5dfabe": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about an upcoming political meeting, but lacks depth or insight into the issues at hand, the implications of the meeting, or any potential solutions or progress that could result from it.",
+    "source": "gpt"
+  },
+  "302c7344489fe97611ea248e3c3af883": {
+    "score": 0.8,
+    "reason": "This story informs about a significant issue - deepfakes, and the actions being taken to investigate it. However, it could be more constructive if it provided more context about the issue of deepfakes, the potential impacts, and possible solutions or preventative measures.",
+    "source": "gpt"
+  },
+  "e4b2712b5a6796a7b477bda09c2e5b3f": {
+    "score": 0.9,
+    "reason": "This story clearly highlights progress in terms of diversity and inclusion in popular culture. It provides empowering knowledge about the representation of individuals with autism and could potentially inspire action in other areas of society.",
+    "source": "gpt"
+  },
+  "645e1cf26fe68499ca984609127a21b1": {
+    "score": 0.5,
+    "reason": "While the story provides some basic awareness about the political situation in Hungary and Poland, it lacks depth or insight into the implications of this decision, why it was made, or what it means for the future.",
+    "source": "gpt"
+  },
+  "8a3a3f3c87388709cad626ac2ffde21f": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant archaeological discovery, providing useful context about the historical significance of the find. However, it does not delve into the potential impacts or implications of the discovery.",
+    "source": "gpt"
+  },
+  "e1c710e822483f6667dac9fd26077b48": {
+    "score": 0.9,
+    "reason": "The story clearly highlights progress in the use of AI in retail, providing empowering knowledge about this innovation. It increases clarity around the system of AI-powered shopping and could potentially influence consumer decision-making.",
+    "source": "gpt"
   }
 }
