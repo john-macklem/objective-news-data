@@ -19193,5 +19193,145 @@
     "score": 0.9,
     "reason": "The story clearly highlights progress in the use of AI in retail, providing empowering knowledge about this innovation. It increases clarity around the system of AI-powered shopping and could potentially influence consumer decision-making.",
     "source": "gpt"
+  },
+  "63e706ebe072e63b9bf815aa5bcea81a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "bb59e25dd725aa27d8adaa9251174b07": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4f098e28ce306bd360db639af7fd9836": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "00453b4dd6f526527556e091b662bbab": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: criticism); semantic: pos_sim=0.00, neg_sim=0.14; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3bce9086e7d56fbb6fbb07a00193dbfe": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9b007453e24e9c9fa6f1c76b9b6f9919": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "10b005e62534ac808eb585df3de6e32d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "325c5d6cf8c0b7427808b2fef5af2a4e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b1ac91493cb94be4a34d03c64fbf0d09": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e3da6753e6d193efd4abcbfb2c06dc5e": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0927738e6331617c4682111e2948e835": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: might); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8d15a73aca0746f3c52b2ea96d181073": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8e160e7f9401951dc79e4b6bfefdc558": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8d7196e75dccee164141bc691be85e80": {
+    "score": 0.6,
+    "reason": "This news story is informative as it provides insight into the international economic policies of the United States. However, it lacks in-depth analysis or context about the potential impacts or reasons behind this decision, limiting its overall usefulness.",
+    "source": "gpt"
+  },
+  "0b263b07efb97f1e81e6cdc028930601": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a specific event, but it does not provide enough information or analysis to help readers understand the broader implications or causes of the event. It also does not suggest any solutions or improvements.",
+    "source": "gpt"
+  },
+  "987330ddf3f17d440ce8d3a4373bc6ff": {
+    "score": 0.7,
+    "reason": "This story provides useful information about a proposed policy change that could have significant impacts on consumers and the credit card industry. However, it lacks in-depth analysis or context about the potential impacts or reasons behind this proposal, limiting its overall usefulness.",
+    "source": "gpt"
+  },
+  "33050b7261fc9e9b20399d40fda9d1ae": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of an ongoing legal issue involving a public figure, but does not provide deeper insights or actionable information for the reader.",
+    "source": "gpt"
+  },
+  "b33d55ad577dfcd66c48bb6fa4384e43": {
+    "score": 0.6,
+    "reason": "The story informs about a significant political event in France which could potentially influence the political landscape. However, without further context or analysis, the usefulness of the information is limited.",
+    "source": "gpt"
+  },
+  "502b57e9dd1f2af5992ace69b307f729": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a local incident and the political tensions that led to it. However, it does not provide in-depth analysis or insights, nor does it report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "65e7252a102e8a31a143c111ec32d25e": {
+    "score": 0.5,
+    "reason": "While the story raises awareness about a potential issue of punitive retribution within the US Defense Department, it lacks depth and actionable insights. It does not provide any solutions or improvements to the issue.",
+    "source": "gpt"
+  },
+  "d493721b582ec20a9d020ef937640a3e": {
+    "score": 0.6,
+    "reason": "This story provides useful information about Minnesota's actions against the Trump administration's immigration policies. However, it does not discuss potential solutions or improvements to the immigration system.",
+    "source": "gpt"
+  },
+  "9b1fa9a10e9c9fe6f9de88c0300950eb": {
+    "score": 0.7,
+    "reason": "The story provides a deeper understanding of the situation in Iran, which is useful for readers. However, it does not report on any solutions, improvements, or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "0bbc15804e7917346642991a92663337": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a specific event, but it does not offer in-depth understanding, actionable insights, or report on solutions or improvements. The lack of summary also limits the ability to fully assess its constructive value.",
+    "source": "gpt"
+  },
+  "609347511d1390d1084638f65e0ac32a": {
+    "score": 0.5,
+    "reason": "This story provides awareness about the nurses' strike, but without a summary or further context, it's hard to assess its usefulness or whether it reports on any solutions or improvements. It does not provide actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "0a071cf04479ef9db94202499f0f70c1": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a political event, but it does not offer in-depth understanding, actionable insights, or report on solutions or improvements. The lack of summary also limits the ability to fully assess its constructive value.",
+    "source": "gpt"
+  },
+  "c53487028c05e3bc08bfbdcf0b059318": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a recent sports event, but does not provide any deeper insights or understanding, nor does it report on any solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "dc6c12f6bce291cd26afae621bea2b10": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a sports milestone, but does not provide any deeper insights or understanding, nor does it report on any solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "05cea0b70d7f30aba14f0b0afdd3ca73": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a recent sports event, but does not provide any deeper insights or understanding, nor does it report on any solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
   }
 }
