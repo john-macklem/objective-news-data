@@ -19643,5 +19643,170 @@
     "score": 0.8,
     "reason": "This story is useful for readers interested in the Pittsburgh Steelers, providing insights into potential candidates and the future of Mike Tomlin. It could be more constructive if it included more analysis or context about the team's overall strategy or performance.",
     "source": "gpt"
+  },
+  "0e1a192e8e3a82bac59795ba359a38e4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "009fb83f485a2f1240b06858cae0cf30": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "27cfe88c5672a9fcabd3713a1fba904b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "275c446d1229da114c63b245d6ad5024": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "33e82f2907428a157acf549a09707ce1": {
+    "score": 0.017,
+    "reason": "actions: draft; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3684e057c81f561c44fa78aac187ca33": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "cca78b21c1b4841722011727e09e0fb1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4fab7e3843cb9b893428225a50b51146": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "204e8347fab4eadabbaf431e4de76056": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a15faf8c0ef499b0a10808efccd8e2d3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6e58b239a9abbf851933f02a553541ca": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "24b0dc25e06c617b247be41ff40fea70": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "37581cdf79a437c763678be0d7f7d3e2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a0f03d90152df361dd938a6d9ba142fc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "bedf754843cc8d33674eabf56e2f60cc": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3cf08ddbee998cb3924e9776c2c47855": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "0b04ba6b719f4f8f98e6ac8b98655d4a": {
+    "score": 0.048,
+    "reason": "semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ccb5a12be91ca84782142654b656a62a": {
+    "score": 0.02,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b17caaf32433c465c2caa26eec8791e8": {
+    "score": 0.8,
+    "reason": "This story is constructive as it informs readers about the progress in the Gaza ceasefire deal. However, without more context or details about the implications and potential outcomes of this 'phase two', it doesn't fully empower the reader with actionable insights or deeper understanding.",
+    "source": "gpt"
+  },
+  "d5a8ad8e9545ba6c510716a031986f27": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the political situation in Quebec, which could be useful for readers interested in politics or those living in the region. However, it doesn't provide much insight into the causes or implications of the premier's resignation or the potential victory of the separatists.",
+    "source": "gpt"
+  },
+  "7bf505e7836d149e1a7e13339c61ddab": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about a meeting between US and Danish officials, but it doesn't provide much depth or insight into why this meeting is significant or what the potential outcomes might be. The reference to Trump's threats to 'acquire' Greenland seems sensational and lacks context or explanation.",
+    "source": "gpt"
+  },
+  "260ecd934513803c7bf5c8d56e4cca33": {
+    "score": 0.9,
+    "reason": "This story is constructive as it reports on a solution to administer post-war Gaza, providing useful insights into the measures being taken to restore stability in the region.",
+    "source": "gpt"
+  },
+  "b454a4447857b1040bca502f75eccaff": {
+    "score": 0.6,
+    "reason": "This story provides useful context about the political dynamics in the US regarding Venezuela. However, it doesn't offer a clear progression towards a solution or a deeper understanding of the impacts.",
+    "source": "gpt"
+  },
+  "2ba63405c1223824aa63ad96e452ee43": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about a significant legal development in South Korea, but it doesn't provide much depth or insight into the broader implications or causes.",
+    "source": "gpt"
+  },
+  "e90986bbf2ca7a355cca7fb76a76ce59": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the political situation in Venezuela. It raises awareness about the issue of political prisoners and repression, but it does not offer any solutions or progress towards resolving the problem.",
+    "source": "gpt"
+  },
+  "515e342f208de766c2cd3175796e4ba6": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the political relations between the US, Denmark, and Greenland. However, it lacks depth and does not provide actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "9ea246896e5696f79a5d3a7ab868d601": {
+    "score": 0.3,
+    "reason": "This story is mainly reactive, reporting on a tragic incident. It does not provide any insights or solutions, nor does it increase clarity around systems or impacts that matter.",
+    "source": "gpt"
+  },
+  "bf32bf4a2af4d212229a6c80a52178ea": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the current political situation between Iran and the US, which can help readers understand the potential consequences of these actions. However, it does not report on any solutions or improvements, nor does it provide a deep understanding of the underlying causes or systems.",
+    "source": "gpt"
+  },
+  "9b54ec73c083003186b3af8e497e83e3": {
+    "score": 0.5,
+    "reason": "The story raises awareness about the issue of far-right activists targeting migrant boats, which is important for understanding the challenges faced by migrants. However, it does not provide a deep understanding of the issue, nor does it report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "89f66d8357a9acb7744bd579ac527de4": {
+    "score": 0.8,
+    "reason": "This story is informative as it provides context about the protests in Iran and the US's stance on the issue. It helps readers understand the causes and potential impacts of the protests, contributing to their understanding of the situation.",
+    "source": "gpt"
+  },
+  "d8915da4821f905fe4ac16addd46bc11": {
+    "score": 0.5,
+    "reason": "Without the full context or summary of the story, it's hard to fully evaluate. However, based on the title, it seems to provide basic awareness about Germany's actions but doesn't offer deeper insights or solutions.",
+    "source": "gpt"
+  },
+  "5ed6099e5d73bc0d4893ddc214fcb71b": {
+    "score": 0.3,
+    "reason": "The title suggests a negative development without providing context, potential impacts, or any proposed solutions. It might raise awareness about a policy decision, but it doesn't seem to offer much depth or insight.",
+    "source": "gpt"
+  },
+  "3ab01bb9e6377d9d0f4622e7134b17fa": {
+    "score": 0.2,
+    "reason": "This title appears to be more sensational than constructive. It reports on a denial without providing any context or actionable insights. It doesn't seem to contribute meaningfully to the reader's understanding or decision-making.",
+    "source": "gpt"
   }
 }
