@@ -20273,5 +20273,165 @@
     "score": 0.5,
     "reason": "This story provides basic awareness about a negative issue in college sports. However, it lacks depth and does not provide actionable insights or deeper understanding about the topic. It does not report on solutions, improvements, innovations, or attempts to solve the problem.",
     "source": "gpt"
+  },
+  "d9f589622d5b8786be74b4aefb2b7617": {
+    "score": 0.08,
+    "reason": "actions: sign; semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "102743e049eaf5dbe4b904a004bd0b89": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b8febbde73892d93d3b1d316cfef5a4e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "dbd12f926e311f4ca85b2e2c2a4d3bc6": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5f1db258c057d4993b2f95d445d3e7d3": {
+    "score": 0.03,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d0c3a5730db86f04e2e5e13e354ed356": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8a557c41f2b8c593df1d1d963bbcd6bc": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0525fb0e81a3df75114a4e7c5c89fbf8": {
+    "score": 0.052,
+    "reason": "actions: sign; semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "63cf9c76a52d91c42373e066a11d8134": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e85591115e9c6c3b690a4f68fa3ac424": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6d8c72ce3f2408f1bdb370b592e01cee": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "82246a4fa000b20f9cceb5d221c9390c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "478b1184c8339e61de74bc73044cccc2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d64d56e78f2a664cd9ba6b57ae957f4a": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: risk); semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0f8f5bbaec07080020a8451dbc97a88f": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "be2a51b3031efa9034b9fc313dd5028e": {
+    "score": 0.017,
+    "reason": "actions: rollout; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9696f6c349c3da6bfb3f03cac14ba263": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fc24a12c135bebc7a9c244c5d73399ec": {
+    "score": 0.7,
+    "reason": "The story provides useful information about the international trade dynamics between China, Canada, and the US, specifically in the electric vehicle industry. However, it lacks a clear focus on solutions or progress in addressing the trade challenges.",
+    "source": "gpt"
+  },
+  "d0f21005903ac78c4615fc85801fa33e": {
+    "score": 0.5,
+    "reason": "The story raises awareness about geopolitical tensions and potential economic impacts of tariffs, but it doesn't provide much depth or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "a754379c0e3c37e77578cb4d6268b157": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness of a surprising event, but lacks depth or insight into why this event is significant or what its broader implications might be.",
+    "source": "gpt"
+  },
+  "905843e9c1ef4f130bd9729b64364cf5": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the current state of affairs in the White House and the Federal Reserve. However, it doesn't provide much depth or insight into the implications of this decision.",
+    "source": "gpt"
+  },
+  "b32f8c583699ad6d14846fb5e3b385a9": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about a player's injury but lacks depth or insight into its impact on the team or the player's career.",
+    "source": "gpt"
+  },
+  "09858a424286b589b7ef17fc39aaf707": {
+    "score": 0.8,
+    "reason": "The story informs about a significant event in South Korea's political landscape. It provides useful context about the consequences of political actions, even if the topic is negative.",
+    "source": "gpt"
+  },
+  "21a2cea1e18678c126ec10b8a14941ea": {
+    "score": 0.6,
+    "reason": "This story informs about an important meeting between high-ranking officials which could have significant implications. However, without more context or analysis, it's hard to say how useful this information is to the reader.",
+    "source": "gpt"
+  },
+  "5884d5f03d7a260186f50ec3a351dc09": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the situation in Iran, but it lacks depth or insight into the causes, impacts, or potential solutions to the problem.",
+    "source": "gpt"
+  },
+  "95e84dfab45f688992d6e48713f27c1b": {
+    "score": 0.3,
+    "reason": "This story offers minimal depth or insight. It reports on a statement made by an individual, but it does not provide context or analysis about the situation in Iran, nor does it report on any solutions or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "4a686809177cc9fc5be257033c57d9ed": {
+    "score": 0.6,
+    "reason": "This story provides useful context about the political dynamics between the US and Denmark, and the potential impacts of Trump's threats. However, it does not offer solutions or significant insights into the broader implications.",
+    "source": "gpt"
+  },
+  "ae0f7cadfa38477fff8c0c5899d62a3b": {
+    "score": 0.8,
+    "reason": "The story provides a deep understanding of the challenges in implementing the second phase of the Gaza ceasefire. It informs about the complexities involved in peace processes, but it does not highlight specific solutions or progress.",
+    "source": "gpt"
+  },
+  "a5a369144b276dbe7a7c4f4e6c8b7af2": {
+    "score": 0.9,
+    "reason": "This story clearly highlights progress in the field of medical treatment for prostate cancer. It provides empowering knowledge about a new drug that could extend lives, and it's actionable for those who might benefit from the treatment.",
+    "source": "gpt"
+  },
+  "4dcb49f7e45048b55569a4f55316e0fb": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a crime and its legal consequences, but it does not offer deeper insights or actionable information for the reader. It does not report on solutions or improvements related to the issue.",
+    "source": "gpt"
+  },
+  "a9548227e2f6ded7b1727d4a534bc3f8": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about police expenditure in a specific case. However, it lacks depth or insight into the broader implications or systemic issues related to police spending. It does not offer solutions or improvements.",
+    "source": "gpt"
+  },
+  "fb01ed641934b4181b8ae598e740d728": {
+    "score": 0.8,
+    "reason": "This story is constructive as it informs about a tragic incident and its impact on the health sector in Nigeria. It provides useful context about health sector failings and the government's response, contributing to the reader's understanding of the issue.",
+    "source": "gpt"
   }
 }
