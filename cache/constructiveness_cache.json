@@ -20118,5 +20118,160 @@
     "score": 0.3,
     "reason": "This story raises awareness about a tragic event, but it doesn't provide any deeper understanding or actionable insights for the reader. It also doesn't report on any solutions or progress towards preventing such incidents.",
     "source": "gpt"
+  },
+  "ab252f3ba1e1d1cec125d45772a21c6e": {
+    "score": 0.017,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5c58cb673bd9ae1e7dd2ff6dd101daed": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "d296b15c8212b3a91e81ebcd792d7873": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a8b2ea3c3bb0e54c44b105d9d1538f20": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "7169f7230fbd70921cccbd356ebd58a8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0082aaa5ae10f506744230de4f42d46b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3681689691d0895eba562cc643977356": {
+    "score": 0.017,
+    "reason": "keywords (1): investment; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9a159c087e8760013ce7dfc3f0d8d8ef": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "410df610a11235c20eda3cef744fb90b": {
+    "score": 0.03,
+    "reason": "actions: build; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ad3ab97ce3f6f3ae315ee738d0c0ea08": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6b2f9b91ea72650990ee21bb2e95da93": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3241bef0c00b729776b61eeac8b4c6ce": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2f41a65667304e8db8aa12cb16ba5bcf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f8aacb667c2d8a87dd330f1ee22aaefb": {
+    "score": 0.027,
+    "reason": "semantic: pos_sim=0.11, neg_sim=0.00; semantic_boost=0.03; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "88546b330f1dc3b20f0a87eaf75b2c79": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1173f50e2b8bedaf9bb578e100d08edd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8da49450a0ac012c34b9c83558aac68d": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the legal and political systems in South Korea. However, it does not offer actionable insights or report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "9cb593e2b5d1532bdd56e36edd8186c9": {
+    "score": 0.7,
+    "reason": "The story provides context and understanding about the potential implications of using the Insurrection Act. However, it does not highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "44088bec02e30fc31dcde740a7416653": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the international recognition of efforts towards peace, but it does not provide depth or insight into the situation in Venezuela or the reasons for the award.",
+    "source": "gpt"
+  },
+  "19c37dfd26797da26b44f59506efa9e1": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness of the strategic partnership between Canada and China, but lacks depth or insight into the implications or details of this partnership.",
+    "source": "gpt"
+  },
+  "1eaa053cd3b96e2cd7424827719827a3": {
+    "score": 0.6,
+    "reason": "While the story informs readers about the emergency UN Security Council meeting on Iran protests, it doesn't provide actionable insights or solutions to the issue.",
+    "source": "gpt"
+  },
+  "0c6b1c4f610335f1422e53bcf369fc3d": {
+    "score": 0.8,
+    "reason": "This story provides useful information on changes to healthcare policy, which could directly impact readers. However, it does not highlight progress or solutions to healthcare issues.",
+    "source": "gpt"
+  },
+  "71f329cbdb4e307b129a0b62615b45cb": {
+    "score": 0.7,
+    "reason": "The story provides useful insights about the ongoing conflict between the US and Venezuela over oil tankers. It also informs readers about the interim leader's plans for oil sector reform, which could potentially solve the country's economic problems.",
+    "source": "gpt"
+  },
+  "3b019dcf3a4f86997b2110e0bb5ca36c": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the price difference in Venezuelan oil, which can help readers understand the economic dynamics between the two countries. However, it does not provide any solutions or progress towards resolving the issue.",
+    "source": "gpt"
+  },
+  "224a81e6228be8d3496abfa5fbe3b7cd": {
+    "score": 0.9,
+    "reason": "This story clearly highlights a significant progress in the fight against child exploitation on social media. The closure of 4.7 million accounts is a tangible solution to the problem, and the story empowers readers with the knowledge that decisive actions are being taken.",
+    "source": "gpt"
+  },
+  "8d5378371229d410a2995b98918b3cdd": {
+    "score": 0.3,
+    "reason": "This story only provides basic awareness about the ongoing tensions between the US and Iran. It does not offer any deeper understanding, solutions, or insights into the situation.",
+    "source": "gpt"
+  },
+  "eb167ef306f920394ed9c097edcee041": {
+    "score": 0.0,
+    "reason": "This story is purely reactive and sensational. It does not provide any useful information or insights, nor does it contribute to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "364d4e5062f76f7d6e24c2bc76ae9b3e": {
+    "score": 0.7,
+    "reason": "This story provides useful information about the potential impacts of access to Venezuela's 'heavy' oil on US refiners. It helps increase understanding of the oil industry, although it does not report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "0819e95dfe0d397c73261b66df246c07": {
+    "score": 0.3,
+    "reason": "The story is not constructive because it lacks detail and depth. It does not provide any actionable insights or deeper understanding about the topic. It does not report on solutions, improvements, innovations, or attempts to solve problems. It offers basic awareness but minimal depth or insight.",
+    "source": "gpt"
+  },
+  "3a6ac84298f9d9fda73ce27028f86691": {
+    "score": 0.3,
+    "reason": "This story offers minimal information and lacks depth. It does not provide any actionable insights or deeper understanding about the topic. It does not report on solutions, improvements, innovations, or attempts to solve problems. It offers basic awareness but minimal depth or insight.",
+    "source": "gpt"
+  },
+  "818a66d2034074d5cdf4bc34a1057dc4": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a negative issue in college sports. However, it lacks depth and does not provide actionable insights or deeper understanding about the topic. It does not report on solutions, improvements, innovations, or attempts to solve the problem.",
+    "source": "gpt"
   }
 }
