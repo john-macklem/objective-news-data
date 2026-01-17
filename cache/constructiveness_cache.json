@@ -20433,5 +20433,155 @@
     "score": 0.8,
     "reason": "This story is constructive as it informs about a tragic incident and its impact on the health sector in Nigeria. It provides useful context about health sector failings and the government's response, contributing to the reader's understanding of the issue.",
     "source": "gpt"
+  },
+  "60db9283d65dae6d0e9a6587a8935765": {
+    "score": 0.03,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ac7e4add74ba0a51904f8f545255d7c3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6460b6b54486695c39b9aa16709b51e3": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: fraud); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e795e3ab508ec14ee06a654b576c3c32": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9ce6ad2a3fc76df7fce7fa011b36aef6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f054e93a9628f7f933d31d7fd3948f1c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2c63edd8c662ff37c20a9473defa44c2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e049d0ce5086521a9997e6e9c7147b29": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3d648db1a56e3314350c8f0b51c7215f": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: warn); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "52470b3984c1aadcc18921fcc829e458": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "89981d2ee9dedffccc0440893f8f75db": {
+    "score": 0.053,
+    "reason": "keywords (1): support; semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "07ca630bf3bec252008e2fe909551e28": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: possible); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "eb8a8cd836952f4fc556001e098fc145": {
+    "score": 0.06,
+    "reason": "keywords (1): launch; actions: launch; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7f5cf18b0890a0fa0056b3a30133950f": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "32de93516474c58802405f32162ae770": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "48cf8326598a394d66dfc902d059a794": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the ongoing conflict in Gaza and the formation of a 'Board of Peace' by Trump. However, it lacks depth and insight into the situation, the reasons behind the conflict, or potential solutions.",
+    "source": "gpt"
+  },
+  "894f268e20736a85db07d7bbf937479a": {
+    "score": 0.5,
+    "reason": "The story offers awareness about Mar\u00eda Corina Machado's action of giving her Nobel Peace Prize to President Trump. However, it doesn't provide deeper understanding or actionable insights about the implications of this act.",
+    "source": "gpt"
+  },
+  "e4517b61201a6b58c0cbeb9a796f9b69": {
+    "score": 0.6,
+    "reason": "This story informs about an investigation being carried out by the Department of Justice, which can be useful for readers to understand the political dynamics. However, it does not provide information on what the investigation might mean for these individuals or the wider implications.",
+    "source": "gpt"
+  },
+  "b3e085cf8dc80900b8abf7e4b823acfb": {
+    "score": 0.6,
+    "reason": "This story is constructive as it informs readers about the legal actions being taken against misuse of technology, contributing to their understanding of the issue. However, it does not provide actionable insights or solutions to the problem.",
+    "source": "gpt"
+  },
+  "1daa0d6bbeccff44ef95526a44708d8c": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a political move, but it lacks depth and insight into the implications of such a decision, hence it doesn't contribute significantly to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "3306f4b8377e871164f483ffad00a61b": {
+    "score": 0.7,
+    "reason": "This story is constructive as it informs readers about a significant policy push and its potential impacts on tech companies. It provides useful context and increases clarity around a current trend, but it doesn't offer solutions or improvements.",
+    "source": "gpt"
+  },
+  "0c3f22750b9f0fa50e8a16462b7892f0": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the situation in Iran, but it does not provide actionable insights, solutions, or a deeper understanding of the causes or impacts.",
+    "source": "gpt"
+  },
+  "b7c5f3f039f2629bc5622a4a2c9c33ec": {
+    "score": 0.8,
+    "reason": "This story informs about a decision that has immediate implications for protesters and law enforcement. It provides useful context on the legal dynamics surrounding protests, but it does not highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "4c60c2399d81aa857f9b2ba514de6426": {
+    "score": 0.3,
+    "reason": "While this story raises awareness about a disaster, it does not provide actionable insights, deeper understanding, or report on attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "440b9330216dd40bb7c94d0dca270d92": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a controlled avalanche, but it does not offer any actionable insights or deeper understanding. It also lacks information on any improvements, innovations, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "d5e6abf389da1ecbc66e80eb6f5b5005": {
+    "score": 0.5,
+    "reason": "The story provides some awareness about a court case, but it does not provide any actionable insights or deeper understanding. It does not report on solutions, improvements, innovations, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "7c4a4aae46eddfefceccd8cee1debd6f": {
+    "score": 0.6,
+    "reason": "This story informs readers about a potential business decision by Shell and Mitsubishi, providing some useful context. However, it does not clearly highlight progress, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "40f52a75a380ab031db51d8215d627c3": {
+    "score": 0.8,
+    "reason": "This story provides useful information for NFL fans who want to understand the upcoming divisional games. It gives actionable insights through score picks and predictions, and provides deeper understanding through the discussion of storylines. However, it doesn't necessarily report on progress, solutions, or improvements.",
+    "source": "gpt"
+  },
+  "39b1216de80c57474520fcb0d453b165": {
+    "score": 0.3,
+    "reason": "While this story might offer basic awareness about Miami's potential deal with Berterame, it lacks depth or insight based on the provided information. It doesn't give actionable insights or deeper understanding, nor does it report on progress or solutions.",
+    "source": "gpt"
+  },
+  "5b9dcf8f43fadef57bb0bae8107872f8": {
+    "score": 0.6,
+    "reason": "This story provides some context and understanding about Raducanu's perspective on the Australian Open schedule. It could potentially increase clarity around the systems and trends in tennis scheduling. However, it does not appear to highlight progress, solutions, or empowering knowledge.",
+    "source": "gpt"
   }
 }
