@@ -20718,5 +20718,140 @@
     "score": 0.3,
     "reason": "This story provides basic awareness of a reaction to a soccer match, but it doesn't offer much depth or insight. It doesn't provide the reader with actionable insights or deeper understanding, nor does it report on solutions or improvements.",
     "source": "gpt"
+  },
+  "927fec01b58b97e492376c4078c4f22b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3eddadecba763536b1635dd6c33a1ce9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "34990cde58bd448616f293222ddfc28c": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "525f1a80c8c96a1348fea263a9b4c94b": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "01ad6e8d910eefe5a1c9e3b67ac2f5a8": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "99961a411df45fc8a01b300fa80b0ea9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b2801fad548654c7ff8b35b23c1bc07a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "cd59993bd51d9c230b6ea31ccc9a42f0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "54d69cc9039f7b2d2a8a7a09a5e6997e": {
+    "score": 0.03,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d38694f6eefedd13cbd570a1ece61bf8": {
+    "score": 0.06,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5f70f61a029e99bd743d1de563921072": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ad6b994094fd26c6b47b6c43b910bd6c": {
+    "score": 0.06,
+    "reason": "keywords (1): launch; actions: launch; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3c328af09c0ea1c7df6dd417b5b3ad95": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a geopolitical issue, but it doesn't provide any actionable insights or deeper understanding. It also doesn't report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "ccf74b1fa6968b61248d65c1fb811ac5": {
+    "score": 0.5,
+    "reason": "This story increases awareness about the political tensions between Iran and the US. However, it lacks depth and doesn't offer any actionable insights or solutions to the problem.",
+    "source": "gpt"
+  },
+  "6f2533f61a79858c787b2d3e1f57a0a0": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the political situation in Uganda, but doesn't provide any deeper insights or solutions. It also doesn't contribute to the reader's decision-making or sense of agency.",
+    "source": "gpt"
+  },
+  "a59a8cd9655fa8d841252944fc7e8cef": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the political situation in Uganda, but without more context or analysis, it provides minimal depth or insight into the implications of this event.",
+    "source": "gpt"
+  },
+  "655570ba3bffe2b9f9940bab6857d90c": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness of a specific event and the individuals involved, but it does not provide any deeper understanding or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "80607d0b6de1c73ee9672f4ebc6964c5": {
+    "score": 0.6,
+    "reason": "While the story is about a negative event, it does provide useful information about the ongoing conflict in Syria and the US's role in it. However, it lacks a broader context or analysis that would help readers understand the implications of this event.",
+    "source": "gpt"
+  },
+  "b8693a18ec550456d26235b4e16676df": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the geopolitical situation in Syria, which could help readers understand the current tensions and conflicts in the region. However, it doesn't seem to offer any solutions or progress towards resolving the issue.",
+    "source": "gpt"
+  },
+  "95b324cd9b868a2946139b1cc96c11d2": {
+    "score": 0.3,
+    "reason": "While this story raises awareness about a tragic event, it doesn't provide much depth or insight beyond the basic facts of the incident. It doesn't appear to offer actionable insights, solutions, or a deeper understanding of the causes or impacts.",
+    "source": "gpt"
+  },
+  "669b7c1f74788a9234620f0e93272c98": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about an ongoing situation, but it doesn't seem to offer much in terms of depth or insight. It doesn't report on solutions or progress, and it doesn't appear to increase clarity around the causes or impacts of the situation.",
+    "source": "gpt"
+  },
+  "9a122121223d3a40f8c39fc2fcfa3173": {
+    "score": 0.3,
+    "reason": "This story seems to focus on a specific incident in a football match, providing basic awareness about the event but not offering much depth or insight into the broader context or implications.",
+    "source": "gpt"
+  },
+  "0456fda6e2c86f3ddec36743a8971bbd": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a significant event in international relations and military affairs. It provides context about the US withdrawal from Iraq and the handover of control to the Iraqi defence ministry.",
+    "source": "gpt"
+  },
+  "75502bb98ed76cac4d70523ce2be910c": {
+    "score": 0.8,
+    "reason": "This story provides useful information about a legal ruling that has implications for the rights of protesters and the conduct of federal authorities. It increases awareness about the legal and social issues involved in immigration enforcement and protest movements.",
+    "source": "gpt"
+  },
+  "62b2876d8ba581bddf196cafe2681817": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a player's injury and its immediate impact on his team's playoff chances. However, it lacks depth or insight into the broader implications or potential solutions.",
+    "source": "gpt"
+  },
+  "04f7aa66e91fd6e8fd7ae978fc0ae6de": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness of the outcomes of these games, but it doesn't provide any deeper analysis or insight into the strategies used, the implications for the teams involved, or the trends in the league.",
+    "source": "gpt"
+  },
+  "aa9ebdd2478b2bb86ab2b519adca5f77": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a key personnel change and its potential impact on a player. However, it could be more constructive if it provided more context or analysis about the decision and its potential ramifications.",
+    "source": "gpt"
   }
 }
