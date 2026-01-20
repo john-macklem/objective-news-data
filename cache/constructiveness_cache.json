@@ -21293,5 +21293,165 @@
     "score": 0.3,
     "reason": "The story raises awareness about the wildfires and their impact, but it does not provide deeper understanding, solutions, or improvements. It is more reactive and sensational.",
     "source": "gpt"
+  },
+  "6733e601a581458bccd0b98e0f8eba2d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0c7f86389a94bb8c1e1c78964e7823c7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1e3510b603ce6e39c9c7b165f50b0660": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fd903b30b0139596b40651c918397a01": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "22d621f1db8b78fd6509bb2a4bcea904": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b7746bb01601fea56435ad86cf0895ba": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2c8c7cc9f2753e03c2b07cffc7de6acc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "48f9136673dc9989d8e2703c841bfae9": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b278d735c0c22b40eb783780d122d74d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "453f5d13862219196bbd092632dff62a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "65d9a3250bf12346457649e97584381c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5927936849e839302eb9251d5b98752f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "891690d3ca58d9063a8430b4a85607ea": {
+    "score": 0.03,
+    "reason": "actions: building; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "087c3d7351c1bb48ac70fcdb1e52b8ed": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0d078f27ddbf7b46677da478b49823a4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d2bfbbbbb93fd698e24e59e796c01c87": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "887ab944573c473f6c0f512c7c4eefa3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.06, neg_sim=0.07; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "99f7631ffe1aea362f80cdf62e509db1": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the Norway PM's opinion on Trump's preoccupation with the Nobel Peace Prize. However, it lacks depth, actionable insights, or information about solutions or improvements.",
+    "source": "gpt"
+  },
+  "6542fc806e0326507bda06f1d5a146c8": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about the skepticism surrounding Trump's 'Board of Peace' in Gaza. However, it doesn't provide deeper understanding or actionable insights, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "dd2001ea71014c40d39af778ef3770f3": {
+    "score": 0.6,
+    "reason": "This story informs readers about the stance of top U.S. archbishops on American foreign policy, providing useful context. However, it doesn't highlight progress or solutions, or provide empowering knowledge.",
+    "source": "gpt"
+  },
+  "232e5d4e1402666df0c11a743f5e0247": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the financial market, specifically the bond yield in Japan. However, it lacks context about what this means for the economy or the reader, and it does not report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "5464d63aa8f87166dd73dbadac6414b0": {
+    "score": 0.8,
+    "reason": "The story is useful as it informs readers about a potential policy change regarding children's use of social media. It also raises awareness about the impact of social media on children. However, it does not provide a clear solution or highlight progress.",
+    "source": "gpt"
+  },
+  "427fd174f2ff2c7181562e1a47d9a54f": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a political issue between the UK and Mauritius, but it lacks depth or insight. It does not provide any actionable insights or solutions, and it seems to focus more on sensationalism rather than constructive information.",
+    "source": "gpt"
+  },
+  "83e828759ebaf1fc1e5a7fd3fb15450e": {
+    "score": 0.8,
+    "reason": "This story is constructive because it provides useful information about new laws being implemented, which could affect the reader's decision-making or understanding of the legal situation in Australia. It also reports on a solution (tighter laws) to a problem (gun violence and hate crimes).",
+    "source": "gpt"
+  },
+  "0bf6a62b38a97a34daa5cbf2efcf0031": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the situation in Guatemala but doesn't provide much depth or insight into the causes, solutions, or impacts of the violence. It doesn't empower the reader with knowledge or actionable insights.",
+    "source": "gpt"
+  },
+  "3d838524819a2fb90a86f7034a2cbd46": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a tragic event, but without additional context or information about the causes, potential solutions, or impacts, it doesn't contribute much to the reader's understanding or sense of agency.",
+    "source": "gpt"
+  },
+  "3fc351ac5c42a1f74617418ec0543fc3": {
+    "score": 0.5,
+    "reason": "This story raises awareness about conditions in detention facilities and the mental health of detainees. However, it lacks depth and doesn't provide actionable insights or potential solutions to address the problem.",
+    "source": "gpt"
+  },
+  "472a1c671aa6dc0351570782d07627e2": {
+    "score": 0.3,
+    "reason": "While this story provides basic awareness about a severe weather event and its impacts, it does not offer any deeper understanding, solutions, or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "222bcab5eb07bfaa7fb9d9348abdd331": {
+    "score": 0.6,
+    "reason": "This story informs about a specific event and provides some context about political dissent in Iran. However, it does not provide enough depth to fully understand the situation or suggest any solutions or improvements.",
+    "source": "gpt"
+  },
+  "1778c4f18a35baf81273738d18f8f27e": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the current state of the job market and wage growth, which can help readers make informed decisions about their career and financial planning. However, it doesn't offer any solutions or highlight any progress being made to address the issue.",
+    "source": "gpt"
+  },
+  "865c9d6777f9b49c45c5bd5b03eccc7f": {
+    "score": 0.3,
+    "reason": "While this story raises awareness about a specific act of violence, it doesn't provide much depth or insight beyond the basic facts of the incident. It doesn't contribute to a deeper understanding of the underlying issues or suggest any potential solutions.",
+    "source": "gpt"
+  },
+  "beb419600de348e5d91464a043a51b5d": {
+    "score": 0.5,
+    "reason": "This story provides basic information about a change in leadership for a sports team, which might be of interest to fans. However, it doesn't offer much in the way of deeper insights or analysis, and its relevance is limited to a specific group of readers.",
+    "source": "gpt"
   }
 }
