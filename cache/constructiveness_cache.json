@@ -21768,5 +21768,180 @@
     "score": 0.5,
     "reason": "This story offers basic awareness about recent developments in the Baseball Hall of Fame voting. However, it does not provide deeper insights or contribute meaningfully to the reader's understanding or decision-making.",
     "source": "gpt"
+  },
+  "2866913ccea1a49b5c323e80889d7aaf": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2968b47200e1724df8c6436998cd4850": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4ec6b22e0c169d9d5e269c195894cc4e": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: risk); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "fcd505598e8806e2701df0f5830dbd5a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d41558aefa7340f0b24c072ccc016c47": {
+    "score": 0.017,
+    "reason": "actions: draft; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7be59adf074cd0283129a1b3ffc8f09d": {
+    "score": 0.03,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "59bc6840baf9ce62cc28b3ed5380ab91": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "23dc51b938cc246fb8f08f9adb70cea4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1c1f89cc5a2af708d8e0398c514a5123": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ede58ccf4979d7e70e7a6ba689fd5d73": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "38b07dbcb8ddb758f09f5eeb60fe3c33": {
+    "score": 0.03,
+    "reason": "keywords (1): framework; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "eec98b40f1680ad77c90e7a44b30cced": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a33886f60a5fcbad08817d36a64cc821": {
+    "score": 0.03,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e7f48318347c39d2508efaeb313c4182": {
+    "score": 0.068,
+    "reason": "keywords (1): solution; semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "efd72457ff1b17d66e93ff95797b5eed": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e8f2557abe7aaefc122623a9db5b5341": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ba1069f12b214d35f04163fe4da63182": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1e91ce4138cb796b4811910387693b6c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7371043a48ca09d7b052ce016b381657": {
+    "score": 0.06,
+    "reason": "keywords (1): launch; actions: launch; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4be88532a889fa19e24b0a06605da7cf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6476035d5f0b4f5054ae77393104f6ff": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a specific stance of the US President, which can inform readers' understanding of international relations. However, without more context or analysis, it doesn't offer deep insights or highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "18829e3be856d6b894d0cb95aff60267": {
+    "score": 0.8,
+    "reason": "Fact-checking stories are inherently constructive as they provide readers with a deeper understanding of the truthfulness of public statements. This can help readers make informed decisions. However, the story's constructive value would be higher if it also reported on solutions or progress.",
+    "source": "gpt"
+  },
+  "beb4f8bda9b96d94a79b81f3c5ebb062": {
+    "score": 0.7,
+    "reason": "This story increases awareness about who is involved in a significant political initiative and their motivations. This information can be useful for readers. However, without more information on the impacts or potential solutions proposed by this 'board of peace', the story's constructive value is limited.",
+    "source": "gpt"
+  },
+  "5ce36b3d098b2e1e33b922959c1585fb": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a significant event but lacks depth or insight. It doesn't provide any actionable insights or deeper understanding to the reader.",
+    "source": "gpt"
+  },
+  "7cc4fae86561563800e9e5406562a3ef": {
+    "score": 0.6,
+    "reason": "This story informs and contextualizes a historical figure and event, thus providing a deeper understanding of the Syrian conflict. However, it doesn't highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "cb2d0a848cc18e22d4981a33bf084bf1": {
+    "score": 0.7,
+    "reason": "This story provides useful information about an upcoming political meeting, potentially influencing decision-making or understanding of the situation in Ukraine. However, it doesn't clearly highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "defd60a2290fa75f39292bb5e31c3202": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the disconnect between the Welsh Rugby Union and its fans, but it doesn't provide any actionable insights or deeper understanding about the issue. It also doesn't report on any solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "2af5e81ebb09ab4c1f9db337b52a7a8e": {
+    "score": 0.7,
+    "reason": "The story informs readers about a potential policy change regarding social media use for under-16s. It provides useful context about the ongoing debate around children's online safety, even if it doesn't highlight specific solutions or progress.",
+    "source": "gpt"
+  },
+  "01aee4629b376841180c08b70c33764e": {
+    "score": 0.3,
+    "reason": "While this story raises basic awareness about the tragic loss of life in a conflict zone, it doesn't provide any deeper understanding or actionable insights. It also doesn't report on any solutions, improvements, or attempts to solve the underlying issues.",
+    "source": "gpt"
+  },
+  "07546f8c23d92f8234105bc9d76a7750": {
+    "score": 0.9,
+    "reason": "This story indicates progress in international relations as countries are joining a 'board of peace'. It provides useful information about the countries involved and their commitment to peace, contributing to a deeper understanding of global diplomacy.",
+    "source": "gpt"
+  },
+  "d3f378a00894c02ea0570fb453a2ea9f": {
+    "score": 0.6,
+    "reason": "This story raises awareness about safety concerns in Spain's rail system, which could potentially lead to improvements in the future. However, it does not provide any solutions or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "367650a70273bb7c55dca9d85217c6d6": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the Brit Award nominations, but does not provide any deeper insights or value beyond the entertainment news context.",
+    "source": "gpt"
+  },
+  "a04dd788ab70b007450df468d804192b": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the ongoing conflict between Hamas and other parties. However, it lacks depth and insight into the reasons behind the conflict, the potential solutions, or the impacts on the people involved.",
+    "source": "gpt"
+  },
+  "15a024a9bec786caa12404feb3cc033b": {
+    "score": 0.2,
+    "reason": "This story is mainly about a personnel change in a television show. It doesn't offer actionable insights, report on solutions or improvements, or increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "13fa238e8fd7d880b3770732ce975590": {
+    "score": 0.6,
+    "reason": "This story informs about a significant development in the conflict with ISIL, which can contribute to the reader's understanding of the situation. However, it does not provide enough context or detail about the implications of this development, potential solutions, or the broader context of the conflict.",
+    "source": "gpt"
   }
 }
