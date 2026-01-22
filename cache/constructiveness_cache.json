@@ -21943,5 +21943,165 @@
     "score": 0.6,
     "reason": "This story informs about a significant development in the conflict with ISIL, which can contribute to the reader's understanding of the situation. However, it does not provide enough context or detail about the implications of this development, potential solutions, or the broader context of the conflict.",
     "source": "gpt"
+  },
+  "08c058233161ca599f8794c08b6c9dce": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "29db1c8f2610d374492c114695317076": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "16c9ea325a2870bd2bb10ef56db19345": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "33e6ec938cc0bdc908e3c7c8df531472": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "803169714eecca13b1406b81f03328a8": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8cf501f7706c958732cfdcce0d362d0d": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "20215cf4c1fab23b27ee81b6ea0f6e91": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5a715d8bc8b8fc223fc2a9ab2c6a0cc8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "aaec56899eecb1ca7ca03b78aad77c20": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "eb5c9e298b7ec82bb615df9c962c2471": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0527b2d3227b0973014aacddc12ea5db": {
+    "score": 0.107,
+    "reason": "keywords (1): launch; actions: launch; semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8cd2873d7625ae5201f2e6710d9b7075": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d84f95db6385aa262c42421583fe1379": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c2454c621ef5d117aa66e40f5919596e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f3c9434d85eb4503948702453cb287ec": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1ae269bdaa3b977acb09bfd79cd90c89": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d0a3596244f4c038f91e3fa0bd91a4e0": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "09475210962983191419ff11e8c9f281": {
+    "score": 0.6,
+    "reason": "This story provides some useful insights into the international relations between UK, US and Russia. However, without more context or details on the implications of this decision, it does not fully empower the reader with a deep understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "08d7a245282403f5cb59c81734a400f8": {
+    "score": 0.8,
+    "reason": "This story increases awareness about a potentially controversial policy change and its implications for civil liberties. It could be more constructive if it also reported on responses to this change or potential solutions to the issues it raises.",
+    "source": "gpt"
+  },
+  "202b2ac75cc3f633597839c1f1937c8c": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about political developments in the US Congress. However, without more context, analysis, or explanation of the potential impacts of these resolutions, it does not provide deep insights or actionable knowledge.",
+    "source": "gpt"
+  },
+  "cbeff3187d4a3bb8abeaad32578a9d01": {
+    "score": 0.7,
+    "reason": "This story provides useful information about a significant event, which could potentially contribute to peace in Gaza. However, without more context or details, it's hard to evaluate how much insight or actionable knowledge it offers.",
+    "source": "gpt"
+  },
+  "ff36ee6a982bbd960a44ca917a64db59": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about a decision made by Mexico's president, but it lacks depth or insight into the implications of this decision or how it fits into larger trends or systems.",
+    "source": "gpt"
+  },
+  "e17e7e1619760d37da5114ba218f9f7e": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a statement made by a world leader, which could potentially impact international relations. However, without more context or analysis, it's hard to evaluate how much insight or actionable knowledge it offers.",
+    "source": "gpt"
+  },
+  "4f671f5deb1d3a6b6a154a0c2e9f471d": {
+    "score": 0.3,
+    "reason": "This story raises awareness about a significant event, but without more context or details, it offers minimal depth or insight into the situation, its causes, or its impacts.",
+    "source": "gpt"
+  },
+  "1dc141c993ee309c43b7bf02086d16c2": {
+    "score": 0.5,
+    "reason": "This story provides some awareness about a trial outcome, which could be important for understanding the justice system. However, without more information on the context, implications, or reactions, it lacks depth and actionable insight.",
+    "source": "gpt"
+  },
+  "313b8afa03a845626d6b23578170d4f0": {
+    "score": 0.3,
+    "reason": "This story reports on a tragic event, raising basic awareness. However, it lacks depth, context, or insight into the causes, impacts, or potential solutions to such incidents.",
+    "source": "gpt"
+  },
+  "c35b1eabb508095f8b96d4b07403a93f": {
+    "score": 0.5,
+    "reason": "This story increases awareness about the ongoing political situation in Hong Kong, but it doesn't provide much depth or insight into the causes, trends, or impacts of the situation.",
+    "source": "gpt"
+  },
+  "548a9b84d4641cb94d92656151be6248": {
+    "score": 0.3,
+    "reason": "While the story provides basic awareness about the landslide, it does not provide much in terms of actionable insights, solutions, or a deeper understanding of the situation.",
+    "source": "gpt"
+  },
+  "c52a4f67b5275da95014e36a18243ca5": {
+    "score": 0.8,
+    "reason": "This story provides useful information about the discovery of the oldest-known rock art, which can contribute to a deeper understanding of human history and evolution. However, it doesn't highlight any progress or solutions.",
+    "source": "gpt"
+  },
+  "d8b9d5680ea706a30dbf75d8cb0eefb3": {
+    "score": 0.4,
+    "reason": "This story provides some basic awareness about the geopolitical dynamics between the US, Denmark, and Greenland. However, it lacks depth and actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "663162016ce93f9ce6056a47f636707a": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the outcome of a match at the Australian Open. It does not offer any deeper understanding, actionable insights, or progress on any issue.",
+    "source": "gpt"
+  },
+  "60b39ca6b54ab342bf49488227538493": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a recent game result. However, it doesn't provide any deeper understanding or actionable insights for the reader.",
+    "source": "gpt"
   }
 }
