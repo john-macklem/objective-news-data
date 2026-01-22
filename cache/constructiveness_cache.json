@@ -22103,5 +22103,175 @@
     "score": 0.3,
     "reason": "This story provides basic awareness about a recent game result. However, it doesn't provide any deeper understanding or actionable insights for the reader.",
     "source": "gpt"
+  },
+  "42cabc4a28c7e843c625b99c81e5ef39": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: collapse); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "09d44028f36f251b9f36e56189e125f7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "747b4e54db19e378c6c1502e1133b02f": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "53989d47d0c95cd653461cdb3411e9fc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fb3bfa7ebd34e14dde93c00ba76e6d84": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0bcdd3119b13409cb804461981c2d626": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "bc8edd210583349acae390bb3df646aa": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d3fd3380fabc7483974d78d8d156a5db": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "10901ae28e4d984f65bbc864c96de7df": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2295a17065ea8469a57ba4b4b1a42d23": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "258b8208f20ba1133ddfd775e94b1e52": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "27d6a25768926054e08ae83fd402d7e7": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "fd41ed450939d806567deb4d5d52068c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6f86356a7b0d0fdd8671092a33a0b9dc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4be5f62b8b0538dfaa9800c624db508c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "655d8ac55d157d2c2e6c6480a57409ef": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: fear); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e30300ac98a6b12edccfef81e4f97a58": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c7bdd255690ee029da257f0a2c3469d2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0e97597d4c13638b3e202b62c4d004a1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5613de83563d2d4d68499d048ad9d214": {
+    "score": 0.7,
+    "reason": "This story provides useful information about a significant legal action involving a former president and a major bank. However, without more context or analysis, it's hard to say how this might affect readers or the broader financial system.",
+    "source": "gpt"
+  },
+  "312194f9b887b570329283556c50e8c0": {
+    "score": 0.6,
+    "reason": "This story informs readers about a geopolitical event that could have implications for energy markets and international relations. However, it does not provide any solutions or deeper insights into the underlying issues.",
+    "source": "gpt"
+  },
+  "ff4ecee1ae3d30c87f702d114a37d9f0": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness of a potential international deal, but without more details or context, it's hard to understand its significance or implications.",
+    "source": "gpt"
+  },
+  "4d44ffed3da44685e08a18f7af3362b3": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a significant political event, though it does not offer any solutions or progress towards them. It does, however, provide a deeper understanding of the situation.",
+    "source": "gpt"
+  },
+  "ec3fd9cd5567dd449dd61431d3d785e7": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a sports event, but it does not provide any deeper insight or understanding. It also does not report on any solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "ea2271a56bfb21c10ba27a5aeba95c26": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a significant political event and increases clarity around the causes. However, it does not offer any solutions or progress towards them.",
+    "source": "gpt"
+  },
+  "d2fe26dc9e6a6489ac77673bcdae9477": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a political shift, but doesn't offer much in terms of actionable insights or deeper understanding. It doesn't report on solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "e407d0a3f8088f06bab5e72a9b327c9d": {
+    "score": 0.6,
+    "reason": "This story informs the reader about a significant legal claim, which contributes to their understanding of ongoing political and legal issues. However, it doesn't provide actionable insights or report on progress or solutions.",
+    "source": "gpt"
+  },
+  "aebfef87a37f7c0855733a7d5306c118": {
+    "score": 0.3,
+    "reason": "This story raises awareness about a specific incident involving immigration enforcement, but it doesn't provide much depth or insight, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "f41e188493eec2d69ab367106cd5633c": {
+    "score": 0.6,
+    "reason": "This story provides information about a current event, but does not provide enough context or detail to fully understand the situation or its implications. It does, however, inform about the legal proceedings related to protests and journalism.",
+    "source": "gpt"
+  },
+  "5e5baa0f0a982021d5d5ec113b439703": {
+    "score": 0.5,
+    "reason": "While it offers basic awareness about a legal decision in a school shooting case, the story lacks depth or insight into the broader issue of school safety or gun control. It does not provide actionable insights or deeper understanding.",
+    "source": "gpt"
+  },
+  "4b34c613d5212dfddf7f7a20c335dddc": {
+    "score": 0.3,
+    "reason": "This story is mainly reactive and sensational, reporting on a tragic event but not providing any in-depth analysis, context, or actionable insights. It does not contribute to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "837a904b43b58053f1ddd2aacf58037f": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the ongoing territorial issues between Ukraine and Russia. However, it lacks depth and insight as it does not provide any actionable insights or report on any solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "8943097ed9b1acb3460fb295f3d8ae8c": {
+    "score": 0.7,
+    "reason": "This story informs readers about Iraq's decision to prosecute Islamic State detainees, providing useful context about the ongoing conflict. However, it does not highlight any progress or solutions, nor does it empower the reader with knowledge to make informed decisions.",
+    "source": "gpt"
+  },
+  "80f837b5824e66a9527d926e8d9a8848": {
+    "score": 0.3,
+    "reason": "While this story might raise awareness about the potential dangers pets may face, it lacks depth and insight. It does not provide the reader with actionable insights or deeper understanding, nor does it report on solutions or improvements.",
+    "source": "gpt"
   }
 }
