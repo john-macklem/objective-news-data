@@ -22438,5 +22438,165 @@
     "score": 0.6,
     "reason": "This story informs readers about a potential weather event, which could be useful for planning and decision-making. However, it doesn't report on solutions or provide a deeper understanding of the causes or impacts.",
     "source": "gpt"
+  },
+  "421b166663a3624aef7d77bb27673b07": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2c53f8c7bf5315bd0336a042b8244049": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "29eaf07d063218dfe32046d297744131": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4e72e6f6d4228ffba3ae676765ac8d9e": {
+    "score": 0.017,
+    "reason": "actions: draft; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "529db6edf9142395ab4d28496f86ea90": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "397d41d6d344fdd663fa182065537116": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "14844a2d1b92c5005e05cf7c27d88911": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e2f79b5ccfe7ac5b4b1b750f5a3c6dcb": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: fail); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7519bdca22ba230b21e9fbee6a9d0c61": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d19f81f5d316c84a89f25b9f0e89fa13": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1a491e5de3550fdb30b2512c0704f2f9": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "788f27f0ca820d69f0493dc464c1a276": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "25d2605f11f84bcb0842dda385b1c10f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "eec3372da2c273097bc4415cbcaf1008": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6adfd183e21d9489407922531fbd34df": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a52d988cbaa8f79beed506decc60e760": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "67691f08ea33dc5e683039be4566ee33": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "b6cba145a3e225f0a4ccd99236f2f80f": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the ongoing political tension between Trump and Canada, but it lacks depth or insight into the implications of this action or how it might be resolved.",
+    "source": "gpt"
+  },
+  "70dbbe1154ba2e73737969ace534d9f9": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness of a political disagreement, but it does not provide a deeper understanding of the context, the reasons behind the claim, or potential consequences.",
+    "source": "gpt"
+  },
+  "25e69830cd3e1d4dc6dd3fe1ccf48b50": {
+    "score": 0.7,
+    "reason": "This story informs about the political developments in Vietnam and the country's economic goals. However, it could be more constructive if it provided more information on how the leader plans to achieve this growth and what it means for the citizens.",
+    "source": "gpt"
+  },
+  "17c95ecc3134b9131bb8dade8ad98e07": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a geopolitical event, but without context or in-depth analysis, it offers minimal depth or insight. It does not provide actionable insights or contribute to the reader's understanding of the situation.",
+    "source": "gpt"
+  },
+  "f79b7ae233984dc31a5e8206cb29e2cb": {
+    "score": 0.6,
+    "reason": "This story provides useful information about Mark Carney's views on Canada's role in the world. However, without more context or analysis, it doesn't fully contribute to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "f9edc719d87ce8530ac3eb977efe8f74": {
+    "score": 0.8,
+    "reason": "This story provides useful information for Cincinnati Reds fans or those interested in baseball prospects. It offers insight into the team's system, which can inform decision-making and understanding of the sport.",
+    "source": "gpt"
+  },
+  "5b2b7e985c2fe59e63ae11e344bc6cbe": {
+    "score": 0.6,
+    "reason": "This story provides useful context about the ongoing political situation involving Donald Trump, though it does not offer solutions or highlight progress. It increases awareness about the current political climate.",
+    "source": "gpt"
+  },
+  "df346c4e8e6205ce860f4e01604610b6": {
+    "score": 0.7,
+    "reason": "The story provides useful insights into the details of a special counsel's report, contributing to the reader's understanding of the situation. However, it does not report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "287e1f634e827ff4afa972f2a70c9519": {
+    "score": 0.5,
+    "reason": "While this story is deeply troubling, it does raise awareness about the issue of domestic abuse. However, it does not provide actionable insights or report on solutions to the problem.",
+    "source": "gpt"
+  },
+  "05b4148e823a5308711941e171ae2e4c": {
+    "score": 0.6,
+    "reason": "This story is constructive as it provides information about an important geopolitical event. However, without more details on the content of the talks or potential outcomes, it doesn't offer actionable insights or a deeper understanding of the situation.",
+    "source": "gpt"
+  },
+  "ec15f0dd0e9fd65934c2bc9417ccdfc8": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a specific event, but it doesn't provide deeper insights or understanding. It doesn't report on solutions or improvements, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "45734d372220a971241a03e7f5e9a5bd": {
+    "score": 0.2,
+    "reason": "This story is largely sensational and doesn't provide actionable insights, deeper understanding, or report on solutions or improvements. It does not increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "b131578a7b8f35c382d4958db6c0814a": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the upcoming trial of Luigi Mangione, but it doesn't offer any depth or insight into the case, the legal system, or the implications of the trial.",
+    "source": "gpt"
+  },
+  "4fcc8ffbb21b3cd8c49158f8eed8221c": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the ongoing winter storm and its impacts, potentially aiding readers in decision-making and understanding the severity of the situation. However, it doesn't seem to report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "98dad8e7e58a3e12674c7ff3baaae96d": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the legal situation of Julio Iglesias, but it lacks depth or insight into the reasons behind the decision, the legal system, or the broader societal implications.",
+    "source": "gpt"
   }
 }
