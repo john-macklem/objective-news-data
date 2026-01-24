@@ -22598,5 +22598,155 @@
     "score": 0.5,
     "reason": "This story provides basic awareness about the legal situation of Julio Iglesias, but it lacks depth or insight into the reasons behind the decision, the legal system, or the broader societal implications.",
     "source": "gpt"
+  },
+  "b0318bbe8fdbab1bdef6baa03426ecda": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "81cf1ae2583a8f4a2286aff0b9dbbc5f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b104f108aa205470a02d84cbd89b70ca": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ef014811d9fac6297179ea363f72732f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "effb13ed3a94b492eb92d5f574b4dd1f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "33cb2ccefdab8a9717efebf63efa5e64": {
+    "score": 0.017,
+    "reason": "actions: draft; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "55aedb2a7f3c196c7d51c9217cf6c06c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fc89ba56ead32c88b80ce84b92c2df83": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "733ca580423c694fb2c87e7bb6bccaeb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3aca2f2f54696901129add7a42288c96": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6833baff38fcb4078bc34dba6882751e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e225f655f719f4eaf711339e520df36a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "90fa1f8e7e3a112b19b770f284706eba": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0b8cff3b9da243af2c044a26783eb9fb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "58254f0f8d0913a681396397447230c9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f901e98c8a9929be0d19bea9c121a688": {
+    "score": 0.6,
+    "reason": "The story provides awareness about the ICE crackdown and the public's response to it. However, it lacks actionable insights or a deeper understanding of the issue.",
+    "source": "gpt"
+  },
+  "578d53df3cbe783ec49df2d936f93417": {
+    "score": 0.5,
+    "reason": "While the story provides basic awareness of international political dynamics, it does not provide much depth or insight into the issue, nor does it offer solutions or improvements.",
+    "source": "gpt"
+  },
+  "9baf9d62ac053dc538780f95eaa496f4": {
+    "score": 0.4,
+    "reason": "The story is largely reactive and sensational, focusing on the escalation of conflict without providing much context or insight into the underlying issues or potential solutions.",
+    "source": "gpt"
+  },
+  "10601e3ef4e0697a0368df66196592e8": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a tragic event, but it does not provide deeper insights or context that might help readers understand why it happened or what can be done to prevent similar incidents in the future.",
+    "source": "gpt"
+  },
+  "58067d1efd2daf482f0baf30b6753e8c": {
+    "score": 0.7,
+    "reason": "The story informs readers about a change in US military strategy, which could be useful for those interested in international relations or security issues. However, it does not appear to report on solutions or improvements, and the lack of detail in the summary makes it difficult to assess how much it increases understanding of the underlying issues.",
+    "source": "gpt"
+  },
+  "972fa27fb105c4929ac1a0cc076a2182": {
+    "score": 0.6,
+    "reason": "This story provides some context for understanding the current political situation involving Denmark, Greenland, and the US. However, without more information, it's hard to say how much it contributes to readers' understanding of the issues or their ability to take meaningful action.",
+    "source": "gpt"
+  },
+  "54ee84ce8285c04d647ae0fa5921d7e4": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a public figure's opinion on a political issue, but it doesn't offer much depth or insight into the broader context or implications of the situation.",
+    "source": "gpt"
+  },
+  "ceb63a367ee553581a74669fba7867a2": {
+    "score": 0.8,
+    "reason": "This story is useful to travelers who might be affected by the winter storm. It informs them about potential disruptions and what actions they can take, contributing to their decision-making.",
+    "source": "gpt"
+  },
+  "bda1381964c4c58ef4e4544cb7135063": {
+    "score": 0.3,
+    "reason": "While this story raises awareness about a tragic event, it doesn't provide any actionable insights or deeper understanding. It doesn't report on solutions or improvements, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "20cba7bfdecb160c8f25c4dd08fad486": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the US army's priorities, which can influence readers' understanding of international relations and national security. However, it doesn't seem to report on solutions or improvements, nor does it increase clarity around systems or causes.",
+    "source": "gpt"
+  },
+  "db800564f282793883720bce8f0a46f0": {
+    "score": 0.3,
+    "reason": "This story reports on a tragic event, raising basic awareness about the situation but offering minimal depth or insight into the causes, impacts, or potential solutions to prevent such disasters in the future.",
+    "source": "gpt"
+  },
+  "6f0bcf3adced4fcd12a9cd37c8888c54": {
+    "score": 0.7,
+    "reason": "This story provides useful context about the ongoing territorial conflict between Russia and Ukraine. It informs readers about the diplomatic efforts being made to resolve the issue, even if the topic is negative. However, it may lack in-depth analysis or solutions.",
+    "source": "gpt"
+  },
+  "08db27ab68909d4604c62cc080037389": {
+    "score": 0.7,
+    "reason": "The story provides useful information about ongoing diplomatic negotiations between Ukraine, Russia, and the US, which can help readers understand the current geopolitical situation. However, without more details about the progress or outcomes of these talks, it's hard to say whether the story highlights solutions or improvements.",
+    "source": "gpt"
+  },
+  "d85ea74d8f678fea05e642c5f41c75d6": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the Board of Peace and its mission, but without more information about the board's actions, plans, or effectiveness, it doesn't provide much depth or insight. The title is also somewhat sensational, which detracts from its constructiveness.",
+    "source": "gpt"
+  },
+  "44c7349749ea9ac9ab143fe6fc5f8735": {
+    "score": 0.6,
+    "reason": "While the story reports on a significant military action, it doesn't provide much context or analysis that would help readers understand why this action was taken or what its implications might be. However, the information could be useful for readers following developments in US military operations.",
+    "source": "gpt"
   }
 }
