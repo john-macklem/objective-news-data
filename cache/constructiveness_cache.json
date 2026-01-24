@@ -22748,5 +22748,155 @@
     "score": 0.6,
     "reason": "While the story reports on a significant military action, it doesn't provide much context or analysis that would help readers understand why this action was taken or what its implications might be. However, the information could be useful for readers following developments in US military operations.",
     "source": "gpt"
+  },
+  "17003c193c23ddf92c9be299f3d94739": {
+    "score": 0.055,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f3c6786d1f90eb57a183b12307447d51": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "0810fcde33c098289dc4352a2c3d112e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f89ebe1090ca96b6b684c6daf3a58358": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4992c8c1e2a5d8bbbfd798a42ba56ce9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7280516527f7bb3d90a32d9df006729c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "37ee9b92b0be08a63ae937913c9edc26": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "60e83e3da57a5790d95f65db18ebadfc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d8e5581970233e189758005a60e3ae68": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "abe0a33a56de722fa324017cb55c74ee": {
+    "score": 0.023,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "fb44d99fb2d64c656628cc921bfe2d66": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: attack); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d78f616867a5a02d138c6d4caa378e9a": {
+    "score": 0.03,
+    "reason": "actions: repair; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "dab7f93ab77eb6819a7dc41eb875cd69": {
+    "score": 0.078,
+    "reason": "actions: build; semantic: pos_sim=0.19, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c528ea9f020f020ebc78fde90a3db28b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "cd0647222cf88142bfce18c6a0574541": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ffb679f64aa11c2b2b4e498bf8770b38": {
+    "score": 0.6,
+    "reason": "This story provides some insight into the current state of international trade relations, but it doesn't offer much in terms of solutions or improvements. It does, however, provide some context that could be useful for readers.",
+    "source": "gpt"
+  },
+  "7661cf36eed07cfe5c52f8733110c907": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness of the President's remarks and their potential impact on international relations, but it doesn't provide much depth or insight beyond that.",
+    "source": "gpt"
+  },
+  "7e6a37ac631965594088a94d1a9bdc5f": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness of a significant event in China's military, but it doesn't offer much in terms of actionable insights or deeper understanding. It also doesn't report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "b15ba4dc39ac657d387324d793c0c2da": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a sports event, but it doesn't offer any deeper insight or understanding, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "97c9a5ed6d3e892eeb4c5aebaa828d55": {
+    "score": 0.6,
+    "reason": "This story informs readers about a social issue and protest, potentially contributing to their understanding of the current social climate. However, it doesn't seem to provide actionable insights or report on solutions.",
+    "source": "gpt"
+  },
+  "2be02c6faacae5e870cb9e88cdff8836": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a sports event, but it doesn't offer any deeper insight or understanding, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "f25cc1813c9824ebfee0a47f9f562950": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a political event, but it does not provide any actionable insights or deeper understanding. It also does not report on any solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "b15753d3ed8b520976aeb6f3e19e80a7": {
+    "score": 0.5,
+    "reason": "This story provides some awareness about geopolitical tensions, but it does not provide any actionable insights or deeper understanding. It also does not report on any solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "d2267dadb11efb8dc3a02617a031ad29": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the current state of conflict in Syria, and it increases clarity around the systems and impacts that matter. However, it does not report on any solutions or improvements, and it does not give the reader actionable insights.",
+    "source": "gpt"
+  },
+  "f412d8f0e66a5faa821fd215e8ea4e2c": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the ongoing conflict between Russia and Ukraine and the unsuccessful peace talks. However, it lacks depth or insight into why the talks failed, what the implications are, or what the next steps might be.",
+    "source": "gpt"
+  },
+  "66bf765f5eeb540dbefb07b41b89f96b": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a tragic event. However, it does not provide any actionable insights or deeper understanding. It does not discuss potential solutions or preventative measures for shark attacks.",
+    "source": "gpt"
+  },
+  "7ece69df63e7c390cd23225d425785db": {
+    "score": 0.4,
+    "reason": "The story provides basic awareness of a natural disaster and the efforts to identify victims. However, it does not provide any deeper understanding or insight into the causes of the landslide, potential preventative measures, or the broader impacts of the event.",
+    "source": "gpt"
+  },
+  "f2e39a271362feab342791cfed590e9a": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about the US seizing oil from Venezuelan tankers but does not provide any actionable insights or deeper understanding. It does not report on solutions, improvements, or innovations. The clarity around systems, causes, trends, or impacts that matter is minimal.",
+    "source": "gpt"
+  },
+  "4f63c551b46a9b25d1c64966a995d8ee": {
+    "score": 0.6,
+    "reason": "This story informs readers about a shift in the Trump administration's defense strategy, which could be useful for understanding international relations and defense policies. However, it does not highlight any progress, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "cee645cd837abd1d80f330ff70296269": {
+    "score": 0.6,
+    "reason": "The story informs about US envoys' visit to Israel to discuss the future of Gaza, contributing to the reader's understanding of the ongoing situation. However, it does not provide details on potential solutions or improvements, nor does it provide a deep understanding of the issue.",
+    "source": "gpt"
   }
 }
