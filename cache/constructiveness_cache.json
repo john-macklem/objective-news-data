@@ -22898,5 +22898,135 @@
     "score": 0.6,
     "reason": "The story informs about US envoys' visit to Israel to discuss the future of Gaza, contributing to the reader's understanding of the ongoing situation. However, it does not provide details on potential solutions or improvements, nor does it provide a deep understanding of the issue.",
     "source": "gpt"
+  },
+  "7292d0c10764bf26d2b3b2b94accdc36": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2b3e679973602818b41d31cc944caa9e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "98ae668e4ce10ba6470e1994f96452d8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.05, neg_sim=0.07; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d93e976a2a9663f8dbf0bf5ead0b4fc7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3f0c40cc3af8b8e27f8e863a98dda2e5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c7abddac17d75cb00ea4796b80ca92ef": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "676db141141b936203e8efe1a210ef4d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3d9944af5b823885d5c963b7ed44bcf6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "07eb17ab5c51fbbd2a88aaa2c6175ac9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ce0838c073545f456c12e68263d879fa": {
+    "score": 0.023,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9f2c5b215eb4ee63c3fda3aee616eeab": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "008589978fc92c7dd74744e43ec8ccf0": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the event, but it doesn't offer deeper insights or understanding, nor does it report on solutions, improvements, or innovations. It doesn't increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "956a92a8431a3c4e807134c467d65d51": {
+    "score": 0.6,
+    "reason": "The story informs about the political dynamics between the US and UK, specifically in relation to Afghanistan. It provides context and could contribute to the reader's understanding of international relations, but it doesn't clearly highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "27c685013627b096773ffa8645fa2513": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about an issue in the sports world, specifically in the UFC. However, it doesn't go into depth or provide actionable insights. It also doesn't report on solutions or improvements to the situation.",
+    "source": "gpt"
+  },
+  "b608def3bd953d7a3dcce34ac846e585": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a political decision, but without more context or analysis, it doesn't provide deeper understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "9faf1a2088a945b6608cf10e9aeadc94": {
+    "score": 0.6,
+    "reason": "The story informs about the final round of elections in Myanmar and the likely outcome, providing useful context about the political situation in the country. However, it doesn't delve into the implications of this outcome or possible solutions to the country's political challenges.",
+    "source": "gpt"
+  },
+  "adba25c9be857e85f386cfed42b5bf4f": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a sports achievement, but it doesn't offer deeper insights or understanding about the sport, the athlete's journey, or the significance of the Hall of Fame.",
+    "source": "gpt"
+  },
+  "84c49e2c9d6046ec0d146633f3a413a4": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the political dynamics in Iraq, but it doesn't provide any depth or insight into the implications of this nomination, or how it might impact the future of the country.",
+    "source": "gpt"
+  },
+  "96b2c0a31e5835708cad81b0df23a85b": {
+    "score": 0.8,
+    "reason": "This story informs about a significant development in the Syrian conflict, which could have implications for regional stability. However, it doesn't provide a broader context or discuss potential solutions to the ongoing conflict.",
+    "source": "gpt"
+  },
+  "757b469cc0226a5c0ba7619377f54edf": {
+    "score": 0.3,
+    "reason": "While this story provides basic awareness about a protest event in London, it lacks depth or insight into the reasons behind the protest, its implications, or potential solutions to the issues being protested.",
+    "source": "gpt"
+  },
+  "b2c71a7a716826e89266063d331b5144": {
+    "score": 0.3,
+    "reason": "This story is reactive and focuses on a negative event. It provides basic awareness about the situation but does not provide any deeper understanding or insight into the issue at hand.",
+    "source": "gpt"
+  },
+  "806c7384a8d29e9dc0c8cbf226e3ed44": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a political decision and its implications. However, it does not report on any solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "1c535cb61751dbbec0cc59d2f26e42ce": {
+    "score": 0.6,
+    "reason": "This story provides useful information for fans and stakeholders of the Steelers, offering insights into the new coach. However, it does not highlight any progress, solutions or empowering knowledge.",
+    "source": "gpt"
+  },
+  "358bf4f43f9db751b9a19c4789da6675": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the outcome of a UFC match. However, it lacks depth or insight that would contribute to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "a8ed8029186341945af94a3d340ec5d3": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness of a particular basketball game's result. It does not provide deeper understanding or insights, nor does it report on solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "191f3736b787ef0532cc1807d32da9a1": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the result of a hockey game. It lacks depth or insight that would contribute to the reader's understanding, decision-making, or sense of agency.",
+    "source": "gpt"
   }
 }
