@@ -23028,5 +23028,115 @@
     "score": 0.3,
     "reason": "This story provides basic awareness about the result of a hockey game. It lacks depth or insight that would contribute to the reader's understanding, decision-making, or sense of agency.",
     "source": "gpt"
+  },
+  "b29ce0ca03eb9a30c924ebc7ed9e2fa3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ebb5cab2416176f7330a4a0c2be11335": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "abdd07fc3e31b6b2061e1b84c53b14c0": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d38d88fc27c77240bdf3daf67c56f04d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "dfd2e70c5bed1394150006b8ef38b8ec": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8a3c78d441fe1e9816b8ac0d748b9cb6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6fda40c248512ff4204480e956ac8054": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: warn); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9b435c906c2fbf76f3130b7a236569a2": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a specific issue in a football team, but there's no depth or insight into the broader context or implications. It doesn't provide actionable insights or report on solutions.",
+    "source": "gpt"
+  },
+  "47236f47bdbcd8c668a147a52f40da0c": {
+    "score": 0.8,
+    "reason": "This story informs readers about Canada's stance on trade with China, contributing to their understanding of international trade relations. However, it doesn't seem to highlight any progress, solutions, or empowering knowledge.",
+    "source": "gpt"
+  },
+  "1cb809b8c3763ce7f6ffdacbf1b5049a": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a recent event involving Trump and the U.K. troops, but it lacks depth or insight. It doesn't provide actionable insights, report on solutions, or increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "5aa1f4165fb684f3e549056714f471e6": {
+    "score": 0.3,
+    "reason": "This story raises basic awareness about the potential danger of dingoes in certain areas, but it doesn't provide much depth or insight into the broader context or potential solutions.",
+    "source": "gpt"
+  },
+  "df16efabdd825771a7a893e36013c5fd": {
+    "score": 0.6,
+    "reason": "The article informs about a specific incident related to international maritime law enforcement. However, without more details on the broader context, implications, or potential solutions, its usefulness is somewhat limited.",
+    "source": "gpt"
+  },
+  "01f9c601c10711f064e9567deed45cb3": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a specific protest and the response by law enforcement, but it doesn't provide much depth or insight into the broader issues at stake or potential solutions.",
+    "source": "gpt"
+  },
+  "100054c095a3a5f0de32aeac92d9472d": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the death of a notable figure, but it doesn't offer much depth or insight beyond that. It doesn't contribute to the reader's understanding, decision-making, or sense of agency.",
+    "source": "gpt"
+  },
+  "27e8972c8557f0e58fc629cbfe7053d9": {
+    "score": 0.8,
+    "reason": "The story provides useful information about a new development in the UK's law enforcement system. It could potentially impact the reader's understanding of the country's security and law enforcement landscape. However, without more context or detail about the implications of this new service, it falls short of being fully constructive.",
+    "source": "gpt"
+  },
+  "3c3cbbada57daf512add69bfb1922724": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the uniforms for specific games but doesn't provide deeper understanding or insights. It doesn't report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "5de481ca0f466772d58c933b344b1a4e": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a new development in the Packers' team. However, it lacks depth and insight about what this change means for the team, the strategies Gannon might bring, or how this might affect future games.",
+    "source": "gpt"
+  },
+  "709bc8dadecba75e76cbc61e27aa2a58": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the result of a specific match. However, it doesn't provide deeper insights or analysis about the game, the performance of the players, or the implications of the result on the teams' standings.",
+    "source": "gpt"
+  },
+  "5acf8505bf334f2e0ecb7b99d35da69d": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the result of a specific match and the players who made significant contributions. However, it lacks deeper analysis about the game, the performance of the players, or the implications of the result on the teams' standings.",
+    "source": "gpt"
+  },
+  "905853a87cc94adc10cb3e3ec0bb37a6": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the future paths of Gaethje, Pimblett, and O'Malley after UFC 324. However, it does not report on solutions, improvements, or innovations, nor does it significantly increase awareness about systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "40aafa44f19d1e1a5d2fd663034da11d": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness of the result of the Premier League match between Arsenal and Manchester United. However, it lacks depth or insight and does not contribute to the reader's understanding, decision-making, or sense of agency.",
+    "source": "gpt"
+  },
+  "7b00fc8c25221c01234b1e5c1b9d77b7": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about Bickerstaff's All-Star selection. It does not offer actionable insights or a deeper understanding of the situation. It also does not report on solutions, improvements, or innovations, nor does it significantly increase awareness about systems, causes, trends, or impacts.",
+    "source": "gpt"
   }
 }
