@@ -23603,5 +23603,170 @@
     "score": 0.6,
     "reason": "This story informs readers about the imminent danger due to Storm Chandra and the expected severe flooding, which can be useful for those in the affected areas. However, it doesn't provide a deeper understanding of the situation, nor does it report on solutions or improvements.",
     "source": "gpt"
+  },
+  "c0ad88392ec6ebc112279dcd3d9f5a7d": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "bc2bfb5a0f5a21b663cdd49a12528285": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a8207b986632c3545b735fc82f315ed6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "49aca3bc4162a22109c80c8c4faa9e3b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "39bcd50eaef51ce99ef4c645d191952f": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3238cc952f7471439cd1dffac303eba1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b1b9c0589a7a1f0414f78567be535321": {
+    "score": 0.029,
+    "reason": "semantic: pos_sim=0.11, neg_sim=0.00; semantic_boost=0.03; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "070b136ce4a288bf063f6616f2d138c3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1c4f7ed5d663cf71be04c46f78531640": {
+    "score": 0.017,
+    "reason": "actions: trial; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "635b677b1a51bdcfeb11888ac3efd3e8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "510591599fb5d1a3ba5640bca3162fb9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c43ac75bb5071d7116a80321b19da5e0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fd84bde4e4d246af9346c784d115ff79": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e338a31c418f507324bf471040775672": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "581f32b9677349b3c3661aaff8494768": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4fee5adc4d991c8bdaa41a63818a0d99": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "96f0205988ffeac3043e94c4ff108a0c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "46c09588c764328eda4793593711cfe1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4ef30824f849c782cf6328e71cd6769d": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about potential changes in trade policy, but without additional context or analysis, it offers minimal depth or insight into the implications of such a move.",
+    "source": "gpt"
+  },
+  "ea5e49f22938f6d44654d35a1dde9521": {
+    "score": 0.6,
+    "reason": "The story informs about a significant legal action related to drug trafficking and its consequences. However, without more information on the broader context or potential impacts of this lawsuit, it does not fully contribute to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "a2b138a535c032d1fa13c04b967deaa5": {
+    "score": 0.8,
+    "reason": "This story reports on a solution to a problem faced by pubs, providing useful information for those in the industry or interested in it. However, without more detail on the specifics of the support package or the backlash that led to it, it falls short of providing empowering knowledge.",
+    "source": "gpt"
+  },
+  "bdcf6100dd3d4140250fd7ec528c9b27": {
+    "score": 0.9,
+    "reason": "This story is constructive as it reports on a significant policy change and its potential impacts. It provides readers with a deeper understanding of Spain's approach to immigration and could inform decision-making for those affected by the policy.",
+    "source": "gpt"
+  },
+  "500b21691397a2f867ee6acf5e0441e5": {
+    "score": 0.5,
+    "reason": "This story seems to offer basic awareness about a political candidate's campaign, but it lacks depth or insight into his policies or the reasons behind his confidence. It doesn't provide actionable insights or contribute to a deeper understanding.",
+    "source": "gpt"
+  },
+  "ee152d3e83b1e7cfea0ebd48d5a1a7c0": {
+    "score": 0.6,
+    "reason": "This story informs about a potential decision that could have significant impacts on international relations and the economy. However, without more context or analysis, its usefulness is somewhat limited. It doesn't report on solutions or progress, but it does increase awareness about a current event.",
+    "source": "gpt"
+  },
+  "e25cded22576866c5c79514cfd062fdb": {
+    "score": 0.6,
+    "reason": "This story provides information that is useful for understanding global trade dynamics. However, without more details on the specifics of the trade deal, its impacts, and how it was achieved, it does not fully inform on progress or solutions.",
+    "source": "gpt"
+  },
+  "72fefbf77ae97a7b0c73dcae7fce5725": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness of a significant weather event and its impacts. However, it does not provide deeper insights into the causes, potential solutions, or ways to mitigate the impacts of such events.",
+    "source": "gpt"
+  },
+  "74fd1a06536c70a278a79f80706a17e3": {
+    "score": 0.2,
+    "reason": "This story reports on an incident but does not provide any context or insight that would help readers understand the broader issues involved. It does not contribute to awareness of systems, causes, or impacts, nor does it offer solutions or progress.",
+    "source": "gpt"
+  },
+  "ce09601f6f40ae161524e324704b55fa": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the political relationship between Japan and China, however, it does not provide any actionable insights or deeper understanding.",
+    "source": "gpt"
+  },
+  "d1f26718ae2f942d5a9af57a72198279": {
+    "score": 0.3,
+    "reason": "The story provides a basic awareness of the artist's political stance but does not offer any deeper insight, actionable insights, or a sense of progress.",
+    "source": "gpt"
+  },
+  "1396d617c3822b853cd6a281cbfdbf76": {
+    "score": 0.6,
+    "reason": "The story informs about a natural disaster, which is a negative topic, but it does provide useful context about the situation. However, it does not highlight any progress or solutions.",
+    "source": "gpt"
+  },
+  "909184502131b21903397d1d512abfad": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the Bafta nominations, but it doesn't offer much depth or insight into the topic. It also doesn't provide actionable insights or deeper understanding to the reader.",
+    "source": "gpt"
+  },
+  "7c0d9034b21084206ee95406599b007d": {
+    "score": 0.5,
+    "reason": "This story provides some awareness about the changes in CBS contributors. However, it lacks depth or insight and doesn't offer actionable insights or deeper understanding to the reader.",
+    "source": "gpt"
+  },
+  "11b3ea3b7d815869b74230b3589f4842": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the promotion of Brady to head coach. However, it doesn't offer much depth or insight into the topic or provide actionable insights or deeper understanding to the reader.",
+    "source": "gpt"
   }
 }
