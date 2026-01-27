@@ -23458,5 +23458,150 @@
     "score": 0.6,
     "reason": "This story provides useful information about a political situation and its potential resolution. It can help readers understand the dynamics between Gaza and Israel, even though it does not directly report on solutions or improvements.",
     "source": "gpt"
+  },
+  "b7a0162103b5787db34a091e1f50219f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ff575f5c6b778f5a55a20c2b2adbb520": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c4b7f4a0023c84432182971301e144a2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "eb36d317d481f7bc96fbc2ed0fe00dd9": {
+    "score": 0.03,
+    "reason": "actions: draft; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4ff2258ce17d1e840f6c32fd11204158": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4d71915a51d539250644ff7c7d0ff300": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ed93a4ba79f298abb09cb58c2f3df93c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "988a830bd16ba5008390be085e3ef336": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4a6da1d493df6ad8a57a156dbd64f0e9": {
+    "score": 0.03,
+    "reason": "keywords (1): effort; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "291f0fff9925df2b4aed93fc2542c610": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f7f52c7b023553ae47a9c8afa956cf31": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9bec316e88625ea87bf702acc105f1ff": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0fec1e8914886ca7b3525d79aedd4c6b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b4675fcf0e7013bd9a6dd81cd133b7e2": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: warning); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "91267949ee2a1a79f37cd480edc45305": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a significant policy change, which could impact readers' decision-making in various ways. However, it doesn't delve into the reasons behind the decision, potential solutions, or the impacts on various stakeholders, limiting its constructiveness.",
+    "source": "gpt"
+  },
+  "a86ff49582536431dd50676c368c6e83": {
+    "score": 0.8,
+    "reason": "This story reports on a significant development in a longstanding conflict, providing readers with a deeper understanding of the situation. It also hints at progress towards a potential solution, as the recovery of the body could lead to the opening of a crossing. However, it could provide more context and detail to be fully constructive.",
+    "source": "gpt"
+  },
+  "7bb6a53bfa797a3a54adb37455996490": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the role of the US in European defense, but it does so in a somewhat sensational way. It doesn't provide much depth or insight into the reasons behind the NATO chief's statement, the potential consequences of Europe trying to defend itself without US help, or possible alternatives.",
+    "source": "gpt"
+  },
+  "165ab2c7172d3997ed06a916a27ad7c3": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the immigration chief's departure, but it doesn't offer much depth or insight into the implications or reasons behind this decision.",
+    "source": "gpt"
+  },
+  "e38f4ed83d5dbdbe86949a828f61f077": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant political decision and its relation to immigration policies. However, it could provide more context about the specific concerns and potential impacts of the immigration crackdown.",
+    "source": "gpt"
+  },
+  "2824985f8b71386da0454f0de1d57dc1": {
+    "score": 0.8,
+    "reason": "This story is useful in informing readers about a significant legislative decision in France. It could be more constructive if it explored the reasons behind this decision, its potential impacts, and the broader context of social media use among children.",
+    "source": "gpt"
+  },
+  "be2f25b5cdd2019eba8c3d69cddc060b": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the ongoing legal proceedings involving the former Philippine president, but does not provide depth or insight into the implications or context of the situation.",
+    "source": "gpt"
+  },
+  "c89791645ed2d64f860f9214aadf10e5": {
+    "score": 0.3,
+    "reason": "The story informs about the departure of some Border Patrol agents from Minnesota, but doesn't offer much depth or insight into the reasons behind this decision or its potential impact.",
+    "source": "gpt"
+  },
+  "fbdfbf1a6650245508c6d62d4bff498c": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the return of the last Israeli captive from Gaza, which could contribute to readers' understanding of the ongoing conflict. However, it lacks details on the broader implications or potential solutions to the issue.",
+    "source": "gpt"
+  },
+  "49cb704689ecf8868e975294baf5f392": {
+    "score": 0.0,
+    "reason": "This story is not constructive because it simply reports a tragic event without providing any actionable insights, solutions, or deeper understanding for the reader.",
+    "source": "gpt"
+  },
+  "00f880a0d5681af6f73c58d3de40c0d9": {
+    "score": 0.0,
+    "reason": "This story is not constructive because it only reports on a tragic event. It does not offer any actionable insights, solutions, or deeper understanding for the reader.",
+    "source": "gpt"
+  },
+  "c153f675d781a2c8dd331b7909b732a7": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the public's opinion on Trump's immigration policies. However, it doesn't provide any deeper insights, solutions, or progress on the issue of immigration.",
+    "source": "gpt"
+  },
+  "f4d8e3c5d1ceea7ea2918be4f58cf6f5": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the US winter storm, but it lacks depth or insight. It doesn't provide actionable insights or deeper understanding to the reader, nor does it report on solutions or improvements. The impacts are reported, but the causes or trends are not explained.",
+    "source": "gpt"
+  },
+  "ed79b7f7ceb85547b8b3552940cbf0db": {
+    "score": 0.5,
+    "reason": "The story provides awareness about the snowfall in Toronto and the city's response. However, it doesn't provide actionable insights or deeper understanding to the reader. It doesn't report on solutions or improvements, and it doesn't increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "dc184ad6c4a139bb575e302c43605fa1": {
+    "score": 0.6,
+    "reason": "This story informs readers about the imminent danger due to Storm Chandra and the expected severe flooding, which can be useful for those in the affected areas. However, it doesn't provide a deeper understanding of the situation, nor does it report on solutions or improvements.",
+    "source": "gpt"
   }
 }
