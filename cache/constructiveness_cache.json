@@ -23768,5 +23768,165 @@
     "score": 0.3,
     "reason": "This story provides basic awareness about the promotion of Brady to head coach. However, it doesn't offer much depth or insight into the topic or provide actionable insights or deeper understanding to the reader.",
     "source": "gpt"
+  },
+  "d301623edc5b04e69df4edec604aa344": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ad2bb3098b3702b23486ac5b62ced853": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3e9ee6a3e4ca9da37af3a8248f12129f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ac83bdefc8a821ff561d466176358572": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "58f883aa1085285817ba98b9024bb38b": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: shooting); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "bc4080d8d2d061745d8a08f80c47a4c4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "47301aff67d05304a290cb361f219749": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1086f855938392c4e0eb337971f5e023": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c0a98ad93276be16ad66199b5b3ddf3e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0d0798a77a2a762888893c28a5df8e57": {
+    "score": 0.0,
+    "reason": "actions: trial; negative_penalty=0.08 (keywords: lawsuit); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f582c2c6502a069d3b6d49174131cfc9": {
+    "score": 0.06,
+    "reason": "keywords (1): expand; actions: expand; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b24489139f9e7f900435b47eee70c96b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "aa59ffd85984fb7b90793d5fe2064637": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "38469824d5e49028f71da74aa85bdc1c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "cee6ad75253a4ef76a54f27e18f55ca6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0a797dfc3f8f557c07cb3c508f0a16d2": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: risk); semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "56064db979d26074219c2d7c291658fc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a6cd4d5a9dd814327efd936f7f1d1aa5": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a geopolitical issue, but without context or analysis, it offers minimal depth or insight.",
+    "source": "gpt"
+  },
+  "827f245fcc68899c59c48d1bf40ff8c9": {
+    "score": 0.3,
+    "reason": "This story reports on a tragic event, but it doesn't provide actionable insights or deeper understanding for the reader. It also doesn't report on solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "41ec313335c9168b2c35bfd979af7c7d": {
+    "score": 0.6,
+    "reason": "This story informs about a specific event and implicates federal agents, which could lead to a deeper understanding of the issue. However, it doesn't report on solutions or attempts to solve the problem, and the lack of context or analysis limits its usefulness.",
+    "source": "gpt"
+  },
+  "b46fdd9bc68ad4053d38277c070bf4bb": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the state of the economy and the dollar's value. However, it lacks depth on the implications of this decline or potential solutions.",
+    "source": "gpt"
+  },
+  "ab0c45773eccb0eb5e785293e9fe9b44": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a crisis and the officials involved. But it doesn't provide substantial insight or context about the crisis, its causes, or potential solutions.",
+    "source": "gpt"
+  },
+  "e5f2114ed12ee3efc6a33c72f8c17acc": {
+    "score": 0.7,
+    "reason": "This story provides useful insights into public opinion on a significant policy issue. However, it could be more constructive if it also explored the broader implications of the immigration crackdown or potential alternatives.",
+    "source": "gpt"
+  },
+  "a4e7f36963874f6b2ba71ac5246857a8": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a statement made by a public figure, but without context or further information, it doesn't provide much depth or insight.",
+    "source": "gpt"
+  },
+  "83164745a00540f401634a4bdfa4016d": {
+    "score": 0.5,
+    "reason": "This story increases awareness about North Korea's nuclear plans, but it doesn't provide information on the implications, potential solutions or how the international community might respond.",
+    "source": "gpt"
+  },
+  "1938defd86b75248227cf1087256e057": {
+    "score": 0.6,
+    "reason": "This story informs about a significant event in South Korea's political landscape, providing some insight into the country's legal system and its fight against corruption. However, more context or analysis would have been useful.",
+    "source": "gpt"
+  },
+  "82195b7002b334de39529b72347e31b6": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about Neil Young's offer to Greenlanders. However, it lacks depth or insight into why this is significant, how it will impact Greenlanders, or what led to this decision.",
+    "source": "gpt"
+  },
+  "2ce97cb2512cc37a3d9d7e7915a4ce83": {
+    "score": 0.8,
+    "reason": "This story informs readers about a significant policy change in Spain. It could provide useful context for understanding immigration issues in Spain and Europe more broadly, even though it doesn't provide specific details about the policy or its potential impacts.",
+    "source": "gpt"
+  },
+  "5d6c630f704692285f85eae405c90706": {
+    "score": 0.7,
+    "reason": "This story informs readers about a significant health event in India. It provides useful context for understanding the Nipah virus and how India is responding to it. However, it doesn't provide much depth or insight into the broader implications of this outbreak or how it was contained.",
+    "source": "gpt"
+  },
+  "a436a571dfe58aac62376d47f7cdd07c": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a geopolitical event but does not provide any actionable insights, solutions, or deeper understanding of the context or implications.",
+    "source": "gpt"
+  },
+  "8265cfe7716380424b3c14dcd8ae6e2b": {
+    "score": 0.6,
+    "reason": "This story informs about a systemic issue in air traffic control, contributing to a deeper understanding of the cause of the incident. However, it does not report on any solutions or improvements being made to prevent such incidents in the future.",
+    "source": "gpt"
+  },
+  "1b3c5a8bea0605c9769f7963febad727": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a legal decision and its implications for immigration enforcement. However, it does not offer any solutions or improvements to the broader issue of immigration policy.",
+    "source": "gpt"
   }
 }
