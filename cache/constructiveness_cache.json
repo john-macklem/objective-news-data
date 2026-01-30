@@ -24403,5 +24403,150 @@
     "score": 0.0,
     "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens); missing GPT constructiveness result",
     "source": "heuristic"
+  },
+  "126293f867c1847c947ee435de9931c5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "678fbb60ae4a8a25e9771b9587cd626a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "84abad451ff00b981b5ae2b587384ecf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "fc5672626f7731ee2f8565bc94033783": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "73d5bb0ebbfb2ede1409d908555f61a4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1441fb833d4c1b59f2fd0e295283e609": {
+    "score": 0.029,
+    "reason": "semantic: pos_sim=0.12, neg_sim=0.00; semantic_boost=0.03; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "76c4b5a78ea000783384d1458b33f965": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c8599e71c76a833c7891018662cb7cc4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b281425b0131ceb2d366316e87cf1da2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d3f279320887b012a74286578e2d29f6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1819379343fe0758dc642fa8958b578d": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: accus); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "0eca2df5df22bc4cc055324afea3f4d1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "517cdda82ba716a31fa44f99c415a2e1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "487aa3f68e65e25e8dc3fea5680f27d1": {
+    "score": 0.0,
+    "reason": "keywords (1): invest; speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7618f86551a07f1d8205fffa2d0cfbaa": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the geopolitical dynamics between the UK, China, and the US. However, it lacks depth or insight into why it might be 'dangerous' for the UK to do business with China, and does not provide actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "e7aa2f2e74fed924258fdb07966a305b": {
+    "score": 0.5,
+    "reason": "The story increases awareness about potential policy changes and their implications. However, it does not provide a deeper understanding of the situation or suggest any solutions or improvements.",
+    "source": "gpt"
+  },
+  "c3ffc3aa3cca6832fb74ae1a3ad2c7ac": {
+    "score": 0.8,
+    "reason": "This story is constructive as it reports on a solution to a potential problem, providing useful information to the reader. However, it could be more constructive if it provided more context or insight into the implications of the deal.",
+    "source": "gpt"
+  },
+  "47178a353fffe95088eb7dc39f8d9b31": {
+    "score": 0.9,
+    "reason": "This story is constructive as it reports on a significant policy change, which is an attempt to solve economic problems in Venezuela. It gives readers an understanding of the geopolitical and economic implications of the US easing sanctions, contributing to their decision-making and understanding.",
+    "source": "gpt"
+  },
+  "85f2d13588c4f494d913329b8397b04a": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness of the current state of affairs between the US and Iran, but it does not provide in-depth insight or actionable insights for readers. It's more of a reactive news piece to rising tensions.",
+    "source": "gpt"
+  },
+  "4aebe13578a76b84472db62429ba579a": {
+    "score": 0.6,
+    "reason": "This story provides useful context about the potential for military action, questioning the objectives and implications of such a decision. While the topic is negative, it does contribute to the reader's understanding of the situation.",
+    "source": "gpt"
+  },
+  "a1f16eed6f5b1e0654de34d6db699d8e": {
+    "score": 0.5,
+    "reason": "This story increases awareness of a significant geopolitical event, but without further context or analysis, it offers minimal depth or insight.",
+    "source": "gpt"
+  },
+  "630bffde1e5833f299c04c3e24abab7c": {
+    "score": 0.3,
+    "reason": "The story is reactive and sensational, focusing on the potential for conflict without providing useful context or exploring potential solutions.",
+    "source": "gpt"
+  },
+  "278c5aaf3e762bda940fb07e64d9b9c0": {
+    "score": 0.7,
+    "reason": "This story reports on a potential solution to a long-standing conflict, providing useful information even though the topic is inherently negative.",
+    "source": "gpt"
+  },
+  "1a2b683efd859dbc7a977c586350d808": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the harsh punishment system in Indonesia but lacks depth or insight into the reasons behind such penalties, their effectiveness, or any potential solutions or changes.",
+    "source": "gpt"
+  },
+  "db17170ecc8441c2cb113a41c55306e7": {
+    "score": 0.6,
+    "reason": "The story informs about the progress in the truce deal between Israel and Palestine. However, it doesn't provide a deeper understanding or actionable insights about the broader context or the implications of this action.",
+    "source": "gpt"
+  },
+  "b1a7f4ed414822813bacd84a6195a162": {
+    "score": 0.8,
+    "reason": "This story is constructive as it provides useful information about the accountability process in the military. It highlights a problem and the steps being taken to address it, contributing to the reader's understanding of the issue.",
+    "source": "gpt"
+  },
+  "fe25aaebb8e42fc5b33a34fd2240726f": {
+    "score": 0.7,
+    "reason": "The story provides useful information about potential changes in federal involvement in Minnesota. However, without more context or details about what this 'drawdown' entails, it's difficult for readers to fully understand its implications.",
+    "source": "gpt"
+  },
+  "dd7d6e74c397b6605c53c5535e415507": {
+    "score": 0.3,
+    "reason": "While this story raises awareness about a specific incident, it doesn't provide much depth or insight into the broader issues at play, such as the safety conditions for workers in the mining industry or the security situation in Sinaloa.",
+    "source": "gpt"
+  },
+  "e72a8e1f516a98ce98102106350f0f1e": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a change in the management of the Falcons. However, without further information about Cunningham's qualifications, vision for the team, or the challenges he'll face, it doesn't offer much in the way of depth or insight.",
+    "source": "gpt"
   }
 }
