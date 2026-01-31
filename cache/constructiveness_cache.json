@@ -24723,5 +24723,175 @@
     "score": 0.6,
     "reason": "This story informs about a diplomatic fallout between South Africa and Israel, which can be useful for understanding international relations. However, it does not provide much depth or insight into the reasons behind this decision or its potential impacts.",
     "source": "gpt"
+  },
+  "3b1db4cee02c79ad3b0ff2aea3757948": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c3638f9171bb363e708d6972dec04c4e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e9fc8cb1b9b7690b5a4108c95ea17374": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ff4b99f0bff0361bd392d83ed69b45ac": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7964fc5d9239f3fe8c865c6b6f80c4dc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "31975c6f44f81974211fca74a1be6edd": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ab54f06f0abd3ce507470214b99f6e71": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c071e2e4601c389288fe11555d45be86": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "400a522bb9a01b518d82d47a9da6bdc0": {
+    "score": 0.0,
+    "reason": "actions: draft; speculative_penalty=0.03 (tokens: may); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "17ccb71ab3403cbd2ed8a7b26feae84e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7b68864671f5762b5a333a85fca43d7b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "34e8be7fc819b7e849ed90ed3a4519e0": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "cab0601157a18d92b8ac87e12a4f29d3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "feaf6b2ad8624b3b9ffb3601b44a9404": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "55c4ce302c6a858c3057b8c1a1a57f05": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: dead); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9c68510df2e8a5ab8a86553fcefbbc63": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "428035054068d05f8cd0656574311d05": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3e91808e03eda2b743a7c3f8d6e4125c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "86484f9743da31630e4421c2558c1cb8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b16e61279a8be6f7d22d19a74fa59a14": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the current state of government operations, which can impact various aspects of society. However, it lacks details on potential solutions or the impacts of the shutdown.",
+    "source": "gpt"
+  },
+  "cfdca368bbbfd8ad53d83166d295f7e5": {
+    "score": 0.7,
+    "reason": "The story informs about a significant political decision in Venezuela, which can be useful for understanding the country's current political climate. However, it doesn't provide enough context or depth about the implications of this decision.",
+    "source": "gpt"
+  },
+  "2e014ad6e2fb6b003158d35eebaa2bba": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a legal decision in Panama, which can be useful for understanding the country's business environment. However, it doesn't provide enough context or depth about the implications of this decision.",
+    "source": "gpt"
+  },
+  "c722be5b01e68284aea2ca7b08fdb506": {
+    "score": 0.3,
+    "reason": "This story raises awareness about a tragic event, but it lacks depth or insight. It does not provide any actionable insights, nor does it report on solutions or improvements. The story does not increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "31a006f6945ac8d84565abf420cdb2c5": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the release of certain emails by the Justice Department. However, without further information, it's hard to determine if this story provides any actionable insights or deeper understanding. It does not seem to report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "6928eafc2e0108a3555d709eed4548cf": {
+    "score": 0.8,
+    "reason": "This story informs about a significant development in the Syrian conflict, potentially leading to a shift in power dynamics. It provides useful context and understanding about the ongoing situation. However, it doesn't highlight progress or solutions explicitly, and the long-term implications or potential impacts are not clear.",
+    "source": "gpt"
+  },
+  "3e24234ca558a425ecb0c1743064b4c4": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the political dynamics between UK, US and China, but it does not provide in-depth analysis or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "043c008020b2a4f1c6861302f97977e2": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the ongoing negotiations between the US and Iran, but lacks depth or context to fully understand the implications or potential outcomes of such a deal.",
+    "source": "gpt"
+  },
+  "2a26b27874b28cefeb9b3df673e34cfa": {
+    "score": 0.3,
+    "reason": "The story is more sensational than informative. While it adds to the public awareness about the Epstein case, it does not provide any meaningful insights or understanding about the broader issue of sexual exploitation.",
+    "source": "gpt"
+  },
+  "875d5a6f4a0847c117576d971da2d786": {
+    "score": 0.5,
+    "reason": "This story raises awareness about ongoing protests against ICE, but it doesn't provide much depth or insight beyond that. It doesn't explain the reasons behind the protests, the responses from authorities, or potential solutions to the issues being protested.",
+    "source": "gpt"
+  },
+  "782d3d149a46842ec8cf4b552f0fd0c4": {
+    "score": 0.8,
+    "reason": "This story provides useful information about a significant development in international relations. However, it does not provide enough context or detail to fully understand the implications of this development or the potential outcomes of these talks.",
+    "source": "gpt"
+  },
+  "fde52fe6222a5811943120fe150d60b8": {
+    "score": 0.5,
+    "reason": "This story, similar to the first one, raises awareness about nationwide protests against ICE. However, it lacks depth and insight, as it does not delve into the reasons for these protests, the potential solutions to the issues being raised, or the responses from authorities.",
+    "source": "gpt"
+  },
+  "d473cc83db99a1cfcf37eae7a34372b4": {
+    "score": 0.3,
+    "reason": "This story is not constructive as it only reports on a negative event without providing any actionable insights or deeper understanding. It does not report on solutions, improvements, or attempts to solve the problem. It only offers basic awareness of the event.",
+    "source": "gpt"
+  },
+  "1f1cfe55bf43824af215246925101cf2": {
+    "score": 0.6,
+    "reason": "This story is somewhat constructive as it informs about a specific event that could have implications for the people in the region. However, it does not provide a deeper understanding of the situation or suggest any solutions or improvements.",
+    "source": "gpt"
+  },
+  "28073d0dae85898b3394ee924ed13a19": {
+    "score": 0.6,
+    "reason": "This story is somewhat constructive as it provides information about a potential policy change. However, it does not provide a deeper understanding of the implications of this change or suggest any solutions or improvements.",
+    "source": "gpt"
   }
 }
