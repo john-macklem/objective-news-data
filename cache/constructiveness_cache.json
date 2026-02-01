@@ -25198,5 +25198,150 @@
     "score": 0.5,
     "reason": "While this story provides basic awareness about the security situation in Pakistan, it doesn't offer much depth or insight. Without more context about the causes, impacts, or potential solutions to the violence, it doesn't contribute meaningfully to readers' understanding or decision-making.",
     "source": "gpt"
+  },
+  "8c232d435b0b25f23597cc767625a2ac": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "41f4a1d0eb2722bbf634e29cd0367c55": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "83865b0457b571a046c487005a3a7267": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e251bfc3987b30241919226023767363": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7237ad07641c092670a10700aab69141": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "52b4a590088e9f63a1bdafa409716eec": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "758077eb8b1d4493ec69689f1b04b3cd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "066af2e950086f27a623973a8a0d8316": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: attack); speculative_penalty=0.06 (tokens: warn); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7ec17b6bb8d76e6d8762ecb49ee2e351": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f2ea683f66cd4414efcb9d203d919c50": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7f4bacd942c75edf20b57c2181b83e33": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "070f1f56f0e9f18b1434bbf1f3714aef": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "40aaffae764a72ea1b27ed7ef4c5a51f": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4b594b65b077d3fd183382f8a34b46a4": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "afa93f921cefd9c51f6012f655327fad": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the ongoing Epstein files probe and the involvement of ex-Prince Andrew. However, it lacks depth or insight into the issue, offering no actionable insights or deeper understanding to the reader.",
+    "source": "gpt"
+  },
+  "252b0704809f6e7ffb4a159f6735bf42": {
+    "score": 0.8,
+    "reason": "This news story is useful as it informs the reader about the potential end of the partial shutdown. It provides a sense of progress and a potential solution to a problem, which contributes to the reader's understanding and decision making.",
+    "source": "gpt"
+  },
+  "3e5136794708ef58268609b382b7c8e1": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the President of the International Olympic Committee's perspective on recent events. However, it does not offer actionable insights, solutions, or a deeper understanding of the issues at hand.",
+    "source": "gpt"
+  },
+  "9894237e0e3d504f36ebdae2bb5d5dae": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the ongoing conflict in Ukraine, but does not offer any deeper insights or actionable information for the reader.",
+    "source": "gpt"
+  },
+  "b25f2ce47765dd41f9b2a970101ee5ad": {
+    "score": 0.6,
+    "reason": "While this story is speculative in nature, it does provide useful context and understanding about the dynamics within Manchester United's management. However, it does not report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "ef3c4a05df85d396d215a15d78361c41": {
+    "score": 0.8,
+    "reason": "This story informs readers about the political situation in Costa Rica, providing useful context about the country's political dynamics. However, it does not clearly highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "fd981e9e094fc8832bb082e6d64a3df9": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the release of a father and his child from a detention center, but it does not provide enough context or depth to fully understand the situation or its implications.",
+    "source": "gpt"
+  },
+  "30f120db264404845146228f671585d4": {
+    "score": 0.3,
+    "reason": "This story raises awareness about a tragic event but offers minimal depth or insight into the causes, potential solutions or preventative measures.",
+    "source": "gpt"
+  },
+  "30ca1f77e76880337fadae0d822427c2": {
+    "score": 0.3,
+    "reason": "While the story informs readers about an ongoing conflict, it does not provide much context or insight into the broader situation, causes, or potential solutions.",
+    "source": "gpt"
+  },
+  "5d875e847ad8f85de64573b972fd8cea": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the ongoing geopolitical tensions between Iran and Europe, but it lacks depth or insight into the causes, implications, or potential solutions to the issue.",
+    "source": "gpt"
+  },
+  "4b3a439fc46edc0149c6a156e54a6724": {
+    "score": 0.7,
+    "reason": "The story provides useful information about the government shutdown, helping readers understand its causes and impacts. However, it does not highlight any progress or solutions to the problem.",
+    "source": "gpt"
+  },
+  "fc4f8758b2afbad8536daff47170e746": {
+    "score": 0.6,
+    "reason": "This story informs readers about the legal actions taken by the families, providing some context and awareness about the issue. However, it does not provide actionable insights or report on solutions to prevent such incidents in the future.",
+    "source": "gpt"
+  },
+  "c92e495bdb72363cfe99f5351c443933": {
+    "score": 0.9,
+    "reason": "This story is constructive as it highlights progress in the area of human rights in Venezuela, specifically the release of a rights activist. It provides useful information to readers about the state of human rights in the country and could potentially inspire action or deeper understanding.",
+    "source": "gpt"
+  },
+  "893ae3f8483e8ef032f63b9f20c9c80b": {
+    "score": 0.8,
+    "reason": "This story is constructive as it provides useful information about the reopening of the Gaza border crossing, which can be seen as a sign of progress. It can help readers understand the current situation in the region, even though it doesn't offer solutions or insights into the causes or impacts.",
+    "source": "gpt"
+  },
+  "ee57ae486d24ab2b37d87340d5de37a3": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a specific event in a sports competition, but it doesn't offer deeper insights or context that would make it particularly constructive. It doesn't contribute to understanding broader trends or issues, and it doesn't provide actionable insights or solutions.",
+    "source": "gpt"
   }
 }
