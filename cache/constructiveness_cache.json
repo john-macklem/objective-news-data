@@ -25043,5 +25043,160 @@
     "score": 0.5,
     "reason": "This story provides some information about changes within a sports team, which may be useful to fans or those involved in the industry. However, it does not provide deeper insights or discuss broader trends or implications.",
     "source": "gpt"
+  },
+  "4458a33336866bdec1c51f533ced0920": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "89d5863c138a47c27959ae06246e771b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "22c8d0f72d3fa8a2cf421668199ed525": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "345cafccaef061f03290f52e86ad352b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "dc7c54f3d8752973a5b3bbdcd7eabd76": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f5ed1872571ed2995dc720d7d574e7ef": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4b46ae7dc2965cf1109373a6a8d41fcc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "31cd3c473d5880252b24e6386e1f331a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c8301c82b01e29dcf64abfd40355f8ca": {
+    "score": 0.03,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "52fc7990d46a2c51adc1c271afa5bc55": {
+    "score": 0.017,
+    "reason": "keywords (1): partnership; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8393539deb6a05357fafe695af5e4699": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: protest); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f7ae6088258d9a9442116183210ce8bb": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: risk); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6e9b8f47c509a10a0ab974b089c3f237": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5734c9de436634b685f1cf7142e59dab": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2e1117c7e8fa5144248e09eb4627b8ca": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c465fa8295bf141f32be61cbfd34d41b": {
+    "score": 0.092,
+    "reason": "keywords (1): innovation; semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "fb2da23ffafc07a38d7fe0c6b42ebad6": {
+    "score": 0.7,
+    "reason": "The story provides useful information about the ongoing diplomatic efforts between the US and Iran. However, without more details, it's hard to say whether it provides a deeper understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "d362db8acda025bf01b70ab6c5d7aca5": {
+    "score": 0.6,
+    "reason": "This story informs readers about a shift in political power in Texas, which could be useful for understanding broader political trends. However, it does not provide much depth or insight beyond the basic facts of the election.",
+    "source": "gpt"
+  },
+  "42b04d2ec28e7e6ed564fbfd11394992": {
+    "score": 0.5,
+    "reason": "The story raises awareness about the federal response to protests in certain cities, but it does not provide much depth or insight into the reasons for this decision or its potential impacts.",
+    "source": "gpt"
+  },
+  "4f38091cbf16dc4743c47c242e13bb24": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a sports event but does not offer deeper insights or understanding. It does not report on solutions, improvements, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "2e94d966ea22af385af88dd59ffb1a4a": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a political event, which could help readers in their decision-making. However, it does not provide enough context or details to give a deeper understanding of the event or its implications.",
+    "source": "gpt"
+  },
+  "ef79bf210f4487c342e46b74bd0c2b57": {
+    "score": 0.9,
+    "reason": "This story offers an in-depth analysis of a current issue, providing readers with a clearer understanding of the situation. It highlights the causes and potential impacts of the government shutdown, contributing to the reader's sense of agency.",
+    "source": "gpt"
+  },
+  "52c3ffc7323b1443e46f914942e582b3": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a political figure's potential involvement in a legal situation, but it doesn't offer much depth or insight into the implications of this situation or any actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "3bf07c941d71f4d4bc87370fbaaab781": {
+    "score": 0.2,
+    "reason": "The story is purely informational, reporting on the death of a public figure. It does not provide any actionable insights, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
+  },
+  "286cd7b3160954fe7b386312021360c7": {
+    "score": 0.6,
+    "reason": "This story informs about a specific case within the broader context of immigration and detention policies. It could contribute to a deeper understanding of these issues, although it does not report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "b25da54bb254dc51f3e9b5bc40010eaa": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness of Iran's actions against EU armies, but it lacks depth or insight into why this decision was made, what the implications are, or how this problem could be resolved.",
+    "source": "gpt"
+  },
+  "62970c78c4b03dd2a175d3d093c05efe": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the reopening of the US mission in Venezuela, which could have implications for diplomatic relations between the two countries. However, it does not provide enough context or analysis to fully understand the situation.",
+    "source": "gpt"
+  },
+  "d421e9284eb5126a013d3c99fa52778c": {
+    "score": 0.7,
+    "reason": "This story informs readers about the mayor's response to alleged illegal activity, which can help them understand the current state of immigration enforcement in Chicago. However, it does not offer solutions or delve into the larger systemic issues at play.",
+    "source": "gpt"
+  },
+  "334d683f441f62f020fa82f85b4df297": {
+    "score": 0.6,
+    "reason": "This story provides useful context about the political dynamics in Iraq, which can help readers understand the implications of international relations and decisions. However, without more information about the potential impacts or solutions, it doesn't fully empower readers.",
+    "source": "gpt"
+  },
+  "dd3a15c8797516cd02e2751130f46bbe": {
+    "score": 0.9,
+    "reason": "This story clearly highlights progress in international relations, which can contribute to readers' understanding of global politics. The mention of negotiations also suggests a potential solution to conflicts between Iran and the U.S., empowering readers with knowledge about possible future developments.",
+    "source": "gpt"
+  },
+  "a707995c28bcafc90b17b34b682a5448": {
+    "score": 0.5,
+    "reason": "While this story provides basic awareness about the security situation in Pakistan, it doesn't offer much depth or insight. Without more context about the causes, impacts, or potential solutions to the violence, it doesn't contribute meaningfully to readers' understanding or decision-making.",
+    "source": "gpt"
   }
 }
