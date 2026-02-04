@@ -25978,5 +25978,165 @@
     "score": 0.055,
     "reason": "keywords (1): launch; actions: launch; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens); missing GPT constructiveness result",
     "source": "heuristic"
+  },
+  "828d46f807cb288a38161905f1dcb852": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3af24106593a68313f5e2878af19aa62": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "71e11d869c340d5c801140900b762ef9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "22cbc586632b7e3d13399227858c25b7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3723fe62eb137a7c15107ad0f1fa450d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4ab9a2bf5635e02c69e56d94b9e6150c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c2f0fb54d6956b59ed36b55e9327025b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e785c6a8571032f2461954c95136a1f0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "64527ecea880b0001a8769062a40f143": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "aa82b6ce0f5d0c489f2771fac4a8ff70": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8d25afec9f52f9099cbbdb202be0f259": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: warn); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1b2f80c31f22e6920dcbee8e3495db34": {
+    "score": 0.06,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f4e44067dafb109fb18d9f6c43cfd4cb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ce3af108202138e1e28cf16ea8394bdb": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: warn); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "41c3dcf1f1fc118efec9d00fef5343fa": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f474e851134f17757a7b447f22ed35e4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "56872081693b367f27142aa84f3405df": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "693be9576f0286e9fa1c2aeebd5ff55d": {
+    "score": 0.7,
+    "reason": "This story is constructive as it informs the reader about the government's actions to resolve a significant issue, the government shutdown. However, it lacks depth in explaining how this solution was reached or what impacts it may have.",
+    "source": "gpt"
+  },
+  "697e4cc64e6092ec73a7bc1eb115766e": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a change in the White House staff. However, it does not provide any insights into why this resignation is significant or what its potential impacts might be.",
+    "source": "gpt"
+  },
+  "65df64f4d3bae613d15f2b625f75a69d": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a health issue of a public figure. However, it does not provide any deeper understanding, actionable insights, or context about why this might be significant.",
+    "source": "gpt"
+  },
+  "1afb6c1b2c638ad479a068ab95d55dcb": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about potential conflicts of interest in the Trump White House. However, without more context or depth, it doesn't offer actionable insights or a deeper understanding.",
+    "source": "gpt"
+  },
+  "87a51aeb3b7e741d64396d2bf06f3b63": {
+    "score": 0.6,
+    "reason": "This story informs readers about the transparency in the vetting process for a major diplomatic role. It provides useful context, even if the topic isn't inherently positive or negative.",
+    "source": "gpt"
+  },
+  "5a9abc9373962616176157bdc80343a7": {
+    "score": 0.6,
+    "reason": "This story provides useful information about ongoing diplomatic talks, which is important for understanding international relations. However, it lacks details about the nature of the tensions or potential solutions.",
+    "source": "gpt"
+  },
+  "64462f763a5aa9b959aaa72c78099279": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a tragic event, but it doesn't provide enough information or context to be truly constructive. It doesn't offer actionable insights or deeper understanding, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "2f984c1460910cf59537dfe01e52d430": {
+    "score": 0.6,
+    "reason": "This story informs readers about an upcoming event that could have significant implications, providing some useful context. However, without more information on what this testimony might reveal or how it might impact broader systems or trends, it's not fully constructive.",
+    "source": "gpt"
+  },
+  "b76b8957be71cc85bc4ff12e469c4b79": {
+    "score": 0.3,
+    "reason": "While this story is certainly inspiring, it doesn't offer much in terms of usefulness, progress, or awareness. It's a personal anecdote that doesn't provide actionable insights, report on solutions or improvements, or increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "c0ce1f94647f0e94e1a5028a8c1f69ac": {
+    "score": 0.6,
+    "reason": "The story informs about the different responses from Trump and Vance to the latest Epstein files. It provides useful context about the situation, even though the topic is negative.",
+    "source": "gpt"
+  },
+  "681dad8d36c49674f30b30bc4da8c0c8": {
+    "score": 0.3,
+    "reason": "The story offers basic awareness about a tragic event involving a Greek coastguard vessel and a migrant boat. However, it doesn't provide much depth or insight into the causes, trends, or impacts of such incidents.",
+    "source": "gpt"
+  },
+  "890428a34efaa2818f3fae2df7b4d282": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about Prince Andrew's actions following the release of the latest Epstein files. However, it lacks depth or insight into the broader implications or context of the situation.",
+    "source": "gpt"
+  },
+  "d3f56b906a31ccad90f6b3a30546c2dc": {
+    "score": 0.6,
+    "reason": "This story provides useful historical context about a significant figure in Libyan politics, which can aid readers in understanding the country's current situation. However, it doesn't seem to offer actionable insights or report on solutions or progress.",
+    "source": "gpt"
+  },
+  "264ae6173d520b9fe41c1447c9b805f0": {
+    "score": 0.3,
+    "reason": "While this story offers a basic level of awareness about a cultural trend in China, it doesn't seem to provide deep insights, actionable information, or report on progress or solutions.",
+    "source": "gpt"
+  },
+  "371384c8ceb16f244d1a6068b8441317": {
+    "score": 0.7,
+    "reason": "This story increases awareness about a serious humanitarian issue and provides a deeper understanding of the experiences of Palestinian women. However, it doesn't appear to highlight solutions or progress.",
+    "source": "gpt"
   }
 }
