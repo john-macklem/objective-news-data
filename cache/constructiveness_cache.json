@@ -26448,5 +26448,150 @@
     "score": 0.6,
     "reason": "This story informs readers about a significant development in the sports world, which could be useful for fans or those involved in sports betting. However, it doesn't provide deeper insights into the implications of the trade or the strategies of the teams involved.",
     "source": "gpt"
+  },
+  "86fad724f27e0e50424de8c0f3f80842": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "7c4dea1695d5c62ba5fe139974a3cfe9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "637dd60b67a322788e5e25d35fc2d0cc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "cd25f7e8da50f72115ff9fd26b9402e4": {
+    "score": 0.095,
+    "reason": "keywords (1): upgrade; actions: upgrade; semantic: pos_sim=0.14, neg_sim=0.00; semantic_boost=0.03; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2888575ffa1bac0d99fc157cc70f36c4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "72c8a29c29c94cdb2deae36c49d4a18e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f479a37bb12c3a1e11bcc52ddd538bfa": {
+    "score": 0.03,
+    "reason": "actions: release; semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "17f416bb38eb1d54bd18b8615e3485b4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "13550213660cc30dcbf96ea1d20424d4": {
+    "score": 0.03,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "95b295ab5c51d4939bcfbc3e7a1bdd2b": {
+    "score": 0.08,
+    "reason": "keywords (1): launch; actions: launch; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "89064868d380d3384ed9bf5be6fd349b": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: concern); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d9fe996e64bf1edaf383c7dbed90e478": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c3d852a4f759d41502bf7b767fa7306b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9167cdf9446cb0895c4b5d3f6c85ca9a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "9606edb2b1bb66d5f33a9ecc67c3c11f": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a political controversy, but it doesn't offer deeper insights or actionable information for the reader. It also doesn't report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "e7049f9bcb5b0bcfb8ca37488208cc88": {
+    "score": 0.6,
+    "reason": "The story provides useful information about a new rule affecting career civil servants. However, it doesn't highlight any progress or solutions, nor does it empower the reader with knowledge on how this might impact them or what they can do about it.",
+    "source": "gpt"
+  },
+  "e14822ea6eab90849915a9e79226f2e0": {
+    "score": 0.7,
+    "reason": "This story informs the reader about a significant political development, providing context and understanding. However, it doesn't provide actionable insights or delve into the potential impacts of this decision.",
+    "source": "gpt"
+  },
+  "f5eae47cc555d1cd556e5f36d18eca1b": {
+    "score": 0.8,
+    "reason": "This story is constructive as it provides useful information about the ongoing diplomatic efforts between the US and Iran. It does not, however, provide detailed insights into the potential outcomes or impacts of these talks.",
+    "source": "gpt"
+  },
+  "ee311ae2cd5d26eca35cf74aab438205": {
+    "score": 0.9,
+    "reason": "This story is highly constructive as it reports on a significant agreement between two major powers, highlighting progress in nuclear disarmament efforts. It would be even more constructive if it provided more context or analysis on the implications of this agreement.",
+    "source": "gpt"
+  },
+  "83e983396cd8bf15aacd236a8cfd0f6f": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a personal event in the life of a public figure. It does not, however, offer any deeper understanding or insight, nor does it report on any solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "3736bdc9d85b2cd0302ff878e466d6fa": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a political event but doesn't offer in-depth analysis or actionable insights for the reader. The story does not discuss solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "08caf5eac376611d5d21cc2083759598": {
+    "score": 0.3,
+    "reason": "The story offers basic awareness about a diplomatic incident but lacks depth and does not provide the reader with actionable insights or a deeper understanding of the situation. It does not highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "5bd164fd1e27feecc8705370ae6385b3": {
+    "score": 0.7,
+    "reason": "This story provides useful information about ongoing peace talks and a prisoner exchange between Russia and Ukraine. Although it doesn't report a breakthrough in talks, it does inform about the attempts being made to solve the problem.",
+    "source": "gpt"
+  },
+  "b7fdca5bacd0494545731b5cd3dca978": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the boat disaster and the findings of the inquiry. It may help readers understand the importance of safety measures and the consequences of negligence. However, without more details, it's unclear whether it offers solutions or actionable insights.",
+    "source": "gpt"
+  },
+  "34c0a2463ca0ff2aecb6609641aff42b": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the ongoing conflict between Russia and Ukraine, and the efforts to resolve it. However, it lacks depth or insight into the reasons behind the conflict, the potential solutions, or the impacts of the war.",
+    "source": "gpt"
+  },
+  "0054ef8f16d303e3eaafbbdfb3740785": {
+    "score": 0.7,
+    "reason": "This story offers useful context about the political debate over ICE funding. It provides information about the demands of the Democrats, which could help readers understand their position and the potential implications for immigration policy. However, without more detail, it's unclear whether it provides a balanced view or discusses potential solutions.",
+    "source": "gpt"
+  },
+  "7b6305ce4ef0f9bc29189ae61873064c": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the player's status for a future game, but it lacks depth or insight into how this might impact the team's performance or strategy.",
+    "source": "gpt"
+  },
+  "8a1ea1480f8175b8f8ac5dcb97f7d88b": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the player's status with the team, but it doesn't provide deeper insight into the implications for the team's future or the reasoning behind the decision.",
+    "source": "gpt"
+  },
+  "4accbc7c211f3ce4406d51c1212e7eb6": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the player's arbitration outcome and salary, but it lacks depth or insight into how this might impact the team's budget, the player's performance, or the broader trends in player salaries.",
+    "source": "gpt"
   }
 }
