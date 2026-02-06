@@ -26593,5 +26593,165 @@
     "score": 0.5,
     "reason": "This story provides basic awareness about the player's arbitration outcome and salary, but it lacks depth or insight into how this might impact the team's budget, the player's performance, or the broader trends in player salaries.",
     "source": "gpt"
+  },
+  "7d72a1a5eaf094b3bb49058123b9c69e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c7f0231eea38116440bec456f4cd6b25": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9f38f067528456a6acce2c3306bf032f": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "aef838afddc8a8283f04005b3771853c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a19dca4810c8ca377a3ad4d4b56bd785": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: accus); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "78c02ac24ebc00df3dd8c30b76e443c0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "439bfba1a027ecf423b52954cae1d5fa": {
+    "score": 0.017,
+    "reason": "actions: start; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "750e2f273a75564e8da1fad24c4a3332": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6c807532a5f8d1f630a934e8a5967b1c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5a3285a68ffbcb8fedeb7f327a57386d": {
+    "score": 0.052,
+    "reason": "actions: start; semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "39534d0626b83062bd8ac90c606ffca2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "50efe550b59aa8f7735ff656b627dc5b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "46447f50687eedcb8576ec34169274d2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4f18e935ff5bfdaefa571c4efdfaf5bb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5668d94ad3547634dc42b871abfc220d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5b457d14662066d8922545dfc35b2dda": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ee5ec595e5bfad27f89d7231f8952334": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a9e1367b0e858da8270639acc2d30860": {
+    "score": 0.8,
+    "reason": "This story informs readers about a significant development in international relations. It provides context on the state of nuclear talks between Iran and the US, even if it doesn't provide specific solutions or progress.",
+    "source": "gpt"
+  },
+  "f63d6edc9ddcf709403ec561ff30784f": {
+    "score": 0.9,
+    "reason": "This story provides actionable information for readers who might benefit from discounted drugs. It also highlights an innovative approach to healthcare costs, contributing to discussions about solutions in this area.",
+    "source": "gpt"
+  },
+  "a31c14cb0e09bd3755c46414831cdba8": {
+    "score": 0.9,
+    "reason": "This story reports on a significant development in international trade, providing readers with a deeper understanding of economic and political trends. It also highlights a solution to the problem of high tariffs.",
+    "source": "gpt"
+  },
+  "4d2fd0f8bfa69b467e252c6ecff435f8": {
+    "score": 0.7,
+    "reason": "The story is constructive as it informs about the reestablishment of military talks between two major world powers, which is useful for understanding the current geopolitical context. However, without more details on what these talks entail, the story does not provide a deep understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "5350b6eb690971c36178e62287b86bd3": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the political situation in Japan, which can help readers understand the potential changes in the country's leadership. However, without further context or analysis, it does not offer deep insights or clarity about the impacts of this potential landslide victory.",
+    "source": "gpt"
+  },
+  "cc291e9d39daab4b24db966bcefd777c": {
+    "score": 0.8,
+    "reason": "This story is constructive as it provides useful information about India's economic policies and their potential impacts, which can help readers make informed decisions. It also highlights the progress in terms of trade deals with the U.S. and EU, indicating a solution to support growth.",
+    "source": "gpt"
+  },
+  "c2e69aba746ee68da3f4d307e5522468": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a military incident, but without the summary or further details, it's hard to gauge its depth or insight. It doesn't seem to offer actionable insights, solutions, or a deeper understanding of the underlying issues.",
+    "source": "gpt"
+  },
+  "99c4b5da10f2281014fd10e04245ec0f": {
+    "score": 0.5,
+    "reason": "The story seems to report on a potential solution or improvement in international relations, but without a summary or further details, it's hard to evaluate its depth or usefulness. It does seem to offer basic awareness of the issue.",
+    "source": "gpt"
+  },
+  "9ee7a9934abc12b5cb429288067ebbc6": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a violent incident but lacks depth or insight without additional information. It doesn't seem to offer actionable insights, solutions, or a deeper understanding of the underlying issues.",
+    "source": "gpt"
+  },
+  "e3534b1ec16bdd5ea7e65c3d54757a6d": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the current state of the housing market, which can help readers make informed decisions about buying or selling property. However, it doesn't provide any solutions or deeper insights into the causes or implications of this trend.",
+    "source": "gpt"
+  },
+  "851824454dc20c03571c69f6537bc897": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the state of media freedom and national security laws in Hong Kong. However, it doesn't provide much depth or insight into the broader context or implications of this issue.",
+    "source": "gpt"
+  },
+  "6dc3bddbca6876fcc998e3eab06876ad": {
+    "score": 0.6,
+    "reason": "This story provides useful information about Amazon's financial performance and investment plans, which can help readers make informed decisions about investing in the company. However, it doesn't provide any solutions or deeper insights into the causes or implications of this trend.",
+    "source": "gpt"
+  },
+  "940669c3526d5dd6685af556ff912a29": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about a significant issue within the Toronto police force. However, without more information or context, it's hard to say whether it provides deeper understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "15276bad02663fa7fa43459ccefcabc4": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant policy change in Canada, which could affect decisions around climate change and electric vehicles. However, without more information on the reasons for the decision or its potential impacts, the story doesn't fully empower readers to understand or act on the issue.",
+    "source": "gpt"
+  },
+  "67cf7e61cd4e3066f12d081627c32ae3": {
+    "score": 0.7,
+    "reason": "This story provides useful context about US-Cuba relations, informing readers about the complex dynamics at play. However, without more information on the implications of these actions, the story doesn't fully empower readers to understand or act on the issue.",
+    "source": "gpt"
   }
 }
