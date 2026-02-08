@@ -1,8 +1,8 @@
 {
-  "fetched": 1925,
-  "filtered": 867,
-  "clustered": 86,
-  "scored": 29,
+  "fetched": 1903,
+  "filtered": 835,
+  "clustered": 85,
+  "scored": 31,
   "feeds": {
     "feeds_total": 45,
     "url_normalized": 8,
@@ -22,157 +22,159 @@
       "goosefeed.com": 3,
       "r.jina.ai": 3,
       "feeds.reuters.com": 1,
-      "english.alarabiya.net": 1,
       "rsshub.app": 1,
+      "english.alarabiya.net": 1,
       "www.theglobeandmail.com": 1
     }
   },
   "cache_metrics": {
     "summary": {
       "stale_ttl": 31,
-      "load_ms": 157,
-      "miss": 27,
-      "hit": 2
+      "load_ms": 273,
+      "miss": 30,
+      "stale_or_invalid": 1,
+      "hit": 1
     },
     "constructiveness": {
-      "miss": 37,
+      "miss": 41,
       "hit": 3
     },
     "headline": {
-      "miss": 27,
-      "hit": 2
+      "miss": 30,
+      "hit": 1
     }
   },
   "clustering_metrics": {
     "counters": {
-      "articles_before_dedupe": 867,
-      "articles_in": 855,
-      "candidate_clusters_checked_total": 7918,
-      "candidate_articles_checked_total": 11365,
-      "similarity_calls_total": 1432989,
-      "candidate_clusters_skipped_core": 1075,
-      "clusters_out_pre_merge": 680,
-      "merge_pass1_pairs_checked_total": 883509,
-      "merge_iterations_pass1": 13,
-      "merge_pass2_pairs_checked_total": 1002826,
-      "merge_iterations_pass2": 16,
-      "clusters_out_final": 651
+      "articles_before_dedupe": 835,
+      "articles_in": 825,
+      "candidate_clusters_checked_total": 7826,
+      "candidate_articles_checked_total": 12792,
+      "similarity_calls_total": 2551504,
+      "candidate_clusters_skipped_core": 1293,
+      "clusters_out_pre_merge": 661,
+      "merge_pass1_pairs_checked_total": 1560135,
+      "merge_iterations_pass1": 20,
+      "merge_pass2_pairs_checked_total": 453533,
+      "merge_iterations_pass2": 8,
+      "clusters_out_final": 633
     },
     "dedupe": {
-      "removed_count": 12,
+      "removed_count": 10,
       "reason_counts": {
-        "canonical_url": 12
+        "canonical_url": 10
       },
-      "articles_in": 867,
-      "articles_after": 855
+      "articles_in": 835,
+      "articles_after": 825
     },
     "timings": {
-      "clustering_assign": 14.878459746018052,
-      "clustering_merge_pass1": 1583.125411156565,
-      "clustering_merge_pass2": 674.5986366858706,
-      "clustering_finalize": 0.5730442916974425,
-      "clustering_total": 2273.40233022999
+      "clustering_assign": 18.301998435519636,
+      "clustering_merge_pass1": 2620.6146688722074,
+      "clustering_merge_pass2": 322.99458753317595,
+      "clustering_finalize": 0.27838367968797684,
+      "clustering_total": 2962.470152088441
     },
     "cluster_size_stats": {
       "min": 1,
       "p50": 1,
-      "p90": 2,
-      "p99": 6.5,
-      "max": 28
+      "p90": 2.0,
+      "p99": 5.0,
+      "max": 39
     },
     "candidates_per_article": {
-      "avg": 9.260818713450293,
+      "avg": 9.486060606060606,
       "p90": 22.0,
-      "p99": 35.460000000000036
+      "p99": 43.0
     }
   },
   "source_breakdown": {
-    "total_stories": 29,
-    "stories_with_source": 29,
+    "total_stories": 31,
+    "stories_with_source": 31,
     "stories_missing_source": 0,
     "by_source": {
-      "ESPN": 5,
+      "Al Jazeera": 8,
       "CBS Sports": 2,
-      "ABC News": 4,
-      "Axios": 3,
-      "Reuters": 6,
-      "NPR": 1,
-      "Al Jazeera": 2,
-      "Bloomberg": 2,
-      "The Guardian": 1,
+      "Axios": 1,
+      "NPR": 2,
+      "ESPN": 3,
+      "Global News": 1,
+      "Yahoo Sports": 2,
+      "ABC News": 2,
+      "BBC": 1,
       "CNBC": 1,
-      "New York Times": 1,
-      "BBC Sport": 1
+      "Reuters": 4,
+      "Forbes": 1,
+      "Bloomberg": 3
     }
   },
   "clustered_source_breakdown": {
-    "total_stories": 29,
-    "stories_with_sources": 29,
+    "total_stories": 31,
+    "stories_with_sources": 31,
     "stories_missing_sources": 0,
     "by_source": {
-      "ESPN": 8,
-      "Sportsnet": 3,
-      "Yahoo Sports": 8,
+      "Al Jazeera": 8,
+      "BBC": 5,
+      "New York Times": 2,
+      "Financial Times": 3,
+      "Reuters": 11,
+      "The Guardian": 7,
       "CBS Sports": 4,
-      "Bleacher Report": 3,
+      "Bleacher Report": 1,
       "Sports Illustrated": 2,
-      "ABC News": 4,
-      "BBC": 1,
-      "Reuters": 10,
+      "ESPN": 6,
+      "Sportsnet": 6,
+      "Associated Press": 4,
       "CBC News": 2,
-      "The Guardian": 8,
-      "Business Insider": 2,
-      "Axios": 3,
-      "Al Jazeera": 3,
-      "NPR": 2,
-      "Associated Press": 5,
-      "Financial Times": 1,
+      "Axios": 1,
+      "NPR": 3,
+      "Yahoo Sports": 9,
+      "Forbes": 4,
+      "Globe and Mail": 2,
+      "Global News": 1,
       "Sky Sports": 1,
-      "BBC Sport": 2,
+      "BBC Sport": 1,
+      "ABC News": 2,
+      "CNBC": 2,
       "Al Arabiya": 1,
-      "Globe and Mail": 1,
-      "Forbes": 1,
-      "Bloomberg": 5,
-      "Financial Post": 2,
-      "CNBC": 1,
-      "New York Times": 1
+      "Bloomberg": 3,
+      "Financial Post": 3
     }
   },
   "gpt": {
-    "gpt_final_story_count": 29,
-    "gpt_calls_total": 27,
-    "gpt_cache_hits": 2,
-    "gpt_cache_misses": 27,
-    "gpt_combined_calls": 27,
-    "gpt_input_char_count_total": 15902
+    "gpt_final_story_count": 31,
+    "gpt_calls_total": 30,
+    "gpt_cache_hits": 1,
+    "gpt_cache_misses": 30,
+    "gpt_combined_calls": 30,
+    "gpt_input_char_count_total": 20026
   },
   "timings": {
-    "load_caches": 0.16,
-    "fetch_articles": 29.23,
-    "date_filter": 0.49,
+    "load_caches": 0.28,
+    "fetch_articles": 30.23,
+    "date_filter": 0.59,
     "content_filter": 0.21,
-    "cluster": 2275.89,
+    "cluster": 2964.81,
     "initial_scoring": 0.08,
-    "constructiveness_scoring": 39.21,
+    "constructiveness_scoring": 56.2,
     "final_scoring": 0.01,
-    "gpt_enrichment": 32.14,
+    "gpt_enrichment": 38.73,
     "trending_flags": 0.0
   },
   "headline_metrics": {
-    "total": 29,
+    "total": 31,
     "missing": 0,
     "source_counts": {
-      "gpt": 27,
-      "cache": 2
+      "gpt": 30,
+      "cache": 1
     },
     "length": {
-      "avg": 60.38,
-      "median": 62,
-      "max": 68,
+      "avg": 55.61,
+      "median": 60,
+      "max": 70,
       "over_limit": 0
     },
     "uniqueness": {
-      "unique_titles": 29,
+      "unique_titles": 31,
       "duplicate_groups": 0,
       "repeated_titles": 0,
       "deduped_ratio": 1.0
