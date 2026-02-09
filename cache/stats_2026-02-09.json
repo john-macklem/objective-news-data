@@ -1,90 +1,86 @@
 {
-  "fetched": 1886,
-  "filtered": 956,
-  "clustered": 89,
+  "fetched": 1907,
+  "filtered": 1052,
+  "clustered": 98,
   "scored": 33,
   "feeds": {
     "feeds_total": 45,
     "url_normalized": 8,
     "url_rejected": 0,
     "proxy_usage": {
-      "direct": 44
+      "direct": 45
     },
     "proxy_failures": {
       "r.jina.ai": 3,
       "goosefeed.com": 3
     },
     "proxy_suppressed": {
-      "r.jina.ai": 2,
-      "goosefeed.com": 2
+      "r.jina.ai": 1,
+      "goosefeed.com": 1
     },
     "feed_failures": {
       "goosefeed.com": 3,
       "r.jina.ai": 3,
       "feeds.reuters.com": 1,
-      "rsshub.app": 1,
       "english.alarabiya.net": 1,
-      "www.theglobeandmail.com": 1,
-      "www.nasa.gov": 1
+      "rsshub.app": 1,
+      "www.theglobeandmail.com": 1
     }
   },
   "cache_metrics": {
     "summary": {
-      "stale_ttl": 27,
-      "load_ms": 219,
-      "miss": 31,
-      "hit": 1
+      "stale_ttl": 29,
+      "load_ms": 82,
+      "miss": 32
     },
     "constructiveness": {
-      "miss": 49,
-      "hit": 1
+      "miss": 51
     },
     "headline": {
-      "miss": 31,
-      "hit": 1
+      "miss": 32
     }
   },
   "clustering_metrics": {
     "counters": {
-      "articles_before_dedupe": 956,
-      "articles_in": 947,
-      "candidate_clusters_checked_total": 12046,
-      "candidate_articles_checked_total": 24587,
-      "similarity_calls_total": 1053198,
-      "candidate_clusters_skipped_core": 1285,
-      "clusters_out_pre_merge": 732,
-      "merge_pass1_pairs_checked_total": 604757,
-      "merge_iterations_pass1": 25,
-      "merge_pass2_pairs_checked_total": 497027,
-      "merge_iterations_pass2": 15,
-      "clusters_out_final": 692
+      "articles_before_dedupe": 1052,
+      "articles_in": 1036,
+      "candidate_clusters_checked_total": 10942,
+      "candidate_articles_checked_total": 15404,
+      "similarity_calls_total": 2394346,
+      "candidate_clusters_skipped_core": 1353,
+      "clusters_out_pre_merge": 833,
+      "merge_pass1_pairs_checked_total": 1390502,
+      "merge_iterations_pass1": 21,
+      "merge_pass2_pairs_checked_total": 920657,
+      "merge_iterations_pass2": 14,
+      "clusters_out_final": 798
     },
     "dedupe": {
-      "removed_count": 9,
+      "removed_count": 16,
       "reason_counts": {
-        "canonical_url": 9
+        "canonical_url": 16
       },
-      "articles_in": 956,
-      "articles_after": 947
+      "articles_in": 1052,
+      "articles_after": 1036
     },
     "timings": {
-      "clustering_assign": 40.99996459018439,
-      "clustering_merge_pass1": 944.3171252068132,
-      "clustering_merge_pass2": 337.6020141914487,
-      "clustering_finalize": 0.3015772821381688,
-      "clustering_total": 1323.5055681634694
+      "clustering_assign": 14.83631837554276,
+      "clustering_merge_pass1": 1967.3936480805278,
+      "clustering_merge_pass2": 474.1182707697153,
+      "clustering_finalize": 0.2638543080538511,
+      "clustering_total": 2456.885578541085
     },
     "cluster_size_stats": {
       "min": 1,
       "p50": 1.0,
       "p90": 2.0,
-      "p99": 6.0,
-      "max": 61
+      "p99": 5.0,
+      "max": 40
     },
     "candidates_per_article": {
-      "avg": 12.720168954593452,
-      "p90": 32.0,
-      "p99": 76.53999999999996
+      "avg": 10.561776061776062,
+      "p90": 24.0,
+      "p99": 44.0
     }
   },
   "source_breakdown": {
@@ -92,21 +88,20 @@
     "stories_with_source": 33,
     "stories_missing_source": 0,
     "by_source": {
-      "BBC": 4,
-      "Axios": 2,
-      "Al Jazeera": 8,
-      "NPR": 2,
-      "ABC News": 2,
+      "ABC News": 3,
+      "Al Jazeera": 7,
       "ESPN": 3,
-      "Reuters": 2,
-      "BBC Sport": 2,
-      "CNBC": 1,
-      "Global News": 1,
-      "CBC News": 2,
+      "Reuters": 7,
+      "NPR": 1,
+      "Axios": 2,
       "The Guardian": 1,
-      "MarketWatch": 1,
-      "Associated Press": 1,
-      "Bloomberg": 1
+      "BBC": 1,
+      "CBC News": 2,
+      "CNBC": 1,
+      "Financial Times": 1,
+      "New York Times": 2,
+      "Al Arabiya": 1,
+      "NASA": 1
     }
   },
   "clustered_source_breakdown": {
@@ -114,70 +109,67 @@
     "stories_with_sources": 33,
     "stories_missing_sources": 0,
     "by_source": {
-      "BBC": 6,
-      "Financial Times": 3,
-      "Reuters": 15,
-      "The Guardian": 9,
-      "New York Times": 6,
-      "Bloomberg": 6,
-      "Axios": 2,
-      "Al Jazeera": 9,
-      "NPR": 5,
-      "ESPN": 6,
-      "CBS Sports": 3,
-      "Forbes": 3,
-      "Sky Sports": 3,
-      "Sports Illustrated": 4,
-      "Globe and Mail": 3,
-      "Sportsnet": 5,
-      "Yahoo Sports": 4,
-      "Bleacher Report": 1,
+      "ABC News": 3,
+      "Al Jazeera": 8,
+      "Reuters": 11,
+      "ESPN": 4,
       "Associated Press": 7,
-      "Al Arabiya": 1,
-      "CBC News": 5,
-      "ABC News": 2,
-      "Business Insider": 2,
+      "Sports Illustrated": 2,
+      "Globe and Mail": 2,
+      "Business Insider": 1,
+      "CBS Sports": 3,
+      "Yahoo Sports": 6,
+      "The Guardian": 9,
+      "Sportsnet": 4,
       "CNBC": 5,
       "Washington Post": 1,
-      "BBC Sport": 4,
-      "Global News": 2,
-      "Phys.org": 1,
-      "MarketWatch": 2
+      "CBC News": 7,
+      "Financial Times": 4,
+      "BBC": 5,
+      "New York Times": 8,
+      "Sky Sports": 2,
+      "NPR": 1,
+      "Bloomberg": 5,
+      "Axios": 2,
+      "Forbes": 2,
+      "Al Arabiya": 1,
+      "Financial Post": 1,
+      "NASA": 1,
+      "NASA EO": 1
     }
   },
   "gpt": {
     "gpt_final_story_count": 33,
-    "gpt_calls_total": 31,
-    "gpt_cache_hits": 1,
-    "gpt_cache_misses": 31,
-    "gpt_combined_calls": 31,
-    "gpt_input_char_count_total": 26241
+    "gpt_calls_total": 32,
+    "gpt_cache_hits": 0,
+    "gpt_cache_misses": 32,
+    "gpt_combined_calls": 32,
+    "gpt_input_char_count_total": 19497
   },
   "timings": {
-    "load_caches": 0.22,
-    "fetch_articles": 32.31,
-    "date_filter": 0.5,
-    "content_filter": 0.23,
-    "cluster": 1326.05,
+    "load_caches": 0.09,
+    "fetch_articles": 28.5,
+    "date_filter": 0.38,
+    "content_filter": 0.19,
+    "cluster": 2459.51,
     "initial_scoring": 0.03,
-    "constructiveness_scoring": 52.93,
-    "final_scoring": 0.01,
-    "gpt_enrichment": 50.03,
+    "constructiveness_scoring": 47.39,
+    "final_scoring": 0.0,
+    "gpt_enrichment": 52.32,
     "trending_flags": 0.0
   },
   "headline_metrics": {
     "total": 33,
     "missing": 0,
     "source_counts": {
-      "gpt": 31,
-      "cache": 1,
+      "gpt": 32,
       "": 1
     },
     "length": {
-      "avg": 58.06,
+      "avg": 58.18,
       "median": 61,
-      "max": 69,
-      "over_limit": 0
+      "max": 90,
+      "over_limit": 1
     },
     "uniqueness": {
       "unique_titles": 33,
@@ -186,7 +178,7 @@
       "deduped_ratio": 1.0
     },
     "punctuation_flags": {
-      "contains_separator": 1
+      "contains_separator": 0
     }
   }
 }
