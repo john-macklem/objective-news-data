@@ -28383,5 +28383,160 @@
     "score": 0.6,
     "reason": "This story is informative and provides an update on Vonn's progress after her operation. It does not necessarily provide actionable insights or a deeper understanding of a broader issue, but it does provide useful context for those following her recovery.",
     "source": "gpt"
+  },
+  "378ab75f574d624620f3321695fe93f4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8b6bb56fd88a55854454c66037676f7b": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: dead); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "cc4a752cd30ad9905e35a57dac8bb72e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1e85b5fa07b2e61acf2e72b937927d84": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: dead); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9db2f78d8e72cd2e6ecaef14b0fddfa2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "bb123d4a7c1f08c86fa199d3880ad10c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b2a1532f13289d9aca16de290c11f8be": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4db8bb534fef094998b7d28aafee1734": {
+    "score": 0.03,
+    "reason": "actions: repair; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6d3875ec60bfa210725ee951c1687b2f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e337344a1e0c99efbe5ff5f49ac263e8": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a4c8359fc415c44fae88fe4b2dcc632f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1d809644b6e846e15cf5a44cc3a5f33d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8ad3bf2d9ffe344ca3cd5c43fca90bba": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "dea8aa339e2f88d5f3f4e2aa3be76e24": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2faa1eff7cb23a5b056d68e88690d4d2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "103b8d91e2f36afee3dbd8c8f043301d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ee81398df5d871f51b662c2463f9f874": {
+    "score": 0.6,
+    "reason": "The story provides useful information about a significant political event in Bangladesh, which may impact regional stability and international relations. However, without more context or analysis, it's hard to say if it offers actionable insights or deeper understanding.",
+    "source": "gpt"
+  },
+  "8f6ec5f276eb0d48abcecc8dab288087": {
+    "score": 0.7,
+    "reason": "This story informs about a potential change in voting requirements in the U.S., which could impact voter turnout and election results. It provides useful context for understanding the ongoing debate about voting rights and election integrity, even if it doesn't report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "b0fa71257eee2c04d178a4424cd5985a": {
+    "score": 0.6,
+    "reason": "The story raises awareness about a significant political proposal in Switzerland, which could have major implications for immigration policy and demographic trends. However, without more information or analysis, it's unclear if it provides actionable insights or deeper understanding.",
+    "source": "gpt"
+  },
+  "365f1672ebbe5bb7328fab8ca1e57411": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the ongoing fuel crisis in Cuba and the role of the US and Russia in it. However, it lacks depth and actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "4c9213f64bc0af8bab4beaa1a2bc798e": {
+    "score": 0.3,
+    "reason": "While this news might be interesting to fans of the team or the player, it doesn't provide broader insights or understanding. It's mainly reactive and doesn't offer much value beyond the immediate situation.",
+    "source": "gpt"
+  },
+  "52bd0504b0abdde806eee969bf565d51": {
+    "score": 0.6,
+    "reason": "This story informs about a recent diplomatic meeting and its lack of concrete outcomes. It provides some context about the international relations between the countries involved, but does not delve into potential solutions or impacts.",
+    "source": "gpt"
+  },
+  "3ad2cfbd16da87030ed4335e067f6f01": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the investment decisions of a prominent hedge fund, which could inform readers' understanding of market trends. However, it doesn't report on solutions, improvements, or innovations, nor does it provide deep insight into the causes or impacts of these decisions.",
+    "source": "gpt"
+  },
+  "48c0d020f607cb2dabdca89f90155575": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a crime incident, but it lacks depth or insight. It doesn't report on solutions or improvements, nor does it provide actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "2d15f8578f17ccecc479d6b4baa7e35e": {
+    "score": 0.7,
+    "reason": "This story provides useful information about the political dynamics in North Korea, which could inform readers' understanding of international relations. However, it doesn't report on solutions, improvements, or innovations, nor does it provide a deep understanding of the system or impacts.",
+    "source": "gpt"
+  },
+  "c511f4aae01eec70a03262fce6fb97e7": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a violent incident at a school, but it does not provide any deeper insights or actionable information for the reader. It also does not report on any solutions or attempts to prevent such incidents in the future.",
+    "source": "gpt"
+  },
+  "4ea540c2ac6dace3315bdb453fa38871": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the changes in the management of a football club. However, it does not offer any deeper understanding or insights into the reasons behind these changes or their potential impacts.",
+    "source": "gpt"
+  },
+  "273f3be2f9968e2d19479bef159fb270": {
+    "score": 0.0,
+    "reason": "This story seems to focus on sensationalism and conflict rather than providing any meaningful information or insights. It does not contribute to the reader's understanding or decision-making, nor does it report on any solutions or progress.",
+    "source": "gpt"
+  },
+  "2426cb8d4e24c1b6756eb52673b0002e": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a situation involving drones and security fears in El Paso. However, without more information, it's difficult to assess its depth or insight, and whether it offers actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "d0eb2c909d5594817ba400f4f7e3f0a4": {
+    "score": 0.3,
+    "reason": "This story reports on a tragic event, but without additional context or analysis, it doesn't provide deeper understanding or actionable insights. It does raise awareness about gun violence, but doesn't explore solutions or causes.",
+    "source": "gpt"
+  },
+  "d6c6a268a43e8ae213e87a182b87d039": {
+    "score": 0.8,
+    "reason": "This story informs about a new NATO mission in the Arctic, providing useful context about international relations and geopolitical tensions. It could potentially offer readers insights into the strategies and motivations of NATO and the US.",
+    "source": "gpt"
   }
 }
