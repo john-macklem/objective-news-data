@@ -28838,5 +28838,150 @@
     "score": 0.6,
     "reason": "This story informs about a significant policy change in the education sector. It provides useful information for students and families regarding tuition costs. However, it does not report on solutions or improvements, nor does it provide a deeper understanding of the reasons or impacts of the policy change.",
     "source": "gpt"
+  },
+  "e0bddeb7e5fe421aa4f89d87ecfd6e37": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a4e6dd95c71bfbb582295be909f01be8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "cf256d0ffd7bea88f5b7264b065a6474": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "78f27a229e8e05248d4962b5b5728ff4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ba5cd814f98ad275acfce4948e16770c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "82f288451be9be37613df606e38d7df3": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d2086ea0524c2cd31a5c9d6aed9175bf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f99b56a760e5b6346d7b990958d86e67": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b9c6bd2dbe5305e9d44d837bbbb8d513": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4d420c23560f897a0c642d416f8fc09f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ec6cd7bf0f265baf71063adda3e6552c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8d403c88cf6667f5f62bdf1cb3708f5d": {
+    "score": 0.017,
+    "reason": "keywords (1): partnership; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9a978d7b5cc678dd3f6b254126a6ef93": {
+    "score": 0.06,
+    "reason": "keywords (1): launch; actions: launch; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5e0ee9a20f67e73a2292134ab9590d98": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "827d0d4a7f8dfc31a882403ba2c67d6b": {
+    "score": 0.3,
+    "reason": "This story is reactive and seems to focus on threats and fear-based content. It does not provide actionable insights, solutions, or deeper understanding of the situation. It might raise basic awareness about the current geopolitical situation, but it does not provide much depth or insight.",
+    "source": "gpt"
+  },
+  "0e75e61cd3007cecaec0faffa672c922": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the Munich Security Conference and the disputes between the US and other countries. However, without more information about the content of the speeches or the nature of the disputes, it's hard to say whether it provides deeper understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "85b8832e407bb39a8f1b969644d19248": {
+    "score": 0.7,
+    "reason": "This story appears to provide useful information about Tarique Rahman, potentially offering insights into his background, political beliefs, and plans for his term as prime minister. This could help readers understand the political situation in Bangladesh and the potential impacts of Rahman's leadership.",
+    "source": "gpt"
+  },
+  "9e3be64c7802a4ec510b0c84719db577": {
+    "score": 0.6,
+    "reason": "This story informs about the political situation in Bangladesh after an uprising, which is useful for understanding the current state of affairs. However, it lacks information on what this means for the future of the country or how the situation might improve or worsen, thus limiting its constructive value.",
+    "source": "gpt"
+  },
+  "73e36c81da8c28a55b288ddd26967321": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about labor issues within American Airlines, but without more context or insight into the causes, potential solutions, or impacts of this situation, its constructive value is limited.",
+    "source": "gpt"
+  },
+  "61d409ef818917c3b842d3f9f2bacef8": {
+    "score": 0.3,
+    "reason": "This story seems to be about a particular athlete, but without more information, it's hard to say how it contributes to readers' understanding or awareness. It lacks depth or insight into the athlete's career, potential, or impact on the team or sport.",
+    "source": "gpt"
+  },
+  "051222611af5bfb6e643c1cdc1726ea9": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a case of embezzlement but does not provide depth or insight into the broader context or implications. It doesn't provide actionable insights or deeper understanding for the reader.",
+    "source": "gpt"
+  },
+  "dcd3ce0ae840cc21d1b5eaf56fa7e3f8": {
+    "score": 0.5,
+    "reason": "The story informs about a potential threat to the Jewish community and its prevention, providing basic awareness. However, it lacks depth or insight into the broader context, causes or trends, and does not offer actionable insights or solutions.",
+    "source": "gpt"
+  },
+  "43042c14d068ebaf7a73ce41ae857f7a": {
+    "score": 0.6,
+    "reason": "This story informs about a legal decision and its implications for a Pro-Palestinian group, providing useful context. However, it doesn't report on solutions, improvements, or attempts to solve problems, and its usefulness for the reader's decision-making or sense of agency is limited.",
+    "source": "gpt"
+  },
+  "b355663813552485c681b16e37377501": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the health condition of a significant political figure, but it lacks depth or insight. It does not contribute to the reader's decision-making or understanding of broader systems or trends.",
+    "source": "gpt"
+  },
+  "2d466b8dd557e5e88d163f25912055ed": {
+    "score": 0.5,
+    "reason": "While the story provides awareness about a specific incident, it does not offer actionable insights or deeper understanding. There is no discussion of potential solutions or attempts to solve the problem, nor does it provide context about the broader conflict.",
+    "source": "gpt"
+  },
+  "9cdabcad40bcdb7d7691e5aa6ce7aafe": {
+    "score": 0.8,
+    "reason": "This story provides useful information about potential changes in oil output, which could impact global energy markets. However, it does not clearly highlight solutions or empowering knowledge. The story could be more constructive if it included more context about the implications of this decision.",
+    "source": "gpt"
+  },
+  "737a0d2e0d5af821cc66d8e9bd6f5c8d": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a significant event in the sports world, but does not offer deeper insights or actionable information.",
+    "source": "gpt"
+  },
+  "8f253fba68b6e49d42ab65006a90a0f5": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a sports figure's health and career plans, but does not provide deeper insights or actionable information.",
+    "source": "gpt"
+  },
+  "1fa3257251e884b9fba8e8cc287abb03": {
+    "score": 0.6,
+    "reason": "This story provides useful information for NBA fans about what to expect during All-Star Weekend, but it does not report on solutions, improvements, or innovations.",
+    "source": "gpt"
   }
 }
