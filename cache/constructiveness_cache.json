@@ -28683,5 +28683,160 @@
     "score": 0.5,
     "reason": "While this story provides awareness of an upcoming sports event and an athlete's potential achievement, it lacks depth or insight into the event or the sport itself, and does not report on solutions, improvements, or innovations.",
     "source": "gpt"
+  },
+  "3f1a8b65f38e0ca55309dd0d69f88e40": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1c0a14d6b35d81e42474a16dda8f1356": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "04000c39782b6868873f6720a3ab23bc": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "613b5c68bbcd948c7de7f42a1b148d56": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "74fdcf31e88ff429a37a9fe1ea7d45a5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "33753df719ff5245ae7ff9113523318e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e6c38d5f8838a13901cf6e1e5914c646": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "60b3fa6e0e02abea06a5ea22e9b02ab0": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "cf70c08b9210df51b7ce480379acdee1": {
+    "score": 0.017,
+    "reason": "actions: release; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "16d939a5a59512e61a1fbafa6b939afc": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e18df707ad58a2c7ba6348502958c92d": {
+    "score": 0.017,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "106882726e67576d7089e769cdd22a9d": {
+    "score": 0.06,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "31a557c08898078b049ff24efda9cbce": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ed1120e4ce1a7bcac0a463cd0ff17aa6": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f33d4b7cbde5450cdf44fe88d5518c74": {
+    "score": 0.048,
+    "reason": "keywords (1): research; semantic: pos_sim=0.12, neg_sim=0.00; semantic_boost=0.03; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "35a5bb3616cd2cf323cde76c2baf8d49": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "2433857227bfb593b71baeb698853e8f": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the political situation in Bangladesh, but does not offer in-depth analysis or insight into the implications of the election results.",
+    "source": "gpt"
+  },
+  "841e247705aebdca4355f0a33a70f96d": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant legal decision, providing some context about the relationship between the Pentagon and Sen. Mark Kelly. However, it does not fully explain the reasons behind the Pentagon's actions or the potential impacts of the judge's decision.",
+    "source": "gpt"
+  },
+  "e0d91de58f013b8a6a507a60c72d7e4f": {
+    "score": 0.8,
+    "reason": "This story provides useful context about the significance of the Pride flag and its removal by the Trump administration. It also reports on the actions taken by New Yorkers to return the flag, highlighting a form of community response and resistance.",
+    "source": "gpt"
+  },
+  "6a62c0c8a0b5b74d359fd6ab3093f113": {
+    "score": 0.6,
+    "reason": "This story provides some useful information about a charitable act by a well-known figure. However, it doesn't particularly highlight progress, solutions, or empowering knowledge, nor does it provide a deep understanding of a wider issue.",
+    "source": "gpt"
+  },
+  "7f78ec56a2e45d4a8fb043840bfb765c": {
+    "score": 0.5,
+    "reason": "While the story raises awareness about a significant incident, it lacks depth or insight into the broader context or implications. It does not offer actionable insights or report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "256643f872a9daea190ddf7a6f628b01": {
+    "score": 0.3,
+    "reason": "This story primarily focuses on the emotional aftermath of a tragic event, providing minimal depth or insight into the broader issue of gun violence or solutions to address it. It offers basic awareness but lacks constructive elements.",
+    "source": "gpt"
+  },
+  "210fb11376968535e65b73346dddf656": {
+    "score": 0.5,
+    "reason": "This news story provides basic awareness about the outcome of a sports event. However, it does not provide any actionable insights, solutions, or deeper understanding of the event or its implications.",
+    "source": "gpt"
+  },
+  "9d79889c485e67b3662fca4435f10282": {
+    "score": 0.6,
+    "reason": "While the story is about a negative event, it does provide useful context about the Senate hearing and the confrontation over the Pretti shooting video. It could potentially increase the reader's understanding of the political and legal processes involved.",
+    "source": "gpt"
+  },
+  "8cd951c77c4c30434f8b644769db898c": {
+    "score": 0.8,
+    "reason": "This story informs readers about a significant issue within the DHS and the legal system. It provides useful context and insight into the problem of detainees' access to lawyers, thereby increasing awareness and understanding of this issue.",
+    "source": "gpt"
+  },
+  "6ec7aa8f09d5ddf474784de3191750d9": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the current state of US-Europe relations, which may help readers understand international politics. However, it doesn't seem to offer solutions or progress towards resolving the tensions.",
+    "source": "gpt"
+  },
+  "8848aef0b9cff054a9f92ee5a635d2d2": {
+    "score": 0.5,
+    "reason": "This story raises awareness about the escalating tensions between the US and Iran, but it doesn't offer much depth or insight into the causes or potential solutions to the conflict.",
+    "source": "gpt"
+  },
+  "df0ceb0dcadf45884b43ee434385a060": {
+    "score": 0.3,
+    "reason": "This story reports on a tragic event, but it doesn't provide any useful insights, solutions, or context that could help prevent future incidents. It's mainly reactive and sensational.",
+    "source": "gpt"
+  },
+  "f69b524ab1a12a94ea2ffa1d2c15264e": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the CIA's recruitment strategies, but it does not provide deeper insights or actionable information. It also does not report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "ea775593a3a6a0070743fe2e7557ffd5": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a celebrity's legal actions, but it does not provide deeper understanding or actionable insights. It also does not highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "930caedb6b3afcae88d008317cde66fc": {
+    "score": 0.6,
+    "reason": "This story informs about a significant policy change in the education sector. It provides useful information for students and families regarding tuition costs. However, it does not report on solutions or improvements, nor does it provide a deeper understanding of the reasons or impacts of the policy change.",
+    "source": "gpt"
   }
 }
