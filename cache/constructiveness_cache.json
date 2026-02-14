@@ -29128,5 +29128,145 @@
     "score": 0.5,
     "reason": "This story provides basic awareness about a sports contract but does not offer deeper understanding or insights into the larger context of sports management, player contracts, or the team's strategic decisions.",
     "source": "gpt"
+  },
+  "eeae38d00e89cf4d1d7e8822ab862ee1": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ed0d98a2c55e9e38bfc8389e383dec49": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.12; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "46f44195ae2c9fb5ac11cbe9b6d7206c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "e16bc3880d876cb351d615afab757fac": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "85cf4412fc838bb29360773fa67bc57c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a6bce228186f19241e2c627e7156328f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "cbc8a3e0434644c7f2fb8cff09e3f59e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1aa973540c477de6cde0aa64e80aad33": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c61112332cb4b14626d7d0a164ad143b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6c853ff0b15c4a2c29aae69f4520cca7": {
+    "score": 0.035,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "52410a2073d912d7f33400ce0f6ec63c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b019a3dc6389eb7a362ebd98460f7980": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "066478aeca931c5b4de33f41989a6ed4": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2a829235f87f4c6c6c9293e9881b5429": {
+    "score": 0.9,
+    "reason": "This story is constructive as it provides useful insight into the potential future of disease understanding and treatment. It highlights an innovation in medical science, the human exposome, that could significantly impact how we approach disease. This could empower readers with knowledge about this emerging field.",
+    "source": "gpt"
+  },
+  "bcbc966e64ebda92e869bc6eb0639a9c": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about ongoing military actions, but it doesn't provide much depth or insight into the broader context, such as the reasons behind the airstrikes or their potential impacts. It does not offer solutions or improvements, nor does it empower the reader with actionable insights.",
+    "source": "gpt"
+  },
+  "e134803cb795e3fc9d313944d1024823": {
+    "score": 0.6,
+    "reason": "This story provides useful context about the dynamics between the US, Ukraine, and Russia. It contributes to the reader's understanding of international relations and decision-making processes. However, it does not report on solutions or improvements, nor does it provide actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "03b99947e8af84ccf1ae1b3da9da4bc7": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the EU's defense pact, which could be important for readers interested in international relations and security. However, without more context or analysis, it's hard to say how this might affect decision-making or understanding of broader trends.",
+    "source": "gpt"
+  },
+  "bf7d0ad10b2ce4fe732e136ac7bf0689": {
+    "score": 0.6,
+    "reason": "This story informs readers about a potential change in voting requirements, which could be useful for voters. However, it does not provide much depth or insight into the broader context or potential impacts of this change.",
+    "source": "gpt"
+  },
+  "7e9a85dfc71fe2bb02e7fe10fb43e99e": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about a statement made by the president of Inter Milan, but it doesn't provide much depth or insight into the implications of this statement for the team or the sport more broadly.",
+    "source": "gpt"
+  },
+  "52496caf74c0316a35c7e8b456ec4e0c": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a sports event. However, it does not provide any actionable insights, solutions or deeper understanding about the event or the sport.",
+    "source": "gpt"
+  },
+  "05cbfef8df4b42b93cc882f740eff6d5": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about an event, but it doesn't provide any significant depth, insight, or actionable information for the reader.",
+    "source": "gpt"
+  },
+  "ce172aa764322e502a44aa9dfd5d54b4": {
+    "score": 0.8,
+    "reason": "This story informs about a significant legal decision, which can contribute to readers' understanding of the legal system, the issue of terrorism, and the situation in Palestine. However, it does not report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "3efbb8d1155f035d86f5b7ab41e49122": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the incident but does not provide deeper understanding or actionable insights. It doesn't report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "41539f815a9be9b83cd048f6bdd32ad1": {
+    "score": 0.6,
+    "reason": "The story informs about the perjury probe, providing context to the incident. However, it does not highlight progress or solutions, nor does it provide empowering knowledge.",
+    "source": "gpt"
+  },
+  "accb7bdff8ce24fc1d25e5abec9a6b06": {
+    "score": 0.5,
+    "reason": "The story raises awareness about the African Union chair's statement on the Palestinian issue. However, it does not provide actionable insights or deeper understanding, nor does it report on solutions or attempts to solve the problem.",
+    "source": "gpt"
+  },
+  "043045e9b6a7b45cc512bc25d7d7a776": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about the political situation in Iran, but it doesn't provide much depth or insight into the potential impacts or solutions to the issue.",
+    "source": "gpt"
+  },
+  "8f1dd0cbd5affb5e6f6dcfbbee1914e6": {
+    "score": 0.3,
+    "reason": "While this story provides information about a specific event in the sports world, it doesn't offer much in terms of broader understanding, decision-making, or a sense of agency for the reader.",
+    "source": "gpt"
+  },
+  "c15f8bdd1ad524cfec9ac6a55c711572": {
+    "score": 0.6,
+    "reason": "This story provides useful context about a player's career and the dynamics of the football world. However, it doesn't focus on solutions, improvements, or innovations, and its relevance to a wider audience is limited.",
+    "source": "gpt"
   }
 }
