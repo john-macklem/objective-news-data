@@ -29388,5 +29388,140 @@
     "score": 0.6,
     "reason": "This story reports on a significant event, providing useful information about the US army's actions in Syria. However, it does not delve into the potential implications or the larger context of these actions, such as the ongoing conflict in the region or the strategies being employed.",
     "source": "gpt"
+  },
+  "7416c0e51791be3daddb35721e797d39": {
+    "score": 0.03,
+    "reason": "keywords (1): recovery; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "195cbe83b5265da2db52822f30e2d979": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "fa7c7e830ccdb917edcbfc33d8b6567d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e294dbd8688657bf061e81270a8175c2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c3251b8c268854b1f0a5a0174ff8d2cf": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a56746ac82d94c2db2fb351c190b8d5f": {
+    "score": 0.06,
+    "reason": "keywords (2): investment, strategy; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2638b05a4c08ba857f5436cdf6274665": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.07, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5b57ab994a7645633ce0564005e0d3ab": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "2a626b56d0eafc7507bc191f1efcb87f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "39c7388b95f4a60fadb7cedc52fa49da": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "caaa14f7c35f6807e804edc78137d619": {
+    "score": 0.02,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c69b0650e27d2c12706210e2ae13cab7": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "797b6db6dfbb0ad09ae8ce17604dcde0": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the actions of US forces in relation to Venezuelan oil tankers, but without more context or depth, it's hard to say how useful this information is to the reader.",
+    "source": "gpt"
+  },
+  "245b498f766ece102e9d87e8a1f2261d": {
+    "score": 0.5,
+    "reason": "The story provides awareness about an alleged poisoning incident involving a political dissident. However, without more details or analysis, it doesn't provide much depth or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "0882cd893633986acbb8be1d66171c70": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a conflict between a baseball player and a team executive, but without more context or analysis, it's not particularly useful or informative.",
+    "source": "gpt"
+  },
+  "dfda03353dcf680e18e85b775373bb90": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about Lindsey Vonn's health status but lacks depth or insight. It doesn't provide actionable insights or deeper understanding, nor does it report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "ddd0b796d771387fce6ab82120c3ebc0": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a player transfer in football, but it doesn't provide actionable insights or deeper understanding. It doesn't report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "fc44ded59705fcd1c5ef695959cf3a13": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the geopolitical situation in Syria following the US withdrawal. However, it doesn't clearly highlight progress or solutions, nor does it fully explain the impacts or causes of these events.",
+    "source": "gpt"
+  },
+  "3868d2df235bafa8319b74b65a0f40ba": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a political event but doesn't offer much depth or insight into the implications or context of the arrest.",
+    "source": "gpt"
+  },
+  "107300828f33db96c8fb973e9e90d40c": {
+    "score": 0.3,
+    "reason": "While this story raises awareness about a tragic event, it doesn't provide any actionable insights, solutions, or deeper understanding of the conflict.",
+    "source": "gpt"
+  },
+  "a3900344fc79171b9895655d9d3d5e2a": {
+    "score": 0.8,
+    "reason": "This story is useful as it informs readers about a potential weather crisis, aiding in decision-making. However, it doesn't report on solutions or improvements, nor does it increase clarity around systems or impacts.",
+    "source": "gpt"
+  },
+  "413e32305ebd33599be34960dbd4efaf": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the US stance on the Navalny poisoning incident. However, it lacks depth or insight into the implications of this stance, the reasons behind it, or the broader geopolitical context.",
+    "source": "gpt"
+  },
+  "ac7bd700a5c34fe2b97f0de9587fc2a1": {
+    "score": 0.5,
+    "reason": "The story raises awareness about global protests related to Iran, which is important. However, it doesn't provide information on the causes, demands of the protestors, or potential impacts on policy or society.",
+    "source": "gpt"
+  },
+  "869c3c6df711353c93d069391f42624a": {
+    "score": 0.6,
+    "reason": "This story informs readers about changes in the umpire setup at the World Curling Games. It could be useful for fans or participants wanting to understand the rules and organization of the event. However, without more context or explanation of the reasons and potential effects of these changes, its usefulness is limited.",
+    "source": "gpt"
+  },
+  "7a44959cda309d76d6b0315533181a86": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the result of a cricket match but does not offer any deeper insights or understanding. There is no information on strategies used, player performances, or implications for future matches.",
+    "source": "gpt"
+  },
+  "ae578a46b631223220f462aa44327d88": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about Team GB's achievement in the Olympics but lacks depth or insight. It does not provide information on the athletes' journey, the significance of the win, or the strategies used.",
+    "source": "gpt"
+  },
+  "52fe0680a3cc6082cd6630d8c6dbfbd0": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a decision not to appeal a scoring decision in ice dancing. However, it lacks depth or insight into the reasons for the decision, the implications for the sport, or the rules and regulations around scoring.",
+    "source": "gpt"
   }
 }
