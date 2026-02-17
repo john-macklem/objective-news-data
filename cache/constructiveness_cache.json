@@ -29798,5 +29798,160 @@
     "score": 0.6,
     "reason": "This story provides useful information about the ongoing investigation into a crime, potentially helping readers understand the process and the importance of forensic evidence. However, it does not report on solutions, improvements, or innovations, and its impact is limited to a specific case.",
     "source": "gpt"
+  },
+  "678a8e2e25433a604a8c4cc82a555341": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "68fad01bd2046c39eaf1488d0f2149e6": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5882b14a48700795a89ed5e69a9e916f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "cfc3a79cb0b2f6c172e24d62175ec3f2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "23839513259feaec8ab7a2b1d3d9da14": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d706c935d0e3aa49a0ddc8a2c63dc30b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d12adf17fc22e403e6c50fe9fd80be99": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "59999c8757767aa0860c9d9ccd449dc7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8e9fa858b617d8734777e25382be40ea": {
+    "score": 0.03,
+    "reason": "keywords (1): invest; semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3706bc0aaa399e443a9ef4bbd71087aa": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d1522c50a4b394696f8af1aa72dce4d2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4e3768ffc34af190a2123f01e30f171c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "d6c1d8650581c11c4415e4f5f6b111c6": {
+    "score": 0.05,
+    "reason": "keywords (1): program; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "42bfee9e238ca6bb82368dbf9e9aeeea": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "ab4dba77b95fe6f31ead6bde216289da": {
+    "score": 0.029,
+    "reason": "semantic: pos_sim=0.12, neg_sim=0.00; semantic_boost=0.03; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "dc9ffd0bdcf36d41ef343768e6b17671": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5f95d5bbb392d9eba7d7eec78d332402": {
+    "score": 0.6,
+    "reason": "While this story provides information about ongoing geopolitical events, it doesn't provide in-depth analysis or actionable insights. It does, however, help to contextualize a current conflict, which is useful.",
+    "source": "gpt"
+  },
+  "6c43accc8c8488993aa29e05cbb79517": {
+    "score": 0.6,
+    "reason": "This story provides some awareness about the ongoing negotiations related to Ukraine and Iran. However, without more details on the content of these talks or their potential impacts, it does not offer deep understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "1bb75028e7c6c4cbd3fa20f6a7d75988": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a political event in Bangladesh, but without more context or analysis, it does not offer deep understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "68e5938e9ad444bf9b9852ec8d930f38": {
+    "score": 0.6,
+    "reason": "The story provides useful context about the political situation in Denmark and the role of the 'Queen of Crises'. However, it doesn't provide actionable insights or discuss solutions to the crises.",
+    "source": "gpt"
+  },
+  "8cb600a5f740a57aac79d0809f937bd8": {
+    "score": 0.3,
+    "reason": "The story provides basic awareness about a sports contract extension but doesn't offer deeper insight or understanding. It doesn't discuss any solutions, improvements, or innovations.",
+    "source": "gpt"
+  },
+  "f2a1800e63d0cf35f9ee520b43f4cb04": {
+    "score": 0.5,
+    "reason": "The story increases awareness about a specific investigation and the FBI's stance on it. However, it doesn't provide deeper understanding or actionable insights, nor does it discuss solutions or progress.",
+    "source": "gpt"
+  },
+  "e19a59b19aeb0eab3e140a2ad4c2f97c": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a statement made by a former president, but it does not offer any depth, insight, or actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "ea0d0d39cf7f29f51088c6c360b15229": {
+    "score": 0.6,
+    "reason": "The story informs about a significant event related to a political figure, which could be useful for understanding the political landscape and potential risks. However, it does not report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "8e430db2b67154a8c9cfe258b4667280": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the death of a well-known figure, but it doesn't offer any deeper understanding, actionable insights, or information about progress or solutions.",
+    "source": "gpt"
+  },
+  "b41f77c7183cf6ef7aab75535493a693": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a cultural event and the individual representing the UK. However, it doesn't provide deeper understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "4568584d3b88802d694a6cac9cc91f60": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about Lunar New Year celebrations and traditions, but lacks depth or insight into the cultural significance or impacts.",
+    "source": "gpt"
+  },
+  "ca402bafc73fad821ad5580b513e5386": {
+    "score": 0.6,
+    "reason": "This story informs about a current geopolitical issue, providing some context about the tension between the Philippines and China. However, it does not provide solutions or a deeper understanding of the underlying causes.",
+    "source": "gpt"
+  },
+  "c43cec6722e8c49a8aa945f263435fd8": {
+    "score": 0.6,
+    "reason": "This story provides useful information about ongoing peace talks between Russia and Ukraine, and the role of international pressure. However, without more details, it's hard to judge its depth or the clarity it provides about the systems and causes at play.",
+    "source": "gpt"
+  },
+  "580279929ea685d6f0a0129b3fb0df83": {
+    "score": 0.7,
+    "reason": "This story informs readers about a decision that impacts public understanding of history, potentially leading to increased awareness. However, without more information, it's unclear how actionable this story is or how much it contributes to understanding of broader trends or systems.",
+    "source": "gpt"
+  },
+  "fbcd0d9a5f31db4ed9d274e4339ffa4e": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the life and death of a notable individual, but without more details, it's hard to judge how much depth or insight it offers.",
+    "source": "gpt"
   }
 }
