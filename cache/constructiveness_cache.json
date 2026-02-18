@@ -30098,5 +30098,160 @@
     "score": 0.6,
     "reason": "This story provides some insight into a controversial strategy in sports, potentially informing readers' understanding of the topic. However, it doesn't report on any solutions or improvements, nor does it provide a clear sense of agency for the reader.",
     "source": "gpt"
+  },
+  "e14d984bb71b3b21f0f730e44a2e6313": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ef7659276c9d0be8fc7c8e4410bdd01d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1014e9a56f5f9c67e3505dab44114c18": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: may); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "bd20110dd221681b6fedd85153cbfdec": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "cb1b4e23424a8d22201896dca82fbee9": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "212cbd7a2c114064f6a6031d386ed7ce": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9a16a68ad63a2362ec76e3ef8f8c8ff3": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "41d1fe945f47ea00a1fe33f24aae7fb7": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "340dfeed6144bd9ff4d74167e1636b0a": {
+    "score": 0.017,
+    "reason": "keywords (1): effort; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "cad86bfe29892c3b626917d5f44419ad": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5f607094f7c3f3d5df90e12ba5462066": {
+    "score": 0.082,
+    "reason": "keywords (1): invest; actions: pledge; semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "87980ca041d095f54ae9e3a5a011e13d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "c7dccd0eed795a28e1a087fc7e2920b1": {
+    "score": 0.017,
+    "reason": "actions: commit; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "46cc4552872a1ce2f6c93324a43d9b3f": {
+    "score": 0.025,
+    "reason": "keywords (1): plan; actions: plan; speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "45be302e9d5c686e73e69066da740d8b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "fff6ebfc359f3f3f84d172bc0970259d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "c37f99afd484742ea859914f9fa4da3c": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness of a political development but does not offer much depth or insight into the implications, the candidate's platform, or the political landscape in which this is happening.",
+    "source": "gpt"
+  },
+  "c82ca7f97894f7dc035035257d7cec0b": {
+    "score": 0.6,
+    "reason": "This story informs about a significant political event, potentially contributing to the reader's understanding of the political climate in Peru. However, without more context or details about the allegations, the story's usefulness is limited.",
+    "source": "gpt"
+  },
+  "082afee7ad863ac5f02d17d726fed6be": {
+    "score": 0.7,
+    "reason": "This story provides useful information about a lawsuit and its implications for national parks and public knowledge. However, without more information about the specifics of the lawsuit or the evidence behind the claims, the story's full potential for constructive value is not realized.",
+    "source": "gpt"
+  },
+  "e44ba89d587c201ef48b4438a663afa4": {
+    "score": 0.6,
+    "reason": "This story provides useful information about international relations and security issues, which can help readers understand the geopolitical landscape. However, it does not report on solutions or improvements, and the depth of the information provided is not clear from the title and fingerprint alone.",
+    "source": "gpt"
+  },
+  "e3b199aca18ae10919414477258f49f7": {
+    "score": 0.5,
+    "reason": "This story offers basic awareness about a territorial dispute between Cambodia and Thailand, but does not provide deeper insight or actionable insights. It also does not report on solutions or improvements to the situation.",
+    "source": "gpt"
+  },
+  "64bd9e641995f58ef7d5b5a0f42ed636": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a change in leadership at the European Central Bank, but does not provide deeper insight into the implications of this change or any actionable insights for readers. It also does not report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "56d71b08a3c789870b9324341901ead7": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the Pentagon's actions, but it does not offer any in-depth analysis or insight into the broader context or implications. It also does not report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "4bde888caff4bebbc4c1b97505f7b6fe": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the ongoing conflict in the West Bank, but it lacks depth or insight into the causes, impacts, or potential solutions. It is more of a reactive report than a constructive one.",
+    "source": "gpt"
+  },
+  "17a74b3258e59784c0c0a3e6fc82be64": {
+    "score": 0.6,
+    "reason": "This story informs about an important event - the resumption of peace talks, which is a potential step towards resolving the conflict. However, without more information on the content and potential outcomes of these talks, the story only provides a moderate level of usefulness and awareness.",
+    "source": "gpt"
+  },
+  "3658b684e9726079c1744caff61dfa47": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a cultural event but doesn't offer much depth or insight into its significance, history, or impact.",
+    "source": "gpt"
+  },
+  "373396cfc7e827e179c1300b6b7f572e": {
+    "score": 0.6,
+    "reason": "While the topic is negative, the story informs readers about the severity of the Epstein abuses as seen by a UN panel. However, it doesn't provide solutions or progress towards addressing such abuses.",
+    "source": "gpt"
+  },
+  "041309b9f2f1bd50652d19b4be18c230": {
+    "score": 0.3,
+    "reason": "This story provides minimal awareness about an ongoing investigation but lacks depth or insight into the significance of the DNA testing or its potential impact on the case.",
+    "source": "gpt"
+  },
+  "bfec53b63891add70999fedb23932a80": {
+    "score": 0.5,
+    "reason": "This story raises basic awareness about the international response to Israeli actions in the West Bank. However, without more context or detail, it doesn't provide much depth or insight into the situation.",
+    "source": "gpt"
+  },
+  "007dc7a0cc831481d4defbe0736473fb": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about a geopolitical event, but without any analysis or explanation of the implications, it doesn't offer much in terms of usefulness or progress.",
+    "source": "gpt"
+  },
+  "332206fbf778f6eb592a543245947edc": {
+    "score": 0.6,
+    "reason": "This story offers a useful perspective on a lesser-known aspect of the Olympics, providing readers with a deeper understanding of what goes on behind the scenes. However, it doesn't necessarily report on solutions, improvements, or innovations.",
+    "source": "gpt"
   }
 }
