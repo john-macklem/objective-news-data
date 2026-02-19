@@ -30548,5 +30548,165 @@
     "score": 0.6,
     "reason": "This story reports on a legal action against a company for discriminatory practices, which increases awareness about workplace equality issues. However, it does not report on solutions or improvements, nor does it provide actionable insights for the reader.",
     "source": "gpt"
+  },
+  "bec3d9f194ed4412d3c93f696a351ccd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "629e8d95d16b29b18a45e03059d9efcb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7ef23ae37838fa5d54ff671956b193cb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "ac0dd8868ece76c4ed59b3da80c2553c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3eb7c1bc4fbef2ca9319d566e18233b8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "a905d357de7606bc616ae47d82534e6e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "de87f378121fc1d25a5cc78f1689edd7": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1cfb58f3a73ca415a82ff64c2a10e1af": {
+    "score": 0.06,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e933ec5f631417dd71f35e6eaaf13221": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: ban); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "97741cfb099d629655d7c6fb92143703": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "1c867a5454daa3125ffbcef127dc3b8a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "3e91318160add9bf33a5935b4b8759e8": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6a67e96ea5abd0e838c3efe590025476": {
+    "score": 0.017,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "5d48e342c347ab40ac8d873f16390f62": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "17e13d663dc29c34ef60a84d22007b79": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: risk); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "4b9c0f522612564c4546c2e389a0948f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "8efe4c7272aaa7e76a268cd1f904a6a6": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6ad6f0e5ab8e5af1be3717c714199aec": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the stance of President Trump on Iran's nuclear program. However, it lacks depth and doesn't provide actionable insights or deeper understanding about the issue.",
+    "source": "gpt"
+  },
+  "05b39a0bd8573ba2a75cbec84087f096": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a speech given by Secretary Rubio. However, without any details or context about the remarks, it doesn't provide any actionable insights or deeper understanding.",
+    "source": "gpt"
+  },
+  "683e45bfa14ed3b5f36ecc78db538767": {
+    "score": 0.6,
+    "reason": "This story informs about an intelligence report, providing a useful insight into the ongoing conflict between Russia and Ukraine. However, it doesn't report on any solutions or improvements, nor does it provide a clear understanding of the systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "0d2236e05b57741f752aacce32c33485": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the political situation in South Korea, but it doesn't offer much depth or insight into the broader implications or the causes of the situation.",
+    "source": "gpt"
+  },
+  "3e25060d659ee6878a00d645492b545c": {
+    "score": 0.6,
+    "reason": "This story informs readers about the controversy surrounding Bill Gates at the India AI summit, providing some context about the Epstein fallout. However, it doesn't provide actionable insights or a clear understanding of the impacts.",
+    "source": "gpt"
+  },
+  "eceb4654b2aa976b7282cbbbbd30c613": {
+    "score": 0.6,
+    "reason": "This story informs readers about a new bill in Indiana, providing some context about the intention to lure the Bears from Chicago. However, it doesn't provide deeper understanding or insights into the potential impacts or the reasoning behind this decision.",
+    "source": "gpt"
+  },
+  "0964a21b6846767d929332fd627963ad": {
+    "score": 0.4,
+    "reason": "This story seems to be focused on conflict and scandal, which can be sensational. However, it does provide some awareness about the political dynamics and the Epstein case.",
+    "source": "gpt"
+  },
+  "29048763084a7fb5408d96d8c6a5e2a8": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a criminal case in France. However, without more context or analysis, it doesn't offer much depth or insight for the reader.",
+    "source": "gpt"
+  },
+  "9eb1d275382cf68515099deca6970397": {
+    "score": 0.5,
+    "reason": "This story provides some awareness about the business practices of a major corporation. However, it's unclear how this information is useful or actionable for the reader.",
+    "source": "gpt"
+  },
+  "e356531c784413bc1b5949119327aa74": {
+    "score": 0.6,
+    "reason": "This story increases awareness about a serious human rights issue and provides some depth on the situation. However, it does not provide actionable insights or report on solutions to the problem.",
+    "source": "gpt"
+  },
+  "1400681e7a459f783edaf9a27f43a9c5": {
+    "score": 0.5,
+    "reason": "The story provides basic awareness about the ongoing investigation into a high-profile case. However, it lacks depth and does not provide actionable insights or highlight progress or solutions.",
+    "source": "gpt"
+  },
+  "4c8bacc4765c9c5ce046c12e4b0e9cfd": {
+    "score": 0.8,
+    "reason": "This story provides useful information about security plans in a conflict zone, contributing to the reader's understanding of the situation. It also reports on attempts to solve a problem, but it does not provide a clear sense of progress or solutions.",
+    "source": "gpt"
+  },
+  "8a7f0c66871e9b54b5948970d48047ab": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a crime incident but does not offer any depth or insights that could contribute to the reader's understanding or decision-making.",
+    "source": "gpt"
+  },
+  "b89966fe1263bbc52fce472cca6cce57": {
+    "score": 0.6,
+    "reason": "This story informs about a legal issue involving a major corporation and gender discrimination, which could be useful for readers interested in corporate ethics and equality issues. However, it does not report on solutions or improvements.",
+    "source": "gpt"
+  },
+  "bd415d235e40e7a9b6d32215ab0d8c80": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about an ongoing investigation involving a high-profile figure, but lacks depth or insights that could contribute to the reader's understanding or decision-making.",
+    "source": "gpt"
   }
 }
