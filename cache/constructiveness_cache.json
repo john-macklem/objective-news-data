@@ -31628,5 +31628,150 @@
     "score": 0.3,
     "reason": "This story informs readers of a tragic event but does not provide actionable insights or deeper understanding. It does not report on solutions, improvements, or attempts to solve problems, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
     "source": "gpt"
+  },
+  "48b42471fdb59a83aa20b355f01c51fb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "d6eccdcdb566a5b6fb30581aea5fe14e": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "8cc775a792cbdcf193d1130c89122e5d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "762dc006cff8495a452cd3ff804e78bb": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "f3f0592c31968e42ddb8cac59f0812ee": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: violence); speculative_penalty=0.06 (tokens: fear); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "f26d176b26663b19376eafd239bdcaca": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9b88b9bdcd5b5ce4db06c1fd39ac9a1a": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: uncertainty); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "56fdfe9c9366c47655566c49fbdb9b86": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e4e02dc23a0de9de176357e5a53d971d": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.08 (keywords: violence); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "dc7ff27830ca377cb195bc172fbc6bb2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "82b52e658b8f82cb37b7dc72b0358f4e": {
+    "score": 0.03,
+    "reason": "actions: commit; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e079494df217cf7cc97fdc4fc06188c2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "550abca5c82f469894a4b72e75f2e426": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "6d9061a6a06488c596641e61202a156d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.85 (<35 tokens)",
+    "source": "heuristic"
+  },
+  "91d06282e23ba9f345b763501e1ed066": {
+    "score": 0.6,
+    "reason": "The story provides useful information about the ongoing trade tensions between the U.S. and Europe. However, it doesn't offer a deep insight into the potential solutions or the broader impacts of these tensions.",
+    "source": "gpt"
+  },
+  "acc14363fde2c9f3d51c4161ae4f809f": {
+    "score": 0.5,
+    "reason": "The story offers basic awareness about the impact of the tariff threat on global trade and currency values. However, it lacks depth and doesn't provide actionable insights for the reader.",
+    "source": "gpt"
+  },
+  "ae4a044b2870c42f9ee7af1808488884": {
+    "score": 0.6,
+    "reason": "The story informs about a significant legal decision in Hong Kong. It helps to understand the current political climate in the region, but it doesn't provide insights into potential solutions or the broader implications of this decision.",
+    "source": "gpt"
+  },
+  "3629e0cec78e9fecbbeb348100a3e960": {
+    "score": 0.6,
+    "reason": "This story informs readers about a current international event, providing context about the ongoing trade tensions between the US and China. However, it does not provide actionable insights or highlight any solutions to the problem.",
+    "source": "gpt"
+  },
+  "ed686beda87b49a8fc76d1e72dba873e": {
+    "score": 0.3,
+    "reason": "While the story provides basic awareness of a violent event, it does not offer in-depth analysis, actionable insights, or potential solutions to the conflict. It is mostly reactive and does not contribute significantly to the reader's understanding of the larger context.",
+    "source": "gpt"
+  },
+  "5720a45f5e935ccd7b6e4129a8a27824": {
+    "score": 0.7,
+    "reason": "This story informs readers about a specific operation against a criminal organization, which can contribute to a deeper understanding of international cooperation in crime fighting. However, it does not provide a broader perspective on the systemic issues related to drug cartels or potential solutions to these problems.",
+    "source": "gpt"
+  },
+  "b37916e5dbf660d5d26e6d79ba28b22c": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the end of the Winter Games but does not offer in-depth insights or actionable information for the reader.",
+    "source": "gpt"
+  },
+  "49d4375544c6e7dce653480c7379c78d": {
+    "score": 0.3,
+    "reason": "The story offers basic awareness about the result of the BAFTA film awards. However, it lacks depth or insight into the significance of the award or the film that won.",
+    "source": "gpt"
+  },
+  "caf01a713a0ad8830b8563f5ddc144ac": {
+    "score": 0.5,
+    "reason": "The story raises awareness about the issue of narco violence and its impact on individuals from Chicago. However, it does not provide actionable insights or report on solutions to the problem.",
+    "source": "gpt"
+  },
+  "e146eab743ce17c16ae5dba84c9f0217": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a historical event, but it doesn't provide depth or insight into its significance, impact, or context.",
+    "source": "gpt"
+  },
+  "d20d03b4d593b2370a80e093e62c6c3e": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the winners of the Baftas, but it doesn't provide any deeper understanding or insight about the significance of their wins, their work, or the Baftas itself.",
+    "source": "gpt"
+  },
+  "774aee47fc15f1b583d4d73ae5319222": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about the outcome of a sporting event, but it doesn't provide any deeper understanding or insight about the significance of the win, the athletes, or the sport itself.",
+    "source": "gpt"
+  },
+  "d53869853b7e459f3e1620dfe4247c7f": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a significant event and the U.S. role in it, which can help readers understand international relations and security issues. However, without more context or discussion of potential impacts or solutions, it doesn't fully meet the criteria for progress or awareness.",
+    "source": "gpt"
+  },
+  "bc6c42dfd3c063ef0368151ca1018b8d": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a sports-related event, but it doesn't offer much depth or insight beyond that. It doesn't contribute to readers' understanding of broader trends, systems, or impacts.",
+    "source": "gpt"
+  },
+  "03e2a6adbe03ddbe9ce234bbb45efcfb": {
+    "score": 0.2,
+    "reason": "This story is primarily entertainment-focused and doesn't provide much in the way of actionable insights or deeper understanding. It doesn't report on solutions, improvements, or innovations, nor does it increase clarity around systems, causes, trends, or impacts that matter.",
+    "source": "gpt"
   }
 }
