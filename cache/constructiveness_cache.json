@@ -32388,5 +32388,160 @@
     "score": 0.5,
     "reason": "While the story provides some awareness about the situation surrounding the World Cup in Mexico, it lacks in-depth information or insights that could help readers understand the broader context or potential solutions to the problem of violence.",
     "source": "gpt"
+  },
+  "846825696566414b3a55150ef6a128ee": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6fe23e5a40ebc3046b01c3f8408ca374": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "715b801193649a541dc019d090e49617": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "82194f5a29bd38ba855a09b3f2393cd1": {
+    "score": 0.03,
+    "reason": "actions: schedule; semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "df4d0f416087291badfbf8d7ca278d34": {
+    "score": 0.03,
+    "reason": "keywords (1): grant; semantic: pos_sim=0.00, neg_sim=0.09; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5eb50bd0995d433eb06c23006d0a030e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "b1a0161ec9938fd17c96316a5bfb0597": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7b0c2ed2fe775eac817bc9c0a26dc82e": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3e2f88593f2220f2aec0cff6329f9c14": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "9fe4ca6f6f2244ed8aafcfbcd7d9a277": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1f00334cce1bdc79482d8bfd31e3510d": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: risk); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "df884f6db81559284f28c4785a76f39d": {
+    "score": 0.062,
+    "reason": "keywords (1): plan; actions: build, plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3fde3ffae4b265e5fa5f32b1a91ac45f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "5dd58b6b4072f0f53ee2ac5654e6346f": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "1e6473167c7e7b2d6387b2c271182e3a": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a25897fd7c6d17986c5da01f881d672c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0 (<6 tokens)",
+    "source": "heuristic"
+  },
+  "fda00ab61d32ed86cdcf7e7633397ff8": {
+    "score": 0.7,
+    "reason": "This story provides useful information about the State of the Union, which can help readers understand the current political climate. However, without a summary or more context, it's hard to say whether it reports on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "0fe860d37c9e599836211f28fd09447b": {
+    "score": 0.6,
+    "reason": "This story provides insights into the actions of a high-profile individual, which can be useful for understanding the broader context of their actions. However, without a summary or more context, it's hard to say whether it provides actionable insights or deeper understanding.",
+    "source": "gpt"
+  },
+  "9a21eedc7be8c8dbfa661c9720d0e1e2": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a controversial issue, but without a summary or more context, it's hard to say whether it provides deeper insights or understanding.",
+    "source": "gpt"
+  },
+  "69b701300a8c605c012772a4daa13dbe": {
+    "score": 0.8,
+    "reason": "This story is constructive as it increases awareness about the Spanish government's efforts to provide transparency and dispel conspiracy theories. It does not, however, provide actionable insights or report on solutions.",
+    "source": "gpt"
+  },
+  "72332e3708026c2d71748056cf213bf4": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about a disagreement within the UK government, but it does not provide deeper insights or report on solutions, improvements, or attempts to solve problems.",
+    "source": "gpt"
+  },
+  "90e5b29aa41f7ef2234dd22a12669619": {
+    "score": 0.3,
+    "reason": "This story is primarily reactive, focusing on the uncertainty around Trump's plans for Iran. It does not provide actionable insights, report on solutions, or increase clarity around systems, causes, trends, or impacts.",
+    "source": "gpt"
+  },
+  "61d90cabdee7f3483ad8e0561562d8c8": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness of a sports event, but without additional context or details, it provides minimal depth or insight.",
+    "source": "gpt"
+  },
+  "1580da6b79db6e0eff73b18b8ee51416": {
+    "score": 0.6,
+    "reason": "The story informs about an investigation into a broadcast incident, which could potentially lead to improvements in broadcasting standards. However, without more details, the usefulness of the story is limited.",
+    "source": "gpt"
+  },
+  "96820dd9beaf9c5d1e8bca0fa08c6cc1": {
+    "score": 0.8,
+    "reason": "This story provides important information about press killings, raising awareness about a significant issue. However, it does not provide solutions or progress towards resolving the issue.",
+    "source": "gpt"
+  },
+  "bbd1972dc7a11ec2f2ba7cd68d9f9023": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a significant legal decision in Brazil, which could impact future political and legal actions. However, without more context or analysis, it does not offer a deeper understanding of the broader implications.",
+    "source": "gpt"
+  },
+  "9a706701e31ceea459e2624713e59888": {
+    "score": 0.8,
+    "reason": "This story informs readers about a significant geopolitical development, potentially impacting international relations. It also poses a question that encourages readers to think about the potential implications, providing a useful context.",
+    "source": "gpt"
+  },
+  "2f036e8298db1218476334c11ba70f27": {
+    "score": 0.3,
+    "reason": "While this story reports on a crime and its legal outcome, it does not provide actionable insights, solutions, or a deeper understanding of the broader societal issues involved. It seems more focused on the sensational aspects of the crime.",
+    "source": "gpt"
+  },
+  "7a4c0370f1afcbae636f524e32d4ae92": {
+    "score": 0.6,
+    "reason": "This story provides useful information about the ongoing diplomatic relations between Iran and the US. However, it lacks depth and doesn't provide any potential solutions or progress in the negotiation.",
+    "source": "gpt"
+  },
+  "a70e32cbe011c19a344849fe06101f68": {
+    "score": 0.5,
+    "reason": "The story raises awareness about the financial struggles of Aston Martin, but it doesn't provide any actionable insights for the reader or report on any solutions or improvements.",
+    "source": "gpt"
+  },
+  "b3b8fc90acaf858ec58467f63cf46578": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about the current status of the Champions League, but it doesn't provide any deeper understanding or insight. It is more of an entertainment news than a constructive one.",
+    "source": "gpt"
   }
 }
