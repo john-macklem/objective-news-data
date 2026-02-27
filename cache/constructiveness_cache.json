@@ -32873,5 +32873,165 @@
     "score": 0.6,
     "reason": "This story provides information about Nvidia's situation, offering some insight to the reader. However, it doesn't report on solutions, improvements, or attempts to solve problems, and the depth of information could be improved.",
     "source": "gpt"
+  },
+  "8b184f30de82c01adb5550bd895777f7": {
+    "score": 0.0,
+    "reason": "negative_penalty=0.15 (keywords: attack, deadly); semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "b46525710a571cf65cd4fcf2fb7286e1": {
+    "score": 0.03,
+    "reason": "actions: draft; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "aaad04dc0dce8ca0b9bb2720295b4f5b": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "4dfef1aac9cdca02f020dbe3df74a022": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "71c97284282c4785242bfc3e6560c256": {
+    "score": 0.05,
+    "reason": "semantic: pos_sim=0.20, neg_sim=0.00; semantic_boost=0.05; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "a5f8422e9040ac8a3833b7e56397cbc3": {
+    "score": 0.03,
+    "reason": "actions: sign; semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "6f8e9b67eb07ed67cfd1e4d1c646bedc": {
+    "score": 0.08,
+    "reason": "keywords (1): plan; actions: plan; semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7eaab3f1b529902b96f958cec545f1cf": {
+    "score": 0.022,
+    "reason": "semantic: pos_sim=0.09, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "10ffdba37df565d99952cbce0e84eb27": {
+    "score": 0.019,
+    "reason": "semantic: pos_sim=0.08, neg_sim=0.00; semantic_boost=0.02; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "7f07603e18253493b3bf781c73462b3c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.10; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "cc1bf8d9fdbf5406ba83cf0509d65ff5": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3dfc4bf3cdc4b35e82fb17df8779a7fd": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "baa26743aed07606e2a752a15dc4a08c": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.60 (<20 tokens)",
+    "source": "heuristic"
+  },
+  "e58efc8fb0b4cf81dabff5260040453d": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3f85ed56d634d18b980293f40e369977": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "9d2820ab653684a35fee74b58b6a98e2": {
+    "score": 0.0,
+    "reason": "semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "3f843c1c208e4a1a579cc50e9a7934c4": {
+    "score": 0.0,
+    "reason": "speculative_penalty=0.03 (tokens: could); semantic: pos_sim=0.00, neg_sim=0.00; length_penalty=0.35 (<12 tokens)",
+    "source": "heuristic"
+  },
+  "37342a065ef20fd6d53d52495dbfa622": {
+    "score": 0.3,
+    "reason": "This story provides basic awareness about a controversy involving a US Olympian and a White House AI video. However, without a summary or further details, it's difficult to assess its depth or insight.",
+    "source": "gpt"
+  },
+  "b67d741a1c32bafa9ec79c2b6cef46bb": {
+    "score": 0.3,
+    "reason": "This story offers basic awareness about Hillary Clinton's testimony and her accusations against the GOP. However, without more context or information about the implications of this testimony, it doesn't provide much depth or insight.",
+    "source": "gpt"
+  },
+  "f9f0c3dab96c5a6519b48d8a11499dea": {
+    "score": 0.6,
+    "reason": "This story provides useful information about a specific incident involving the US military and a Border Protection drone. It could contribute to a deeper understanding of the technologies and strategies used by the military. However, without more details or context, it's hard to assess its full value.",
+    "source": "gpt"
+  },
+  "0d8232dd1da4e0253ba783e57e220f6e": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about the political shift in the U.K. However, without additional context or analysis, it doesn't offer deep insights or useful information for decision making.",
+    "source": "gpt"
+  },
+  "dff0a34fd781f5691189c7074616067a": {
+    "score": 0.5,
+    "reason": "This story also provides basic awareness about the political change in Gorton and Denton. However, it lacks depth and context about the implications of this change, making it less useful for readers.",
+    "source": "gpt"
+  },
+  "a7b890433390594dee75f13650704673": {
+    "score": 0.8,
+    "reason": "This story provides useful context about North Korea's political system and potential succession plans. It increases clarity around a system that is often opaque to outsiders, contributing to the reader's understanding.",
+    "source": "gpt"
+  },
+  "120fa0bd410ebe28d344416dba0b3518": {
+    "score": 0.4,
+    "reason": "This story provides basic awareness about the outcome of a sports event. However, it lacks depth or insight into the strategies used, player performance, or implications for future games.",
+    "source": "gpt"
+  },
+  "bac45239bcaced7ef135659714598778": {
+    "score": 0.7,
+    "reason": "The story informs about an important geopolitical event, potentially deepening understanding of U.S.-Iran relations. However, without details on the options discussed or their potential implications, its usefulness is somewhat limited.",
+    "source": "gpt"
+  },
+  "fdbf00bf02bbee05f7ecd66c8a3dff5e": {
+    "score": 0.6,
+    "reason": "This story raises awareness about a significant incident and its potential political implications. However, without further context or analysis, it provides limited insight into the broader situation or potential outcomes.",
+    "source": "gpt"
+  },
+  "821f3960ff2b5205b0c4602c75566510": {
+    "score": 0.8,
+    "reason": "This story is constructive as it informs readers about the introduction of a fully functioning Google Maps in South Korea. This could be useful for readers in South Korea, or those planning to travel there, in terms of decision-making and navigation.",
+    "source": "gpt"
+  },
+  "cb78c0d5747e8107aba4ec53f978a191": {
+    "score": 0.5,
+    "reason": "This story provides basic awareness about an incident involving the US military and a government drone. However, it does not provide much depth or insight into the broader implications or context of the incident.",
+    "source": "gpt"
+  },
+  "28a2440f575e8946b77ab1279f23b9e9": {
+    "score": 0.6,
+    "reason": "This story informs readers about a significant decision by a major tech company, potentially affecting thousands of employees. It provides useful context about the increasing adoption of AI in the tech industry. However, it does not report on solutions or improvements to the potential job losses.",
+    "source": "gpt"
+  },
+  "eceeec2d60c231f6ffd1c9704ad6b4ff": {
+    "score": 0.5,
+    "reason": "This story raises awareness about a legal case involving international relations and human rights, but it doesn't provide enough information for the reader to gain a deeper understanding or actionable insights.",
+    "source": "gpt"
+  },
+  "8aca2b292c64cdd38df5be22de5be3df": {
+    "score": 0.6,
+    "reason": "The story provides useful information about a specific incident involving immigration enforcement, potentially contributing to a broader understanding of immigration issues. However, it lacks details on solutions or improvements.",
+    "source": "gpt"
+  },
+  "f80423630d407c52a82edc253e3fdff7": {
+    "score": 0.8,
+    "reason": "This story provides useful information that could influence readers' financial decisions. It reports on a change in mortgage rates, which is a form of progress, but it doesn't offer insights into the causes or impacts of this change.",
+    "source": "gpt"
   }
 }
